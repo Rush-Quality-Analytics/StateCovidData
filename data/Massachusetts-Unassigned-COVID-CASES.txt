@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+292	Unassigned	24	US	3	0.0	0.0	Massachusetts	0	03/22/2020
+2865	Unassigned	53	US	7	0.0	0.0	Massachusetts	0	03/23/2020
+2866	Unassigned	85	US	9	0.0	0.0	Massachusetts	0	03/24/2020
+2866	Unassigned	159	US	9	0.0	0.0	Massachusetts	0	03/25/2020
+2865	Unassigned	267	US	9	0.0	0.0	Massachusetts	0	03/26/2020
+2867	Unassigned	303	US	9	0.0	0.0	Massachusetts	0	03/27/2020
+2867	Unassigned	356	US	9	0.0	0.0	Massachusetts	0	03/28/2020
+2868	Unassigned	460	US	9	0.0	0.0	Massachusetts	0	03/29/2020
+2869	Unassigned	489	US	9	0.0	0.0	Massachusetts	0	03/30/2020
+1942	Unassigned	333	US	9	0.0	0.0	Massachusetts	0	03/31/2020
+1988	Unassigned	251	US	9	0.0	0.0	Massachusetts	0	04/01/2020
+2060	Unassigned	270	US	9			Massachusetts	0	04/02/2020
+2106	Unassigned	213	US	9			Massachusetts	0	04/03/2020
+2159	Unassigned	274	US	9			Massachusetts	0	04/04/2020
+2233	Unassigned	215	US	9			Massachusetts	0	04/05/2020
+2271	Unassigned	246	US	10			Massachusetts	0	04/06/2020
+2318	Unassigned	229	US	11			Massachusetts	0	04/07/2020
+2341	Unassigned	223	US	13			Massachusetts	0	04/08/2020
+2367	Unassigned	203	US	83			Massachusetts	0	04/09/2020
+2391	Unassigned	129	US	179			Massachusetts	0	04/10/2020
+2416	Unassigned	225	US	13			Massachusetts	0	04/11/2020
+2438	Unassigned	373	US	12			Massachusetts	0	04/12/2020
+2452	Unassigned	447	US	100			Massachusetts	0	04/13/2020
+2462	Unassigned	506	US	100			Massachusetts	0	04/14/2020
+2474	Unassigned	572	US	14			Massachusetts	0	04/15/2020
+2488	Unassigned	638	US	14			Massachusetts	0	04/16/2020
+2490	Unassigned	760	US	16			Massachusetts	0	04/17/2020
+2497	Unassigned	733	US	19			Massachusetts	0	04/18/2020
+2514	Unassigned	815	US	20			Massachusetts	0	04/19/2020
+2523	Unassigned	815	US	20			Massachusetts	0	04/20/2020
+2532	Unassigned	929	US	8			Massachusetts	0	04/21/2020
+2539	Unassigned	854	US	229			Massachusetts	0	04/22/2020
+2556	Unassigned	737	US	407			Massachusetts	0	04/23/2020
+2562	Unassigned	791	US	603			Massachusetts	0	04/24/2020
+2567	Unassigned	753	US	13			Massachusetts	0	04/25/2020
+2575	Unassigned	807	US	141			Massachusetts	0	04/26/2020
+2582	Unassigned	795	US	8			Massachusetts	0	04/27/2020
+2591	Unassigned	625	US	5			Massachusetts	0	04/28/2020
+2596	Unassigned	457	US	5			Massachusetts	0	04/29/2020
+2602	Unassigned	415	US	5			Massachusetts	0	04/30/2020
+2612	Unassigned	397	US	6			Massachusetts	0	05/01/2020
+2616	Unassigned	377	US	4			Massachusetts	0	05/02/2020
+2621	Unassigned	981	US	7			Massachusetts	0	05/03/2020
+2624	Unassigned	662	US	7			Massachusetts	0	05/04/2020
+2632	Unassigned	594	US	7			Massachusetts	0	05/05/2020
+2638	Unassigned	326	US	3			Massachusetts	0	05/06/2020
+2645	Unassigned	328	US	3			Massachusetts	0	05/07/2020
+2652	Unassigned	297	US	3			Massachusetts	0	05/08/2020
+2654	Unassigned	288	US	3			Massachusetts	0	05/09/2020
+2656	Unassigned	302	US	5			Massachusetts	0	05/10/2020
+2656	Unassigned	287	US	5			Massachusetts	0	05/11/2020
+2659	Unassigned	273	US	4			Massachusetts	0	05/12/2020
+2660	Unassigned	264	US	4			Massachusetts	0	05/13/2020
+2662	Unassigned	300	US	3			Massachusetts	0	05/14/2020
+2667	Unassigned	285	US	2			Massachusetts	0	05/15/2020
+2671	Unassigned	309	US	3			Massachusetts	0	05/16/2020
+2674	Unassigned	315	US	3			Massachusetts	0	05/17/2020
+2676	Unassigned	312	US	3			Massachusetts	0	05/18/2020
+2680	Unassigned	288	US	3			Massachusetts	0	05/19/2020
+2686	Unassigned	294	US	3			Massachusetts	0	05/20/2020
+2688	Unassigned	304	US	3			Massachusetts	0	05/21/2020
+2695	Unassigned	296	US	3			Massachusetts	0	05/22/2020
+2697	Unassigned	319	US	3			Massachusetts	0	05/23/2020
+2700	Unassigned	308	US	4			Massachusetts	0	05/24/2020
+2701	Unassigned	311	US	4			Massachusetts	0	05/25/2020
+2702	Unassigned	297	US	4			Massachusetts	0	05/26/2020
+2705	Unassigned	309	US	5			Massachusetts	0	05/27/2020
+2708	Unassigned	318	US	6			Massachusetts	0	05/28/2020
+2711	Unassigned	289	US	6			Massachusetts	0	05/29/2020
+2713	Unassigned	336	US	6			Massachusetts	0	05/30/2020
+2714	Unassigned	296	US	7			Massachusetts	0	05/31/2020
+2716	Unassigned	340	US	14			Massachusetts	0	06/01/2020
+2721	Unassigned	319	US	12			Massachusetts	0	06/02/2020
+2723	Unassigned	307	US	12			Massachusetts	0	06/03/2020
+2724	Unassigned	310	US	10			Massachusetts	0	06/04/2020
+2728	Unassigned	313	US	7			Massachusetts	0	06/05/2020
+2730	Unassigned	297	US	8			Massachusetts	0	06/06/2020
+2730	Unassigned	292	US	8			Massachusetts	0	06/07/2020
+2730	Unassigned	309	US	8			Massachusetts	0	06/08/2020
+2732	Unassigned	299	US	10			Massachusetts	0	06/09/2020
+2734	Unassigned	297	US	10			Massachusetts	0	06/10/2020
+2736	Unassigned	304	US	10			Massachusetts	0	06/11/2020
+2750	Unassigned	298	US	10			Massachusetts	0	06/12/2020
+2753	Unassigned	307	US	10			Massachusetts	0	06/13/2020
+2753	Unassigned	308	US	10			Massachusetts	0	06/14/2020
+2757	Unassigned	311	US	10			Massachusetts	0	06/15/2020
+2755	Unassigned	307	US	9			Massachusetts	0	06/16/2020
+2757	Unassigned	306	US	9			Massachusetts	0	06/17/2020
+2757	Unassigned	308	US	10			Massachusetts	0	06/18/2020
+2758	Unassigned	296	US	10			Massachusetts	0	06/19/2020
+2762	Unassigned	297	US	10			Massachusetts	0	06/20/2020
+2762	Unassigned	303	US	10			Massachusetts	0	06/21/2020
+2765	Unassigned	300	US	10			Massachusetts	0	06/22/2020
+2770	Unassigned	288	US	8			Massachusetts	0	06/23/2020
+2782	Unassigned	290	US	8			Massachusetts	0	06/24/2020
+2787	Unassigned	283	US	6			Massachusetts	0	06/25/2020
+2788	Unassigned	285	US	7			Massachusetts	0	06/26/2020
+2789	Unassigned	289	US	7			Massachusetts	0	06/27/2020
+2789	Unassigned	287	US	7			Massachusetts	0	06/28/2020
+2791	Unassigned	288	US	7			Massachusetts	0	06/29/2020
+2793	Unassigned	288	US	7			Massachusetts	0	06/30/2020
+2795	Unassigned	288	US	7			Massachusetts	0	07/01/2020
+2798	Unassigned	287	US	7			Massachusetts	0	07/02/2020
+2803	Unassigned	292	US	7			Massachusetts	0	07/03/2020
+2804	Unassigned	291	US	7			Massachusetts	0	07/04/2020
+2805	Unassigned	291	US	7			Massachusetts	0	07/05/2020
+2808	Unassigned	292	US	7			Massachusetts	0	07/06/2020
+2809	Unassigned	294	US	7			Massachusetts	0	07/07/2020
+2812	Unassigned	298	US	7			Massachusetts	0	07/08/2020
+2811	Unassigned	297	US	7			Massachusetts	0	07/09/2020
+2815	Unassigned	294	US	7			Massachusetts	0	07/10/2020
+2816	Unassigned	300	US	7			Massachusetts	0	07/11/2020
+2818	Unassigned	300	US	7			Massachusetts	0	07/12/2020
+2819	Unassigned	299	US	7			Massachusetts	0	07/13/2020
+2825	Unassigned	301	US	7			Massachusetts	0	07/14/2020
+2826	Unassigned	303	US	7			Massachusetts	0	07/15/2020
+2828	Unassigned	317	US	7			Massachusetts	0	07/16/2020
+2828	Unassigned	316	US	6			Massachusetts	0	07/17/2020
+2901	Unassigned	319	US	6			Massachusetts	0	07/18/2020
+2901	Unassigned	314	US	6			Massachusetts	0	07/19/2020
+2825	Unassigned	317	US	6			Massachusetts	0	07/20/2020
+2905	Unassigned	311	US	6			Massachusetts	0	07/21/2020
+2906	Unassigned	315	US	6			Massachusetts	0	07/22/2020
+2909	Unassigned	321	US	6			Massachusetts	0	07/23/2020
+2908	Unassigned	328	US	6			Massachusetts	0	07/24/2020
+2909	Unassigned	323	US	6			Massachusetts	0	07/25/2020
+2910	Unassigned	325	US	6			Massachusetts	0	07/26/2020
+2910	Unassigned	328	US	6			Massachusetts	0	07/27/2020
+2910	Unassigned	327	US	6			Massachusetts	0	07/28/2020
+2914	Unassigned	334	US	6			Massachusetts	0	07/29/2020
+2914	Unassigned	335	US	6			Massachusetts	0	07/30/2020
+2916	Unassigned	307	US	6			Massachusetts	0	07/31/2020
+2916	Unassigned	303	US	6			Massachusetts	0	08/01/2020
+2916	Unassigned	306	US	6			Massachusetts	0	08/02/2020
+2916	Unassigned	303	US	6			Massachusetts	0	08/03/2020
+2916	Unassigned	318	US	6			Massachusetts	0	08/04/2020
+2920	Unassigned	342	US	6			Massachusetts	0	08/05/2020
+2920	Unassigned	308	US	6			Massachusetts	0	08/06/2020
+2920	Unassigned	314	US	6			Massachusetts	0	08/07/2020
+2920	Unassigned	316	US	6			Massachusetts	0	08/08/2020
+2920	Unassigned	325	US	6			Massachusetts	0	08/09/2020
+2920	Unassigned	329	US	6			Massachusetts	0	08/10/2020
+1930	Unassigned	326	US	6			Massachusetts	0	08/11/2020
+1884	Unassigned	619	US	24			Massachusetts	0	08/12/2020
+1885	Unassigned	1042	US	45			Massachusetts	0	08/13/2020
+1885	Unassigned	1347	US	65			Massachusetts	0	08/14/2020
+1885	Unassigned	1818	US	81			Massachusetts	0	08/15/2020
+1885	Unassigned	2212	US	93			Massachusetts	0	08/16/2020
+1887	Unassigned	2460	US	97			Massachusetts	0	08/17/2020
+1887	Unassigned	2682	US	103			Massachusetts	0	08/18/2020
+1887	Unassigned	3034	US	131			Massachusetts	0	08/19/2020
+1887	Unassigned	9684	US	5			Massachusetts	0	08/20/2020
+1887	Unassigned	9754	US	5			Massachusetts	0	08/21/2020
+1888	Unassigned	9809	US	5			Massachusetts	0	08/22/2020
+1888	Unassigned	9809	US	5			Massachusetts	0	08/23/2020
+1888	Unassigned	9899	US	5			Massachusetts	0	08/24/2020
+1888	Unassigned	9958	US	5			Massachusetts	0	08/25/2020
+1888	Unassigned	9980	US	5			Massachusetts	0	08/26/2020
+1888	Unassigned	9995	US	5			Massachusetts	0	08/27/2020
+1888	Unassigned	10022	US	5			Massachusetts	0	08/28/2020
+1888	Unassigned	10047	US	5			Massachusetts	0	08/29/2020
+1888	Unassigned	10069	US	5			Massachusetts	0	08/30/2020
+1888	Unassigned	10075	US	5			Massachusetts	0	08/31/2020
+1888	Unassigned	10088	US	5			Massachusetts	0	09/01/2020
+1888	Unassigned	10088	US	5			Massachusetts	0	09/02/2020
+1888	Unassigned	2065	US	5			Massachusetts	0	09/03/2020
+1888	Unassigned	2065	US	5			Massachusetts	0	09/04/2020
+1888	Unassigned	2095	US	5			Massachusetts	0	09/05/2020
+1888	Unassigned	2097	US	5			Massachusetts	0	09/06/2020
+1888	Unassigned	2108	US	5			Massachusetts	0	09/07/2020
+1888	Unassigned	2117	US	5			Massachusetts	0	09/08/2020
+1888	Unassigned	2119	US	5			Massachusetts	0	09/09/2020
+1888	Unassigned	2140	US	5			Massachusetts	0	09/10/2020
+1888	Unassigned	2128	US	5			Massachusetts	0	09/11/2020
+1888	Unassigned	2238	US	5			Massachusetts	0	09/12/2020
+1888	Unassigned	2262	US	5			Massachusetts	0	09/13/2020
+1888	Unassigned	2281	US	5			Massachusetts	0	09/14/2020
+1888	Unassigned	2311	US	5			Massachusetts	0	09/15/2020
+1888	Unassigned	2312	US	5			Massachusetts	0	09/16/2020
+1888	Unassigned	2312	US	5			Massachusetts	0	09/17/2020
+1888	Unassigned	2343	US	5			Massachusetts	0	09/18/2020
+1888	Unassigned	2384	US	5			Massachusetts	0	09/19/2020
+1888	Unassigned	2397	US	5			Massachusetts	0	09/20/2020
+1889	Unassigned	2413	US	5			Massachusetts	0	09/21/2020
+1889	Unassigned	2429	US	5			Massachusetts	0	09/22/2020
+1889	Unassigned	2416	US	5			Massachusetts	0	09/23/2020
+1889	Unassigned	2424	US	5			Massachusetts	0	09/24/2020
+1889	Unassigned	2461	US	5			Massachusetts	0	09/25/2020
+1889	Unassigned	2511	US	5			Massachusetts	0	09/26/2020
+1889	Unassigned	2516	US	5			Massachusetts	0	09/27/2020
+1889	Unassigned	2580	US	5			Massachusetts	0	09/28/2020
+1889	Unassigned	2640	US	5			Massachusetts	0	09/29/2020
+1889	Unassigned	2666	US	5			Massachusetts	0	09/30/2020
+1889	Unassigned	2715	US	5			Massachusetts	0	10/01/2020
+1889	Unassigned	2719	US	5			Massachusetts	0	10/02/2020
+1889	Unassigned	2778	US	5			Massachusetts	0	10/03/2020
+1889	Unassigned	2808	US	5			Massachusetts	0	10/04/2020
+1889	Unassigned	2864	US	5			Massachusetts	0	10/05/2020
+1889	Unassigned	2909	US	5			Massachusetts	0	10/06/2020
+1889	Unassigned	2919	US	5			Massachusetts	0	10/07/2020
+1889	Unassigned	2950	US	5			Massachusetts	0	10/08/2020
+1889	Unassigned	2981	US	5			Massachusetts	0	10/09/2020
+1889	Unassigned	3028	US	5			Massachusetts	0	10/10/2020
+1889	Unassigned	3033	US	5			Massachusetts	0	10/11/2020
+1890	Unassigned	3015	US	5			Massachusetts	0	10/12/2020
+1890	Unassigned	3145	US	5			Massachusetts	0	10/13/2020
+1890	Unassigned	3201	US	5			Massachusetts	0	10/14/2020
+1890	Unassigned	3217	US	5			Massachusetts	0	10/15/2020
+1891	Unassigned	3297	US	5			Massachusetts	0	10/16/2020
+1891	Unassigned	3316	US	5			Massachusetts	0	10/17/2020
+1891	Unassigned	3302	US	5			Massachusetts	0	10/18/2020
+1892	Unassigned	3303	US	5			Massachusetts	0	10/19/2020
+1892	Unassigned	3471	US	5			Massachusetts	0	10/20/2020
+1892	Unassigned	3537	US	5			Massachusetts	0	10/21/2020
+1892	Unassigned	3600	US	5			Massachusetts	0	10/22/2020
+1892	Unassigned	3693	US	5			Massachusetts	0	10/23/2020
+1892	Unassigned	3786	US	5			Massachusetts	0	10/24/2020
+1892	Unassigned	3746	US	5			Massachusetts	0	10/25/2020
+1892	Unassigned	3751	US	5			Massachusetts	0	10/26/2020
+1892	Unassigned	3995	US	5			Massachusetts	0	10/27/2020
+1893	Unassigned	4030	US	5.0			Massachusetts	0	10/28/2020
+1893	Unassigned	4126	US	5			Massachusetts	0	10/29/2020
+1893	Unassigned	4238	US	5			Massachusetts	0	10/30/2020
+1893	Unassigned	4380	US	5			Massachusetts	0	10/31/2020
+1893	Unassigned	4382	US	5			Massachusetts	0	11/01/2020
+1893	Unassigned	4493	US	5			Massachusetts	0	11/02/2020
+1894	Unassigned	4607	US	5			Massachusetts	0	11/03/2020
+1894	Unassigned	4735	US	5			Massachusetts	0	11/04/2020
+1894	Unassigned	4804	US	6			Massachusetts	0	11/05/2020
+1894	Unassigned	4899	US	6			Massachusetts	0	11/06/2020
+1894	Unassigned	5022	US	6			Massachusetts	0	11/07/2020
+1894	Unassigned	5037	US	6			Massachusetts	0	11/08/2020
+1894	Unassigned	5202	US	6			Massachusetts	0.0	11/09/2020
+1894	Unassigned	5327	US	6			Massachusetts	0.0	11/10/2020
+1894	Unassigned	5492	US	6			Massachusetts	0.0	11/11/2020
+1906	Unassigned	5656	US	6			Massachusetts	0	11/12/2020
+1906	Unassigned	5902	US	6			Massachusetts	0	11/13/2020
+1906	Unassigned	6140	US	6			Massachusetts	0	11/14/2020
+1906	Unassigned	6189	US	7			Massachusetts	0	11/15/2020
+1906	Unassigned	6397	US	7			Massachusetts	0	11/16/2020
+1906	Unassigned	6693	US	7			Massachusetts	0	11/17/2020
+1906	Unassigned	6870	US	7			Massachusetts	0	11/18/2020
+1906	Unassigned	7030	US	7			Massachusetts	0	11/19/2020
+1906	Unassigned	7164	US	7			Massachusetts	0	11/20/2020
+1906	Unassigned	7362	US	7			Massachusetts	0	11/21/2020
+1906	Unassigned	7366	US	7			Massachusetts	0	11/22/2020
+1906	Unassigned	7340	US	7			Massachusetts	0	11/23/2020
+1907	Unassigned	7705	US	7			Massachusetts	0	11/24/2020
+1907	Unassigned	7899	US	6			Massachusetts	0	11/25/2020
+1907	Unassigned	7899	US	6			Massachusetts	0	11/26/2020
+1907	Unassigned	8110	US	6			Massachusetts	0	11/27/2020
+1907	Unassigned	8440	US	6			Massachusetts	0	11/28/2020
+1907	Unassigned	8449	US	6			Massachusetts	0	11/29/2020
+1907	Unassigned	8414	US	6			Massachusetts	0	11/30/2020
+1907	Unassigned	8701	US	6			Massachusetts	0	12/01/2020
+1907	Unassigned	9094	US	6			Massachusetts	0	12/02/2020
+1907	Unassigned	9330	US	6			Massachusetts	0	12/03/2020
+1907	Unassigned	9631	US	6			Massachusetts	0	12/04/2020
+1907	Unassigned	9892	US	6			Massachusetts	0	12/05/2020
+1907	Unassigned	9984	US	6			Massachusetts	0	12/06/2020
+1907	Unassigned	10038	US	6			Massachusetts	0	12/07/2020
+1907	Unassigned	10533	US	6			Massachusetts	0	12/08/2020
+1907	Unassigned	10832	US	6			Massachusetts	0	12/09/2020
+1907	Unassigned	11102	US	6			Massachusetts	0	12/10/2020
+1907	Unassigned	11278	US	6			Massachusetts	0	12/11/2020
+1907	Unassigned	11616	US	6			Massachusetts	0	12/12/2020
+1907	Unassigned	11805	US	6			Massachusetts	0	12/13/2020
+1907	Unassigned	11895	US	6			Massachusetts	0	12/14/2020
+1907	Unassigned	12112	US	6			Massachusetts	0	12/15/2020
+1907	Unassigned	12619	US	6			Massachusetts	0	12/16/2020
+1907	Unassigned	12790	US	6			Massachusetts	0	12/17/2020
+1907	Unassigned	12859	US	6			Massachusetts	0	12/18/2020
+1907	Unassigned	13212	US	6			Massachusetts	0	12/19/2020
+1907	Unassigned	13335	US	6			Massachusetts	0	12/20/2020
+1907	Unassigned	13482	US	6			Massachusetts	0	12/21/2020
+1907	Unassigned	13937	US	6			Massachusetts	0	12/22/2020
+1907	Unassigned	14267	US	6			Massachusetts	0	12/23/2020
+1907	Unassigned	14560	US	6			Massachusetts	0	12/24/2020
+1907	Unassigned	14560	US	6			Massachusetts	0	12/25/2020
+1907	Unassigned	14851	US	6			Massachusetts	0	12/26/2020
+1907	Unassigned	15019	US	6			Massachusetts	0	12/27/2020
+1907	Unassigned	15166	US	6			Massachusetts	0	12/28/2020
+1907	Unassigned	15668	US	6			Massachusetts	0	12/29/2020
+1907	Unassigned	16403	US	7			Massachusetts	0	12/30/2020
+1907	Unassigned	16810	US	7			Massachusetts	0	12/31/2020
+1907	Unassigned	16810	US	7			Massachusetts	0	01/01/2021
+1907	Unassigned	17330	US	7			Massachusetts	0	01/02/2021
+1908	Unassigned	17737	US	7			Massachusetts	0	01/03/2021
+1908	Unassigned	18271	US	7			Massachusetts	0	01/04/2021
+1908	Unassigned	18738	US	7			Massachusetts	0	01/05/2021
+1908	Unassigned	19186	US	7			Massachusetts	0	01/06/2021
+1908	Unassigned	19584	US	7			Massachusetts	0	01/07/2021
+1908	Unassigned	20091	US	7			Massachusetts	0	01/08/2021
+1908	Unassigned	20405	US	8			Massachusetts	0	01/09/2021
+1908	Unassigned	20700	US	8			Massachusetts	0	01/10/2021
+1908	Unassigned	20703	US	8			Massachusetts	0	01/11/2021
+1908	Unassigned	21304	US	8			Massachusetts	0	01/12/2021
+1908	Unassigned	22030	US	8			Massachusetts	0	01/13/2021
+1908	Unassigned	22400	US	8			Massachusetts	0	01/14/2021
+1909	Unassigned	22876	US	8			Massachusetts	0	01/15/2021
+1909	Unassigned	23020	US	8			Massachusetts	0	01/16/2021
+1909	Unassigned	23157	US	8			Massachusetts	0	01/17/2021
+1909	Unassigned	23252	US	8			Massachusetts	0	01/18/2021
+1909	Unassigned	23759	US	8			Massachusetts	0	01/19/2021
+1909	Unassigned	24360	US	8			Massachusetts	0	01/20/2021
+1910	Unassigned	24652	US	8			Massachusetts	0	01/21/2021
+1910	Unassigned	25043	US	8			Massachusetts	0	01/22/2021
+1910	Unassigned	25329	US	8			Massachusetts	0	01/23/2021
+1910	Unassigned	25561	US	8			Massachusetts	0	01/24/2021
+1910	Unassigned	25718	US	8			Massachusetts	0	01/25/2021
+1910	Unassigned	26007	US	9			Massachusetts	0	01/26/2021
+1910	Unassigned	26297	US	9			Massachusetts	0	01/27/2021
+1910	Unassigned	26715	US	8			Massachusetts	0	01/28/2021
+1910	Unassigned	27059	US	8			Massachusetts	0	01/29/2021
+1910	Unassigned	27214	US	8			Massachusetts	0	01/30/2021
+1910	Unassigned	27356	US	8			Massachusetts	0	01/31/2021
+1910	Unassigned	27487	US	8			Massachusetts	0	02/01/2021
+1910	Unassigned	27733	US	8			Massachusetts	0	02/02/2021
+1910	Unassigned	28001	US	8			Massachusetts	0	02/03/2021
+1910	Unassigned	28202	US	8			Massachusetts	0	02/04/2021
+1910	Unassigned	28532	US	8			Massachusetts	0	02/05/2021
+1910	Unassigned	28751	US	8			Massachusetts	0	02/06/2021
+1910	Unassigned	28870	US	8			Massachusetts	0	02/07/2021
+1910	Unassigned	28959	US	8			Massachusetts	0	02/08/2021
+1910	Unassigned	29225	US	8			Massachusetts	0	02/09/2021
+1910	Unassigned	29380	US	8			Massachusetts	0	02/10/2021
+1910	Unassigned	29598	US	8			Massachusetts	0	02/11/2021
+1910	Unassigned	29810	US	8			Massachusetts	0	02/12/2021
+1910	Unassigned	29932	US	8			Massachusetts	0	02/13/2021
+1910	Unassigned	29993	US	8			Massachusetts	0	02/14/2021
+1910	Unassigned	30089	US	8			Massachusetts	0	02/15/2021
+1910	Unassigned	30351	US	8			Massachusetts	0	02/16/2021
+1910	Unassigned	30393	US	8			Massachusetts	0	02/17/2021
+1910	Unassigned	30631	US	8			Massachusetts	0	02/18/2021
+1911	Unassigned	30772	US	8			Massachusetts	0	02/19/2021
+1911	Unassigned	30920	US	8			Massachusetts	0	02/20/2021
+1911	Unassigned	31135	US	8			Massachusetts	0	02/21/2021
+1911	Unassigned	31247	US	8			Massachusetts	0	02/22/2021
+1911	Unassigned	31361	US	8			Massachusetts	0	02/23/2021
+1911	Unassigned	31673	US	8			Massachusetts	0	02/24/2021
+1911	Unassigned	31855	US	8			Massachusetts	0	02/25/2021
+1911	Unassigned	32109	US	8			Massachusetts	0	02/26/2021
+1911	Unassigned	32294	US	8			Massachusetts	0	02/27/2021
+1911	Unassigned	32332	US	8			Massachusetts	0	02/28/2021
+1911	Unassigned	32486	US	8			Massachusetts	0	03/01/2021
+1911	Unassigned	32661	US	8			Massachusetts	0	03/02/2021
+1911	Unassigned	33007	US	8			Massachusetts	0	03/03/2021
+1911	Unassigned	33137	US	8			Massachusetts	0	03/04/2021
+1911	Unassigned	33365	US	8			Massachusetts	0	03/05/2021
+1911	Unassigned	33585	US	8			Massachusetts	0	03/06/2021
+1911	Unassigned	33735	US	8			Massachusetts		03/07/2021
+1911	Unassigned	33825	US	8			Massachusetts		03/08/2021
+1911	Unassigned	34086	US	8			Massachusetts		03/09/2021
+1911	Unassigned	34329	US	8			Massachusetts		03/10/2021
+1911	Unassigned	34547	US	8			Massachusetts		03/11/2021
+1911	Unassigned	34687	US	8			Massachusetts		03/12/2021
+1911	Unassigned	34888	US	8			Massachusetts		03/13/2021
+1911	Unassigned	35076	US	8			Massachusetts		03/14/2021
+1911	Unassigned	35192	US	8			Massachusetts		03/15/2021
+1911	Unassigned	35372	US	8			Massachusetts		03/16/2021
+1911	Unassigned	35394	US	8			Massachusetts		03/17/2021
+1911	Unassigned	35464	US	8			Massachusetts		03/18/2021
+1911	Unassigned	35710	US	8			Massachusetts		03/19/2021
+1911	Unassigned	36206	US	8			Massachusetts		03/20/2021
+1911	Unassigned	36336	US	8			Massachusetts		03/21/2021
+1911	Unassigned	36441	US	8			Massachusetts		03/22/2021
+1911	Unassigned	36787	US	8			Massachusetts		03/23/2021
+1911	Unassigned	37064	US	8			Massachusetts		03/24/2021
+1911	Unassigned	37179	US	8			Massachusetts		03/25/2021
+1911	Unassigned	37623	US	8			Massachusetts		03/26/2021
+1911	Unassigned	37827	US	8			Massachusetts		03/27/2021
+1911	Unassigned	37995	US	8			Massachusetts		03/28/2021
+1911	Unassigned	38030	US	8			Massachusetts		03/29/2021
+1911	Unassigned	38389	US	8			Massachusetts		03/30/2021
+1911	Unassigned	38639	US	8			Massachusetts		03/31/2021
+1911	Unassigned	38934	US	8			Massachusetts		04/01/2021
+1913	Unassigned	39220	US	8			Massachusetts		04/02/2021
+1913	Unassigned	39383	US	8			Massachusetts		04/03/2021
+1913	Unassigned	39383	US	8			Massachusetts		04/04/2021
+1913	Unassigned	39465	US	8			Massachusetts		04/05/2021
+1913	Unassigned	39707	US	8			Massachusetts		04/06/2021
+1913	Unassigned	40004	US	8			Massachusetts		04/07/2021
+1913	Unassigned	40399	US	8			Massachusetts		04/08/2021
+1913	Unassigned	40520	US	8			Massachusetts		04/09/2021
+1913	Unassigned	40705	US	8			Massachusetts		04/10/2021
+1913	Unassigned	40885	US	8			Massachusetts		04/11/2021
+1913	Unassigned	41024	US	7			Massachusetts		04/12/2021
+1913	Unassigned	41231	US	7			Massachusetts		04/13/2021
+1913	Unassigned	41461	US	7			Massachusetts		04/14/2021
+1913	Unassigned	41698	US	7			Massachusetts		04/15/2021
+1913	Unassigned	41988	US	7			Massachusetts		04/16/2021
+1913	Unassigned	42217	US	7			Massachusetts		04/17/2021

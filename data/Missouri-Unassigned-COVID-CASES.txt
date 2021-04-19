@@ -1,0 +1,386 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2867	Unassigned	4	US	0	0.0	0.0	Missouri	0	03/23/2020
+2867	Unassigned	6	US	0	0.0	0.0	Missouri	0	03/24/2020
+2867	Unassigned	0	US	0	0.0	0.0	Missouri	0	03/25/2020
+1945	Unassigned	0	US	0	0.0	0.0	Missouri	0	03/31/2020
+1991	Unassigned	0	US	0	0.0	0.0	Missouri	0	04/01/2020
+2063	Unassigned	0	US	0			Missouri	0	04/02/2020
+2162	Unassigned	3	US	0			Missouri	0	04/04/2020
+2236	Unassigned	3	US	0			Missouri	0	04/05/2020
+2274	Unassigned	1	US	1			Missouri	0	04/06/2020
+2321	Unassigned	1	US	1			Missouri	0	04/07/2020
+2345	Unassigned	1	US	3			Missouri	0	04/08/2020
+2371	Unassigned	0	US	1			Missouri	0	04/09/2020
+2395	Unassigned	0	US	0			Missouri	0	04/10/2020
+2420	Unassigned	0	US	0			Missouri	0	04/11/2020
+2442	Unassigned	0	US	1			Missouri	0	04/12/2020
+2456	Unassigned	0	US	0			Missouri	0	04/13/2020
+2466	Unassigned	1	US	0			Missouri	0	04/14/2020
+2478	Unassigned	0	US	0			Missouri	0	04/15/2020
+2492	Unassigned	0	US	0			Missouri	0	04/16/2020
+2494	Unassigned	0	US	0			Missouri	0	04/17/2020
+2501	Unassigned	0	US	0			Missouri	0	04/18/2020
+2518	Unassigned	0	US	0			Missouri	0	04/19/2020
+2527	Unassigned	0	US	0			Missouri	0	04/20/2020
+2536	Unassigned	0	US	0			Missouri	0	04/21/2020
+2543	Unassigned	0	US	0			Missouri	0	04/22/2020
+2560	Unassigned	1	US	0			Missouri	0	04/23/2020
+2566	Unassigned	1	US	0			Missouri	0	04/24/2020
+2571	Unassigned	2	US	0			Missouri	0	04/25/2020
+2579	Unassigned	2	US	0			Missouri	0	04/26/2020
+2586	Unassigned	2	US	0			Missouri	0	04/27/2020
+2595	Unassigned	2	US	0			Missouri	0	04/28/2020
+2600	Unassigned	2	US	0			Missouri	0	04/29/2020
+2606	Unassigned	2	US	0			Missouri	0	04/30/2020
+2616	Unassigned	1	US	0			Missouri	0	05/01/2020
+2620	Unassigned	1	US	0			Missouri	0	05/02/2020
+2625	Unassigned	1	US	0			Missouri	0	05/03/2020
+2628	Unassigned	1	US	0			Missouri	0	05/04/2020
+2636	Unassigned	1	US	0			Missouri	0	05/05/2020
+2642	Unassigned	1	US	0			Missouri	0	05/06/2020
+2649	Unassigned	1	US	0			Missouri	0	05/07/2020
+2656	Unassigned	2	US	0			Missouri	0	05/08/2020
+2658	Unassigned	2	US	0			Missouri	0	05/09/2020
+2660	Unassigned	2	US	0			Missouri	0	05/10/2020
+2660	Unassigned	2	US	0			Missouri	0	05/11/2020
+2663	Unassigned	3	US	0			Missouri	0	05/12/2020
+2664	Unassigned	3	US	0			Missouri	0	05/13/2020
+2666	Unassigned	3	US	0			Missouri	0	05/14/2020
+2671	Unassigned	3	US	0			Missouri	0	05/15/2020
+2675	Unassigned	3	US	0			Missouri	0	05/16/2020
+2678	Unassigned	3	US	0			Missouri	0	05/17/2020
+2680	Unassigned	3	US	0			Missouri	0	05/18/2020
+2684	Unassigned	3	US	0			Missouri	0	05/19/2020
+2690	Unassigned	3	US	0			Missouri	0	05/20/2020
+2692	Unassigned	3	US	0			Missouri	0	05/21/2020
+2699	Unassigned	3	US	0			Missouri	0	05/22/2020
+2701	Unassigned	3	US	0			Missouri	0	05/23/2020
+2704	Unassigned	3	US	0			Missouri	0	05/24/2020
+2705	Unassigned	4	US	0			Missouri	0	05/25/2020
+2706	Unassigned	4	US	0			Missouri	0	05/26/2020
+2709	Unassigned	4	US	0			Missouri	0	05/27/2020
+2712	Unassigned	4	US	0			Missouri	0	05/28/2020
+2715	Unassigned	5	US	0			Missouri	0	05/29/2020
+2717	Unassigned	5	US	0			Missouri	0	05/30/2020
+2718	Unassigned	5	US	0			Missouri	0	05/31/2020
+2720	Unassigned	5	US	0			Missouri	0	06/01/2020
+2725	Unassigned	5	US	0			Missouri	0	06/02/2020
+2727	Unassigned	6	US	0			Missouri	0	06/03/2020
+2728	Unassigned	6	US	0			Missouri	0	06/04/2020
+2732	Unassigned	6	US	0			Missouri	0	06/05/2020
+2734	Unassigned	6	US	0			Missouri	0	06/06/2020
+2734	Unassigned	6	US	0			Missouri	0	06/07/2020
+2734	Unassigned	6	US	0			Missouri	0	06/08/2020
+2736	Unassigned	8	US	0			Missouri	0	06/09/2020
+2738	Unassigned	8	US	0			Missouri	0	06/10/2020
+2740	Unassigned	9	US	0			Missouri	0	06/11/2020
+2754	Unassigned	11	US	0			Missouri	0	06/12/2020
+2757	Unassigned	11	US	0			Missouri	0	06/13/2020
+2757	Unassigned	11	US	0			Missouri	0	06/14/2020
+2761	Unassigned	11	US	0			Missouri	0	06/15/2020
+2759	Unassigned	11	US	0			Missouri	0	06/16/2020
+2761	Unassigned	16	US	0			Missouri	0	06/17/2020
+2761	Unassigned	19	US	1			Missouri	0	06/18/2020
+2762	Unassigned	23	US	0			Missouri	0	06/19/2020
+2766	Unassigned	23	US	0			Missouri	0	06/20/2020
+2766	Unassigned	25	US	0			Missouri	0	06/21/2020
+2769	Unassigned	28	US	0			Missouri	0	06/22/2020
+2774	Unassigned	41	US	0			Missouri	0	06/23/2020
+2786	Unassigned	56	US	0			Missouri	0	06/24/2020
+2791	Unassigned	60	US	0			Missouri	0	06/25/2020
+2792	Unassigned	71	US	0			Missouri	0	06/26/2020
+2793	Unassigned	76	US	0			Missouri	0	06/27/2020
+2793	Unassigned	82	US	0			Missouri	0	06/28/2020
+2795	Unassigned	85	US	0			Missouri	0	06/29/2020
+2797	Unassigned	88	US	0			Missouri	0	06/30/2020
+2799	Unassigned	98	US	0			Missouri	0	07/01/2020
+2802	Unassigned	100	US	0			Missouri	0	07/02/2020
+2807	Unassigned	102	US	0			Missouri	0	07/03/2020
+2808	Unassigned	105	US	0			Missouri	0	07/04/2020
+2809	Unassigned	105	US	0			Missouri	0	07/05/2020
+2812	Unassigned	116	US	0			Missouri	0	07/06/2020
+2813	Unassigned	128	US	0			Missouri	0	07/07/2020
+2816	Unassigned	138	US	0			Missouri	0	07/08/2020
+2815	Unassigned	147	US	0			Missouri	0	07/09/2020
+2819	Unassigned	162	US	0			Missouri	0	07/10/2020
+2820	Unassigned	165	US	0			Missouri	0	07/11/2020
+2822	Unassigned	168	US	0			Missouri	0	07/12/2020
+2823	Unassigned	173	US	0			Missouri	0	07/13/2020
+2829	Unassigned	196	US	0			Missouri	0	07/14/2020
+2830	Unassigned	210	US	0			Missouri	0	07/15/2020
+2832	Unassigned	220	US	0			Missouri	0	07/16/2020
+2832	Unassigned	233	US	0			Missouri	0	07/17/2020
+2905	Unassigned	233	US	0			Missouri	0	07/18/2020
+2905	Unassigned	236	US	0			Missouri	0	07/19/2020
+2828	Unassigned	245	US	0			Missouri	0	07/20/2020
+2909	Unassigned	269	US	0			Missouri	0	07/21/2020
+2910	Unassigned	279	US	0			Missouri	0	07/22/2020
+2913	Unassigned	293	US	0			Missouri	0	07/23/2020
+2912	Unassigned	314	US	0			Missouri	0	07/24/2020
+2913	Unassigned	331	US	0			Missouri	0	07/25/2020
+2914	Unassigned	351	US	0			Missouri	0	07/26/2020
+2914	Unassigned	370	US	0			Missouri	0	07/27/2020
+2914	Unassigned	380	US	0			Missouri	0	07/28/2020
+2918	Unassigned	421	US	0			Missouri	0	07/29/2020
+2918	Unassigned	458	US	0			Missouri	0	07/30/2020
+2920	Unassigned	482	US	0			Missouri	0	07/31/2020
+2920	Unassigned	490	US	0			Missouri	0	08/01/2020
+2920	Unassigned	491	US	0			Missouri	0	08/02/2020
+2920	Unassigned	499	US	0			Missouri	0	08/03/2020
+2920	Unassigned	528	US	0			Missouri	0	08/04/2020
+2924	Unassigned	536	US	0			Missouri	0	08/05/2020
+2924	Unassigned	560	US	0			Missouri	0	08/06/2020
+2924	Unassigned	586	US	0			Missouri	0	08/07/2020
+2924	Unassigned	596	US	0			Missouri	0	08/08/2020
+2924	Unassigned	599	US	0			Missouri	0	08/09/2020
+2924	Unassigned	606	US	0			Missouri	0	08/10/2020
+2299	Unassigned	646	US	0			Missouri	0	08/11/2020
+2253	Unassigned	718	US	0			Missouri	0	08/12/2020
+2254	Unassigned	755	US	0			Missouri	0	08/13/2020
+2254	Unassigned	772	US	0			Missouri	0	08/14/2020
+2254	Unassigned	788	US	0			Missouri	0	08/15/2020
+2254	Unassigned	794	US	0			Missouri	0	08/16/2020
+2256	Unassigned	815	US	0			Missouri	0	08/17/2020
+2256	Unassigned	851	US	0			Missouri	0	08/18/2020
+2256	Unassigned	863	US	0			Missouri	0	08/19/2020
+2256	Unassigned	918	US	0			Missouri	0	08/20/2020
+2256	Unassigned	959	US	0			Missouri	0	08/21/2020
+2257	Unassigned	981	US	0			Missouri	0	08/22/2020
+2257	Unassigned	984	US	0			Missouri	0	08/23/2020
+2257	Unassigned	1038	US	0			Missouri	0	08/24/2020
+2257	Unassigned	1090	US	0			Missouri	0	08/25/2020
+2257	Unassigned	1159	US	0			Missouri	0	08/26/2020
+2257	Unassigned	1204	US	0			Missouri	0	08/27/2020
+2257	Unassigned	1234	US	0			Missouri	0	08/28/2020
+2257	Unassigned	1253	US	0			Missouri	0	08/29/2020
+2257	Unassigned	1257	US	0			Missouri	0	08/30/2020
+2257	Unassigned	1295	US	0			Missouri	0	08/31/2020
+2257	Unassigned	1357	US	0			Missouri	0	09/01/2020
+2257	Unassigned	1422	US	0			Missouri	0	09/02/2020
+2257	Unassigned	1529	US	0			Missouri	0	09/03/2020
+2257	Unassigned	1574	US	0			Missouri	0	09/04/2020
+2257	Unassigned	1593	US	0			Missouri	0	09/05/2020
+2257	Unassigned	1605	US	0			Missouri	0	09/06/2020
+2257	Unassigned	1645	US	0			Missouri	0	09/07/2020
+2257	Unassigned	1679	US	0			Missouri	0	09/08/2020
+2257	Unassigned	1836	US	0			Missouri	0	09/09/2020
+2257	Unassigned	1889	US	0			Missouri	0	09/10/2020
+2257	Unassigned	1964	US	0			Missouri	0	09/11/2020
+2257	Unassigned	2013	US	0			Missouri	0	09/12/2020
+2257	Unassigned	2044	US	0			Missouri	0	09/13/2020
+2257	Unassigned	2093	US	0			Missouri	0	09/14/2020
+2257	Unassigned	2222	US	0			Missouri	0	09/15/2020
+2257	Unassigned	2311	US	0			Missouri	0	09/16/2020
+2257	Unassigned	2346	US	0			Missouri	0	09/17/2020
+2257	Unassigned	2443	US	0			Missouri	0	09/18/2020
+2257	Unassigned	2475	US	0			Missouri	0	09/19/2020
+2257	Unassigned	2579	US	0			Missouri	0	09/20/2020
+2258	Unassigned	2703	US	0			Missouri	0	09/21/2020
+2258	Unassigned	2891	US	0			Missouri	0	09/22/2020
+2258	Unassigned	2955	US	0			Missouri	0	09/23/2020
+2258	Unassigned	3029	US	0			Missouri	0	09/24/2020
+2258	Unassigned	3120	US	0			Missouri	0	09/25/2020
+2258	Unassigned	3151	US	0			Missouri	0	09/26/2020
+2258	Unassigned	3179	US	0			Missouri	0	09/27/2020
+2258	Unassigned	3231	US	0			Missouri	0	09/28/2020
+2258	Unassigned	3434	US	0			Missouri	0	09/29/2020
+2258	Unassigned	3531	US	0			Missouri	0	09/30/2020
+2258	Unassigned	3599	US	0			Missouri	0	10/01/2020
+2258	Unassigned	3637	US	0			Missouri	0	10/02/2020
+2258	Unassigned	3673	US	0			Missouri	0	10/03/2020
+2258	Unassigned	3698	US	0			Missouri	0	10/04/2020
+2258	Unassigned	3741	US	0			Missouri	0	10/05/2020
+2258	Unassigned	3894	US	0			Missouri	0	10/06/2020
+2258	Unassigned	4035	US	0			Missouri	0	10/07/2020
+2258	Unassigned	4126	US	0			Missouri	0	10/08/2020
+2258	Unassigned	4219	US	0			Missouri	0	10/09/2020
+2258	Unassigned	4272	US	0			Missouri	0	10/10/2020
+2258	Unassigned	4296	US	0			Missouri	0	10/11/2020
+2259	Unassigned	4307	US	0			Missouri	0	10/12/2020
+2259	Unassigned	4435	US	0			Missouri	0	10/13/2020
+2259	Unassigned	4592	US	0			Missouri	0	10/14/2020
+2259	Unassigned	4677	US	0			Missouri	0	10/15/2020
+2260	Unassigned	4803	US	0			Missouri	0	10/16/2020
+2260	Unassigned	4858	US	0			Missouri	0	10/17/2020
+2260	Unassigned	4902	US	0			Missouri	0	10/18/2020
+2261	Unassigned	4962	US	0			Missouri	0	10/19/2020
+2261	Unassigned	5105	US	0			Missouri	0	10/20/2020
+2261	Unassigned	5189	US	0			Missouri	0	10/21/2020
+2261	Unassigned	5320	US	0			Missouri	0	10/22/2020
+2261	Unassigned	5479	US	0			Missouri	0	10/23/2020
+2261	Unassigned	5569	US	0			Missouri	0	10/24/2020
+2261	Unassigned	5661	US	9			Missouri	0	10/25/2020
+2261	Unassigned	5768	US	0			Missouri	0	10/26/2020
+2261	Unassigned	5978	US	0			Missouri	0	10/27/2020
+2262	Unassigned	6204	US	0.0			Missouri	0	10/28/2020
+2262	Unassigned	6500	US	0			Missouri	0	10/29/2020
+2262	Unassigned	6652	US	0			Missouri	0	10/30/2020
+2262	Unassigned	6758	US	0			Missouri	0	10/31/2020
+2262	Unassigned	6914	US	0			Missouri	0	11/01/2020
+2262	Unassigned	7118	US	0			Missouri	0	11/02/2020
+2263	Unassigned	7312	US	0			Missouri	0	11/03/2020
+2263	Unassigned	7526	US	0			Missouri	0	11/04/2020
+2263	Unassigned	7778	US	0			Missouri	0	11/05/2020
+2263	Unassigned	8025	US	0			Missouri	0	11/06/2020
+2263	Unassigned	8134	US	0			Missouri	0	11/07/2020
+2263	Unassigned	8272	US	0			Missouri	0	11/08/2020
+2263	Unassigned	8387	US	0			Missouri	0.0	11/09/2020
+2263	Unassigned	8658	US	0			Missouri	0.0	11/10/2020
+2263	Unassigned	8919	US	0			Missouri	0.0	11/11/2020
+2275	Unassigned	9377	US	0			Missouri	0	11/12/2020
+2275	Unassigned	9603	US	0			Missouri	0	11/13/2020
+2275	Unassigned	9851	US	0			Missouri	0	11/14/2020
+2275	Unassigned	9943	US	0			Missouri	0	11/15/2020
+2275	Unassigned	10385	US	0			Missouri	0	11/16/2020
+2275	Unassigned	10883	US	0			Missouri	0	11/17/2020
+2275	Unassigned	11212	US	0			Missouri	0	11/18/2020
+2275	Unassigned	11615	US	0			Missouri	0	11/19/2020
+2275	Unassigned	11984	US	0			Missouri	0	11/20/2020
+2275	Unassigned	12148	US	0			Missouri	0	11/21/2020
+2275	Unassigned	12287	US	0			Missouri	0	11/22/2020
+2275	Unassigned	12743	US	0			Missouri	0	11/23/2020
+2276	Unassigned	13156	US	0			Missouri	0	11/24/2020
+2276	Unassigned	13766	US	0			Missouri	0	11/25/2020
+2276	Unassigned	13948	US	0			Missouri	0	11/26/2020
+2276	Unassigned	14200	US	0			Missouri	0	11/27/2020
+2276	Unassigned	14462	US	0			Missouri	0	11/28/2020
+2276	Unassigned	14611	US	0			Missouri	0	11/29/2020
+2276	Unassigned	15063	US	0			Missouri	0	11/30/2020
+2276	Unassigned	15847	US	0			Missouri	0	12/01/2020
+2276	Unassigned	16429	US	0			Missouri	0	12/02/2020
+2276	Unassigned	17241	US	0			Missouri	0	12/03/2020
+2276	Unassigned	17809	US	0			Missouri	0	12/04/2020
+2276	Unassigned	18139	US	0			Missouri	0	12/05/2020
+2276	Unassigned	18312	US	0			Missouri	0	12/06/2020
+2276	Unassigned	18909	US	0			Missouri	0	12/07/2020
+2276	Unassigned	19532	US	0			Missouri	0	12/08/2020
+2276	Unassigned	20421	US	0			Missouri	0	12/09/2020
+2276	Unassigned	21269	US	0			Missouri	0	12/10/2020
+2276	Unassigned	22716	US	0			Missouri	0	12/11/2020
+2276	Unassigned	23634	US	0			Missouri	0	12/12/2020
+2276	Unassigned	24134	US	0			Missouri	0	12/13/2020
+2276	Unassigned	24775	US	0			Missouri	0	12/14/2020
+2276	Unassigned	25586	US	0			Missouri	0	12/15/2020
+2276	Unassigned	26582	US	0			Missouri	0	12/16/2020
+2276	Unassigned	27240	US	0			Missouri	0	12/17/2020
+2276	Unassigned	28010	US	0			Missouri	0	12/18/2020
+2276	Unassigned	28287	US	0			Missouri	0	12/19/2020
+2276	Unassigned	28683	US	0			Missouri	0	12/20/2020
+2276	Unassigned	29401	US	0			Missouri	0	12/21/2020
+2276	Unassigned	30278	US	0			Missouri	0	12/22/2020
+2276	Unassigned	30994	US	0			Missouri	0	12/23/2020
+2276	Unassigned	31246	US	0			Missouri	0	12/24/2020
+2276	Unassigned	31363	US	0			Missouri	0	12/25/2020
+2276	Unassigned	31506	US	0			Missouri	0	12/26/2020
+2276	Unassigned	31823	US	0			Missouri	0	12/27/2020
+2276	Unassigned	32577	US	0			Missouri	0	12/28/2020
+2276	Unassigned	34198	US	0			Missouri	0	12/29/2020
+2276	Unassigned	35414	US	0			Missouri	0	12/30/2020
+2276	Unassigned	36845	US	0			Missouri	0	12/31/2020
+2276	Unassigned	36960	US	0			Missouri	0	01/01/2021
+2276	Unassigned	37590	US	0			Missouri	0	01/02/2021
+2277	Unassigned	38258	US	0			Missouri	0	01/03/2021
+2277	Unassigned	39150	US	0			Missouri	0	01/04/2021
+2277	Unassigned	40544	US	0			Missouri	0	01/05/2021
+2277	Unassigned	41939	US	0			Missouri	0	01/06/2021
+2277	Unassigned	42935	US	0			Missouri	0	01/07/2021
+2277	Unassigned	44077	US	0			Missouri	0	01/08/2021
+2277	Unassigned	44396	US	0			Missouri	0	01/09/2021
+2277	Unassigned	44502	US	0			Missouri	0	01/10/2021
+2277	Unassigned	45294	US	0			Missouri	0	01/11/2021
+2277	Unassigned	46248	US	0			Missouri	0	01/12/2021
+2277	Unassigned	46839	US	0			Missouri	0	01/13/2021
+2277	Unassigned	47553	US	0			Missouri	0	01/14/2021
+2278	Unassigned	49358	US	0			Missouri	0	01/15/2021
+2278	Unassigned	49989	US	0			Missouri	0	01/16/2021
+2278	Unassigned	50673	US	0			Missouri	0	01/17/2021
+2278	Unassigned	50977	US	0			Missouri	0	01/18/2021
+2278	Unassigned	52056	US	0			Missouri	0	01/19/2021
+2278	Unassigned	52747	US	0			Missouri	0	01/20/2021
+2279	Unassigned	53597	US	0			Missouri	0	01/21/2021
+2279	Unassigned	54277	US	0			Missouri	0	01/22/2021
+2279	Unassigned	54588	US	0			Missouri	0	01/23/2021
+2279	Unassigned	54789	US	0			Missouri	0	01/24/2021
+2279	Unassigned	55628	US	0			Missouri	0	01/25/2021
+2279	Unassigned	56480	US	0			Missouri	0	01/26/2021
+2279	Unassigned	57117	US	0			Missouri	0	01/27/2021
+2279	Unassigned	57691	US	0			Missouri	0	01/28/2021
+2279	Unassigned	58157	US	0			Missouri	0	01/29/2021
+2279	Unassigned	58424	US	0			Missouri	0	01/30/2021
+2279	Unassigned	58586	US	0			Missouri	0	01/31/2021
+2279	Unassigned	59382	US	0			Missouri	0	02/01/2021
+2279	Unassigned	59969	US	0			Missouri	0	02/02/2021
+2279	Unassigned	60385	US	0			Missouri	0	02/03/2021
+2279	Unassigned	61106	US	0			Missouri	0	02/04/2021
+2279	Unassigned	61964	US	0			Missouri	0	02/05/2021
+2279	Unassigned	62094	US	0			Missouri	0	02/06/2021
+2279	Unassigned	62171	US	0			Missouri	0	02/07/2021
+2279	Unassigned	62600	US	0			Missouri	0	02/08/2021
+2279	Unassigned	63036	US	0			Missouri	0	02/09/2021
+2279	Unassigned	63363	US	0			Missouri	0	02/10/2021
+2279	Unassigned	63681	US	0			Missouri	0	02/11/2021
+2279	Unassigned	63864	US	0			Missouri	0	02/12/2021
+2279	Unassigned	64016	US	0			Missouri	0	02/13/2021
+2279	Unassigned	64084	US	0			Missouri	0	02/14/2021
+2279	Unassigned	64299	US	0			Missouri	0	02/15/2021
+2279	Unassigned	64566	US	0			Missouri	0	02/16/2021
+2279	Unassigned	64839	US	0			Missouri	0	02/17/2021
+2279	Unassigned	65127	US	0			Missouri	0	02/18/2021
+2280	Unassigned	65396	US	0			Missouri	0	02/19/2021
+2280	Unassigned	65554	US	0			Missouri	0	02/20/2021
+2280	Unassigned	65688	US	0			Missouri	0	02/21/2021
+2280	Unassigned	66250	US	0			Missouri	0	02/22/2021
+2280	Unassigned	66884	US	0			Missouri	0	02/23/2021
+2280	Unassigned	67117	US	0			Missouri	0	02/24/2021
+2280	Unassigned	67356	US	0			Missouri	0	02/25/2021
+2280	Unassigned	67536	US	0			Missouri	0	02/26/2021
+2280	Unassigned	67706	US	0			Missouri	0	02/27/2021
+2280	Unassigned	67779	US	0			Missouri	0	02/28/2021
+2280	Unassigned	67981	US	0			Missouri	0	03/01/2021
+2280	Unassigned	68235	US	0			Missouri	0	03/02/2021
+2280	Unassigned	68473	US	0			Missouri	0	03/03/2021
+2280	Unassigned	68661	US	0			Missouri	0	03/04/2021
+2280	Unassigned	68879	US	0			Missouri	0	03/05/2021
+2280	Unassigned	68981	US	0			Missouri	0	03/06/2021
+2280	Unassigned	69028	US	0			Missouri		03/07/2021
+2280	Unassigned	69258	US	0			Missouri		03/08/2021
+2280	Unassigned	69520	US	0			Missouri		03/09/2021
+2280	Unassigned	69028	US	0			Missouri		03/10/2021
+2280	Unassigned	0	US	0			Missouri		03/11/2021
+2280	Unassigned	0	US	0			Missouri		03/12/2021
+2280	Unassigned	0	US	0			Missouri		03/13/2021
+2280	Unassigned	0	US	0			Missouri		03/14/2021
+2280	Unassigned	0	US	0			Missouri		03/15/2021
+2280	Unassigned	0	US	0			Missouri		03/16/2021
+2280	Unassigned	0	US	0			Missouri		03/17/2021
+2280	Unassigned	0	US	0			Missouri		03/18/2021
+2280	Unassigned	0	US	0			Missouri		03/19/2021
+2280	Unassigned	0	US	0			Missouri		03/20/2021
+2280	Unassigned	0	US	0			Missouri		03/21/2021
+2280	Unassigned	0	US	0			Missouri		03/22/2021
+2280	Unassigned	0	US	0			Missouri		03/23/2021
+2280	Unassigned	0	US	0			Missouri		03/24/2021
+2280	Unassigned	0	US	0			Missouri		03/25/2021
+2280	Unassigned	0	US	0			Missouri		03/26/2021
+2280	Unassigned	0	US	0			Missouri		03/27/2021
+2280	Unassigned	0	US	0			Missouri		03/28/2021
+2280	Unassigned	0	US	0			Missouri		03/29/2021
+2280	Unassigned	0	US	0			Missouri		03/30/2021
+2280	Unassigned	0	US	0			Missouri		03/31/2021
+2280	Unassigned	0	US	0			Missouri		04/01/2021
+2282	Unassigned	0	US	0			Missouri		04/02/2021
+2282	Unassigned	0	US	0			Missouri		04/03/2021
+2282	Unassigned	0	US	0			Missouri		04/04/2021
+2282	Unassigned	0	US	0			Missouri		04/05/2021
+2282	Unassigned	0	US	0			Missouri		04/06/2021
+2282	Unassigned	0	US	0			Missouri		04/07/2021
+2282	Unassigned	0	US	0			Missouri		04/08/2021
+2282	Unassigned	0	US	0			Missouri		04/09/2021
+2282	Unassigned	0	US	0			Missouri		04/10/2021
+2282	Unassigned	0	US	0			Missouri		04/11/2021
+2282	Unassigned	0	US	0			Missouri		04/12/2021
+2282	Unassigned	0	US	0			Missouri		04/13/2021
+2282	Unassigned	0	US	0			Missouri		04/14/2021
+2282	Unassigned	0	US	0			Missouri		04/15/2021
+2282	Unassigned	0	US	0			Missouri		04/16/2021
+2282	Unassigned	0	US	0			Missouri		04/17/2021

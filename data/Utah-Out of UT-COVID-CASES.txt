@@ -1,0 +1,12 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2180	Out of UT	13	US	0	0.0	0.0	Utah	0	03/23/2020
+2180	Out of UT	13	US	0	0.0	0.0	Utah	0	03/24/2020
+2180	Out of UT	14	US	0	0.0	0.0	Utah	0	03/25/2020
+2179	Out of UT	14	US	0	0.0	0.0	Utah	0	03/26/2020
+2179	Out of UT	14	US	0	0.0	0.0	Utah	0	03/27/2020
+2179	Out of UT	14	US	0	0.0	0.0	Utah	0	03/28/2020
+2179	Out of UT	14	US	0	0.0	0.0	Utah	0	03/29/2020
+2179	Out of UT	19	US	0	0.0	0.0	Utah	0	03/30/2020
+1482	Out of UT	22	US	0	0.0	0.0	Utah	0	03/31/2020
+1521	Out of UT	22	US	0	0.0	0.0	Utah	0	04/01/2020
+1581	Out of UT	22	US	0			Utah	0	04/02/2020

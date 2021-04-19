@@ -1,0 +1,5 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2234	Washington County	2	US	0	37.3225	-113.4776	Utah	0	04/03/2020
+2289	Washington County	3	US	0	37.3225	-113.4776	Utah	0	04/04/2020
+2366	Washington County	5	US	0	37.3225	-113.4776	Utah	0	04/05/2020
+2406	Washington County	5	US	0	37.3225	-113.4776	Utah	0	04/06/2020

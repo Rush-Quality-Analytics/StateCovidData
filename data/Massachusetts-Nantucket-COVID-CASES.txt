@@ -1,0 +1,11 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+1929	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/22/2020
+2042	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/23/2020
+2042	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/24/2020
+2042	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/25/2020
+2041	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/26/2020
+2041	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/27/2020
+2041	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/28/2020
+2041	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/29/2020
+2041	Nantucket	0	US	0	41.2942019	-70.08774729	Massachusetts	0	03/30/2020
+1955	Nantucket	13	US	0	41.2942019	-70.08774729	Massachusetts	0	06/15/2020

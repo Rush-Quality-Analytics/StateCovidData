@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+873	Unassigned	121	US	0	0.0	0.0	Arkansas	0	03/22/2020
+2856	Unassigned	3	US	0	0.0	0.0	Arkansas	0	03/23/2020
+2857	Unassigned	13	US	1	0.0	0.0	Arkansas	0	03/24/2020
+2858	Unassigned	20	US	1	0.0	0.0	Arkansas	0	03/25/2020
+2857	Unassigned	24	US	1	0.0	0.0	Arkansas	0	03/26/2020
+2857	Unassigned	35	US	2	0.0	0.0	Arkansas	0	03/27/2020
+2857	Unassigned	32	US	4	0.0	0.0	Arkansas	0	03/28/2020
+2857	Unassigned	31	US	5	0.0	0.0	Arkansas	0	03/29/2020
+2857	Unassigned	49	US	2	0.0	0.0	Arkansas	0	03/30/2020
+1929	Unassigned	34	US	3	0.0	0.0	Arkansas	0	03/31/2020
+1975	Unassigned	44	US	4	0.0	0.0	Arkansas	0	04/01/2020
+2045	Unassigned	43	US	6			Arkansas	0	04/02/2020
+2092	Unassigned	47	US	6			Arkansas	0	04/03/2020
+2145	Unassigned	53	US	8			Arkansas	0	04/04/2020
+2217	Unassigned	57	US	10			Arkansas	0	04/05/2020
+2254	Unassigned	67	US	10			Arkansas	0	04/06/2020
+2301	Unassigned	44	US	12			Arkansas	0	04/07/2020
+2324	Unassigned	44	US	12			Arkansas	0	04/08/2020
+2350	Unassigned	13	US	0			Arkansas	0	04/09/2020
+2374	Unassigned	21	US	0			Arkansas	0	04/10/2020
+2400	Unassigned	19	US	0			Arkansas	0	04/11/2020
+2422	Unassigned	25	US	0			Arkansas	0	04/12/2020
+2436	Unassigned	36	US	0			Arkansas	0	04/13/2020
+2446	Unassigned	45	US	0			Arkansas	0	04/14/2020
+2458	Unassigned	48	US	0			Arkansas	0	04/15/2020
+2472	Unassigned	44	US	0			Arkansas	0	04/16/2020
+2474	Unassigned	43	US	0			Arkansas	0	04/17/2020
+2481	Unassigned	42	US	0			Arkansas	0	04/18/2020
+2498	Unassigned	46	US	0			Arkansas	0	04/19/2020
+2506	Unassigned	45	US	0			Arkansas	0	04/20/2020
+2515	Unassigned	45	US	0			Arkansas	0	04/21/2020
+2522	Unassigned	95	US	0			Arkansas	0	04/22/2020
+2539	Unassigned	127	US	0			Arkansas	0	04/23/2020
+2545	Unassigned	182	US	0			Arkansas	0	04/24/2020
+2550	Unassigned	202	US	0			Arkansas	0	04/25/2020
+2558	Unassigned	216	US	0			Arkansas	0	04/26/2020
+2565	Unassigned	203	US	0			Arkansas	0	04/27/2020
+2574	Unassigned	220	US	0			Arkansas	0	04/28/2020
+2579	Unassigned	228	US	0			Arkansas	0	04/29/2020
+2585	Unassigned	168	US	0			Arkansas	0	04/30/2020
+2596	Unassigned	173	US	0			Arkansas	0	05/01/2020
+2599	Unassigned	178	US	0			Arkansas	0	05/02/2020
+2604	Unassigned	174	US	0			Arkansas	0	05/03/2020
+2607	Unassigned	176	US	0			Arkansas	0	05/04/2020
+2615	Unassigned	163	US	0			Arkansas	0	05/05/2020
+2621	Unassigned	145	US	0			Arkansas	0	05/06/2020
+2628	Unassigned	159	US	0			Arkansas	0	05/07/2020
+2635	Unassigned	154	US	0			Arkansas	0	05/08/2020
+2637	Unassigned	154	US	0			Arkansas	0	05/09/2020
+2639	Unassigned	127	US	0			Arkansas	0	05/10/2020
+2639	Unassigned	131	US	0			Arkansas	0	05/11/2020
+2642	Unassigned	137	US	0			Arkansas	0	05/12/2020
+2643	Unassigned	140	US	0			Arkansas	0	05/13/2020
+2645	Unassigned	135	US	0			Arkansas	0	05/14/2020
+2650	Unassigned	139	US	0			Arkansas	0	05/15/2020
+2654	Unassigned	131	US	0			Arkansas	0	05/16/2020
+2657	Unassigned	132	US	0			Arkansas	0	05/17/2020
+2659	Unassigned	130	US	0			Arkansas	0	05/18/2020
+2663	Unassigned	130	US	0			Arkansas	0	05/19/2020
+2669	Unassigned	133	US	0			Arkansas	0	05/20/2020
+2671	Unassigned	151	US	0			Arkansas	0	05/21/2020
+2678	Unassigned	144	US	0			Arkansas	0	05/22/2020
+2680	Unassigned	148	US	0			Arkansas	0	05/23/2020
+2683	Unassigned	150	US	0			Arkansas	0	05/24/2020
+2684	Unassigned	159	US	0			Arkansas	0	05/25/2020
+2685	Unassigned	174	US	0			Arkansas	0	05/26/2020
+2688	Unassigned	181	US	0			Arkansas	0	05/27/2020
+2691	Unassigned	199	US	0			Arkansas	0	05/28/2020
+2694	Unassigned	193	US	0			Arkansas	0	05/29/2020
+2696	Unassigned	196	US	0			Arkansas	0	05/30/2020
+2697	Unassigned	188	US	0			Arkansas	0	05/31/2020
+2699	Unassigned	189	US	0			Arkansas	0	06/01/2020
+2704	Unassigned	203	US	0			Arkansas	0	06/02/2020
+2706	Unassigned	249	US	0			Arkansas	0	06/03/2020
+2707	Unassigned	232	US	0			Arkansas	0	06/04/2020
+2711	Unassigned	244	US	0			Arkansas	0	06/05/2020
+2713	Unassigned	264	US	0			Arkansas	0	06/06/2020
+2713	Unassigned	264	US	0			Arkansas	0	06/07/2020
+2713	Unassigned	300	US	0			Arkansas	0	06/08/2020
+2715	Unassigned	294	US	0			Arkansas	0	06/09/2020
+2717	Unassigned	278	US	0			Arkansas	0	06/10/2020
+2719	Unassigned	302	US	0			Arkansas	0	06/11/2020
+2733	Unassigned	300	US	0			Arkansas	0	06/12/2020
+2736	Unassigned	321	US	0			Arkansas	0	06/13/2020
+2736	Unassigned	340	US	0			Arkansas	0	06/14/2020
+2740	Unassigned	344	US	0			Arkansas	0	06/15/2020
+2738	Unassigned	396	US	0			Arkansas	0	06/16/2020
+2740	Unassigned	391	US	0			Arkansas	0	06/17/2020
+2740	Unassigned	435	US	0			Arkansas	0	06/18/2020
+2741	Unassigned	533	US	0			Arkansas	0	06/19/2020
+2745	Unassigned	560	US	0			Arkansas	0	06/20/2020
+2745	Unassigned	571	US	0			Arkansas	0	06/21/2020
+2748	Unassigned	584	US	0			Arkansas	0	06/22/2020
+2753	Unassigned	683	US	0			Arkansas	0	06/23/2020
+2765	Unassigned	731	US	0			Arkansas	0	06/24/2020
+2770	Unassigned	935	US	0			Arkansas	0	06/25/2020
+2771	Unassigned	699	US	0			Arkansas	0	06/26/2020
+2772	Unassigned	733	US	0			Arkansas	0	06/27/2020
+2772	Unassigned	712	US	0			Arkansas	0	06/28/2020
+2774	Unassigned	731	US	0			Arkansas	0	06/29/2020
+2776	Unassigned	721	US	0			Arkansas	0	06/30/2020
+2778	Unassigned	706	US	0			Arkansas	0	07/01/2020
+2781	Unassigned	737	US	0			Arkansas	0	07/02/2020
+2786	Unassigned	783	US	0			Arkansas	0	07/03/2020
+2787	Unassigned	887	US	0			Arkansas	0	07/04/2020
+2788	Unassigned	907	US	0			Arkansas	0	07/05/2020
+2791	Unassigned	965	US	0			Arkansas	0	07/06/2020
+2792	Unassigned	914	US	0			Arkansas	0	07/07/2020
+2795	Unassigned	945	US	0			Arkansas	0	07/08/2020
+2794	Unassigned	935	US	0			Arkansas	0	07/09/2020
+2798	Unassigned	966	US	0			Arkansas	0	07/10/2020
+2799	Unassigned	1048	US	0			Arkansas	0	07/11/2020
+2801	Unassigned	1073	US	0			Arkansas	0	07/12/2020
+2802	Unassigned	1121	US	0			Arkansas	0	07/13/2020
+2808	Unassigned	1121	US	0			Arkansas	0	07/14/2020
+2809	Unassigned	1049	US	0			Arkansas	0	07/15/2020
+2811	Unassigned	1020	US	0			Arkansas	0	07/16/2020
+2811	Unassigned	1099	US	0			Arkansas	0	07/17/2020
+2884	Unassigned	1123	US	0			Arkansas	0	07/18/2020
+2884	Unassigned	1203	US	0			Arkansas	0	07/19/2020
+2808	Unassigned	1255	US	0			Arkansas	0	07/20/2020
+2888	Unassigned	1207	US	0			Arkansas	0	07/21/2020
+2889	Unassigned	1266	US	0			Arkansas	0	07/22/2020
+2892	Unassigned	1287	US	0			Arkansas	0	07/23/2020
+2891	Unassigned	1398	US	0			Arkansas	0	07/24/2020
+2892	Unassigned	1381	US	0			Arkansas	0	07/25/2020
+2893	Unassigned	1400	US	0			Arkansas	0	07/26/2020
+2893	Unassigned	1499	US	0			Arkansas	0	07/27/2020
+2893	Unassigned	1514	US	0			Arkansas	0	07/28/2020
+2897	Unassigned	1545	US	0			Arkansas	0	07/29/2020
+2897	Unassigned	1584	US	0			Arkansas	0	07/30/2020
+2899	Unassigned	1554	US	0			Arkansas	0	07/31/2020
+2899	Unassigned	1555	US	0			Arkansas	0	08/01/2020
+2899	Unassigned	1578	US	0			Arkansas	0	08/02/2020
+2899	Unassigned	1641	US	0			Arkansas	0	08/03/2020
+2900	Unassigned	1652	US	0			Arkansas	0	08/04/2020
+2904	Unassigned	1686	US	0			Arkansas	0	08/05/2020
+2904	Unassigned	1733	US	0			Arkansas	0	08/06/2020
+2904	Unassigned	1785	US	0			Arkansas	0	08/07/2020
+2904	Unassigned	1772	US	0			Arkansas	0	08/08/2020
+2904	Unassigned	1796	US	0			Arkansas	0	08/09/2020
+2904	Unassigned	1823	US	0			Arkansas	0	08/10/2020
+860	Unassigned	1811	US	0			Arkansas	0	08/11/2020
+814	Unassigned	1801	US	0			Arkansas	0	08/12/2020
+814	Unassigned	1816	US	0			Arkansas	0	08/13/2020
+814	Unassigned	1835	US	0			Arkansas	0	08/14/2020
+814	Unassigned	742	US	0			Arkansas	0	08/15/2020
+814	Unassigned	755	US	0			Arkansas	0	08/16/2020
+814	Unassigned	774	US	0			Arkansas	0	08/17/2020
+814	Unassigned	785	US	0			Arkansas	0	08/18/2020
+814	Unassigned	786	US	0			Arkansas	0	08/19/2020
+814	Unassigned	774	US	0			Arkansas	0	08/20/2020
+814	Unassigned	805	US	0			Arkansas	0	08/21/2020
+814	Unassigned	813	US	0			Arkansas	0	08/22/2020
+814	Unassigned	810	US	0			Arkansas	0	08/23/2020
+814	Unassigned	826	US	0			Arkansas	0	08/24/2020
+814	Unassigned	820	US	0			Arkansas	0	08/25/2020
+814	Unassigned	794	US	0			Arkansas	0	08/26/2020
+814	Unassigned	806	US	0			Arkansas	0	08/27/2020
+814	Unassigned	815	US	0			Arkansas	0	08/28/2020
+814	Unassigned	901	US	0			Arkansas	0	08/29/2020
+814	Unassigned	904	US	0			Arkansas	0	08/30/2020
+814	Unassigned	904	US	0			Arkansas	0	08/31/2020
+814	Unassigned	897	US	0			Arkansas	0	09/01/2020
+814	Unassigned	956	US	0			Arkansas	0	09/02/2020
+814	Unassigned	1029	US	0			Arkansas	0	09/03/2020
+814	Unassigned	1230	US	0			Arkansas	0	09/04/2020
+814	Unassigned	1214	US	0			Arkansas	0	09/05/2020
+814	Unassigned	1227	US	0			Arkansas	0	09/06/2020
+814	Unassigned	1227	US	0			Arkansas	0	09/07/2020
+814	Unassigned	1209	US	0			Arkansas	0	09/08/2020
+814	Unassigned	1157	US	0			Arkansas	0	09/09/2020
+814	Unassigned	1117	US	0			Arkansas	0	09/10/2020
+814	Unassigned	1287	US	0			Arkansas	0	09/11/2020
+814	Unassigned	1544	US	0			Arkansas	0	09/12/2020
+814	Unassigned	1641	US	0			Arkansas	0	09/13/2020
+814	Unassigned	1628	US	0			Arkansas	0	09/14/2020
+814	Unassigned	1595	US	0			Arkansas	0	09/15/2020
+814	Unassigned	1458	US	0			Arkansas	0	09/16/2020
+814	Unassigned	1535	US	0			Arkansas	0	09/17/2020
+814	Unassigned	1621	US	0			Arkansas	0	09/18/2020
+814	Unassigned	1649	US	0			Arkansas	0	09/19/2020
+814	Unassigned	1691	US	0			Arkansas	0	09/20/2020
+815	Unassigned	1686	US	0			Arkansas	0	09/21/2020
+815	Unassigned	1592	US	0			Arkansas	0	09/22/2020
+815	Unassigned	1624	US	0			Arkansas	0	09/23/2020
+815	Unassigned	1778	US	0			Arkansas	0	09/24/2020
+815	Unassigned	1766	US	0			Arkansas	0	09/25/2020
+815	Unassigned	1857	US	0			Arkansas	0	09/26/2020
+815	Unassigned	1772	US	0			Arkansas	0	09/27/2020
+815	Unassigned	1900	US	0			Arkansas	0	09/28/2020
+815	Unassigned	1892	US	0			Arkansas	0	09/29/2020
+815	Unassigned	1911	US	0			Arkansas	0	09/30/2020
+815	Unassigned	1970	US	0			Arkansas	0	10/01/2020
+815	Unassigned	2049	US	0			Arkansas	0	10/02/2020
+815	Unassigned	1973	US	0			Arkansas	0	10/03/2020
+815	Unassigned	2001	US	0			Arkansas	0	10/04/2020
+815	Unassigned	1965	US	0			Arkansas	0	10/05/2020
+815	Unassigned	1866	US	0			Arkansas	0	10/06/2020
+815	Unassigned	1930	US	0			Arkansas	0	10/07/2020
+815	Unassigned	1901	US	0			Arkansas	0	10/08/2020
+815	Unassigned	1897	US	0			Arkansas	0	10/09/2020
+815	Unassigned	1928	US	0			Arkansas	0	10/10/2020
+815	Unassigned	1968	US	0			Arkansas	0	10/11/2020
+816	Unassigned	1984	US	0			Arkansas	0	10/12/2020
+816	Unassigned	1975	US	0			Arkansas	0	10/13/2020
+816	Unassigned	2028	US	0			Arkansas	0	10/14/2020
+816	Unassigned	1908	US	0			Arkansas	0	10/15/2020
+817	Unassigned	1982	US	0			Arkansas	0	10/16/2020
+817	Unassigned	1985	US	0			Arkansas	0	10/17/2020
+817	Unassigned	1998	US	0			Arkansas	0	10/18/2020
+818	Unassigned	1990	US	0			Arkansas	0	10/19/2020
+818	Unassigned	1961	US	0			Arkansas	0	10/20/2020
+818	Unassigned	1999	US	0			Arkansas	0	10/21/2020
+818	Unassigned	2060	US	0			Arkansas	0	10/22/2020
+818	Unassigned	2142	US	0			Arkansas	0	10/23/2020
+818	Unassigned	2071	US	0			Arkansas	0	10/24/2020
+818	Unassigned	2192	US	0			Arkansas	0	10/25/2020
+818	Unassigned	2205	US	0			Arkansas	0	10/26/2020
+818	Unassigned	2098	US	0			Arkansas	0	10/27/2020
+819	Unassigned	2095	US	0.0			Arkansas	0	10/28/2020
+819	Unassigned	2085	US	0			Arkansas	0	10/29/2020
+819	Unassigned	2115	US	0			Arkansas	0	10/30/2020
+819	Unassigned	2111	US	0			Arkansas	0	10/31/2020
+819	Unassigned	1640	US	0			Arkansas	0	11/01/2020
+819	Unassigned	1675	US	0			Arkansas	0	11/02/2020
+820	Unassigned	1738	US	0			Arkansas	0	11/03/2020
+820	Unassigned	1604	US	0			Arkansas	0	11/04/2020
+820	Unassigned	1599	US	0			Arkansas	0	11/05/2020
+820	Unassigned	1711	US	0			Arkansas	0	11/06/2020
+820	Unassigned	1755	US	0			Arkansas	0	11/07/2020
+820	Unassigned	1868	US	0			Arkansas	0	11/08/2020
+820	Unassigned	1932	US	0			Arkansas	0.0	11/09/2020
+820	Unassigned	1847	US	0			Arkansas	0.0	11/10/2020
+820	Unassigned	1948	US	0			Arkansas	0.0	11/11/2020
+832	Unassigned	2013	US	0			Arkansas	0	11/12/2020
+832	Unassigned	2138	US	0			Arkansas	0	11/13/2020
+832	Unassigned	2106	US	0			Arkansas	0	11/14/2020
+832	Unassigned	2166	US	0			Arkansas	0	11/15/2020
+832	Unassigned	2179	US	0			Arkansas	0	11/16/2020
+832	Unassigned	2208	US	0			Arkansas	0	11/17/2020
+832	Unassigned	2379	US	0			Arkansas	0	11/18/2020
+832	Unassigned	2383	US	0			Arkansas	0	11/19/2020
+832	Unassigned	2404	US	0			Arkansas	0	11/20/2020
+832	Unassigned	2603	US	0			Arkansas	0	11/21/2020
+832	Unassigned	2578	US	0			Arkansas	0	11/22/2020
+832	Unassigned	2358	US	0			Arkansas	0	11/23/2020
+833	Unassigned	2433	US	0			Arkansas	0	11/24/2020
+833	Unassigned	2401	US	0			Arkansas	0	11/25/2020
+833	Unassigned	2566	US	0			Arkansas	0	11/26/2020
+833	Unassigned	2694	US	0			Arkansas	0	11/27/2020
+833	Unassigned	2799	US	0			Arkansas	0	11/28/2020
+833	Unassigned	2834	US	0			Arkansas	0	11/29/2020
+833	Unassigned	2494	US	0			Arkansas	0	11/30/2020
+833	Unassigned	2502	US	0			Arkansas	0	12/01/2020
+833	Unassigned	2499	US	0			Arkansas	0	12/02/2020
+833	Unassigned	2584	US	0			Arkansas	0	12/03/2020
+833	Unassigned	2575	US	0			Arkansas	0	12/04/2020
+833	Unassigned	2598	US	0			Arkansas	0	12/05/2020
+833	Unassigned	2696	US	0			Arkansas	0	12/06/2020
+833	Unassigned	2799	US	0			Arkansas	0	12/07/2020
+833	Unassigned	2722	US	0			Arkansas	0	12/08/2020
+833	Unassigned	2737	US	0			Arkansas	0	12/09/2020
+833	Unassigned	2858	US	0			Arkansas	0	12/10/2020
+833	Unassigned	2898	US	0			Arkansas	0	12/11/2020
+833	Unassigned	2924	US	0			Arkansas	0	12/12/2020
+833	Unassigned	3096	US	0			Arkansas	0	12/13/2020
+833	Unassigned	3135	US	0			Arkansas	0	12/14/2020
+833	Unassigned	3081	US	0			Arkansas	0	12/15/2020
+833	Unassigned	2822	US	0			Arkansas	0	12/16/2020
+833	Unassigned	2786	US	0			Arkansas	0	12/17/2020
+833	Unassigned	2814	US	0			Arkansas	0	12/18/2020
+833	Unassigned	2825	US	0			Arkansas	0	12/19/2020
+833	Unassigned	2852	US	0			Arkansas	0	12/20/2020
+833	Unassigned	2805	US	0			Arkansas	0	12/21/2020
+833	Unassigned	2772	US	0			Arkansas	0	12/22/2020
+833	Unassigned	2841	US	0			Arkansas	0	12/23/2020
+833	Unassigned	2731	US	0			Arkansas	0	12/24/2020
+833	Unassigned	2765	US	0			Arkansas	0	12/25/2020
+833	Unassigned	2720	US	0			Arkansas	0	12/26/2020
+833	Unassigned	2711	US	0			Arkansas	0	12/27/2020
+833	Unassigned	2732	US	0			Arkansas	0	12/28/2020
+833	Unassigned	2712	US	0			Arkansas	0	12/29/2020
+833	Unassigned	2716	US	0			Arkansas	0	12/30/2020
+833	Unassigned	2819	US	0			Arkansas	0	12/31/2020
+833	Unassigned	2828	US	0			Arkansas	0	01/01/2021
+833	Unassigned	2633	US	0			Arkansas	0	01/02/2021
+834	Unassigned	2649	US	0			Arkansas	0	01/03/2021
+834	Unassigned	2761	US	0			Arkansas	0	01/04/2021
+834	Unassigned	2779	US	0			Arkansas	0	01/05/2021
+834	Unassigned	2688	US	0			Arkansas	0	01/06/2021
+834	Unassigned	2763	US	0			Arkansas	0	01/07/2021
+834	Unassigned	2743	US	0			Arkansas	0	01/08/2021
+834	Unassigned	2765	US	0			Arkansas	0	01/09/2021
+834	Unassigned	2766	US	0			Arkansas	0	01/10/2021
+834	Unassigned	2829	US	0			Arkansas	0	01/11/2021
+834	Unassigned	2705	US	0			Arkansas	0	01/12/2021
+834	Unassigned	2681	US	0			Arkansas	0	01/13/2021
+834	Unassigned	2806	US	0			Arkansas	0	01/14/2021
+834	Unassigned	2846	US	0			Arkansas	0	01/15/2021
+834	Unassigned	2824	US	0			Arkansas	0	01/16/2021
+834	Unassigned	2792	US	0			Arkansas	0	01/17/2021
+834	Unassigned	2781	US	0			Arkansas	0	01/18/2021
+834	Unassigned	2835	US	0			Arkansas	0	01/19/2021
+834	Unassigned	2853	US	0			Arkansas	0	01/20/2021
+835	Unassigned	3088	US	0			Arkansas	0	01/21/2021
+835	Unassigned	3187	US	0			Arkansas	0	01/22/2021
+835	Unassigned	2947	US	0			Arkansas	0	01/23/2021
+835	Unassigned	2917	US	0			Arkansas	0	01/24/2021
+835	Unassigned	2906	US	0			Arkansas	0	01/25/2021
+835	Unassigned	2856	US	0			Arkansas	0	01/26/2021
+835	Unassigned	2823	US	0			Arkansas	0	01/27/2021
+835	Unassigned	2847	US	0			Arkansas	0	01/28/2021
+835	Unassigned	2858	US	0			Arkansas	0	01/29/2021
+835	Unassigned	2885	US	0			Arkansas	0	01/30/2021
+835	Unassigned	2907	US	0			Arkansas	0	01/31/2021
+835	Unassigned	2913	US	0			Arkansas	0	02/01/2021
+835	Unassigned	2845	US	0			Arkansas	0	02/02/2021
+835	Unassigned	2853	US	0			Arkansas	0	02/03/2021
+835	Unassigned	2892	US	0			Arkansas	0	02/04/2021
+835	Unassigned	2925	US	0			Arkansas	0	02/05/2021
+835	Unassigned	2938	US	0			Arkansas	0	02/06/2021
+835	Unassigned	2903	US	0			Arkansas	0	02/07/2021
+835	Unassigned	2883	US	0			Arkansas	0	02/08/2021
+835	Unassigned	2910	US	0			Arkansas	0	02/09/2021
+835	Unassigned	2920	US	0			Arkansas	0	02/10/2021
+835	Unassigned	2914	US	0			Arkansas	0	02/11/2021
+835	Unassigned	2823	US	0			Arkansas	0	02/12/2021
+835	Unassigned	2796	US	0			Arkansas	0	02/13/2021
+835	Unassigned	2843	US	0			Arkansas	0	02/14/2021
+835	Unassigned	2840	US	0			Arkansas	0	02/15/2021
+835	Unassigned	2819	US	0			Arkansas	0	02/16/2021
+835	Unassigned	2812	US	0			Arkansas	0	02/17/2021
+835	Unassigned	2800	US	0			Arkansas	0	02/18/2021
+836	Unassigned	2817	US	0			Arkansas	0	02/19/2021
+836	Unassigned	2819	US	0			Arkansas	0	02/20/2021
+836	Unassigned	2807	US	0			Arkansas	0	02/21/2021
+836	Unassigned	2777	US	0			Arkansas	0	02/22/2021
+836	Unassigned	2723	US	0			Arkansas	0	02/23/2021
+836	Unassigned	2750	US	0			Arkansas	0	02/24/2021
+836	Unassigned	2744	US	0			Arkansas	0	02/25/2021
+836	Unassigned	2740	US	0			Arkansas	0	02/26/2021
+836	Unassigned	2761	US	0			Arkansas	0	02/27/2021
+836	Unassigned	3416	US	0			Arkansas	0	02/28/2021
+836	Unassigned	3290	US	0			Arkansas	0	03/01/2021
+836	Unassigned	3296	US	0			Arkansas	0	03/02/2021
+836	Unassigned	3310	US	0			Arkansas	0	03/03/2021
+836	Unassigned	3300	US	0			Arkansas	0	03/04/2021
+836	Unassigned	3303	US	0			Arkansas	0	03/05/2021
+836	Unassigned	3285	US	0			Arkansas	0	03/06/2021
+836	Unassigned	3284	US	0			Arkansas		03/07/2021
+836	Unassigned	3273	US	0			Arkansas		03/08/2021
+836	Unassigned	3259	US	0			Arkansas		03/09/2021
+836	Unassigned	3226	US	0			Arkansas		03/10/2021
+836	Unassigned	3229	US	0			Arkansas		03/11/2021
+836	Unassigned	3225	US	0			Arkansas		03/12/2021
+836	Unassigned	3203	US	0			Arkansas		03/13/2021
+836	Unassigned	3192	US	0			Arkansas		03/14/2021
+836	Unassigned	3190	US	0			Arkansas		03/15/2021
+836	Unassigned	3191	US	0			Arkansas		03/16/2021
+836	Unassigned	3221	US	0			Arkansas		03/17/2021
+836	Unassigned	3196	US	0			Arkansas		03/18/2021
+836	Unassigned	3200	US	0			Arkansas		03/19/2021
+836	Unassigned	3198	US	0			Arkansas		03/20/2021
+836	Unassigned	3197	US	0			Arkansas		03/21/2021
+836	Unassigned	3194	US	0			Arkansas		03/22/2021
+836	Unassigned	3190	US	0			Arkansas		03/23/2021
+836	Unassigned	2937	US	0			Arkansas		03/24/2021
+836	Unassigned	2949	US	0			Arkansas		03/25/2021
+836	Unassigned	2956	US	0			Arkansas		03/26/2021
+836	Unassigned	2953	US	0			Arkansas		03/27/2021
+836	Unassigned	2954	US	0			Arkansas		03/28/2021
+836	Unassigned	2936	US	0			Arkansas		03/29/2021
+836	Unassigned	2787	US	0			Arkansas		03/30/2021
+836	Unassigned	2791	US	0			Arkansas		03/31/2021
+836	Unassigned	2796	US	0			Arkansas		04/01/2021
+838	Unassigned	2803	US	0			Arkansas		04/02/2021
+838	Unassigned	2799	US	0			Arkansas		04/03/2021
+838	Unassigned	2798	US	0			Arkansas		04/04/2021
+838	Unassigned	2791	US	0			Arkansas		04/05/2021
+838	Unassigned	2795	US	0			Arkansas		04/06/2021
+838	Unassigned	2801	US	0			Arkansas		04/07/2021
+838	Unassigned	2806	US	0			Arkansas		04/08/2021
+838	Unassigned	2809	US	0			Arkansas		04/09/2021
+838	Unassigned	2814	US	0			Arkansas		04/10/2021
+838	Unassigned	2914	US	0			Arkansas		04/11/2021
+838	Unassigned	2810	US	0			Arkansas		04/12/2021
+838	Unassigned	2809	US	0			Arkansas		04/13/2021
+838	Unassigned	2806	US	0			Arkansas		04/14/2021
+838	Unassigned	2815	US	0			Arkansas		04/15/2021
+838	Unassigned	2819	US	0			Arkansas		04/16/2021
+838	Unassigned	2824	US	0			Arkansas		04/17/2021

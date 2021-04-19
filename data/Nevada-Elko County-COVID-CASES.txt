@@ -1,0 +1,5 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+837	Elko County	1	US	0	41.14531606	-115.3577619	Nevada	0	03/22/2020
+867	Elko County	2	US	0	41.14531606	-115.3577619	Nevada	0	03/23/2020
+867	Elko County	2	US	0	41.14531606	-115.3577619	Nevada	0	03/24/2020
+867	Elko County	2	US	0	41.14531606	-115.3577619	Nevada	0	03/25/2020

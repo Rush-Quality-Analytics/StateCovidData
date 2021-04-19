@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+363	Unassigned	36	US	10	0.0	0.0	Georgia	0	03/22/2020
+2859	Unassigned	45	US	10	0.0	0.0	Georgia	0	03/23/2020
+2860	Unassigned	81	US	17	0.0	0.0	Georgia	0	03/24/2020
+2860	Unassigned	146	US	24	0.0	0.0	Georgia	0	03/25/2020
+2859	Unassigned	166	US	32	0.0	0.0	Georgia	0	03/26/2020
+2861	Unassigned	217	US	42	0.0	0.0	Georgia	0	03/27/2020
+2860	Unassigned	230	US	2	0.0	0.0	Georgia	0	03/28/2020
+2861	Unassigned	262	US	2	0.0	0.0	Georgia	0	03/29/2020
+2862	Unassigned	164	US	1	0.0	0.0	Georgia	0	03/30/2020
+1935	Unassigned	165	US	1	0.0	0.0	Georgia	0	03/31/2020
+1980	Unassigned	516	US	2	0.0	0.0	Georgia	0	04/01/2020
+2051	Unassigned	778	US	1			Georgia	0	04/02/2020
+2098	Unassigned	507	US	4			Georgia	0	04/03/2020
+2150	Unassigned	245	US	4			Georgia	0	04/04/2020
+2223	Unassigned	278	US	5			Georgia	0	04/05/2020
+2260	Unassigned	320	US	5			Georgia	0	04/06/2020
+2307	Unassigned	489	US	7			Georgia	0	04/07/2020
+2330	Unassigned	857	US	6			Georgia	0	04/08/2020
+2356	Unassigned	1020	US	8			Georgia	0	04/09/2020
+2380	Unassigned	1246	US	5			Georgia	0	04/10/2020
+2406	Unassigned	1397	US	4			Georgia	0	04/11/2020
+2428	Unassigned	1218	US	4			Georgia	0	04/12/2020
+2442	Unassigned	1219	US	1			Georgia	0	04/13/2020
+2452	Unassigned	287	US	7			Georgia	0	04/14/2020
+2464	Unassigned	263	US	7			Georgia	0	04/15/2020
+2478	Unassigned	144	US	0			Georgia	0	04/16/2020
+2480	Unassigned	255	US	0			Georgia	0	04/17/2020
+2487	Unassigned	220	US	0			Georgia	0	04/18/2020
+2504	Unassigned	254	US	0			Georgia	0	04/19/2020
+2512	Unassigned	296	US	2			Georgia	0	04/20/2020
+2521	Unassigned	470	US	0			Georgia	0	04/21/2020
+2528	Unassigned	667	US	0			Georgia	0	04/22/2020
+2545	Unassigned	361	US	0			Georgia	0	04/23/2020
+2551	Unassigned	447	US	0			Georgia	0	04/24/2020
+2556	Unassigned	608	US	1			Georgia	0	04/25/2020
+2564	Unassigned	622	US	0			Georgia	0	04/26/2020
+2571	Unassigned	633	US	2			Georgia	0	04/27/2020
+2580	Unassigned	608	US	2			Georgia	0	04/28/2020
+2585	Unassigned	579	US	2			Georgia	0	04/29/2020
+2591	Unassigned	394	US	0			Georgia	0	04/30/2020
+2602	Unassigned	647	US	0			Georgia	0	05/01/2020
+2605	Unassigned	652	US	0			Georgia	0	05/02/2020
+2610	Unassigned	694	US	0			Georgia	0	05/03/2020
+2613	Unassigned	703	US	3			Georgia	0	05/04/2020
+2621	Unassigned	686	US	3			Georgia	0	05/05/2020
+2627	Unassigned	528	US	0			Georgia	0	05/06/2020
+2634	Unassigned	850	US	0			Georgia	0	05/07/2020
+2641	Unassigned	854	US	0			Georgia	0	05/08/2020
+2643	Unassigned	750	US	0			Georgia	0	05/09/2020
+2645	Unassigned	840	US	2			Georgia	0	05/10/2020
+2645	Unassigned	914	US	2			Georgia	0	05/11/2020
+2648	Unassigned	1135	US	1			Georgia	0	05/12/2020
+2649	Unassigned	1284	US	0			Georgia	0	05/13/2020
+2651	Unassigned	1363	US	0			Georgia	0	05/14/2020
+2656	Unassigned	1644	US	0			Georgia	0	05/15/2020
+2660	Unassigned	1787	US	0			Georgia	0	05/16/2020
+2663	Unassigned	2035	US	0			Georgia	0	05/17/2020
+2665	Unassigned	2216	US	0			Georgia	0	05/18/2020
+2669	Unassigned	2136	US	0			Georgia	0	05/19/2020
+2675	Unassigned	2432	US	1			Georgia	0	05/20/2020
+2677	Unassigned	2464	US	2			Georgia	0	05/21/2020
+2684	Unassigned	2496	US	0			Georgia	0	05/22/2020
+2686	Unassigned	2682	US	0			Georgia	0	05/23/2020
+2689	Unassigned	2657	US	0			Georgia	0	05/24/2020
+2690	Unassigned	2294	US	0			Georgia	0	05/25/2020
+2691	Unassigned	1790	US	1			Georgia	0	05/26/2020
+2694	Unassigned	1372	US	0			Georgia	0	05/27/2020
+2697	Unassigned	1319	US	0			Georgia	0	05/28/2020
+2700	Unassigned	1025	US	0			Georgia	0	05/29/2020
+2702	Unassigned	1202	US	0			Georgia	0	05/30/2020
+2703	Unassigned	1698	US	1			Georgia	0	05/31/2020
+2705	Unassigned	1511	US	1			Georgia	0	06/01/2020
+2710	Unassigned	1561	US	0			Georgia	0	06/02/2020
+2712	Unassigned	1338	US	0			Georgia	0	06/03/2020
+2713	Unassigned	1196	US	0			Georgia	0	06/04/2020
+2717	Unassigned	1043	US	2			Georgia	0	06/05/2020
+2719	Unassigned	1127	US	2			Georgia	0	06/06/2020
+2719	Unassigned	1403	US	2			Georgia	0	06/07/2020
+2719	Unassigned	1322	US	2			Georgia	0	06/08/2020
+2721	Unassigned	1291	US	1			Georgia	0	06/09/2020
+2723	Unassigned	1160	US	1			Georgia	0	06/10/2020
+2725	Unassigned	1019	US	2			Georgia	0	06/11/2020
+2739	Unassigned	1021	US	1			Georgia	0	06/12/2020
+2742	Unassigned	1297	US	3			Georgia	0	06/13/2020
+2742	Unassigned	1675	US	3			Georgia	0	06/14/2020
+2746	Unassigned	1551	US	5			Georgia	0	06/15/2020
+2744	Unassigned	1470	US	2			Georgia	0	06/16/2020
+2746	Unassigned	1154	US	2			Georgia	0	06/17/2020
+2746	Unassigned	1147	US	1			Georgia	0	06/18/2020
+2747	Unassigned	886	US	2			Georgia	0	06/19/2020
+2751	Unassigned	1850	US	1			Georgia	0	06/20/2020
+2751	Unassigned	1958	US	1			Georgia	0	06/21/2020
+2754	Unassigned	1792	US	1			Georgia	0	06/22/2020
+2759	Unassigned	1482	US	2			Georgia	0	06/23/2020
+2771	Unassigned	1249	US	2			Georgia	0	06/24/2020
+2776	Unassigned	1341	US	2			Georgia	0	06/25/2020
+2777	Unassigned	1469	US	2			Georgia	0	06/26/2020
+2778	Unassigned	1593	US	2			Georgia	0	06/27/2020
+2778	Unassigned	2379	US	2			Georgia	0	06/28/2020
+2780	Unassigned	3621	US	2			Georgia	0	06/29/2020
+2782	Unassigned	2699	US	2			Georgia	0	06/30/2020
+2784	Unassigned	2395	US	2			Georgia	0	07/01/2020
+2787	Unassigned	2764	US	2			Georgia	0	07/02/2020
+2792	Unassigned	1992	US	2			Georgia	0	07/03/2020
+2793	Unassigned	1321	US	2			Georgia	0	07/04/2020
+2794	Unassigned	1383	US	2			Georgia	0	07/05/2020
+2797	Unassigned	1237	US	2			Georgia	0	07/06/2020
+2798	Unassigned	1180	US	2			Georgia	0	07/07/2020
+2801	Unassigned	1159	US	2			Georgia	0	07/08/2020
+2800	Unassigned	1211	US	2			Georgia	0	07/09/2020
+2804	Unassigned	1363	US	1			Georgia	0	07/10/2020
+2805	Unassigned	1485	US	2			Georgia	0	07/11/2020
+2807	Unassigned	1470	US	2			Georgia	0	07/12/2020
+2808	Unassigned	1410	US	2			Georgia	0	07/13/2020
+2814	Unassigned	1571	US	2			Georgia	0	07/14/2020
+2815	Unassigned	1664	US	3			Georgia	0	07/15/2020
+2817	Unassigned	1322	US	1			Georgia	0	07/16/2020
+2817	Unassigned	1303	US	1			Georgia	0	07/17/2020
+2890	Unassigned	1628	US	6			Georgia	0	07/18/2020
+2890	Unassigned	1754	US	6			Georgia	0	07/19/2020
+2814	Unassigned	1821	US	6			Georgia	0	07/20/2020
+2894	Unassigned	1680	US	7			Georgia	0	07/21/2020
+2895	Unassigned	1917	US	8			Georgia	0	07/22/2020
+2898	Unassigned	2223	US	4			Georgia	0	07/23/2020
+2897	Unassigned	2109	US	6			Georgia	0	07/24/2020
+2898	Unassigned	2057	US	7			Georgia	0	07/25/2020
+2899	Unassigned	2099	US	6			Georgia	0	07/26/2020
+2899	Unassigned	2202	US	6			Georgia	0	07/27/2020
+2899	Unassigned	2334	US	7			Georgia	0	07/28/2020
+2903	Unassigned	2429	US	6			Georgia	0	07/29/2020
+2903	Unassigned	2279	US	7			Georgia	0	07/30/2020
+2905	Unassigned	2311	US	6			Georgia	0	07/31/2020
+2905	Unassigned	2377	US	6			Georgia	0	08/01/2020
+2905	Unassigned	2471	US	6			Georgia	0	08/02/2020
+2905	Unassigned	2549	US	6			Georgia	0	08/03/2020
+2906	Unassigned	2534	US	6			Georgia	0	08/04/2020
+2910	Unassigned	2545	US	10			Georgia	0	08/05/2020
+2910	Unassigned	2472	US	9			Georgia	0	08/06/2020
+2910	Unassigned	2504	US	9			Georgia	0	08/07/2020
+2910	Unassigned	2559	US	9			Georgia	0	08/08/2020
+2910	Unassigned	2763	US	9			Georgia	0	08/09/2020
+2910	Unassigned	2856	US	9			Georgia	0	08/10/2020
+1218	Unassigned	2665	US	12			Georgia	0	08/11/2020
+1172	Unassigned	2730	US	8			Georgia	0	08/12/2020
+1172	Unassigned	2783	US	8			Georgia	0	08/13/2020
+1172	Unassigned	2765	US	7			Georgia	0	08/14/2020
+1172	Unassigned	2758	US	7			Georgia	0	08/15/2020
+1172	Unassigned	2731	US	5			Georgia	0	08/16/2020
+1172	Unassigned	2761	US	5			Georgia	0	08/17/2020
+1172	Unassigned	2725	US	8			Georgia	0	08/18/2020
+1172	Unassigned	2766	US	8			Georgia	0	08/19/2020
+1172	Unassigned	2719	US	7			Georgia	0	08/20/2020
+1172	Unassigned	2689	US	6			Georgia	0	08/21/2020
+1173	Unassigned	2685	US	4			Georgia	0	08/22/2020
+1173	Unassigned	2769	US	4			Georgia	0	08/23/2020
+1173	Unassigned	2668	US	4			Georgia	0	08/24/2020
+1173	Unassigned	2725	US	4			Georgia	0	08/25/2020
+1173	Unassigned	2597	US	5			Georgia	0	08/26/2020
+1173	Unassigned	2564	US	4			Georgia	0	08/27/2020
+1173	Unassigned	2497	US	4			Georgia	0	08/28/2020
+1173	Unassigned	2536	US	4			Georgia	0	08/29/2020
+1173	Unassigned	2598	US	4			Georgia	0	08/30/2020
+1173	Unassigned	2470	US	4			Georgia	0	08/31/2020
+1173	Unassigned	2480	US	4			Georgia	0	09/01/2020
+1173	Unassigned	2508	US	4			Georgia	0	09/02/2020
+1173	Unassigned	2419	US	3			Georgia	0	09/03/2020
+1173	Unassigned	2505	US	3			Georgia	0	09/04/2020
+1173	Unassigned	2468	US	3			Georgia	0	09/05/2020
+1173	Unassigned	2538	US	4			Georgia	0	09/06/2020
+1173	Unassigned	2492	US	4			Georgia	0	09/07/2020
+1173	Unassigned	2386	US	3			Georgia	0	09/08/2020
+1173	Unassigned	2409	US	3			Georgia	0	09/09/2020
+1173	Unassigned	2440	US	3			Georgia	0	09/10/2020
+1173	Unassigned	2426	US	3			Georgia	0	09/11/2020
+1173	Unassigned	2467	US	3			Georgia	0	09/12/2020
+1173	Unassigned	2459	US	3			Georgia	0	09/13/2020
+1173	Unassigned	2414	US	3			Georgia	0	09/14/2020
+1173	Unassigned	2415	US	3			Georgia	0	09/15/2020
+1173	Unassigned	2426	US	4			Georgia	0	09/16/2020
+1173	Unassigned	2456	US	4			Georgia	0	09/17/2020
+1173	Unassigned	2465	US	4			Georgia	0	09/18/2020
+1173	Unassigned	2399	US	5			Georgia	0	09/19/2020
+1173	Unassigned	2386	US	5			Georgia	0	09/20/2020
+1174	Unassigned	2386	US	5			Georgia	0	09/21/2020
+1174	Unassigned	2342	US	5			Georgia	0	09/22/2020
+1174	Unassigned	2263	US	6			Georgia	0	09/23/2020
+1174	Unassigned	2235	US	7			Georgia	0	09/24/2020
+1174	Unassigned	2223	US	7			Georgia	0	09/25/2020
+1174	Unassigned	2235	US	6			Georgia	0	09/26/2020
+1174	Unassigned	2237	US	6			Georgia	0	09/27/2020
+1174	Unassigned	2223	US	6			Georgia	0	09/28/2020
+1174	Unassigned	2231	US	6			Georgia	0	09/29/2020
+1174	Unassigned	2206	US	7			Georgia	0	09/30/2020
+1174	Unassigned	2206	US	7			Georgia	0	10/01/2020
+1174	Unassigned	2219	US	6			Georgia	0	10/02/2020
+1174	Unassigned	2248	US	6			Georgia	0	10/03/2020
+1174	Unassigned	2272	US	6			Georgia	0	10/04/2020
+1174	Unassigned	2277	US	7			Georgia	0	10/05/2020
+1174	Unassigned	2195	US	7			Georgia	0	10/06/2020
+1174	Unassigned	2206	US	6			Georgia	0	10/07/2020
+1174	Unassigned	2148	US	4			Georgia	0	10/08/2020
+1174	Unassigned	2159	US	4			Georgia	0	10/09/2020
+1174	Unassigned	2126	US	5			Georgia	0	10/10/2020
+1174	Unassigned	2077	US	4			Georgia	0	10/11/2020
+1175	Unassigned	2083	US	4			Georgia	0	10/12/2020
+1175	Unassigned	2030	US	4			Georgia	0	10/13/2020
+1175	Unassigned	2014	US	4			Georgia	0	10/14/2020
+1175	Unassigned	2043	US	4			Georgia	0	10/15/2020
+1176	Unassigned	1937	US	6			Georgia	0	10/16/2020
+1176	Unassigned	1927	US	6			Georgia	0	10/17/2020
+1176	Unassigned	1954	US	6			Georgia	0	10/18/2020
+1177	Unassigned	1940	US	6			Georgia	0	10/19/2020
+1177	Unassigned	1865	US	6			Georgia	0	10/20/2020
+1177	Unassigned	1906	US	6			Georgia	0	10/21/2020
+1177	Unassigned	1971	US	7			Georgia	0	10/22/2020
+1177	Unassigned	1947	US	5			Georgia	0	10/23/2020
+1177	Unassigned	1898	US	5			Georgia	0	10/24/2020
+1177	Unassigned	1946	US	5			Georgia	0	10/25/2020
+1177	Unassigned	1950	US	5			Georgia	0	10/26/2020
+1177	Unassigned	1873	US	5			Georgia	0	10/27/2020
+1178	Unassigned	1888	US	6.0			Georgia	0	10/28/2020
+1178	Unassigned	1887	US	7			Georgia	0	10/29/2020
+1178	Unassigned	1827	US	6			Georgia	0	10/30/2020
+1178	Unassigned	1871	US	6			Georgia	0	10/31/2020
+1178	Unassigned	1901	US	6			Georgia	0	11/01/2020
+1178	Unassigned	1920	US	6			Georgia	0	11/02/2020
+1179	Unassigned	931	US	7			Georgia	0	11/03/2020
+1179	Unassigned	931	US	30			Georgia	0	11/04/2020
+1179	Unassigned	944	US	5			Georgia	0	11/05/2020
+1179	Unassigned	951	US	6			Georgia	0	11/06/2020
+1179	Unassigned	956	US	30			Georgia	0	11/07/2020
+1179	Unassigned	957	US	30			Georgia	0	11/08/2020
+1179	Unassigned	2281	US	7			Georgia	0.0	11/09/2020
+1179	Unassigned	2282	US	7			Georgia	0.0	11/10/2020
+1179	Unassigned	2284	US	6			Georgia	0.0	11/11/2020
+1191	Unassigned	2349	US	6			Georgia	0	11/12/2020
+1191	Unassigned	2381	US	6			Georgia	0	11/13/2020
+1191	Unassigned	2444	US	6			Georgia	0	11/14/2020
+1191	Unassigned	2475	US	6			Georgia	0	11/15/2020
+1191	Unassigned	2526	US	6			Georgia	0	11/16/2020
+1191	Unassigned	2443	US	6			Georgia	0	11/17/2020
+1191	Unassigned	2497	US	3			Georgia	0	11/18/2020
+1191	Unassigned	2458	US	2			Georgia	0	11/19/2020
+1191	Unassigned	2445	US	2			Georgia	0	11/20/2020
+1191	Unassigned	2441	US	2			Georgia	0	11/21/2020
+1191	Unassigned	2482	US	3			Georgia	0	11/22/2020
+1191	Unassigned	2498	US	3			Georgia	0	11/23/2020
+1192	Unassigned	2573	US	2			Georgia	0	11/24/2020
+1192	Unassigned	2466	US	2			Georgia	0	11/25/2020
+1192	Unassigned	2479	US	2			Georgia	0	11/26/2020
+1192	Unassigned	2516	US	2			Georgia	0	11/27/2020
+1192	Unassigned	2497	US	1			Georgia	0	11/28/2020
+1192	Unassigned	2536	US	1			Georgia	0	11/29/2020
+1192	Unassigned	2445	US	1			Georgia	0	11/30/2020
+1192	Unassigned	2541	US	2			Georgia	0	12/01/2020
+1192	Unassigned	2647	US	2			Georgia	0	12/02/2020
+1192	Unassigned	2710	US	1			Georgia	0	12/03/2020
+1192	Unassigned	2829	US	1			Georgia	0	12/04/2020
+1192	Unassigned	2778	US	1			Georgia	0	12/05/2020
+1192	Unassigned	2834	US	1			Georgia	0	12/06/2020
+1192	Unassigned	2916	US	1			Georgia	0	12/07/2020
+1192	Unassigned	2807	US	1			Georgia	0	12/08/2020
+1192	Unassigned	2962	US	1			Georgia	0	12/09/2020
+1192	Unassigned	2943	US	1			Georgia	0	12/10/2020
+1192	Unassigned	2936	US	2			Georgia	0	12/11/2020
+1192	Unassigned	3017	US	2			Georgia	0	12/12/2020
+1192	Unassigned	3016	US	2			Georgia	0	12/13/2020
+1192	Unassigned	3054	US	2			Georgia	0	12/14/2020
+1192	Unassigned	3081	US	3			Georgia	0	12/15/2020
+1192	Unassigned	3173	US	3			Georgia	0	12/16/2020
+1192	Unassigned	3195	US	3			Georgia	0	12/17/2020
+1192	Unassigned	3259	US	3			Georgia	0	12/18/2020
+1192	Unassigned	3272	US	3			Georgia	0	12/19/2020
+1192	Unassigned	3367	US	3			Georgia	0	12/20/2020
+1192	Unassigned	3394	US	3			Georgia	0	12/21/2020
+1192	Unassigned	3418	US	3			Georgia	0	12/22/2020
+1192	Unassigned	3467	US	4			Georgia	0	12/23/2020
+1192	Unassigned	3342	US	3			Georgia	0	12/24/2020
+1192	Unassigned	3431	US	3			Georgia	0	12/25/2020
+1192	Unassigned	3495	US	3			Georgia	0	12/26/2020
+1192	Unassigned	3532	US	3			Georgia	0	12/27/2020
+1192	Unassigned	3496	US	3			Georgia	0	12/28/2020
+1192	Unassigned	3433	US	3			Georgia	0	12/29/2020
+1192	Unassigned	3491	US	6			Georgia	0	12/30/2020
+1192	Unassigned	3612	US	6			Georgia	0	12/31/2020
+1192	Unassigned	3676	US	6			Georgia	0	01/01/2021
+1192	Unassigned	3775	US	6			Georgia	0	01/02/2021
+1193	Unassigned	3844	US	6			Georgia	0	01/03/2021
+1193	Unassigned	3775	US	6			Georgia	0	01/04/2021
+1193	Unassigned	3728	US	6			Georgia	0	01/05/2021
+1193	Unassigned	3978	US	6			Georgia	0	01/06/2021
+1193	Unassigned	3983	US	6			Georgia	0	01/07/2021
+1193	Unassigned	4090	US	7			Georgia	0	01/08/2021
+1193	Unassigned	4254	US	9			Georgia	0	01/09/2021
+1193	Unassigned	4362	US	9			Georgia	0	01/10/2021
+1193	Unassigned	4362	US	8			Georgia	0	01/11/2021
+1193	Unassigned	4040	US	9			Georgia	0	01/12/2021
+1193	Unassigned	4089	US	9			Georgia	0	01/13/2021
+1193	Unassigned	4008	US	11			Georgia	0	01/14/2021
+1193	Unassigned	4048	US	12			Georgia	0	01/15/2021
+1193	Unassigned	4109	US	13			Georgia	0	01/16/2021
+1193	Unassigned	4219	US	14			Georgia	0	01/17/2021
+1193	Unassigned	4269	US	14			Georgia	0	01/18/2021
+1193	Unassigned	4370	US	15			Georgia	0	01/19/2021
+1193	Unassigned	4284	US	15			Georgia	0	01/20/2021
+1194	Unassigned	4080	US	14			Georgia	0	01/21/2021
+1194	Unassigned	4094	US	14			Georgia	0	01/22/2021
+1194	Unassigned	4145	US	14			Georgia	0	01/23/2021
+1194	Unassigned	4116	US	14			Georgia	0	01/24/2021
+1194	Unassigned	4102	US	14			Georgia	0	01/25/2021
+1194	Unassigned	4172	US	15			Georgia	0	01/26/2021
+1194	Unassigned	4185	US	17			Georgia	0	01/27/2021
+1194	Unassigned	4248	US	15			Georgia	0	01/28/2021
+1194	Unassigned	4155	US	14			Georgia	0	01/29/2021
+1194	Unassigned	4125	US	10			Georgia	0	01/30/2021
+1194	Unassigned	4207	US	10			Georgia	0	01/31/2021
+1194	Unassigned	4250	US	10			Georgia	0	02/01/2021
+1194	Unassigned	4024	US	10			Georgia	0	02/02/2021
+1194	Unassigned	4005	US	9			Georgia	0	02/03/2021
+1194	Unassigned	3927	US	9			Georgia	0	02/04/2021
+1194	Unassigned	3932	US	10			Georgia	0	02/05/2021
+1194	Unassigned	3960	US	9			Georgia	0	02/06/2021
+1194	Unassigned	3986	US	9			Georgia	0	02/07/2021
+1194	Unassigned	4007	US	9			Georgia	0	02/08/2021
+1194	Unassigned	3945	US	15			Georgia	0	02/09/2021
+1194	Unassigned	3997	US	16			Georgia	0	02/10/2021
+1194	Unassigned	3970	US	10			Georgia	0	02/11/2021
+1194	Unassigned	3981	US	11			Georgia	0	02/12/2021
+1194	Unassigned	3981	US	10			Georgia	0	02/13/2021
+1194	Unassigned	3980	US	10			Georgia	0	02/14/2021
+1194	Unassigned	3995	US	10			Georgia	0	02/15/2021
+1194	Unassigned	3996	US	10			Georgia	0	02/16/2021
+1194	Unassigned	3982	US	10			Georgia	0	02/17/2021
+1194	Unassigned	3922	US	10			Georgia	0	02/18/2021
+1195	Unassigned	3920	US	11			Georgia	0	02/19/2021
+1195	Unassigned	3952	US	10			Georgia	0	02/20/2021
+1195	Unassigned	3941	US	10			Georgia	0	02/21/2021
+1195	Unassigned	3928	US	10			Georgia	0	02/22/2021
+1195	Unassigned	3937	US	11			Georgia	0	02/23/2021
+1195	Unassigned	3750	US	11			Georgia	0	02/24/2021
+1195	Unassigned	3660	US	12			Georgia	0	02/25/2021
+1195	Unassigned	3594	US	12			Georgia	0	02/26/2021
+1195	Unassigned	3599	US	12			Georgia	0	02/27/2021
+1195	Unassigned	3602	US	12			Georgia	0	02/28/2021
+1195	Unassigned	3586	US	12			Georgia	0	03/01/2021
+1195	Unassigned	3562	US	12			Georgia	0	03/02/2021
+1195	Unassigned	3534	US	11			Georgia	0	03/03/2021
+1195	Unassigned	3520	US	11			Georgia	0	03/04/2021
+1195	Unassigned	3521	US	11			Georgia	0	03/05/2021
+1195	Unassigned	3505	US	11			Georgia	0	03/06/2021
+1195	Unassigned	3512	US	11			Georgia		03/07/2021
+1195	Unassigned	3511	US	11			Georgia		03/08/2021
+1195	Unassigned	3465	US	11			Georgia		03/09/2021
+1195	Unassigned	3470	US	10			Georgia		03/10/2021
+1195	Unassigned	3463	US	10			Georgia		03/11/2021
+1195	Unassigned	3500	US	10			Georgia		03/12/2021
+1195	Unassigned	3485	US	11			Georgia		03/13/2021
+1195	Unassigned	3485	US	11			Georgia		03/14/2021
+1195	Unassigned	3474	US	11			Georgia		03/15/2021
+1195	Unassigned	3453	US	11			Georgia		03/16/2021
+1195	Unassigned	3391	US	11			Georgia		03/17/2021
+1195	Unassigned	3403	US	11			Georgia		03/18/2021
+1195	Unassigned	3378	US	11			Georgia		03/19/2021
+1195	Unassigned	3393	US	11			Georgia		03/20/2021
+1195	Unassigned	3377	US	11			Georgia		03/21/2021
+1195	Unassigned	3363	US	11			Georgia		03/22/2021
+1195	Unassigned	3369	US	11			Georgia		03/23/2021
+1195	Unassigned	3336	US	11			Georgia		03/24/2021
+1195	Unassigned	3329	US	13			Georgia		03/25/2021
+1195	Unassigned	3320	US	12			Georgia		03/26/2021
+1195	Unassigned	3304	US	13			Georgia		03/27/2021
+1195	Unassigned	3302	US	11			Georgia		03/28/2021
+1195	Unassigned	3310	US	11			Georgia		03/29/2021
+1195	Unassigned	3347	US	12			Georgia		03/30/2021
+1195	Unassigned	3311	US	11			Georgia		03/31/2021
+1195	Unassigned	3257	US	11			Georgia		04/01/2021
+1197	Unassigned	3226	US	11			Georgia		04/02/2021
+1197	Unassigned	3203	US	11			Georgia		04/03/2021
+1197	Unassigned	3207	US	11			Georgia		04/04/2021
+1197	Unassigned	3208	US	11			Georgia		04/05/2021
+1197	Unassigned	3211	US	12			Georgia		04/06/2021
+1197	Unassigned	3209	US	11			Georgia		04/07/2021
+1197	Unassigned	3216	US	12			Georgia		04/08/2021
+1197	Unassigned	3220	US	12			Georgia		04/09/2021
+1197	Unassigned	3217	US	12			Georgia		04/10/2021
+1197	Unassigned	3205	US	11			Georgia		04/11/2021
+1197	Unassigned	3198	US	11			Georgia		04/12/2021
+1197	Unassigned	3186	US	12			Georgia		04/13/2021
+1197	Unassigned	3182	US	12			Georgia		04/14/2021
+1197	Unassigned	3161	US	13			Georgia		04/15/2021
+1197	Unassigned	3167	US	13			Georgia		04/16/2021
+1197	Unassigned	3173	US	13			Georgia		04/17/2021
