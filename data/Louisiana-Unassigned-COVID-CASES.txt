@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+249	Unassigned	50	US	0	0.0	0.0	Louisiana	0	03/22/2020
+2863	Unassigned	11	US	0	0.0	0.0	Louisiana	0	03/23/2020
+2865	Unassigned	12	US	1	0.0	0.0	Louisiana	0	03/24/2020
+2864	Unassigned	11	US	1	0.0	0.0	Louisiana	0	03/25/2020
+2863	Unassigned	13	US	1	0.0	0.0	Louisiana	0	03/26/2020
+2864	Unassigned	16	US	1	0.0	0.0	Louisiana	0	03/27/2020
+2864	Unassigned	9	US	1	0.0	0.0	Louisiana	0	03/28/2020
+2865	Unassigned	8	US	0	0.0	0.0	Louisiana	0	03/29/2020
+2866	Unassigned	14	US	0	0.0	0.0	Louisiana	0	03/30/2020
+1940	Unassigned	22	US	4	0.0	0.0	Louisiana	0	03/31/2020
+1985	Unassigned	28	US	0	0.0	0.0	Louisiana	0	04/01/2020
+2057	Unassigned	38	US	1			Louisiana	0	04/02/2020
+2103	Unassigned	40	US	4			Louisiana	0	04/03/2020
+2156	Unassigned	31	US	0			Louisiana	0	04/04/2020
+2230	Unassigned	31	US	4			Louisiana	0	04/05/2020
+2268	Unassigned	48	US	3			Louisiana	0	04/06/2020
+2315	Unassigned	49	US	2			Louisiana	0	04/07/2020
+2338	Unassigned	49	US	2			Louisiana	0	04/08/2020
+2364	Unassigned	51	US	2			Louisiana	0	04/09/2020
+2388	Unassigned	54	US	2			Louisiana	0	04/10/2020
+2414	Unassigned	54	US	3			Louisiana	0	04/11/2020
+2436	Unassigned	54	US	3			Louisiana	0	04/12/2020
+2450	Unassigned	56	US	0			Louisiana	0	04/13/2020
+2460	Unassigned	56	US	0			Louisiana	0	04/14/2020
+2472	Unassigned	56	US	1			Louisiana	0	04/15/2020
+2486	Unassigned	56	US	1			Louisiana	0	04/16/2020
+2488	Unassigned	56	US	1			Louisiana	0	04/17/2020
+2495	Unassigned	57	US	1			Louisiana	0	04/18/2020
+2512	Unassigned	58	US	1			Louisiana	0	04/19/2020
+2520	Unassigned	59	US	1			Louisiana	0	04/20/2020
+2529	Unassigned	59	US	2			Louisiana	0	04/21/2020
+2536	Unassigned	60	US	1			Louisiana	0	04/22/2020
+2553	Unassigned	62	US	59			Louisiana	0	04/23/2020
+2559	Unassigned	63	US	59			Louisiana	0	04/24/2020
+2564	Unassigned	63	US	63			Louisiana	0	04/25/2020
+2572	Unassigned	64	US	59			Louisiana	0	04/26/2020
+2579	Unassigned	64	US	43			Louisiana	0	04/27/2020
+2588	Unassigned	61	US	43			Louisiana	0	04/28/2020
+2593	Unassigned	61	US	43			Louisiana	0	04/29/2020
+2599	Unassigned	61	US	43			Louisiana	0	04/30/2020
+2610	Unassigned	63	US	43			Louisiana	0	05/01/2020
+2613	Unassigned	63	US	43			Louisiana	0	05/02/2020
+2618	Unassigned	63	US	43			Louisiana	0	05/03/2020
+2621	Unassigned	63	US	73			Louisiana	0	05/04/2020
+2629	Unassigned	63	US	73			Louisiana	0	05/05/2020
+2635	Unassigned	63	US	74			Louisiana	0	05/06/2020
+2642	Unassigned	63	US	74			Louisiana	0	05/07/2020
+2649	Unassigned	63	US	74			Louisiana	0	05/08/2020
+2651	Unassigned	64	US	74			Louisiana	0	05/09/2020
+2653	Unassigned	64	US	74			Louisiana	0	05/10/2020
+2653	Unassigned	64	US	68			Louisiana	0	05/11/2020
+2656	Unassigned	64	US	67			Louisiana	0	05/12/2020
+2657	Unassigned	64	US	66			Louisiana	0	05/13/2020
+2659	Unassigned	65	US	66			Louisiana	0	05/14/2020
+2664	Unassigned	65	US	66			Louisiana	0	05/15/2020
+2668	Unassigned	72	US	66			Louisiana	0	05/16/2020
+2671	Unassigned	72	US	66			Louisiana	0	05/17/2020
+2673	Unassigned	72	US	123			Louisiana	0	05/18/2020
+2677	Unassigned	72	US	123			Louisiana	0	05/19/2020
+2683	Unassigned	72	US	123			Louisiana	0	05/20/2020
+2685	Unassigned	78	US	123			Louisiana	0	05/21/2020
+2692	Unassigned	103	US	162			Louisiana	0	05/22/2020
+2694	Unassigned	103	US	162			Louisiana	0	05/23/2020
+2697	Unassigned	78	US	123			Louisiana	0	05/24/2020
+2698	Unassigned	77	US	105			Louisiana	0	05/25/2020
+2699	Unassigned	77	US	105			Louisiana	0	05/26/2020
+2702	Unassigned	84	US	105			Louisiana	0	05/27/2020
+2705	Unassigned	84	US	105			Louisiana	0	05/28/2020
+2708	Unassigned	84	US	105			Louisiana	0	05/29/2020
+2710	Unassigned	84	US	105			Louisiana	0	05/30/2020
+2711	Unassigned	84	US	105			Louisiana	0	05/31/2020
+2713	Unassigned	84	US	111			Louisiana	0	06/01/2020
+2718	Unassigned	85	US	111			Louisiana	0	06/02/2020
+2720	Unassigned	85	US	111			Louisiana	0	06/03/2020
+2721	Unassigned	88	US	111			Louisiana	0	06/04/2020
+2725	Unassigned	88	US	111			Louisiana	0	06/05/2020
+2727	Unassigned	120	US	111			Louisiana	0	06/06/2020
+2727	Unassigned	120	US	111			Louisiana	0	06/07/2020
+2727	Unassigned	120	US	113			Louisiana	0	06/08/2020
+2729	Unassigned	195	US	113			Louisiana	0	06/09/2020
+2731	Unassigned	214	US	113			Louisiana	0	06/10/2020
+2733	Unassigned	214	US	113			Louisiana	0	06/11/2020
+2747	Unassigned	240	US	113			Louisiana	0	06/12/2020
+2750	Unassigned	293	US	113			Louisiana	0	06/13/2020
+2750	Unassigned	293	US	113			Louisiana	0	06/14/2020
+2754	Unassigned	319	US	112			Louisiana	0	06/15/2020
+2752	Unassigned	393	US	112			Louisiana	0	06/16/2020
+2754	Unassigned	458	US	112			Louisiana	0	06/17/2020
+2754	Unassigned	458	US	112			Louisiana	0	06/18/2020
+2755	Unassigned	3	US	112			Louisiana	0	06/19/2020
+2759	Unassigned	8	US	112			Louisiana	0	06/20/2020
+2759	Unassigned	8	US	112			Louisiana	0	06/21/2020
+2762	Unassigned	8	US	113			Louisiana	0	06/22/2020
+2767	Unassigned	3	US	113			Louisiana	0	06/23/2020
+2779	Unassigned	8	US	113			Louisiana	0	06/24/2020
+2784	Unassigned	10	US	113			Louisiana	0	06/25/2020
+2785	Unassigned	11	US	113			Louisiana	0	06/26/2020
+2786	Unassigned	11	US	113			Louisiana	0	06/27/2020
+2786	Unassigned	11	US	113			Louisiana	0	06/28/2020
+2788	Unassigned	11	US	108			Louisiana	0	06/29/2020
+2790	Unassigned	2	US	108			Louisiana	0	06/30/2020
+2792	Unassigned	3	US	108			Louisiana	0	07/01/2020
+2795	Unassigned	5	US	108			Louisiana	0	07/02/2020
+2800	Unassigned	7	US	108			Louisiana	0	07/03/2020
+2801	Unassigned	7	US	108			Louisiana	0	07/04/2020
+2802	Unassigned	8	US	108			Louisiana	0	07/05/2020
+2805	Unassigned	8	US	108			Louisiana	0	07/06/2020
+2806	Unassigned	33	US	108			Louisiana	0	07/07/2020
+2809	Unassigned	0	US	108			Louisiana	0	07/08/2020
+2808	Unassigned	0	US	108			Louisiana	0	07/09/2020
+2812	Unassigned	2	US	108			Louisiana	0	07/10/2020
+2813	Unassigned	4	US	108			Louisiana	0	07/11/2020
+2815	Unassigned	4	US	108			Louisiana	0	07/12/2020
+2816	Unassigned	7	US	108			Louisiana	0	07/13/2020
+2822	Unassigned	0	US	108			Louisiana	0	07/14/2020
+2823	Unassigned	2	US	110			Louisiana	0	07/15/2020
+2825	Unassigned	3	US	110			Louisiana	0	07/16/2020
+2825	Unassigned	4	US	110			Louisiana	0	07/17/2020
+2898	Unassigned	4	US	110			Louisiana	0	07/18/2020
+2898	Unassigned	5	US	110			Louisiana	0	07/19/2020
+2822	Unassigned	8	US	0			Louisiana	0	07/20/2020
+2902	Unassigned	6	US	0			Louisiana	0	07/21/2020
+2903	Unassigned	9	US	0			Louisiana	0	07/22/2020
+2906	Unassigned	9	US	0			Louisiana	0	07/23/2020
+2905	Unassigned	10	US	112			Louisiana	0	07/24/2020
+2906	Unassigned	10	US	112			Louisiana	0	07/25/2020
+2907	Unassigned	10	US	112			Louisiana	0	07/26/2020
+2907	Unassigned	10	US	112			Louisiana	0	07/27/2020
+2907	Unassigned	10	US	112			Louisiana	0	07/28/2020
+2911	Unassigned	10	US	114			Louisiana	0	07/29/2020
+2911	Unassigned	10	US	114			Louisiana	0	07/30/2020
+2913	Unassigned	10	US	114			Louisiana	0	07/31/2020
+2913	Unassigned	10	US	114			Louisiana	0	08/01/2020
+2913	Unassigned	11	US	114			Louisiana	0	08/02/2020
+2913	Unassigned	11	US	114			Louisiana	0	08/03/2020
+2914	Unassigned	218	US	114			Louisiana	0	08/04/2020
+2918	Unassigned	217	US	118			Louisiana	0	08/05/2020
+2918	Unassigned	212	US	118			Louisiana	0	08/06/2020
+2918	Unassigned	213	US	118			Louisiana	0	08/07/2020
+2918	Unassigned	213	US	118			Louisiana	0	08/08/2020
+2918	Unassigned	253	US	118			Louisiana	0	08/09/2020
+2918	Unassigned	254	US	118			Louisiana	0	08/10/2020
+1865	Unassigned	255	US	118			Louisiana	0	08/11/2020
+1819	Unassigned	236	US	118			Louisiana	0	08/12/2020
+1820	Unassigned	240	US	123			Louisiana	0	08/13/2020
+1820	Unassigned	238	US	123			Louisiana	0	08/14/2020
+1820	Unassigned	238	US	123			Louisiana	0	08/15/2020
+1820	Unassigned	235	US	123			Louisiana	0	08/16/2020
+1822	Unassigned	236	US	123			Louisiana	0	08/17/2020
+1822	Unassigned	240	US	123			Louisiana	0	08/18/2020
+1822	Unassigned	248	US	141			Louisiana	0	08/19/2020
+1822	Unassigned	248	US	141			Louisiana	0	08/20/2020
+1822	Unassigned	241	US	141			Louisiana	0	08/21/2020
+1823	Unassigned	241	US	141			Louisiana	0	08/22/2020
+1823	Unassigned	250	US	141			Louisiana	0	08/23/2020
+1823	Unassigned	247	US	141			Louisiana	0	08/24/2020
+1823	Unassigned	190	US	141			Louisiana	0	08/25/2020
+1823	Unassigned	190	US	163			Louisiana	0	08/26/2020
+1823	Unassigned	187	US	163			Louisiana	0	08/27/2020
+1823	Unassigned	187	US	163			Louisiana	0	08/28/2020
+1823	Unassigned	187	US	163			Louisiana	0	08/29/2020
+1823	Unassigned	188	US	163			Louisiana	0	08/30/2020
+1823	Unassigned	190	US	163			Louisiana	0	08/31/2020
+1823	Unassigned	186	US	163			Louisiana	0	09/01/2020
+1823	Unassigned	191	US	163			Louisiana	0	09/02/2020
+1823	Unassigned	190	US	163			Louisiana	0	09/03/2020
+1823	Unassigned	191	US	163			Louisiana	0	09/04/2020
+1823	Unassigned	191	US	163			Louisiana	0	09/05/2020
+1823	Unassigned	192	US	163			Louisiana	0	09/06/2020
+1823	Unassigned	193	US	163			Louisiana	0	09/07/2020
+1823	Unassigned	191	US	163			Louisiana	0	09/08/2020
+1823	Unassigned	193	US	170			Louisiana	0	09/09/2020
+1823	Unassigned	191	US	170			Louisiana	0	09/10/2020
+1823	Unassigned	190	US	170			Louisiana	0	09/11/2020
+1823	Unassigned	190	US	170			Louisiana	0	09/12/2020
+1823	Unassigned	196	US	170			Louisiana	0	09/13/2020
+1823	Unassigned	196	US	170			Louisiana	0	09/14/2020
+1823	Unassigned	194	US	170			Louisiana	0	09/15/2020
+1823	Unassigned	192	US	170			Louisiana	0	09/16/2020
+1823	Unassigned	193	US	170			Louisiana	0	09/17/2020
+1823	Unassigned	190	US	170			Louisiana	0	09/18/2020
+1823	Unassigned	190	US	170			Louisiana	0	09/19/2020
+1823	Unassigned	195	US	170			Louisiana	0	09/20/2020
+1824	Unassigned	196	US	170			Louisiana	0	09/21/2020
+1824	Unassigned	193	US	170			Louisiana	0	09/22/2020
+1824	Unassigned	193	US	182			Louisiana	0	09/23/2020
+1824	Unassigned	194	US	182			Louisiana	0	09/24/2020
+1824	Unassigned	196	US	182			Louisiana	0	09/25/2020
+1824	Unassigned	196	US	182			Louisiana	0	09/26/2020
+1824	Unassigned	196	US	182			Louisiana	0	09/27/2020
+1824	Unassigned	193	US	182			Louisiana	0	09/28/2020
+1824	Unassigned	196	US	182			Louisiana	0	09/29/2020
+1824	Unassigned	194	US	190			Louisiana	0	09/30/2020
+1824	Unassigned	194	US	190			Louisiana	0	10/01/2020
+1824	Unassigned	199	US	190			Louisiana	0	10/02/2020
+1824	Unassigned	199	US	190			Louisiana	0	10/03/2020
+1824	Unassigned	198	US	190			Louisiana	0	10/04/2020
+1824	Unassigned	200	US	190			Louisiana	0	10/05/2020
+1824	Unassigned	195	US	190			Louisiana	0	10/06/2020
+1824	Unassigned	246	US	193			Louisiana	0	10/07/2020
+1824	Unassigned	245	US	193			Louisiana	0	10/08/2020
+1824	Unassigned	245	US	193			Louisiana	0	10/09/2020
+1824	Unassigned	245	US	193			Louisiana	0	10/10/2020
+1824	Unassigned	247	US	193			Louisiana	0	10/11/2020
+1825	Unassigned	247	US	193			Louisiana	0	10/12/2020
+1825	Unassigned	241	US	193			Louisiana	0	10/13/2020
+1825	Unassigned	243	US	200			Louisiana	0	10/14/2020
+1825	Unassigned	239	US	200			Louisiana	0	10/15/2020
+1826	Unassigned	242	US	200			Louisiana	0	10/16/2020
+1826	Unassigned	242	US	200			Louisiana	0	10/17/2020
+1826	Unassigned	252	US	200			Louisiana	0	10/18/2020
+1827	Unassigned	250	US	200			Louisiana	0	10/19/2020
+1827	Unassigned	241	US	200			Louisiana	0	10/20/2020
+1827	Unassigned	241	US	200			Louisiana	0	10/21/2020
+1827	Unassigned	245	US	206			Louisiana	0	10/22/2020
+1827	Unassigned	249	US	206			Louisiana	0	10/23/2020
+1827	Unassigned	249	US	206			Louisiana	0	10/24/2020
+1827	Unassigned	249	US	206			Louisiana	0	10/25/2020
+1827	Unassigned	253	US	206			Louisiana	0	10/26/2020
+1827	Unassigned	307	US	206			Louisiana	0	10/27/2020
+1828	Unassigned	317	US	214.0			Louisiana	0	10/28/2020
+1828	Unassigned	319	US	214			Louisiana	0	10/29/2020
+1828	Unassigned	321	US	214			Louisiana	0	10/30/2020
+1828	Unassigned	321	US	214			Louisiana	0	10/31/2020
+1828	Unassigned	324	US	214			Louisiana	0	11/01/2020
+1828	Unassigned	325	US	214			Louisiana	0	11/02/2020
+1829	Unassigned	306	US	214			Louisiana	0	11/03/2020
+1829	Unassigned	307	US	229			Louisiana	0	11/04/2020
+1829	Unassigned	311	US	229			Louisiana	0	11/05/2020
+1829	Unassigned	308	US	229			Louisiana	0	11/06/2020
+1829	Unassigned	308	US	229			Louisiana	0	11/07/2020
+1829	Unassigned	312	US	229			Louisiana	0	11/08/2020
+1829	Unassigned	312	US	229			Louisiana	0.0	11/09/2020
+1829	Unassigned	5325	US	229			Louisiana	0.0	11/10/2020
+1829	Unassigned	5325	US	229			Louisiana	0.0	11/11/2020
+1841	Unassigned	6957	US	234			Louisiana	0	11/12/2020
+1841	Unassigned	7612	US	236			Louisiana	0	11/13/2020
+1841	Unassigned	7612	US	236			Louisiana	0	11/14/2020
+1841	Unassigned	7913	US	237			Louisiana	0	11/15/2020
+1841	Unassigned	323	US	0			Louisiana	0	11/16/2020
+1841	Unassigned	316	US	0			Louisiana	0	11/17/2020
+1841	Unassigned	330	US	0			Louisiana	0	11/18/2020
+1841	Unassigned	345	US	0			Louisiana	0	11/19/2020
+1841	Unassigned	357	US	0			Louisiana	0	11/20/2020
+1841	Unassigned	357	US	0			Louisiana	0	11/21/2020
+1841	Unassigned	373	US	0			Louisiana	0	11/22/2020
+1841	Unassigned	375	US	0			Louisiana	0	11/23/2020
+1842	Unassigned	354	US	0			Louisiana	0	11/24/2020
+1842	Unassigned	361	US	0			Louisiana	0	11/25/2020
+1842	Unassigned	361	US	0			Louisiana	0	11/26/2020
+1842	Unassigned	382	US	0			Louisiana	0	11/27/2020
+1842	Unassigned	382	US	0			Louisiana	0	11/28/2020
+1842	Unassigned	383	US	0			Louisiana	0	11/29/2020
+1842	Unassigned	384	US	0			Louisiana	0	11/30/2020
+1842	Unassigned	406	US	0			Louisiana	0	12/01/2020
+1842	Unassigned	392	US	0			Louisiana	0	12/02/2020
+1842	Unassigned	401	US	0			Louisiana	0	12/03/2020
+1842	Unassigned	404	US	0			Louisiana	0	12/04/2020
+1842	Unassigned	404	US	0			Louisiana	0	12/05/2020
+1842	Unassigned	412	US	0			Louisiana	0	12/06/2020
+1842	Unassigned	416	US	0			Louisiana	0	12/07/2020
+1842	Unassigned	422	US	0			Louisiana	0	12/08/2020
+1842	Unassigned	389	US	0			Louisiana	0	12/09/2020
+1842	Unassigned	399	US	0			Louisiana	0	12/10/2020
+1842	Unassigned	410	US	0			Louisiana	0	12/11/2020
+1842	Unassigned	410	US	0			Louisiana	0	12/12/2020
+1842	Unassigned	416	US	0			Louisiana	0	12/13/2020
+1842	Unassigned	423	US	0			Louisiana	0	12/14/2020
+1842	Unassigned	380	US	0			Louisiana	0	12/15/2020
+1842	Unassigned	388	US	0			Louisiana	0	12/16/2020
+1842	Unassigned	388	US	0			Louisiana	0	12/17/2020
+1842	Unassigned	398	US	0			Louisiana	0	12/18/2020
+1842	Unassigned	398	US	0			Louisiana	0	12/19/2020
+1842	Unassigned	409	US	0			Louisiana	0	12/20/2020
+1842	Unassigned	413	US	0			Louisiana	0	12/21/2020
+1842	Unassigned	398	US	0			Louisiana	0	12/22/2020
+1842	Unassigned	405	US	0			Louisiana	0	12/23/2020
+1842	Unassigned	410	US	0			Louisiana	0	12/24/2020
+1842	Unassigned	410	US	0			Louisiana	0	12/25/2020
+1842	Unassigned	410	US	0			Louisiana	0	12/26/2020
+1842	Unassigned	411	US	0			Louisiana	0	12/27/2020
+1842	Unassigned	418	US	0			Louisiana	0	12/28/2020
+1842	Unassigned	401	US	0			Louisiana	0	12/29/2020
+1842	Unassigned	402	US	0			Louisiana	0	12/30/2020
+1842	Unassigned	399	US	0			Louisiana	0	12/31/2020
+1842	Unassigned	399	US	0			Louisiana	0	01/01/2021
+1842	Unassigned	399	US	0			Louisiana	0	01/02/2021
+1843	Unassigned	409	US	0			Louisiana	0	01/03/2021
+1843	Unassigned	411	US	0			Louisiana	0	01/04/2021
+1843	Unassigned	400	US	0			Louisiana	0	01/05/2021
+1843	Unassigned	410	US	0			Louisiana	0	01/06/2021
+1843	Unassigned	417	US	0			Louisiana	0	01/07/2021
+1843	Unassigned	421	US	0			Louisiana	0	01/08/2021
+1843	Unassigned	421	US	0			Louisiana	0	01/09/2021
+1843	Unassigned	427	US	0			Louisiana	0	01/10/2021
+1843	Unassigned	426	US	0			Louisiana	0	01/11/2021
+1843	Unassigned	410	US	0			Louisiana	0	01/12/2021
+1843	Unassigned	408	US	0			Louisiana	0	01/13/2021
+1843	Unassigned	415	US	0			Louisiana	0	01/14/2021
+1844	Unassigned	417	US	0			Louisiana	0	01/15/2021
+1844	Unassigned	417	US	0			Louisiana	0	01/16/2021
+1844	Unassigned	414	US	0			Louisiana	0	01/17/2021
+1844	Unassigned	417	US	0			Louisiana	0	01/18/2021
+1844	Unassigned	410	US	0			Louisiana	0	01/19/2021
+1844	Unassigned	412	US	0			Louisiana	0	01/20/2021
+1845	Unassigned	414	US	0			Louisiana	0	01/21/2021
+1845	Unassigned	412	US	0			Louisiana	0	01/22/2021
+1845	Unassigned	412	US	0			Louisiana	0	01/23/2021
+1845	Unassigned	416	US	0			Louisiana	0	01/24/2021
+1845	Unassigned	421	US	0			Louisiana	0	01/25/2021
+1845	Unassigned	412	US	0			Louisiana	0	01/26/2021
+1845	Unassigned	413	US	0			Louisiana	0	01/27/2021
+1845	Unassigned	414	US	0			Louisiana	0	01/28/2021
+1845	Unassigned	415	US	0			Louisiana	0	01/29/2021
+1845	Unassigned	415	US	0			Louisiana	0	01/30/2021
+1845	Unassigned	423	US	0			Louisiana	0	01/31/2021
+1845	Unassigned	428	US	0			Louisiana	0	02/01/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/02/2021
+1845	Unassigned	418	US	0			Louisiana	0	02/03/2021
+1845	Unassigned	417	US	0			Louisiana	0	02/04/2021
+1845	Unassigned	412	US	0			Louisiana	0	02/05/2021
+1845	Unassigned	412	US	0			Louisiana	0	02/06/2021
+1845	Unassigned	414	US	0			Louisiana	0	02/07/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/08/2021
+1845	Unassigned	418	US	0			Louisiana	0	02/09/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/10/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/11/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/12/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/13/2021
+1845	Unassigned	413	US	0			Louisiana	0	02/14/2021
+1845	Unassigned	414	US	0			Louisiana	0	02/15/2021
+1845	Unassigned	414	US	0			Louisiana	0	02/16/2021
+1845	Unassigned	411	US	0			Louisiana	0	02/17/2021
+1845	Unassigned	416	US	0			Louisiana	0	02/18/2021
+1846	Unassigned	412	US	0			Louisiana	0	02/19/2021
+1846	Unassigned	412	US	0			Louisiana	0	02/20/2021
+1846	Unassigned	416	US	0			Louisiana	0	02/21/2021
+1846	Unassigned	418	US	0			Louisiana	0	02/22/2021
+1846	Unassigned	418	US	0			Louisiana	0	02/23/2021
+1846	Unassigned	431	US	0			Louisiana	0	02/24/2021
+1846	Unassigned	426	US	0			Louisiana	0	02/25/2021
+1846	Unassigned	427	US	0			Louisiana	0	02/26/2021
+1846	Unassigned	427	US	0			Louisiana	0	02/27/2021
+1846	Unassigned	429	US	0			Louisiana	0	02/28/2021
+1846	Unassigned	427	US	0			Louisiana	0	03/01/2021
+1846	Unassigned	423	US	0			Louisiana	0	03/02/2021
+1846	Unassigned	424	US	0			Louisiana	0	03/03/2021
+1846	Unassigned	423	US	0			Louisiana	0	03/04/2021
+1846	Unassigned	422	US	0			Louisiana	0	03/05/2021
+1846	Unassigned	422	US	0			Louisiana	0	03/06/2021
+1846	Unassigned	419	US	0			Louisiana		03/07/2021
+1846	Unassigned	425	US	0			Louisiana		03/08/2021
+1846	Unassigned	421	US	0			Louisiana		03/09/2021
+1846	Unassigned	416	US	0			Louisiana		03/10/2021
+1846	Unassigned	422	US	0			Louisiana		03/11/2021
+1846	Unassigned	421	US	0			Louisiana		03/12/2021
+1846	Unassigned	421	US	0			Louisiana		03/13/2021
+1846	Unassigned	423	US	0			Louisiana		03/14/2021
+1846	Unassigned	421	US	0			Louisiana		03/15/2021
+1846	Unassigned	420	US	0			Louisiana		03/16/2021
+1846	Unassigned	418	US	0			Louisiana		03/17/2021
+1846	Unassigned	419	US	0			Louisiana		03/18/2021
+1846	Unassigned	423	US	0			Louisiana		03/19/2021
+1846	Unassigned	423	US	0			Louisiana		03/20/2021
+1846	Unassigned	423	US	0			Louisiana		03/21/2021
+1846	Unassigned	418	US	0			Louisiana		03/22/2021
+1846	Unassigned	420	US	0			Louisiana		03/23/2021
+1846	Unassigned	418	US	0			Louisiana		03/24/2021
+1846	Unassigned	414	US	0			Louisiana		03/25/2021
+1846	Unassigned	416	US	0			Louisiana		03/26/2021
+1846	Unassigned	416	US	0			Louisiana		03/27/2021
+1846	Unassigned	416	US	0			Louisiana		03/28/2021
+1846	Unassigned	417	US	0			Louisiana		03/29/2021
+1846	Unassigned	417	US	0			Louisiana		03/30/2021
+1846	Unassigned	418	US	0			Louisiana		03/31/2021
+1846	Unassigned	422	US	0			Louisiana		04/01/2021
+1848	Unassigned	422	US	0			Louisiana		04/02/2021
+1848	Unassigned	422	US	0			Louisiana		04/03/2021
+1848	Unassigned	422	US	0			Louisiana		04/04/2021
+1848	Unassigned	422	US	0			Louisiana		04/05/2021
+1848	Unassigned	419	US	0			Louisiana		04/06/2021
+1848	Unassigned	416	US	0			Louisiana		04/07/2021
+1848	Unassigned	420	US	0			Louisiana		04/08/2021
+1848	Unassigned	420	US	0			Louisiana		04/09/2021
+1848	Unassigned	420	US	0			Louisiana		04/10/2021
+1848	Unassigned	420	US	0			Louisiana		04/11/2021
+1848	Unassigned	420	US	0			Louisiana		04/12/2021
+1848	Unassigned	422	US	0			Louisiana		04/13/2021
+1848	Unassigned	420	US	0			Louisiana		04/14/2021
+1848	Unassigned	420	US	0			Louisiana		04/15/2021
+1848	Unassigned	419	US	0			Louisiana		04/16/2021
+1848	Unassigned	419	US	0			Louisiana		04/17/2021

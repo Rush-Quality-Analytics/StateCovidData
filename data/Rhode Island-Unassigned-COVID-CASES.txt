@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+1024	Unassigned	8	US	0	0.0	0.0	Rhode Island	0	03/22/2020
+2873	Unassigned	5	US	0	0.0	0.0	Rhode Island	0	03/23/2020
+2872	Unassigned	23	US	0	0.0	0.0	Rhode Island	0	03/24/2020
+2872	Unassigned	31	US	0	0.0	0.0	Rhode Island	0	03/25/2020
+2869	Unassigned	33	US	0	0.0	0.0	Rhode Island	0	03/26/2020
+2875	Unassigned	71	US	2	0.0	0.0	Rhode Island	0	03/27/2020
+2872	Unassigned	107	US	2	0.0	0.0	Rhode Island	0	03/28/2020
+2875	Unassigned	57	US	4	0.0	0.0	Rhode Island	0	03/29/2020
+2880	Unassigned	171	US	7	0.0	0.0	Rhode Island	0	03/30/2020
+1951	Unassigned	184	US	0	0.0	0.0	Rhode Island	0	03/31/2020
+1998	Unassigned	160	US	1	0.0	0.0	Rhode Island	0	04/01/2020
+2073	Unassigned	80	US	5			Rhode Island	0	04/02/2020
+2118	Unassigned	146	US	8			Rhode Island	0	04/03/2020
+2172	Unassigned	241	US	7			Rhode Island	0	04/04/2020
+2247	Unassigned	238	US	9			Rhode Island	0	04/05/2020
+2285	Unassigned	332	US	16			Rhode Island	0	04/06/2020
+2334	Unassigned	353	US	21			Rhode Island	0	04/07/2020
+2357	Unassigned	274	US	31			Rhode Island	0	04/08/2020
+2384	Unassigned	551	US	38			Rhode Island	0	04/09/2020
+2408	Unassigned	408	US	49			Rhode Island	0	04/10/2020
+2431	Unassigned	649	US	19			Rhode Island	0	04/11/2020
+2454	Unassigned	965	US	28			Rhode Island	0	04/12/2020
+2468	Unassigned	965	US	37			Rhode Island	0	04/13/2020
+2478	Unassigned	1551	US	45			Rhode Island	0	04/14/2020
+2490	Unassigned	756	US	62			Rhode Island	0	04/15/2020
+2504	Unassigned	902	US	76			Rhode Island	0	04/16/2020
+2506	Unassigned	790	US	97			Rhode Island	0	04/17/2020
+2513	Unassigned	1146	US	43			Rhode Island	0	04/18/2020
+2531	Unassigned	1030	US	54			Rhode Island	0	04/19/2020
+2540	Unassigned	861	US	64			Rhode Island	0	04/20/2020
+2549	Unassigned	1000	US	82			Rhode Island	0	04/21/2020
+2556	Unassigned	895	US	100			Rhode Island	0	04/22/2020
+2574	Unassigned	1006	US	115			Rhode Island	0	04/23/2020
+2580	Unassigned	1132	US	130			Rhode Island	0	04/24/2020
+2585	Unassigned	1198	US	64			Rhode Island	0	04/25/2020
+2593	Unassigned	1109	US	78			Rhode Island	0	04/26/2020
+2600	Unassigned	1160	US	88			Rhode Island	0	04/27/2020
+2609	Unassigned	1267	US	110			Rhode Island	0	04/28/2020
+2614	Unassigned	1065	US	128			Rhode Island	0	04/29/2020
+2620	Unassigned	1087	US	3			Rhode Island	0	04/30/2020
+2630	Unassigned	1104	US	17			Rhode Island	0	05/01/2020
+2634	Unassigned	1142	US	29			Rhode Island	0	05/02/2020
+2639	Unassigned	1086	US	50			Rhode Island	0	05/03/2020
+2642	Unassigned	1133	US	68			Rhode Island	0	05/04/2020
+2650	Unassigned	1414	US	84			Rhode Island	0	05/05/2020
+2656	Unassigned	1686	US	105			Rhode Island	0	05/06/2020
+2663	Unassigned	2011	US	126			Rhode Island	0	05/07/2020
+2670	Unassigned	2260	US	148			Rhode Island	0	05/08/2020
+2672	Unassigned	2470	US	59			Rhode Island	0	05/09/2020
+2674	Unassigned	2755	US	73			Rhode Island	0	05/10/2020
+2674	Unassigned	1158	US	88			Rhode Island	0	05/11/2020
+2677	Unassigned	1198	US	110			Rhode Island	0	05/12/2020
+2678	Unassigned	1046	US	123			Rhode Island	0	05/13/2020
+2680	Unassigned	1227	US	138			Rhode Island	0	05/14/2020
+2685	Unassigned	1430	US	152			Rhode Island	0	05/15/2020
+2689	Unassigned	1645	US	99			Rhode Island	0	05/16/2020
+2692	Unassigned	1885	US	109			Rhode Island	0	05/17/2020
+2694	Unassigned	2006	US	127			Rhode Island	0	05/18/2020
+2698	Unassigned	2162	US	138			Rhode Island	0	05/19/2020
+2704	Unassigned	1556	US	160			Rhode Island	0	05/20/2020
+2706	Unassigned	1553	US	180			Rhode Island	0	05/21/2020
+2713	Unassigned	1528	US	190			Rhode Island	0	05/22/2020
+2715	Unassigned	1504	US	133			Rhode Island	0	05/23/2020
+2718	Unassigned	1518	US	141			Rhode Island	0	05/24/2020
+2719	Unassigned	1518	US	151			Rhode Island	0	05/25/2020
+2720	Unassigned	1663	US	166			Rhode Island	0	05/26/2020
+2723	Unassigned	1496	US	176			Rhode Island	0	05/27/2020
+2726	Unassigned	1533	US	184			Rhode Island	0	05/28/2020
+2729	Unassigned	1564	US	196			Rhode Island	0	05/29/2020
+2731	Unassigned	1748	US	154			Rhode Island	0	05/30/2020
+2732	Unassigned	1857	US	5			Rhode Island	0	05/31/2020
+2734	Unassigned	1920	US	10			Rhode Island	0	06/01/2020
+2739	Unassigned	2041	US	20			Rhode Island	0	06/02/2020
+2741	Unassigned	2148	US	31			Rhode Island	0	06/03/2020
+2742	Unassigned	2254	US	43			Rhode Island	0	06/04/2020
+2746	Unassigned	2370	US	54			Rhode Island	0	06/05/2020
+2748	Unassigned	2370	US	13			Rhode Island	0	06/06/2020
+2748	Unassigned	2370	US	17			Rhode Island	0	06/07/2020
+2748	Unassigned	1565	US	21			Rhode Island	0	06/08/2020
+2750	Unassigned	1614	US	22			Rhode Island	0	06/09/2020
+2752	Unassigned	1679	US	26			Rhode Island	0	06/10/2020
+2754	Unassigned	1785	US	32			Rhode Island	0	06/11/2020
+2768	Unassigned	1870	US	34			Rhode Island	0	06/12/2020
+2771	Unassigned	1870	US	26			Rhode Island	0	06/13/2020
+2771	Unassigned	1870	US	29			Rhode Island	0	06/14/2020
+2775	Unassigned	1569	US	34			Rhode Island	0	06/15/2020
+2773	Unassigned	1640	US	42			Rhode Island	0	06/16/2020
+2775	Unassigned	1689	US	48			Rhode Island	0	06/17/2020
+2775	Unassigned	1745	US	55			Rhode Island	0	06/18/2020
+2776	Unassigned	1813	US	58			Rhode Island	0	06/19/2020
+2780	Unassigned	1813	US	37			Rhode Island	0	06/20/2020
+2780	Unassigned	1813	US	39			Rhode Island	0	06/21/2020
+2783	Unassigned	1514	US	41			Rhode Island	0	06/22/2020
+2788	Unassigned	1588	US	48			Rhode Island	0	06/23/2020
+2800	Unassigned	1661	US	53			Rhode Island	0	06/24/2020
+2805	Unassigned	1695	US	54			Rhode Island	0	06/25/2020
+2806	Unassigned	1716	US	55			Rhode Island	0	06/26/2020
+2807	Unassigned	1716	US	46			Rhode Island	0	06/27/2020
+2807	Unassigned	1716	US	52			Rhode Island	0	06/28/2020
+2809	Unassigned	1535	US	53			Rhode Island	0	06/29/2020
+2811	Unassigned	1584	US	0			Rhode Island	0	06/30/2020
+2813	Unassigned	1624	US	1			Rhode Island	0	07/01/2020
+2816	Unassigned	1712	US	4			Rhode Island	0	07/02/2020
+2821	Unassigned	1488	US	7			Rhode Island	0	07/03/2020
+2822	Unassigned	1488	US	9			Rhode Island	0	07/04/2020
+2823	Unassigned	1488	US	11			Rhode Island	0	07/05/2020
+2826	Unassigned	1488	US	15			Rhode Island	0	07/06/2020
+2827	Unassigned	1651	US	17			Rhode Island	0	07/07/2020
+2830	Unassigned	1701	US	17			Rhode Island	0	07/08/2020
+2829	Unassigned	1740	US	17			Rhode Island	0	07/09/2020
+2833	Unassigned	1809	US	20			Rhode Island	0	07/10/2020
+2834	Unassigned	1809	US	16			Rhode Island	0	07/11/2020
+2836	Unassigned	1809	US	19			Rhode Island	0	07/12/2020
+2837	Unassigned	1984	US	20			Rhode Island	0	07/13/2020
+2843	Unassigned	2085	US	21			Rhode Island	0	07/14/2020
+2844	Unassigned	1438	US	21			Rhode Island	0	07/15/2020
+2846	Unassigned	1509	US	22			Rhode Island	0	07/16/2020
+2846	Unassigned	1591	US	24			Rhode Island	0	07/17/2020
+2920	Unassigned	1591	US	24			Rhode Island	0	07/18/2020
+2920	Unassigned	1591	US	26			Rhode Island	0	07/19/2020
+2843	Unassigned	1702	US	28			Rhode Island	0	07/20/2020
+2924	Unassigned	1784	US	29			Rhode Island	0	07/21/2020
+2925	Unassigned	1449	US	30			Rhode Island	0	07/22/2020
+2928	Unassigned	1535	US	30			Rhode Island	0	07/23/2020
+2927	Unassigned	1611	US	30			Rhode Island	0	07/24/2020
+2928	Unassigned	1611	US	33			Rhode Island	0	07/25/2020
+2929	Unassigned	1611	US	34			Rhode Island	0	07/26/2020
+2929	Unassigned	1902	US	35			Rhode Island	0	07/27/2020
+2929	Unassigned	2112	US	36			Rhode Island	0	07/28/2020
+2933	Unassigned	1556	US	36			Rhode Island	0	07/29/2020
+2933	Unassigned	1706	US	37			Rhode Island	0	07/30/2020
+2935	Unassigned	1778	US	9			Rhode Island	0	07/31/2020
+2935	Unassigned	1778	US	10			Rhode Island	0	08/01/2020
+2935	Unassigned	1778	US	12			Rhode Island	0	08/02/2020
+2935	Unassigned	2002	US	13			Rhode Island	0	08/03/2020
+2935	Unassigned	2146	US	15			Rhode Island	0	08/04/2020
+2939	Unassigned	1621	US	17			Rhode Island	0	08/05/2020
+2939	Unassigned	1751	US	17			Rhode Island	0	08/06/2020
+2939	Unassigned	1878	US	19			Rhode Island	0	08/07/2020
+2939	Unassigned	1878	US	15			Rhode Island	0	08/08/2020
+2939	Unassigned	1878	US	15			Rhode Island	0	08/09/2020
+2939	Unassigned	2074	US	16			Rhode Island	0	08/10/2020
+3114	Unassigned	2193	US	19			Rhode Island	0	08/11/2020
+3068	Unassigned	1593	US	20			Rhode Island	0	08/12/2020
+3069	Unassigned	1704	US	20			Rhode Island	0	08/13/2020
+3069	Unassigned	1799	US	23			Rhode Island	0	08/14/2020
+3069	Unassigned	1799	US	21			Rhode Island	0	08/15/2020
+3069	Unassigned	1799	US	28			Rhode Island	0	08/16/2020
+3071	Unassigned	2036	US	30			Rhode Island	0	08/17/2020
+3071	Unassigned	2156	US	35			Rhode Island	0	08/18/2020
+3073	Unassigned	1662	US	35			Rhode Island	0	08/19/2020
+3073	Unassigned	1738	US	38			Rhode Island	0	08/20/2020
+3073	Unassigned	1889	US	40			Rhode Island	0	08/21/2020
+3074	Unassigned	1889	US	30			Rhode Island	0	08/22/2020
+3074	Unassigned	1889	US	31			Rhode Island	0	08/23/2020
+3074	Unassigned	2169	US	32			Rhode Island	0	08/24/2020
+3074	Unassigned	2239	US	33			Rhode Island	0	08/25/2020
+3074	Unassigned	1645	US	34			Rhode Island	0	08/26/2020
+3074	Unassigned	1780	US	36			Rhode Island	0	08/27/2020
+3074	Unassigned	1874	US	38			Rhode Island	0	08/28/2020
+3074	Unassigned	1874	US	39			Rhode Island	0	08/29/2020
+3074	Unassigned	1874	US	36			Rhode Island	0	08/30/2020
+3078	Unassigned	2140	US	14			Rhode Island	0	08/31/2020
+3078	Unassigned	2193	US	16			Rhode Island	0	09/01/2020
+3078	Unassigned	1728	US	18			Rhode Island	0	09/02/2020
+3078	Unassigned	1793	US	21			Rhode Island	0	09/03/2020
+3078	Unassigned	1893	US	22			Rhode Island	0	09/04/2020
+3078	Unassigned	1893	US	21			Rhode Island	0	09/05/2020
+3078	Unassigned	1893	US	22			Rhode Island	0	09/06/2020
+3078	Unassigned	1893	US	23			Rhode Island	0	09/07/2020
+3078	Unassigned	2242	US	25			Rhode Island	0	09/08/2020
+3078	Unassigned	1852	US	26			Rhode Island	0	09/09/2020
+3078	Unassigned	1958	US	27			Rhode Island	0	09/10/2020
+3078	Unassigned	2081	US	27			Rhode Island	0	09/11/2020
+3078	Unassigned	2081	US	30			Rhode Island	0	09/12/2020
+3078	Unassigned	2081	US	30			Rhode Island	0	09/13/2020
+3078	Unassigned	2306	US	32			Rhode Island	0	09/14/2020
+3078	Unassigned	2426	US	34			Rhode Island	0	09/15/2020
+3078	Unassigned	1984	US	39			Rhode Island	0	09/16/2020
+3078	Unassigned	2114	US	39			Rhode Island	0	09/17/2020
+3078	Unassigned	2246	US	41			Rhode Island	0	09/18/2020
+3078	Unassigned	2246	US	41			Rhode Island	0	09/19/2020
+3078	Unassigned	2246	US	45			Rhode Island	0	09/20/2020
+3080	Unassigned	2558	US	47			Rhode Island	0	09/21/2020
+3080	Unassigned	2670	US	48			Rhode Island	0	09/22/2020
+3080	Unassigned	2148	US	18			Rhode Island	0	09/23/2020
+3080	Unassigned	2282	US	19			Rhode Island	0	09/24/2020
+3080	Unassigned	2152	US	20			Rhode Island	0	09/25/2020
+3080	Unassigned	2152	US	19			Rhode Island	0	09/26/2020
+3080	Unassigned	2152	US	19			Rhode Island	0	09/27/2020
+3080	Unassigned	2395	US	21			Rhode Island	0	09/28/2020
+3080	Unassigned	2527	US	22			Rhode Island	0	09/29/2020
+3080	Unassigned	2055	US	23			Rhode Island	0	09/30/2020
+3080	Unassigned	2221	US	25			Rhode Island	0	10/01/2020
+3080	Unassigned	2383	US	27			Rhode Island	0	10/02/2020
+3080	Unassigned	2383	US	28			Rhode Island	0	10/03/2020
+3080	Unassigned	2383	US	30			Rhode Island	0	10/04/2020
+3080	Unassigned	2726	US	19			Rhode Island	0	10/05/2020
+3080	Unassigned	2903	US	19			Rhode Island	0	10/06/2020
+3080	Unassigned	2192	US	22			Rhode Island	0	10/07/2020
+3080	Unassigned	2461	US	26			Rhode Island	0	10/08/2020
+3080	Unassigned	2710	US	29			Rhode Island	0	10/09/2020
+3080	Unassigned	2710	US	31			Rhode Island	0	10/10/2020
+3080	Unassigned	2710	US	37			Rhode Island	0	10/11/2020
+3081	Unassigned	2710	US	42			Rhode Island	0	10/12/2020
+3081	Unassigned	3376	US	49			Rhode Island	0	10/13/2020
+3081	Unassigned	2418	US	39			Rhode Island	0	10/14/2020
+3081	Unassigned	2692	US	41			Rhode Island	0	10/15/2020
+3082	Unassigned	2945	US	43			Rhode Island	0	10/16/2020
+3082	Unassigned	2945	US	45			Rhode Island	0	10/17/2020
+3082	Unassigned	2945	US	47			Rhode Island	0	10/18/2020
+3083	Unassigned	3601	US	48			Rhode Island	0	10/19/2020
+3083	Unassigned	3903	US	52			Rhode Island	0	10/20/2020
+3083	Unassigned	2929	US	32			Rhode Island	0	10/21/2020
+3083	Unassigned	3400	US	35			Rhode Island	0	10/22/2020
+3083	Unassigned	3924	US	38			Rhode Island	0	10/23/2020
+3083	Unassigned	3924	US	39			Rhode Island	0	10/24/2020
+3083	Unassigned	3924	US	41			Rhode Island	0	10/25/2020
+3083	Unassigned	4830	US	44			Rhode Island	0	10/26/2020
+3083	Unassigned	5251	US	49			Rhode Island	0	10/27/2020
+3084	Unassigned	3487	US	25.0			Rhode Island	0	10/28/2020
+3084	Unassigned	3855	US	29			Rhode Island	0	10/29/2020
+3084	Unassigned	4417	US	34			Rhode Island	0	10/30/2020
+3084	Unassigned	4417	US	37			Rhode Island	0	10/31/2020
+3084	Unassigned	4417	US	41			Rhode Island	0	11/01/2020
+3084	Unassigned	5663	US	47			Rhode Island	0	11/02/2020
+3084	Unassigned	6086	US	48			Rhode Island	0	11/03/2020
+3085	Unassigned	4009	US	27			Rhode Island	0	11/04/2020
+3085	Unassigned	4637	US	31			Rhode Island	0	11/05/2020
+3085	Unassigned	5267	US	36			Rhode Island	0	11/06/2020
+3085	Unassigned	5267	US	37			Rhode Island	0	11/07/2020
+3085	Unassigned	5267	US	43			Rhode Island	0	11/08/2020
+3085	Unassigned	6896	US	47			Rhode Island	0.0	11/09/2020
+3085	Unassigned	7685	US	53			Rhode Island	0.0	11/10/2020
+3085	Unassigned	5240	US	37			Rhode Island	0.0	11/11/2020
+3097	Unassigned	6228	US	42			Rhode Island	0	11/12/2020
+3097	Unassigned	6993	US	44			Rhode Island	0	11/13/2020
+3097	Unassigned	6993	US	54			Rhode Island	0	11/14/2020
+3097	Unassigned	6993	US	62			Rhode Island	0	11/15/2020
+3097	Unassigned	9387	US	68			Rhode Island	0	11/16/2020
+3097	Unassigned	9992	US	73			Rhode Island	0	11/17/2020
+3097	Unassigned	6266	US	47			Rhode Island	0	11/18/2020
+3097	Unassigned	7306	US	52			Rhode Island	0	11/19/2020
+3097	Unassigned	8356	US	59			Rhode Island	0	11/20/2020
+3097	Unassigned	8356	US	69			Rhode Island	0	11/21/2020
+3097	Unassigned	8356	US	81			Rhode Island	0	11/22/2020
+3097	Unassigned	10928	US	93			Rhode Island	0	11/23/2020
+3098	Unassigned	11779	US	105			Rhode Island	0	11/24/2020
+3098	Unassigned	6473	US	74			Rhode Island	0	11/25/2020
+3098	Unassigned	6473	US	86			Rhode Island	0	11/26/2020
+3098	Unassigned	8110	US	95			Rhode Island	0	11/27/2020
+3098	Unassigned	8110	US	99			Rhode Island	0	11/28/2020
+3098	Unassigned	8110	US	108			Rhode Island	0	11/29/2020
+3098	Unassigned	10879	US	115			Rhode Island	0	11/30/2020
+3098	Unassigned	12062	US	128			Rhode Island	0	12/01/2020
+3098	Unassigned	7300	US	88			Rhode Island	0	12/02/2020
+3098	Unassigned	9017	US	100			Rhode Island	0	12/03/2020
+3098	Unassigned	10432	US	112			Rhode Island	0	12/04/2020
+3098	Unassigned	10432	US	128			Rhode Island	0	12/05/2020
+3098	Unassigned	10432	US	143			Rhode Island	0	12/06/2020
+3098	Unassigned	14113	US	167			Rhode Island	0	12/07/2020
+3098	Unassigned	15362	US	188			Rhode Island	0	12/08/2020
+3098	Unassigned	8368	US	130			Rhode Island	0	12/09/2020
+3098	Unassigned	9316	US	156			Rhode Island	0	12/10/2020
+3098	Unassigned	10887	US	176			Rhode Island	0	12/11/2020
+3098	Unassigned	10887	US	195			Rhode Island	0	12/12/2020
+3098	Unassigned	10887	US	225			Rhode Island	0	12/13/2020
+3098	Unassigned	14140	US	240			Rhode Island	0	12/14/2020
+3098	Unassigned	15306	US	256			Rhode Island	0	12/15/2020
+3098	Unassigned	8408	US	178			Rhode Island	0	12/16/2020
+3098	Unassigned	9489	US	195			Rhode Island	0	12/17/2020
+3098	Unassigned	10011	US	210			Rhode Island	0	12/18/2020
+3098	Unassigned	10011	US	230			Rhode Island	0	12/19/2020
+3098	Unassigned	10011	US	244			Rhode Island	0	12/20/2020
+3098	Unassigned	12430	US	255			Rhode Island	0	12/21/2020
+3098	Unassigned	13386	US	273			Rhode Island	0	12/22/2020
+3098	Unassigned	8368	US	168			Rhode Island	0	12/23/2020
+3098	Unassigned	8368	US	185			Rhode Island	0	12/24/2020
+3098	Unassigned	8368	US	206			Rhode Island	0	12/25/2020
+3098	Unassigned	8368	US	217			Rhode Island	0	12/26/2020
+3098	Unassigned	8368	US	230			Rhode Island	0	12/27/2020
+3098	Unassigned	11904	US	244			Rhode Island	0	12/28/2020
+3098	Unassigned	13091	US	261			Rhode Island	0	12/29/2020
+3098	Unassigned	9622	US	186			Rhode Island	0	12/30/2020
+3098	Unassigned	9622	US	205			Rhode Island	0	12/31/2020
+3098	Unassigned	9622	US	219			Rhode Island	0	01/01/2021
+3098	Unassigned	9622	US	232			Rhode Island	0	01/02/2021
+3099	Unassigned	9622	US	249			Rhode Island	0	01/03/2021
+3099	Unassigned	14381	US	267			Rhode Island	0	01/04/2021
+3099	Unassigned	15525	US	280			Rhode Island	0	01/05/2021
+3099	Unassigned	10937	US	172			Rhode Island	0	01/06/2021
+3099	Unassigned	12065	US	183			Rhode Island	0	01/07/2021
+3099	Unassigned	13088	US	196			Rhode Island	0	01/08/2021
+3099	Unassigned	13088	US	210			Rhode Island	0	01/09/2021
+3099	Unassigned	13088	US	222			Rhode Island	0	01/10/2021
+3099	Unassigned	16081	US	243			Rhode Island	0	01/11/2021
+3099	Unassigned	16867	US	257			Rhode Island	0	01/12/2021
+3099	Unassigned	10807	US	197			Rhode Island	0	01/13/2021
+3099	Unassigned	11708	US	207			Rhode Island	0	01/14/2021
+3100	Unassigned	12765	US	223			Rhode Island	0	01/15/2021
+3100	Unassigned	12765	US	238			Rhode Island	0	01/16/2021
+3100	Unassigned	12765	US	246			Rhode Island	0	01/17/2021
+3100	Unassigned	12765	US	264			Rhode Island	0	01/18/2021
+3100	Unassigned	15388	US	276			Rhode Island	0	01/19/2021
+3100	Unassigned	10674	US	213			Rhode Island	0	01/20/2021
+3101	Unassigned	11584	US	222			Rhode Island	0	01/21/2021
+3101	Unassigned	12533	US	238			Rhode Island	0	01/22/2021
+3101	Unassigned	12533	US	246			Rhode Island	0	01/23/2021
+3101	Unassigned	12533	US	262			Rhode Island	0	01/24/2021
+3101	Unassigned	14552	US	275			Rhode Island	0	01/25/2021
+3101	Unassigned	15194	US	286			Rhode Island	0	01/26/2021
+3101	Unassigned	10963	US	220			Rhode Island	0	01/27/2021
+3101	Unassigned	11708	US	234			Rhode Island	0	01/28/2021
+3101	Unassigned	12392	US	241			Rhode Island	0	01/29/2021
+3101	Unassigned	12392	US	250			Rhode Island	0	01/30/2021
+3101	Unassigned	12392	US	258			Rhode Island	0	01/31/2021
+3101	Unassigned	13910	US	269			Rhode Island	0	02/01/2021
+3101	Unassigned	14145	US	283			Rhode Island	0	02/02/2021
+3101	Unassigned	10562	US	226			Rhode Island	0	02/03/2021
+3101	Unassigned	11149	US	233			Rhode Island	0	02/04/2021
+3101	Unassigned	11749	US	239			Rhode Island	0	02/05/2021
+3101	Unassigned	11749	US	246			Rhode Island	0	02/06/2021
+3101	Unassigned	11749	US	258			Rhode Island	0	02/07/2021
+3101	Unassigned	12962	US	266			Rhode Island	0	02/08/2021
+3101	Unassigned	13292	US	273			Rhode Island	0	02/09/2021
+3101	Unassigned	10773	US	217			Rhode Island	0	02/10/2021
+3101	Unassigned	11261	US	227			Rhode Island	0	02/11/2021
+3101	Unassigned	11701	US	232			Rhode Island	0	02/12/2021
+3101	Unassigned	11701	US	239			Rhode Island	0	02/13/2021
+3101	Unassigned	11701	US	242			Rhode Island	0	02/14/2021
+3101	Unassigned	12667	US	245			Rhode Island	0	02/15/2021
+3101	Unassigned	12952	US	253			Rhode Island	0	02/16/2021
+3101	Unassigned	10805	US	160			Rhode Island	0	02/17/2021
+3101	Unassigned	11224	US	162			Rhode Island	0	02/18/2021
+3102	Unassigned	11510	US	168			Rhode Island	0	02/19/2021
+3102	Unassigned	11510	US	171			Rhode Island	0	02/20/2021
+3102	Unassigned	11510	US	174			Rhode Island	0	02/21/2021
+3102	Unassigned	12345	US	176			Rhode Island	0	02/22/2021
+3102	Unassigned	12627	US	181			Rhode Island	0	02/23/2021
+3102	Unassigned	11024	US	51			Rhode Island	0	02/24/2021
+3102	Unassigned	11491	US	54			Rhode Island	0	02/25/2021
+3102	Unassigned	11928	US	54			Rhode Island	0	02/26/2021
+3102	Unassigned	11928	US	54			Rhode Island	0	02/27/2021
+3102	Unassigned	11928	US	54			Rhode Island	0	02/28/2021
+3102	Unassigned	12894	US	69			Rhode Island	0	03/01/2021
+3102	Unassigned	13155	US	77			Rhode Island	0	03/02/2021
+3102	Unassigned	11340	US	34			Rhode Island	0	03/03/2021
+3102	Unassigned	11782	US	39			Rhode Island	0	03/04/2021
+3102	Unassigned	12176	US	41			Rhode Island	0	03/05/2021
+3102	Unassigned	12176	US	41			Rhode Island	0	03/06/2021
+3102	Unassigned	12176	US	41			Rhode Island		03/07/2021
+3102	Unassigned	13036	US	49			Rhode Island		03/08/2021
+3102	Unassigned	13332	US	56			Rhode Island		03/09/2021
+3102	Unassigned	11498	US	27			Rhode Island		03/10/2021
+3102	Unassigned	12023	US	31			Rhode Island		03/11/2021
+3102	Unassigned	12405	US	35			Rhode Island		03/12/2021
+3102	Unassigned	12405	US	35			Rhode Island		03/13/2021
+3102	Unassigned	12405	US	35			Rhode Island		03/14/2021
+3102	Unassigned	13390	US	44			Rhode Island		03/15/2021
+3102	Unassigned	13653	US	51			Rhode Island		03/16/2021
+3102	Unassigned	11600	US	31			Rhode Island		03/17/2021
+3102	Unassigned	12032	US	37			Rhode Island		03/18/2021
+3102	Unassigned	12455	US	38			Rhode Island		03/19/2021
+3102	Unassigned	12455	US	38			Rhode Island		03/20/2021
+3102	Unassigned	12455	US	38			Rhode Island		03/21/2021
+3102	Unassigned	13455	US	47			Rhode Island		03/22/2021
+3102	Unassigned	13752	US	49			Rhode Island		03/23/2021
+3102	Unassigned	11941	US	19			Rhode Island		03/24/2021
+3102	Unassigned	12424	US	20			Rhode Island		03/25/2021
+3102	Unassigned	12909	US	21			Rhode Island		03/26/2021
+3102	Unassigned	12909	US	21			Rhode Island		03/27/2021
+3102	Unassigned	12909	US	21			Rhode Island		03/28/2021
+3102	Unassigned	13553	US	26			Rhode Island		03/29/2021
+3102	Unassigned	13899	US	31			Rhode Island		03/30/2021
+3102	Unassigned	12400	US	23			Rhode Island		03/31/2021
+3102	Unassigned	12919	US	28			Rhode Island		04/01/2021
+3104	Unassigned	13326	US	34			Rhode Island		04/02/2021
+3104	Unassigned	13326	US	34			Rhode Island		04/03/2021
+3104	Unassigned	13326	US	34			Rhode Island		04/04/2021
+3104	Unassigned	14244	US	33			Rhode Island		04/05/2021
+3104	Unassigned	14620	US	36			Rhode Island		04/06/2021
+3104	Unassigned	12354	US	23			Rhode Island		04/07/2021
+3104	Unassigned	12863	US	24			Rhode Island		04/08/2021
+3104	Unassigned	13426	US	26			Rhode Island		04/09/2021
+3104	Unassigned	13426	US	26			Rhode Island		04/10/2021
+3104	Unassigned	13426	US	26			Rhode Island		04/11/2021
+3104	Unassigned	13426	US	26			Rhode Island		04/12/2021
+3104	Unassigned	15103	US	28			Rhode Island		04/13/2021
+3104	Unassigned	15580	US	30			Rhode Island		04/14/2021
+3104	Unassigned	13283	US	23			Rhode Island		04/15/2021
+3104	Unassigned	13692	US	24			Rhode Island		04/16/2021
+3104	Unassigned	13692	US	24			Rhode Island		04/17/2021

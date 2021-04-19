@@ -1,0 +1,377 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2079	Unassigned	0	US	1			West Virginia	0	04/02/2020
+2364	Unassigned	21	US	0			West Virginia	0	04/08/2020
+2391	Unassigned	0	US	1			West Virginia	0	04/09/2020
+2415	Unassigned	0	US	1			West Virginia	0	04/10/2020
+2437	Unassigned	0	US	1			West Virginia	0	04/11/2020
+2460	Unassigned	0	US	2			West Virginia	0	04/12/2020
+2474	Unassigned	0	US	2			West Virginia	0	04/13/2020
+2485	Unassigned	0	US	3			West Virginia	0	04/14/2020
+2497	Unassigned	0	US	4			West Virginia	0	04/15/2020
+2511	Unassigned	0	US	6			West Virginia	0	04/16/2020
+2513	Unassigned	0	US	9			West Virginia	0	04/17/2020
+2520	Unassigned	0	US	9			West Virginia	0	04/18/2020
+2538	Unassigned	0	US	11			West Virginia	0	04/19/2020
+2547	Unassigned	0	US	17			West Virginia	0	04/20/2020
+2556	Unassigned	0	US	19			West Virginia	0	04/21/2020
+2563	Unassigned	0	US	20			West Virginia	0	04/22/2020
+2583	Unassigned	0	US	0			West Virginia	0	04/23/2020
+2589	Unassigned	0	US	0			West Virginia	0	04/24/2020
+2594	Unassigned	0	US	0			West Virginia	0	04/25/2020
+2602	Unassigned	0	US	0			West Virginia	0	04/26/2020
+2609	Unassigned	0	US	0			West Virginia	0	04/27/2020
+2618	Unassigned	0	US	0			West Virginia	0	04/28/2020
+2623	Unassigned	0	US	0			West Virginia	0	04/29/2020
+2629	Unassigned	0	US	0			West Virginia	0	04/30/2020
+2639	Unassigned	0	US	0			West Virginia	0	05/01/2020
+2643	Unassigned	0	US	0			West Virginia	0	05/02/2020
+2648	Unassigned	0	US	0			West Virginia	0	05/03/2020
+2651	Unassigned	0	US	0			West Virginia	0	05/04/2020
+2659	Unassigned	0	US	0			West Virginia	0	05/05/2020
+2665	Unassigned	0	US	0			West Virginia	0	05/06/2020
+2672	Unassigned	0	US	0			West Virginia	0	05/07/2020
+2679	Unassigned	0	US	0			West Virginia	0	05/08/2020
+2681	Unassigned	0	US	0			West Virginia	0	05/09/2020
+2683	Unassigned	0	US	0			West Virginia	0	05/10/2020
+2683	Unassigned	0	US	0			West Virginia	0	05/11/2020
+2686	Unassigned	0	US	0			West Virginia	0	05/12/2020
+2687	Unassigned	0	US	0			West Virginia	0	05/13/2020
+2689	Unassigned	0	US	0			West Virginia	0	05/14/2020
+2694	Unassigned	0	US	0			West Virginia	0	05/15/2020
+2698	Unassigned	0	US	0			West Virginia	0	05/16/2020
+2701	Unassigned	0	US	0			West Virginia	0	05/17/2020
+2703	Unassigned	0	US	0			West Virginia	0	05/18/2020
+2707	Unassigned	0	US	0			West Virginia	0	05/19/2020
+2713	Unassigned	0	US	0			West Virginia	0	05/20/2020
+2715	Unassigned	0	US	0			West Virginia	0	05/21/2020
+2722	Unassigned	37	US	0			West Virginia	0	05/22/2020
+2724	Unassigned	37	US	0			West Virginia	0	05/23/2020
+2727	Unassigned	0	US	0			West Virginia	0	05/24/2020
+2728	Unassigned	0	US	0			West Virginia	0	05/25/2020
+2729	Unassigned	0	US	0			West Virginia	0	05/26/2020
+2732	Unassigned	0	US	0			West Virginia	0	05/27/2020
+2735	Unassigned	1	US	0			West Virginia	0	05/28/2020
+2738	Unassigned	0	US	0			West Virginia	0	05/29/2020
+2740	Unassigned	0	US	0			West Virginia	0	05/30/2020
+2741	Unassigned	0	US	0			West Virginia	0	05/31/2020
+2743	Unassigned	0	US	0			West Virginia	0	06/01/2020
+2748	Unassigned	0	US	0			West Virginia	0	06/02/2020
+2750	Unassigned	0	US	0			West Virginia	0	06/03/2020
+2751	Unassigned	0	US	0			West Virginia	0	06/04/2020
+2755	Unassigned	0	US	0			West Virginia	0	06/05/2020
+2757	Unassigned	0	US	0			West Virginia	0	06/06/2020
+2757	Unassigned	0	US	0			West Virginia	0	06/07/2020
+2757	Unassigned	0	US	0			West Virginia	0	06/08/2020
+2759	Unassigned	0	US	0			West Virginia	0	06/09/2020
+2761	Unassigned	0	US	0			West Virginia	0	06/10/2020
+2763	Unassigned	0	US	0			West Virginia	0	06/11/2020
+2777	Unassigned	0	US	0			West Virginia	0	06/12/2020
+2780	Unassigned	0	US	0			West Virginia	0	06/13/2020
+2780	Unassigned	0	US	0			West Virginia	0	06/14/2020
+2784	Unassigned	1	US	0			West Virginia	0	06/15/2020
+2782	Unassigned	1	US	0			West Virginia	0	06/16/2020
+2784	Unassigned	0	US	0			West Virginia	0	06/17/2020
+2784	Unassigned	0	US	0			West Virginia	0	06/18/2020
+2785	Unassigned	0	US	0			West Virginia	0	06/19/2020
+2789	Unassigned	0	US	0			West Virginia	0	06/20/2020
+2789	Unassigned	0	US	0			West Virginia	0	06/21/2020
+2792	Unassigned	1	US	0			West Virginia	0	06/22/2020
+2797	Unassigned	2	US	0			West Virginia	0	06/23/2020
+2809	Unassigned	2	US	0			West Virginia	0	06/24/2020
+2814	Unassigned	0	US	0			West Virginia	0	06/25/2020
+2815	Unassigned	0	US	0			West Virginia	0	06/26/2020
+2816	Unassigned	0	US	0			West Virginia	0	06/27/2020
+2816	Unassigned	0	US	0			West Virginia	0	06/28/2020
+2818	Unassigned	0	US	0			West Virginia	0	06/29/2020
+2820	Unassigned	5	US	0			West Virginia	0	06/30/2020
+2822	Unassigned	0	US	0			West Virginia	0	07/01/2020
+2825	Unassigned	0	US	0			West Virginia	0	07/02/2020
+2830	Unassigned	0	US	0			West Virginia	0	07/03/2020
+2831	Unassigned	0	US	0			West Virginia	0	07/04/2020
+2832	Unassigned	0	US	0			West Virginia	0	07/05/2020
+2835	Unassigned	0	US	0			West Virginia	0	07/06/2020
+2836	Unassigned	0	US	0			West Virginia	0	07/07/2020
+2839	Unassigned	0	US	0			West Virginia	0	07/08/2020
+2838	Unassigned	0	US	0			West Virginia	0	07/09/2020
+2842	Unassigned	0	US	0			West Virginia	0	07/10/2020
+2843	Unassigned	0	US	0			West Virginia	0	07/11/2020
+2845	Unassigned	0	US	0			West Virginia	0	07/12/2020
+2846	Unassigned	0	US	0			West Virginia	0	07/13/2020
+2852	Unassigned	0	US	0			West Virginia	0	07/14/2020
+2853	Unassigned	0	US	0			West Virginia	0	07/15/2020
+2855	Unassigned	0	US	0			West Virginia	0	07/16/2020
+2855	Unassigned	0	US	0			West Virginia	0	07/17/2020
+2929	Unassigned	0	US	0			West Virginia	0	07/18/2020
+2929	Unassigned	0	US	0			West Virginia	0	07/19/2020
+2852	Unassigned	0	US	0			West Virginia	0	07/20/2020
+2933	Unassigned	0	US	0			West Virginia	0	07/21/2020
+2934	Unassigned	0	US	0			West Virginia	0	07/22/2020
+2937	Unassigned	0	US	0			West Virginia	0	07/23/2020
+2936	Unassigned	0	US	0			West Virginia	0	07/24/2020
+2937	Unassigned	0	US	0			West Virginia	0	07/25/2020
+2938	Unassigned	0	US	0			West Virginia	0	07/26/2020
+2938	Unassigned	0	US	0			West Virginia	0	07/27/2020
+2938	Unassigned	0	US	0			West Virginia	0	07/28/2020
+2942	Unassigned	0	US	0			West Virginia	0	07/29/2020
+2942	Unassigned	0	US	0			West Virginia	0	07/30/2020
+2944	Unassigned	0	US	0			West Virginia	0	07/31/2020
+2944	Unassigned	0	US	0			West Virginia	0	08/01/2020
+2944	Unassigned	0	US	0			West Virginia	0	08/02/2020
+2944	Unassigned	0	US	0			West Virginia	0	08/03/2020
+2944	Unassigned	0	US	0			West Virginia	0	08/04/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/05/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/06/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/07/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/08/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/09/2020
+2947	Unassigned	0	US	0			West Virginia	0	08/10/2020
+3833	Unassigned	0	US	0			West Virginia	0	08/11/2020
+3787	Unassigned	0	US	0			West Virginia	0	08/12/2020
+3789	Unassigned	0	US	0			West Virginia	0	08/13/2020
+3789	Unassigned	0	US	0			West Virginia	0	08/14/2020
+3789	Unassigned	0	US	0			West Virginia	0	08/15/2020
+3789	Unassigned	0	US	0			West Virginia	0	08/16/2020
+3791	Unassigned	0	US	0			West Virginia	0	08/17/2020
+3791	Unassigned	0	US	0			West Virginia	0	08/18/2020
+3793	Unassigned	0	US	0			West Virginia	0	08/19/2020
+3793	Unassigned	0	US	0			West Virginia	0	08/20/2020
+3793	Unassigned	0	US	0			West Virginia	0	08/21/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/22/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/23/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/24/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/25/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/26/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/27/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/28/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/29/2020
+3794	Unassigned	0	US	0			West Virginia	0	08/30/2020
+3798	Unassigned	0	US	0			West Virginia	0	08/31/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/01/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/02/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/03/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/04/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/05/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/06/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/07/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/08/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/09/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/10/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/11/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/12/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/13/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/14/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/15/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/16/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/17/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/18/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/19/2020
+3798	Unassigned	0	US	0			West Virginia	0	09/20/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/21/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/22/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/23/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/24/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/25/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/26/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/27/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/28/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/29/2020
+3800	Unassigned	0	US	0			West Virginia	0	09/30/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/01/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/02/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/03/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/04/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/05/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/06/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/07/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/08/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/09/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/10/2020
+3800	Unassigned	0	US	0			West Virginia	0	10/11/2020
+3801	Unassigned	0	US	0			West Virginia	0	10/12/2020
+3801	Unassigned	0	US	0			West Virginia	0	10/13/2020
+3801	Unassigned	0	US	0			West Virginia	0	10/14/2020
+3801	Unassigned	0	US	0			West Virginia	0	10/15/2020
+3802	Unassigned	0	US	0			West Virginia	0	10/16/2020
+3802	Unassigned	0	US	0			West Virginia	0	10/17/2020
+3802	Unassigned	0	US	0			West Virginia	0	10/18/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/19/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/20/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/21/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/22/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/23/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/24/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/25/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/26/2020
+3803	Unassigned	0	US	0			West Virginia	0	10/27/2020
+3804	Unassigned	0	US	0.0			West Virginia	0	10/28/2020
+3804	Unassigned	0	US	0			West Virginia	0	10/29/2020
+3804	Unassigned	0	US	0			West Virginia	0	10/30/2020
+3804	Unassigned	0	US	0			West Virginia	0	10/31/2020
+3804	Unassigned	0	US	0			West Virginia	0	11/01/2020
+3804	Unassigned	0	US	0			West Virginia	0	11/02/2020
+3804	Unassigned	0	US	0			West Virginia	0	11/03/2020
+3805	Unassigned	0	US	0			West Virginia	0	11/04/2020
+3805	Unassigned	0	US	0			West Virginia	0	11/05/2020
+3805	Unassigned	0	US	0			West Virginia	0	11/06/2020
+3805	Unassigned	0	US	0			West Virginia	0	11/07/2020
+3805	Unassigned	0	US	0			West Virginia	0	11/08/2020
+3805	Unassigned	0	US	0			West Virginia	0.0	11/09/2020
+3805	Unassigned	0	US	0			West Virginia	0.0	11/10/2020
+3805	Unassigned	0	US	0			West Virginia	0.0	11/11/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/12/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/13/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/14/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/15/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/16/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/17/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/18/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/19/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/20/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/21/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/22/2020
+3817	Unassigned	0	US	0			West Virginia	0	11/23/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/24/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/25/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/26/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/27/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/28/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/29/2020
+3818	Unassigned	0	US	0			West Virginia	0	11/30/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/01/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/02/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/03/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/04/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/05/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/06/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/07/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/08/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/09/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/10/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/11/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/12/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/13/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/14/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/15/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/16/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/17/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/18/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/19/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/20/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/21/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/22/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/23/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/24/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/25/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/26/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/27/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/28/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/29/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/30/2020
+3818	Unassigned	0	US	0			West Virginia	0	12/31/2020
+3818	Unassigned	0	US	0			West Virginia	0	01/01/2021
+3818	Unassigned	0	US	0			West Virginia	0	01/02/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/03/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/04/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/05/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/06/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/07/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/08/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/09/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/10/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/11/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/12/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/13/2021
+3819	Unassigned	0	US	0			West Virginia	0	01/14/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/15/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/16/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/17/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/18/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/19/2021
+3820	Unassigned	0	US	0			West Virginia	0	01/20/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/21/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/22/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/23/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/24/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/25/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/26/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/27/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/28/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/29/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/30/2021
+3821	Unassigned	0	US	0			West Virginia	0	01/31/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/01/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/02/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/03/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/04/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/05/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/06/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/07/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/08/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/09/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/10/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/11/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/12/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/13/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/14/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/15/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/16/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/17/2021
+3821	Unassigned	0	US	0			West Virginia	0	02/18/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/19/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/20/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/21/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/22/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/23/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/24/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/25/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/26/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/27/2021
+3822	Unassigned	0	US	0			West Virginia	0	02/28/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/01/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/02/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/03/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/04/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/05/2021
+3822	Unassigned	0	US	0			West Virginia	0	03/06/2021
+3822	Unassigned	0	US	0			West Virginia		03/07/2021
+3822	Unassigned	0	US	0			West Virginia		03/08/2021
+3822	Unassigned	0	US	0			West Virginia		03/09/2021
+3822	Unassigned	0	US	0			West Virginia		03/10/2021
+3822	Unassigned	0	US	0			West Virginia		03/11/2021
+3822	Unassigned	0	US	0			West Virginia		03/12/2021
+3822	Unassigned	0	US	0			West Virginia		03/13/2021
+3822	Unassigned	0	US	0			West Virginia		03/14/2021
+3822	Unassigned	0	US	0			West Virginia		03/15/2021
+3822	Unassigned	0	US	0			West Virginia		03/16/2021
+3822	Unassigned	0	US	0			West Virginia		03/17/2021
+3822	Unassigned	0	US	0			West Virginia		03/18/2021
+3822	Unassigned	0	US	0			West Virginia		03/19/2021
+3822	Unassigned	0	US	0			West Virginia		03/20/2021
+3822	Unassigned	0	US	0			West Virginia		03/21/2021
+3822	Unassigned	0	US	0			West Virginia		03/22/2021
+3822	Unassigned	0	US	0			West Virginia		03/23/2021
+3822	Unassigned	0	US	0			West Virginia		03/24/2021
+3822	Unassigned	0	US	0			West Virginia		03/25/2021
+3822	Unassigned	0	US	0			West Virginia		03/26/2021
+3822	Unassigned	0	US	0			West Virginia		03/27/2021
+3822	Unassigned	0	US	0			West Virginia		03/28/2021
+3822	Unassigned	0	US	0			West Virginia		03/29/2021
+3822	Unassigned	0	US	0			West Virginia		03/30/2021
+3822	Unassigned	0	US	0			West Virginia		03/31/2021
+3822	Unassigned	0	US	0			West Virginia		04/01/2021
+3824	Unassigned	0	US	0			West Virginia		04/02/2021
+3824	Unassigned	0	US	0			West Virginia		04/03/2021
+3824	Unassigned	0	US	0			West Virginia		04/04/2021
+3824	Unassigned	0	US	0			West Virginia		04/05/2021
+3824	Unassigned	0	US	0			West Virginia		04/06/2021
+3824	Unassigned	0	US	0			West Virginia		04/07/2021
+3824	Unassigned	0	US	0			West Virginia		04/08/2021
+3824	Unassigned	0	US	0			West Virginia		04/09/2021
+3824	Unassigned	0	US	0			West Virginia		04/10/2021
+3824	Unassigned	0	US	0			West Virginia		04/11/2021
+3824	Unassigned	0	US	0			West Virginia		04/12/2021
+3824	Unassigned	0	US	0			West Virginia		04/13/2021
+3824	Unassigned	0	US	0			West Virginia		04/14/2021
+3824	Unassigned	0	US	0			West Virginia		04/15/2021
+3824	Unassigned	0	US	0			West Virginia		04/16/2021
+3824	Unassigned	0	US	0			West Virginia		04/17/2021

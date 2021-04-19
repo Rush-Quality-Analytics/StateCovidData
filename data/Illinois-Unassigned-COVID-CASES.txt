@@ -1,0 +1,392 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+153	Unassigned	2	US	3	0.0	0.0	Illinois	0	03/22/2020
+2860	Unassigned	63	US	0	0.0	0.0	Illinois	0	03/23/2020
+2862	Unassigned	0	US	4	0.0	0.0	Illinois	0	03/24/2020
+2862	Unassigned	2	US	0	0.0	0.0	Illinois	0	03/25/2020
+2861	Unassigned	668	US	0	0.0	0.0	Illinois	0	03/26/2020
+2862	Unassigned	8	US	0	0.0	0.0	Illinois	0	03/28/2020
+2863	Unassigned	8	US	0	0.0	0.0	Illinois	0	03/29/2020
+2864	Unassigned	13	US	0	0.0	0.0	Illinois	0	03/30/2020
+1937	Unassigned	18	US	0	0.0	0.0	Illinois	0	03/31/2020
+1982	Unassigned	28	US	0	0.0	0.0	Illinois	0	04/01/2020
+2054	Unassigned	37	US	0			Illinois	0	04/02/2020
+2100	Unassigned	415	US	1			Illinois	0	04/03/2020
+2152	Unassigned	58	US	1			Illinois	0	04/04/2020
+2226	Unassigned	62	US	0			Illinois	0	04/05/2020
+2263	Unassigned	72	US	1			Illinois	0	04/06/2020
+2310	Unassigned	72	US	1			Illinois	0	04/07/2020
+2333	Unassigned	73	US	1			Illinois	0	04/08/2020
+2359	Unassigned	73	US	1			Illinois	0	04/09/2020
+2383	Unassigned	81	US	1			Illinois	0	04/10/2020
+2409	Unassigned	85	US	0			Illinois	0	04/11/2020
+2431	Unassigned	101	US	1			Illinois	0	04/12/2020
+2445	Unassigned	65	US	1			Illinois	0	04/13/2020
+2455	Unassigned	54	US	1			Illinois	0	04/14/2020
+2467	Unassigned	45	US	1			Illinois	0	04/15/2020
+2481	Unassigned	55	US	1			Illinois	0	04/16/2020
+2483	Unassigned	74	US	1			Illinois	0	04/17/2020
+2490	Unassigned	84	US	3			Illinois	0	04/18/2020
+2507	Unassigned	115	US	3			Illinois	0	04/19/2020
+2515	Unassigned	130	US	3			Illinois	0	04/20/2020
+2524	Unassigned	192	US	2			Illinois	0	04/21/2020
+2531	Unassigned	228	US	1			Illinois	0	04/22/2020
+2548	Unassigned	193	US	0			Illinois	0	04/23/2020
+2554	Unassigned	218	US	1			Illinois	0	04/24/2020
+2559	Unassigned	274	US	1			Illinois	0	04/25/2020
+2567	Unassigned	307	US	0			Illinois	0	04/26/2020
+2574	Unassigned	338	US	0			Illinois	0	04/27/2020
+2583	Unassigned	335	US	0			Illinois	0	04/28/2020
+2588	Unassigned	354	US	0			Illinois	0	04/29/2020
+2594	Unassigned	378	US	1			Illinois	0	04/30/2020
+2605	Unassigned	363	US	2			Illinois	0	05/01/2020
+2608	Unassigned	278	US	1			Illinois	0	05/02/2020
+2613	Unassigned	257	US	0			Illinois	0	05/03/2020
+2616	Unassigned	214	US	0			Illinois	0	05/04/2020
+2624	Unassigned	236	US	0			Illinois	0	05/05/2020
+2630	Unassigned	105	US	0			Illinois	0	05/06/2020
+2637	Unassigned	100	US	0			Illinois	0	05/07/2020
+2644	Unassigned	48	US	0			Illinois	0	05/08/2020
+2646	Unassigned	73	US	0			Illinois	0	05/09/2020
+2648	Unassigned	84	US	0			Illinois	0	05/10/2020
+2648	Unassigned	66	US	0			Illinois	0	05/11/2020
+2651	Unassigned	61	US	1			Illinois	0	05/12/2020
+2652	Unassigned	46	US	1			Illinois	0	05/13/2020
+2654	Unassigned	65	US	1			Illinois	0	05/14/2020
+2659	Unassigned	50	US	1			Illinois	0	05/15/2020
+2663	Unassigned	49	US	0			Illinois	0	05/16/2020
+2666	Unassigned	67	US	0			Illinois	0	05/17/2020
+2668	Unassigned	74	US	0			Illinois	0	05/18/2020
+2672	Unassigned	70	US	0			Illinois	0	05/19/2020
+2678	Unassigned	73	US	0			Illinois	0	05/20/2020
+2680	Unassigned	85	US	0			Illinois	0	05/21/2020
+2687	Unassigned	106	US	0			Illinois	0	05/22/2020
+2689	Unassigned	99	US	0			Illinois	0	05/23/2020
+2692	Unassigned	104	US	0			Illinois	0	05/24/2020
+2693	Unassigned	110	US	0			Illinois	0	05/25/2020
+2694	Unassigned	120	US	0			Illinois	0	05/26/2020
+2697	Unassigned	110	US	0			Illinois	0	05/27/2020
+2700	Unassigned	149	US	0			Illinois	0	05/28/2020
+2703	Unassigned	125	US	0			Illinois	0	05/29/2020
+2705	Unassigned	80	US	0			Illinois	0	05/30/2020
+2706	Unassigned	85	US	0			Illinois	0	05/31/2020
+2708	Unassigned	93	US	0			Illinois	0	06/01/2020
+2713	Unassigned	147	US	0			Illinois	0	06/02/2020
+2715	Unassigned	105	US	0			Illinois	0	06/03/2020
+2716	Unassigned	84	US	0			Illinois	0	06/04/2020
+2720	Unassigned	90	US	0			Illinois	0	06/05/2020
+2722	Unassigned	77	US	0			Illinois	0	06/06/2020
+2722	Unassigned	87	US	0			Illinois	0	06/07/2020
+2722	Unassigned	67	US	0			Illinois	0	06/08/2020
+2724	Unassigned	76	US	0			Illinois	0	06/09/2020
+2726	Unassigned	53	US	0			Illinois	0	06/10/2020
+2728	Unassigned	48	US	0			Illinois	0	06/11/2020
+2742	Unassigned	43	US	0			Illinois	0	06/12/2020
+2745	Unassigned	46	US	0			Illinois	0	06/13/2020
+2745	Unassigned	49	US	0			Illinois	0	06/14/2020
+2749	Unassigned	45	US	0			Illinois	0	06/15/2020
+2747	Unassigned	49	US	0			Illinois	0	06/16/2020
+2749	Unassigned	44	US	0			Illinois	0	06/17/2020
+2749	Unassigned	44	US	0			Illinois	0	06/18/2020
+2750	Unassigned	46	US	0			Illinois	0	06/19/2020
+2754	Unassigned	46	US	0			Illinois	0	06/20/2020
+2754	Unassigned	49	US	0			Illinois	0	06/21/2020
+2757	Unassigned	51	US	0			Illinois	0	06/22/2020
+2762	Unassigned	44	US	0			Illinois	0	06/23/2020
+2774	Unassigned	45	US	0			Illinois	0	06/24/2020
+2779	Unassigned	39	US	0			Illinois	0	06/25/2020
+2780	Unassigned	29	US	0			Illinois	0	06/26/2020
+2781	Unassigned	29	US	0			Illinois	0	06/27/2020
+2781	Unassigned	29	US	0			Illinois	0	06/28/2020
+2783	Unassigned	43	US	0			Illinois	0	06/29/2020
+2785	Unassigned	48	US	0			Illinois	0	06/30/2020
+2787	Unassigned	50	US	0			Illinois	0	07/01/2020
+2790	Unassigned	50	US	0			Illinois	0	07/02/2020
+2795	Unassigned	46	US	0			Illinois	0	07/03/2020
+2796	Unassigned	47	US	0			Illinois	0	07/04/2020
+2797	Unassigned	54	US	0			Illinois	0	07/05/2020
+2800	Unassigned	53	US	0			Illinois	0	07/06/2020
+2801	Unassigned	1177	US	210			Illinois	0	07/07/2020
+2804	Unassigned	1170	US	210			Illinois	0	07/08/2020
+2803	Unassigned	1170	US	210			Illinois	0	07/09/2020
+2807	Unassigned	1175	US	201			Illinois	0	07/10/2020
+2808	Unassigned	1180	US	201			Illinois	0	07/11/2020
+2810	Unassigned	1185	US	201			Illinois	0	07/12/2020
+2811	Unassigned	1184	US	201			Illinois	0	07/13/2020
+2817	Unassigned	1174	US	201			Illinois	0	07/14/2020
+2818	Unassigned	1172	US	201			Illinois	0	07/15/2020
+2820	Unassigned	1154	US	201			Illinois	0	07/16/2020
+2820	Unassigned	1203	US	193			Illinois	0	07/17/2020
+2893	Unassigned	1209	US	193			Illinois	0	07/18/2020
+2893	Unassigned	1207	US	193			Illinois	0	07/19/2020
+2817	Unassigned	1213	US	193			Illinois	0	07/20/2020
+2897	Unassigned	1212	US	193			Illinois	0	07/21/2020
+2898	Unassigned	1213	US	193			Illinois	0	07/22/2020
+2901	Unassigned	1211	US	193			Illinois	0	07/23/2020
+2900	Unassigned	1283	US	192			Illinois	0	07/24/2020
+2901	Unassigned	1292	US	192			Illinois	0	07/25/2020
+2902	Unassigned	1299	US	192			Illinois	0	07/26/2020
+2902	Unassigned	1312	US	192			Illinois	0	07/27/2020
+2902	Unassigned	1297	US	192			Illinois	0	07/28/2020
+2906	Unassigned	1297	US	192			Illinois	0	07/29/2020
+2906	Unassigned	1291	US	192			Illinois	0	07/30/2020
+2908	Unassigned	1344	US	197			Illinois	0	07/31/2020
+2908	Unassigned	1339	US	197			Illinois	0	08/01/2020
+2908	Unassigned	1337	US	197			Illinois	0	08/02/2020
+2908	Unassigned	1347	US	197			Illinois	0	08/03/2020
+2909	Unassigned	1365	US	197			Illinois	0	08/04/2020
+2913	Unassigned	1349	US	197			Illinois	0	08/05/2020
+2913	Unassigned	1342	US	197			Illinois	0	08/06/2020
+2913	Unassigned	1365	US	209			Illinois	0	08/07/2020
+2913	Unassigned	1353	US	209			Illinois	0	08/08/2020
+2913	Unassigned	1368	US	209			Illinois	0	08/09/2020
+2913	Unassigned	1358	US	209			Illinois	0	08/10/2020
+1378	Unassigned	1347	US	209			Illinois	0	08/11/2020
+1332	Unassigned	1395	US	209			Illinois	0	08/12/2020
+1333	Unassigned	1382	US	209			Illinois	0	08/13/2020
+1333	Unassigned	1381	US	211			Illinois	0	08/14/2020
+1333	Unassigned	1368	US	211			Illinois	0	08/15/2020
+1333	Unassigned	1372	US	211			Illinois	0	08/16/2020
+1333	Unassigned	1378	US	211			Illinois	0	08/17/2020
+1333	Unassigned	1370	US	211			Illinois	0	08/18/2020
+1333	Unassigned	1388	US	211			Illinois	0	08/19/2020
+1333	Unassigned	1384	US	211			Illinois	0	08/20/2020
+1333	Unassigned	1478	US	209			Illinois	0	08/21/2020
+1334	Unassigned	1464	US	209			Illinois	0	08/22/2020
+1334	Unassigned	1461	US	209			Illinois	0	08/23/2020
+1334	Unassigned	1463	US	209			Illinois	0	08/24/2020
+1334	Unassigned	1497	US	209			Illinois	0	08/25/2020
+1334	Unassigned	1463	US	209			Illinois	0	08/26/2020
+1334	Unassigned	1474	US	209			Illinois	0	08/27/2020
+1334	Unassigned	1752	US	209			Illinois	0	08/28/2020
+1334	Unassigned	1777	US	209			Illinois	0	08/29/2020
+1334	Unassigned	1783	US	209			Illinois	0	08/30/2020
+1334	Unassigned	1762	US	209			Illinois	0	08/31/2020
+1334	Unassigned	1779	US	209			Illinois	0	09/01/2020
+1334	Unassigned	1776	US	209			Illinois	0	09/02/2020
+1334	Unassigned	1789	US	209			Illinois	0	09/03/2020
+1334	Unassigned	1988	US	219			Illinois	0	09/04/2020
+1334	Unassigned	1980	US	219			Illinois	0	09/05/2020
+1334	Unassigned	1960	US	219			Illinois	0	09/06/2020
+1334	Unassigned	1960	US	219			Illinois	0	09/07/2020
+1334	Unassigned	1966	US	219			Illinois	0	09/08/2020
+1334	Unassigned	1987	US	219			Illinois	0	09/09/2020
+1334	Unassigned	1968	US	219			Illinois	0	09/10/2020
+1334	Unassigned	2140	US	232			Illinois	0	09/11/2020
+1334	Unassigned	2142	US	232			Illinois	0	09/12/2020
+1334	Unassigned	2138	US	232			Illinois	0	09/13/2020
+1334	Unassigned	2138	US	232			Illinois	0	09/14/2020
+1334	Unassigned	2139	US	232			Illinois	0	09/15/2020
+1334	Unassigned	2141	US	232			Illinois	0	09/16/2020
+1334	Unassigned	2144	US	232			Illinois	0	09/17/2020
+1334	Unassigned	2242	US	236			Illinois	0	09/18/2020
+1334	Unassigned	2241	US	236			Illinois	0	09/19/2020
+1334	Unassigned	2238	US	236			Illinois	0	09/20/2020
+1335	Unassigned	2238	US	236			Illinois	0	09/21/2020
+1335	Unassigned	2250	US	236			Illinois	0	09/22/2020
+1335	Unassigned	2238	US	236			Illinois	0	09/23/2020
+1335	Unassigned	2244	US	236			Illinois	0	09/24/2020
+1335	Unassigned	2538	US	244			Illinois	0	09/25/2020
+1335	Unassigned	2538	US	244			Illinois	0	09/26/2020
+1335	Unassigned	2537	US	244			Illinois	0	09/27/2020
+1335	Unassigned	2532	US	244			Illinois	0	09/28/2020
+1335	Unassigned	2542	US	244			Illinois	0	09/29/2020
+1335	Unassigned	2562	US	244			Illinois	0	09/30/2020
+1335	Unassigned	2532	US	244			Illinois	0	10/01/2020
+1335	Unassigned	2777	US	249			Illinois	0	10/02/2020
+1335	Unassigned	2780	US	249			Illinois	0	10/03/2020
+1335	Unassigned	2777	US	249			Illinois	0	10/04/2020
+1335	Unassigned	2770	US	249			Illinois	0	10/05/2020
+1335	Unassigned	2769	US	249			Illinois	0	10/06/2020
+1335	Unassigned	2784	US	249			Illinois	0	10/07/2020
+1335	Unassigned	2771	US	249			Illinois	0	10/08/2020
+1335	Unassigned	3075	US	246			Illinois	0	10/09/2020
+1335	Unassigned	3070	US	246			Illinois	0	10/10/2020
+1335	Unassigned	3076	US	246			Illinois	0	10/11/2020
+1336	Unassigned	3073	US	246			Illinois	0	10/12/2020
+1336	Unassigned	3069	US	246			Illinois	0	10/13/2020
+1336	Unassigned	3071	US	246			Illinois	0	10/14/2020
+1336	Unassigned	3070	US	246			Illinois	0	10/15/2020
+1337	Unassigned	3623	US	260			Illinois	0	10/16/2020
+1337	Unassigned	3624	US	260			Illinois	0	10/17/2020
+1337	Unassigned	3633	US	260			Illinois	0	10/18/2020
+1338	Unassigned	3627	US	260			Illinois	0	10/19/2020
+1338	Unassigned	3627	US	260			Illinois	0	10/20/2020
+1338	Unassigned	3632	US	260			Illinois	0	10/21/2020
+1338	Unassigned	3631	US	260			Illinois	0	10/22/2020
+1338	Unassigned	4765	US	270			Illinois	0	10/23/2020
+1338	Unassigned	4787	US	270			Illinois	0	10/24/2020
+1338	Unassigned	4767	US	270			Illinois	0	10/25/2020
+1338	Unassigned	4778	US	270			Illinois	0	10/26/2020
+1338	Unassigned	4784	US	270			Illinois	0	10/27/2020
+1339	Unassigned	4786	US	270.0			Illinois	0	10/28/2020
+1339	Unassigned	4770	US	270			Illinois	0	10/29/2020
+1339	Unassigned	6324	US	283			Illinois	0	10/30/2020
+1339	Unassigned	6315	US	283			Illinois	0	10/31/2020
+1339	Unassigned	6320	US	283			Illinois	0	11/01/2020
+1339	Unassigned	6299	US	283			Illinois	0	11/02/2020
+1340	Unassigned	6300	US	283			Illinois	0	11/03/2020
+1340	Unassigned	6312	US	283			Illinois	0	11/04/2020
+1340	Unassigned	6327	US	283			Illinois	0	11/05/2020
+1340	Unassigned	105	US	318			Illinois	0	11/06/2020
+1340	Unassigned	125	US	334			Illinois	0	11/07/2020
+1340	Unassigned	122	US	342			Illinois	0	11/08/2020
+1340	Unassigned	78	US	353			Illinois	0.0	11/09/2020
+1340	Unassigned	79	US	356			Illinois	0.0	11/10/2020
+1340	Unassigned	96	US	364			Illinois	0.0	11/11/2020
+1352	Unassigned	194	US	369			Illinois	0	11/12/2020
+1352	Unassigned	224	US	387			Illinois	0	11/13/2020
+1352	Unassigned	238	US	418			Illinois	0	11/14/2020
+1352	Unassigned	243	US	420			Illinois	0	11/15/2020
+1352	Unassigned	231	US	425			Illinois	0	11/16/2020
+1352	Unassigned	296	US	442			Illinois	0	11/17/2020
+1352	Unassigned	287	US	454			Illinois	0	11/18/2020
+1352	Unassigned	288	US	470			Illinois	0	11/19/2020
+1352	Unassigned	293	US	491			Illinois	0	11/20/2020
+1352	Unassigned	293	US	522			Illinois	0	11/21/2020
+1352	Unassigned	324	US	545			Illinois	0	11/22/2020
+1352	Unassigned	353	US	560			Illinois	0	11/23/2020
+1353	Unassigned	362	US	585			Illinois	0	11/24/2020
+1353	Unassigned	394	US	608			Illinois	0	11/25/2020
+1353	Unassigned	434	US	633			Illinois	0	11/26/2020
+1353	Unassigned	427	US	657			Illinois	0	11/27/2020
+1353	Unassigned	410	US	701			Illinois	0	11/28/2020
+1353	Unassigned	185	US	689			Illinois	0	11/29/2020
+1353	Unassigned	182	US	707			Illinois	0	11/30/2020
+1353	Unassigned	188	US	728			Illinois	0	12/01/2020
+1353	Unassigned	203	US	758			Illinois	0	12/02/2020
+1353	Unassigned	213	US	795			Illinois	0	12/03/2020
+1353	Unassigned	193	US	808			Illinois	0	12/04/2020
+1353	Unassigned	227	US	838			Illinois	0	12/05/2020
+1353	Unassigned	305	US	861			Illinois	0	12/06/2020
+1353	Unassigned	309	US	873			Illinois	0	12/07/2020
+1353	Unassigned	305	US	897			Illinois	0	12/08/2020
+1353	Unassigned	312	US	947			Illinois	0	12/09/2020
+1353	Unassigned	276	US	984			Illinois	0	12/10/2020
+1353	Unassigned	267	US	1017			Illinois	0	12/11/2020
+1353	Unassigned	271	US	1056			Illinois	0	12/12/2020
+1353	Unassigned	251	US	1048			Illinois	0	12/13/2020
+1353	Unassigned	253	US	1061			Illinois	0	12/14/2020
+1353	Unassigned	274	US	1078			Illinois	0	12/15/2020
+1353	Unassigned	311	US	1122			Illinois	0	12/16/2020
+1353	Unassigned	299	US	1150			Illinois	0	12/17/2020
+1353	Unassigned	275	US	1191			Illinois	0	12/18/2020
+1353	Unassigned	292	US	1203			Illinois	0	12/19/2020
+1353	Unassigned	282	US	1205			Illinois	0	12/20/2020
+1353	Unassigned	274	US	1228			Illinois	0	12/21/2020
+1353	Unassigned	289	US	1257			Illinois	0	12/22/2020
+1353	Unassigned	349	US	1295			Illinois	0	12/23/2020
+1353	Unassigned	305	US	1317			Illinois	0	12/24/2020
+1353	Unassigned	315	US	1355			Illinois	0	12/25/2020
+1353	Unassigned	317	US	1359			Illinois	0	12/26/2020
+1353	Unassigned	269	US	1367			Illinois	0	12/27/2020
+1353	Unassigned	266	US	1396			Illinois	0	12/28/2020
+1353	Unassigned	261	US	1417			Illinois	0	12/29/2020
+1353	Unassigned	172	US	1454			Illinois	0	12/30/2020
+1353	Unassigned	145	US	1488			Illinois	0	12/31/2020
+1353	Unassigned	145	US	1488			Illinois	0	01/01/2021
+1353	Unassigned	114	US	1543			Illinois	0	01/02/2021
+1354	Unassigned	120	US	1567			Illinois	0	01/03/2021
+1354	Unassigned	123	US	1578			Illinois	0	01/04/2021
+1354	Unassigned	110	US	1603			Illinois	0	01/05/2021
+1354	Unassigned	107	US	1639			Illinois	0	01/06/2021
+1354	Unassigned	109	US	1669			Illinois	0	01/07/2021
+1354	Unassigned	100	US	1713			Illinois	0	01/08/2021
+1354	Unassigned	103	US	1716			Illinois	0	01/09/2021
+1354	Unassigned	96	US	1719			Illinois	0	01/10/2021
+1354	Unassigned	95	US	1736			Illinois	0	01/11/2021
+1354	Unassigned	106	US	1754			Illinois	0	01/12/2021
+1354	Unassigned	112	US	1777			Illinois	0	01/13/2021
+1354	Unassigned	105	US	1796			Illinois	0	01/14/2021
+1354	Unassigned	108	US	1824			Illinois	0	01/15/2021
+1354	Unassigned	111	US	1841			Illinois	0	01/16/2021
+1354	Unassigned	110	US	1842			Illinois	0	01/17/2021
+1354	Unassigned	99	US	1860			Illinois	0	01/18/2021
+1354	Unassigned	105	US	1862			Illinois	0	01/19/2021
+1354	Unassigned	108	US	1887			Illinois	0	01/20/2021
+1355	Unassigned	106	US	1903			Illinois	0	01/21/2021
+1355	Unassigned	123	US	1919			Illinois	0	01/22/2021
+1355	Unassigned	129	US	1934			Illinois	0	01/23/2021
+1355	Unassigned	104	US	1930			Illinois	0	01/24/2021
+1355	Unassigned	111	US	1946			Illinois	0	01/25/2021
+1355	Unassigned	113	US	1970			Illinois	0	01/26/2021
+1355	Unassigned	107	US	1985			Illinois	0	01/27/2021
+1355	Unassigned	114	US	2007			Illinois	0	01/28/2021
+1355	Unassigned	111	US	2008			Illinois	0	01/29/2021
+1355	Unassigned	108	US	2010			Illinois	0	01/30/2021
+1355	Unassigned	108	US	2010			Illinois	0	01/31/2021
+1355	Unassigned	105	US	2014			Illinois	0	02/01/2021
+1355	Unassigned	123	US	2030			Illinois	0	02/02/2021
+1355	Unassigned	114	US	2045			Illinois	0	02/03/2021
+1355	Unassigned	110	US	2053			Illinois	0	02/04/2021
+1355	Unassigned	101	US	2077			Illinois	0	02/05/2021
+1355	Unassigned	94	US	2091			Illinois	0	02/06/2021
+1355	Unassigned	92	US	2105			Illinois	0	02/07/2021
+1355	Unassigned	84	US	2111			Illinois	0	02/08/2021
+1355	Unassigned	107	US	2116			Illinois	0	02/09/2021
+1355	Unassigned	96	US	2130			Illinois	0	02/10/2021
+1355	Unassigned	105	US	2144			Illinois	0	02/11/2021
+1355	Unassigned	101	US	2154			Illinois	0	02/12/2021
+1355	Unassigned	94	US	2161			Illinois	0	02/13/2021
+1355	Unassigned	104	US	2160			Illinois	0	02/14/2021
+1355	Unassigned	96	US	2164			Illinois	0	02/15/2021
+1355	Unassigned	84	US	2165			Illinois	0	02/16/2021
+1355	Unassigned	97	US	2167			Illinois	0	02/17/2021
+1355	Unassigned	81	US	2168			Illinois	0	02/18/2021
+1356	Unassigned	94	US	2176			Illinois	0	02/19/2021
+1356	Unassigned	0	US	2192			Illinois	0	02/20/2021
+1356	Unassigned	0	US	2197			Illinois	0	02/21/2021
+1356	Unassigned	0	US	2203			Illinois	0	02/22/2021
+1356	Unassigned	0	US	2198			Illinois	0	02/23/2021
+1356	Unassigned	0	US	2201			Illinois	0	02/24/2021
+1356	Unassigned	0	US	2201			Illinois	0	02/25/2021
+1356	Unassigned	0	US	2215			Illinois	0	02/26/2021
+1356	Unassigned	0	US	2216			Illinois	0	02/27/2021
+1356	Unassigned	0	US	2219			Illinois	0	02/28/2021
+1356	Unassigned	0	US	2223			Illinois	0	03/01/2021
+1356	Unassigned	0	US	2220			Illinois	0	03/02/2021
+1356	Unassigned	0	US	2227			Illinois	0	03/03/2021
+1356	Unassigned	0	US	2234			Illinois	0	03/04/2021
+1356	Unassigned	0	US	2246			Illinois	0	03/05/2021
+1356	Unassigned	0	US	2252			Illinois	0	03/06/2021
+1356	Unassigned	0	US	2251			Illinois		03/07/2021
+1356	Unassigned	0	US	2253			Illinois		03/08/2021
+1356	Unassigned	0	US	2258			Illinois		03/09/2021
+1356	Unassigned	0	US	2257			Illinois		03/10/2021
+1356	Unassigned	0	US	2259			Illinois		03/11/2021
+1356	Unassigned	0	US	2262			Illinois		03/12/2021
+1356	Unassigned	0	US	2264			Illinois		03/13/2021
+1356	Unassigned	0	US	2263			Illinois		03/14/2021
+1356	Unassigned	0	US	2261			Illinois		03/15/2021
+1356	Unassigned	0	US	2262			Illinois		03/16/2021
+1356	Unassigned	0	US	2267			Illinois		03/17/2021
+1356	Unassigned	0	US	2265			Illinois		03/18/2021
+1356	Unassigned	0	US	2270			Illinois		03/19/2021
+1356	Unassigned	0	US	2270			Illinois		03/20/2021
+1356	Unassigned	0	US	2276			Illinois		03/21/2021
+1356	Unassigned	0	US	2276			Illinois		03/22/2021
+1356	Unassigned	0	US	2275			Illinois		03/23/2021
+1356	Unassigned	0	US	2272			Illinois		03/24/2021
+1356	Unassigned	0	US	2271			Illinois		03/25/2021
+1356	Unassigned	0	US	2269			Illinois		03/26/2021
+1356	Unassigned	0	US	2270			Illinois		03/27/2021
+1356	Unassigned	0	US	2270			Illinois		03/28/2021
+1356	Unassigned	0	US	2271			Illinois		03/29/2021
+1356	Unassigned	0	US	2269			Illinois		03/30/2021
+1356	Unassigned	0	US	2278			Illinois		03/31/2021
+1356	Unassigned	0	US	2275			Illinois		04/01/2021
+1358	Unassigned	0	US	2277			Illinois		04/02/2021
+1358	Unassigned	0	US	2274			Illinois		04/03/2021
+1358	Unassigned	0	US	2281			Illinois		04/04/2021
+1358	Unassigned	0	US	2281			Illinois		04/05/2021
+1358	Unassigned	0	US	2278			Illinois		04/06/2021
+1358	Unassigned	0	US	2279			Illinois		04/07/2021
+1358	Unassigned	0	US	2283			Illinois		04/08/2021
+1358	Unassigned	0	US	2286			Illinois		04/09/2021
+1358	Unassigned	0	US	2288			Illinois		04/10/2021
+1358	Unassigned	0	US	2288			Illinois		04/11/2021
+1358	Unassigned	0	US	2286			Illinois		04/12/2021
+1358	Unassigned	0	US	2286			Illinois		04/13/2021
+1358	Unassigned	0	US	2295			Illinois		04/14/2021
+1358	Unassigned	0	US	2287			Illinois		04/15/2021
+1358	Unassigned	0	US	2290			Illinois		04/16/2021
+1358	Unassigned	0	US	2292			Illinois		04/17/2021

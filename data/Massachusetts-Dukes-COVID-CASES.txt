@@ -1,0 +1,11 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+1928	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/22/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/23/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/24/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/25/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/26/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/27/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/28/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/29/2020
+824	Dukes	0	US	0	41.40674725	-70.68763497	Massachusetts	0	03/30/2020
+790	Dukes	42	US	0	41.40674725	-70.68763497	Massachusetts	0	06/15/2020

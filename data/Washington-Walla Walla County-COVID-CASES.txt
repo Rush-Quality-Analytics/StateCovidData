@@ -1,0 +1,2 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+71	Walla Walla County	1	US	0	46.23040051	-118.4775539	Washington	0	03/22/2020

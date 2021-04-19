@@ -1,0 +1,275 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2919	Unassigned	238	US	178			Puerto Rico	0	07/18/2020
+2919	Unassigned	276	US	178			Puerto Rico	0	07/19/2020
+2842	Unassigned	324	US	180			Puerto Rico	0	07/20/2020
+2923	Unassigned	361	US	180			Puerto Rico	0	07/21/2020
+2924	Unassigned	317	US	185			Puerto Rico	0	07/22/2020
+2927	Unassigned	281	US	188			Puerto Rico	0	07/23/2020
+2926	Unassigned	301	US	191			Puerto Rico	0	07/24/2020
+2927	Unassigned	299	US	201			Puerto Rico	0	07/25/2020
+2928	Unassigned	356	US	201			Puerto Rico	0	07/26/2020
+2928	Unassigned	390	US	201			Puerto Rico	0	07/27/2020
+2928	Unassigned	432	US	209			Puerto Rico	0	07/28/2020
+2932	Unassigned	431	US	211			Puerto Rico	0	07/29/2020
+2932	Unassigned	405	US	214			Puerto Rico	0	07/30/2020
+2934	Unassigned	354	US	219			Puerto Rico	0	07/31/2020
+2934	Unassigned	446	US	225			Puerto Rico	0	08/01/2020
+2934	Unassigned	518	US	230			Puerto Rico	0	08/02/2020
+2934	Unassigned	535	US	230			Puerto Rico	0	08/03/2020
+2934	Unassigned	574	US	237			Puerto Rico	0	08/04/2020
+2938	Unassigned	512	US	246			Puerto Rico	0	08/05/2020
+2938	Unassigned	478	US	258			Puerto Rico	0	08/06/2020
+2938	Unassigned	469	US	265			Puerto Rico	0	08/07/2020
+2938	Unassigned	517	US	274			Puerto Rico	0	08/08/2020
+2938	Unassigned	512	US	279			Puerto Rico	0	08/09/2020
+2938	Unassigned	550	US	279			Puerto Rico	0	08/10/2020
+3101	Unassigned	543	US	287			Puerto Rico	0	08/11/2020
+3055	Unassigned	578	US	295			Puerto Rico	0	08/12/2020
+3056	Unassigned	532	US	306			Puerto Rico	0	08/13/2020
+3056	Unassigned	502	US	317			Puerto Rico	0	08/14/2020
+3056	Unassigned	516	US	329			Puerto Rico	0	08/15/2020
+3056	Unassigned	516	US	335			Puerto Rico	0	08/16/2020
+3058	Unassigned	592	US	335			Puerto Rico	0	08/17/2020
+3058	Unassigned	719	US	346			Puerto Rico	0	08/18/2020
+3060	Unassigned	681	US	356			Puerto Rico	0	08/19/2020
+3060	Unassigned	605	US	367			Puerto Rico	0	08/20/2020
+3060	Unassigned	591	US	374			Puerto Rico	0	08/21/2020
+3061	Unassigned	632	US	381			Puerto Rico	0	08/22/2020
+3061	Unassigned	569	US	390			Puerto Rico	0	08/23/2020
+3061	Unassigned	649	US	390			Puerto Rico	0	08/24/2020
+3061	Unassigned	656	US	395			Puerto Rico	0	08/25/2020
+3061	Unassigned	572	US	404			Puerto Rico	0	08/26/2020
+3061	Unassigned	591	US	412			Puerto Rico	0	08/27/2020
+3061	Unassigned	590	US	424			Puerto Rico	0	08/28/2020
+3061	Unassigned	574	US	428			Puerto Rico	0	08/29/2020
+3061	Unassigned	553	US	434			Puerto Rico	0	08/30/2020
+3065	Unassigned	579	US	434			Puerto Rico	0	08/31/2020
+3065	Unassigned	595	US	435			Puerto Rico	0	09/01/2020
+3065	Unassigned	614	US	443			Puerto Rico	0	09/02/2020
+3065	Unassigned	543	US	448			Puerto Rico	0	09/03/2020
+3065	Unassigned	530	US	455			Puerto Rico	0	09/04/2020
+3065	Unassigned	538	US	464			Puerto Rico	0	09/05/2020
+3065	Unassigned	502	US	477			Puerto Rico	0	09/06/2020
+3065	Unassigned	545	US	477			Puerto Rico	0	09/07/2020
+3065	Unassigned	546	US	482			Puerto Rico	0	09/08/2020
+3065	Unassigned	546	US	500			Puerto Rico	0	09/09/2020
+3065	Unassigned	570	US	512			Puerto Rico	0	09/10/2020
+3065	Unassigned	513	US	523			Puerto Rico	0	09/11/2020
+3065	Unassigned	516	US	535			Puerto Rico	0	09/12/2020
+3065	Unassigned	499	US	539			Puerto Rico	0	09/13/2020
+3065	Unassigned	503	US	542			Puerto Rico	0	09/14/2020
+3065	Unassigned	511	US	551			Puerto Rico	0	09/15/2020
+3065	Unassigned	483	US	570			Puerto Rico	0	09/16/2020
+3065	Unassigned	474	US	588			Puerto Rico	0	09/17/2020
+3065	Unassigned	533	US	599			Puerto Rico	0	09/18/2020
+3065	Unassigned	556	US	605			Puerto Rico	0	09/19/2020
+3065	Unassigned	552	US	608			Puerto Rico	0	09/20/2020
+3067	Unassigned	570	US	609			Puerto Rico	0	09/21/2020
+3067	Unassigned	570	US	613			Puerto Rico	0	09/22/2020
+3067	Unassigned	525	US	617			Puerto Rico	0	09/23/2020
+3067	Unassigned	542	US	627			Puerto Rico	0	09/24/2020
+3067	Unassigned	535	US	635			Puerto Rico	0	09/25/2020
+3067	Unassigned	517	US	642			Puerto Rico	0	09/26/2020
+3067	Unassigned	521	US	644			Puerto Rico	0	09/27/2020
+3067	Unassigned	553	US	648			Puerto Rico	0	09/28/2020
+3067	Unassigned	602	US	654			Puerto Rico	0	09/29/2020
+3067	Unassigned	634	US	661			Puerto Rico	0	09/30/2020
+3067	Unassigned	596	US	665			Puerto Rico	0	10/01/2020
+3067	Unassigned	539	US	673			Puerto Rico	0	10/02/2020
+3067	Unassigned	590	US	681			Puerto Rico	0	10/03/2020
+3067	Unassigned	592	US	686			Puerto Rico	0	10/04/2020
+3067	Unassigned	622	US	695			Puerto Rico	0	10/05/2020
+3067	Unassigned	635	US	696			Puerto Rico	0	10/06/2020
+3067	Unassigned	635	US	705			Puerto Rico	0	10/07/2020
+3067	Unassigned	651	US	715			Puerto Rico	0	10/08/2020
+3067	Unassigned	666	US	720			Puerto Rico	0	10/09/2020
+3067	Unassigned	707	US	728			Puerto Rico	0	10/10/2020
+3067	Unassigned	724	US	730			Puerto Rico	0	10/11/2020
+3068	Unassigned	753	US	735			Puerto Rico	0	10/12/2020
+3068	Unassigned	762	US	738			Puerto Rico	0	10/13/2020
+3068	Unassigned	830	US	742			Puerto Rico	0	10/14/2020
+3068	Unassigned	846	US	743			Puerto Rico	0	10/15/2020
+3069	Unassigned	847	US	758			Puerto Rico	0	10/16/2020
+3069	Unassigned	847	US	761			Puerto Rico	0	10/17/2020
+3069	Unassigned	875	US	766			Puerto Rico	0	10/18/2020
+3070	Unassigned	902	US	768			Puerto Rico	0	10/19/2020
+3070	Unassigned	911	US	769			Puerto Rico	0	10/20/2020
+3070	Unassigned	917	US	774			Puerto Rico	0	10/21/2020
+3070	Unassigned	917	US	783			Puerto Rico	0	10/22/2020
+3070	Unassigned	1030	US	791			Puerto Rico	0	10/23/2020
+3070	Unassigned	1029	US	794			Puerto Rico	0	10/24/2020
+3070	Unassigned	1099	US	801			Puerto Rico	0	10/25/2020
+3070	Unassigned	1110	US	804			Puerto Rico	0	10/26/2020
+3070	Unassigned	1141	US	808			Puerto Rico	0	10/27/2020
+3071	Unassigned	1160	US	813.0			Puerto Rico	0	10/28/2020
+3071	Unassigned	1248	US	814			Puerto Rico	0	10/29/2020
+3071	Unassigned	1285	US	820			Puerto Rico	0	10/30/2020
+3071	Unassigned	1293	US	822			Puerto Rico	0	10/31/2020
+3071	Unassigned	1311	US	832			Puerto Rico	0	11/01/2020
+3071	Unassigned	1360	US	839			Puerto Rico	0	11/02/2020
+3071	Unassigned	1376	US	842			Puerto Rico	0	11/03/2020
+3072	Unassigned	1378	US	850			Puerto Rico	0	11/04/2020
+3072	Unassigned	1386	US	855			Puerto Rico	0	11/05/2020
+3072	Unassigned	1460	US	862			Puerto Rico	0	11/06/2020
+3072	Unassigned	2525	US	862			Puerto Rico	0	11/07/2020
+3072	Unassigned	3159	US	872			Puerto Rico	0	11/08/2020
+3072	Unassigned	900	US	882			Puerto Rico	0.0	11/09/2020
+3072	Unassigned	908	US	889			Puerto Rico	0.0	11/10/2020
+3072	Unassigned	922	US	901			Puerto Rico	0.0	11/11/2020
+3084	Unassigned	975	US	909			Puerto Rico	0	11/12/2020
+3084	Unassigned	993	US	914			Puerto Rico	0	11/13/2020
+3084	Unassigned	1008	US	921			Puerto Rico	0	11/14/2020
+3084	Unassigned	1031	US	935			Puerto Rico	0	11/15/2020
+3084	Unassigned	1043	US	942			Puerto Rico	0	11/16/2020
+3084	Unassigned	1060	US	951			Puerto Rico	0	11/17/2020
+3084	Unassigned	1067	US	971			Puerto Rico	0	11/18/2020
+3084	Unassigned	1073	US	982			Puerto Rico	0	11/19/2020
+3084	Unassigned	1109	US	991			Puerto Rico	0	11/20/2020
+3084	Unassigned	1149	US	1012			Puerto Rico	0	11/21/2020
+3084	Unassigned	220	US	1017			Puerto Rico	0	11/22/2020
+3084	Unassigned	1230	US	1032			Puerto Rico	0	11/23/2020
+3085	Unassigned	1231	US	1038			Puerto Rico	0	11/24/2020
+3085	Unassigned	1240	US	1052			Puerto Rico	0	11/25/2020
+3085	Unassigned	1265	US	1069			Puerto Rico	0	11/26/2020
+3085	Unassigned	1338	US	1076			Puerto Rico	0	11/27/2020
+3085	Unassigned	1371	US	1083			Puerto Rico	0	11/28/2020
+3085	Unassigned	1369	US	1094			Puerto Rico	0	11/29/2020
+3085	Unassigned	1413	US	1106			Puerto Rico	0	11/30/2020
+3085	Unassigned	1451	US	1122			Puerto Rico	0	12/01/2020
+3085	Unassigned	1476	US	1144			Puerto Rico	0	12/02/2020
+3085	Unassigned	1478	US	1155			Puerto Rico	0	12/03/2020
+3085	Unassigned	1487	US	1173			Puerto Rico	0	12/04/2020
+3085	Unassigned	1517	US	1185			Puerto Rico	0	12/05/2020
+3085	Unassigned	1567	US	1192			Puerto Rico	0	12/06/2020
+3085	Unassigned	1597	US	1203			Puerto Rico	0	12/07/2020
+3085	Unassigned	1632	US	1206			Puerto Rico	0	12/08/2020
+3085	Unassigned	1667	US	1219			Puerto Rico	0	12/09/2020
+3085	Unassigned	1681	US	1238			Puerto Rico	0	12/10/2020
+3085	Unassigned	1768	US	1249			Puerto Rico	0	12/11/2020
+3085	Unassigned	1771	US	1266			Puerto Rico	0	12/12/2020
+3085	Unassigned	1779	US	1272			Puerto Rico	0	12/13/2020
+3085	Unassigned	1795	US	1282			Puerto Rico	0	12/14/2020
+3085	Unassigned	1802	US	1294			Puerto Rico	0	12/15/2020
+3085	Unassigned	1802	US	1312			Puerto Rico	0	12/16/2020
+3085	Unassigned	1857	US	1323			Puerto Rico	0	12/17/2020
+3085	Unassigned	1912	US	1333			Puerto Rico	0	12/18/2020
+3085	Unassigned	1959	US	1342			Puerto Rico	0	12/19/2020
+3085	Unassigned	2061	US	1368			Puerto Rico	0	12/20/2020
+3085	Unassigned	2066	US	1382			Puerto Rico	0	12/21/2020
+3085	Unassigned	2138	US	1391			Puerto Rico	0	12/22/2020
+3085	Unassigned	2157	US	1408			Puerto Rico	0	12/23/2020
+3085	Unassigned	2180	US	1423			Puerto Rico	0	12/24/2020
+3085	Unassigned	2209	US	1432			Puerto Rico	0	12/25/2020
+3085	Unassigned	2238	US	1432			Puerto Rico	0	12/26/2020
+3085	Unassigned	2266	US	1445			Puerto Rico	0	12/27/2020
+3085	Unassigned	2262	US	1456			Puerto Rico	0	12/28/2020
+3085	Unassigned	2388	US	1460			Puerto Rico	0	12/29/2020
+3085	Unassigned	2390	US	1484			Puerto Rico	0	12/30/2020
+3085	Unassigned	2395	US	1503			Puerto Rico	0	12/31/2020
+3085	Unassigned	2377	US	1521			Puerto Rico	0	01/01/2021
+3085	Unassigned	2414	US	1526			Puerto Rico	0	01/02/2021
+3086	Unassigned	2412	US	1545			Puerto Rico	0	01/03/2021
+3086	Unassigned	2444	US	1555			Puerto Rico	0	01/04/2021
+3086	Unassigned	2497	US	1562			Puerto Rico	0	01/05/2021
+3086	Unassigned	2479	US	1570			Puerto Rico	0	01/06/2021
+3086	Unassigned	2449	US	1588			Puerto Rico	0	01/07/2021
+3086	Unassigned	2522	US	1592			Puerto Rico	0	01/08/2021
+3086	Unassigned	2534	US	1616			Puerto Rico	0	01/09/2021
+3086	Unassigned	2531	US	1630			Puerto Rico	0	01/10/2021
+3086	Unassigned	2530	US	1642			Puerto Rico	0	01/11/2021
+3086	Unassigned	2568	US	1645			Puerto Rico	0	01/12/2021
+3086	Unassigned	2568	US	1659			Puerto Rico	0	01/13/2021
+3086	Unassigned	2564	US	1679			Puerto Rico	0	01/14/2021
+3087	Unassigned	2605	US	1692			Puerto Rico	0	01/15/2021
+3087	Unassigned	2607	US	1703			Puerto Rico	0	01/16/2021
+3087	Unassigned	2645	US	1703			Puerto Rico	0	01/17/2021
+3087	Unassigned	2650	US	1703			Puerto Rico	0	01/18/2021
+3087	Unassigned	2661	US	1703			Puerto Rico	0	01/19/2021
+3087	Unassigned	2668	US	1717			Puerto Rico	0	01/20/2021
+3088	Unassigned	2670	US	1732			Puerto Rico	0	01/21/2021
+3088	Unassigned	2677	US	1761			Puerto Rico	0	01/22/2021
+3088	Unassigned	2719	US	1771			Puerto Rico	0	01/23/2021
+3088	Unassigned	2728	US	1773			Puerto Rico	0	01/24/2021
+3088	Unassigned	2737	US	1778			Puerto Rico	0	01/25/2021
+3088	Unassigned	2757	US	1783			Puerto Rico	0	01/26/2021
+3088	Unassigned	2757	US	1794			Puerto Rico	0	01/27/2021
+3088	Unassigned	2760	US	1801			Puerto Rico	0	01/28/2021
+3088	Unassigned	2761	US	1812			Puerto Rico	0	01/29/2021
+3088	Unassigned	2788	US	1823			Puerto Rico	0	01/30/2021
+3088	Unassigned	2795	US	1829			Puerto Rico	0	01/31/2021
+3088	Unassigned	2819	US	1836			Puerto Rico	0	02/01/2021
+3088	Unassigned	2821	US	1846			Puerto Rico	0	02/02/2021
+3088	Unassigned	2823	US	1853			Puerto Rico	0	02/03/2021
+3088	Unassigned	2829	US	1861			Puerto Rico	0	02/04/2021
+3088	Unassigned	2810	US	1867			Puerto Rico	0	02/05/2021
+3088	Unassigned	2815	US	1872			Puerto Rico	0	02/06/2021
+3088	Unassigned	2835	US	1883			Puerto Rico	0	02/07/2021
+3088	Unassigned	2836	US	1888			Puerto Rico	0	02/08/2021
+3088	Unassigned	2837	US	1893			Puerto Rico	0	02/09/2021
+3088	Unassigned	2838	US	1897			Puerto Rico	0	02/10/2021
+3088	Unassigned	2835	US	1902			Puerto Rico	0	02/11/2021
+3088	Unassigned	2849	US	1907			Puerto Rico	0	02/12/2021
+3088	Unassigned	2873	US	1915			Puerto Rico	0	02/13/2021
+3088	Unassigned	2870	US	1919			Puerto Rico	0	02/14/2021
+3088	Unassigned	2869	US	1920			Puerto Rico	0	02/15/2021
+3088	Unassigned	2882	US	1924			Puerto Rico	0	02/16/2021
+3088	Unassigned	2892	US	1930			Puerto Rico	0	02/17/2021
+3088	Unassigned	2888	US	1940			Puerto Rico	0	02/18/2021
+3089	Unassigned	2889	US	1947			Puerto Rico	0	02/19/2021
+3089	Unassigned	2890	US	1957			Puerto Rico	0	02/20/2021
+3089	Unassigned	2901	US	1979			Puerto Rico	0	02/21/2021
+3089	Unassigned	2908	US	1983			Puerto Rico	0	02/22/2021
+3089	Unassigned	2909	US	1986			Puerto Rico	0	02/23/2021
+3089	Unassigned	2906	US	2007			Puerto Rico	0	02/24/2021
+3089	Unassigned	2907	US	2016			Puerto Rico	0	02/25/2021
+3089	Unassigned	2909	US	2023			Puerto Rico	0	02/26/2021
+3089	Unassigned	2910	US	2032			Puerto Rico	0	02/27/2021
+3089	Unassigned	2912	US	2036			Puerto Rico	0	02/28/2021
+3089	Unassigned	2909	US	2037			Puerto Rico	0	03/01/2021
+3089	Unassigned	2905	US	2040			Puerto Rico	0	03/02/2021
+3089	Unassigned	2904	US	2048			Puerto Rico	0	03/03/2021
+3089	Unassigned	2904	US	2053			Puerto Rico	0	03/04/2021
+3089	Unassigned	2929	US	2056			Puerto Rico	0	03/05/2021
+3089	Unassigned	2941	US	2059			Puerto Rico	0	03/06/2021
+3089	Unassigned	2941	US	2059			Puerto Rico		03/07/2021
+3089	Unassigned	2941	US	2059			Puerto Rico		03/08/2021
+3089	Unassigned	2946	US	2066			Puerto Rico		03/09/2021
+3089	Unassigned	2947	US	2066			Puerto Rico		03/10/2021
+3089	Unassigned	2947	US	2073			Puerto Rico		03/11/2021
+3089	Unassigned	2952	US	2077			Puerto Rico		03/12/2021
+3089	Unassigned	2959	US	2077			Puerto Rico		03/13/2021
+3089	Unassigned	2961	US	2080			Puerto Rico		03/14/2021
+3089	Unassigned	2965	US	2081			Puerto Rico		03/15/2021
+3089	Unassigned	2965	US	2083			Puerto Rico		03/16/2021
+3089	Unassigned	2966	US	2085			Puerto Rico		03/17/2021
+3089	Unassigned	2990	US	2089			Puerto Rico		03/18/2021
+3089	Unassigned	2995	US	2092			Puerto Rico		03/19/2021
+3089	Unassigned	3009	US	2096			Puerto Rico		03/20/2021
+3089	Unassigned	3015	US	2096			Puerto Rico		03/21/2021
+3089	Unassigned	3020	US	2098			Puerto Rico		03/22/2021
+3089	Unassigned	3036	US	2100			Puerto Rico		03/23/2021
+3089	Unassigned	3034	US	2103			Puerto Rico		03/24/2021
+3089	Unassigned	3035	US	2106			Puerto Rico		03/25/2021
+3089	Unassigned	3049	US	2109			Puerto Rico		03/26/2021
+3089	Unassigned	3057	US	2112			Puerto Rico		03/27/2021
+3089	Unassigned	3061	US	2112			Puerto Rico		03/28/2021
+3089	Unassigned	3085	US	2112			Puerto Rico		03/29/2021
+3089	Unassigned	3090	US	2113			Puerto Rico		03/30/2021
+3089	Unassigned	3092	US	2118			Puerto Rico		03/31/2021
+3089	Unassigned	3107	US	2121			Puerto Rico		04/01/2021
+3091	Unassigned	3126	US	2126			Puerto Rico		04/02/2021
+3091	Unassigned	3150	US	2126			Puerto Rico		04/03/2021
+3091	Unassigned	3165	US	2131			Puerto Rico		04/04/2021
+3091	Unassigned	3164	US	2136			Puerto Rico		04/05/2021
+3091	Unassigned	3166	US	2139			Puerto Rico		04/06/2021
+3091	Unassigned	3175	US	2141			Puerto Rico		04/07/2021
+3091	Unassigned	3191	US	2146			Puerto Rico		04/08/2021
+3091	Unassigned	3264	US	2152			Puerto Rico		04/09/2021
+3091	Unassigned	3303	US	2154			Puerto Rico		04/10/2021
+3091	Unassigned	3357	US	2155			Puerto Rico		04/11/2021
+3091	Unassigned	3412	US	2162			Puerto Rico		04/12/2021
+3091	Unassigned	3490	US	2174			Puerto Rico		04/13/2021
+3091	Unassigned	3498	US	2182			Puerto Rico		04/14/2021
+3091	Unassigned	3554	US	2185			Puerto Rico		04/15/2021
+3091	Unassigned	3621	US	2194			Puerto Rico		04/16/2021
+3091	Unassigned	3635	US	2200			Puerto Rico		04/17/2021

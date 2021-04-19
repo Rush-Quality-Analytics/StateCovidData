@@ -1,0 +1,388 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2866	Unassigned	1	US	0	0.0	0.0	Minnesota	0	03/23/2020
+2868	Unassigned	0	US	2	0.0	0.0	Minnesota	0	03/27/2020
+2870	Unassigned	0	US	4	0.0	0.0	Minnesota	0	03/29/2020
+2871	Unassigned	0	US	1	0.0	0.0	Minnesota	0	03/30/2020
+1944	Unassigned	0	US	3	0.0	0.0	Minnesota	0	03/31/2020
+1990	Unassigned	0	US	8	0.0	0.0	Minnesota	0	04/01/2020
+2062	Unassigned	0	US	8			Minnesota	0	04/02/2020
+2108	Unassigned	0	US	11			Minnesota	0	04/03/2020
+2161	Unassigned	2	US	5			Minnesota	0	04/04/2020
+2235	Unassigned	7	US	3			Minnesota	0	04/05/2020
+2273	Unassigned	6	US	0			Minnesota	0	04/06/2020
+2320	Unassigned	6	US	0			Minnesota	0	04/07/2020
+2343	Unassigned	4	US	0			Minnesota	0	04/08/2020
+2369	Unassigned	2	US	0			Minnesota	0	04/09/2020
+2393	Unassigned	1	US	0			Minnesota	0	04/10/2020
+2418	Unassigned	4	US	1			Minnesota	0	04/11/2020
+2440	Unassigned	5	US	0			Minnesota	0	04/12/2020
+2454	Unassigned	5	US	0			Minnesota	0	04/13/2020
+2464	Unassigned	35	US	0			Minnesota	0	04/14/2020
+2476	Unassigned	2	US	0			Minnesota	0	04/15/2020
+2490	Unassigned	2	US	0			Minnesota	0	04/16/2020
+2492	Unassigned	0	US	0			Minnesota	0	04/17/2020
+2499	Unassigned	0	US	0			Minnesota	0	04/18/2020
+2516	Unassigned	4	US	0			Minnesota	0	04/19/2020
+2525	Unassigned	4	US	0			Minnesota	0	04/20/2020
+2534	Unassigned	4	US	0			Minnesota	0	04/21/2020
+2541	Unassigned	4	US	0			Minnesota	0	04/22/2020
+2558	Unassigned	3	US	0			Minnesota	0	04/23/2020
+2564	Unassigned	6	US	0			Minnesota	0	04/24/2020
+2569	Unassigned	5	US	0			Minnesota	0	04/25/2020
+2577	Unassigned	9	US	0			Minnesota	0	04/26/2020
+2584	Unassigned	0	US	0			Minnesota	0	04/27/2020
+2593	Unassigned	6	US	0			Minnesota	0	04/28/2020
+2598	Unassigned	7	US	0			Minnesota	0	04/29/2020
+2604	Unassigned	9	US	0			Minnesota	0	04/30/2020
+2614	Unassigned	13	US	0			Minnesota	0	05/01/2020
+2618	Unassigned	0	US	0			Minnesota	0	05/02/2020
+2623	Unassigned	20	US	0			Minnesota	0	05/03/2020
+2626	Unassigned	21	US	0			Minnesota	0	05/04/2020
+2634	Unassigned	22	US	1			Minnesota	0	05/05/2020
+2640	Unassigned	11	US	0			Minnesota	0	05/06/2020
+2647	Unassigned	20	US	0			Minnesota	0	05/07/2020
+2654	Unassigned	31	US	0			Minnesota	0	05/08/2020
+2656	Unassigned	17	US	0			Minnesota	0	05/09/2020
+2658	Unassigned	18	US	0			Minnesota	0	05/10/2020
+2658	Unassigned	25	US	0			Minnesota	0	05/11/2020
+2661	Unassigned	30	US	0			Minnesota	0	05/12/2020
+2662	Unassigned	16	US	0			Minnesota	0	05/13/2020
+2664	Unassigned	21	US	9			Minnesota	0	05/14/2020
+2669	Unassigned	24	US	9			Minnesota	0	05/15/2020
+2673	Unassigned	28	US	9			Minnesota	0	05/16/2020
+2676	Unassigned	29	US	9			Minnesota	0	05/17/2020
+2678	Unassigned	28	US	9			Minnesota	0	05/18/2020
+2682	Unassigned	35	US	9			Minnesota	0	05/19/2020
+2688	Unassigned	32	US	9			Minnesota	0	05/20/2020
+2690	Unassigned	34	US	9			Minnesota	0	05/21/2020
+2697	Unassigned	20	US	9			Minnesota	0	05/22/2020
+2699	Unassigned	16	US	9			Minnesota	0	05/23/2020
+2702	Unassigned	19	US	9			Minnesota	0	05/24/2020
+2703	Unassigned	22	US	9			Minnesota	0	05/25/2020
+2704	Unassigned	15	US	9			Minnesota	0	05/26/2020
+2707	Unassigned	61	US	10			Minnesota	0	05/27/2020
+2710	Unassigned	94	US	10			Minnesota	0	05/28/2020
+2713	Unassigned	66	US	10			Minnesota	0	05/29/2020
+2715	Unassigned	86	US	10			Minnesota	0	05/30/2020
+2716	Unassigned	89	US	10			Minnesota	0	05/31/2020
+2718	Unassigned	88	US	10			Minnesota	0	06/01/2020
+2723	Unassigned	83	US	10			Minnesota	0	06/02/2020
+2725	Unassigned	74	US	11			Minnesota	0	06/03/2020
+2726	Unassigned	75	US	11			Minnesota	0	06/04/2020
+2730	Unassigned	96	US	11			Minnesota	0	06/05/2020
+2732	Unassigned	96	US	11			Minnesota	0	06/06/2020
+2732	Unassigned	87	US	11			Minnesota	0	06/07/2020
+2732	Unassigned	88	US	11			Minnesota	0	06/08/2020
+2734	Unassigned	86	US	11			Minnesota	0	06/09/2020
+2736	Unassigned	82	US	31			Minnesota	0	06/10/2020
+2738	Unassigned	83	US	31			Minnesota	0	06/11/2020
+2752	Unassigned	65	US	31			Minnesota	0	06/12/2020
+2755	Unassigned	57	US	31			Minnesota	0	06/13/2020
+2755	Unassigned	56	US	31			Minnesota	0	06/14/2020
+2759	Unassigned	56	US	31			Minnesota	0	06/15/2020
+2757	Unassigned	55	US	31			Minnesota	0	06/16/2020
+2759	Unassigned	59	US	32			Minnesota	0	06/17/2020
+2759	Unassigned	58	US	33			Minnesota	0	06/18/2020
+2760	Unassigned	57	US	31			Minnesota	0	06/19/2020
+2764	Unassigned	68	US	31			Minnesota	0	06/20/2020
+2764	Unassigned	82	US	31			Minnesota	0	06/21/2020
+2767	Unassigned	80	US	31			Minnesota	0	06/22/2020
+2772	Unassigned	77	US	32			Minnesota	0	06/23/2020
+2784	Unassigned	80	US	35			Minnesota	0	06/24/2020
+2789	Unassigned	79	US	35			Minnesota	0	06/25/2020
+2790	Unassigned	81	US	35			Minnesota	0	06/26/2020
+2791	Unassigned	82	US	35			Minnesota	0	06/27/2020
+2791	Unassigned	82	US	35			Minnesota	0	06/28/2020
+2793	Unassigned	82	US	35			Minnesota	0	06/29/2020
+2795	Unassigned	83	US	35			Minnesota	0	06/30/2020
+2797	Unassigned	81	US	37			Minnesota	0	07/01/2020
+2800	Unassigned	82	US	37			Minnesota	0	07/02/2020
+2805	Unassigned	76	US	37			Minnesota	0	07/03/2020
+2806	Unassigned	76	US	37			Minnesota	0	07/04/2020
+2807	Unassigned	77	US	37			Minnesota	0	07/05/2020
+2810	Unassigned	78	US	37			Minnesota	0	07/06/2020
+2811	Unassigned	85	US	37			Minnesota	0	07/07/2020
+2814	Unassigned	87	US	38			Minnesota	0	07/08/2020
+2813	Unassigned	84	US	38			Minnesota	0	07/09/2020
+2817	Unassigned	86	US	38			Minnesota	0	07/10/2020
+2818	Unassigned	88	US	38			Minnesota	0	07/11/2020
+2820	Unassigned	88	US	38			Minnesota	0	07/12/2020
+2821	Unassigned	88	US	38			Minnesota	0	07/13/2020
+2827	Unassigned	92	US	38			Minnesota	0	07/14/2020
+2828	Unassigned	94	US	40			Minnesota	0	07/15/2020
+2830	Unassigned	91	US	40			Minnesota	0	07/16/2020
+2830	Unassigned	85	US	40			Minnesota	0	07/17/2020
+2903	Unassigned	89	US	40			Minnesota	0	07/18/2020
+2903	Unassigned	93	US	40			Minnesota	0	07/19/2020
+3907	Unassigned	759	US	40			Minnesota	0	07/20/2020
+2907	Unassigned	111	US	40			Minnesota	0	07/21/2020
+2908	Unassigned	122	US	40			Minnesota	0	07/22/2020
+2911	Unassigned	130	US	40			Minnesota	0	07/23/2020
+2910	Unassigned	142	US	40			Minnesota	0	07/24/2020
+2911	Unassigned	166	US	40			Minnesota	0	07/25/2020
+2912	Unassigned	167	US	40			Minnesota	0	07/26/2020
+2912	Unassigned	180	US	40			Minnesota	0	07/27/2020
+2912	Unassigned	186	US	40			Minnesota	0	07/28/2020
+2916	Unassigned	114	US	40			Minnesota	0	07/29/2020
+2916	Unassigned	118	US	40			Minnesota	0	07/30/2020
+2918	Unassigned	116	US	40			Minnesota	0	07/31/2020
+2918	Unassigned	128	US	40			Minnesota	0	08/01/2020
+2918	Unassigned	135	US	40			Minnesota	0	08/02/2020
+2918	Unassigned	140	US	40			Minnesota	0	08/03/2020
+2918	Unassigned	140	US	40			Minnesota	0	08/04/2020
+2922	Unassigned	109	US	41			Minnesota	0	08/05/2020
+2922	Unassigned	132	US	41			Minnesota	0	08/06/2020
+2922	Unassigned	126	US	41			Minnesota	0	08/07/2020
+2922	Unassigned	137	US	41			Minnesota	0	08/08/2020
+2922	Unassigned	134	US	41			Minnesota	0	08/09/2020
+2922	Unassigned	134	US	41			Minnesota	0	08/10/2020
+2097	Unassigned	131	US	41			Minnesota	0	08/11/2020
+2051	Unassigned	133	US	46			Minnesota	0	08/12/2020
+2052	Unassigned	135	US	46			Minnesota	0	08/13/2020
+2052	Unassigned	144	US	46			Minnesota	0	08/14/2020
+2052	Unassigned	146	US	6			Minnesota	0	08/15/2020
+2052	Unassigned	146	US	46			Minnesota	0	08/16/2020
+2054	Unassigned	148	US	46			Minnesota	0	08/17/2020
+2054	Unassigned	148	US	46			Minnesota	0	08/18/2020
+2054	Unassigned	125	US	45			Minnesota	0	08/19/2020
+2054	Unassigned	120	US	46			Minnesota	0	08/20/2020
+2054	Unassigned	136	US	46			Minnesota	0	08/21/2020
+2055	Unassigned	120	US	46			Minnesota	0	08/22/2020
+2055	Unassigned	123	US	46			Minnesota	0	08/23/2020
+2055	Unassigned	127	US	46			Minnesota	0	08/24/2020
+2055	Unassigned	124	US	46			Minnesota	0	08/25/2020
+2055	Unassigned	127	US	46			Minnesota	0	08/26/2020
+2055	Unassigned	141	US	49			Minnesota	0	08/27/2020
+2055	Unassigned	147	US	49			Minnesota	0	08/28/2020
+2055	Unassigned	145	US	49			Minnesota	0	08/29/2020
+2055	Unassigned	154	US	49			Minnesota	0	08/30/2020
+2055	Unassigned	159	US	49			Minnesota	0	08/31/2020
+2055	Unassigned	164	US	49			Minnesota	0	09/01/2020
+2055	Unassigned	157	US	52			Minnesota	0	09/02/2020
+2055	Unassigned	207	US	52			Minnesota	0	09/03/2020
+2055	Unassigned	166	US	52			Minnesota	0	09/04/2020
+2055	Unassigned	167	US	52			Minnesota	0	09/05/2020
+2055	Unassigned	180	US	52			Minnesota	0	09/06/2020
+2055	Unassigned	200	US	52			Minnesota	0	09/07/2020
+2055	Unassigned	198	US	52			Minnesota	0	09/08/2020
+2055	Unassigned	183	US	52			Minnesota	0	09/09/2020
+2055	Unassigned	192	US	52			Minnesota	0	09/10/2020
+2055	Unassigned	196	US	52			Minnesota	0	09/11/2020
+2055	Unassigned	159	US	52			Minnesota	0	09/12/2020
+2055	Unassigned	147	US	52			Minnesota	0	09/13/2020
+2055	Unassigned	156	US	52			Minnesota	0	09/14/2020
+2055	Unassigned	153	US	52			Minnesota	0	09/15/2020
+2055	Unassigned	150	US	52			Minnesota	0	09/16/2020
+2055	Unassigned	157	US	52			Minnesota	0	09/17/2020
+2055	Unassigned	165	US	52			Minnesota	0	09/18/2020
+2055	Unassigned	187	US	52			Minnesota	0	09/19/2020
+2055	Unassigned	209	US	52			Minnesota	0	09/20/2020
+2056	Unassigned	212	US	52			Minnesota	0	09/21/2020
+2056	Unassigned	220	US	52			Minnesota	0	09/22/2020
+2056	Unassigned	218	US	52			Minnesota	0	09/23/2020
+2056	Unassigned	150	US	52			Minnesota	0	09/24/2020
+2056	Unassigned	155	US	52			Minnesota	0	09/25/2020
+2056	Unassigned	170	US	52			Minnesota	0	09/26/2020
+2056	Unassigned	180	US	52			Minnesota	0	09/27/2020
+2056	Unassigned	154	US	52			Minnesota	0	09/28/2020
+2056	Unassigned	153	US	52			Minnesota	0	09/29/2020
+2056	Unassigned	154	US	53			Minnesota	0	09/30/2020
+2056	Unassigned	163	US	53			Minnesota	0	10/01/2020
+2056	Unassigned	172	US	53			Minnesota	0	10/02/2020
+2056	Unassigned	165	US	53			Minnesota	0	10/03/2020
+2056	Unassigned	177	US	53			Minnesota	0	10/04/2020
+2056	Unassigned	187	US	53			Minnesota	0	10/05/2020
+2056	Unassigned	162	US	53			Minnesota	0	10/06/2020
+2056	Unassigned	161	US	53			Minnesota	0	10/07/2020
+2056	Unassigned	176	US	53			Minnesota	0	10/08/2020
+2056	Unassigned	193	US	53			Minnesota	0	10/09/2020
+2056	Unassigned	183	US	53			Minnesota	0	10/10/2020
+2056	Unassigned	213	US	53			Minnesota	0	10/11/2020
+2057	Unassigned	210	US	53			Minnesota	0	10/12/2020
+2057	Unassigned	207	US	53			Minnesota	0	10/13/2020
+2057	Unassigned	182	US	59			Minnesota	0	10/14/2020
+2057	Unassigned	188	US	60			Minnesota	0	10/15/2020
+2058	Unassigned	218	US	53			Minnesota	0	10/16/2020
+2058	Unassigned	195	US	53			Minnesota	0	10/17/2020
+2058	Unassigned	220	US	53			Minnesota	0	10/18/2020
+2059	Unassigned	265	US	53			Minnesota	0	10/19/2020
+2059	Unassigned	195	US	53			Minnesota	0	10/20/2020
+2059	Unassigned	195	US	53			Minnesota	0	10/21/2020
+2059	Unassigned	265	US	53			Minnesota	0	10/22/2020
+2059	Unassigned	211	US	53			Minnesota	0	10/23/2020
+2059	Unassigned	201	US	53			Minnesota	0	10/24/2020
+2059	Unassigned	290	US	53			Minnesota	0	10/25/2020
+2059	Unassigned	292	US	53			Minnesota	0	10/26/2020
+2059	Unassigned	193	US	53			Minnesota	0	10/27/2020
+2060	Unassigned	195	US	53.0			Minnesota	0	10/28/2020
+2060	Unassigned	238	US	53			Minnesota	0	10/29/2020
+2060	Unassigned	203	US	54			Minnesota	0	10/30/2020
+2060	Unassigned	287	US	54			Minnesota	0	10/31/2020
+2060	Unassigned	236	US	54			Minnesota	0	11/01/2020
+2060	Unassigned	233	US	54			Minnesota	0	11/02/2020
+2061	Unassigned	244	US	54			Minnesota	0	11/03/2020
+2061	Unassigned	231	US	54			Minnesota	0	11/04/2020
+2061	Unassigned	232	US	54			Minnesota	0	11/05/2020
+2061	Unassigned	349	US	54			Minnesota	0	11/06/2020
+2061	Unassigned	247	US	54			Minnesota	0	11/07/2020
+2061	Unassigned	298	US	54			Minnesota	0	11/08/2020
+2061	Unassigned	283	US	54			Minnesota	0.0	11/09/2020
+2061	Unassigned	238	US	54			Minnesota	0.0	11/10/2020
+2061	Unassigned	278	US	56			Minnesota	0.0	11/11/2020
+2073	Unassigned	327	US	56			Minnesota	0	11/12/2020
+2073	Unassigned	396	US	56			Minnesota	0	11/13/2020
+2073	Unassigned	323	US	56			Minnesota	0	11/14/2020
+2073	Unassigned	392	US	56			Minnesota	0	11/15/2020
+2073	Unassigned	340	US	56			Minnesota	0	11/16/2020
+2073	Unassigned	319	US	56			Minnesota	0	11/17/2020
+2073	Unassigned	320	US	56			Minnesota	0	11/18/2020
+2073	Unassigned	373	US	56			Minnesota	0	11/19/2020
+2073	Unassigned	329	US	57			Minnesota	0	11/20/2020
+2073	Unassigned	363	US	56			Minnesota	0	11/21/2020
+2073	Unassigned	527	US	56			Minnesota	0	11/22/2020
+2073	Unassigned	343	US	56			Minnesota	0	11/23/2020
+2074	Unassigned	358	US	56			Minnesota	0	11/24/2020
+2074	Unassigned	387	US	59			Minnesota	0	11/25/2020
+2074	Unassigned	387	US	59			Minnesota	0	11/26/2020
+2074	Unassigned	386	US	59			Minnesota	0	11/27/2020
+2074	Unassigned	367	US	59			Minnesota	0	11/28/2020
+2074	Unassigned	493	US	59			Minnesota	0	11/29/2020
+2074	Unassigned	385	US	59			Minnesota	0	11/30/2020
+2074	Unassigned	395	US	59			Minnesota	0	12/01/2020
+2074	Unassigned	382	US	59			Minnesota	0	12/02/2020
+2074	Unassigned	381	US	59			Minnesota	0	12/03/2020
+2074	Unassigned	416	US	59			Minnesota	0	12/04/2020
+2074	Unassigned	474	US	59			Minnesota	0	12/05/2020
+2074	Unassigned	517	US	59			Minnesota	0	12/06/2020
+2074	Unassigned	439	US	59			Minnesota	0	12/07/2020
+2074	Unassigned	452	US	59			Minnesota	0	12/08/2020
+2074	Unassigned	408	US	59			Minnesota	0	12/09/2020
+2074	Unassigned	415	US	59			Minnesota	0	12/10/2020
+2074	Unassigned	530	US	59			Minnesota	0	12/11/2020
+2074	Unassigned	416	US	59			Minnesota	0	12/12/2020
+2074	Unassigned	447	US	59			Minnesota	0	12/13/2020
+2074	Unassigned	488	US	59			Minnesota	0	12/14/2020
+2074	Unassigned	408	US	59			Minnesota	0	12/15/2020
+2074	Unassigned	405	US	59			Minnesota	0	12/16/2020
+2074	Unassigned	453	US	59			Minnesota	0	12/17/2020
+2074	Unassigned	475	US	59			Minnesota	0	12/18/2020
+2074	Unassigned	411	US	59			Minnesota	0	12/19/2020
+2074	Unassigned	442	US	60			Minnesota	0	12/20/2020
+2074	Unassigned	420	US	60			Minnesota	0	12/21/2020
+2074	Unassigned	421	US	60			Minnesota	0	12/22/2020
+2074	Unassigned	423	US	60			Minnesota	0	12/23/2020
+2074	Unassigned	441	US	60			Minnesota	0	12/24/2020
+2074	Unassigned	441	US	60			Minnesota	0	12/25/2020
+2074	Unassigned	443	US	60			Minnesota	0	12/26/2020
+2074	Unassigned	434	US	60			Minnesota	0	12/27/2020
+2074	Unassigned	442	US	60			Minnesota	0	12/28/2020
+2074	Unassigned	422	US	59			Minnesota	0	12/29/2020
+2074	Unassigned	422	US	59			Minnesota	0	12/30/2020
+2074	Unassigned	444	US	59			Minnesota	0	12/31/2020
+2074	Unassigned	444	US	59			Minnesota	0	01/01/2021
+2074	Unassigned	429	US	59			Minnesota	0	01/02/2021
+2075	Unassigned	441	US	59			Minnesota	0	01/03/2021
+2075	Unassigned	477	US	59			Minnesota	0	01/04/2021
+2075	Unassigned	429	US	59			Minnesota	0	01/05/2021
+2075	Unassigned	437	US	68			Minnesota	0	01/06/2021
+2075	Unassigned	443	US	68			Minnesota	0	01/07/2021
+2075	Unassigned	458	US	68			Minnesota	0	01/08/2021
+2075	Unassigned	432	US	68			Minnesota	0	01/09/2021
+2075	Unassigned	446	US	68			Minnesota	0	01/10/2021
+2075	Unassigned	464	US	68			Minnesota	0	01/11/2021
+2075	Unassigned	478	US	68			Minnesota	0	01/12/2021
+2075	Unassigned	429	US	68			Minnesota	0	01/13/2021
+2075	Unassigned	435	US	68			Minnesota	0	01/14/2021
+2076	Unassigned	494	US	68			Minnesota	0	01/15/2021
+2076	Unassigned	434	US	68			Minnesota	0	01/16/2021
+2076	Unassigned	436	US	68			Minnesota	0	01/17/2021
+2076	Unassigned	441	US	68			Minnesota	0	01/18/2021
+2076	Unassigned	437	US	68			Minnesota	0	01/19/2021
+2076	Unassigned	436	US	68			Minnesota	0	01/20/2021
+2077	Unassigned	439	US	68			Minnesota	0	01/21/2021
+2077	Unassigned	437	US	68			Minnesota	0	01/22/2021
+2077	Unassigned	445	US	68			Minnesota	0	01/23/2021
+2077	Unassigned	473	US	69			Minnesota	0	01/24/2021
+2077	Unassigned	439	US	68			Minnesota	0	01/25/2021
+2077	Unassigned	435	US	68			Minnesota	0	01/26/2021
+2077	Unassigned	436	US	68			Minnesota	0	01/27/2021
+2077	Unassigned	455	US	68			Minnesota	0	01/28/2021
+2077	Unassigned	398	US	68			Minnesota	0	01/29/2021
+2077	Unassigned	398	US	68			Minnesota	0	01/30/2021
+2077	Unassigned	411	US	68			Minnesota	0	01/31/2021
+2077	Unassigned	403	US	68			Minnesota	0	02/01/2021
+2077	Unassigned	401	US	68			Minnesota	0	02/02/2021
+2077	Unassigned	402	US	68			Minnesota	0	02/03/2021
+2077	Unassigned	412	US	68			Minnesota	0	02/04/2021
+2077	Unassigned	439	US	68			Minnesota	0	02/05/2021
+2077	Unassigned	402	US	68			Minnesota	0	02/06/2021
+2077	Unassigned	401	US	68			Minnesota	0	02/07/2021
+2077	Unassigned	414	US	68			Minnesota	0	02/08/2021
+2077	Unassigned	404	US	68			Minnesota	0	02/09/2021
+2077	Unassigned	401	US	68			Minnesota	0	02/10/2021
+2077	Unassigned	418	US	68			Minnesota	0	02/11/2021
+2077	Unassigned	411	US	68			Minnesota	0	02/12/2021
+2077	Unassigned	416	US	68			Minnesota	0	02/13/2021
+2077	Unassigned	425	US	68			Minnesota	0	02/14/2021
+2077	Unassigned	425	US	68			Minnesota	0	02/15/2021
+2077	Unassigned	428	US	68			Minnesota	0	02/16/2021
+2077	Unassigned	427	US	68			Minnesota	0	02/17/2021
+2077	Unassigned	430	US	68			Minnesota	0	02/18/2021
+2078	Unassigned	438	US	68			Minnesota	0	02/19/2021
+2078	Unassigned	432	US	68			Minnesota	0	02/20/2021
+2078	Unassigned	429	US	68			Minnesota	0	02/21/2021
+2078	Unassigned	433	US	68			Minnesota	0	02/22/2021
+2078	Unassigned	435	US	68			Minnesota	0	02/23/2021
+2078	Unassigned	436	US	68			Minnesota	0	02/24/2021
+2078	Unassigned	454	US	68			Minnesota	0	02/25/2021
+2078	Unassigned	456	US	68			Minnesota	0	02/26/2021
+2078	Unassigned	445	US	68			Minnesota	0	02/27/2021
+2078	Unassigned	484	US	68			Minnesota	0	02/28/2021
+2078	Unassigned	479	US	68			Minnesota	0	03/01/2021
+2078	Unassigned	467	US	68			Minnesota	0	03/02/2021
+2078	Unassigned	445	US	68			Minnesota	0	03/03/2021
+2078	Unassigned	444	US	68			Minnesota	0	03/04/2021
+2078	Unassigned	447	US	68			Minnesota	0	03/05/2021
+2078	Unassigned	447	US	68			Minnesota	0	03/06/2021
+2078	Unassigned	453	US	68			Minnesota		03/07/2021
+2078	Unassigned	458	US	68			Minnesota		03/08/2021
+2078	Unassigned	469	US	68			Minnesota		03/09/2021
+2078	Unassigned	474	US	68			Minnesota		03/10/2021
+2078	Unassigned	480	US	68			Minnesota		03/11/2021
+2078	Unassigned	480	US	68			Minnesota		03/12/2021
+2078	Unassigned	482	US	68			Minnesota		03/13/2021
+2078	Unassigned	476	US	68			Minnesota		03/14/2021
+2078	Unassigned	480	US	68			Minnesota		03/15/2021
+2078	Unassigned	474	US	68			Minnesota		03/16/2021
+2078	Unassigned	478	US	68			Minnesota		03/17/2021
+2078	Unassigned	478	US	68			Minnesota		03/18/2021
+2078	Unassigned	482	US	68			Minnesota		03/19/2021
+2078	Unassigned	484	US	68			Minnesota		03/20/2021
+2078	Unassigned	494	US	68			Minnesota		03/21/2021
+2078	Unassigned	504	US	68			Minnesota		03/22/2021
+2078	Unassigned	478	US	68			Minnesota		03/23/2021
+2078	Unassigned	480	US	68			Minnesota		03/24/2021
+2078	Unassigned	483	US	78			Minnesota		03/25/2021
+2078	Unassigned	476	US	78			Minnesota		03/26/2021
+2078	Unassigned	484	US	78			Minnesota		03/27/2021
+2078	Unassigned	492	US	78			Minnesota		03/28/2021
+2078	Unassigned	499	US	78			Minnesota		03/29/2021
+2078	Unassigned	506	US	78			Minnesota		03/30/2021
+2078	Unassigned	484	US	78			Minnesota		03/31/2021
+2078	Unassigned	506	US	78			Minnesota		04/01/2021
+2080	Unassigned	498	US	78			Minnesota		04/02/2021
+2080	Unassigned	479	US	78			Minnesota		04/03/2021
+2080	Unassigned	479	US	78			Minnesota		04/04/2021
+2080	Unassigned	480	US	78			Minnesota		04/05/2021
+2080	Unassigned	476	US	78			Minnesota		04/06/2021
+2080	Unassigned	478	US	78			Minnesota		04/07/2021
+2080	Unassigned	478	US	78			Minnesota		04/08/2021
+2080	Unassigned	482	US	78			Minnesota		04/09/2021
+2080	Unassigned	485	US	78			Minnesota		04/10/2021
+2080	Unassigned	481	US	78			Minnesota		04/11/2021
+2080	Unassigned	487	US	78			Minnesota		04/12/2021
+2080	Unassigned	478	US	78			Minnesota		04/13/2021
+2080	Unassigned	482	US	78			Minnesota		04/14/2021
+2080	Unassigned	482	US	78			Minnesota		04/15/2021
+2080	Unassigned	485	US	78			Minnesota		04/16/2021
+2080	Unassigned	495	US	78			Minnesota		04/17/2021

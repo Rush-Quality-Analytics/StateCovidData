@@ -1,0 +1,2 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+1149	Sterling	1	US	0			Alaska	0	03/22/2020

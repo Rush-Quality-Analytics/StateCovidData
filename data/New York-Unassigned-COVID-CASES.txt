@@ -1,0 +1,393 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+14	Unassigned	23	US	38	0.0	0.0	New York	0	03/22/2020
+2872	Unassigned	107	US	36	0.0	0.0	New York	0	03/23/2020
+2871	Unassigned	0	US	39	0.0	0.0	New York	0	03/24/2020
+2870	Unassigned	0	US	31	0.0	0.0	New York	0	03/25/2020
+2868	Unassigned	0	US	45	0.0	0.0	New York	0	03/26/2020
+2874	Unassigned	0	US	87	0.0	0.0	New York	0	03/27/2020
+2871	Unassigned	0	US	109	0.0	0.0	New York	0	03/28/2020
+2874	Unassigned	0	US	159	0.0	0.0	New York	0	03/29/2020
+2877	Unassigned	0	US	298	0.0	0.0	New York	0	03/30/2020
+1950	Unassigned	0	US	468	0.0	0.0	New York	0	03/31/2020
+1996	Unassigned	0	US	565	0.0	0.0	New York	0	04/01/2020
+2070	Unassigned	0	US	675			New York	0	04/02/2020
+2115	Unassigned	0	US	955			New York	0	04/03/2020
+2169	Unassigned	0	US	1173			New York	0	04/04/2020
+2243	Unassigned	0	US	1260			New York	0	04/05/2020
+2281	Unassigned	0	US	309			New York	0	04/06/2020
+2328	Unassigned	0	US	116			New York	0	04/07/2020
+2352	Unassigned	0	US	152			New York	0	04/08/2020
+2378	Unassigned	0	US	73			New York	0	04/09/2020
+2402	Unassigned	0	US	0			New York	0	04/10/2020
+2427	Unassigned	0	US	4			New York	0	04/11/2020
+2449	Unassigned	0	US	40			New York	0	04/12/2020
+2463	Unassigned	0	US	0			New York	0	04/13/2020
+2473	Unassigned	0	US	0			New York	0	04/14/2020
+2485	Unassigned	0	US	0			New York	0	04/15/2020
+2499	Unassigned	0	US	0			New York	0	04/16/2020
+2501	Unassigned	0	US	574			New York	0	04/17/2020
+2508	Unassigned	0	US	1059			New York	0	04/18/2020
+2525	Unassigned	0	US	401			New York	0	04/19/2020
+2534	Unassigned	0	US	48			New York	0	04/20/2020
+2543	Unassigned	0	US	3			New York	0	04/21/2020
+2550	Unassigned	0	US	0			New York	0	04/22/2020
+2567	Unassigned	0	US	0			New York	0	04/23/2020
+2573	Unassigned	0	US	0			New York	0	04/24/2020
+2578	Unassigned	0	US	0			New York	0	04/25/2020
+2586	Unassigned	0	US	0			New York	0	04/26/2020
+2593	Unassigned	0	US	0			New York	0	04/27/2020
+2602	Unassigned	0	US	0			New York	0	04/28/2020
+2607	Unassigned	0	US	0			New York	0	04/29/2020
+2613	Unassigned	0	US	0			New York	0	04/30/2020
+2623	Unassigned	0	US	0			New York	0	05/01/2020
+2627	Unassigned	0	US	0			New York	0	05/02/2020
+2632	Unassigned	0	US	0			New York	0	05/03/2020
+2635	Unassigned	0	US	0			New York	0	05/04/2020
+2643	Unassigned	0	US	0			New York	0	05/05/2020
+2649	Unassigned	0	US	0			New York	0	05/06/2020
+2656	Unassigned	0	US	0			New York	0	05/07/2020
+2663	Unassigned	0	US	0			New York	0	05/08/2020
+2665	Unassigned	0	US	0			New York	0	05/09/2020
+2667	Unassigned	0	US	0			New York	0	05/10/2020
+2667	Unassigned	0	US	0			New York	0	05/11/2020
+2670	Unassigned	0	US	0			New York	0	05/12/2020
+2671	Unassigned	0	US	0			New York	0	05/13/2020
+2673	Unassigned	0	US	0			New York	0	05/14/2020
+2678	Unassigned	0	US	0			New York	0	05/15/2020
+2682	Unassigned	0	US	0			New York	0	05/16/2020
+2685	Unassigned	0	US	0			New York	0	05/17/2020
+2687	Unassigned	0	US	0			New York	0	05/18/2020
+2691	Unassigned	0	US	0			New York	0	05/19/2020
+2697	Unassigned	0	US	0			New York	0	05/20/2020
+2699	Unassigned	0	US	0			New York	0	05/21/2020
+2706	Unassigned	0	US	0			New York	0	05/22/2020
+2708	Unassigned	0	US	0			New York	0	05/23/2020
+2711	Unassigned	0	US	0			New York	0	05/24/2020
+2712	Unassigned	0	US	0			New York	0	05/25/2020
+2713	Unassigned	0	US	0			New York	0	05/26/2020
+2716	Unassigned	0	US	0			New York	0	05/27/2020
+2719	Unassigned	0	US	0			New York	0	05/28/2020
+2722	Unassigned	0	US	0			New York	0	05/29/2020
+2724	Unassigned	0	US	0			New York	0	05/30/2020
+2725	Unassigned	0	US	0			New York	0	05/31/2020
+2727	Unassigned	0	US	0			New York	0	06/01/2020
+2732	Unassigned	0	US	0			New York	0	06/02/2020
+2734	Unassigned	0	US	0			New York	0	06/03/2020
+2735	Unassigned	0	US	0			New York	0	06/04/2020
+2739	Unassigned	0	US	0			New York	0	06/05/2020
+2741	Unassigned	0	US	0			New York	0	06/06/2020
+2741	Unassigned	0	US	0			New York	0	06/07/2020
+2741	Unassigned	0	US	0			New York	0	06/08/2020
+2743	Unassigned	0	US	0			New York	0	06/09/2020
+2745	Unassigned	0	US	0			New York	0	06/10/2020
+2747	Unassigned	0	US	0			New York	0	06/11/2020
+2761	Unassigned	0	US	0			New York	0	06/12/2020
+2764	Unassigned	0	US	0			New York	0	06/13/2020
+2764	Unassigned	0	US	0			New York	0	06/14/2020
+2768	Unassigned	0	US	0			New York	0	06/15/2020
+2766	Unassigned	0	US	0			New York	0	06/16/2020
+2768	Unassigned	0	US	0			New York	0	06/17/2020
+2768	Unassigned	0	US	0			New York	0	06/18/2020
+2769	Unassigned	0	US	0			New York	0	06/19/2020
+2773	Unassigned	0	US	0			New York	0	06/20/2020
+2773	Unassigned	0	US	0			New York	0	06/21/2020
+2776	Unassigned	0	US	0			New York	0	06/22/2020
+2781	Unassigned	0	US	0			New York	0	06/23/2020
+2793	Unassigned	0	US	0			New York	0	06/24/2020
+2798	Unassigned	0	US	0			New York	0	06/25/2020
+2799	Unassigned	0	US	0			New York	0	06/26/2020
+2800	Unassigned	0	US	0			New York	0	06/27/2020
+2800	Unassigned	0	US	0			New York	0	06/28/2020
+2802	Unassigned	0	US	0			New York	0	06/29/2020
+2804	Unassigned	0	US	0			New York	0	06/30/2020
+2806	Unassigned	0	US	0			New York	0	07/01/2020
+2809	Unassigned	0	US	0			New York	0	07/02/2020
+2814	Unassigned	0	US	0			New York	0	07/03/2020
+2815	Unassigned	0	US	0			New York	0	07/04/2020
+2816	Unassigned	0	US	0			New York	0	07/05/2020
+2819	Unassigned	0	US	0			New York	0	07/06/2020
+2820	Unassigned	0	US	0			New York	0	07/07/2020
+2823	Unassigned	0	US	0			New York	0	07/08/2020
+2822	Unassigned	0	US	0			New York	0	07/09/2020
+2826	Unassigned	0	US	0			New York	0	07/10/2020
+2827	Unassigned	0	US	0			New York	0	07/11/2020
+2829	Unassigned	0	US	0			New York	0	07/12/2020
+2830	Unassigned	0	US	0			New York	0	07/13/2020
+2836	Unassigned	0	US	0			New York	0	07/14/2020
+2837	Unassigned	0	US	0			New York	0	07/15/2020
+2839	Unassigned	0	US	0			New York	0	07/16/2020
+2839	Unassigned	0	US	0			New York	0	07/17/2020
+2912	Unassigned	0	US	0			New York	0	07/18/2020
+2912	Unassigned	0	US	0			New York	0	07/19/2020
+2835	Unassigned	0	US	0			New York	0	07/20/2020
+2916	Unassigned	0	US	0			New York	0	07/21/2020
+2917	Unassigned	0	US	0			New York	0	07/22/2020
+2920	Unassigned	0	US	0			New York	0	07/23/2020
+2919	Unassigned	0	US	0			New York	0	07/24/2020
+2920	Unassigned	0	US	0			New York	0	07/25/2020
+2921	Unassigned	0	US	0			New York	0	07/26/2020
+2921	Unassigned	0	US	0			New York	0	07/27/2020
+2921	Unassigned	0	US	0			New York	0	07/28/2020
+2925	Unassigned	0	US	0			New York	0	07/29/2020
+2925	Unassigned	0	US	0			New York	0	07/30/2020
+2927	Unassigned	0	US	0			New York	0	07/31/2020
+2927	Unassigned	0	US	0			New York	0	08/01/2020
+2927	Unassigned	0	US	0			New York	0	08/02/2020
+2927	Unassigned	0	US	0			New York	0	08/03/2020
+2927	Unassigned	0	US	0			New York	0	08/04/2020
+2931	Unassigned	0	US	0			New York	0	08/05/2020
+2931	Unassigned	0	US	0			New York	0	08/06/2020
+2931	Unassigned	0	US	0			New York	0	08/07/2020
+2931	Unassigned	0	US	0			New York	0	08/08/2020
+2931	Unassigned	0	US	0			New York	0	08/09/2020
+2931	Unassigned	0	US	0			New York	0	08/10/2020
+2593	Unassigned	0	US	0			New York	0	08/11/2020
+2547	Unassigned	0	US	0			New York	0	08/12/2020
+2548	Unassigned	0	US	0			New York	0	08/13/2020
+2548	Unassigned	0	US	0			New York	0	08/14/2020
+2548	Unassigned	0	US	0			New York	0	08/15/2020
+2548	Unassigned	0	US	0			New York	0	08/16/2020
+2550	Unassigned	0	US	0			New York	0	08/17/2020
+2550	Unassigned	0	US	0			New York	0	08/18/2020
+2552	Unassigned	0	US	0			New York	0	08/19/2020
+2552	Unassigned	0	US	0			New York	0	08/20/2020
+2552	Unassigned	0	US	0			New York	0	08/21/2020
+2553	Unassigned	0	US	0			New York	0	08/22/2020
+2553	Unassigned	0	US	0			New York	0	08/23/2020
+2553	Unassigned	0	US	0			New York	0	08/24/2020
+2553	Unassigned	0	US	0			New York	0	08/25/2020
+2553	Unassigned	0	US	0			New York	0	08/26/2020
+2553	Unassigned	0	US	0			New York	0	08/27/2020
+2553	Unassigned	0	US	0			New York	0	08/28/2020
+2553	Unassigned	0	US	0			New York	0	08/29/2020
+2553	Unassigned	0	US	0			New York	0	08/30/2020
+2557	Unassigned	0	US	21			New York	0	08/31/2020
+2557	Unassigned	0	US	24			New York	0	09/01/2020
+2557	Unassigned	0	US	24			New York	0	09/02/2020
+2557	Unassigned	0	US	20			New York	0	09/03/2020
+2557	Unassigned	0	US	21			New York	0	09/04/2020
+2557	Unassigned	0	US	19			New York	0	09/05/2020
+2557	Unassigned	0	US	19			New York	0	09/06/2020
+2557	Unassigned	0	US	23			New York	0	09/07/2020
+2557	Unassigned	0	US	24			New York	0	09/08/2020
+2557	Unassigned	0	US	21			New York	0	09/09/2020
+2557	Unassigned	0	US	18			New York	0	09/10/2020
+2557	Unassigned	0	US	15			New York	0	09/11/2020
+2557	Unassigned	0	US	15			New York	0	09/12/2020
+2557	Unassigned	0	US	15			New York	0	09/13/2020
+2557	Unassigned	0	US	16			New York	0	09/14/2020
+2557	Unassigned	0	US	17			New York	0	09/15/2020
+2557	Unassigned	0	US	17			New York	0	09/16/2020
+2557	Unassigned	0	US	17			New York	0	09/17/2020
+2557	Unassigned	0	US	19			New York	0	09/18/2020
+2557	Unassigned	0	US	16			New York	0	09/19/2020
+2557	Unassigned	0	US	16			New York	0	09/20/2020
+2559	Unassigned	0	US	19			New York	0	09/21/2020
+2559	Unassigned	0	US	16			New York	0	09/22/2020
+2559	Unassigned	0	US	16			New York	0	09/23/2020
+2559	Unassigned	0	US	15			New York	0	09/24/2020
+2559	Unassigned	0	US	16			New York	0	09/25/2020
+2559	Unassigned	0	US	17			New York	0	09/26/2020
+2559	Unassigned	0	US	18			New York	0	09/27/2020
+2559	Unassigned	0	US	19			New York	0	09/28/2020
+2559	Unassigned	0	US	19			New York	0	09/29/2020
+2559	Unassigned	0	US	24			New York	0	09/30/2020
+2559	Unassigned	0	US	22			New York	0	10/01/2020
+2559	Unassigned	0	US	23			New York	0	10/02/2020
+2559	Unassigned	0	US	21			New York	0	10/03/2020
+2559	Unassigned	0	US	24			New York	0	10/04/2020
+2559	Unassigned	0	US	27			New York	0	10/05/2020
+2559	Unassigned	0	US	27			New York	0	10/06/2020
+2559	Unassigned	0	US	21			New York	0	10/07/2020
+2559	Unassigned	0	US	19			New York	0	10/08/2020
+2559	Unassigned	0	US	20			New York	0	10/09/2020
+2559	Unassigned	0	US	21			New York	0	10/10/2020
+2559	Unassigned	0	US	18			New York	0	10/11/2020
+2560	Unassigned	0	US	21			New York	0	10/12/2020
+2560	Unassigned	0	US	19			New York	0	10/13/2020
+2560	Unassigned	0	US	22			New York	0	10/14/2020
+2560	Unassigned	0	US	21			New York	0	10/15/2020
+2561	Unassigned	0	US	18			New York	0	10/16/2020
+2561	Unassigned	0	US	22			New York	0	10/17/2020
+2561	Unassigned	0	US	20			New York	0	10/18/2020
+2562	Unassigned	0	US	22			New York	0	10/19/2020
+2562	Unassigned	0	US	20			New York	0	10/20/2020
+2562	Unassigned	0	US	23			New York	0	10/21/2020
+2562	Unassigned	0	US	23			New York	0	10/22/2020
+2562	Unassigned	0	US	21			New York	0	10/23/2020
+2562	Unassigned	0	US	20			New York	0	10/24/2020
+2562	Unassigned	0	US	21			New York	0	10/25/2020
+2562	Unassigned	0	US	19			New York	0	10/26/2020
+2562	Unassigned	0	US	21			New York	0	10/27/2020
+2563	Unassigned	0	US	19.0			New York	0	10/28/2020
+2563	Unassigned	0	US	17			New York	0	10/29/2020
+2563	Unassigned	0	US	17			New York	0	10/30/2020
+2563	Unassigned	0	US	18			New York	0	10/31/2020
+2563	Unassigned	0	US	21			New York	0	11/01/2020
+2563	Unassigned	0	US	20			New York	0	11/02/2020
+2564	Unassigned	0	US	20			New York	0	11/03/2020
+2564	Unassigned	0	US	22			New York	0	11/04/2020
+2564	Unassigned	0	US	27			New York	0	11/05/2020
+2564	Unassigned	0	US	25			New York	0	11/06/2020
+2564	Unassigned	0	US	26			New York	0	11/07/2020
+2564	Unassigned	0	US	26			New York	0	11/08/2020
+2564	Unassigned	0	US	30			New York	0.0	11/09/2020
+2564	Unassigned	0	US	27			New York	0.0	11/10/2020
+2564	Unassigned	0	US	20			New York	0.0	11/11/2020
+2576	Unassigned	0	US	19			New York	0	11/12/2020
+2576	Unassigned	0	US	22			New York	0	11/13/2020
+2576	Unassigned	0	US	19			New York	0	11/14/2020
+2576	Unassigned	0	US	15			New York	0	11/15/2020
+2576	Unassigned	0	US	22			New York	0	11/16/2020
+2576	Unassigned	0	US	27			New York	0	11/17/2020
+2576	Unassigned	0	US	33			New York	0	11/18/2020
+2576	Unassigned	0	US	35			New York	0	11/19/2020
+2576	Unassigned	0	US	31			New York	0	11/20/2020
+2576	Unassigned	0	US	20			New York	0	11/21/2020
+2576	Unassigned	0	US	17			New York	0	11/22/2020
+2576	Unassigned	0	US	18			New York	0	11/23/2020
+2577	Unassigned	0	US	17			New York	0	11/24/2020
+2577	Unassigned	0	US	17			New York	0	11/25/2020
+2577	Unassigned	0	US	24			New York	0	11/26/2020
+2577	Unassigned	0	US	27			New York	0	11/27/2020
+2577	Unassigned	0	US	24			New York	0	11/28/2020
+2577	Unassigned	0	US	26			New York	0	11/29/2020
+2577	Unassigned	0	US	28			New York	0	11/30/2020
+2577	Unassigned	0	US	35			New York	0	12/01/2020
+2577	Unassigned	0	US	35			New York	0	12/02/2020
+2577	Unassigned	0	US	31			New York	0	12/03/2020
+2577	Unassigned	0	US	33			New York	0	12/04/2020
+2577	Unassigned	0	US	30			New York	0	12/05/2020
+2577	Unassigned	0	US	37			New York	0	12/06/2020
+2577	Unassigned	0	US	50			New York	0	12/07/2020
+2577	Unassigned	0	US	58			New York	0	12/08/2020
+2577	Unassigned	0	US	47			New York	0	12/09/2020
+2577	Unassigned	0	US	46			New York	0	12/10/2020
+2577	Unassigned	0	US	45			New York	0	12/11/2020
+2577	Unassigned	0	US	39			New York	0	12/12/2020
+2577	Unassigned	0	US	45			New York	0	12/13/2020
+2577	Unassigned	0	US	51			New York	0	12/14/2020
+2577	Unassigned	0	US	64			New York	0	12/15/2020
+2577	Unassigned	0	US	54			New York	0	12/16/2020
+2577	Unassigned	0	US	63			New York	0	12/17/2020
+2577	Unassigned	0	US	53			New York	0	12/18/2020
+2577	Unassigned	0	US	53			New York	0	12/19/2020
+2577	Unassigned	0	US	60			New York	0	12/20/2020
+2577	Unassigned	0	US	62			New York	0	12/21/2020
+2577	Unassigned	0	US	68			New York	0	12/22/2020
+2577	Unassigned	0	US	58			New York	0	12/23/2020
+2577	Unassigned	0	US	66			New York	0	12/24/2020
+2577	Unassigned	0	US	70			New York	0	12/25/2020
+2577	Unassigned	0	US	82			New York	0	12/26/2020
+2577	Unassigned	0	US	93			New York	0	12/27/2020
+2577	Unassigned	0	US	93			New York	0	12/28/2020
+2577	Unassigned	29	US	99			New York	0	12/29/2020
+2577	Unassigned	27	US	98			New York	0	12/30/2020
+2577	Unassigned	32	US	102			New York	0	12/31/2020
+2577	Unassigned	32	US	87			New York	0	01/01/2021
+2577	Unassigned	35	US	87			New York	0	01/02/2021
+2578	Unassigned	35	US	92			New York	0	01/03/2021
+2578	Unassigned	35	US	105			New York	0	01/04/2021
+2578	Unassigned	37	US	102			New York	0	01/05/2021
+2578	Unassigned	27	US	111			New York	0	01/06/2021
+2578	Unassigned	29	US	111			New York	0	01/07/2021
+2578	Unassigned	31	US	98			New York	0	01/08/2021
+2578	Unassigned	31	US	103			New York	0	01/09/2021
+2578	Unassigned	32	US	99			New York	0	01/10/2021
+2578	Unassigned	34	US	113			New York	0	01/11/2021
+2578	Unassigned	30	US	117			New York	0	01/12/2021
+2578	Unassigned	31	US	89			New York	0	01/13/2021
+2578	Unassigned	35	US	95			New York	0	01/14/2021
+2579	Unassigned	37	US	108			New York	0	01/15/2021
+2579	Unassigned	39	US	92			New York	0	01/16/2021
+2579	Unassigned	39	US	101			New York	0	01/17/2021
+2579	Unassigned	44	US	104			New York	0	01/18/2021
+2579	Unassigned	46	US	109			New York	0	01/19/2021
+2579	Unassigned	53	US	122			New York	0	01/20/2021
+2580	Unassigned	55	US	117			New York	0	01/21/2021
+2580	Unassigned	62	US	117			New York	0	01/22/2021
+2580	Unassigned	71	US	110			New York	0	01/23/2021
+2580	Unassigned	78	US	128			New York	0	01/24/2021
+2580	Unassigned	80	US	149			New York	0	01/25/2021
+2580	Unassigned	82	US	169			New York	0	01/26/2021
+2580	Unassigned	86	US	124			New York	0	01/27/2021
+2580	Unassigned	88	US	146			New York	0	01/28/2021
+2580	Unassigned	90	US	144			New York	0	01/29/2021
+2580	Unassigned	93	US	144			New York	0	01/30/2021
+2580	Unassigned	96	US	148			New York	0	01/31/2021
+2580	Unassigned	98	US	151			New York	0	02/01/2021
+2580	Unassigned	99	US	158			New York	0	02/02/2021
+2580	Unassigned	104	US	160			New York	0	02/03/2021
+2580	Unassigned	105	US	157			New York	0	02/04/2021
+2580	Unassigned	109	US	155			New York	0	02/05/2021
+2580	Unassigned	116	US	160			New York	0	02/06/2021
+2580	Unassigned	121	US	157			New York	0	02/07/2021
+2580	Unassigned	124	US	149			New York	0	02/08/2021
+2580	Unassigned	277	US	168			New York	0	02/09/2021
+2580	Unassigned	299	US	155			New York	0	02/10/2021
+2580	Unassigned	284	US	152			New York	0	02/11/2021
+2580	Unassigned	298	US	130			New York	0	02/12/2021
+2580	Unassigned	298	US	152			New York	0	02/13/2021
+2580	Unassigned	302	US	132			New York	0	02/14/2021
+2580	Unassigned	305	US	137			New York	0	02/15/2021
+2580	Unassigned	305	US	156			New York	0	02/16/2021
+2580	Unassigned	306	US	145			New York	0	02/17/2021
+2580	Unassigned	216	US	155			New York	0	02/18/2021
+2581	Unassigned	215	US	144			New York	0	02/19/2021
+2581	Unassigned	216	US	128			New York	0	02/20/2021
+2581	Unassigned	218	US	130			New York	0	02/21/2021
+2581	Unassigned	223	US	139			New York	0	02/22/2021
+2581	Unassigned	216	US	142			New York	0	02/23/2021
+2581	Unassigned	217	US	137			New York	0	02/24/2021
+2581	Unassigned	219	US	119			New York	0	02/25/2021
+2581	Unassigned	224	US	117			New York	0	02/26/2021
+2581	Unassigned	220	US	117			New York	0	02/27/2021
+2581	Unassigned	219	US	130			New York	0	02/28/2021
+2581	Unassigned	221	US	140			New York	0	03/01/2021
+2581	Unassigned	197	US	131			New York	0	03/02/2021
+2581	Unassigned	191	US	128			New York	0	03/03/2021
+2581	Unassigned	182	US	118			New York	0	03/04/2021
+2581	Unassigned	171	US	107			New York	0	03/05/2021
+2581	Unassigned	160	US	99			New York	0	03/06/2021
+2581	Unassigned	161	US	99			New York		03/07/2021
+2581	Unassigned	158	US	94			New York		03/08/2021
+2581	Unassigned	161	US	99			New York		03/09/2021
+2581	Unassigned	175	US	113			New York		03/10/2021
+2581	Unassigned	180	US	110			New York		03/11/2021
+2581	Unassigned	164	US	96			New York		03/12/2021
+2581	Unassigned	158	US	94			New York		03/13/2021
+2581	Unassigned	174	US	106			New York		03/14/2021
+2581	Unassigned	171	US	95			New York		03/15/2021
+2581	Unassigned	173	US	106			New York		03/16/2021
+2581	Unassigned	167	US	100			New York		03/17/2021
+2581	Unassigned	168	US	99			New York		03/18/2021
+2581	Unassigned	155	US	83			New York		03/19/2021
+2581	Unassigned	150	US	82			New York		03/20/2021
+2581	Unassigned	150	US	82			New York		03/21/2021
+2581	Unassigned	150	US	82			New York		03/22/2021
+2581	Unassigned	150	US	82			New York		03/23/2021
+2581	Unassigned	156	US	90			New York		03/24/2021
+2581	Unassigned	157	US	90			New York		03/25/2021
+2581	Unassigned	156	US	88			New York		03/26/2021
+2581	Unassigned	150	US	82			New York		03/27/2021
+2581	Unassigned	155	US	85			New York		03/28/2021
+2581	Unassigned	142	US	70			New York		03/29/2021
+2581	Unassigned	166	US	93			New York		03/30/2021
+2581	Unassigned	173	US	104			New York		03/31/2021
+2581	Unassigned	168	US	96			New York		04/01/2021
+2583	Unassigned	166	US	92			New York		04/02/2021
+2583	Unassigned	177	US	99			New York		04/03/2021
+2583	Unassigned	178	US	99			New York		04/04/2021
+2583	Unassigned	176	US	97			New York		04/05/2021
+2583	Unassigned	168	US	96			New York		04/06/2021
+2583	Unassigned	187	US	114			New York		04/07/2021
+2583	Unassigned	170	US	96			New York		04/08/2021
+2583	Unassigned	173	US	96			New York		04/09/2021
+2583	Unassigned	160	US	86			New York		04/10/2021
+2583	Unassigned	164	US	91			New York		04/11/2021
+2583	Unassigned	163	US	89			New York		04/12/2021
+2583	Unassigned	165	US	92			New York		04/13/2021
+2583	Unassigned	184	US	111			New York		04/14/2021
+2583	Unassigned	172	US	100			New York		04/15/2021
+2583	Unassigned	155	US	82			New York		04/16/2021
+2583	Unassigned	149	US	72			New York		04/17/2021

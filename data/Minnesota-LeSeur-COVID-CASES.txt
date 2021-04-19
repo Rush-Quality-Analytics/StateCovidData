@@ -1,0 +1,2 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+872	LeSeur	1	US	0			Minnesota	0	03/22/2020

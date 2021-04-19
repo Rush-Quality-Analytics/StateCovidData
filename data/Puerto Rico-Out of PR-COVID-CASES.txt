@@ -1,0 +1,275 @@
+	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
+2200	Out of PR	431	US	0			Puerto Rico	0	07/18/2020
+2201	Out of PR	466	US	0			Puerto Rico	0	07/19/2020
+2147	Out of PR	466	US	0			Puerto Rico	0	07/20/2020
+2205	Out of PR	466	US	0			Puerto Rico	0	07/21/2020
+2206	Out of PR	481	US	0			Puerto Rico	0	07/22/2020
+2206	Out of PR	499	US	0			Puerto Rico	0	07/23/2020
+2205	Out of PR	526	US	0			Puerto Rico	0	07/24/2020
+2206	Out of PR	534	US	0			Puerto Rico	0	07/25/2020
+2207	Out of PR	537	US	0			Puerto Rico	0	07/26/2020
+2207	Out of PR	537	US	0			Puerto Rico	0	07/27/2020
+2207	Out of PR	537	US	0			Puerto Rico	0	07/28/2020
+2210	Out of PR	555	US	0			Puerto Rico	0	07/29/2020
+2210	Out of PR	585	US	0			Puerto Rico	0	07/30/2020
+2212	Out of PR	616	US	0			Puerto Rico	0	07/31/2020
+2212	Out of PR	624	US	0			Puerto Rico	0	08/01/2020
+2212	Out of PR	624	US	0			Puerto Rico	0	08/02/2020
+2212	Out of PR	624	US	0			Puerto Rico	0	08/03/2020
+2212	Out of PR	625	US	0			Puerto Rico	0	08/04/2020
+2215	Out of PR	637	US	0			Puerto Rico	0	08/05/2020
+2215	Out of PR	639	US	0			Puerto Rico	0	08/06/2020
+2215	Out of PR	649	US	0			Puerto Rico	0	08/07/2020
+2215	Out of PR	649	US	0			Puerto Rico	0	08/08/2020
+2215	Out of PR	653	US	0			Puerto Rico	0	08/09/2020
+2215	Out of PR	654	US	0			Puerto Rico	0	08/10/2020
+3084	Out of PR	655	US	0			Puerto Rico	0	08/11/2020
+3038	Out of PR	655	US	0			Puerto Rico	0	08/12/2020
+3039	Out of PR	660	US	0			Puerto Rico	0	08/13/2020
+3039	Out of PR	677	US	0			Puerto Rico	0	08/14/2020
+3039	Out of PR	683	US	0			Puerto Rico	0	08/15/2020
+3039	Out of PR	682	US	0			Puerto Rico	0	08/16/2020
+3041	Out of PR	682	US	0			Puerto Rico	0	08/17/2020
+3041	Out of PR	682	US	0			Puerto Rico	0	08/18/2020
+3043	Out of PR	685	US	0			Puerto Rico	0	08/19/2020
+3043	Out of PR	700	US	0			Puerto Rico	0	08/20/2020
+3043	Out of PR	712	US	0			Puerto Rico	0	08/21/2020
+3044	Out of PR	716	US	0			Puerto Rico	0	08/22/2020
+3044	Out of PR	727	US	0			Puerto Rico	0	08/23/2020
+3044	Out of PR	727	US	0			Puerto Rico	0	08/24/2020
+3044	Out of PR	727	US	0			Puerto Rico	0	08/25/2020
+3044	Out of PR	734	US	0			Puerto Rico	0	08/26/2020
+3044	Out of PR	738	US	0			Puerto Rico	0	08/27/2020
+3044	Out of PR	738	US	0			Puerto Rico	0	08/28/2020
+3044	Out of PR	739	US	0			Puerto Rico	0	08/29/2020
+3044	Out of PR	741	US	0			Puerto Rico	0	08/30/2020
+3048	Out of PR	741	US	0			Puerto Rico	0	08/31/2020
+3048	Out of PR	741	US	0			Puerto Rico	0	09/01/2020
+3048	Out of PR	742	US	0			Puerto Rico	0	09/02/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/03/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/04/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/05/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/06/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/07/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/08/2020
+3048	Out of PR	753	US	0			Puerto Rico	0	09/09/2020
+3048	Out of PR	755	US	0			Puerto Rico	0	09/10/2020
+3048	Out of PR	762	US	0			Puerto Rico	0	09/11/2020
+3048	Out of PR	765	US	0			Puerto Rico	0	09/12/2020
+3048	Out of PR	767	US	0			Puerto Rico	0	09/13/2020
+3048	Out of PR	767	US	0			Puerto Rico	0	09/14/2020
+3048	Out of PR	766	US	0			Puerto Rico	0	09/15/2020
+3048	Out of PR	769	US	0			Puerto Rico	0	09/16/2020
+3048	Out of PR	770	US	0			Puerto Rico	0	09/17/2020
+3048	Out of PR	772	US	0			Puerto Rico	0	09/18/2020
+3048	Out of PR	777	US	0			Puerto Rico	0	09/19/2020
+3048	Out of PR	782	US	0			Puerto Rico	0	09/20/2020
+3050	Out of PR	782	US	0			Puerto Rico	0	09/21/2020
+3050	Out of PR	782	US	0			Puerto Rico	0	09/22/2020
+3050	Out of PR	790	US	0			Puerto Rico	0	09/23/2020
+3050	Out of PR	790	US	0			Puerto Rico	0	09/24/2020
+3050	Out of PR	791	US	0			Puerto Rico	0	09/25/2020
+3050	Out of PR	793	US	0			Puerto Rico	0	09/26/2020
+3050	Out of PR	790	US	0			Puerto Rico	0	09/27/2020
+3050	Out of PR	791	US	0			Puerto Rico	0	09/28/2020
+3050	Out of PR	791	US	0			Puerto Rico	0	09/29/2020
+3050	Out of PR	791	US	0			Puerto Rico	0	09/30/2020
+3050	Out of PR	793	US	0			Puerto Rico	0	10/01/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/02/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/03/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/04/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/05/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/06/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/07/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/08/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/09/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/10/2020
+3050	Out of PR	804	US	0			Puerto Rico	0	10/11/2020
+3051	Out of PR	804	US	0			Puerto Rico	0	10/12/2020
+3051	Out of PR	804	US	0			Puerto Rico	0	10/13/2020
+3051	Out of PR	804	US	0			Puerto Rico	0	10/14/2020
+3051	Out of PR	804	US	0			Puerto Rico	0	10/15/2020
+3052	Out of PR	804	US	0			Puerto Rico	0	10/16/2020
+3052	Out of PR	804	US	0			Puerto Rico	0	10/17/2020
+3052	Out of PR	804	US	0			Puerto Rico	0	10/18/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/19/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/20/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/21/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/22/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/23/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/24/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/25/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/26/2020
+3053	Out of PR	804	US	0			Puerto Rico	0	10/27/2020
+3054	Out of PR	804	US	0.0			Puerto Rico	0	10/28/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	10/29/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	10/30/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	10/31/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	11/01/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	11/02/2020
+3054	Out of PR	804	US	0			Puerto Rico	0	11/03/2020
+3055	Out of PR	804	US	0			Puerto Rico	0	11/04/2020
+3055	Out of PR	804	US	0			Puerto Rico	0	11/05/2020
+3055	Out of PR	804	US	0			Puerto Rico	0	11/06/2020
+3055	Out of PR	804	US	0			Puerto Rico	0	11/07/2020
+3055	Out of PR	804	US	0			Puerto Rico	0	11/08/2020
+3055	Out of PR	169	US	0			Puerto Rico	0.0	11/09/2020
+3055	Out of PR	169	US	0			Puerto Rico	0.0	11/10/2020
+3055	Out of PR	169	US	0			Puerto Rico	0.0	11/11/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/12/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/13/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/14/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/15/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/16/2020
+3067	Out of PR	169	US	0			Puerto Rico	0	11/17/2020
+3067	Out of PR	170	US	0			Puerto Rico	0	11/18/2020
+3067	Out of PR	170	US	0			Puerto Rico	0	11/19/2020
+3067	Out of PR	172	US	0			Puerto Rico	0	11/20/2020
+3067	Out of PR	172	US	0			Puerto Rico	0	11/21/2020
+3067	Out of PR	1145	US	0			Puerto Rico	0	11/22/2020
+3067	Out of PR	175	US	0			Puerto Rico	0	11/23/2020
+3068	Out of PR	175	US	0			Puerto Rico	0	11/24/2020
+3068	Out of PR	175	US	0			Puerto Rico	0	11/25/2020
+3068	Out of PR	177	US	0			Puerto Rico	0	11/26/2020
+3068	Out of PR	178	US	0			Puerto Rico	0	11/27/2020
+3068	Out of PR	177	US	0			Puerto Rico	0	11/28/2020
+3068	Out of PR	177	US	0			Puerto Rico	0	11/29/2020
+3068	Out of PR	179	US	0			Puerto Rico	0	11/30/2020
+3068	Out of PR	180	US	0			Puerto Rico	0	12/01/2020
+3068	Out of PR	182	US	0			Puerto Rico	0	12/02/2020
+3068	Out of PR	183	US	0			Puerto Rico	0	12/03/2020
+3068	Out of PR	183	US	0			Puerto Rico	0	12/04/2020
+3068	Out of PR	183	US	0			Puerto Rico	0	12/05/2020
+3068	Out of PR	185	US	0			Puerto Rico	0	12/06/2020
+3068	Out of PR	185	US	0			Puerto Rico	0	12/07/2020
+3068	Out of PR	185	US	0			Puerto Rico	0	12/08/2020
+3068	Out of PR	187	US	0			Puerto Rico	0	12/09/2020
+3068	Out of PR	187	US	0			Puerto Rico	0	12/10/2020
+3068	Out of PR	188	US	0			Puerto Rico	0	12/11/2020
+3068	Out of PR	190	US	0			Puerto Rico	0	12/12/2020
+3068	Out of PR	190	US	0			Puerto Rico	0	12/13/2020
+3068	Out of PR	195	US	0			Puerto Rico	0	12/14/2020
+3068	Out of PR	196	US	0			Puerto Rico	0	12/15/2020
+3068	Out of PR	196	US	0			Puerto Rico	0	12/16/2020
+3068	Out of PR	196	US	0			Puerto Rico	0	12/17/2020
+3068	Out of PR	196	US	0			Puerto Rico	0	12/18/2020
+3068	Out of PR	196	US	0			Puerto Rico	0	12/19/2020
+3068	Out of PR	199	US	0			Puerto Rico	0	12/20/2020
+3068	Out of PR	199	US	0			Puerto Rico	0	12/21/2020
+3068	Out of PR	200	US	0			Puerto Rico	0	12/22/2020
+3068	Out of PR	199	US	0			Puerto Rico	0	12/23/2020
+3068	Out of PR	200	US	0			Puerto Rico	0	12/24/2020
+3068	Out of PR	200	US	0			Puerto Rico	0	12/25/2020
+3068	Out of PR	201	US	0			Puerto Rico	0	12/26/2020
+3068	Out of PR	201	US	0			Puerto Rico	0	12/27/2020
+3068	Out of PR	201	US	0			Puerto Rico	0	12/28/2020
+3068	Out of PR	202	US	0			Puerto Rico	0	12/29/2020
+3068	Out of PR	204	US	0			Puerto Rico	0	12/30/2020
+3068	Out of PR	204	US	0			Puerto Rico	0	12/31/2020
+3068	Out of PR	205	US	0			Puerto Rico	0	01/01/2021
+3068	Out of PR	206	US	0			Puerto Rico	0	01/02/2021
+3069	Out of PR	206	US	0			Puerto Rico	0	01/03/2021
+3069	Out of PR	206	US	0			Puerto Rico	0	01/04/2021
+3069	Out of PR	207	US	0			Puerto Rico	0	01/05/2021
+3069	Out of PR	208	US	0			Puerto Rico	0	01/06/2021
+3069	Out of PR	208	US	0			Puerto Rico	0	01/07/2021
+3069	Out of PR	208	US	0			Puerto Rico	0	01/08/2021
+3069	Out of PR	209	US	0			Puerto Rico	0	01/09/2021
+3069	Out of PR	209	US	0			Puerto Rico	0	01/10/2021
+3069	Out of PR	210	US	0			Puerto Rico	0	01/11/2021
+3069	Out of PR	208	US	0			Puerto Rico	0	01/12/2021
+3069	Out of PR	211	US	0			Puerto Rico	0	01/13/2021
+3069	Out of PR	211	US	0			Puerto Rico	0	01/14/2021
+3070	Out of PR	215	US	0			Puerto Rico	0	01/15/2021
+3070	Out of PR	216	US	0			Puerto Rico	0	01/16/2021
+3070	Out of PR	216	US	0			Puerto Rico	0	01/17/2021
+3070	Out of PR	217	US	0			Puerto Rico	0	01/18/2021
+3070	Out of PR	218	US	0			Puerto Rico	0	01/19/2021
+3070	Out of PR	218	US	0			Puerto Rico	0	01/20/2021
+3071	Out of PR	218	US	0			Puerto Rico	0	01/21/2021
+3071	Out of PR	218	US	0			Puerto Rico	0	01/22/2021
+3071	Out of PR	219	US	0			Puerto Rico	0	01/23/2021
+3071	Out of PR	219	US	0			Puerto Rico	0	01/24/2021
+3071	Out of PR	219	US	0			Puerto Rico	0	01/25/2021
+3071	Out of PR	219	US	0			Puerto Rico	0	01/26/2021
+3071	Out of PR	220	US	0			Puerto Rico	0	01/27/2021
+3071	Out of PR	221	US	0			Puerto Rico	0	01/28/2021
+3071	Out of PR	223	US	0			Puerto Rico	0	01/29/2021
+3071	Out of PR	224	US	0			Puerto Rico	0	01/30/2021
+3071	Out of PR	226	US	0			Puerto Rico	0	01/31/2021
+3071	Out of PR	226	US	0			Puerto Rico	0	02/01/2021
+3071	Out of PR	227	US	0			Puerto Rico	0	02/02/2021
+3071	Out of PR	228	US	0			Puerto Rico	0	02/03/2021
+3071	Out of PR	229	US	0			Puerto Rico	0	02/04/2021
+3071	Out of PR	229	US	0			Puerto Rico	0	02/05/2021
+3071	Out of PR	230	US	0			Puerto Rico	0	02/06/2021
+3071	Out of PR	232	US	0			Puerto Rico	0	02/07/2021
+3071	Out of PR	232	US	0			Puerto Rico	0	02/08/2021
+3071	Out of PR	232	US	0			Puerto Rico	0	02/09/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/10/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/11/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/12/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/13/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/14/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/15/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/16/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/17/2021
+3071	Out of PR	233	US	0			Puerto Rico	0	02/18/2021
+3072	Out of PR	233	US	0			Puerto Rico	0	02/19/2021
+3072	Out of PR	234	US	0			Puerto Rico	0	02/20/2021
+3072	Out of PR	234	US	0			Puerto Rico	0	02/21/2021
+3072	Out of PR	234	US	0			Puerto Rico	0	02/22/2021
+3072	Out of PR	234	US	0			Puerto Rico	0	02/23/2021
+3072	Out of PR	234	US	0			Puerto Rico	0	02/24/2021
+3072	Out of PR	235	US	0			Puerto Rico	0	02/25/2021
+3072	Out of PR	236	US	0			Puerto Rico	0	02/26/2021
+3072	Out of PR	236	US	0			Puerto Rico	0	02/27/2021
+3072	Out of PR	236	US	0			Puerto Rico	0	02/28/2021
+3072	Out of PR	236	US	0			Puerto Rico	0	03/01/2021
+3072	Out of PR	236	US	0			Puerto Rico	0	03/02/2021
+3072	Out of PR	237	US	0			Puerto Rico	0	03/03/2021
+3072	Out of PR	238	US	0			Puerto Rico	0	03/04/2021
+3072	Out of PR	238	US	0			Puerto Rico	0	03/05/2021
+3072	Out of PR	238	US	0			Puerto Rico	0	03/06/2021
+3072	Out of PR	238	US	0			Puerto Rico		03/07/2021
+3072	Out of PR	238	US	0			Puerto Rico		03/08/2021
+3072	Out of PR	240	US	0			Puerto Rico		03/09/2021
+3072	Out of PR	240	US	0			Puerto Rico		03/10/2021
+3072	Out of PR	240	US	0			Puerto Rico		03/11/2021
+3072	Out of PR	240	US	0			Puerto Rico		03/12/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/13/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/14/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/15/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/16/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/17/2021
+3072	Out of PR	242	US	0			Puerto Rico		03/18/2021
+3072	Out of PR	242	US	0			Puerto Rico		03/19/2021
+3072	Out of PR	243	US	0			Puerto Rico		03/20/2021
+3072	Out of PR	243	US	0			Puerto Rico		03/21/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/22/2021
+3072	Out of PR	241	US	0			Puerto Rico		03/23/2021
+3072	Out of PR	242	US	0			Puerto Rico		03/24/2021
+3072	Out of PR	243	US	0			Puerto Rico		03/25/2021
+3072	Out of PR	243	US	0			Puerto Rico		03/26/2021
+3072	Out of PR	243	US	0			Puerto Rico		03/27/2021
+3072	Out of PR	244	US	0			Puerto Rico		03/28/2021
+3072	Out of PR	244	US	0			Puerto Rico		03/29/2021
+3072	Out of PR	244	US	0			Puerto Rico		03/30/2021
+3072	Out of PR	246	US	0			Puerto Rico		03/31/2021
+3072	Out of PR	246	US	0			Puerto Rico		04/01/2021
+3074	Out of PR	247	US	0			Puerto Rico		04/02/2021
+3074	Out of PR	249	US	0			Puerto Rico		04/03/2021
+3074	Out of PR	250	US	0			Puerto Rico		04/04/2021
+3074	Out of PR	251	US	0			Puerto Rico		04/05/2021
+3074	Out of PR	252	US	0			Puerto Rico		04/06/2021
+3074	Out of PR	252	US	0			Puerto Rico		04/07/2021
+3074	Out of PR	253	US	0			Puerto Rico		04/08/2021
+3074	Out of PR	255	US	0			Puerto Rico		04/09/2021
+3074	Out of PR	255	US	0			Puerto Rico		04/10/2021
+3074	Out of PR	255	US	0			Puerto Rico		04/11/2021
+3074	Out of PR	259	US	0			Puerto Rico		04/12/2021
+3074	Out of PR	259	US	0			Puerto Rico		04/13/2021
+3074	Out of PR	261	US	0			Puerto Rico		04/14/2021
+3074	Out of PR	260	US	0			Puerto Rico		04/15/2021
+3074	Out of PR	262	US	0			Puerto Rico		04/16/2021
+3074	Out of PR	262	US	0			Puerto Rico		04/17/2021
