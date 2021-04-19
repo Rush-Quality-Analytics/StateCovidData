@@ -392,3 +392,4 @@
 984	District of Columbia	46315	US	1090	38.90417773	-77.01655992	District of Columbia		04/15/2021
 984	District of Columbia	46449	US	1093	38.90417773	-77.01655992	District of Columbia		04/16/2021
 984	District of Columbia	46579	US	1095	38.90417773	-77.01655992	District of Columbia		04/17/2021
+984	District of Columbia	46662	US	1096	38.90417773	-77.01655992	District of Columbia		04/18/2021
