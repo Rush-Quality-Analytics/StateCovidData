@@ -136,7 +136,7 @@ if sum(sum_col) == 0:
     df = df.drop(df.columns[c], axis=1)
 
 
-df.to_csv(mydir2 + 'DataUpdate/data/COVID-CASES-DF.txt', sep='\t')
+df.to_csv(mydir + 'data/COVID-CASES-DF.txt', sep='\t')
 
 
 
