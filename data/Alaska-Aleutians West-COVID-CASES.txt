@@ -294,3 +294,4 @@
 722	Aleutians West	681	US	0	52.3233	-174.1596	Alaska		04/17/2021
 722	Aleutians West	681	US	0	52.3233	-174.1596	Alaska		04/18/2021
 722	Aleutians West	683	US	0	52.3233	-174.1596	Alaska		04/19/2021
+722	Aleutians West	686	US	0	52.3233	-174.1596	Alaska		04/20/2021
