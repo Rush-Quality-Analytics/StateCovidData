@@ -389,3 +389,5 @@
 2080	Unassigned	503	US	78			Minnesota		04/18/2021
 2080	Unassigned	485	US	78			Minnesota		04/19/2021
 2080	Unassigned	494	US	78			Minnesota		04/20/2021
+2080	Unassigned	486	US	78			Minnesota		04/21/2021
+2080	Unassigned	484	US	78			Minnesota		04/22/2021

@@ -394,3 +394,5 @@
 3104	Unassigned	13692	US	24			Rhode Island		04/18/2021
 3104	Unassigned	14509	US	28			Rhode Island		04/19/2021
 3104	Unassigned	14901	US	31			Rhode Island		04/20/2021
+3104	Unassigned	12627	US	21			Rhode Island		04/21/2021
+3104	Unassigned	13008	US	23			Rhode Island		04/22/2021

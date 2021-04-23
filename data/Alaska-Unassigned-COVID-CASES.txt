@@ -391,3 +391,5 @@
 747	Unassigned	306	US	0			Alaska		04/18/2021
 747	Unassigned	308	US	0			Alaska		04/19/2021
 747	Unassigned	309	US	0			Alaska		04/20/2021
+747	Unassigned	310	US	0			Alaska		04/21/2021
+747	Unassigned	310	US	0			Alaska		04/22/2021

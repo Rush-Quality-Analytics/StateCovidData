@@ -387,3 +387,5 @@
 900	Unassigned	61	US	0			California		04/18/2021
 900	Unassigned	51	US	0			California		04/19/2021
 900	Unassigned	44	US	0			California		04/20/2021
+900	Unassigned	47	US	0			California		04/21/2021
+900	Unassigned	68	US	0			California		04/22/2021

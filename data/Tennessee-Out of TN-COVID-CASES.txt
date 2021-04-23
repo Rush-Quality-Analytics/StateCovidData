@@ -393,3 +393,5 @@
 3286	Out of TN	17945	US	98			Tennessee		04/18/2021
 3286	Out of TN	18032	US	95			Tennessee		04/19/2021
 3286	Out of TN	17934	US	95			Tennessee		04/20/2021
+3286	Out of TN	17979	US	95			Tennessee		04/21/2021
+3286	Out of TN	18048	US	95			Tennessee		04/22/2021

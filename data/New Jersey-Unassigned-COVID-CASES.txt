@@ -394,3 +394,5 @@
 2489	Unassigned	824	US	0			New Jersey		04/18/2021
 2489	Unassigned	832	US	0			New Jersey		04/19/2021
 2489	Unassigned	848	US	0			New Jersey		04/20/2021
+2489	Unassigned	820	US	0			New Jersey		04/21/2021
+2489	Unassigned	842	US	0			New Jersey		04/22/2021
