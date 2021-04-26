@@ -396,3 +396,6 @@
 3770	Unassigned	1543	US	4			Washington		04/20/2021
 3770	Unassigned	1538	US	3			Washington		04/21/2021
 3770	Unassigned	1555	US	3			Washington		04/22/2021
+3770	Unassigned	1539	US	3			Washington		04/23/2021
+3770	Unassigned	1712	US	3			Washington		04/24/2021
+3770	Unassigned	1712	US	3			Washington		04/25/2021
