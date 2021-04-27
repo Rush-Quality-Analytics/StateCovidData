@@ -394,3 +394,9 @@
 2583	Unassigned	143	US	67			New York		04/18/2021
 2583	Unassigned	141	US	64			New York		04/19/2021
 2583	Unassigned	138	US	64			New York		04/20/2021
+2583	Unassigned	138	US	64			New York		04/21/2021
+2583	Unassigned	145	US	71			New York		04/22/2021
+2583	Unassigned	143	US	69			New York		04/23/2021
+2583	Unassigned	147	US	70			New York		04/24/2021
+2583	Unassigned	145	US	65			New York		04/25/2021
+2583	Unassigned	151	US	70			New York		04/26/2021
