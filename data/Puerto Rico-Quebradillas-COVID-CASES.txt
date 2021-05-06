@@ -290,3 +290,4 @@
 3078	Quebradillas	845	US	0	18.439692	-66.926113	Puerto Rico		05/02/2021
 3078	Quebradillas	846	US	0	18.439692	-66.926113	Puerto Rico		05/03/2021
 3078	Quebradillas	847	US	0	18.439692	-66.926113	Puerto Rico		05/04/2021
+3078	Quebradillas	852	US	0	18.439692	-66.926113	Puerto Rico		05/05/2021
