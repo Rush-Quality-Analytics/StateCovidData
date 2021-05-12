@@ -411,3 +411,5 @@
 3597	Unassigned	17	US	0			Vermont		05/06/2021
 3597	Unassigned	18	US	0			Vermont		05/07/2021
 3597	Unassigned	18	US	0			Vermont		05/08/2021
+3597	Unassigned	19	US	0			Vermont		05/09/2021
+3597	Unassigned	19	US	0			Vermont		05/10/2021
