@@ -406,3 +406,6 @@
 977	Unassigned	1174	US	0			Connecticut		05/08/2021
 977	Unassigned	1174	US	0			Connecticut		05/09/2021
 977	Unassigned	1177	US	1			Connecticut		05/10/2021
+977	Unassigned	1179	US	1			Connecticut		05/11/2021
+977	Unassigned	1179	US	1			Connecticut		05/12/2021
+977	Unassigned	1180	US	1			Connecticut		05/13/2021

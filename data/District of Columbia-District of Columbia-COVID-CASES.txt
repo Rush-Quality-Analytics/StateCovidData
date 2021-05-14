@@ -415,3 +415,6 @@
 984	District of Columbia	48164	US	1110	38.90417773	-77.01655992	District of Columbia		05/08/2021
 984	District of Columbia	48180	US	1110	38.90417773	-77.01655992	District of Columbia		05/09/2021
 984	District of Columbia	48195	US	1110	38.90417773	-77.01655992	District of Columbia		05/10/2021
+984	District of Columbia	48282	US	1113	38.90417773	-77.01655992	District of Columbia		05/11/2021
+984	District of Columbia	48336	US	1115	38.90417773	-77.01655992	District of Columbia		05/12/2021
+984	District of Columbia	48404	US	1115	38.90417773	-77.01655992	District of Columbia		05/13/2021
