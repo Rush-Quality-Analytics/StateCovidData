@@ -412,3 +412,5 @@
 2080	Unassigned	487	US	93			Minnesota		05/11/2021
 2080	Unassigned	487	US	93			Minnesota		05/12/2021
 2080	Unassigned	489	US	93			Minnesota		05/13/2021
+2080	Unassigned	500	US	93			Minnesota		05/14/2021
+2080	Unassigned	492	US	93			Minnesota		05/15/2021
