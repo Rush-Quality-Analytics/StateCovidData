@@ -419,3 +419,5 @@
 1904	Dukes and Nantucket	2833	US	5	41.40674725	-70.68763497	Massachusetts		05/13/2021
 1904	Dukes and Nantucket	2836	US	5	41.40674725	-70.68763497	Massachusetts		05/14/2021
 1904	Dukes and Nantucket	2842	US	5	41.40674725	-70.68763497	Massachusetts		05/15/2021
+1904	Dukes and Nantucket	2849	US	5	41.40674725	-70.68763497	Massachusetts		05/16/2021
+1904	Dukes and Nantucket	2861	US	5	41.40674725	-70.68763497	Massachusetts		05/17/2021
