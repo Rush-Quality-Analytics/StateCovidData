@@ -400,3 +400,4 @@
 1162	Out of GA	29521	US	646			Georgia		05/17/2021
 1162	Out of GA	29516	US	646			Georgia		05/18/2021
 1162	Out of GA	29521	US	648			Georgia		05/19/2021
+1162	Out of GA	29562	US	648			Georgia		05/20/2021
