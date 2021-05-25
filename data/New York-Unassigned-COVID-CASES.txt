@@ -424,3 +424,7 @@
 2583	Unassigned	120	US	46			New York		05/18/2021
 2583	Unassigned	120	US	46			New York		05/19/2021
 2583	Unassigned	117	US	42			New York		05/20/2021
+2583	Unassigned	115	US	39			New York		05/21/2021
+2583	Unassigned	103	US	29			New York		05/22/2021
+2583	Unassigned	106	US	32			New York		05/23/2021
+2583	Unassigned	109	US	35			New York		05/24/2021

@@ -422,3 +422,7 @@
 1221	Unassigned	3	US	0			Hawaii		05/18/2021
 1221	Unassigned	0	US	0			Hawaii		05/19/2021
 1221	Unassigned	0	US	0			Hawaii		05/20/2021
+1221	Unassigned	0	US	0			Hawaii		05/21/2021
+1221	Unassigned	0	US	0			Hawaii		05/22/2021
+1221	Unassigned	0	US	0			Hawaii		05/23/2021
+1221	Unassigned	0	US	0			Hawaii		05/24/2021

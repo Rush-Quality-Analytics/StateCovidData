@@ -414,3 +414,7 @@
 2908	Unassigned	1034	US	0			Oklahoma		05/18/2021
 2908	Unassigned	193	US	0			Oklahoma		05/19/2021
 2908	Unassigned	365	US	0			Oklahoma		05/20/2021
+2908	Unassigned	550	US	0			Oklahoma		05/21/2021
+2908	Unassigned	550	US	0			Oklahoma		05/22/2021
+2908	Unassigned	550	US	0			Oklahoma		05/23/2021
+2908	Unassigned	1008	US	0			Oklahoma		05/24/2021

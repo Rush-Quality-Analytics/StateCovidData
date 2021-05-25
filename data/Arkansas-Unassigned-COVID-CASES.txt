@@ -424,3 +424,7 @@
 838	Unassigned	2854	US	0			Arkansas		05/18/2021
 838	Unassigned	2852	US	0			Arkansas		05/19/2021
 838	Unassigned	2846	US	0			Arkansas		05/20/2021
+838	Unassigned	2845	US	0			Arkansas		05/21/2021
+838	Unassigned	2846	US	0			Arkansas		05/22/2021
+838	Unassigned	2853	US	0			Arkansas		05/23/2021
+838	Unassigned	2851	US	0			Arkansas		05/24/2021
