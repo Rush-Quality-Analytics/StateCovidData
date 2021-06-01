@@ -312,3 +312,7 @@
 3091	Unassigned	4007	US	2480			Puerto Rico		05/24/2021
 3091	Unassigned	4006	US	2483			Puerto Rico		05/25/2021
 3091	Unassigned	4007	US	2489			Puerto Rico		05/26/2021
+3092	Unassigned	4019	US	2495			Puerto Rico		05/27/2021
+3092	Unassigned	4020	US	2499			Puerto Rico		05/28/2021
+3092	Unassigned	4020	US	2501			Puerto Rico		05/29/2021
+3092	Unassigned	4020	US	2501			Puerto Rico		05/30/2021

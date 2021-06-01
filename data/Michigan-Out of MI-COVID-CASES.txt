@@ -429,3 +429,7 @@
 1987	Out of MI	2062	US	16			Michigan		05/24/2021
 1987	Out of MI	2060	US	16			Michigan		05/25/2021
 1987	Out of MI	1994	US	16			Michigan		05/26/2021
+1988	Out of MI	1779	US	15			Michigan		05/27/2021
+1988	Out of MI	1763	US	15			Michigan		05/28/2021
+1988	Out of MI	1764	US	15			Michigan		05/29/2021
+1988	Out of MI	1764	US	15			Michigan		05/30/2021

@@ -422,3 +422,7 @@
 977	Unassigned	1184	US	1			Connecticut		05/24/2021
 977	Unassigned	1185	US	1			Connecticut		05/25/2021
 977	Unassigned	1184	US	1			Connecticut		05/26/2021
+978	Unassigned	1183	US	1			Connecticut		05/27/2021
+978	Unassigned	1185	US	1			Connecticut		05/28/2021
+978	Unassigned	1185	US	1			Connecticut		05/29/2021
+978	Unassigned	1185	US	1			Connecticut		05/30/2021

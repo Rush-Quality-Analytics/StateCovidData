@@ -429,3 +429,7 @@
 3597	Unassigned	22	US	0			Vermont		05/24/2021
 3597	Unassigned	22	US	0			Vermont		05/25/2021
 3597	Unassigned	22	US	0			Vermont		05/26/2021
+3598	Unassigned	22	US	0			Vermont		05/27/2021
+3598	Unassigned	22	US	0			Vermont		05/28/2021
+3598	Unassigned	22	US	0			Vermont		05/29/2021
+3598	Unassigned	22	US	0			Vermont		05/30/2021
