@@ -337,3 +337,4 @@
 723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/30/2021
 723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/31/2021
 723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		06/01/2021
+723	Aleutians West	708	US	1	52.3233	-174.1596	Alaska		06/02/2021

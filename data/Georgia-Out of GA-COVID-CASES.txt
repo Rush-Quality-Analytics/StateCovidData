@@ -413,3 +413,4 @@
 1163	Out of GA	29709	US	657			Georgia		05/30/2021
 1163	Out of GA	29709	US	657			Georgia		05/31/2021
 1163	Out of GA	29710	US	657			Georgia		06/01/2021
+1163	Out of GA	29725	US	659			Georgia		06/02/2021

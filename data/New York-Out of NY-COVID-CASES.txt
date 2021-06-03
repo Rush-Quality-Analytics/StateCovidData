@@ -253,3 +253,4 @@
 2566	Out of NY	0	US	243			New York		05/30/2021
 2566	Out of NY	0	US	244			New York		05/31/2021
 2566	Out of NY	0	US	244			New York		06/01/2021
+2566	Out of NY	0	US	244			New York		06/02/2021
