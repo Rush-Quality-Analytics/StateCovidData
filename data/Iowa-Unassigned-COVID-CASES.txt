@@ -430,3 +430,5 @@
 1552	Unassigned	963	US	0			Iowa		06/01/2021
 1552	Unassigned	967	US	0			Iowa		06/02/2021
 1552	Unassigned	961	US	0			Iowa		06/03/2021
+1552	Unassigned	959	US	0			Iowa		06/04/2021
+1552	Unassigned	959	US	0			Iowa		06/05/2021

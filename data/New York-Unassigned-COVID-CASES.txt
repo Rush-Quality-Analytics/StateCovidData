@@ -438,3 +438,5 @@
 2584	Unassigned	104	US	30			New York		06/01/2021
 2584	Unassigned	105	US	30			New York		06/02/2021
 2584	Unassigned	103	US	27			New York		06/03/2021
+2584	Unassigned	103	US	28			New York		06/04/2021
+2584	Unassigned	99	US	22			New York		06/05/2021

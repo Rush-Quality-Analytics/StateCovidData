@@ -393,3 +393,5 @@
 1339	Out of IL	2	US	0			Illinois		06/01/2021
 1339	Out of IL	2	US	0			Illinois		06/02/2021
 1339	Out of IL	2	US	0			Illinois		06/03/2021
+1339	Out of IL	5	US	0			Illinois		06/04/2021
+1339	Out of IL	2	US	0			Illinois		06/05/2021

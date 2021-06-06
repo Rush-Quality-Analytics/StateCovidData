@@ -438,3 +438,5 @@
 3105	Unassigned	12329	US	15			Rhode Island		06/01/2021
 3105	Unassigned	12380	US	15			Rhode Island		06/02/2021
 3105	Unassigned	12013	US	12			Rhode Island		06/03/2021
+3105	Unassigned	12069	US	14			Rhode Island		06/04/2021
+3105	Unassigned	12069	US	14			Rhode Island		06/05/2021

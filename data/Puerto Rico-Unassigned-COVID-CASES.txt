@@ -320,3 +320,5 @@
 3092	Unassigned	4028	US	2509			Puerto Rico		06/01/2021
 3092	Unassigned	4024	US	2512			Puerto Rico		06/02/2021
 3092	Unassigned	4022	US	2515			Puerto Rico		06/03/2021
+3092	Unassigned	4019	US	2516			Puerto Rico		06/04/2021
+3092	Unassigned	4019	US	2518			Puerto Rico		06/05/2021

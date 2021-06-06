@@ -437,3 +437,5 @@
 3287	Out of TN	17845	US	100			Tennessee		06/01/2021
 3287	Out of TN	17866	US	100			Tennessee		06/02/2021
 3287	Out of TN	17869	US	100			Tennessee		06/03/2021
+3287	Out of TN	17871	US	100			Tennessee		06/04/2021
+3287	Out of TN	17871	US	100			Tennessee		06/05/2021
