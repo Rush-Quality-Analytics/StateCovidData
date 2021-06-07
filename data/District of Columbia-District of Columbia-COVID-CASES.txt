@@ -441,3 +441,4 @@
 985	District of Columbia	49041	US	1136	38.90417773	-77.01655992	District of Columbia		06/03/2021
 985	District of Columbia	49068	US	1136	38.90417773	-77.01655992	District of Columbia		06/04/2021
 985	District of Columbia	49068	US	1136	38.90417773	-77.01655992	District of Columbia		06/05/2021
+985	District of Columbia	49068	US	1136	38.90417773	-77.01655992	District of Columbia		06/06/2021

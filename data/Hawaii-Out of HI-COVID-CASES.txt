@@ -426,3 +426,4 @@
 1221	Out of HI	1250	US	3			Hawaii		06/03/2021
 1221	Out of HI	1254	US	3			Hawaii		06/04/2021
 1221	Out of HI	1254	US	3			Hawaii		06/05/2021
+1221	Out of HI	1256	US	3			Hawaii		06/06/2021
