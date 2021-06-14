@@ -442,3 +442,6 @@
 748	Unassigned	292	US	0			Alaska		06/08/2021
 748	Unassigned	291	US	0			Alaska		06/09/2021
 748	Unassigned	291	US	0			Alaska		06/10/2021
+748	Unassigned	292	US	0			Alaska		06/11/2021
+748	Unassigned	292	US	0			Alaska		06/12/2021
+748	Unassigned	292	US	0			Alaska		06/13/2021

@@ -445,3 +445,6 @@
 839	Unassigned	2920	US	0			Arkansas		06/08/2021
 839	Unassigned	2923	US	0			Arkansas		06/09/2021
 839	Unassigned	2917	US	0			Arkansas		06/10/2021
+839	Unassigned	2921	US	0			Arkansas		06/11/2021
+839	Unassigned	2931	US	0			Arkansas		06/12/2021
+839	Unassigned	2931	US	0			Arkansas		06/13/2021

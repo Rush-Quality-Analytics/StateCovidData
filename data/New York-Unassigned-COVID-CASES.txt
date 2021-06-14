@@ -445,3 +445,6 @@
 2584	Unassigned	95	US	17			New York		06/08/2021
 2584	Unassigned	95	US	17			New York		06/09/2021
 2584	Unassigned	94	US	18			New York		06/10/2021
+2584	Unassigned	92	US	14			New York		06/11/2021
+2584	Unassigned	92	US	12			New York		06/12/2021
+2584	Unassigned	92	US	11			New York		06/13/2021

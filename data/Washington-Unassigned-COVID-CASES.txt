@@ -445,3 +445,6 @@
 3771	Unassigned	2642	US	10			Washington		06/08/2021
 3771	Unassigned	1500	US	3			Washington		06/09/2021
 3771	Unassigned	1506	US	3			Washington		06/10/2021
+3771	Unassigned	1508	US	3			Washington		06/11/2021
+3771	Unassigned	1537	US	3			Washington		06/12/2021
+3771	Unassigned	1537	US	3			Washington		06/13/2021
