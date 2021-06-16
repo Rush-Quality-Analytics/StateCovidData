@@ -426,3 +426,4 @@
 1163	Out of GA	29500	US	677			Georgia		06/12/2021
 1163	Out of GA	29500	US	677			Georgia		06/13/2021
 1163	Out of GA	29505	US	677			Georgia		06/14/2021
+1163	Out of GA	29502	US	678			Georgia		06/15/2021
