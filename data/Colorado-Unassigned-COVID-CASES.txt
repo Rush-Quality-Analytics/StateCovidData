@@ -450,3 +450,6 @@
 967	Unassigned	73	US	0			Colorado		06/13/2021
 967	Unassigned	73	US	0			Colorado		06/14/2021
 967	Unassigned	73	US	0			Colorado		06/15/2021
+967	Unassigned	75	US	0			Colorado		06/16/2021
+969	Unassigned	74	US	0			Colorado		06/17/2021
+969	Unassigned	75	US	0			Colorado		06/18/2021

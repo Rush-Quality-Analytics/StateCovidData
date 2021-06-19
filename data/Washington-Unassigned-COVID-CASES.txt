@@ -450,3 +450,6 @@
 3771	Unassigned	1537	US	3			Washington		06/13/2021
 3771	Unassigned	1510	US	3			Washington		06/14/2021
 3771	Unassigned	1517	US	3			Washington		06/15/2021
+3771	Unassigned	1524	US	3			Washington		06/16/2021
+3773	Unassigned	1512	US	3			Washington		06/17/2021
+3773	Unassigned	1522	US	3			Washington		06/18/2021

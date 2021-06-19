@@ -447,7 +447,10 @@
 985	District of Columbia	49127	US	1137	38.90417773	-77.01655992	District of Columbia		06/09/2021
 985	District of Columbia	49151	US	1137	38.90417773	-77.01655992	District of Columbia		06/10/2021
 985	District of Columbia	49158	US	1137	38.90417773	-77.01655992	District of Columbia		06/11/2021
-985	District of Columbia	49158	US	1137	38.90417773	-77.01655992	District of Columbia		06/12/2021
-985	District of Columbia	49158	US	1137	38.90417773	-77.01655992	District of Columbia		06/13/2021
+985	District of Columbia	49179	US	1138	38.90417773	-77.01655992	District of Columbia		06/12/2021
+985	District of Columbia	49179	US	1138	38.90417773	-77.01655992	District of Columbia		06/13/2021
 985	District of Columbia	49200	US	1138	38.90417773	-77.01655992	District of Columbia		06/14/2021
 985	District of Columbia	49213	US	1138	38.90417773	-77.01655992	District of Columbia		06/15/2021
+985	District of Columbia	49223	US	1139	38.90417773	-77.01655992	District of Columbia		06/16/2021
+987	District of Columbia	49232	US	1140	38.90417773	-77.01655992	District of Columbia		06/17/2021
+987	District of Columbia	49243	US	1141	38.90417773	-77.01655992	District of Columbia		06/18/2021

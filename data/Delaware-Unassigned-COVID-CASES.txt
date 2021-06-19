@@ -441,3 +441,6 @@
 983	Unassigned	227	US	0			Delaware		06/13/2021
 983	Unassigned	227	US	0			Delaware		06/14/2021
 983	Unassigned	227	US	0			Delaware		06/15/2021
+983	Unassigned	227	US	0			Delaware		06/16/2021
+985	Unassigned	227	US	0			Delaware		06/17/2021
+985	Unassigned	227	US	0			Delaware		06/18/2021

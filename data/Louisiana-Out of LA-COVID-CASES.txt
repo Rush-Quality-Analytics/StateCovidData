@@ -330,3 +330,6 @@
 1830	Out of LA	0	US	0			Louisiana		06/13/2021
 1830	Out of LA	0	US	0			Louisiana		06/14/2021
 1830	Out of LA	0	US	0			Louisiana		06/15/2021
+1830	Out of LA	0	US	0			Louisiana		06/16/2021
+1832	Out of LA	0	US	0			Louisiana		06/17/2021
+1832	Out of LA	0	US	0			Louisiana		06/18/2021
