@@ -453,3 +453,5 @@
 3105	Unassigned	11994	US	9			Rhode Island		06/16/2021
 3107	Unassigned	12020	US	10			Rhode Island		06/17/2021
 3107	Unassigned	12044	US	10			Rhode Island		06/18/2021
+3107	Unassigned	12044	US	10			Rhode Island		06/19/2021
+3107	Unassigned	12044	US	10			Rhode Island		06/20/2021

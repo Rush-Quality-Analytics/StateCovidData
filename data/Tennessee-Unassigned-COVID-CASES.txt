@@ -452,3 +452,5 @@
 3307	Unassigned	12693	US	101			Tennessee		06/16/2021
 3309	Unassigned	12693	US	101			Tennessee		06/17/2021
 3309	Unassigned	12684	US	101			Tennessee		06/18/2021
+3309	Unassigned	12684	US	101			Tennessee		06/19/2021
+3309	Unassigned	12684	US	101			Tennessee		06/20/2021

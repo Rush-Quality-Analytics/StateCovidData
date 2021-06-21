@@ -453,3 +453,5 @@
 2584	Unassigned	93	US	14			New York		06/16/2021
 2586	Unassigned	106	US	19			New York		06/17/2021
 2586	Unassigned	97	US	17			New York		06/18/2021
+2586	Unassigned	100	US	16			New York		06/19/2021
+2586	Unassigned	94	US	15			New York		06/20/2021

@@ -452,3 +452,5 @@
 1873	Unassigned	3	US	0			Maine		06/16/2021
 1875	Unassigned	3	US	0			Maine		06/17/2021
 1875	Unassigned	3	US	0			Maine		06/18/2021
+1875	Unassigned	1	US	0			Maine		06/19/2021
+1875	Unassigned	2	US	0			Maine		06/20/2021

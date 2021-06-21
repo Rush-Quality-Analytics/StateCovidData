@@ -443,3 +443,5 @@
 2909	Unassigned	261	US	0			Oklahoma		06/16/2021
 2911	Unassigned	470	US	0			Oklahoma		06/17/2021
 2911	Unassigned	651	US	0			Oklahoma		06/18/2021
+2911	Unassigned	651	US	0			Oklahoma		06/19/2021
+2911	Unassigned	651	US	0			Oklahoma		06/20/2021

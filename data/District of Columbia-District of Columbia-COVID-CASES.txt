@@ -454,3 +454,5 @@
 985	District of Columbia	49223	US	1139	38.90417773	-77.01655992	District of Columbia		06/16/2021
 987	District of Columbia	49232	US	1140	38.90417773	-77.01655992	District of Columbia		06/17/2021
 987	District of Columbia	49243	US	1141	38.90417773	-77.01655992	District of Columbia		06/18/2021
+987	District of Columbia	49243	US	1141	38.90417773	-77.01655992	District of Columbia		06/19/2021
+987	District of Columbia	49243	US	1141	38.90417773	-77.01655992	District of Columbia		06/20/2021

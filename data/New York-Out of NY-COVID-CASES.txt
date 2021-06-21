@@ -270,3 +270,5 @@
 2566	Out of NY	0	US	250			New York		06/16/2021
 2568	Out of NY	0	US	250			New York		06/17/2021
 2568	Out of NY	0	US	250			New York		06/18/2021
+2568	Out of NY	0	US	250			New York		06/19/2021
+2568	Out of NY	0	US	250			New York		06/20/2021

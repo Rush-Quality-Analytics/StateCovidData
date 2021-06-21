@@ -437,3 +437,5 @@
 1898	Unassigned	0	US	26			Maryland		06/16/2021
 1900	Unassigned	0	US	23			Maryland		06/17/2021
 1900	Unassigned	0	US	23			Maryland		06/18/2021
+1900	Unassigned	0	US	23			Maryland		06/19/2021
+1900	Unassigned	0	US	22			Maryland		06/20/2021
