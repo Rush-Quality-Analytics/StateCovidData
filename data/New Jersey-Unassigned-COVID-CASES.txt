@@ -455,3 +455,5 @@
 2492	Unassigned	815	US	0			New Jersey		06/18/2021
 2492	Unassigned	812	US	0			New Jersey		06/19/2021
 2492	Unassigned	813	US	0			New Jersey		06/20/2021
+2492	Unassigned	813	US	0			New Jersey		06/21/2021
+2492	Unassigned	813	US	0			New Jersey		06/22/2021

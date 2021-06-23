@@ -356,3 +356,5 @@
 725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/18/2021
 725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/19/2021
 725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/20/2021
+725	Aleutians West	721	US	1	52.3233	-174.1596	Alaska		06/21/2021
+725	Aleutians West	721	US	1	52.3233	-174.1596	Alaska		06/22/2021

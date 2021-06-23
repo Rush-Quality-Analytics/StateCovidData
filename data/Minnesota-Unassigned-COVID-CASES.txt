@@ -450,3 +450,5 @@
 2083	Unassigned	481	US	93			Minnesota		06/18/2021
 2083	Unassigned	483	US	93			Minnesota		06/19/2021
 2083	Unassigned	481	US	93			Minnesota		06/20/2021
+2083	Unassigned	482	US	93			Minnesota		06/21/2021
+2083	Unassigned	483	US	93			Minnesota		06/22/2021

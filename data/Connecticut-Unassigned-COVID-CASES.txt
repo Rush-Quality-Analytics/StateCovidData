@@ -447,3 +447,5 @@
 980	Unassigned	1179	US	1			Connecticut		06/18/2021
 980	Unassigned	1179	US	1			Connecticut		06/19/2021
 980	Unassigned	1179	US	1			Connecticut		06/20/2021
+980	Unassigned	1176	US	1			Connecticut		06/21/2021
+980	Unassigned	1179	US	1			Connecticut		06/22/2021
