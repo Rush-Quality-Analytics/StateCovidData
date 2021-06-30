@@ -462,3 +462,5 @@
 842	Unassigned	2939	US	0			Arkansas		06/25/2021
 842	Unassigned	2939	US	0			Arkansas		06/26/2021
 842	Unassigned	2939	US	0			Arkansas		06/27/2021
+842	Unassigned	2950	US	0			Arkansas		06/28/2021
+842	Unassigned	2959	US	0			Arkansas		06/29/2021
