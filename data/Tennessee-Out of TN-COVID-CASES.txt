@@ -467,3 +467,5 @@
 3290	Out of TN	17893	US	96			Tennessee		07/01/2021
 3290	Out of TN	17895	US	88			Tennessee		07/02/2021
 3290	Out of TN	17895	US	88			Tennessee		07/03/2021
+3290	Out of TN	17895	US	88			Tennessee		07/04/2021
+3290	Out of TN	17895	US	88			Tennessee		07/05/2021
