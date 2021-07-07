@@ -460,7 +460,8 @@
 2438	Unassigned	3169	US	31			Nebraska		06/29/2021
 2438	Unassigned	3253	US	31			Nebraska		06/30/2021
 2438	Unassigned	3253	US	31			Nebraska		07/01/2021
-2438	Unassigned	3253	US	31			Nebraska		07/02/2021
-2438	Unassigned	3253	US	31			Nebraska		07/03/2021
-2438	Unassigned	3253	US	31			Nebraska		07/04/2021
-2438	Unassigned	3253	US	31			Nebraska		07/05/2021
+2438	Unassigned	3447	US	31			Nebraska		07/02/2021
+2438	Unassigned	3447	US	31			Nebraska		07/03/2021
+2438	Unassigned	3447	US	31			Nebraska		07/04/2021
+2438	Unassigned	3447	US	31			Nebraska		07/05/2021
+2438	Unassigned	3253	US	31			Nebraska		07/06/2021
