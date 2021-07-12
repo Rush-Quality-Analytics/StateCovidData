@@ -462,3 +462,7 @@
 2912	Unassigned	993	US	0			Oklahoma		07/05/2021
 2912	Unassigned	2034	US	0			Oklahoma		07/06/2021
 2912	Unassigned	470	US	0			Oklahoma		07/07/2021
+2912	Unassigned	926	US	0			Oklahoma		07/08/2021
+2912	Unassigned	1477	US	0			Oklahoma		07/09/2021
+2912	Unassigned	1477	US	0			Oklahoma		07/10/2021
+2912	Unassigned	1477	US	0			Oklahoma		07/11/2021

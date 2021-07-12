@@ -473,3 +473,7 @@
 988	District of Columbia	49378	US	1141	38.90417773	-77.01655992	District of Columbia		07/05/2021
 988	District of Columbia	49417	US	1142	38.90417773	-77.01655992	District of Columbia		07/06/2021
 988	District of Columbia	49423	US	1143	38.90417773	-77.01655992	District of Columbia		07/07/2021
+988	District of Columbia	49434	US	1143	38.90417773	-77.01655992	District of Columbia		07/08/2021
+988	District of Columbia	49455	US	1143	38.90417773	-77.01655992	District of Columbia		07/09/2021
+988	District of Columbia	49455	US	1143	38.90417773	-77.01655992	District of Columbia		07/10/2021
+988	District of Columbia	49455	US	1143	38.90417773	-77.01655992	District of Columbia		07/11/2021
