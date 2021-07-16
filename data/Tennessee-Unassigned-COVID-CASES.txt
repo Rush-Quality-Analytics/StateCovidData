@@ -478,3 +478,4 @@
 3310	Unassigned	12756	US	95			Tennessee		07/12/2021
 3310	Unassigned	12782	US	95			Tennessee		07/13/2021
 3310	Unassigned	12793	US	96			Tennessee		07/14/2021
+3310	Unassigned	12779	US	95			Tennessee		07/15/2021
