@@ -481,3 +481,5 @@
 3774	Unassigned	1518	US	3			Washington		07/14/2021
 3774	Unassigned	1525	US	4			Washington		07/15/2021
 3774	Unassigned	1546	US	3			Washington		07/16/2021
+3774	Unassigned	1546	US	3			Washington		07/17/2021
+3774	Unassigned	1546	US	3			Washington		07/18/2021

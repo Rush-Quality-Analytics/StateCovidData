@@ -481,3 +481,5 @@
 842	Unassigned	3032	US	0			Arkansas		07/14/2021
 842	Unassigned	3059	US	0			Arkansas		07/15/2021
 842	Unassigned	3093	US	0			Arkansas		07/16/2021
+842	Unassigned	3093	US	0			Arkansas		07/17/2021
+842	Unassigned	3093	US	0			Arkansas		07/18/2021
