@@ -304,3 +304,4 @@
 2569	Out of NY	0	US	251			New York		07/20/2021
 2569	Out of NY	0	US	251			New York		07/21/2021
 2569	Out of NY	0	US	251			New York		07/22/2021
+2569	Out of NY	0	US	252			New York		07/23/2021
