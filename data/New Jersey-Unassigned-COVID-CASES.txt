@@ -494,3 +494,7 @@
 2493	Unassigned	823	US	0			New Jersey		07/27/2021
 2493	Unassigned	825	US	0			New Jersey		07/28/2021
 2493	Unassigned	813	US	0			New Jersey		07/29/2021
+2493	Unassigned	814	US	0			New Jersey		07/30/2021
+2493	Unassigned	816	US	0			New Jersey		07/31/2021
+2493	Unassigned	824	US	0			New Jersey		08/01/2021
+2493	Unassigned	832	US	0			New Jersey		08/02/2021

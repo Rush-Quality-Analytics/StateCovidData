@@ -494,3 +494,7 @@
 1852	Unassigned	393	US	0			Louisiana		07/27/2021
 1852	Unassigned	396	US	0			Louisiana		07/28/2021
 1852	Unassigned	399	US	0			Louisiana		07/29/2021
+1852	Unassigned	401	US	0			Louisiana		07/30/2021
+1852	Unassigned	401	US	0			Louisiana		07/31/2021
+1852	Unassigned	401	US	0			Louisiana		08/01/2021
+1852	Unassigned	403	US	0			Louisiana		08/02/2021

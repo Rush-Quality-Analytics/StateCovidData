@@ -493,3 +493,7 @@
 3290	Out of TN	18561	US	93			Tennessee		07/27/2021
 3290	Out of TN	18664	US	93			Tennessee		07/28/2021
 3290	Out of TN	18698	US	93			Tennessee		07/29/2021
+3290	Out of TN	18800	US	93			Tennessee		07/30/2021
+3290	Out of TN	18800	US	93			Tennessee		07/31/2021
+3290	Out of TN	18800	US	93			Tennessee		08/01/2021
+3290	Out of TN	19049	US	93			Tennessee		08/02/2021

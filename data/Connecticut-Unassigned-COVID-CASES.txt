@@ -486,3 +486,7 @@
 981	Unassigned	1187	US	1			Connecticut		07/27/2021
 981	Unassigned	1188	US	1			Connecticut		07/28/2021
 981	Unassigned	1187	US	1			Connecticut		07/29/2021
+981	Unassigned	1192	US	1			Connecticut		07/30/2021
+981	Unassigned	1192	US	1			Connecticut		07/31/2021
+981	Unassigned	1192	US	1			Connecticut		08/01/2021
+981	Unassigned	1195	US	1			Connecticut		08/02/2021

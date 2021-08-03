@@ -494,3 +494,7 @@
 3108	Unassigned	12546	US	10			Rhode Island		07/27/2021
 3108	Unassigned	12116	US	8			Rhode Island		07/28/2021
 3108	Unassigned	12315	US	8			Rhode Island		07/29/2021
+3108	Unassigned	12501	US	9			Rhode Island		07/30/2021
+3108	Unassigned	12501	US	9			Rhode Island		07/31/2021
+3108	Unassigned	12501	US	9			Rhode Island		08/01/2021
+3108	Unassigned	12952	US	9			Rhode Island		08/02/2021
