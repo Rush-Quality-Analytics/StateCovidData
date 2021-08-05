@@ -368,10 +368,10 @@
 3095	Unassigned	4059	US	2562			Puerto Rico		07/19/2021
 3095	Unassigned	4061	US	2565			Puerto Rico		07/20/2021
 3095	Unassigned	4061	US	2566			Puerto Rico		07/21/2021
-3095	Unassigned	4023	US	2553			Puerto Rico		07/22/2021
-3095	Unassigned	4023	US	2553			Puerto Rico		07/23/2021
-3095	Unassigned	4023	US	2553			Puerto Rico		07/24/2021
-3095	Unassigned	4438	US	781			Puerto Rico		07/25/2021
+3095	Unassigned	4834	US	2567			Puerto Rico		07/22/2021
+3095	Unassigned	4406	US	781			Puerto Rico		07/23/2021
+3095	Unassigned	4418	US	781			Puerto Rico		07/24/2021
+3095	Unassigned	4440	US	781			Puerto Rico		07/25/2021
 3095	Unassigned	4119	US	2569			Puerto Rico		07/26/2021
 3095	Unassigned	4117	US	2574			Puerto Rico		07/27/2021
 3095	Unassigned	4122	US	2577			Puerto Rico		07/28/2021
@@ -381,3 +381,4 @@
 3095	Unassigned	4214	US	2581			Puerto Rico		08/01/2021
 3095	Unassigned	4218	US	2585			Puerto Rico		08/02/2021
 3095	Unassigned	4225	US	2589			Puerto Rico		08/03/2021
+3095	Unassigned	4258	US	2594			Puerto Rico		08/04/2021
