@@ -496,3 +496,7 @@
 2084	Unassigned	512	US	93			Minnesota		08/03/2021
 2084	Unassigned	513	US	93			Minnesota		08/04/2021
 2084	Unassigned	488	US	93			Minnesota		08/05/2021
+2084	Unassigned	484	US	93			Minnesota		08/06/2021
+2084	Unassigned	484	US	93			Minnesota		08/07/2021
+2084	Unassigned	484	US	93			Minnesota		08/08/2021
+2084	Unassigned	504	US	93			Minnesota		08/09/2021

@@ -383,3 +383,7 @@
 3095	Unassigned	4225	US	2589			Puerto Rico		08/03/2021
 3095	Unassigned	4258	US	2594			Puerto Rico		08/04/2021
 3095	Unassigned	4263	US	2594			Puerto Rico		08/05/2021
+3095	Unassigned	4283	US	2604			Puerto Rico		08/06/2021
+3095	Unassigned	4319	US	2609			Puerto Rico		08/07/2021
+3095	Unassigned	4354	US	2611			Puerto Rico		08/08/2021
+3095	Unassigned	4377	US	2620			Puerto Rico		08/09/2021
