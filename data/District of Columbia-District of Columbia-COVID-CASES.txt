@@ -506,3 +506,5 @@
 988	District of Columbia	51103	US	1149	38.90417773	-77.01655992	District of Columbia		08/07/2021
 988	District of Columbia	51103	US	1149	38.90417773	-77.01655992	District of Columbia		08/08/2021
 988	District of Columbia	51589	US	1149	38.90417773	-77.01655992	District of Columbia		08/09/2021
+988	District of Columbia	51589	US	1149	38.90417773	-77.01655992	District of Columbia		08/10/2021
+988	District of Columbia	51853	US	1149	38.90417773	-77.01655992	District of Columbia		08/11/2021

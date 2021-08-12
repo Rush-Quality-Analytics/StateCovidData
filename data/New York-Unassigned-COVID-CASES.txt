@@ -505,3 +505,5 @@
 2587	Unassigned	96	US	14			New York		08/07/2021
 2587	Unassigned	92	US	16			New York		08/08/2021
 2587	Unassigned	92	US	16			New York		08/09/2021
+2587	Unassigned	92	US	16			New York		08/10/2021
+2587	Unassigned	100	US	20			New York		08/11/2021

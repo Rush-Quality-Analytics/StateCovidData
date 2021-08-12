@@ -499,3 +499,5 @@
 2001	Unassigned	23	US	0			Michigan		08/07/2021
 2001	Unassigned	23	US	0			Michigan		08/08/2021
 2001	Unassigned	22	US	0			Michigan		08/09/2021
+2001	Unassigned	22	US	0			Michigan		08/10/2021
+2001	Unassigned	26	US	0			Michigan		08/11/2021

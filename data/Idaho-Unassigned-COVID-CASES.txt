@@ -492,3 +492,5 @@
 1268	Unassigned	0	US	0			Idaho		08/07/2021
 1268	Unassigned	0	US	0			Idaho		08/08/2021
 1268	Unassigned	0	US	0			Idaho		08/09/2021
+1268	Unassigned	1	US	0			Idaho		08/10/2021
+1268	Unassigned	1	US	0			Idaho		08/11/2021

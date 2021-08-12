@@ -502,3 +502,5 @@
 751	Unassigned	353	US	0			Alaska		08/07/2021
 751	Unassigned	353	US	0			Alaska		08/08/2021
 751	Unassigned	356	US	0			Alaska		08/09/2021
+751	Unassigned	360	US	0			Alaska		08/10/2021
+751	Unassigned	360	US	0			Alaska		08/11/2021

@@ -505,3 +505,5 @@
 3108	Unassigned	13011	US	11			Rhode Island		08/07/2021
 3108	Unassigned	13011	US	11			Rhode Island		08/08/2021
 3108	Unassigned	13011	US	11			Rhode Island		08/09/2021
+3108	Unassigned	13725	US	12			Rhode Island		08/10/2021
+3108	Unassigned	12573	US	8			Rhode Island		08/11/2021
