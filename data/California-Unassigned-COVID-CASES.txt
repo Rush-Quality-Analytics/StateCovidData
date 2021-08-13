@@ -500,3 +500,4 @@
 904	Unassigned	172	US	0			California		08/09/2021
 904	Unassigned	210	US	0			California		08/10/2021
 904	Unassigned	80	US	0			California		08/11/2021
+904	Unassigned	84	US	0			California		08/12/2021

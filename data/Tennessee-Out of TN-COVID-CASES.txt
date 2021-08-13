@@ -506,3 +506,4 @@
 3290	Out of TN	19845	US	96			Tennessee		08/09/2021
 3290	Out of TN	19722	US	97			Tennessee		08/10/2021
 3290	Out of TN	19890	US	97			Tennessee		08/11/2021
+3290	Out of TN	19968	US	99			Tennessee		08/12/2021
