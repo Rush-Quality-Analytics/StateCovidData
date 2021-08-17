@@ -507,3 +507,7 @@
 3601	Unassigned	20	US	0			Vermont		08/10/2021
 3601	Unassigned	20	US	0			Vermont		08/11/2021
 3601	Unassigned	19	US	0			Vermont		08/12/2021
+3601	Unassigned	19	US	0			Vermont		08/13/2021
+3601	Unassigned	19	US	0			Vermont		08/14/2021
+3601	Unassigned	19	US	0			Vermont		08/15/2021
+3601	Unassigned	19	US	0			Vermont		08/16/2021

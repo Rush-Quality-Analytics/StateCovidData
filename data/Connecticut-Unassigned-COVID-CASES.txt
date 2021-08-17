@@ -500,3 +500,7 @@
 981	Unassigned	1209	US	1			Connecticut		08/10/2021
 981	Unassigned	1211	US	1			Connecticut		08/11/2021
 981	Unassigned	1214	US	1			Connecticut		08/12/2021
+981	Unassigned	1216	US	1			Connecticut		08/13/2021
+981	Unassigned	1216	US	1			Connecticut		08/14/2021
+981	Unassigned	1216	US	1			Connecticut		08/15/2021
+981	Unassigned	1220	US	1			Connecticut		08/16/2021
