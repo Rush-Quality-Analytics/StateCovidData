@@ -511,3 +511,4 @@
 3290	Out of TN	20136	US	100			Tennessee		08/14/2021
 3290	Out of TN	20136	US	100			Tennessee		08/15/2021
 3290	Out of TN	20720	US	101			Tennessee		08/16/2021
+3290	Out of TN	20536	US	101			Tennessee		08/17/2021
