@@ -514,3 +514,7 @@
 2587	Unassigned	102	US	24			New York		08/16/2021
 2587	Unassigned	106	US	29			New York		08/17/2021
 2587	Unassigned	107	US	29			New York		08/18/2021
+2587	Unassigned	105	US	24			New York		08/19/2021
+2587	Unassigned	109	US	28			New York		08/20/2021
+2587	Unassigned	105	US	24			New York		08/21/2021
+2587	Unassigned	110	US	27			New York		08/22/2021

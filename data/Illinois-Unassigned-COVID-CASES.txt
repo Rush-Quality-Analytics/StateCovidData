@@ -513,3 +513,7 @@
 1362	Unassigned	69	US	2432			Illinois		08/16/2021
 1362	Unassigned	71	US	2432			Illinois		08/17/2021
 1362	Unassigned	73	US	2432			Illinois		08/18/2021
+1362	Unassigned	72	US	2432			Illinois		08/19/2021
+1362	Unassigned	89	US	2432			Illinois		08/20/2021
+1362	Unassigned	89	US	2432			Illinois		08/21/2021
+1362	Unassigned	89	US	2432			Illinois		08/22/2021

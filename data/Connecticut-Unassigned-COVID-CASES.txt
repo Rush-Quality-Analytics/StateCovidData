@@ -506,3 +506,7 @@
 981	Unassigned	1220	US	1			Connecticut		08/16/2021
 981	Unassigned	1223	US	1			Connecticut		08/17/2021
 981	Unassigned	1226	US	1			Connecticut		08/18/2021
+981	Unassigned	1228	US	1			Connecticut		08/19/2021
+981	Unassigned	1230	US	1			Connecticut		08/20/2021
+981	Unassigned	1230	US	1			Connecticut		08/21/2021
+981	Unassigned	1230	US	1			Connecticut		08/22/2021
