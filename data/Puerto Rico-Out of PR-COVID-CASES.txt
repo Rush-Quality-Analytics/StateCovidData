@@ -400,3 +400,5 @@
 3078	Out of PR	371	US	0			Puerto Rico		08/20/2021
 3078	Out of PR	376	US	0			Puerto Rico		08/21/2021
 3078	Out of PR	378	US	0			Puerto Rico		08/22/2021
+3078	Out of PR	379	US	0			Puerto Rico		08/23/2021
+3078	Out of PR	385	US	0			Puerto Rico		08/24/2021

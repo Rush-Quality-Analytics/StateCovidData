@@ -419,3 +419,5 @@
 726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/20/2021
 726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/21/2021
 726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/22/2021
+726	Aleutians West	803	US	1	52.3233	-174.1596	Alaska		08/23/2021
+726	Aleutians West	804	US	1	52.3233	-174.1596	Alaska		08/24/2021
