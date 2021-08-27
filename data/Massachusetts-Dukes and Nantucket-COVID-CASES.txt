@@ -520,3 +520,5 @@
 1908	Dukes and Nantucket	3383	US	6	41.40674725	-70.68763497	Massachusetts		08/22/2021
 1908	Dukes and Nantucket	3438	US	6	41.40674725	-70.68763497	Massachusetts		08/23/2021
 1908	Dukes and Nantucket	3442	US	6	41.40674725	-70.68763497	Massachusetts		08/24/2021
+1908	Dukes and Nantucket	3454	US	6	41.40674725	-70.68763497	Massachusetts		08/25/2021
+1908	Dukes and Nantucket	3473	US	6	41.40674725	-70.68763497	Massachusetts		08/26/2021

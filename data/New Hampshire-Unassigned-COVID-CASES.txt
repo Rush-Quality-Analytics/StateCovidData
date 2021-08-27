@@ -514,3 +514,5 @@
 2473	Unassigned	508	US	1			New Hampshire		08/22/2021
 2473	Unassigned	509	US	1			New Hampshire		08/23/2021
 2473	Unassigned	534	US	1			New Hampshire		08/24/2021
+2473	Unassigned	527	US	1			New Hampshire		08/25/2021
+2473	Unassigned	517	US	1			New Hampshire		08/26/2021

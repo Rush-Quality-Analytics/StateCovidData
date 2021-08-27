@@ -520,3 +520,5 @@
 1201	Unassigned	3687	US	6			Georgia		08/22/2021
 1201	Unassigned	3718	US	6			Georgia		08/23/2021
 1201	Unassigned	3821	US	6			Georgia		08/24/2021
+1201	Unassigned	3923	US	6			Georgia		08/25/2021
+1201	Unassigned	4022	US	5			Georgia		08/26/2021

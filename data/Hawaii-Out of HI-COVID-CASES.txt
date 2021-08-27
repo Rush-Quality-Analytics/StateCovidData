@@ -506,3 +506,5 @@
 1224	Out of HI	2061	US	3			Hawaii		08/22/2021
 1224	Out of HI	2062	US	3			Hawaii		08/23/2021
 1224	Out of HI	2070	US	3			Hawaii		08/24/2021
+1224	Out of HI	2079	US	3			Hawaii		08/25/2021
+1224	Out of HI	2086	US	3			Hawaii		08/26/2021

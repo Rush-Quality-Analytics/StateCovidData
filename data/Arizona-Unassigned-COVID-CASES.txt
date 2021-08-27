@@ -518,3 +518,5 @@
 770	Unassigned	1	US	0			Arizona		08/22/2021
 770	Unassigned	1	US	0			Arizona		08/23/2021
 770	Unassigned	0	US	0			Arizona		08/24/2021
+770	Unassigned	0	US	0			Arizona		08/25/2021
+770	Unassigned	1	US	0			Arizona		08/26/2021

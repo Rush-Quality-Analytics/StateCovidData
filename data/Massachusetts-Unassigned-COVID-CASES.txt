@@ -520,3 +520,5 @@
 1917	Unassigned	50109	US	6			Massachusetts		08/22/2021
 1917	Unassigned	50202	US	6			Massachusetts		08/23/2021
 1917	Unassigned	50514	US	6			Massachusetts		08/24/2021
+1917	Unassigned	50603	US	6			Massachusetts		08/25/2021
+1917	Unassigned	50711	US	6			Massachusetts		08/26/2021

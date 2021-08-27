@@ -514,3 +514,5 @@
 2438	Unassigned	16257	US	72			Nebraska		08/22/2021
 2438	Unassigned	16257	US	72			Nebraska		08/23/2021
 2438	Unassigned	17867	US	82			Nebraska		08/24/2021
+2438	Unassigned	18793	US	84			Nebraska		08/25/2021
+2438	Unassigned	19569	US	86			Nebraska		08/26/2021
