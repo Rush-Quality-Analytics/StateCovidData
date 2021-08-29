@@ -521,3 +521,5 @@
 1876	Unassigned	4	US	0			Maine		08/24/2021
 1876	Unassigned	4	US	0			Maine		08/25/2021
 1876	Unassigned	4	US	0			Maine		08/26/2021
+1876	Unassigned	4	US	0			Maine		08/27/2021
+1876	Unassigned	1	US	0			Maine		08/28/2021

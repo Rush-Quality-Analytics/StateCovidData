@@ -521,3 +521,5 @@
 3290	Out of TN	22277	US	102			Tennessee		08/24/2021
 3290	Out of TN	22277	US	102			Tennessee		08/25/2021
 3290	Out of TN	22488	US	102			Tennessee		08/26/2021
+3290	Out of TN	22844	US	103			Tennessee		08/27/2021
+3290	Out of TN	22844	US	103			Tennessee		08/28/2021

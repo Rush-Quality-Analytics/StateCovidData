@@ -497,3 +497,5 @@
 2683	Unassigned	0	US	0			North Carolina		08/24/2021
 2683	Unassigned	218	US	0			North Carolina		08/25/2021
 2683	Unassigned	25	US	0			North Carolina		08/26/2021
+2683	Unassigned	92	US	0			North Carolina		08/27/2021
+2683	Unassigned	92	US	0			North Carolina		08/28/2021
