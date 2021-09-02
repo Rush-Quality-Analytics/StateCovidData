@@ -1,507 +1,508 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1631	Michigan Department of Corrections (MDOC)	370	US	8			Michigan	0	04/13/2020
-1637	Michigan Department of Corrections (MDOC)	429	US	9			Michigan	0	04/14/2020
-1645	Michigan Department of Corrections (MDOC)	472	US	12			Michigan	0	04/15/2020
-1651	Michigan Department of Corrections (MDOC)	472	US	12			Michigan	0	04/16/2020
-1650	Michigan Department of Corrections (MDOC)	514	US	15			Michigan	0	04/17/2020
-1656	Michigan Department of Corrections (MDOC)	550	US	17			Michigan	0	04/18/2020
-1664	Michigan Department of Corrections (MDOC)	556	US	17			Michigan	0	04/19/2020
-1671	Michigan Department of Corrections (MDOC)	561	US	19			Michigan	0	04/20/2020
-1679	Michigan Department of Corrections (MDOC)	615	US	20			Michigan	0	04/21/2020
-1684	Michigan Department of Corrections (MDOC)	655	US	25			Michigan	0	04/22/2020
-1694	Michigan Department of Corrections (MDOC)	759	US	28			Michigan	0	04/23/2020
-1697	Michigan Department of Corrections (MDOC)	973	US	28			Michigan	0	04/24/2020
-1701	Michigan Department of Corrections (MDOC)	1026	US	31			Michigan	0	04/25/2020
-1707	Michigan Department of Corrections (MDOC)	1031	US	32			Michigan	0	04/26/2020
-1709	Michigan Department of Corrections (MDOC)	1048	US	37			Michigan	0	04/27/2020
-1716	Michigan Department of Corrections (MDOC)	1074	US	38			Michigan	0	04/28/2020
-1719	Michigan Department of Corrections (MDOC)	1264	US	41			Michigan	0	04/29/2020
-1725	Michigan Department of Corrections (MDOC)	1453	US	42			Michigan	0	04/30/2020
-1733	Michigan Department of Corrections (MDOC)	1560	US	42			Michigan	0	05/01/2020
-1737	Michigan Department of Corrections (MDOC)	1825	US	42			Michigan	0	05/02/2020
-1739	Michigan Department of Corrections (MDOC)	1844	US	42			Michigan	0	05/03/2020
-1741	Michigan Department of Corrections (MDOC)	1870	US	45			Michigan	0	05/04/2020
-1747	Michigan Department of Corrections (MDOC)	1898	US	48			Michigan	0	05/05/2020
-1751	Michigan Department of Corrections (MDOC)	1936	US	48			Michigan	0	05/06/2020
-1755	Michigan Department of Corrections (MDOC)	2036	US	50			Michigan	0	05/07/2020
-1760	Michigan Department of Corrections (MDOC)	2124	US	50			Michigan	0	05/08/2020
-1761	Michigan Department of Corrections (MDOC)	2136	US	50			Michigan	0	05/09/2020
-1762	Michigan Department of Corrections (MDOC)	2138	US	51			Michigan	0	05/10/2020
-1762	Michigan Department of Corrections (MDOC)	2139	US	54			Michigan	0	05/11/2020
-1764	Michigan Department of Corrections (MDOC)	2144	US	55			Michigan	0	05/12/2020
-1764	Michigan Department of Corrections (MDOC)	2145	US	56			Michigan	0	05/13/2020
-1765	Michigan Department of Corrections (MDOC)	2171	US	56			Michigan	0	05/14/2020
-1769	Michigan Department of Corrections (MDOC)	2227	US	56			Michigan	0	05/15/2020
-1772	Michigan Department of Corrections (MDOC)	2227	US	56			Michigan	0	05/16/2020
-1774	Michigan Department of Corrections (MDOC)	2538	US	57			Michigan	0	05/17/2020
-1775	Michigan Department of Corrections (MDOC)	3051	US	57			Michigan	0	05/18/2020
-1777	Michigan Department of Corrections (MDOC)	3122	US	60			Michigan	0	05/19/2020
-1782	Michigan Department of Corrections (MDOC)	3195	US	60			Michigan	0	05/20/2020
-1783	Michigan Department of Corrections (MDOC)	3257	US	60			Michigan	0	05/21/2020
-1788	Michigan Department of Corrections (MDOC)	3275	US	60			Michigan	0	05/22/2020
-1790	Michigan Department of Corrections (MDOC)	3289	US	62			Michigan	0	05/23/2020
-1793	Michigan Department of Corrections (MDOC)	3303	US	64			Michigan	0	05/24/2020
-1793	Michigan Department of Corrections (MDOC)	3303	US	64			Michigan	0	05/25/2020
-1794	Michigan Department of Corrections (MDOC)	3305	US	64			Michigan	0	05/26/2020
-1796	Michigan Department of Corrections (MDOC)	3548	US	64			Michigan	0	05/27/2020
-1797	Michigan Department of Corrections (MDOC)	3604	US	65			Michigan	0	05/28/2020
-1800	Michigan Department of Corrections (MDOC)	3749	US	66			Michigan	0	05/29/2020
-1802	Michigan Department of Corrections (MDOC)	3914	US	69			Michigan	0	05/30/2020
-1803	Michigan Department of Corrections (MDOC)	3933	US	69			Michigan	0	05/31/2020
-1805	Michigan Department of Corrections (MDOC)	3933	US	69			Michigan	0	06/01/2020
-1809	Michigan Department of Corrections (MDOC)	3965	US	70			Michigan	0	06/02/2020
-1810	Michigan Department of Corrections (MDOC)	3970	US	70			Michigan	0	06/03/2020
-1811	Michigan Department of Corrections (MDOC)	3987	US	70			Michigan	0	06/04/2020
-1813	Michigan Department of Corrections (MDOC)	3993	US	68			Michigan	0	06/05/2020
-1814	Michigan Department of Corrections (MDOC)	3993	US	68			Michigan	0	06/06/2020
-1814	Michigan Department of Corrections (MDOC)	3993	US	68			Michigan	0	06/07/2020
-1814	Michigan Department of Corrections (MDOC)	4010	US	68			Michigan	0	06/08/2020
-1816	Michigan Department of Corrections (MDOC)	4114	US	69			Michigan	0	06/09/2020
-1818	Michigan Department of Corrections (MDOC)	4129	US	69			Michigan	0	06/10/2020
-1819	Michigan Department of Corrections (MDOC)	4144	US	70			Michigan	0	06/11/2020
-1828	Michigan Department of Corrections (MDOC)	4154	US	70			Michigan	0	06/12/2020
-1830	Michigan Department of Corrections (MDOC)	4128	US	68			Michigan	0	06/13/2020
-1830	Michigan Department of Corrections (MDOC)	4130	US	68			Michigan	0	06/14/2020
-1832	Michigan Department of Corrections (MDOC)	4059	US	68			Michigan	0	06/15/2020
-1831	Michigan Department of Corrections (MDOC)	4058	US	68			Michigan	0	06/16/2020
-1833	Michigan Department of Corrections (MDOC)	4067	US	68			Michigan	0	06/17/2020
-1833	Michigan Department of Corrections (MDOC)	4072	US	68			Michigan	0	06/18/2020
-1833	Michigan Department of Corrections (MDOC)	4078	US	68			Michigan	0	06/19/2020
-1837	Michigan Department of Corrections (MDOC)	4085	US	68			Michigan	0	06/20/2020
-1837	Michigan Department of Corrections (MDOC)	4083	US	68			Michigan	0	06/21/2020
-1839	Michigan Department of Corrections (MDOC)	4084	US	68			Michigan	0	06/22/2020
-1842	Michigan Department of Corrections (MDOC)	4097	US	68			Michigan	0	06/23/2020
-1850	Michigan Department of Corrections (MDOC)	4098	US	68			Michigan	0	06/24/2020
-1855	Michigan Department of Corrections (MDOC)	4099	US	68			Michigan	0	06/25/2020
-1856	Michigan Department of Corrections (MDOC)	4100	US	68			Michigan	0	06/26/2020
-1857	Michigan Department of Corrections (MDOC)	4101	US	68			Michigan	0	06/27/2020
-1857	Michigan Department of Corrections (MDOC)	4104	US	68			Michigan	0	06/28/2020
-1858	Michigan Department of Corrections (MDOC)	4106	US	68			Michigan	0	06/29/2020
-1859	Michigan Department of Corrections (MDOC)	4107	US	68			Michigan	0	06/30/2020
-1859	Michigan Department of Corrections (MDOC)	4110	US	68			Michigan	0	07/01/2020
-1861	Michigan Department of Corrections (MDOC)	4114	US	68			Michigan	0	07/02/2020
-1864	Michigan Department of Corrections (MDOC)	4117	US	68			Michigan	0	07/03/2020
-1864	Michigan Department of Corrections (MDOC)	4118	US	68			Michigan	0	07/04/2020
-1864	Michigan Department of Corrections (MDOC)	4118	US	68			Michigan	0	07/05/2020
-1867	Michigan Department of Corrections (MDOC)	4118	US	68			Michigan	0	07/06/2020
-1867	Michigan Department of Corrections (MDOC)	4118	US	68			Michigan	0	07/07/2020
-1870	Michigan Department of Corrections (MDOC)	4118	US	68			Michigan	0	07/08/2020
-1869	Michigan Department of Corrections (MDOC)	4116	US	68			Michigan	0	07/09/2020
-1871	Michigan Department of Corrections (MDOC)	4111	US	68			Michigan	0	07/10/2020
-1871	Michigan Department of Corrections (MDOC)	4111	US	68			Michigan	0	07/11/2020
-1873	Michigan Department of Corrections (MDOC)	4111	US	68			Michigan	0	07/12/2020
-1875	Michigan Department of Corrections (MDOC)	4111	US	68			Michigan	0	07/13/2020
-1878	Michigan Department of Corrections (MDOC)	4115	US	68			Michigan	0	07/14/2020
-1878	Michigan Department of Corrections (MDOC)	4115	US	68			Michigan	0	07/15/2020
-1880	Michigan Department of Corrections (MDOC)	4119	US	68			Michigan	0	07/16/2020
-1880	Michigan Department of Corrections (MDOC)	4120	US	68			Michigan	0	07/17/2020
-1930	Michigan Department of Corrections (MDOC)	4121	US	68			Michigan	0	07/18/2020
-1931	Michigan Department of Corrections (MDOC)	4122	US	68			Michigan	0	07/19/2020
-1885	Michigan Department of Corrections (MDOC)	4123	US	68			Michigan	0	07/20/2020
-1934	Michigan Department of Corrections (MDOC)	4130	US	68			Michigan	0	07/21/2020
-1935	Michigan Department of Corrections (MDOC)	4130	US	68			Michigan	0	07/22/2020
-1936	Michigan Department of Corrections (MDOC)	4120	US	68			Michigan	0	07/23/2020
-1935	Michigan Department of Corrections (MDOC)	4123	US	68			Michigan	0	07/24/2020
-1936	Michigan Department of Corrections (MDOC)	4123	US	68			Michigan	0	07/25/2020
-1937	Michigan Department of Corrections (MDOC)	4123	US	68			Michigan	0	07/26/2020
-1937	Michigan Department of Corrections (MDOC)	4124	US	68			Michigan	0	07/27/2020
-1937	Michigan Department of Corrections (MDOC)	4125	US	68			Michigan	0	07/28/2020
-1939	Michigan Department of Corrections (MDOC)	4128	US	68			Michigan	0	07/29/2020
-1939	Michigan Department of Corrections (MDOC)	4129	US	69			Michigan	0	07/30/2020
-1940	Michigan Department of Corrections (MDOC)	4140	US	69			Michigan	0	07/31/2020
-1940	Michigan Department of Corrections (MDOC)	4146	US	69			Michigan	0	08/01/2020
-1940	Michigan Department of Corrections (MDOC)	4146	US	69			Michigan	0	08/02/2020
-1940	Michigan Department of Corrections (MDOC)	4147	US	69			Michigan	0	08/03/2020
-1940	Michigan Department of Corrections (MDOC)	4237	US	69			Michigan	0	08/04/2020
-1943	Michigan Department of Corrections (MDOC)	4323	US	69			Michigan	0	08/05/2020
-1943	Michigan Department of Corrections (MDOC)	4324	US	69			Michigan	0	08/06/2020
-1943	Michigan Department of Corrections (MDOC)	4386	US	69			Michigan	0	08/07/2020
-1943	Michigan Department of Corrections (MDOC)	4386	US	69			Michigan	0	08/08/2020
-1943	Michigan Department of Corrections (MDOC)	4412	US	69			Michigan	0	08/09/2020
-1943	Michigan Department of Corrections (MDOC)	4413	US	69			Michigan	0	08/10/2020
-1988	Michigan Department of Corrections (MDOC)	4594	US	69			Michigan	0	08/11/2020
-1942	Michigan Department of Corrections (MDOC)	4598	US	69			Michigan	0	08/12/2020
-1943	Michigan Department of Corrections (MDOC)	4598	US	69			Michigan	0	08/13/2020
-1943	Michigan Department of Corrections (MDOC)	4602	US	69			Michigan	0	08/14/2020
-1943	Michigan Department of Corrections (MDOC)	4713	US	69			Michigan	0	08/15/2020
-1943	Michigan Department of Corrections (MDOC)	4894	US	69			Michigan	0	08/16/2020
-1945	Michigan Department of Corrections (MDOC)	4899	US	69			Michigan	0	08/17/2020
-1945	Michigan Department of Corrections (MDOC)	4901	US	69			Michigan	0	08/18/2020
-1945	Michigan Department of Corrections (MDOC)	4904	US	69			Michigan	0	08/19/2020
-1945	Michigan Department of Corrections (MDOC)	4906	US	69			Michigan	0	08/20/2020
-1945	Michigan Department of Corrections (MDOC)	4906	US	69			Michigan	0	08/21/2020
-1946	Michigan Department of Corrections (MDOC)	4906	US	69			Michigan	0	08/22/2020
-1946	Michigan Department of Corrections (MDOC)	4907	US	70			Michigan	0	08/23/2020
-1946	Michigan Department of Corrections (MDOC)	4963	US	70			Michigan	0	08/24/2020
-1946	Michigan Department of Corrections (MDOC)	5163	US	70			Michigan	0	08/25/2020
-1946	Michigan Department of Corrections (MDOC)	5164	US	70			Michigan	0	08/26/2020
-1946	Michigan Department of Corrections (MDOC)	5185	US	70			Michigan	0	08/27/2020
-1946	Michigan Department of Corrections (MDOC)	5189	US	70			Michigan	0	08/28/2020
-1946	Michigan Department of Corrections (MDOC)	5189	US	70			Michigan	0	08/29/2020
-1946	Michigan Department of Corrections (MDOC)	5276	US	71			Michigan	0	08/30/2020
-1946	Michigan Department of Corrections (MDOC)	5284	US	71			Michigan	0	08/31/2020
-1946	Michigan Department of Corrections (MDOC)	5301	US	71			Michigan	0	09/01/2020
-1946	Michigan Department of Corrections (MDOC)	5304	US	71			Michigan	0	09/02/2020
-1946	Michigan Department of Corrections (MDOC)	5304	US	70			Michigan	0	09/03/2020
-1946	Michigan Department of Corrections (MDOC)	5345	US	70			Michigan	0	09/04/2020
-1946	Michigan Department of Corrections (MDOC)	5417	US	70			Michigan	0	09/05/2020
-1946	Michigan Department of Corrections (MDOC)	5417	US	70			Michigan	0	09/06/2020
-1946	Michigan Department of Corrections (MDOC)	5469	US	70			Michigan	0	09/07/2020
-1946	Michigan Department of Corrections (MDOC)	5468	US	70			Michigan	0	09/08/2020
-1946	Michigan Department of Corrections (MDOC)	5468	US	70			Michigan	0	09/09/2020
-1946	Michigan Department of Corrections (MDOC)	5472	US	70			Michigan	0	09/10/2020
-1946	Michigan Department of Corrections (MDOC)	5504	US	70			Michigan	0	09/11/2020
-1946	Michigan Department of Corrections (MDOC)	5504	US	70			Michigan	0	09/12/2020
-1946	Michigan Department of Corrections (MDOC)	5504	US	70			Michigan	0	09/13/2020
-1946	Michigan Department of Corrections (MDOC)	5534	US	71			Michigan	0	09/14/2020
-1946	Michigan Department of Corrections (MDOC)	5535	US	71			Michigan	0	09/15/2020
-1946	Michigan Department of Corrections (MDOC)	5535	US	71			Michigan	0	09/16/2020
-1946	Michigan Department of Corrections (MDOC)	5541	US	71			Michigan	0	09/17/2020
-1946	Michigan Department of Corrections (MDOC)	5550	US	73			Michigan	0	09/18/2020
-1946	Michigan Department of Corrections (MDOC)	5563	US	73			Michigan	0	09/19/2020
-1946	Michigan Department of Corrections (MDOC)	5563	US	73			Michigan	0	09/20/2020
-1947	Michigan Department of Corrections (MDOC)	5588	US	73			Michigan	0	09/21/2020
-1947	Michigan Department of Corrections (MDOC)	5588	US	73			Michigan	0	09/22/2020
-1947	Michigan Department of Corrections (MDOC)	5589	US	73			Michigan	0	09/23/2020
-1947	Michigan Department of Corrections (MDOC)	5591	US	73			Michigan	0	09/24/2020
-1947	Michigan Department of Corrections (MDOC)	5593	US	73			Michigan	0	09/25/2020
-1947	Michigan Department of Corrections (MDOC)	5593	US	73			Michigan	0	09/26/2020
-1947	Michigan Department of Corrections (MDOC)	5593	US	73			Michigan	0	09/27/2020
-1947	Michigan Department of Corrections (MDOC)	5599	US	73			Michigan	0	09/28/2020
-1947	Michigan Department of Corrections (MDOC)	5603	US	73			Michigan	0	09/29/2020
-1947	Michigan Department of Corrections (MDOC)	5611	US	73			Michigan	0	09/30/2020
-1947	Michigan Department of Corrections (MDOC)	5616	US	73			Michigan	0	10/01/2020
-1947	Michigan Department of Corrections (MDOC)	5622	US	74			Michigan	0	10/02/2020
-1947	Michigan Department of Corrections (MDOC)	5623	US	74			Michigan	0	10/03/2020
-1947	Michigan Department of Corrections (MDOC)	5623	US	74			Michigan	0	10/04/2020
-1947	Michigan Department of Corrections (MDOC)	5623	US	74			Michigan	0	10/05/2020
-1947	Michigan Department of Corrections (MDOC)	5627	US	74			Michigan	0	10/06/2020
-1947	Michigan Department of Corrections (MDOC)	5631	US	75			Michigan	0	10/07/2020
-1947	Michigan Department of Corrections (MDOC)	5637	US	75			Michigan	0	10/08/2020
-1947	Michigan Department of Corrections (MDOC)	5650	US	75			Michigan	0	10/09/2020
-1947	Michigan Department of Corrections (MDOC)	5650	US	75			Michigan	0	10/10/2020
-1947	Michigan Department of Corrections (MDOC)	5650	US	75			Michigan	0	10/11/2020
-1948	Michigan Department of Corrections (MDOC)	5693	US	75			Michigan	0	10/12/2020
-1948	Michigan Department of Corrections (MDOC)	5790	US	75			Michigan	0	10/13/2020
-1948	Michigan Department of Corrections (MDOC)	5796	US	75			Michigan	0	10/14/2020
-1948	Michigan Department of Corrections (MDOC)	5803	US	75			Michigan	0	10/15/2020
-1949	Michigan Department of Corrections (MDOC)	5832	US	75			Michigan	0	10/16/2020
-1949	Michigan Department of Corrections (MDOC)	5846	US	75			Michigan	0	10/17/2020
-1949	Michigan Department of Corrections (MDOC)	5846	US	75			Michigan	0	10/18/2020
-1950	Michigan Department of Corrections (MDOC)	6248	US	75			Michigan	0	10/19/2020
-1950	Michigan Department of Corrections (MDOC)	6267	US	75			Michigan	0	10/20/2020
-1950	Michigan Department of Corrections (MDOC)	6293	US	75			Michigan	0	10/21/2020
-1950	Michigan Department of Corrections (MDOC)	6329	US	75			Michigan	0	10/22/2020
-1950	Michigan Department of Corrections (MDOC)	6459	US	75			Michigan	0	10/23/2020
-1950	Michigan Department of Corrections (MDOC)	6510	US	75			Michigan	0	10/24/2020
-1950	Michigan Department of Corrections (MDOC)	6510	US	75			Michigan	0	10/25/2020
-1950	Michigan Department of Corrections (MDOC)	6538	US	75			Michigan	0	10/26/2020
-1950	Michigan Department of Corrections (MDOC)	6562	US	75			Michigan	0	10/27/2020
-1951	Michigan Department of Corrections (MDOC)	6691	US	75.0			Michigan	0	10/28/2020
-1951	Michigan Department of Corrections (MDOC)	6883	US	75			Michigan	0	10/29/2020
-1951	Michigan Department of Corrections (MDOC)	6958	US	75			Michigan	0	10/30/2020
-1951	Michigan Department of Corrections (MDOC)	6984	US	75			Michigan	0	10/31/2020
-1951	Michigan Department of Corrections (MDOC)	6984	US	75			Michigan	0	11/01/2020
-1951	Michigan Department of Corrections (MDOC)	7016	US	75			Michigan	0	11/02/2020
-1952	Michigan Department of Corrections (MDOC)	7061	US	75			Michigan	0	11/03/2020
-1952	Michigan Department of Corrections (MDOC)	7181	US	75			Michigan	0	11/04/2020
-1952	Michigan Department of Corrections (MDOC)	7457	US	75			Michigan	0	11/05/2020
-1952	Michigan Department of Corrections (MDOC)	7509	US	75			Michigan	0	11/06/2020
-1952	Michigan Department of Corrections (MDOC)	7647	US	75			Michigan	0	11/07/2020
-1952	Michigan Department of Corrections (MDOC)	7647	US	75			Michigan	0	11/08/2020
-1952	Michigan Department of Corrections (MDOC)	8037	US	75			Michigan	0.0	11/09/2020
-1952	Michigan Department of Corrections (MDOC)	8080	US	75			Michigan	0.0	11/10/2020
-1952	Michigan Department of Corrections (MDOC)	8089	US	75			Michigan	0.0	11/11/2020
-1964	Michigan Department of Corrections (MDOC)	8243	US	76			Michigan	0	11/12/2020
-1964	Michigan Department of Corrections (MDOC)	8925	US	76			Michigan	0	11/13/2020
-1964	Michigan Department of Corrections (MDOC)	9228	US	76			Michigan	0	11/14/2020
-1964	Michigan Department of Corrections (MDOC)	9228	US	76			Michigan	0	11/15/2020
-1964	Michigan Department of Corrections (MDOC)	9421	US	76			Michigan	0	11/16/2020
-1964	Michigan Department of Corrections (MDOC)	9527	US	76			Michigan	0	11/17/2020
-1964	Michigan Department of Corrections (MDOC)	9573	US	77			Michigan	0	11/18/2020
-1964	Michigan Department of Corrections (MDOC)	9947	US	77			Michigan	0	11/19/2020
-1964	Michigan Department of Corrections (MDOC)	10859	US	79			Michigan	0	11/20/2020
-1964	Michigan Department of Corrections (MDOC)	11730	US	80			Michigan	0	11/21/2020
-1964	Michigan Department of Corrections (MDOC)	11730	US	80			Michigan	0	11/22/2020
-1964	Michigan Department of Corrections (MDOC)	11825	US	80			Michigan	0	11/23/2020
-1965	Michigan Department of Corrections (MDOC)	11870	US	80			Michigan	0	11/24/2020
-1965	Michigan Department of Corrections (MDOC)	11882	US	81			Michigan	0	11/25/2020
-1965	Michigan Department of Corrections (MDOC)	11882	US	81			Michigan	0	11/26/2020
-1965	Michigan Department of Corrections (MDOC)	12123	US	84			Michigan	0	11/27/2020
-1965	Michigan Department of Corrections (MDOC)	12639	US	87			Michigan	0	11/28/2020
-1965	Michigan Department of Corrections (MDOC)	12639	US	87			Michigan	0	11/29/2020
-1965	Michigan Department of Corrections (MDOC)	13131	US	89			Michigan	0	11/30/2020
-1965	Michigan Department of Corrections (MDOC)	13179	US	89			Michigan	0	12/01/2020
-1965	Michigan Department of Corrections (MDOC)	13216	US	92			Michigan	0	12/02/2020
-1965	Michigan Department of Corrections (MDOC)	13584	US	93			Michigan	0	12/03/2020
-1965	Michigan Department of Corrections (MDOC)	15083	US	95			Michigan	0	12/04/2020
-1965	Michigan Department of Corrections (MDOC)	15714	US	97			Michigan	0	12/05/2020
-1965	Michigan Department of Corrections (MDOC)	15714	US	97			Michigan	0	12/06/2020
-1965	Michigan Department of Corrections (MDOC)	16323	US	98			Michigan	0	12/07/2020
-1965	Michigan Department of Corrections (MDOC)	16480	US	98			Michigan	0	12/08/2020
-1965	Michigan Department of Corrections (MDOC)	16508	US	99			Michigan	0	12/09/2020
-1965	Michigan Department of Corrections (MDOC)	16576	US	99			Michigan	0	12/10/2020
-1965	Michigan Department of Corrections (MDOC)	17139	US	102			Michigan	0	12/11/2020
-1965	Michigan Department of Corrections (MDOC)	17481	US	102			Michigan	0	12/12/2020
-1965	Michigan Department of Corrections (MDOC)	17481	US	102			Michigan	0	12/13/2020
-1965	Michigan Department of Corrections (MDOC)	18228	US	104			Michigan	0	12/14/2020
-1965	Michigan Department of Corrections (MDOC)	18456	US	106			Michigan	0	12/15/2020
-1965	Michigan Department of Corrections (MDOC)	18548	US	107			Michigan	0	12/16/2020
-1965	Michigan Department of Corrections (MDOC)	18702	US	108			Michigan	0	12/17/2020
-1965	Michigan Department of Corrections (MDOC)	18844	US	110			Michigan	0	12/18/2020
-1965	Michigan Department of Corrections (MDOC)	19261	US	111			Michigan	0	12/19/2020
-1965	Michigan Department of Corrections (MDOC)	19261	US	111			Michigan	0	12/20/2020
-1965	Michigan Department of Corrections (MDOC)	19363	US	113			Michigan	0	12/21/2020
-1965	Michigan Department of Corrections (MDOC)	19754	US	114			Michigan	0	12/22/2020
-1965	Michigan Department of Corrections (MDOC)	20299	US	114			Michigan	0	12/23/2020
-1965	Michigan Department of Corrections (MDOC)	20299	US	114			Michigan	0	12/24/2020
-1965	Michigan Department of Corrections (MDOC)	20299	US	114			Michigan	0	12/25/2020
-1965	Michigan Department of Corrections (MDOC)	20747	US	119			Michigan	0	12/26/2020
-1965	Michigan Department of Corrections (MDOC)	20747	US	119			Michigan	0	12/27/2020
-1965	Michigan Department of Corrections (MDOC)	20884	US	122			Michigan	0	12/28/2020
-1965	Michigan Department of Corrections (MDOC)	20903	US	123			Michigan	0	12/29/2020
-1965	Michigan Department of Corrections (MDOC)	20981	US	124			Michigan	0	12/30/2020
-1965	Michigan Department of Corrections (MDOC)	20981	US	124			Michigan	0	12/31/2020
-1965	Michigan Department of Corrections (MDOC)	20981	US	124			Michigan	0	01/01/2021
-1965	Michigan Department of Corrections (MDOC)	21879	US	126			Michigan	0	01/02/2021
-1966	Michigan Department of Corrections (MDOC)	21879	US	126			Michigan	0	01/03/2021
-1966	Michigan Department of Corrections (MDOC)	21974	US	127			Michigan	0	01/04/2021
-1966	Michigan Department of Corrections (MDOC)	21979	US	128			Michigan	0	01/05/2021
-1966	Michigan Department of Corrections (MDOC)	22045	US	130			Michigan	0	01/06/2021
-1966	Michigan Department of Corrections (MDOC)	22160	US	130			Michigan	0	01/07/2021
-1966	Michigan Department of Corrections (MDOC)	22468	US	131			Michigan	0	01/08/2021
-1966	Michigan Department of Corrections (MDOC)	22534	US	132			Michigan	0	01/09/2021
-1966	Michigan Department of Corrections (MDOC)	22534	US	132			Michigan	0	01/10/2021
-1966	Michigan Department of Corrections (MDOC)	22640	US	133			Michigan	0	01/11/2021
-1966	Michigan Department of Corrections (MDOC)	22701	US	133			Michigan	0	01/12/2021
-1966	Michigan Department of Corrections (MDOC)	22726	US	133			Michigan	0	01/13/2021
-1966	Michigan Department of Corrections (MDOC)	22815	US	134			Michigan	0	01/14/2021
-1967	Michigan Department of Corrections (MDOC)	22865	US	134			Michigan	0	01/15/2021
-1967	Michigan Department of Corrections (MDOC)	22950	US	136			Michigan	0	01/16/2021
-1967	Michigan Department of Corrections (MDOC)	22950	US	136			Michigan	0	01/17/2021
-1967	Michigan Department of Corrections (MDOC)	23002	US	136			Michigan	0	01/18/2021
-1967	Michigan Department of Corrections (MDOC)	23124	US	136			Michigan	0	01/19/2021
-1967	Michigan Department of Corrections (MDOC)	23139	US	136			Michigan	0	01/20/2021
-1968	Michigan Department of Corrections (MDOC)	23234	US	137			Michigan	0	01/21/2021
-1968	Michigan Department of Corrections (MDOC)	23278	US	138			Michigan	0	01/22/2021
-1968	Michigan Department of Corrections (MDOC)	23317	US	138			Michigan	0	01/23/2021
-1968	Michigan Department of Corrections (MDOC)	23317	US	138			Michigan	0	01/24/2021
-1968	Michigan Department of Corrections (MDOC)	23731	US	139			Michigan	0	01/25/2021
-1968	Michigan Department of Corrections (MDOC)	23495	US	141			Michigan	0	01/26/2021
-1968	Michigan Department of Corrections (MDOC)	23533	US	141			Michigan	0	01/27/2021
-1968	Michigan Department of Corrections (MDOC)	23601	US	141			Michigan	0	01/28/2021
-1968	Michigan Department of Corrections (MDOC)	23697	US	141			Michigan	0	01/29/2021
-1968	Michigan Department of Corrections (MDOC)	23709	US	142			Michigan	0	01/30/2021
-1968	Michigan Department of Corrections (MDOC)	23709	US	142			Michigan	0	01/31/2021
-1968	Michigan Department of Corrections (MDOC)	23801	US	143			Michigan	0	02/01/2021
-1968	Michigan Department of Corrections (MDOC)	23804	US	143			Michigan	0	02/02/2021
-1968	Michigan Department of Corrections (MDOC)	23856	US	144			Michigan	0	02/03/2021
-1968	Michigan Department of Corrections (MDOC)	23913	US	144			Michigan	0	02/04/2021
-1968	Michigan Department of Corrections (MDOC)	24006	US	145			Michigan	0	02/05/2021
-1968	Michigan Department of Corrections (MDOC)	24008	US	146			Michigan	0	02/06/2021
-1968	Michigan Department of Corrections (MDOC)	24008	US	146			Michigan	0	02/07/2021
-1968	Michigan Department of Corrections (MDOC)	24091	US	146			Michigan	0	02/08/2021
-1968	Michigan Department of Corrections (MDOC)	24122	US	146			Michigan	0	02/09/2021
-1968	Michigan Department of Corrections (MDOC)	24159	US	147			Michigan	0	02/10/2021
-1968	Michigan Department of Corrections (MDOC)	24230	US	147			Michigan	0	02/11/2021
-1968	Michigan Department of Corrections (MDOC)	24292	US	147			Michigan	0	02/12/2021
-1968	Michigan Department of Corrections (MDOC)	24353	US	147			Michigan	0	02/13/2021
-1968	Michigan Department of Corrections (MDOC)	24353	US	147			Michigan	0	02/14/2021
-1968	Michigan Department of Corrections (MDOC)	24429	US	148			Michigan	0	02/15/2021
-1968	Michigan Department of Corrections (MDOC)	24478	US	149			Michigan	0	02/16/2021
-1968	Michigan Department of Corrections (MDOC)	24513	US	149			Michigan	0	02/17/2021
-1968	Michigan Department of Corrections (MDOC)	24560	US	148			Michigan	0	02/18/2021
-1969	Michigan Department of Corrections (MDOC)	24593	US	148			Michigan	0	02/19/2021
-1969	Michigan Department of Corrections (MDOC)	24617	US	148			Michigan	0	02/20/2021
-1969	Michigan Department of Corrections (MDOC)	24617	US	148			Michigan	0	02/21/2021
-1969	Michigan Department of Corrections (MDOC)	24638	US	148			Michigan	0	02/22/2021
-1969	Michigan Department of Corrections (MDOC)	24708	US	148			Michigan	0	02/23/2021
-1969	Michigan Department of Corrections (MDOC)	24751	US	148			Michigan	0	02/24/2021
-1969	Michigan Department of Corrections (MDOC)	24781	US	148			Michigan	0	02/25/2021
-1969	Michigan Department of Corrections (MDOC)	24802	US	148			Michigan	0	02/26/2021
-1969	Michigan Department of Corrections (MDOC)	24813	US	148			Michigan	0	02/27/2021
-1969	Michigan Department of Corrections (MDOC)	24813	US	148			Michigan	0	02/28/2021
-1969	Michigan Department of Corrections (MDOC)	24826	US	148			Michigan	0	03/01/2021
-1969	Michigan Department of Corrections (MDOC)	24837	US	148			Michigan	0	03/02/2021
-1969	Michigan Department of Corrections (MDOC)	24856	US	148			Michigan	0	03/03/2021
-1969	Michigan Department of Corrections (MDOC)	24947	US	148			Michigan	0	03/04/2021
-1969	Michigan Department of Corrections (MDOC)	24971	US	148			Michigan	0	03/05/2021
-1969	Michigan Department of Corrections (MDOC)	24994	US	148			Michigan	0	03/06/2021
-1969	Michigan Department of Corrections (MDOC)	24994	US	148			Michigan		03/07/2021
-1969	Michigan Department of Corrections (MDOC)	25032	US	148			Michigan		03/08/2021
-1969	Michigan Department of Corrections (MDOC)	25038	US	148			Michigan		03/09/2021
-1969	Michigan Department of Corrections (MDOC)	25073	US	148			Michigan		03/10/2021
-1969	Michigan Department of Corrections (MDOC)	25225	US	149			Michigan		03/11/2021
-1969	Michigan Department of Corrections (MDOC)	25307	US	149			Michigan		03/12/2021
-1969	Michigan Department of Corrections (MDOC)	25323	US	149			Michigan		03/13/2021
-1969	Michigan Department of Corrections (MDOC)	25323	US	149			Michigan		03/14/2021
-1969	Michigan Department of Corrections (MDOC)	25347	US	149			Michigan		03/15/2021
-1969	Michigan Department of Corrections (MDOC)	25364	US	149			Michigan		03/16/2021
-1969	Michigan Department of Corrections (MDOC)	25386	US	149			Michigan		03/17/2021
-1969	Michigan Department of Corrections (MDOC)	25555	US	149			Michigan		03/18/2021
-1969	Michigan Department of Corrections (MDOC)	25600	US	149			Michigan		03/19/2021
-1969	Michigan Department of Corrections (MDOC)	25613	US	149			Michigan		03/20/2021
-1969	Michigan Department of Corrections (MDOC)	25613	US	149			Michigan		03/21/2021
-1969	Michigan Department of Corrections (MDOC)	25649	US	149			Michigan		03/22/2021
-1969	Michigan Department of Corrections (MDOC)	25654	US	149			Michigan		03/23/2021
-1969	Michigan Department of Corrections (MDOC)	25759	US	149			Michigan		03/24/2021
-1969	Michigan Department of Corrections (MDOC)	25847	US	149			Michigan		03/25/2021
-1969	Michigan Department of Corrections (MDOC)	25880	US	149			Michigan		03/26/2021
-1969	Michigan Department of Corrections (MDOC)	25904	US	149			Michigan		03/27/2021
-1969	Michigan Department of Corrections (MDOC)	25904	US	149			Michigan		03/28/2021
-1969	Michigan Department of Corrections (MDOC)	25910	US	149			Michigan		03/29/2021
-1969	Michigan Department of Corrections (MDOC)	25911	US	149			Michigan		03/30/2021
-1969	Michigan Department of Corrections (MDOC)	25928	US	149			Michigan		03/31/2021
-1969	Michigan Department of Corrections (MDOC)	25992	US	149			Michigan		04/01/2021
-1971	Michigan Department of Corrections (MDOC)	26028	US	149			Michigan		04/02/2021
-1971	Michigan Department of Corrections (MDOC)	26034	US	150			Michigan		04/03/2021
-1971	Michigan Department of Corrections (MDOC)	26034	US	150			Michigan		04/04/2021
-1971	Michigan Department of Corrections (MDOC)	26052	US	150			Michigan		04/05/2021
-1971	Michigan Department of Corrections (MDOC)	26060	US	152			Michigan		04/06/2021
-1971	Michigan Department of Corrections (MDOC)	26064	US	152			Michigan		04/07/2021
-1971	Michigan Department of Corrections (MDOC)	26099	US	152			Michigan		04/08/2021
-1971	Michigan Department of Corrections (MDOC)	26117	US	152			Michigan		04/09/2021
-1971	Michigan Department of Corrections (MDOC)	26136	US	152			Michigan		04/10/2021
-1971	Michigan Department of Corrections (MDOC)	26136	US	152			Michigan		04/11/2021
-1971	Michigan Department of Corrections (MDOC)	26172	US	152			Michigan		04/12/2021
-1971	Michigan Department of Corrections (MDOC)	26186	US	153			Michigan		04/13/2021
-1971	Michigan Department of Corrections (MDOC)	26192	US	155			Michigan		04/14/2021
-1971	Michigan Department of Corrections (MDOC)	26220	US	155			Michigan		04/15/2021
-1971	Michigan Department of Corrections (MDOC)	26257	US	154			Michigan		04/16/2021
-1971	Michigan Department of Corrections (MDOC)	26271	US	154			Michigan		04/17/2021
-1971	Michigan Department of Corrections (MDOC)	26271	US	154			Michigan		04/18/2021
-1971	Michigan Department of Corrections (MDOC)	26282	US	154			Michigan		04/19/2021
-1971	Michigan Department of Corrections (MDOC)	26288	US	154			Michigan		04/20/2021
-1971	Michigan Department of Corrections (MDOC)	26288	US	154			Michigan		04/21/2021
-1971	Michigan Department of Corrections (MDOC)	26342	US	155			Michigan		04/22/2021
-1971	Michigan Department of Corrections (MDOC)	26368	US	155			Michigan		04/23/2021
-1971	Michigan Department of Corrections (MDOC)	26372	US	155			Michigan		04/24/2021
-1971	Michigan Department of Corrections (MDOC)	26372	US	155			Michigan		04/25/2021
-1971	Michigan Department of Corrections (MDOC)	26387	US	155			Michigan		04/26/2021
-1971	Michigan Department of Corrections (MDOC)	26398	US	155			Michigan		04/27/2021
-1971	Michigan Department of Corrections (MDOC)	26422	US	155			Michigan		04/28/2021
-1971	Michigan Department of Corrections (MDOC)	26504	US	155			Michigan		04/29/2021
-1971	Michigan Department of Corrections (MDOC)	26518	US	154			Michigan		04/30/2021
-1971	Michigan Department of Corrections (MDOC)	26530	US	153			Michigan		05/01/2021
-1971	Michigan Department of Corrections (MDOC)	26530	US	153			Michigan		05/02/2021
-1971	Michigan Department of Corrections (MDOC)	26553	US	153			Michigan		05/03/2021
-1971	Michigan Department of Corrections (MDOC)	26561	US	153			Michigan		05/04/2021
-1971	Michigan Department of Corrections (MDOC)	26581	US	153			Michigan		05/05/2021
-1971	Michigan Department of Corrections (MDOC)	26698	US	153			Michigan		05/06/2021
-1971	Michigan Department of Corrections (MDOC)	26709	US	153			Michigan		05/07/2021
-1971	Michigan Department of Corrections (MDOC)	26713	US	153			Michigan		05/08/2021
-1971	Michigan Department of Corrections (MDOC)	26713	US	153			Michigan		05/09/2021
-1971	Michigan Department of Corrections (MDOC)	26731	US	153			Michigan		05/10/2021
-1971	Michigan Department of Corrections (MDOC)	26737	US	153			Michigan		05/11/2021
-1971	Michigan Department of Corrections (MDOC)	26744	US	151			Michigan		05/12/2021
-1971	Michigan Department of Corrections (MDOC)	26798	US	150			Michigan		05/13/2021
-1971	Michigan Department of Corrections (MDOC)	26803	US	150			Michigan		05/14/2021
-1971	Michigan Department of Corrections (MDOC)	26808	US	150			Michigan		05/15/2021
-1971	Michigan Department of Corrections (MDOC)	26808	US	150			Michigan		05/16/2021
-1971	Michigan Department of Corrections (MDOC)	26817	US	150			Michigan		05/17/2021
-1971	Michigan Department of Corrections (MDOC)	26821	US	150			Michigan		05/18/2021
-1971	Michigan Department of Corrections (MDOC)	26833	US	150			Michigan		05/19/2021
-1971	Michigan Department of Corrections (MDOC)	26837	US	150			Michigan		05/20/2021
-1971	Michigan Department of Corrections (MDOC)	26842	US	150			Michigan		05/21/2021
-1971	Michigan Department of Corrections (MDOC)	26847	US	150			Michigan		05/22/2021
-1971	Michigan Department of Corrections (MDOC)	26847	US	150			Michigan		05/23/2021
-1971	Michigan Department of Corrections (MDOC)	26853	US	150			Michigan		05/24/2021
-1971	Michigan Department of Corrections (MDOC)	26855	US	150			Michigan		05/25/2021
-1971	Michigan Department of Corrections (MDOC)	26863	US	150			Michigan		05/26/2021
-1972	Michigan Department of Corrections (MDOC)	26875	US	150			Michigan		05/27/2021
-1972	Michigan Department of Corrections (MDOC)	26877	US	150			Michigan		05/28/2021
-1972	Michigan Department of Corrections (MDOC)	26882	US	150			Michigan		05/29/2021
-1972	Michigan Department of Corrections (MDOC)	26882	US	150			Michigan		05/30/2021
-1972	Michigan Department of Corrections (MDOC)	26882	US	150			Michigan		05/31/2021
-1972	Michigan Department of Corrections (MDOC)	26882	US	150			Michigan		06/01/2021
-1972	Michigan Department of Corrections (MDOC)	26881	US	150			Michigan		06/02/2021
-1972	Michigan Department of Corrections (MDOC)	26886	US	150			Michigan		06/03/2021
-1972	Michigan Department of Corrections (MDOC)	26887	US	152			Michigan		06/04/2021
-1972	Michigan Department of Corrections (MDOC)	26897	US	152			Michigan		06/05/2021
-1972	Michigan Department of Corrections (MDOC)	26897	US	152			Michigan		06/06/2021
-1972	Michigan Department of Corrections (MDOC)	26899	US	152			Michigan		06/07/2021
-1972	Michigan Department of Corrections (MDOC)	26901	US	152			Michigan		06/08/2021
-1972	Michigan Department of Corrections (MDOC)	26910	US	152			Michigan		06/09/2021
-1972	Michigan Department of Corrections (MDOC)	26912	US	152			Michigan		06/10/2021
-1972	Michigan Department of Corrections (MDOC)	26914	US	152			Michigan		06/11/2021
-1972	Michigan Department of Corrections (MDOC)	26914	US	152			Michigan		06/12/2021
-1972	Michigan Department of Corrections (MDOC)	26914	US	152			Michigan		06/13/2021
-1972	Michigan Department of Corrections (MDOC)	26914	US	152			Michigan		06/14/2021
-1972	Michigan Department of Corrections (MDOC)	26915	US	152			Michigan		06/15/2021
-1972	Michigan Department of Corrections (MDOC)	26919	US	152			Michigan		06/16/2021
-1974	Michigan Department of Corrections (MDOC)	26925	US	153			Michigan		06/17/2021
-1974	Michigan Department of Corrections (MDOC)	26923	US	153			Michigan		06/18/2021
-1974	Michigan Department of Corrections (MDOC)	26923	US	153			Michigan		06/19/2021
-1974	Michigan Department of Corrections (MDOC)	26923	US	153			Michigan		06/20/2021
-1974	Michigan Department of Corrections (MDOC)	26923	US	153			Michigan		06/21/2021
-1974	Michigan Department of Corrections (MDOC)	26896	US	152			Michigan		06/22/2021
-1974	Michigan Department of Corrections (MDOC)	26765	US	152			Michigan		06/23/2021
-1975	Michigan Department of Corrections (MDOC)	26765	US	152			Michigan		06/24/2021
-1975	Michigan Department of Corrections (MDOC)	26757	US	152			Michigan		06/25/2021
-1975	Michigan Department of Corrections (MDOC)	26757	US	152			Michigan		06/26/2021
-1975	Michigan Department of Corrections (MDOC)	26757	US	152			Michigan		06/27/2021
-1975	Michigan Department of Corrections (MDOC)	26755	US	152			Michigan		06/28/2021
-1975	Michigan Department of Corrections (MDOC)	26756	US	153			Michigan		06/29/2021
-1975	Michigan Department of Corrections (MDOC)	26747	US	153			Michigan		06/30/2021
-1975	Michigan Department of Corrections (MDOC)	26748	US	152			Michigan		07/01/2021
-1975	Michigan Department of Corrections (MDOC)	26748	US	152			Michigan		07/02/2021
-1975	Michigan Department of Corrections (MDOC)	26748	US	152			Michigan		07/03/2021
-1975	Michigan Department of Corrections (MDOC)	26748	US	152			Michigan		07/04/2021
-1975	Michigan Department of Corrections (MDOC)	26748	US	152			Michigan		07/05/2021
-1975	Michigan Department of Corrections (MDOC)	26749	US	152			Michigan		07/06/2021
-1975	Michigan Department of Corrections (MDOC)	26749	US	152			Michigan		07/07/2021
-1975	Michigan Department of Corrections (MDOC)	26749	US	152			Michigan		07/08/2021
-1975	Michigan Department of Corrections (MDOC)	26755	US	152			Michigan		07/09/2021
-1975	Michigan Department of Corrections (MDOC)	26755	US	152			Michigan		07/10/2021
-1975	Michigan Department of Corrections (MDOC)	26755	US	152			Michigan		07/11/2021
-1975	Michigan Department of Corrections (MDOC)	26755	US	152			Michigan		07/12/2021
-1975	Michigan Department of Corrections (MDOC)	26754	US	153			Michigan		07/13/2021
-1975	Michigan Department of Corrections (MDOC)	26754	US	153			Michigan		07/14/2021
-1975	Michigan Department of Corrections (MDOC)	26754	US	153			Michigan		07/15/2021
-1975	Michigan Department of Corrections (MDOC)	26760	US	153			Michigan		07/16/2021
-1975	Michigan Department of Corrections (MDOC)	26760	US	153			Michigan		07/17/2021
-1975	Michigan Department of Corrections (MDOC)	26760	US	153			Michigan		07/18/2021
-1975	Michigan Department of Corrections (MDOC)	26760	US	153			Michigan		07/19/2021
-1975	Michigan Department of Corrections (MDOC)	26763	US	153			Michigan		07/20/2021
-1975	Michigan Department of Corrections (MDOC)	26763	US	153			Michigan		07/21/2021
-1975	Michigan Department of Corrections (MDOC)	26763	US	153			Michigan		07/22/2021
-1975	Michigan Department of Corrections (MDOC)	26767	US	153			Michigan		07/23/2021
-1975	Michigan Department of Corrections (MDOC)	26767	US	153			Michigan		07/24/2021
-1975	Michigan Department of Corrections (MDOC)	26767	US	153			Michigan		07/25/2021
-1975	Michigan Department of Corrections (MDOC)	26767	US	153			Michigan		07/26/2021
-1975	Michigan Department of Corrections (MDOC)	26768	US	155			Michigan		07/27/2021
-1975	Michigan Department of Corrections (MDOC)	26768	US	155			Michigan		07/28/2021
-1975	Michigan Department of Corrections (MDOC)	26768	US	155			Michigan		07/29/2021
-1975	Michigan Department of Corrections (MDOC)	26770	US	155			Michigan		07/30/2021
-1975	Michigan Department of Corrections (MDOC)	26770	US	155			Michigan		07/31/2021
-1975	Michigan Department of Corrections (MDOC)	26770	US	155			Michigan		08/01/2021
-1975	Michigan Department of Corrections (MDOC)	26770	US	155			Michigan		08/02/2021
-1975	Michigan Department of Corrections (MDOC)	26777	US	155			Michigan		08/03/2021
-1975	Michigan Department of Corrections (MDOC)	26777	US	155			Michigan		08/04/2021
-1975	Michigan Department of Corrections (MDOC)	26777	US	155			Michigan		08/05/2021
-1975	Michigan Department of Corrections (MDOC)	26782	US	155			Michigan		08/06/2021
-1975	Michigan Department of Corrections (MDOC)	26782	US	155			Michigan		08/07/2021
-1975	Michigan Department of Corrections (MDOC)	26782	US	155			Michigan		08/08/2021
-1975	Michigan Department of Corrections (MDOC)	26783	US	155			Michigan		08/09/2021
-1975	Michigan Department of Corrections (MDOC)	26783	US	155			Michigan		08/10/2021
-1975	Michigan Department of Corrections (MDOC)	26785	US	155			Michigan		08/11/2021
-1975	Michigan Department of Corrections (MDOC)	26785	US	155			Michigan		08/12/2021
-1975	Michigan Department of Corrections (MDOC)	26790	US	155			Michigan		08/13/2021
-1975	Michigan Department of Corrections (MDOC)	26790	US	155			Michigan		08/14/2021
-1975	Michigan Department of Corrections (MDOC)	26790	US	155			Michigan		08/15/2021
-1975	Michigan Department of Corrections (MDOC)	26792	US	155			Michigan		08/16/2021
-1975	Michigan Department of Corrections (MDOC)	26792	US	155			Michigan		08/17/2021
-1975	Michigan Department of Corrections (MDOC)	26798	US	155			Michigan		08/18/2021
-1975	Michigan Department of Corrections (MDOC)	26798	US	155			Michigan		08/19/2021
-1975	Michigan Department of Corrections (MDOC)	26803	US	155			Michigan		08/20/2021
-1975	Michigan Department of Corrections (MDOC)	26803	US	155			Michigan		08/21/2021
-1975	Michigan Department of Corrections (MDOC)	26803	US	155			Michigan		08/22/2021
-1975	Michigan Department of Corrections (MDOC)	26806	US	155			Michigan		08/23/2021
-1975	Michigan Department of Corrections (MDOC)	26806	US	155			Michigan		08/24/2021
-1975	Michigan Department of Corrections (MDOC)	26815	US	155			Michigan		08/25/2021
-1975	Michigan Department of Corrections (MDOC)	26815	US	155			Michigan		08/26/2021
-1975	Michigan Department of Corrections (MDOC)	26819	US	155			Michigan		08/27/2021
-1975	Michigan Department of Corrections (MDOC)	26819	US	155			Michigan		08/28/2021
-1975	Michigan Department of Corrections (MDOC)	26819	US	155			Michigan		08/29/2021
-1975	Michigan Department of Corrections (MDOC)	26820	US	155			Michigan		08/30/2021
-1975	Michigan Department of Corrections (MDOC)	26820	US	155			Michigan		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1631	Michigan	US	04/13/2020			370	8	0	Michigan Department of Corrections (MDOC)
+1637	Michigan	US	04/14/2020			429	9	0	Michigan Department of Corrections (MDOC)
+1645	Michigan	US	04/15/2020			472	12	0	Michigan Department of Corrections (MDOC)
+1651	Michigan	US	04/16/2020			472	12	0	Michigan Department of Corrections (MDOC)
+1650	Michigan	US	04/17/2020			514	15	0	Michigan Department of Corrections (MDOC)
+1656	Michigan	US	04/18/2020			550	17	0	Michigan Department of Corrections (MDOC)
+1664	Michigan	US	04/19/2020			556	17	0	Michigan Department of Corrections (MDOC)
+1671	Michigan	US	04/20/2020			561	19	0	Michigan Department of Corrections (MDOC)
+1679	Michigan	US	04/21/2020			615	20	0	Michigan Department of Corrections (MDOC)
+1684	Michigan	US	04/22/2020			655	25	0	Michigan Department of Corrections (MDOC)
+1694	Michigan	US	04/23/2020			759	28	0	Michigan Department of Corrections (MDOC)
+1697	Michigan	US	04/24/2020			973	28	0	Michigan Department of Corrections (MDOC)
+1701	Michigan	US	04/25/2020			1026	31	0	Michigan Department of Corrections (MDOC)
+1707	Michigan	US	04/26/2020			1031	32	0	Michigan Department of Corrections (MDOC)
+1709	Michigan	US	04/27/2020			1048	37	0	Michigan Department of Corrections (MDOC)
+1716	Michigan	US	04/28/2020			1074	38	0	Michigan Department of Corrections (MDOC)
+1719	Michigan	US	04/29/2020			1264	41	0	Michigan Department of Corrections (MDOC)
+1725	Michigan	US	04/30/2020			1453	42	0	Michigan Department of Corrections (MDOC)
+1733	Michigan	US	05/01/2020			1560	42	0	Michigan Department of Corrections (MDOC)
+1737	Michigan	US	05/02/2020			1825	42	0	Michigan Department of Corrections (MDOC)
+1739	Michigan	US	05/03/2020			1844	42	0	Michigan Department of Corrections (MDOC)
+1741	Michigan	US	05/04/2020			1870	45	0	Michigan Department of Corrections (MDOC)
+1747	Michigan	US	05/05/2020			1898	48	0	Michigan Department of Corrections (MDOC)
+1751	Michigan	US	05/06/2020			1936	48	0	Michigan Department of Corrections (MDOC)
+1755	Michigan	US	05/07/2020			2036	50	0	Michigan Department of Corrections (MDOC)
+1760	Michigan	US	05/08/2020			2124	50	0	Michigan Department of Corrections (MDOC)
+1761	Michigan	US	05/09/2020			2136	50	0	Michigan Department of Corrections (MDOC)
+1762	Michigan	US	05/10/2020			2138	51	0	Michigan Department of Corrections (MDOC)
+1762	Michigan	US	05/11/2020			2139	54	0	Michigan Department of Corrections (MDOC)
+1764	Michigan	US	05/12/2020			2144	55	0	Michigan Department of Corrections (MDOC)
+1764	Michigan	US	05/13/2020			2145	56	0	Michigan Department of Corrections (MDOC)
+1765	Michigan	US	05/14/2020			2171	56	0	Michigan Department of Corrections (MDOC)
+1769	Michigan	US	05/15/2020			2227	56	0	Michigan Department of Corrections (MDOC)
+1772	Michigan	US	05/16/2020			2227	56	0	Michigan Department of Corrections (MDOC)
+1774	Michigan	US	05/17/2020			2538	57	0	Michigan Department of Corrections (MDOC)
+1775	Michigan	US	05/18/2020			3051	57	0	Michigan Department of Corrections (MDOC)
+1777	Michigan	US	05/19/2020			3122	60	0	Michigan Department of Corrections (MDOC)
+1782	Michigan	US	05/20/2020			3195	60	0	Michigan Department of Corrections (MDOC)
+1783	Michigan	US	05/21/2020			3257	60	0	Michigan Department of Corrections (MDOC)
+1788	Michigan	US	05/22/2020			3275	60	0	Michigan Department of Corrections (MDOC)
+1790	Michigan	US	05/23/2020			3289	62	0	Michigan Department of Corrections (MDOC)
+1793	Michigan	US	05/24/2020			3303	64	0	Michigan Department of Corrections (MDOC)
+1793	Michigan	US	05/25/2020			3303	64	0	Michigan Department of Corrections (MDOC)
+1794	Michigan	US	05/26/2020			3305	64	0	Michigan Department of Corrections (MDOC)
+1796	Michigan	US	05/27/2020			3548	64	0	Michigan Department of Corrections (MDOC)
+1797	Michigan	US	05/28/2020			3604	65	0	Michigan Department of Corrections (MDOC)
+1800	Michigan	US	05/29/2020			3749	66	0	Michigan Department of Corrections (MDOC)
+1802	Michigan	US	05/30/2020			3914	69	0	Michigan Department of Corrections (MDOC)
+1803	Michigan	US	05/31/2020			3933	69	0	Michigan Department of Corrections (MDOC)
+1805	Michigan	US	06/01/2020			3933	69	0	Michigan Department of Corrections (MDOC)
+1809	Michigan	US	06/02/2020			3965	70	0	Michigan Department of Corrections (MDOC)
+1810	Michigan	US	06/03/2020			3970	70	0	Michigan Department of Corrections (MDOC)
+1811	Michigan	US	06/04/2020			3987	70	0	Michigan Department of Corrections (MDOC)
+1813	Michigan	US	06/05/2020			3993	68	0	Michigan Department of Corrections (MDOC)
+1814	Michigan	US	06/06/2020			3993	68	0	Michigan Department of Corrections (MDOC)
+1814	Michigan	US	06/07/2020			3993	68	0	Michigan Department of Corrections (MDOC)
+1814	Michigan	US	06/08/2020			4010	68	0	Michigan Department of Corrections (MDOC)
+1816	Michigan	US	06/09/2020			4114	69	0	Michigan Department of Corrections (MDOC)
+1818	Michigan	US	06/10/2020			4129	69	0	Michigan Department of Corrections (MDOC)
+1819	Michigan	US	06/11/2020			4144	70	0	Michigan Department of Corrections (MDOC)
+1828	Michigan	US	06/12/2020			4154	70	0	Michigan Department of Corrections (MDOC)
+1830	Michigan	US	06/13/2020			4128	68	0	Michigan Department of Corrections (MDOC)
+1830	Michigan	US	06/14/2020			4130	68	0	Michigan Department of Corrections (MDOC)
+1832	Michigan	US	06/15/2020			4059	68	0	Michigan Department of Corrections (MDOC)
+1831	Michigan	US	06/16/2020			4058	68	0	Michigan Department of Corrections (MDOC)
+1833	Michigan	US	06/17/2020			4067	68	0	Michigan Department of Corrections (MDOC)
+1833	Michigan	US	06/18/2020			4072	68	0	Michigan Department of Corrections (MDOC)
+1833	Michigan	US	06/19/2020			4078	68	0	Michigan Department of Corrections (MDOC)
+1837	Michigan	US	06/20/2020			4085	68	0	Michigan Department of Corrections (MDOC)
+1837	Michigan	US	06/21/2020			4083	68	0	Michigan Department of Corrections (MDOC)
+1839	Michigan	US	06/22/2020			4084	68	0	Michigan Department of Corrections (MDOC)
+1842	Michigan	US	06/23/2020			4097	68	0	Michigan Department of Corrections (MDOC)
+1850	Michigan	US	06/24/2020			4098	68	0	Michigan Department of Corrections (MDOC)
+1855	Michigan	US	06/25/2020			4099	68	0	Michigan Department of Corrections (MDOC)
+1856	Michigan	US	06/26/2020			4100	68	0	Michigan Department of Corrections (MDOC)
+1857	Michigan	US	06/27/2020			4101	68	0	Michigan Department of Corrections (MDOC)
+1857	Michigan	US	06/28/2020			4104	68	0	Michigan Department of Corrections (MDOC)
+1858	Michigan	US	06/29/2020			4106	68	0	Michigan Department of Corrections (MDOC)
+1859	Michigan	US	06/30/2020			4107	68	0	Michigan Department of Corrections (MDOC)
+1859	Michigan	US	07/01/2020			4110	68	0	Michigan Department of Corrections (MDOC)
+1861	Michigan	US	07/02/2020			4114	68	0	Michigan Department of Corrections (MDOC)
+1864	Michigan	US	07/03/2020			4117	68	0	Michigan Department of Corrections (MDOC)
+1864	Michigan	US	07/04/2020			4118	68	0	Michigan Department of Corrections (MDOC)
+1864	Michigan	US	07/05/2020			4118	68	0	Michigan Department of Corrections (MDOC)
+1867	Michigan	US	07/06/2020			4118	68	0	Michigan Department of Corrections (MDOC)
+1867	Michigan	US	07/07/2020			4118	68	0	Michigan Department of Corrections (MDOC)
+1870	Michigan	US	07/08/2020			4118	68	0	Michigan Department of Corrections (MDOC)
+1869	Michigan	US	07/09/2020			4116	68	0	Michigan Department of Corrections (MDOC)
+1871	Michigan	US	07/10/2020			4111	68	0	Michigan Department of Corrections (MDOC)
+1871	Michigan	US	07/11/2020			4111	68	0	Michigan Department of Corrections (MDOC)
+1873	Michigan	US	07/12/2020			4111	68	0	Michigan Department of Corrections (MDOC)
+1875	Michigan	US	07/13/2020			4111	68	0	Michigan Department of Corrections (MDOC)
+1878	Michigan	US	07/14/2020			4115	68	0	Michigan Department of Corrections (MDOC)
+1878	Michigan	US	07/15/2020			4115	68	0	Michigan Department of Corrections (MDOC)
+1880	Michigan	US	07/16/2020			4119	68	0	Michigan Department of Corrections (MDOC)
+1880	Michigan	US	07/17/2020			4120	68	0	Michigan Department of Corrections (MDOC)
+1930	Michigan	US	07/18/2020			4121	68	0	Michigan Department of Corrections (MDOC)
+1931	Michigan	US	07/19/2020			4122	68	0	Michigan Department of Corrections (MDOC)
+1885	Michigan	US	07/20/2020			4123	68	0	Michigan Department of Corrections (MDOC)
+1934	Michigan	US	07/21/2020			4130	68	0	Michigan Department of Corrections (MDOC)
+1935	Michigan	US	07/22/2020			4130	68	0	Michigan Department of Corrections (MDOC)
+1936	Michigan	US	07/23/2020			4120	68	0	Michigan Department of Corrections (MDOC)
+1935	Michigan	US	07/24/2020			4123	68	0	Michigan Department of Corrections (MDOC)
+1936	Michigan	US	07/25/2020			4123	68	0	Michigan Department of Corrections (MDOC)
+1937	Michigan	US	07/26/2020			4123	68	0	Michigan Department of Corrections (MDOC)
+1937	Michigan	US	07/27/2020			4124	68	0	Michigan Department of Corrections (MDOC)
+1937	Michigan	US	07/28/2020			4125	68	0	Michigan Department of Corrections (MDOC)
+1939	Michigan	US	07/29/2020			4128	68	0	Michigan Department of Corrections (MDOC)
+1939	Michigan	US	07/30/2020			4129	69	0	Michigan Department of Corrections (MDOC)
+1940	Michigan	US	07/31/2020			4140	69	0	Michigan Department of Corrections (MDOC)
+1940	Michigan	US	08/01/2020			4146	69	0	Michigan Department of Corrections (MDOC)
+1940	Michigan	US	08/02/2020			4146	69	0	Michigan Department of Corrections (MDOC)
+1940	Michigan	US	08/03/2020			4147	69	0	Michigan Department of Corrections (MDOC)
+1940	Michigan	US	08/04/2020			4237	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/05/2020			4323	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/06/2020			4324	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/07/2020			4386	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/08/2020			4386	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/09/2020			4412	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/10/2020			4413	69	0	Michigan Department of Corrections (MDOC)
+1988	Michigan	US	08/11/2020			4594	69	0	Michigan Department of Corrections (MDOC)
+1942	Michigan	US	08/12/2020			4598	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/13/2020			4598	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/14/2020			4602	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/15/2020			4713	69	0	Michigan Department of Corrections (MDOC)
+1943	Michigan	US	08/16/2020			4894	69	0	Michigan Department of Corrections (MDOC)
+1945	Michigan	US	08/17/2020			4899	69	0	Michigan Department of Corrections (MDOC)
+1945	Michigan	US	08/18/2020			4901	69	0	Michigan Department of Corrections (MDOC)
+1945	Michigan	US	08/19/2020			4904	69	0	Michigan Department of Corrections (MDOC)
+1945	Michigan	US	08/20/2020			4906	69	0	Michigan Department of Corrections (MDOC)
+1945	Michigan	US	08/21/2020			4906	69	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/22/2020			4906	69	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/23/2020			4907	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/24/2020			4963	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/25/2020			5163	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/26/2020			5164	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/27/2020			5185	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/28/2020			5189	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/29/2020			5189	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/30/2020			5276	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	08/31/2020			5284	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/01/2020			5301	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/02/2020			5304	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/03/2020			5304	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/04/2020			5345	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/05/2020			5417	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/06/2020			5417	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/07/2020			5469	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/08/2020			5468	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/09/2020			5468	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/10/2020			5472	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/11/2020			5504	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/12/2020			5504	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/13/2020			5504	70	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/14/2020			5534	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/15/2020			5535	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/16/2020			5535	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/17/2020			5541	71	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/18/2020			5550	73	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/19/2020			5563	73	0	Michigan Department of Corrections (MDOC)
+1946	Michigan	US	09/20/2020			5563	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/21/2020			5588	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/22/2020			5588	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/23/2020			5589	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/24/2020			5591	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/25/2020			5593	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/26/2020			5593	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/27/2020			5593	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/28/2020			5599	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/29/2020			5603	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	09/30/2020			5611	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/01/2020			5616	73	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/02/2020			5622	74	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/03/2020			5623	74	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/04/2020			5623	74	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/05/2020			5623	74	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/06/2020			5627	74	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/07/2020			5631	75	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/08/2020			5637	75	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/09/2020			5650	75	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/10/2020			5650	75	0	Michigan Department of Corrections (MDOC)
+1947	Michigan	US	10/11/2020			5650	75	0	Michigan Department of Corrections (MDOC)
+1948	Michigan	US	10/12/2020			5693	75	0	Michigan Department of Corrections (MDOC)
+1948	Michigan	US	10/13/2020			5790	75	0	Michigan Department of Corrections (MDOC)
+1948	Michigan	US	10/14/2020			5796	75	0	Michigan Department of Corrections (MDOC)
+1948	Michigan	US	10/15/2020			5803	75	0	Michigan Department of Corrections (MDOC)
+1949	Michigan	US	10/16/2020			5832	75	0	Michigan Department of Corrections (MDOC)
+1949	Michigan	US	10/17/2020			5846	75	0	Michigan Department of Corrections (MDOC)
+1949	Michigan	US	10/18/2020			5846	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/19/2020			6248	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/20/2020			6267	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/21/2020			6293	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/22/2020			6329	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/23/2020			6459	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/24/2020			6510	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/25/2020			6510	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/26/2020			6538	75	0	Michigan Department of Corrections (MDOC)
+1950	Michigan	US	10/27/2020			6562	75	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	10/28/2020			6691	75.0	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	10/29/2020			6883	75	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	10/30/2020			6958	75	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	10/31/2020			6984	75	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	11/01/2020			6984	75	0	Michigan Department of Corrections (MDOC)
+1951	Michigan	US	11/02/2020			7016	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/03/2020			7061	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/04/2020			7181	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/05/2020			7457	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/06/2020			7509	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/07/2020			7647	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/08/2020			7647	75	0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/09/2020			8037	75	0.0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/10/2020			8080	75	0.0	Michigan Department of Corrections (MDOC)
+1952	Michigan	US	11/11/2020			8089	75	0.0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/12/2020			8243	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/13/2020			8925	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/14/2020			9228	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/15/2020			9228	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/16/2020			9421	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/17/2020			9527	76	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/18/2020			9573	77	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/19/2020			9947	77	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/20/2020			10859	79	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/21/2020			11730	80	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/22/2020			11730	80	0	Michigan Department of Corrections (MDOC)
+1964	Michigan	US	11/23/2020			11825	80	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/24/2020			11870	80	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/25/2020			11882	81	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/26/2020			11882	81	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/27/2020			12123	84	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/28/2020			12639	87	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/29/2020			12639	87	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	11/30/2020			13131	89	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/01/2020			13179	89	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/02/2020			13216	92	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/03/2020			13584	93	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/04/2020			15083	95	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/05/2020			15714	97	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/06/2020			15714	97	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/07/2020			16323	98	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/08/2020			16480	98	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/09/2020			16508	99	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/10/2020			16576	99	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/11/2020			17139	102	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/12/2020			17481	102	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/13/2020			17481	102	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/14/2020			18228	104	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/15/2020			18456	106	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/16/2020			18548	107	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/17/2020			18702	108	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/18/2020			18844	110	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/19/2020			19261	111	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/20/2020			19261	111	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/21/2020			19363	113	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/22/2020			19754	114	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/23/2020			20299	114	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/24/2020			20299	114	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/25/2020			20299	114	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/26/2020			20747	119	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/27/2020			20747	119	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/28/2020			20884	122	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/29/2020			20903	123	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/30/2020			20981	124	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	12/31/2020			20981	124	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	01/01/2021			20981	124	0	Michigan Department of Corrections (MDOC)
+1965	Michigan	US	01/02/2021			21879	126	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/03/2021			21879	126	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/04/2021			21974	127	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/05/2021			21979	128	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/06/2021			22045	130	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/07/2021			22160	130	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/08/2021			22468	131	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/09/2021			22534	132	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/10/2021			22534	132	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/11/2021			22640	133	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/12/2021			22701	133	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/13/2021			22726	133	0	Michigan Department of Corrections (MDOC)
+1966	Michigan	US	01/14/2021			22815	134	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/15/2021			22865	134	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/16/2021			22950	136	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/17/2021			22950	136	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/18/2021			23002	136	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/19/2021			23124	136	0	Michigan Department of Corrections (MDOC)
+1967	Michigan	US	01/20/2021			23139	136	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/21/2021			23234	137	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/22/2021			23278	138	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/23/2021			23317	138	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/24/2021			23317	138	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/25/2021			23731	139	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/26/2021			23495	141	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/27/2021			23533	141	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/28/2021			23601	141	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/29/2021			23697	141	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/30/2021			23709	142	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	01/31/2021			23709	142	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/01/2021			23801	143	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/02/2021			23804	143	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/03/2021			23856	144	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/04/2021			23913	144	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/05/2021			24006	145	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/06/2021			24008	146	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/07/2021			24008	146	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/08/2021			24091	146	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/09/2021			24122	146	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/10/2021			24159	147	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/11/2021			24230	147	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/12/2021			24292	147	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/13/2021			24353	147	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/14/2021			24353	147	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/15/2021			24429	148	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/16/2021			24478	149	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/17/2021			24513	149	0	Michigan Department of Corrections (MDOC)
+1968	Michigan	US	02/18/2021			24560	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/19/2021			24593	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/20/2021			24617	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/21/2021			24617	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/22/2021			24638	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/23/2021			24708	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/24/2021			24751	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/25/2021			24781	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/26/2021			24802	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/27/2021			24813	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	02/28/2021			24813	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/01/2021			24826	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/02/2021			24837	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/03/2021			24856	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/04/2021			24947	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/05/2021			24971	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/06/2021			24994	148	0	Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/07/2021			24994	148		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/08/2021			25032	148		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/09/2021			25038	148		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/10/2021			25073	148		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/11/2021			25225	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/12/2021			25307	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/13/2021			25323	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/14/2021			25323	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/15/2021			25347	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/16/2021			25364	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/17/2021			25386	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/18/2021			25555	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/19/2021			25600	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/20/2021			25613	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/21/2021			25613	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/22/2021			25649	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/23/2021			25654	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/24/2021			25759	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/25/2021			25847	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/26/2021			25880	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/27/2021			25904	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/28/2021			25904	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/29/2021			25910	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/30/2021			25911	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	03/31/2021			25928	149		Michigan Department of Corrections (MDOC)
+1969	Michigan	US	04/01/2021			25992	149		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/02/2021			26028	149		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/03/2021			26034	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/04/2021			26034	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/05/2021			26052	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/06/2021			26060	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/07/2021			26064	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/08/2021			26099	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/09/2021			26117	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/10/2021			26136	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/11/2021			26136	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/12/2021			26172	152		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/13/2021			26186	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/14/2021			26192	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/15/2021			26220	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/16/2021			26257	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/17/2021			26271	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/18/2021			26271	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/19/2021			26282	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/20/2021			26288	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/21/2021			26288	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/22/2021			26342	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/23/2021			26368	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/24/2021			26372	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/25/2021			26372	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/26/2021			26387	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/27/2021			26398	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/28/2021			26422	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/29/2021			26504	155		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	04/30/2021			26518	154		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/01/2021			26530	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/02/2021			26530	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/03/2021			26553	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/04/2021			26561	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/05/2021			26581	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/06/2021			26698	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/07/2021			26709	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/08/2021			26713	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/09/2021			26713	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/10/2021			26731	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/11/2021			26737	153		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/12/2021			26744	151		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/13/2021			26798	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/14/2021			26803	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/15/2021			26808	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/16/2021			26808	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/17/2021			26817	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/18/2021			26821	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/19/2021			26833	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/20/2021			26837	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/21/2021			26842	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/22/2021			26847	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/23/2021			26847	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/24/2021			26853	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/25/2021			26855	150		Michigan Department of Corrections (MDOC)
+1971	Michigan	US	05/26/2021			26863	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	05/27/2021			26875	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	05/28/2021			26877	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	05/29/2021			26882	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	05/30/2021			26882	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	05/31/2021			26882	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/01/2021			26882	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/02/2021			26881	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/03/2021			26886	150		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/04/2021			26887	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/05/2021			26897	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/06/2021			26897	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/07/2021			26899	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/08/2021			26901	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/09/2021			26910	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/10/2021			26912	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/11/2021			26914	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/12/2021			26914	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/13/2021			26914	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/14/2021			26914	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/15/2021			26915	152		Michigan Department of Corrections (MDOC)
+1972	Michigan	US	06/16/2021			26919	152		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/17/2021			26925	153		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/18/2021			26923	153		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/19/2021			26923	153		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/20/2021			26923	153		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/21/2021			26923	153		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/22/2021			26896	152		Michigan Department of Corrections (MDOC)
+1974	Michigan	US	06/23/2021			26765	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/24/2021			26765	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/25/2021			26757	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/26/2021			26757	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/27/2021			26757	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/28/2021			26755	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/29/2021			26756	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	06/30/2021			26747	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/01/2021			26748	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/02/2021			26748	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/03/2021			26748	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/04/2021			26748	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/05/2021			26748	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/06/2021			26749	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/07/2021			26749	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/08/2021			26749	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/09/2021			26755	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/10/2021			26755	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/11/2021			26755	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/12/2021			26755	152		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/13/2021			26754	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/14/2021			26754	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/15/2021			26754	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/16/2021			26760	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/17/2021			26760	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/18/2021			26760	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/19/2021			26760	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/20/2021			26763	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/21/2021			26763	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/22/2021			26763	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/23/2021			26767	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/24/2021			26767	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/25/2021			26767	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/26/2021			26767	153		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/27/2021			26768	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/28/2021			26768	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/29/2021			26768	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/30/2021			26770	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	07/31/2021			26770	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/01/2021			26770	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/02/2021			26770	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/03/2021			26777	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/04/2021			26777	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/05/2021			26777	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/06/2021			26782	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/07/2021			26782	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/08/2021			26782	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/09/2021			26783	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/10/2021			26783	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/11/2021			26785	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/12/2021			26785	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/13/2021			26790	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/14/2021			26790	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/15/2021			26790	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/16/2021			26792	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/17/2021			26792	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/18/2021			26798	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/19/2021			26798	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/20/2021			26803	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/21/2021			26803	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/22/2021			26803	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/23/2021			26806	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/24/2021			26806	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/25/2021			26815	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/26/2021			26815	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/27/2021			26819	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/28/2021			26819	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/29/2021			26819	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/30/2021			26820	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	08/31/2021			26820	155		Michigan Department of Corrections (MDOC)
+1975	Michigan	US	09/01/2021			26821	155		Michigan Department of Corrections (MDOC)

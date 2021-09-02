@@ -1,521 +1,522 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2863	Unassigned	2	US	0	0.0	0.0	Iowa	0	03/24/2020
-1938	Unassigned	2	US	1	0.0	0.0	Iowa	0	03/31/2020
-1983	Unassigned	0	US	1	0.0	0.0	Iowa	0	04/01/2020
-2055	Unassigned	0	US	1			Iowa	0	04/02/2020
-2101	Unassigned	0	US	1			Iowa	0	04/03/2020
-2153	Unassigned	0	US	3			Iowa	0	04/04/2020
-2227	Unassigned	0	US	0			Iowa	0	04/05/2020
-2265	Unassigned	0	US	0			Iowa	0	04/06/2020
-2312	Unassigned	0	US	1			Iowa	0	04/07/2020
-2335	Unassigned	0	US	1			Iowa	0	04/08/2020
-2361	Unassigned	0	US	3			Iowa	0	04/09/2020
-2385	Unassigned	0	US	3			Iowa	0	04/10/2020
-2411	Unassigned	0	US	6			Iowa	0	04/11/2020
-2433	Unassigned	0	US	6			Iowa	0	04/12/2020
-2447	Unassigned	0	US	3			Iowa	0	04/13/2020
-2457	Unassigned	0	US	6			Iowa	0	04/14/2020
-2469	Unassigned	0	US	0			Iowa	0	04/15/2020
-2483	Unassigned	0	US	0			Iowa	0	04/16/2020
-2485	Unassigned	1	US	0			Iowa	0	04/17/2020
-2492	Unassigned	1	US	0			Iowa	0	04/18/2020
-2509	Unassigned	7	US	0			Iowa	0	04/19/2020
-2517	Unassigned	2	US	0			Iowa	0	04/20/2020
-2526	Unassigned	21	US	0			Iowa	0	04/21/2020
-2533	Unassigned	4	US	0			Iowa	0	04/22/2020
-2550	Unassigned	3	US	0			Iowa	0	04/23/2020
-2556	Unassigned	4	US	0			Iowa	0	04/24/2020
-2561	Unassigned	5	US	0			Iowa	0	04/25/2020
-2569	Unassigned	6	US	0			Iowa	0	04/26/2020
-2576	Unassigned	7	US	0			Iowa	0	04/27/2020
-2585	Unassigned	13	US	0			Iowa	0	04/28/2020
-2590	Unassigned	20	US	0			Iowa	0	04/29/2020
-2596	Unassigned	24	US	0			Iowa	0	04/30/2020
-2607	Unassigned	63	US	0			Iowa	0	05/01/2020
-2610	Unassigned	95	US	0			Iowa	0	05/02/2020
-2615	Unassigned	124	US	0			Iowa	0	05/03/2020
-2618	Unassigned	95	US	0			Iowa	0	05/04/2020
-2626	Unassigned	0	US	0			Iowa	0	05/05/2020
-2632	Unassigned	13	US	0			Iowa	0	05/06/2020
-2639	Unassigned	8	US	0			Iowa	0	05/07/2020
-2646	Unassigned	17	US	0			Iowa	0	05/08/2020
-2648	Unassigned	3	US	0			Iowa	0	05/09/2020
-2650	Unassigned	0	US	0			Iowa	0	05/10/2020
-2650	Unassigned	5	US	0			Iowa	0	05/11/2020
-2653	Unassigned	6	US	0			Iowa	0	05/12/2020
-2654	Unassigned	5	US	0			Iowa	0	05/13/2020
-2656	Unassigned	8	US	0			Iowa	0	05/14/2020
-2661	Unassigned	10	US	0			Iowa	0	05/15/2020
-2665	Unassigned	15	US	0			Iowa	0	05/16/2020
-2668	Unassigned	8	US	0			Iowa	0	05/17/2020
-2670	Unassigned	9	US	0			Iowa	0	05/18/2020
-2674	Unassigned	5	US	0			Iowa	0	05/19/2020
-2680	Unassigned	8	US	0			Iowa	0	05/20/2020
-2682	Unassigned	14	US	0			Iowa	0	05/21/2020
-2689	Unassigned	6	US	0			Iowa	0	05/22/2020
-2691	Unassigned	2	US	0			Iowa	0	05/23/2020
-2694	Unassigned	3	US	0			Iowa	0	05/24/2020
-2695	Unassigned	6	US	0			Iowa	0	05/25/2020
-2696	Unassigned	2	US	0			Iowa	0	05/26/2020
-2699	Unassigned	8	US	0			Iowa	0	05/27/2020
-2702	Unassigned	1	US	0			Iowa	0	05/28/2020
-2705	Unassigned	1	US	0			Iowa	0	05/29/2020
-2707	Unassigned	6	US	0			Iowa	0	05/30/2020
-2708	Unassigned	1	US	0			Iowa	0	05/31/2020
-2710	Unassigned	1	US	0			Iowa	0	06/01/2020
-2715	Unassigned	3	US	0			Iowa	0	06/02/2020
-2717	Unassigned	0	US	0			Iowa	0	06/03/2020
-2718	Unassigned	0	US	0			Iowa	0	06/04/2020
-2722	Unassigned	2	US	0			Iowa	0	06/05/2020
-2724	Unassigned	9	US	0			Iowa	0	06/06/2020
-2724	Unassigned	4	US	0			Iowa	0	06/07/2020
-2724	Unassigned	4	US	0			Iowa	0	06/08/2020
-2726	Unassigned	4	US	0			Iowa	0	06/09/2020
-2728	Unassigned	4	US	0			Iowa	0	06/10/2020
-2730	Unassigned	8	US	0			Iowa	0	06/11/2020
-2744	Unassigned	4	US	0			Iowa	0	06/12/2020
-2747	Unassigned	5	US	0			Iowa	0	06/13/2020
-2747	Unassigned	5	US	0			Iowa	0	06/14/2020
-2751	Unassigned	6	US	0			Iowa	0	06/15/2020
-2749	Unassigned	5	US	0			Iowa	0	06/16/2020
-2751	Unassigned	5	US	0			Iowa	0	06/17/2020
-2751	Unassigned	7	US	0			Iowa	0	06/18/2020
-2752	Unassigned	9	US	0			Iowa	0	06/19/2020
-2756	Unassigned	5	US	0			Iowa	0	06/20/2020
-2756	Unassigned	5	US	0			Iowa	0	06/21/2020
-2759	Unassigned	8	US	0			Iowa	0	06/22/2020
-2764	Unassigned	5	US	0			Iowa	0	06/23/2020
-2776	Unassigned	5	US	0			Iowa	0	06/24/2020
-2781	Unassigned	9	US	0			Iowa	0	06/25/2020
-2782	Unassigned	4	US	0			Iowa	0	06/26/2020
-2783	Unassigned	4	US	0			Iowa	0	06/27/2020
-2783	Unassigned	6	US	0			Iowa	0	06/28/2020
-2785	Unassigned	6	US	0			Iowa	0	06/29/2020
-2787	Unassigned	3	US	0			Iowa	0	06/30/2020
-2789	Unassigned	4	US	0			Iowa	0	07/01/2020
-2792	Unassigned	7	US	0			Iowa	0	07/02/2020
-2797	Unassigned	7	US	0			Iowa	0	07/03/2020
-2798	Unassigned	16	US	0			Iowa	0	07/04/2020
-2799	Unassigned	16	US	0			Iowa	0	07/05/2020
-2802	Unassigned	17	US	0			Iowa	0	07/06/2020
-2803	Unassigned	16	US	0			Iowa	0	07/07/2020
-2806	Unassigned	20	US	0			Iowa	0	07/08/2020
-2805	Unassigned	22	US	0			Iowa	0	07/09/2020
-2809	Unassigned	27	US	0			Iowa	0	07/10/2020
-2810	Unassigned	35	US	0			Iowa	0	07/11/2020
-2812	Unassigned	35	US	0			Iowa	0	07/12/2020
-2813	Unassigned	35	US	0			Iowa	0	07/13/2020
-2819	Unassigned	31	US	0			Iowa	0	07/14/2020
-2820	Unassigned	39	US	0			Iowa	0	07/15/2020
-2822	Unassigned	43	US	0			Iowa	0	07/16/2020
-2822	Unassigned	34	US	0			Iowa	0	07/17/2020
-2895	Unassigned	29	US	0			Iowa	0	07/18/2020
-2895	Unassigned	29	US	0			Iowa	0	07/19/2020
-2819	Unassigned	22	US	0			Iowa	0	07/20/2020
-2899	Unassigned	16	US	0			Iowa	0	07/21/2020
-2900	Unassigned	13	US	0			Iowa	0	07/22/2020
-2903	Unassigned	1	US	0			Iowa	0	07/23/2020
-2902	Unassigned	3	US	0			Iowa	0	07/24/2020
-2903	Unassigned	8	US	0			Iowa	0	07/25/2020
-2904	Unassigned	5	US	0			Iowa	0	07/26/2020
-2904	Unassigned	2	US	0			Iowa	0	07/27/2020
-2904	Unassigned	8	US	0			Iowa	0	07/28/2020
-2908	Unassigned	1	US	0			Iowa	0	07/29/2020
-2908	Unassigned	7	US	0			Iowa	0	07/30/2020
-2910	Unassigned	5	US	0			Iowa	0	07/31/2020
-2910	Unassigned	5	US	0			Iowa	0	08/01/2020
-2910	Unassigned	7	US	0			Iowa	0	08/02/2020
-2910	Unassigned	8	US	0			Iowa	0	08/03/2020
-2911	Unassigned	0	US	0			Iowa	0	08/04/2020
-2915	Unassigned	4	US	0			Iowa	0	08/05/2020
-2915	Unassigned	3	US	0			Iowa	0	08/06/2020
-2915	Unassigned	1	US	0			Iowa	0	08/07/2020
-2915	Unassigned	7	US	0			Iowa	0	08/08/2020
-2915	Unassigned	6	US	0			Iowa	0	08/09/2020
-2915	Unassigned	3	US	0			Iowa	0	08/10/2020
-1571	Unassigned	1	US	0			Iowa	0	08/11/2020
-1525	Unassigned	7	US	0			Iowa	0	08/12/2020
-1526	Unassigned	2	US	0			Iowa	0	08/13/2020
-1526	Unassigned	5	US	0			Iowa	0	08/14/2020
-1526	Unassigned	1	US	0			Iowa	0	08/15/2020
-1526	Unassigned	0	US	0			Iowa	0	08/16/2020
-1526	Unassigned	6	US	0			Iowa	0	08/17/2020
-1526	Unassigned	3	US	0			Iowa	0	08/18/2020
-1526	Unassigned	4	US	0			Iowa	0	08/19/2020
-1526	Unassigned	5	US	0			Iowa	0	08/20/2020
-1526	Unassigned	8	US	0			Iowa	0	08/21/2020
-1527	Unassigned	4	US	0			Iowa	0	08/22/2020
-1527	Unassigned	7	US	0			Iowa	0	08/23/2020
-1527	Unassigned	16	US	0			Iowa	0	08/24/2020
-1527	Unassigned	12	US	0			Iowa	0	08/25/2020
-1527	Unassigned	17	US	0			Iowa	0	08/26/2020
-1527	Unassigned	11	US	0			Iowa	0	08/27/2020
-1527	Unassigned	16	US	0			Iowa	0	08/28/2020
-1527	Unassigned	11	US	0			Iowa	0	08/29/2020
-1527	Unassigned	19	US	0			Iowa	0	08/30/2020
-1527	Unassigned	9	US	0			Iowa	0	08/31/2020
-1527	Unassigned	3	US	0			Iowa	0	09/01/2020
-1527	Unassigned	8	US	0			Iowa	0	09/02/2020
-1527	Unassigned	21	US	0			Iowa	0	09/03/2020
-1527	Unassigned	29	US	0			Iowa	0	09/04/2020
-1527	Unassigned	16	US	0			Iowa	0	09/05/2020
-1527	Unassigned	8	US	0			Iowa	0	09/06/2020
-1527	Unassigned	1	US	0			Iowa	0	09/07/2020
-1527	Unassigned	2	US	0			Iowa	0	09/08/2020
-1527	Unassigned	2	US	0			Iowa	0	09/09/2020
-1527	Unassigned	3	US	0			Iowa	0	09/10/2020
-1527	Unassigned	20	US	0			Iowa	0	09/11/2020
-1527	Unassigned	34	US	0			Iowa	0	09/12/2020
-1527	Unassigned	12	US	0			Iowa	0	09/13/2020
-1527	Unassigned	13	US	0			Iowa	0	09/14/2020
-1527	Unassigned	19	US	0			Iowa	0	09/15/2020
-1527	Unassigned	22	US	0			Iowa	0	09/16/2020
-1527	Unassigned	16	US	0			Iowa	0	09/17/2020
-1527	Unassigned	15	US	0			Iowa	0	09/18/2020
-1527	Unassigned	23	US	0			Iowa	0	09/19/2020
-1527	Unassigned	16	US	0			Iowa	0	09/20/2020
-1528	Unassigned	7	US	0			Iowa	0	09/21/2020
-1528	Unassigned	8	US	0			Iowa	0	09/22/2020
-1528	Unassigned	4	US	0			Iowa	0	09/23/2020
-1528	Unassigned	4	US	0			Iowa	0	09/24/2020
-1528	Unassigned	7	US	0			Iowa	0	09/25/2020
-1528	Unassigned	17	US	0			Iowa	0	09/26/2020
-1528	Unassigned	23	US	0			Iowa	0	09/27/2020
-1528	Unassigned	14	US	0			Iowa	0	09/28/2020
-1528	Unassigned	14	US	0			Iowa	0	09/29/2020
-1528	Unassigned	4	US	0			Iowa	0	09/30/2020
-1528	Unassigned	19	US	0			Iowa	0	10/01/2020
-1528	Unassigned	5	US	0			Iowa	0	10/02/2020
-1528	Unassigned	12	US	0			Iowa	0	10/03/2020
-1528	Unassigned	16	US	0			Iowa	0	10/04/2020
-1528	Unassigned	3	US	0			Iowa	0	10/05/2020
-1528	Unassigned	1	US	0			Iowa	0	10/06/2020
-1528	Unassigned	7	US	0			Iowa	0	10/07/2020
-1528	Unassigned	8	US	0			Iowa	0	10/08/2020
-1528	Unassigned	8	US	0			Iowa	0	10/09/2020
-1528	Unassigned	14	US	0			Iowa	0	10/10/2020
-1528	Unassigned	24	US	0			Iowa	0	10/11/2020
-1529	Unassigned	10	US	0			Iowa	0	10/12/2020
-1529	Unassigned	10	US	0			Iowa	0	10/13/2020
-1529	Unassigned	11	US	0			Iowa	0	10/14/2020
-1529	Unassigned	7	US	0			Iowa	0	10/15/2020
-1530	Unassigned	15	US	0			Iowa	0	10/16/2020
-1530	Unassigned	25	US	0			Iowa	0	10/17/2020
-1530	Unassigned	25	US	0			Iowa	0	10/18/2020
-1531	Unassigned	19	US	0			Iowa	0	10/19/2020
-1531	Unassigned	5	US	0			Iowa	0	10/20/2020
-1531	Unassigned	9	US	0			Iowa	0	10/21/2020
-1531	Unassigned	14	US	0			Iowa	0	10/22/2020
-1531	Unassigned	8	US	0			Iowa	0	10/23/2020
-1531	Unassigned	14	US	0			Iowa	0	10/24/2020
-1531	Unassigned	26	US	0			Iowa	0	10/25/2020
-1531	Unassigned	11	US	0			Iowa	0	10/26/2020
-1531	Unassigned	15	US	0			Iowa	0	10/27/2020
-1532	Unassigned	9	US	0.0			Iowa	0	10/28/2020
-1532	Unassigned	6	US	0			Iowa	0	10/29/2020
-1532	Unassigned	9	US	0			Iowa	0	10/30/2020
-1532	Unassigned	34	US	0			Iowa	0	10/31/2020
-1532	Unassigned	47	US	0			Iowa	0	11/01/2020
-1532	Unassigned	52	US	0			Iowa	0	11/02/2020
-1533	Unassigned	66	US	0			Iowa	0	11/03/2020
-1533	Unassigned	100	US	0			Iowa	0	11/04/2020
-1533	Unassigned	123	US	0			Iowa	0	11/05/2020
-1533	Unassigned	112	US	0			Iowa	0	11/06/2020
-1533	Unassigned	270	US	0			Iowa	0	11/07/2020
-1533	Unassigned	236	US	0			Iowa	0	11/08/2020
-1533	Unassigned	285	US	0			Iowa	0.0	11/09/2020
-1533	Unassigned	282	US	0			Iowa	0.0	11/10/2020
-1533	Unassigned	352	US	0			Iowa	0.0	11/11/2020
-1545	Unassigned	433	US	0			Iowa	0	11/12/2020
-1545	Unassigned	445	US	0			Iowa	0	11/13/2020
-1545	Unassigned	514	US	0			Iowa	0	11/14/2020
-1545	Unassigned	539	US	0			Iowa	0	11/15/2020
-1545	Unassigned	545	US	0			Iowa	0	11/16/2020
-1545	Unassigned	468	US	0			Iowa	0	11/17/2020
-1545	Unassigned	497	US	0			Iowa	0	11/18/2020
-1545	Unassigned	520	US	0			Iowa	0	11/19/2020
-1545	Unassigned	533	US	0			Iowa	0	11/20/2020
-1545	Unassigned	558	US	0			Iowa	0	11/21/2020
-1545	Unassigned	581	US	0			Iowa	0	11/22/2020
-1545	Unassigned	595	US	0			Iowa	0	11/23/2020
-1546	Unassigned	596	US	1			Iowa	0	11/24/2020
-1546	Unassigned	617	US	0			Iowa	0	11/25/2020
-1546	Unassigned	632	US	0			Iowa	0	11/26/2020
-1546	Unassigned	647	US	0			Iowa	0	11/27/2020
-1546	Unassigned	662	US	0			Iowa	0	11/28/2020
-1546	Unassigned	669	US	0			Iowa	0	11/29/2020
-1546	Unassigned	695	US	0			Iowa	0	11/30/2020
-1546	Unassigned	696	US	0			Iowa	0	12/01/2020
-1546	Unassigned	705	US	0			Iowa	0	12/02/2020
-1546	Unassigned	709	US	0			Iowa	0	12/03/2020
-1546	Unassigned	723	US	0			Iowa	0	12/04/2020
-1546	Unassigned	736	US	0			Iowa	0	12/05/2020
-1546	Unassigned	733	US	0			Iowa	0	12/06/2020
-1546	Unassigned	733	US	0			Iowa	0	12/07/2020
-1546	Unassigned	750	US	0			Iowa	0	12/08/2020
-1546	Unassigned	717	US	0			Iowa	0	12/09/2020
-1546	Unassigned	626	US	0			Iowa	0	12/10/2020
-1546	Unassigned	593	US	0			Iowa	0	12/11/2020
-1546	Unassigned	605	US	0			Iowa	0	12/12/2020
-1546	Unassigned	608	US	0			Iowa	0	12/13/2020
-1546	Unassigned	577	US	0			Iowa	0	12/14/2020
-1546	Unassigned	569	US	0			Iowa	0	12/15/2020
-1546	Unassigned	482	US	0			Iowa	0	12/16/2020
-1546	Unassigned	466	US	0			Iowa	0	12/17/2020
-1546	Unassigned	439	US	0			Iowa	0	12/18/2020
-1546	Unassigned	451	US	0			Iowa	0	12/19/2020
-1546	Unassigned	460	US	0			Iowa	0	12/20/2020
-1546	Unassigned	492	US	0			Iowa	0	12/21/2020
-1546	Unassigned	541	US	0			Iowa	0	12/22/2020
-1546	Unassigned	580	US	0			Iowa	0	12/23/2020
-1546	Unassigned	615	US	0			Iowa	0	12/24/2020
-1546	Unassigned	620	US	0			Iowa	0	12/25/2020
-1546	Unassigned	620	US	0			Iowa	0	12/26/2020
-1546	Unassigned	624	US	0			Iowa	0	12/27/2020
-1546	Unassigned	638	US	0			Iowa	0	12/28/2020
-1546	Unassigned	656	US	0			Iowa	0	12/29/2020
-1546	Unassigned	669	US	0			Iowa	0	12/30/2020
-1546	Unassigned	694	US	0			Iowa	0	12/31/2020
-1546	Unassigned	751	US	0			Iowa	0	01/01/2021
-1546	Unassigned	756	US	0			Iowa	0	01/02/2021
-1547	Unassigned	762	US	0			Iowa	0	01/03/2021
-1547	Unassigned	780	US	0			Iowa	0	01/04/2021
-1547	Unassigned	805	US	0			Iowa	0	01/05/2021
-1547	Unassigned	809	US	0			Iowa	0	01/06/2021
-1547	Unassigned	828	US	0			Iowa	0	01/07/2021
-1547	Unassigned	834	US	0			Iowa	0	01/08/2021
-1547	Unassigned	843	US	0			Iowa	0	01/09/2021
-1547	Unassigned	848	US	0			Iowa	0	01/10/2021
-1547	Unassigned	857	US	0			Iowa	0	01/11/2021
-1547	Unassigned	861	US	0			Iowa	0	01/12/2021
-1547	Unassigned	920	US	0			Iowa	0	01/13/2021
-1547	Unassigned	937	US	0			Iowa	0	01/14/2021
-1547	Unassigned	918	US	0			Iowa	0	01/15/2021
-1547	Unassigned	921	US	0			Iowa	0	01/16/2021
-1547	Unassigned	916	US	0			Iowa	0	01/17/2021
-1547	Unassigned	923	US	0			Iowa	0	01/18/2021
-1547	Unassigned	931	US	0			Iowa	0	01/19/2021
-1547	Unassigned	941	US	0			Iowa	0	01/20/2021
-1548	Unassigned	1000	US	0			Iowa	0	01/21/2021
-1548	Unassigned	1005	US	0			Iowa	0	01/22/2021
-1548	Unassigned	1011	US	0			Iowa	0	01/23/2021
-1548	Unassigned	1016	US	0			Iowa	0	01/24/2021
-1548	Unassigned	1021	US	0			Iowa	0	01/25/2021
-1548	Unassigned	1029	US	0			Iowa	0	01/26/2021
-1548	Unassigned	1042	US	0			Iowa	0	01/27/2021
-1548	Unassigned	1059	US	0			Iowa	0	01/28/2021
-1548	Unassigned	1060	US	0			Iowa	0	01/29/2021
-1548	Unassigned	1064	US	0			Iowa	0	01/30/2021
-1548	Unassigned	1065	US	0			Iowa	0	01/31/2021
-1548	Unassigned	1071	US	0			Iowa	0	02/01/2021
-1548	Unassigned	1077	US	0			Iowa	0	02/02/2021
-1548	Unassigned	1083	US	0			Iowa	0	02/03/2021
-1548	Unassigned	1083	US	0			Iowa	0	02/04/2021
-1548	Unassigned	1085	US	0			Iowa	0	02/05/2021
-1548	Unassigned	1088	US	0			Iowa	0	02/06/2021
-1548	Unassigned	1090	US	0			Iowa	0	02/07/2021
-1548	Unassigned	1091	US	0			Iowa	0	02/08/2021
-1548	Unassigned	1090	US	0			Iowa	0	02/09/2021
-1548	Unassigned	1125	US	0			Iowa	0	02/10/2021
-1548	Unassigned	1125	US	0			Iowa	0	02/11/2021
-1548	Unassigned	1135	US	0			Iowa	0	02/12/2021
-1548	Unassigned	1138	US	0			Iowa	0	02/13/2021
-1548	Unassigned	1139	US	0			Iowa	0	02/14/2021
-1548	Unassigned	897	US	0			Iowa	0	02/15/2021
-1548	Unassigned	892	US	0			Iowa	0	02/16/2021
-1548	Unassigned	888	US	0			Iowa	0	02/17/2021
-1548	Unassigned	890	US	0			Iowa	0	02/18/2021
-1549	Unassigned	892	US	0			Iowa	0	02/19/2021
-1549	Unassigned	1327	US	0			Iowa	0	02/20/2021
-1549	Unassigned	900	US	0			Iowa	0	02/21/2021
-1549	Unassigned	683	US	0			Iowa	0	02/22/2021
-1549	Unassigned	764	US	0			Iowa	0	02/23/2021
-1549	Unassigned	909	US	0			Iowa	0	02/24/2021
-1549	Unassigned	913	US	0			Iowa	0	02/25/2021
-1549	Unassigned	960	US	0			Iowa	0	02/26/2021
-1549	Unassigned	964	US	0			Iowa	0	02/27/2021
-1549	Unassigned	966	US	0			Iowa	0	02/28/2021
-1549	Unassigned	966	US	0			Iowa	0	03/01/2021
-1549	Unassigned	971	US	0			Iowa	0	03/02/2021
-1549	Unassigned	969	US	0			Iowa	0	03/03/2021
-1549	Unassigned	970	US	0			Iowa	0	03/04/2021
-1549	Unassigned	981	US	0			Iowa	0	03/05/2021
-1549	Unassigned	978	US	0			Iowa	0	03/06/2021
-1549	Unassigned	979	US	0			Iowa		03/07/2021
-1549	Unassigned	978	US	0			Iowa		03/08/2021
-1549	Unassigned	988	US	0			Iowa		03/09/2021
-1549	Unassigned	987	US	0			Iowa		03/10/2021
-1549	Unassigned	995	US	0			Iowa		03/11/2021
-1549	Unassigned	1001	US	0			Iowa		03/12/2021
-1549	Unassigned	997	US	0			Iowa		03/13/2021
-1549	Unassigned	1003	US	0			Iowa		03/14/2021
-1549	Unassigned	1002	US	0			Iowa		03/15/2021
-1549	Unassigned	1002	US	0			Iowa		03/16/2021
-1549	Unassigned	1004	US	0			Iowa		03/17/2021
-1549	Unassigned	1005	US	0			Iowa		03/18/2021
-1549	Unassigned	1002	US	0			Iowa		03/19/2021
-1549	Unassigned	1004	US	0			Iowa		03/20/2021
-1549	Unassigned	1001	US	0			Iowa		03/21/2021
-1549	Unassigned	1007	US	0			Iowa		03/22/2021
-1549	Unassigned	1011	US	0			Iowa		03/23/2021
-1549	Unassigned	996	US	0			Iowa		03/24/2021
-1549	Unassigned	1002	US	0			Iowa		03/25/2021
-1549	Unassigned	1003	US	0			Iowa		03/26/2021
-1549	Unassigned	1011	US	0			Iowa		03/27/2021
-1549	Unassigned	1012	US	0			Iowa		03/28/2021
-1549	Unassigned	1016	US	0			Iowa		03/29/2021
-1549	Unassigned	1017	US	0			Iowa		03/30/2021
-1549	Unassigned	1018	US	0			Iowa		03/31/2021
-1549	Unassigned	1017	US	0			Iowa		04/01/2021
-1551	Unassigned	1018	US	0			Iowa		04/02/2021
-1551	Unassigned	1021	US	0			Iowa		04/03/2021
-1551	Unassigned	1022	US	0			Iowa		04/04/2021
-1551	Unassigned	1002	US	0			Iowa		04/05/2021
-1551	Unassigned	999	US	0			Iowa		04/06/2021
-1551	Unassigned	998	US	0			Iowa		04/07/2021
-1551	Unassigned	999	US	0			Iowa		04/08/2021
-1551	Unassigned	1001	US	0			Iowa		04/09/2021
-1551	Unassigned	1003	US	0			Iowa		04/10/2021
-1551	Unassigned	1003	US	0			Iowa		04/11/2021
-1551	Unassigned	1004	US	0			Iowa		04/12/2021
-1551	Unassigned	998	US	0			Iowa		04/13/2021
-1551	Unassigned	1001	US	0			Iowa		04/14/2021
-1551	Unassigned	1002	US	0			Iowa		04/15/2021
-1551	Unassigned	1002	US	0			Iowa		04/16/2021
-1551	Unassigned	1003	US	0			Iowa		04/17/2021
-1551	Unassigned	1005	US	0			Iowa		04/18/2021
-1551	Unassigned	1002	US	0			Iowa		04/19/2021
-1551	Unassigned	1006	US	0			Iowa		04/20/2021
-1551	Unassigned	1004	US	0			Iowa		04/21/2021
-1551	Unassigned	999	US	0			Iowa		04/22/2021
-1551	Unassigned	998	US	0			Iowa		04/23/2021
-1551	Unassigned	1002	US	0			Iowa		04/24/2021
-1551	Unassigned	1004	US	0			Iowa		04/25/2021
-1551	Unassigned	1004	US	0			Iowa		04/26/2021
-1551	Unassigned	1002	US	0			Iowa		04/27/2021
-1551	Unassigned	1000	US	0			Iowa		04/28/2021
-1551	Unassigned	998	US	0			Iowa		04/29/2021
-1551	Unassigned	997	US	0			Iowa		04/30/2021
-1551	Unassigned	1001	US	0			Iowa		05/01/2021
-1551	Unassigned	1004	US	0			Iowa		05/02/2021
-1551	Unassigned	1006	US	0			Iowa		05/03/2021
-1551	Unassigned	999	US	0			Iowa		05/04/2021
-1551	Unassigned	1007	US	0			Iowa		05/05/2021
-1551	Unassigned	1008	US	0			Iowa		05/06/2021
-1551	Unassigned	976	US	0			Iowa		05/07/2021
-1551	Unassigned	976	US	0			Iowa		05/08/2021
-1551	Unassigned	977	US	0			Iowa		05/09/2021
-1551	Unassigned	977	US	0			Iowa		05/10/2021
-1551	Unassigned	977	US	0			Iowa		05/11/2021
-1551	Unassigned	976	US	0			Iowa		05/12/2021
-1551	Unassigned	971	US	0			Iowa		05/13/2021
-1551	Unassigned	974	US	0			Iowa		05/14/2021
-1551	Unassigned	971	US	0			Iowa		05/15/2021
-1551	Unassigned	972	US	0			Iowa		05/16/2021
-1551	Unassigned	967	US	0			Iowa		05/17/2021
-1551	Unassigned	961	US	0			Iowa		05/18/2021
-1551	Unassigned	962	US	0			Iowa		05/19/2021
-1551	Unassigned	961	US	0			Iowa		05/20/2021
-1551	Unassigned	960	US	1			Iowa		05/21/2021
-1551	Unassigned	961	US	1			Iowa		05/22/2021
-1551	Unassigned	959	US	1			Iowa		05/23/2021
-1551	Unassigned	961	US	1			Iowa		05/24/2021
-1551	Unassigned	963	US	0			Iowa		05/25/2021
-1551	Unassigned	965	US	1			Iowa		05/26/2021
-1552	Unassigned	964	US	0			Iowa		05/27/2021
-1552	Unassigned	962	US	0			Iowa		05/28/2021
-1552	Unassigned	963	US	0			Iowa		05/29/2021
-1552	Unassigned	967	US	0			Iowa		05/30/2021
-1552	Unassigned	964	US	0			Iowa		05/31/2021
-1552	Unassigned	963	US	0			Iowa		06/01/2021
-1552	Unassigned	967	US	0			Iowa		06/02/2021
-1552	Unassigned	961	US	0			Iowa		06/03/2021
-1552	Unassigned	959	US	0			Iowa		06/04/2021
-1552	Unassigned	959	US	0			Iowa		06/05/2021
-1552	Unassigned	957	US	0			Iowa		06/06/2021
-1552	Unassigned	959	US	0			Iowa		06/07/2021
-1552	Unassigned	958	US	0			Iowa		06/08/2021
-1552	Unassigned	955	US	0			Iowa		06/09/2021
-1552	Unassigned	957	US	0			Iowa		06/10/2021
-1552	Unassigned	952	US	0			Iowa		06/11/2021
-1552	Unassigned	953	US	0			Iowa		06/12/2021
-1552	Unassigned	954	US	0			Iowa		06/13/2021
-1552	Unassigned	954	US	0			Iowa		06/14/2021
-1552	Unassigned	956	US	0			Iowa		06/15/2021
-1552	Unassigned	954	US	0			Iowa		06/16/2021
-1554	Unassigned	956	US	0			Iowa		06/17/2021
-1554	Unassigned	956	US	0			Iowa		06/18/2021
-1554	Unassigned	956	US	0			Iowa		06/19/2021
-1554	Unassigned	954	US	0			Iowa		06/20/2021
-1554	Unassigned	953	US	0			Iowa		06/21/2021
-1554	Unassigned	955	US	0			Iowa		06/22/2021
-1554	Unassigned	957	US	0			Iowa		06/23/2021
-1555	Unassigned	959	US	0			Iowa		06/24/2021
-1555	Unassigned	957	US	0			Iowa		06/25/2021
-1555	Unassigned	960	US	0			Iowa		06/26/2021
-1555	Unassigned	960	US	0			Iowa		06/27/2021
-1555	Unassigned	960	US	0			Iowa		06/28/2021
-1555	Unassigned	963	US	0			Iowa		06/29/2021
-1555	Unassigned	962	US	0			Iowa		06/30/2021
-1555	Unassigned	958	US	0			Iowa		07/01/2021
-1555	Unassigned	955	US	0			Iowa		07/02/2021
-1555	Unassigned	955	US	0			Iowa		07/03/2021
-1555	Unassigned	955	US	0			Iowa		07/04/2021
-1555	Unassigned	955	US	0			Iowa		07/05/2021
-1555	Unassigned	952	US	0			Iowa		07/06/2021
-1555	Unassigned	953	US	0			Iowa		07/07/2021
-1555	Unassigned	6	US	0			Iowa		07/08/2021
-1555	Unassigned	6	US	0			Iowa		07/09/2021
-1555	Unassigned	6	US	0			Iowa		07/10/2021
-1555	Unassigned	6	US	0			Iowa		07/11/2021
-1555	Unassigned	6	US	0			Iowa		07/12/2021
-1555	Unassigned	6	US	0			Iowa		07/13/2021
-1555	Unassigned	7	US	0			Iowa		07/14/2021
-1555	Unassigned	7	US	0			Iowa		07/15/2021
-1555	Unassigned	7	US	0			Iowa		07/16/2021
-1555	Unassigned	7	US	0			Iowa		07/17/2021
-1555	Unassigned	7	US	0			Iowa		07/18/2021
-1555	Unassigned	7	US	0			Iowa		07/19/2021
-1555	Unassigned	7	US	0			Iowa		07/20/2021
-1555	Unassigned	9	US	0			Iowa		07/21/2021
-1555	Unassigned	9	US	0			Iowa		07/22/2021
-1555	Unassigned	9	US	0			Iowa		07/23/2021
-1555	Unassigned	9	US	0			Iowa		07/24/2021
-1555	Unassigned	9	US	0			Iowa		07/25/2021
-1555	Unassigned	9	US	0			Iowa		07/26/2021
-1555	Unassigned	9	US	0			Iowa		07/27/2021
-1555	Unassigned	8	US	0			Iowa		07/28/2021
-1555	Unassigned	8	US	0			Iowa		07/29/2021
-1555	Unassigned	8	US	0			Iowa		07/30/2021
-1555	Unassigned	8	US	0			Iowa		07/31/2021
-1555	Unassigned	8	US	0			Iowa		08/01/2021
-1555	Unassigned	8	US	0			Iowa		08/02/2021
-1555	Unassigned	8	US	0			Iowa		08/03/2021
-1555	Unassigned	8	US	0			Iowa		08/04/2021
-1555	Unassigned	8	US	0			Iowa		08/05/2021
-1555	Unassigned	8	US	0			Iowa		08/06/2021
-1555	Unassigned	8	US	0			Iowa		08/07/2021
-1555	Unassigned	8	US	0			Iowa		08/08/2021
-1555	Unassigned	8	US	0			Iowa		08/09/2021
-1555	Unassigned	8	US	0			Iowa		08/10/2021
-1555	Unassigned	15	US	0			Iowa		08/11/2021
-1555	Unassigned	15	US	0			Iowa		08/12/2021
-1555	Unassigned	15	US	0			Iowa		08/13/2021
-1555	Unassigned	15	US	0			Iowa		08/14/2021
-1555	Unassigned	15	US	0			Iowa		08/15/2021
-1555	Unassigned	15	US	0			Iowa		08/16/2021
-1555	Unassigned	15	US	0			Iowa		08/17/2021
-1555	Unassigned	8	US	0			Iowa		08/18/2021
-1555	Unassigned	8	US	0			Iowa		08/19/2021
-1555	Unassigned	8	US	0			Iowa		08/20/2021
-1555	Unassigned	8	US	0			Iowa		08/21/2021
-1555	Unassigned	8	US	0			Iowa		08/22/2021
-1555	Unassigned	8	US	0			Iowa		08/23/2021
-1555	Unassigned	8	US	0			Iowa		08/24/2021
-1555	Unassigned	7	US	0			Iowa		08/25/2021
-1555	Unassigned	7	US	0			Iowa		08/26/2021
-1555	Unassigned	7	US	0			Iowa		08/27/2021
-1555	Unassigned	7	US	0			Iowa		08/28/2021
-1555	Unassigned	7	US	0			Iowa		08/29/2021
-1555	Unassigned	7	US	0			Iowa		08/30/2021
-1555	Unassigned	7	US	0			Iowa		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2863	Iowa	US	03/24/2020	0.0	0.0	2	0	0	Unassigned
+1938	Iowa	US	03/31/2020	0.0	0.0	2	1	0	Unassigned
+1983	Iowa	US	04/01/2020	0.0	0.0	0	1	0	Unassigned
+2055	Iowa	US	04/02/2020			0	1	0	Unassigned
+2101	Iowa	US	04/03/2020			0	1	0	Unassigned
+2153	Iowa	US	04/04/2020			0	3	0	Unassigned
+2227	Iowa	US	04/05/2020			0	0	0	Unassigned
+2265	Iowa	US	04/06/2020			0	0	0	Unassigned
+2312	Iowa	US	04/07/2020			0	1	0	Unassigned
+2335	Iowa	US	04/08/2020			0	1	0	Unassigned
+2361	Iowa	US	04/09/2020			0	3	0	Unassigned
+2385	Iowa	US	04/10/2020			0	3	0	Unassigned
+2411	Iowa	US	04/11/2020			0	6	0	Unassigned
+2433	Iowa	US	04/12/2020			0	6	0	Unassigned
+2447	Iowa	US	04/13/2020			0	3	0	Unassigned
+2457	Iowa	US	04/14/2020			0	6	0	Unassigned
+2469	Iowa	US	04/15/2020			0	0	0	Unassigned
+2483	Iowa	US	04/16/2020			0	0	0	Unassigned
+2485	Iowa	US	04/17/2020			1	0	0	Unassigned
+2492	Iowa	US	04/18/2020			1	0	0	Unassigned
+2509	Iowa	US	04/19/2020			7	0	0	Unassigned
+2517	Iowa	US	04/20/2020			2	0	0	Unassigned
+2526	Iowa	US	04/21/2020			21	0	0	Unassigned
+2533	Iowa	US	04/22/2020			4	0	0	Unassigned
+2550	Iowa	US	04/23/2020			3	0	0	Unassigned
+2556	Iowa	US	04/24/2020			4	0	0	Unassigned
+2561	Iowa	US	04/25/2020			5	0	0	Unassigned
+2569	Iowa	US	04/26/2020			6	0	0	Unassigned
+2576	Iowa	US	04/27/2020			7	0	0	Unassigned
+2585	Iowa	US	04/28/2020			13	0	0	Unassigned
+2590	Iowa	US	04/29/2020			20	0	0	Unassigned
+2596	Iowa	US	04/30/2020			24	0	0	Unassigned
+2607	Iowa	US	05/01/2020			63	0	0	Unassigned
+2610	Iowa	US	05/02/2020			95	0	0	Unassigned
+2615	Iowa	US	05/03/2020			124	0	0	Unassigned
+2618	Iowa	US	05/04/2020			95	0	0	Unassigned
+2626	Iowa	US	05/05/2020			0	0	0	Unassigned
+2632	Iowa	US	05/06/2020			13	0	0	Unassigned
+2639	Iowa	US	05/07/2020			8	0	0	Unassigned
+2646	Iowa	US	05/08/2020			17	0	0	Unassigned
+2648	Iowa	US	05/09/2020			3	0	0	Unassigned
+2650	Iowa	US	05/10/2020			0	0	0	Unassigned
+2650	Iowa	US	05/11/2020			5	0	0	Unassigned
+2653	Iowa	US	05/12/2020			6	0	0	Unassigned
+2654	Iowa	US	05/13/2020			5	0	0	Unassigned
+2656	Iowa	US	05/14/2020			8	0	0	Unassigned
+2661	Iowa	US	05/15/2020			10	0	0	Unassigned
+2665	Iowa	US	05/16/2020			15	0	0	Unassigned
+2668	Iowa	US	05/17/2020			8	0	0	Unassigned
+2670	Iowa	US	05/18/2020			9	0	0	Unassigned
+2674	Iowa	US	05/19/2020			5	0	0	Unassigned
+2680	Iowa	US	05/20/2020			8	0	0	Unassigned
+2682	Iowa	US	05/21/2020			14	0	0	Unassigned
+2689	Iowa	US	05/22/2020			6	0	0	Unassigned
+2691	Iowa	US	05/23/2020			2	0	0	Unassigned
+2694	Iowa	US	05/24/2020			3	0	0	Unassigned
+2695	Iowa	US	05/25/2020			6	0	0	Unassigned
+2696	Iowa	US	05/26/2020			2	0	0	Unassigned
+2699	Iowa	US	05/27/2020			8	0	0	Unassigned
+2702	Iowa	US	05/28/2020			1	0	0	Unassigned
+2705	Iowa	US	05/29/2020			1	0	0	Unassigned
+2707	Iowa	US	05/30/2020			6	0	0	Unassigned
+2708	Iowa	US	05/31/2020			1	0	0	Unassigned
+2710	Iowa	US	06/01/2020			1	0	0	Unassigned
+2715	Iowa	US	06/02/2020			3	0	0	Unassigned
+2717	Iowa	US	06/03/2020			0	0	0	Unassigned
+2718	Iowa	US	06/04/2020			0	0	0	Unassigned
+2722	Iowa	US	06/05/2020			2	0	0	Unassigned
+2724	Iowa	US	06/06/2020			9	0	0	Unassigned
+2724	Iowa	US	06/07/2020			4	0	0	Unassigned
+2724	Iowa	US	06/08/2020			4	0	0	Unassigned
+2726	Iowa	US	06/09/2020			4	0	0	Unassigned
+2728	Iowa	US	06/10/2020			4	0	0	Unassigned
+2730	Iowa	US	06/11/2020			8	0	0	Unassigned
+2744	Iowa	US	06/12/2020			4	0	0	Unassigned
+2747	Iowa	US	06/13/2020			5	0	0	Unassigned
+2747	Iowa	US	06/14/2020			5	0	0	Unassigned
+2751	Iowa	US	06/15/2020			6	0	0	Unassigned
+2749	Iowa	US	06/16/2020			5	0	0	Unassigned
+2751	Iowa	US	06/17/2020			5	0	0	Unassigned
+2751	Iowa	US	06/18/2020			7	0	0	Unassigned
+2752	Iowa	US	06/19/2020			9	0	0	Unassigned
+2756	Iowa	US	06/20/2020			5	0	0	Unassigned
+2756	Iowa	US	06/21/2020			5	0	0	Unassigned
+2759	Iowa	US	06/22/2020			8	0	0	Unassigned
+2764	Iowa	US	06/23/2020			5	0	0	Unassigned
+2776	Iowa	US	06/24/2020			5	0	0	Unassigned
+2781	Iowa	US	06/25/2020			9	0	0	Unassigned
+2782	Iowa	US	06/26/2020			4	0	0	Unassigned
+2783	Iowa	US	06/27/2020			4	0	0	Unassigned
+2783	Iowa	US	06/28/2020			6	0	0	Unassigned
+2785	Iowa	US	06/29/2020			6	0	0	Unassigned
+2787	Iowa	US	06/30/2020			3	0	0	Unassigned
+2789	Iowa	US	07/01/2020			4	0	0	Unassigned
+2792	Iowa	US	07/02/2020			7	0	0	Unassigned
+2797	Iowa	US	07/03/2020			7	0	0	Unassigned
+2798	Iowa	US	07/04/2020			16	0	0	Unassigned
+2799	Iowa	US	07/05/2020			16	0	0	Unassigned
+2802	Iowa	US	07/06/2020			17	0	0	Unassigned
+2803	Iowa	US	07/07/2020			16	0	0	Unassigned
+2806	Iowa	US	07/08/2020			20	0	0	Unassigned
+2805	Iowa	US	07/09/2020			22	0	0	Unassigned
+2809	Iowa	US	07/10/2020			27	0	0	Unassigned
+2810	Iowa	US	07/11/2020			35	0	0	Unassigned
+2812	Iowa	US	07/12/2020			35	0	0	Unassigned
+2813	Iowa	US	07/13/2020			35	0	0	Unassigned
+2819	Iowa	US	07/14/2020			31	0	0	Unassigned
+2820	Iowa	US	07/15/2020			39	0	0	Unassigned
+2822	Iowa	US	07/16/2020			43	0	0	Unassigned
+2822	Iowa	US	07/17/2020			34	0	0	Unassigned
+2895	Iowa	US	07/18/2020			29	0	0	Unassigned
+2895	Iowa	US	07/19/2020			29	0	0	Unassigned
+2819	Iowa	US	07/20/2020			22	0	0	Unassigned
+2899	Iowa	US	07/21/2020			16	0	0	Unassigned
+2900	Iowa	US	07/22/2020			13	0	0	Unassigned
+2903	Iowa	US	07/23/2020			1	0	0	Unassigned
+2902	Iowa	US	07/24/2020			3	0	0	Unassigned
+2903	Iowa	US	07/25/2020			8	0	0	Unassigned
+2904	Iowa	US	07/26/2020			5	0	0	Unassigned
+2904	Iowa	US	07/27/2020			2	0	0	Unassigned
+2904	Iowa	US	07/28/2020			8	0	0	Unassigned
+2908	Iowa	US	07/29/2020			1	0	0	Unassigned
+2908	Iowa	US	07/30/2020			7	0	0	Unassigned
+2910	Iowa	US	07/31/2020			5	0	0	Unassigned
+2910	Iowa	US	08/01/2020			5	0	0	Unassigned
+2910	Iowa	US	08/02/2020			7	0	0	Unassigned
+2910	Iowa	US	08/03/2020			8	0	0	Unassigned
+2911	Iowa	US	08/04/2020			0	0	0	Unassigned
+2915	Iowa	US	08/05/2020			4	0	0	Unassigned
+2915	Iowa	US	08/06/2020			3	0	0	Unassigned
+2915	Iowa	US	08/07/2020			1	0	0	Unassigned
+2915	Iowa	US	08/08/2020			7	0	0	Unassigned
+2915	Iowa	US	08/09/2020			6	0	0	Unassigned
+2915	Iowa	US	08/10/2020			3	0	0	Unassigned
+1571	Iowa	US	08/11/2020			1	0	0	Unassigned
+1525	Iowa	US	08/12/2020			7	0	0	Unassigned
+1526	Iowa	US	08/13/2020			2	0	0	Unassigned
+1526	Iowa	US	08/14/2020			5	0	0	Unassigned
+1526	Iowa	US	08/15/2020			1	0	0	Unassigned
+1526	Iowa	US	08/16/2020			0	0	0	Unassigned
+1526	Iowa	US	08/17/2020			6	0	0	Unassigned
+1526	Iowa	US	08/18/2020			3	0	0	Unassigned
+1526	Iowa	US	08/19/2020			4	0	0	Unassigned
+1526	Iowa	US	08/20/2020			5	0	0	Unassigned
+1526	Iowa	US	08/21/2020			8	0	0	Unassigned
+1527	Iowa	US	08/22/2020			4	0	0	Unassigned
+1527	Iowa	US	08/23/2020			7	0	0	Unassigned
+1527	Iowa	US	08/24/2020			16	0	0	Unassigned
+1527	Iowa	US	08/25/2020			12	0	0	Unassigned
+1527	Iowa	US	08/26/2020			17	0	0	Unassigned
+1527	Iowa	US	08/27/2020			11	0	0	Unassigned
+1527	Iowa	US	08/28/2020			16	0	0	Unassigned
+1527	Iowa	US	08/29/2020			11	0	0	Unassigned
+1527	Iowa	US	08/30/2020			19	0	0	Unassigned
+1527	Iowa	US	08/31/2020			9	0	0	Unassigned
+1527	Iowa	US	09/01/2020			3	0	0	Unassigned
+1527	Iowa	US	09/02/2020			8	0	0	Unassigned
+1527	Iowa	US	09/03/2020			21	0	0	Unassigned
+1527	Iowa	US	09/04/2020			29	0	0	Unassigned
+1527	Iowa	US	09/05/2020			16	0	0	Unassigned
+1527	Iowa	US	09/06/2020			8	0	0	Unassigned
+1527	Iowa	US	09/07/2020			1	0	0	Unassigned
+1527	Iowa	US	09/08/2020			2	0	0	Unassigned
+1527	Iowa	US	09/09/2020			2	0	0	Unassigned
+1527	Iowa	US	09/10/2020			3	0	0	Unassigned
+1527	Iowa	US	09/11/2020			20	0	0	Unassigned
+1527	Iowa	US	09/12/2020			34	0	0	Unassigned
+1527	Iowa	US	09/13/2020			12	0	0	Unassigned
+1527	Iowa	US	09/14/2020			13	0	0	Unassigned
+1527	Iowa	US	09/15/2020			19	0	0	Unassigned
+1527	Iowa	US	09/16/2020			22	0	0	Unassigned
+1527	Iowa	US	09/17/2020			16	0	0	Unassigned
+1527	Iowa	US	09/18/2020			15	0	0	Unassigned
+1527	Iowa	US	09/19/2020			23	0	0	Unassigned
+1527	Iowa	US	09/20/2020			16	0	0	Unassigned
+1528	Iowa	US	09/21/2020			7	0	0	Unassigned
+1528	Iowa	US	09/22/2020			8	0	0	Unassigned
+1528	Iowa	US	09/23/2020			4	0	0	Unassigned
+1528	Iowa	US	09/24/2020			4	0	0	Unassigned
+1528	Iowa	US	09/25/2020			7	0	0	Unassigned
+1528	Iowa	US	09/26/2020			17	0	0	Unassigned
+1528	Iowa	US	09/27/2020			23	0	0	Unassigned
+1528	Iowa	US	09/28/2020			14	0	0	Unassigned
+1528	Iowa	US	09/29/2020			14	0	0	Unassigned
+1528	Iowa	US	09/30/2020			4	0	0	Unassigned
+1528	Iowa	US	10/01/2020			19	0	0	Unassigned
+1528	Iowa	US	10/02/2020			5	0	0	Unassigned
+1528	Iowa	US	10/03/2020			12	0	0	Unassigned
+1528	Iowa	US	10/04/2020			16	0	0	Unassigned
+1528	Iowa	US	10/05/2020			3	0	0	Unassigned
+1528	Iowa	US	10/06/2020			1	0	0	Unassigned
+1528	Iowa	US	10/07/2020			7	0	0	Unassigned
+1528	Iowa	US	10/08/2020			8	0	0	Unassigned
+1528	Iowa	US	10/09/2020			8	0	0	Unassigned
+1528	Iowa	US	10/10/2020			14	0	0	Unassigned
+1528	Iowa	US	10/11/2020			24	0	0	Unassigned
+1529	Iowa	US	10/12/2020			10	0	0	Unassigned
+1529	Iowa	US	10/13/2020			10	0	0	Unassigned
+1529	Iowa	US	10/14/2020			11	0	0	Unassigned
+1529	Iowa	US	10/15/2020			7	0	0	Unassigned
+1530	Iowa	US	10/16/2020			15	0	0	Unassigned
+1530	Iowa	US	10/17/2020			25	0	0	Unassigned
+1530	Iowa	US	10/18/2020			25	0	0	Unassigned
+1531	Iowa	US	10/19/2020			19	0	0	Unassigned
+1531	Iowa	US	10/20/2020			5	0	0	Unassigned
+1531	Iowa	US	10/21/2020			9	0	0	Unassigned
+1531	Iowa	US	10/22/2020			14	0	0	Unassigned
+1531	Iowa	US	10/23/2020			8	0	0	Unassigned
+1531	Iowa	US	10/24/2020			14	0	0	Unassigned
+1531	Iowa	US	10/25/2020			26	0	0	Unassigned
+1531	Iowa	US	10/26/2020			11	0	0	Unassigned
+1531	Iowa	US	10/27/2020			15	0	0	Unassigned
+1532	Iowa	US	10/28/2020			9	0.0	0	Unassigned
+1532	Iowa	US	10/29/2020			6	0	0	Unassigned
+1532	Iowa	US	10/30/2020			9	0	0	Unassigned
+1532	Iowa	US	10/31/2020			34	0	0	Unassigned
+1532	Iowa	US	11/01/2020			47	0	0	Unassigned
+1532	Iowa	US	11/02/2020			52	0	0	Unassigned
+1533	Iowa	US	11/03/2020			66	0	0	Unassigned
+1533	Iowa	US	11/04/2020			100	0	0	Unassigned
+1533	Iowa	US	11/05/2020			123	0	0	Unassigned
+1533	Iowa	US	11/06/2020			112	0	0	Unassigned
+1533	Iowa	US	11/07/2020			270	0	0	Unassigned
+1533	Iowa	US	11/08/2020			236	0	0	Unassigned
+1533	Iowa	US	11/09/2020			285	0	0.0	Unassigned
+1533	Iowa	US	11/10/2020			282	0	0.0	Unassigned
+1533	Iowa	US	11/11/2020			352	0	0.0	Unassigned
+1545	Iowa	US	11/12/2020			433	0	0	Unassigned
+1545	Iowa	US	11/13/2020			445	0	0	Unassigned
+1545	Iowa	US	11/14/2020			514	0	0	Unassigned
+1545	Iowa	US	11/15/2020			539	0	0	Unassigned
+1545	Iowa	US	11/16/2020			545	0	0	Unassigned
+1545	Iowa	US	11/17/2020			468	0	0	Unassigned
+1545	Iowa	US	11/18/2020			497	0	0	Unassigned
+1545	Iowa	US	11/19/2020			520	0	0	Unassigned
+1545	Iowa	US	11/20/2020			533	0	0	Unassigned
+1545	Iowa	US	11/21/2020			558	0	0	Unassigned
+1545	Iowa	US	11/22/2020			581	0	0	Unassigned
+1545	Iowa	US	11/23/2020			595	0	0	Unassigned
+1546	Iowa	US	11/24/2020			596	1	0	Unassigned
+1546	Iowa	US	11/25/2020			617	0	0	Unassigned
+1546	Iowa	US	11/26/2020			632	0	0	Unassigned
+1546	Iowa	US	11/27/2020			647	0	0	Unassigned
+1546	Iowa	US	11/28/2020			662	0	0	Unassigned
+1546	Iowa	US	11/29/2020			669	0	0	Unassigned
+1546	Iowa	US	11/30/2020			695	0	0	Unassigned
+1546	Iowa	US	12/01/2020			696	0	0	Unassigned
+1546	Iowa	US	12/02/2020			705	0	0	Unassigned
+1546	Iowa	US	12/03/2020			709	0	0	Unassigned
+1546	Iowa	US	12/04/2020			723	0	0	Unassigned
+1546	Iowa	US	12/05/2020			736	0	0	Unassigned
+1546	Iowa	US	12/06/2020			733	0	0	Unassigned
+1546	Iowa	US	12/07/2020			733	0	0	Unassigned
+1546	Iowa	US	12/08/2020			750	0	0	Unassigned
+1546	Iowa	US	12/09/2020			717	0	0	Unassigned
+1546	Iowa	US	12/10/2020			626	0	0	Unassigned
+1546	Iowa	US	12/11/2020			593	0	0	Unassigned
+1546	Iowa	US	12/12/2020			605	0	0	Unassigned
+1546	Iowa	US	12/13/2020			608	0	0	Unassigned
+1546	Iowa	US	12/14/2020			577	0	0	Unassigned
+1546	Iowa	US	12/15/2020			569	0	0	Unassigned
+1546	Iowa	US	12/16/2020			482	0	0	Unassigned
+1546	Iowa	US	12/17/2020			466	0	0	Unassigned
+1546	Iowa	US	12/18/2020			439	0	0	Unassigned
+1546	Iowa	US	12/19/2020			451	0	0	Unassigned
+1546	Iowa	US	12/20/2020			460	0	0	Unassigned
+1546	Iowa	US	12/21/2020			492	0	0	Unassigned
+1546	Iowa	US	12/22/2020			541	0	0	Unassigned
+1546	Iowa	US	12/23/2020			580	0	0	Unassigned
+1546	Iowa	US	12/24/2020			615	0	0	Unassigned
+1546	Iowa	US	12/25/2020			620	0	0	Unassigned
+1546	Iowa	US	12/26/2020			620	0	0	Unassigned
+1546	Iowa	US	12/27/2020			624	0	0	Unassigned
+1546	Iowa	US	12/28/2020			638	0	0	Unassigned
+1546	Iowa	US	12/29/2020			656	0	0	Unassigned
+1546	Iowa	US	12/30/2020			669	0	0	Unassigned
+1546	Iowa	US	12/31/2020			694	0	0	Unassigned
+1546	Iowa	US	01/01/2021			751	0	0	Unassigned
+1546	Iowa	US	01/02/2021			756	0	0	Unassigned
+1547	Iowa	US	01/03/2021			762	0	0	Unassigned
+1547	Iowa	US	01/04/2021			780	0	0	Unassigned
+1547	Iowa	US	01/05/2021			805	0	0	Unassigned
+1547	Iowa	US	01/06/2021			809	0	0	Unassigned
+1547	Iowa	US	01/07/2021			828	0	0	Unassigned
+1547	Iowa	US	01/08/2021			834	0	0	Unassigned
+1547	Iowa	US	01/09/2021			843	0	0	Unassigned
+1547	Iowa	US	01/10/2021			848	0	0	Unassigned
+1547	Iowa	US	01/11/2021			857	0	0	Unassigned
+1547	Iowa	US	01/12/2021			861	0	0	Unassigned
+1547	Iowa	US	01/13/2021			920	0	0	Unassigned
+1547	Iowa	US	01/14/2021			937	0	0	Unassigned
+1547	Iowa	US	01/15/2021			918	0	0	Unassigned
+1547	Iowa	US	01/16/2021			921	0	0	Unassigned
+1547	Iowa	US	01/17/2021			916	0	0	Unassigned
+1547	Iowa	US	01/18/2021			923	0	0	Unassigned
+1547	Iowa	US	01/19/2021			931	0	0	Unassigned
+1547	Iowa	US	01/20/2021			941	0	0	Unassigned
+1548	Iowa	US	01/21/2021			1000	0	0	Unassigned
+1548	Iowa	US	01/22/2021			1005	0	0	Unassigned
+1548	Iowa	US	01/23/2021			1011	0	0	Unassigned
+1548	Iowa	US	01/24/2021			1016	0	0	Unassigned
+1548	Iowa	US	01/25/2021			1021	0	0	Unassigned
+1548	Iowa	US	01/26/2021			1029	0	0	Unassigned
+1548	Iowa	US	01/27/2021			1042	0	0	Unassigned
+1548	Iowa	US	01/28/2021			1059	0	0	Unassigned
+1548	Iowa	US	01/29/2021			1060	0	0	Unassigned
+1548	Iowa	US	01/30/2021			1064	0	0	Unassigned
+1548	Iowa	US	01/31/2021			1065	0	0	Unassigned
+1548	Iowa	US	02/01/2021			1071	0	0	Unassigned
+1548	Iowa	US	02/02/2021			1077	0	0	Unassigned
+1548	Iowa	US	02/03/2021			1083	0	0	Unassigned
+1548	Iowa	US	02/04/2021			1083	0	0	Unassigned
+1548	Iowa	US	02/05/2021			1085	0	0	Unassigned
+1548	Iowa	US	02/06/2021			1088	0	0	Unassigned
+1548	Iowa	US	02/07/2021			1090	0	0	Unassigned
+1548	Iowa	US	02/08/2021			1091	0	0	Unassigned
+1548	Iowa	US	02/09/2021			1090	0	0	Unassigned
+1548	Iowa	US	02/10/2021			1125	0	0	Unassigned
+1548	Iowa	US	02/11/2021			1125	0	0	Unassigned
+1548	Iowa	US	02/12/2021			1135	0	0	Unassigned
+1548	Iowa	US	02/13/2021			1138	0	0	Unassigned
+1548	Iowa	US	02/14/2021			1139	0	0	Unassigned
+1548	Iowa	US	02/15/2021			897	0	0	Unassigned
+1548	Iowa	US	02/16/2021			892	0	0	Unassigned
+1548	Iowa	US	02/17/2021			888	0	0	Unassigned
+1548	Iowa	US	02/18/2021			890	0	0	Unassigned
+1549	Iowa	US	02/19/2021			892	0	0	Unassigned
+1549	Iowa	US	02/20/2021			1327	0	0	Unassigned
+1549	Iowa	US	02/21/2021			900	0	0	Unassigned
+1549	Iowa	US	02/22/2021			683	0	0	Unassigned
+1549	Iowa	US	02/23/2021			764	0	0	Unassigned
+1549	Iowa	US	02/24/2021			909	0	0	Unassigned
+1549	Iowa	US	02/25/2021			913	0	0	Unassigned
+1549	Iowa	US	02/26/2021			960	0	0	Unassigned
+1549	Iowa	US	02/27/2021			964	0	0	Unassigned
+1549	Iowa	US	02/28/2021			966	0	0	Unassigned
+1549	Iowa	US	03/01/2021			966	0	0	Unassigned
+1549	Iowa	US	03/02/2021			971	0	0	Unassigned
+1549	Iowa	US	03/03/2021			969	0	0	Unassigned
+1549	Iowa	US	03/04/2021			970	0	0	Unassigned
+1549	Iowa	US	03/05/2021			981	0	0	Unassigned
+1549	Iowa	US	03/06/2021			978	0	0	Unassigned
+1549	Iowa	US	03/07/2021			979	0		Unassigned
+1549	Iowa	US	03/08/2021			978	0		Unassigned
+1549	Iowa	US	03/09/2021			988	0		Unassigned
+1549	Iowa	US	03/10/2021			987	0		Unassigned
+1549	Iowa	US	03/11/2021			995	0		Unassigned
+1549	Iowa	US	03/12/2021			1001	0		Unassigned
+1549	Iowa	US	03/13/2021			997	0		Unassigned
+1549	Iowa	US	03/14/2021			1003	0		Unassigned
+1549	Iowa	US	03/15/2021			1002	0		Unassigned
+1549	Iowa	US	03/16/2021			1002	0		Unassigned
+1549	Iowa	US	03/17/2021			1004	0		Unassigned
+1549	Iowa	US	03/18/2021			1005	0		Unassigned
+1549	Iowa	US	03/19/2021			1002	0		Unassigned
+1549	Iowa	US	03/20/2021			1004	0		Unassigned
+1549	Iowa	US	03/21/2021			1001	0		Unassigned
+1549	Iowa	US	03/22/2021			1007	0		Unassigned
+1549	Iowa	US	03/23/2021			1011	0		Unassigned
+1549	Iowa	US	03/24/2021			996	0		Unassigned
+1549	Iowa	US	03/25/2021			1002	0		Unassigned
+1549	Iowa	US	03/26/2021			1003	0		Unassigned
+1549	Iowa	US	03/27/2021			1011	0		Unassigned
+1549	Iowa	US	03/28/2021			1012	0		Unassigned
+1549	Iowa	US	03/29/2021			1016	0		Unassigned
+1549	Iowa	US	03/30/2021			1017	0		Unassigned
+1549	Iowa	US	03/31/2021			1018	0		Unassigned
+1549	Iowa	US	04/01/2021			1017	0		Unassigned
+1551	Iowa	US	04/02/2021			1018	0		Unassigned
+1551	Iowa	US	04/03/2021			1021	0		Unassigned
+1551	Iowa	US	04/04/2021			1022	0		Unassigned
+1551	Iowa	US	04/05/2021			1002	0		Unassigned
+1551	Iowa	US	04/06/2021			999	0		Unassigned
+1551	Iowa	US	04/07/2021			998	0		Unassigned
+1551	Iowa	US	04/08/2021			999	0		Unassigned
+1551	Iowa	US	04/09/2021			1001	0		Unassigned
+1551	Iowa	US	04/10/2021			1003	0		Unassigned
+1551	Iowa	US	04/11/2021			1003	0		Unassigned
+1551	Iowa	US	04/12/2021			1004	0		Unassigned
+1551	Iowa	US	04/13/2021			998	0		Unassigned
+1551	Iowa	US	04/14/2021			1001	0		Unassigned
+1551	Iowa	US	04/15/2021			1002	0		Unassigned
+1551	Iowa	US	04/16/2021			1002	0		Unassigned
+1551	Iowa	US	04/17/2021			1003	0		Unassigned
+1551	Iowa	US	04/18/2021			1005	0		Unassigned
+1551	Iowa	US	04/19/2021			1002	0		Unassigned
+1551	Iowa	US	04/20/2021			1006	0		Unassigned
+1551	Iowa	US	04/21/2021			1004	0		Unassigned
+1551	Iowa	US	04/22/2021			999	0		Unassigned
+1551	Iowa	US	04/23/2021			998	0		Unassigned
+1551	Iowa	US	04/24/2021			1002	0		Unassigned
+1551	Iowa	US	04/25/2021			1004	0		Unassigned
+1551	Iowa	US	04/26/2021			1004	0		Unassigned
+1551	Iowa	US	04/27/2021			1002	0		Unassigned
+1551	Iowa	US	04/28/2021			1000	0		Unassigned
+1551	Iowa	US	04/29/2021			998	0		Unassigned
+1551	Iowa	US	04/30/2021			997	0		Unassigned
+1551	Iowa	US	05/01/2021			1001	0		Unassigned
+1551	Iowa	US	05/02/2021			1004	0		Unassigned
+1551	Iowa	US	05/03/2021			1006	0		Unassigned
+1551	Iowa	US	05/04/2021			999	0		Unassigned
+1551	Iowa	US	05/05/2021			1007	0		Unassigned
+1551	Iowa	US	05/06/2021			1008	0		Unassigned
+1551	Iowa	US	05/07/2021			976	0		Unassigned
+1551	Iowa	US	05/08/2021			976	0		Unassigned
+1551	Iowa	US	05/09/2021			977	0		Unassigned
+1551	Iowa	US	05/10/2021			977	0		Unassigned
+1551	Iowa	US	05/11/2021			977	0		Unassigned
+1551	Iowa	US	05/12/2021			976	0		Unassigned
+1551	Iowa	US	05/13/2021			971	0		Unassigned
+1551	Iowa	US	05/14/2021			974	0		Unassigned
+1551	Iowa	US	05/15/2021			971	0		Unassigned
+1551	Iowa	US	05/16/2021			972	0		Unassigned
+1551	Iowa	US	05/17/2021			967	0		Unassigned
+1551	Iowa	US	05/18/2021			961	0		Unassigned
+1551	Iowa	US	05/19/2021			962	0		Unassigned
+1551	Iowa	US	05/20/2021			961	0		Unassigned
+1551	Iowa	US	05/21/2021			960	1		Unassigned
+1551	Iowa	US	05/22/2021			961	1		Unassigned
+1551	Iowa	US	05/23/2021			959	1		Unassigned
+1551	Iowa	US	05/24/2021			961	1		Unassigned
+1551	Iowa	US	05/25/2021			963	0		Unassigned
+1551	Iowa	US	05/26/2021			965	1		Unassigned
+1552	Iowa	US	05/27/2021			964	0		Unassigned
+1552	Iowa	US	05/28/2021			962	0		Unassigned
+1552	Iowa	US	05/29/2021			963	0		Unassigned
+1552	Iowa	US	05/30/2021			967	0		Unassigned
+1552	Iowa	US	05/31/2021			964	0		Unassigned
+1552	Iowa	US	06/01/2021			963	0		Unassigned
+1552	Iowa	US	06/02/2021			967	0		Unassigned
+1552	Iowa	US	06/03/2021			961	0		Unassigned
+1552	Iowa	US	06/04/2021			959	0		Unassigned
+1552	Iowa	US	06/05/2021			959	0		Unassigned
+1552	Iowa	US	06/06/2021			957	0		Unassigned
+1552	Iowa	US	06/07/2021			959	0		Unassigned
+1552	Iowa	US	06/08/2021			958	0		Unassigned
+1552	Iowa	US	06/09/2021			955	0		Unassigned
+1552	Iowa	US	06/10/2021			957	0		Unassigned
+1552	Iowa	US	06/11/2021			952	0		Unassigned
+1552	Iowa	US	06/12/2021			953	0		Unassigned
+1552	Iowa	US	06/13/2021			954	0		Unassigned
+1552	Iowa	US	06/14/2021			954	0		Unassigned
+1552	Iowa	US	06/15/2021			956	0		Unassigned
+1552	Iowa	US	06/16/2021			954	0		Unassigned
+1554	Iowa	US	06/17/2021			956	0		Unassigned
+1554	Iowa	US	06/18/2021			956	0		Unassigned
+1554	Iowa	US	06/19/2021			956	0		Unassigned
+1554	Iowa	US	06/20/2021			954	0		Unassigned
+1554	Iowa	US	06/21/2021			953	0		Unassigned
+1554	Iowa	US	06/22/2021			955	0		Unassigned
+1554	Iowa	US	06/23/2021			957	0		Unassigned
+1555	Iowa	US	06/24/2021			959	0		Unassigned
+1555	Iowa	US	06/25/2021			957	0		Unassigned
+1555	Iowa	US	06/26/2021			960	0		Unassigned
+1555	Iowa	US	06/27/2021			960	0		Unassigned
+1555	Iowa	US	06/28/2021			960	0		Unassigned
+1555	Iowa	US	06/29/2021			963	0		Unassigned
+1555	Iowa	US	06/30/2021			962	0		Unassigned
+1555	Iowa	US	07/01/2021			958	0		Unassigned
+1555	Iowa	US	07/02/2021			955	0		Unassigned
+1555	Iowa	US	07/03/2021			955	0		Unassigned
+1555	Iowa	US	07/04/2021			955	0		Unassigned
+1555	Iowa	US	07/05/2021			955	0		Unassigned
+1555	Iowa	US	07/06/2021			952	0		Unassigned
+1555	Iowa	US	07/07/2021			953	0		Unassigned
+1555	Iowa	US	07/08/2021			6	0		Unassigned
+1555	Iowa	US	07/09/2021			6	0		Unassigned
+1555	Iowa	US	07/10/2021			6	0		Unassigned
+1555	Iowa	US	07/11/2021			6	0		Unassigned
+1555	Iowa	US	07/12/2021			6	0		Unassigned
+1555	Iowa	US	07/13/2021			6	0		Unassigned
+1555	Iowa	US	07/14/2021			7	0		Unassigned
+1555	Iowa	US	07/15/2021			7	0		Unassigned
+1555	Iowa	US	07/16/2021			7	0		Unassigned
+1555	Iowa	US	07/17/2021			7	0		Unassigned
+1555	Iowa	US	07/18/2021			7	0		Unassigned
+1555	Iowa	US	07/19/2021			7	0		Unassigned
+1555	Iowa	US	07/20/2021			7	0		Unassigned
+1555	Iowa	US	07/21/2021			9	0		Unassigned
+1555	Iowa	US	07/22/2021			9	0		Unassigned
+1555	Iowa	US	07/23/2021			9	0		Unassigned
+1555	Iowa	US	07/24/2021			9	0		Unassigned
+1555	Iowa	US	07/25/2021			9	0		Unassigned
+1555	Iowa	US	07/26/2021			9	0		Unassigned
+1555	Iowa	US	07/27/2021			9	0		Unassigned
+1555	Iowa	US	07/28/2021			8	0		Unassigned
+1555	Iowa	US	07/29/2021			8	0		Unassigned
+1555	Iowa	US	07/30/2021			8	0		Unassigned
+1555	Iowa	US	07/31/2021			8	0		Unassigned
+1555	Iowa	US	08/01/2021			8	0		Unassigned
+1555	Iowa	US	08/02/2021			8	0		Unassigned
+1555	Iowa	US	08/03/2021			8	0		Unassigned
+1555	Iowa	US	08/04/2021			8	0		Unassigned
+1555	Iowa	US	08/05/2021			8	0		Unassigned
+1555	Iowa	US	08/06/2021			8	0		Unassigned
+1555	Iowa	US	08/07/2021			8	0		Unassigned
+1555	Iowa	US	08/08/2021			8	0		Unassigned
+1555	Iowa	US	08/09/2021			8	0		Unassigned
+1555	Iowa	US	08/10/2021			8	0		Unassigned
+1555	Iowa	US	08/11/2021			15	0		Unassigned
+1555	Iowa	US	08/12/2021			15	0		Unassigned
+1555	Iowa	US	08/13/2021			15	0		Unassigned
+1555	Iowa	US	08/14/2021			15	0		Unassigned
+1555	Iowa	US	08/15/2021			15	0		Unassigned
+1555	Iowa	US	08/16/2021			15	0		Unassigned
+1555	Iowa	US	08/17/2021			15	0		Unassigned
+1555	Iowa	US	08/18/2021			8	0		Unassigned
+1555	Iowa	US	08/19/2021			8	0		Unassigned
+1555	Iowa	US	08/20/2021			8	0		Unassigned
+1555	Iowa	US	08/21/2021			8	0		Unassigned
+1555	Iowa	US	08/22/2021			8	0		Unassigned
+1555	Iowa	US	08/23/2021			8	0		Unassigned
+1555	Iowa	US	08/24/2021			8	0		Unassigned
+1555	Iowa	US	08/25/2021			7	0		Unassigned
+1555	Iowa	US	08/26/2021			7	0		Unassigned
+1555	Iowa	US	08/27/2021			7	0		Unassigned
+1555	Iowa	US	08/28/2021			7	0		Unassigned
+1555	Iowa	US	08/29/2021			7	0		Unassigned
+1555	Iowa	US	08/30/2021			7	0		Unassigned
+1555	Iowa	US	08/31/2021			7	0		Unassigned
+1555	Iowa	US	09/01/2021			8	0		Unassigned

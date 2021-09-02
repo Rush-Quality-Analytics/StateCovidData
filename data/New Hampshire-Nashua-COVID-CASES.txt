@@ -1,2 +1,2 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1033	Nashua	1	US	0			New Hampshire	0	03/22/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1033	New Hampshire	US	03/22/2020			1	0	0	Nashua

@@ -1,430 +1,431 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1207	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/22/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/23/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/24/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/25/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/26/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/27/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/28/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/29/2020
-33	Aleutians West	0	US	0	52.72541116	-110.4086433	Alaska	0	03/30/2020
-31	Aleutians West	1	US	0	52.72541116	-110.4086433	Alaska	0	07/08/2020
-31	Aleutians West	1	US	0	52.72541116	-110.4086433	Alaska	0	07/09/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/10/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/11/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/12/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/13/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/14/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/15/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/16/2020
-31	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/17/2020
-36	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/18/2020
-36	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/19/2020
-35	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/20/2020
-37	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/21/2020
-37	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/22/2020
-38	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/23/2020
-38	Aleutians West	1	US	0	52.3233	-174.1596	Alaska	0	07/24/2020
-38	Aleutians West	2	US	0	52.3233	-174.1596	Alaska	0	07/25/2020
-38	Aleutians West	3	US	0	52.3233	-174.1596	Alaska	0	07/26/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	07/27/2020
-38	Aleutians West	3	US	0	52.3233	-174.1596	Alaska	0	07/28/2020
-38	Aleutians West	3	US	0	52.3233	-174.1596	Alaska	0	07/29/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	07/30/2020
-38	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	07/31/2020
-38	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/01/2020
-38	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/02/2020
-38	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/03/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/04/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/05/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/06/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/07/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/08/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/09/2020
-38	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/10/2020
-749	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/11/2020
-703	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/12/2020
-703	Aleutians West	4	US	0	52.3233	-174.1596	Alaska	0	08/13/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/14/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/15/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/16/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/17/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/18/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/19/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/20/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/21/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/22/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/23/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/24/2020
-703	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	08/25/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	08/26/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	08/27/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	08/28/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	08/29/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	08/30/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	08/31/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/01/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/02/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/03/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/04/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/05/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/06/2020
-703	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	09/07/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/08/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/09/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/10/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/11/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/12/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/13/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/14/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/15/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/16/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/17/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/18/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/19/2020
-703	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/20/2020
-704	Aleutians West	7	US	0	52.3233	-174.1596	Alaska	0	09/21/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/22/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/23/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/24/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/25/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/26/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/27/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/28/2020
-704	Aleutians West	9	US	0	52.3233	-174.1596	Alaska	0	09/29/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	09/30/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/01/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/02/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/03/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/04/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/05/2020
-704	Aleutians West	8	US	0	52.3233	-174.1596	Alaska	0	10/06/2020
-704	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/07/2020
-704	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/08/2020
-704	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/09/2020
-704	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/10/2020
-704	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/11/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/12/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/13/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/14/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/15/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/16/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/17/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/18/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/19/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/20/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/21/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/22/2020
-705	Aleutians West	6	US	0	52.3233	-174.1596	Alaska	0	10/23/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/24/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/25/2020
-705	Aleutians West	5	US	0	52.3233	-174.1596	Alaska	0	10/26/2020
-705	Aleutians West	97	US	0	52.3233	-174.1596	Alaska	0	10/27/2020
-706	Aleutians West	98	US	0.0	52.3233	-174.1596	Alaska	0	10/28/2020
-706	Aleutians West	99	US	0	52.3233	-174.1596	Alaska	0	10/29/2020
-706	Aleutians West	99	US	0	52.3233	-174.1596	Alaska	0	10/30/2020
-706	Aleutians West	99	US	0	52.3233	-174.1596	Alaska	0	10/31/2020
-706	Aleutians West	100	US	0	52.3233	-174.1596	Alaska	0	11/01/2020
-706	Aleutians West	100	US	0	52.3233	-174.1596	Alaska	0	11/02/2020
-706	Aleutians West	101	US	0	52.3233	-174.1596	Alaska	0	11/03/2020
-706	Aleutians West	101	US	0	52.3233	-174.1596	Alaska	0	11/04/2020
-706	Aleutians West	102	US	0	52.3233	-174.1596	Alaska	0	11/05/2020
-706	Aleutians West	102	US	0	52.3233	-174.1596	Alaska	0	11/06/2020
-706	Aleutians West	103	US	0	52.3233	-174.1596	Alaska	0	11/07/2020
-706	Aleutians West	103	US	0	52.3233	-174.1596	Alaska	0	11/08/2020
-706	Aleutians West	103	US	0	52.3233	-174.1596	Alaska	0.0	11/09/2020
-706	Aleutians West	103	US	0	52.3233	-174.1596	Alaska	0.0	11/10/2020
-706	Aleutians West	104	US	0	52.3233	-174.1596	Alaska	0.0	11/11/2020
-718	Aleutians West	105	US	0	52.3233	-174.1596	Alaska	0	11/12/2020
-718	Aleutians West	105	US	0	52.3233	-174.1596	Alaska	0	11/13/2020
-718	Aleutians West	105	US	0	52.3233	-174.1596	Alaska	0	11/14/2020
-718	Aleutians West	105	US	0	52.3233	-174.1596	Alaska	0	11/15/2020
-718	Aleutians West	105	US	0	52.3233	-174.1596	Alaska	0	11/16/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/17/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/18/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/19/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/20/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/21/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/22/2020
-718	Aleutians West	106	US	0	52.3233	-174.1596	Alaska	0	11/23/2020
-719	Aleutians West	107	US	0	52.3233	-174.1596	Alaska	0	11/24/2020
-719	Aleutians West	107	US	0	52.3233	-174.1596	Alaska	0	11/25/2020
-719	Aleutians West	107	US	0	52.3233	-174.1596	Alaska	0	11/26/2020
-719	Aleutians West	107	US	0	52.3233	-174.1596	Alaska	0	11/27/2020
-719	Aleutians West	108	US	0	52.3233	-174.1596	Alaska	0	11/28/2020
-719	Aleutians West	108	US	0	52.3233	-174.1596	Alaska	0	11/29/2020
-719	Aleutians West	108	US	0	52.3233	-174.1596	Alaska	0	11/30/2020
-719	Aleutians West	108	US	0	52.3233	-174.1596	Alaska	0	12/01/2020
-719	Aleutians West	111	US	0	52.3233	-174.1596	Alaska	0	12/02/2020
-719	Aleutians West	111	US	0	52.3233	-174.1596	Alaska	0	12/03/2020
-719	Aleutians West	111	US	0	52.3233	-174.1596	Alaska	0	12/04/2020
-719	Aleutians West	112	US	0	52.3233	-174.1596	Alaska	0	12/05/2020
-719	Aleutians West	115	US	0	52.3233	-174.1596	Alaska	0	12/06/2020
-719	Aleutians West	136	US	0	52.3233	-174.1596	Alaska	0	12/07/2020
-719	Aleutians West	146	US	0	52.3233	-174.1596	Alaska	0	12/08/2020
-719	Aleutians West	148	US	0	52.3233	-174.1596	Alaska	0	12/09/2020
-719	Aleutians West	150	US	0	52.3233	-174.1596	Alaska	0	12/10/2020
-719	Aleutians West	156	US	0	52.3233	-174.1596	Alaska	0	12/11/2020
-719	Aleutians West	158	US	0	52.3233	-174.1596	Alaska	0	12/12/2020
-719	Aleutians West	161	US	0	52.3233	-174.1596	Alaska	0	12/13/2020
-719	Aleutians West	161	US	0	52.3233	-174.1596	Alaska	0	12/14/2020
-719	Aleutians West	161	US	0	52.3233	-174.1596	Alaska	0	12/15/2020
-719	Aleutians West	165	US	0	52.3233	-174.1596	Alaska	0	12/16/2020
-719	Aleutians West	167	US	0	52.3233	-174.1596	Alaska	0	12/17/2020
-719	Aleutians West	169	US	0	52.3233	-174.1596	Alaska	0	12/18/2020
-719	Aleutians West	169	US	0	52.3233	-174.1596	Alaska	0	12/19/2020
-719	Aleutians West	169	US	0	52.3233	-174.1596	Alaska	0	12/20/2020
-719	Aleutians West	169	US	0	52.3233	-174.1596	Alaska	0	12/21/2020
-719	Aleutians West	169	US	0	52.3233	-174.1596	Alaska	0	12/22/2020
-719	Aleutians West	174	US	0	52.3233	-174.1596	Alaska	0	12/23/2020
-719	Aleutians West	179	US	0	52.3233	-174.1596	Alaska	0	12/24/2020
-719	Aleutians West	179	US	0	52.3233	-174.1596	Alaska	0	12/25/2020
-719	Aleutians West	185	US	0	52.3233	-174.1596	Alaska	0	12/26/2020
-719	Aleutians West	189	US	0	52.3233	-174.1596	Alaska	0	12/27/2020
-719	Aleutians West	189	US	0	52.3233	-174.1596	Alaska	0	12/28/2020
-719	Aleutians West	189	US	0	52.3233	-174.1596	Alaska	0	12/29/2020
-719	Aleutians West	191	US	0	52.3233	-174.1596	Alaska	0	12/30/2020
-719	Aleutians West	198	US	0	52.3233	-174.1596	Alaska	0	12/31/2020
-719	Aleutians West	198	US	0	52.3233	-174.1596	Alaska	0	01/01/2021
-719	Aleutians West	205	US	0	52.3233	-174.1596	Alaska	0	01/02/2021
-720	Aleutians West	209	US	0	52.3233	-174.1596	Alaska	0	01/03/2021
-720	Aleutians West	209	US	0	52.3233	-174.1596	Alaska	0	01/04/2021
-720	Aleutians West	211	US	0	52.3233	-174.1596	Alaska	0	01/05/2021
-720	Aleutians West	217	US	0	52.3233	-174.1596	Alaska	0	01/06/2021
-720	Aleutians West	218	US	0	52.3233	-174.1596	Alaska	0	01/07/2021
-720	Aleutians West	222	US	0	52.3233	-174.1596	Alaska	0	01/08/2021
-720	Aleutians West	224	US	0	52.3233	-174.1596	Alaska	0	01/09/2021
-720	Aleutians West	224	US	0	52.3233	-174.1596	Alaska	0	01/10/2021
-720	Aleutians West	229	US	0	52.3233	-174.1596	Alaska	0	01/11/2021
-720	Aleutians West	231	US	0	52.3233	-174.1596	Alaska	0	01/12/2021
-720	Aleutians West	235	US	0	52.3233	-174.1596	Alaska	0	01/13/2021
-720	Aleutians West	239	US	0	52.3233	-174.1596	Alaska	0	01/14/2021
-720	Aleutians West	242	US	0	52.3233	-174.1596	Alaska	0	01/15/2021
-720	Aleutians West	245	US	0	52.3233	-174.1596	Alaska	0	01/16/2021
-720	Aleutians West	269	US	0	52.3233	-174.1596	Alaska	0	01/17/2021
-720	Aleutians West	269	US	0	52.3233	-174.1596	Alaska	0	01/18/2021
-720	Aleutians West	271	US	0	52.3233	-174.1596	Alaska	0	01/19/2021
-720	Aleutians West	274	US	0	52.3233	-174.1596	Alaska	0	01/20/2021
-721	Aleutians West	281	US	0	52.3233	-174.1596	Alaska	0	01/21/2021
-721	Aleutians West	291	US	0	52.3233	-174.1596	Alaska	0	01/22/2021
-721	Aleutians West	293	US	0	52.3233	-174.1596	Alaska	0	01/23/2021
-721	Aleutians West	293	US	0	52.3233	-174.1596	Alaska	0	01/24/2021
-721	Aleutians West	293	US	0	52.3233	-174.1596	Alaska	0	01/25/2021
-721	Aleutians West	298	US	0	52.3233	-174.1596	Alaska	0	01/26/2021
-721	Aleutians West	309	US	0	52.3233	-174.1596	Alaska	0	01/27/2021
-721	Aleutians West	317	US	0	52.3233	-174.1596	Alaska	0	01/28/2021
-721	Aleutians West	321	US	0	52.3233	-174.1596	Alaska	0	01/29/2021
-721	Aleutians West	322	US	0	52.3233	-174.1596	Alaska	0	01/30/2021
-721	Aleutians West	328	US	0	52.3233	-174.1596	Alaska	0	01/31/2021
-721	Aleutians West	340	US	0	52.3233	-174.1596	Alaska	0	02/01/2021
-721	Aleutians West	345	US	0	52.3233	-174.1596	Alaska	0	02/02/2021
-721	Aleutians West	352	US	0	52.3233	-174.1596	Alaska	0	02/03/2021
-721	Aleutians West	355	US	0	52.3233	-174.1596	Alaska	0	02/04/2021
-721	Aleutians West	360	US	0	52.3233	-174.1596	Alaska	0	02/05/2021
-721	Aleutians West	360	US	0	52.3233	-174.1596	Alaska	0	02/06/2021
-721	Aleutians West	360	US	0	52.3233	-174.1596	Alaska	0	02/07/2021
-721	Aleutians West	376	US	0	52.3233	-174.1596	Alaska	0	02/08/2021
-721	Aleutians West	378	US	0	52.3233	-174.1596	Alaska	0	02/09/2021
-721	Aleutians West	385	US	0	52.3233	-174.1596	Alaska	0	02/10/2021
-721	Aleutians West	391	US	0	52.3233	-174.1596	Alaska	0	02/11/2021
-721	Aleutians West	397	US	0	52.3233	-174.1596	Alaska	0	02/12/2021
-721	Aleutians West	397	US	0	52.3233	-174.1596	Alaska	0	02/13/2021
-721	Aleutians West	397	US	0	52.3233	-174.1596	Alaska	0	02/14/2021
-721	Aleutians West	397	US	0	52.3233	-174.1596	Alaska	0	02/15/2021
-721	Aleutians West	464	US	0	52.3233	-174.1596	Alaska	0	02/16/2021
-721	Aleutians West	466	US	0	52.3233	-174.1596	Alaska	0	02/17/2021
-721	Aleutians West	468	US	0	52.3233	-174.1596	Alaska	0	02/18/2021
-722	Aleutians West	491	US	0	52.3233	-174.1596	Alaska	0	02/19/2021
-722	Aleutians West	491	US	0	52.3233	-174.1596	Alaska	0	02/20/2021
-722	Aleutians West	491	US	0	52.3233	-174.1596	Alaska	0	02/21/2021
-722	Aleutians West	516	US	0	52.3233	-174.1596	Alaska	0	02/22/2021
-722	Aleutians West	518	US	0	52.3233	-174.1596	Alaska	0	02/23/2021
-722	Aleutians West	519	US	0	52.3233	-174.1596	Alaska	0	02/24/2021
-722	Aleutians West	554	US	0	52.3233	-174.1596	Alaska	0	02/25/2021
-722	Aleutians West	557	US	0	52.3233	-174.1596	Alaska	0	02/26/2021
-722	Aleutians West	557	US	0	52.3233	-174.1596	Alaska	0	02/27/2021
-722	Aleutians West	557	US	0	52.3233	-174.1596	Alaska	0	02/28/2021
-722	Aleutians West	572	US	0	52.3233	-174.1596	Alaska	0	03/01/2021
-722	Aleutians West	600	US	0	52.3233	-174.1596	Alaska	0	03/02/2021
-722	Aleutians West	619	US	0	52.3233	-174.1596	Alaska	0	03/03/2021
-722	Aleutians West	626	US	0	52.3233	-174.1596	Alaska	0	03/04/2021
-722	Aleutians West	628	US	0	52.3233	-174.1596	Alaska	0	03/05/2021
-722	Aleutians West	628	US	0	52.3233	-174.1596	Alaska	0	03/06/2021
-722	Aleutians West	628	US	0	52.3233	-174.1596	Alaska		03/07/2021
-722	Aleutians West	630	US	0	52.3233	-174.1596	Alaska		03/08/2021
-722	Aleutians West	630	US	0	52.3233	-174.1596	Alaska		03/09/2021
-722	Aleutians West	635	US	0	52.3233	-174.1596	Alaska		03/10/2021
-722	Aleutians West	643	US	0	52.3233	-174.1596	Alaska		03/11/2021
-722	Aleutians West	643	US	0	52.3233	-174.1596	Alaska		03/12/2021
-722	Aleutians West	643	US	0	52.3233	-174.1596	Alaska		03/13/2021
-722	Aleutians West	643	US	0	52.3233	-174.1596	Alaska		03/14/2021
-722	Aleutians West	643	US	0	52.3233	-174.1596	Alaska		03/15/2021
-722	Aleutians West	645	US	0	52.3233	-174.1596	Alaska		03/16/2021
-722	Aleutians West	645	US	0	52.3233	-174.1596	Alaska		03/17/2021
-722	Aleutians West	647	US	0	52.3233	-174.1596	Alaska		03/18/2021
-722	Aleutians West	647	US	0	52.3233	-174.1596	Alaska		03/19/2021
-722	Aleutians West	647	US	0	52.3233	-174.1596	Alaska		03/20/2021
-722	Aleutians West	647	US	0	52.3233	-174.1596	Alaska		03/21/2021
-722	Aleutians West	648	US	0	52.3233	-174.1596	Alaska		03/22/2021
-722	Aleutians West	648	US	0	52.3233	-174.1596	Alaska		03/23/2021
-722	Aleutians West	649	US	0	52.3233	-174.1596	Alaska		03/24/2021
-722	Aleutians West	650	US	0	52.3233	-174.1596	Alaska		03/25/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/26/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/27/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/28/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/29/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/30/2021
-722	Aleutians West	652	US	0	52.3233	-174.1596	Alaska		03/31/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/01/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/02/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/03/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/04/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/05/2021
-722	Aleutians West	655	US	0	52.3233	-174.1596	Alaska		04/06/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/07/2021
-722	Aleutians West	656	US	0	52.3233	-174.1596	Alaska		04/08/2021
-722	Aleutians West	657	US	0	52.3233	-174.1596	Alaska		04/09/2021
-722	Aleutians West	657	US	0	52.3233	-174.1596	Alaska		04/10/2021
-722	Aleutians West	657	US	0	52.3233	-174.1596	Alaska		04/11/2021
-722	Aleutians West	658	US	0	52.3233	-174.1596	Alaska		04/12/2021
-722	Aleutians West	679	US	0	52.3233	-174.1596	Alaska		04/13/2021
-722	Aleutians West	679	US	0	52.3233	-174.1596	Alaska		04/14/2021
-722	Aleutians West	679	US	0	52.3233	-174.1596	Alaska		04/15/2021
-722	Aleutians West	681	US	0	52.3233	-174.1596	Alaska		04/16/2021
-722	Aleutians West	681	US	0	52.3233	-174.1596	Alaska		04/17/2021
-722	Aleutians West	681	US	0	52.3233	-174.1596	Alaska		04/18/2021
-722	Aleutians West	683	US	0	52.3233	-174.1596	Alaska		04/19/2021
-722	Aleutians West	686	US	0	52.3233	-174.1596	Alaska		04/20/2021
-722	Aleutians West	686	US	0	52.3233	-174.1596	Alaska		04/21/2021
-722	Aleutians West	686	US	0	52.3233	-174.1596	Alaska		04/22/2021
-722	Aleutians West	687	US	0	52.3233	-174.1596	Alaska		04/23/2021
-722	Aleutians West	687	US	0	52.3233	-174.1596	Alaska		04/24/2021
-722	Aleutians West	687	US	0	52.3233	-174.1596	Alaska		04/25/2021
-722	Aleutians West	688	US	1	52.3233	-174.1596	Alaska		04/26/2021
-722	Aleutians West	689	US	1	52.3233	-174.1596	Alaska		04/27/2021
-722	Aleutians West	690	US	1	52.3233	-174.1596	Alaska		04/28/2021
-722	Aleutians West	692	US	1	52.3233	-174.1596	Alaska		04/29/2021
-722	Aleutians West	692	US	1	52.3233	-174.1596	Alaska		04/30/2021
-722	Aleutians West	692	US	1	52.3233	-174.1596	Alaska		05/01/2021
-722	Aleutians West	692	US	1	52.3233	-174.1596	Alaska		05/02/2021
-722	Aleutians West	693	US	1	52.3233	-174.1596	Alaska		05/03/2021
-722	Aleutians West	695	US	1	52.3233	-174.1596	Alaska		05/04/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/05/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/06/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/07/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/08/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/09/2021
-722	Aleutians West	697	US	1	52.3233	-174.1596	Alaska		05/10/2021
-722	Aleutians West	698	US	1	52.3233	-174.1596	Alaska		05/11/2021
-722	Aleutians West	698	US	1	52.3233	-174.1596	Alaska		05/12/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/13/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/14/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/15/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/16/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/17/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/18/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/19/2021
-722	Aleutians West	699	US	1	52.3233	-174.1596	Alaska		05/20/2021
-722	Aleutians West	701	US	1	52.3233	-174.1596	Alaska		05/21/2021
-722	Aleutians West	701	US	1	52.3233	-174.1596	Alaska		05/22/2021
-722	Aleutians West	701	US	1	52.3233	-174.1596	Alaska		05/23/2021
-722	Aleutians West	703	US	1	52.3233	-174.1596	Alaska		05/24/2021
-722	Aleutians West	704	US	1	52.3233	-174.1596	Alaska		05/25/2021
-722	Aleutians West	704	US	1	52.3233	-174.1596	Alaska		05/26/2021
-723	Aleutians West	705	US	1	52.3233	-174.1596	Alaska		05/27/2021
-723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/28/2021
-723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/29/2021
-723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/30/2021
-723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		05/31/2021
-723	Aleutians West	706	US	1	52.3233	-174.1596	Alaska		06/01/2021
-723	Aleutians West	708	US	1	52.3233	-174.1596	Alaska		06/02/2021
-723	Aleutians West	708	US	1	52.3233	-174.1596	Alaska		06/03/2021
-723	Aleutians West	710	US	1	52.3233	-174.1596	Alaska		06/04/2021
-723	Aleutians West	710	US	1	52.3233	-174.1596	Alaska		06/05/2021
-723	Aleutians West	710	US	1	52.3233	-174.1596	Alaska		06/06/2021
-723	Aleutians West	711	US	1	52.3233	-174.1596	Alaska		06/07/2021
-723	Aleutians West	711	US	1	52.3233	-174.1596	Alaska		06/08/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/09/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/10/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/11/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/12/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/13/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/14/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/15/2021
-723	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/16/2021
-725	Aleutians West	712	US	1	52.3233	-174.1596	Alaska		06/17/2021
-725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/18/2021
-725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/19/2021
-725	Aleutians West	718	US	1	52.3233	-174.1596	Alaska		06/20/2021
-725	Aleutians West	721	US	1	52.3233	-174.1596	Alaska		06/21/2021
-725	Aleutians West	721	US	1	52.3233	-174.1596	Alaska		06/22/2021
-725	Aleutians West	727	US	1	52.3233	-174.1596	Alaska		06/23/2021
-726	Aleutians West	727	US	1	52.3233	-174.1596	Alaska		06/24/2021
-726	Aleutians West	727	US	1	52.3233	-174.1596	Alaska		06/25/2021
-726	Aleutians West	727	US	1	52.3233	-174.1596	Alaska		06/26/2021
-726	Aleutians West	727	US	1	52.3233	-174.1596	Alaska		06/27/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		06/28/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		06/29/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		06/30/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		07/01/2021
-726	Aleutians West	729	US	1	52.3233	-174.1596	Alaska		07/02/2021
-726	Aleutians West	729	US	1	52.3233	-174.1596	Alaska		07/03/2021
-726	Aleutians West	729	US	1	52.3233	-174.1596	Alaska		07/04/2021
-726	Aleutians West	729	US	1	52.3233	-174.1596	Alaska		07/05/2021
-726	Aleutians West	729	US	1	52.3233	-174.1596	Alaska		07/06/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		07/07/2021
-726	Aleutians West	732	US	1	52.3233	-174.1596	Alaska		07/08/2021
-726	Aleutians West	733	US	1	52.3233	-174.1596	Alaska		07/09/2021
-726	Aleutians West	733	US	1	52.3233	-174.1596	Alaska		07/10/2021
-726	Aleutians West	733	US	1	52.3233	-174.1596	Alaska		07/11/2021
-726	Aleutians West	733	US	1	52.3233	-174.1596	Alaska		07/12/2021
-726	Aleutians West	733	US	1	52.3233	-174.1596	Alaska		07/13/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/14/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/15/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/16/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/17/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/18/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/19/2021
-726	Aleutians West	735	US	1	52.3233	-174.1596	Alaska		07/20/2021
-726	Aleutians West	738	US	1	52.3233	-174.1596	Alaska		07/21/2021
-726	Aleutians West	738	US	1	52.3233	-174.1596	Alaska		07/22/2021
-726	Aleutians West	744	US	1	52.3233	-174.1596	Alaska		07/23/2021
-726	Aleutians West	744	US	1	52.3233	-174.1596	Alaska		07/24/2021
-726	Aleutians West	744	US	1	52.3233	-174.1596	Alaska		07/25/2021
-726	Aleutians West	744	US	1	52.3233	-174.1596	Alaska		07/26/2021
-726	Aleutians West	744	US	1	52.3233	-174.1596	Alaska		07/27/2021
-726	Aleutians West	776	US	1	52.3233	-174.1596	Alaska		07/28/2021
-726	Aleutians West	776	US	1	52.3233	-174.1596	Alaska		07/29/2021
-726	Aleutians West	785	US	1	52.3233	-174.1596	Alaska		07/30/2021
-726	Aleutians West	785	US	1	52.3233	-174.1596	Alaska		07/31/2021
-726	Aleutians West	785	US	1	52.3233	-174.1596	Alaska		08/01/2021
-726	Aleutians West	785	US	1	52.3233	-174.1596	Alaska		08/02/2021
-726	Aleutians West	786	US	1	52.3233	-174.1596	Alaska		08/03/2021
-726	Aleutians West	786	US	1	52.3233	-174.1596	Alaska		08/04/2021
-726	Aleutians West	786	US	1	52.3233	-174.1596	Alaska		08/05/2021
-726	Aleutians West	787	US	1	52.3233	-174.1596	Alaska		08/06/2021
-726	Aleutians West	787	US	1	52.3233	-174.1596	Alaska		08/07/2021
-726	Aleutians West	787	US	1	52.3233	-174.1596	Alaska		08/08/2021
-726	Aleutians West	787	US	1	52.3233	-174.1596	Alaska		08/09/2021
-726	Aleutians West	788	US	1	52.3233	-174.1596	Alaska		08/10/2021
-726	Aleutians West	788	US	1	52.3233	-174.1596	Alaska		08/11/2021
-726	Aleutians West	789	US	1	52.3233	-174.1596	Alaska		08/12/2021
-726	Aleutians West	791	US	1	52.3233	-174.1596	Alaska		08/13/2021
-726	Aleutians West	791	US	1	52.3233	-174.1596	Alaska		08/14/2021
-726	Aleutians West	791	US	1	52.3233	-174.1596	Alaska		08/15/2021
-726	Aleutians West	791	US	1	52.3233	-174.1596	Alaska		08/16/2021
-726	Aleutians West	792	US	1	52.3233	-174.1596	Alaska		08/17/2021
-726	Aleutians West	794	US	1	52.3233	-174.1596	Alaska		08/18/2021
-726	Aleutians West	795	US	1	52.3233	-174.1596	Alaska		08/19/2021
-726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/20/2021
-726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/21/2021
-726	Aleutians West	800	US	1	52.3233	-174.1596	Alaska		08/22/2021
-726	Aleutians West	803	US	1	52.3233	-174.1596	Alaska		08/23/2021
-726	Aleutians West	804	US	1	52.3233	-174.1596	Alaska		08/24/2021
-726	Aleutians West	806	US	1	52.3233	-174.1596	Alaska		08/25/2021
-726	Aleutians West	806	US	1	52.3233	-174.1596	Alaska		08/26/2021
-726	Aleutians West	809	US	1	52.3233	-174.1596	Alaska		08/27/2021
-726	Aleutians West	809	US	1	52.3233	-174.1596	Alaska		08/28/2021
-726	Aleutians West	809	US	1	52.3233	-174.1596	Alaska		08/29/2021
-726	Aleutians West	811	US	1	52.3233	-174.1596	Alaska		08/30/2021
-726	Aleutians West	812	US	1	52.3233	-174.1596	Alaska		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1207	Alaska	US	03/22/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/23/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/24/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/25/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/26/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/27/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/28/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/29/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+33	Alaska	US	03/30/2020	52.72541116	-110.4086433	0	0	0	Aleutians West
+31	Alaska	US	07/08/2020	52.72541116	-110.4086433	1	0	0	Aleutians West
+31	Alaska	US	07/09/2020	52.72541116	-110.4086433	1	0	0	Aleutians West
+31	Alaska	US	07/10/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/11/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/12/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/13/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/14/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/15/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/16/2020	52.3233	-174.1596	1	0	0	Aleutians West
+31	Alaska	US	07/17/2020	52.3233	-174.1596	1	0	0	Aleutians West
+36	Alaska	US	07/18/2020	52.3233	-174.1596	1	0	0	Aleutians West
+36	Alaska	US	07/19/2020	52.3233	-174.1596	1	0	0	Aleutians West
+35	Alaska	US	07/20/2020	52.3233	-174.1596	1	0	0	Aleutians West
+37	Alaska	US	07/21/2020	52.3233	-174.1596	1	0	0	Aleutians West
+37	Alaska	US	07/22/2020	52.3233	-174.1596	1	0	0	Aleutians West
+38	Alaska	US	07/23/2020	52.3233	-174.1596	1	0	0	Aleutians West
+38	Alaska	US	07/24/2020	52.3233	-174.1596	1	0	0	Aleutians West
+38	Alaska	US	07/25/2020	52.3233	-174.1596	2	0	0	Aleutians West
+38	Alaska	US	07/26/2020	52.3233	-174.1596	3	0	0	Aleutians West
+38	Alaska	US	07/27/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	07/28/2020	52.3233	-174.1596	3	0	0	Aleutians West
+38	Alaska	US	07/29/2020	52.3233	-174.1596	3	0	0	Aleutians West
+38	Alaska	US	07/30/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	07/31/2020	52.3233	-174.1596	5	0	0	Aleutians West
+38	Alaska	US	08/01/2020	52.3233	-174.1596	5	0	0	Aleutians West
+38	Alaska	US	08/02/2020	52.3233	-174.1596	5	0	0	Aleutians West
+38	Alaska	US	08/03/2020	52.3233	-174.1596	5	0	0	Aleutians West
+38	Alaska	US	08/04/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/05/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/06/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/07/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/08/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/09/2020	52.3233	-174.1596	4	0	0	Aleutians West
+38	Alaska	US	08/10/2020	52.3233	-174.1596	4	0	0	Aleutians West
+749	Alaska	US	08/11/2020	52.3233	-174.1596	4	0	0	Aleutians West
+703	Alaska	US	08/12/2020	52.3233	-174.1596	4	0	0	Aleutians West
+703	Alaska	US	08/13/2020	52.3233	-174.1596	4	0	0	Aleutians West
+703	Alaska	US	08/14/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/15/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/16/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/17/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/18/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/19/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/20/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/21/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/22/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/23/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/24/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/25/2020	52.3233	-174.1596	5	0	0	Aleutians West
+703	Alaska	US	08/26/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	08/27/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	08/28/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	08/29/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	08/30/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	08/31/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/01/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/02/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/03/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/04/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/05/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/06/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/07/2020	52.3233	-174.1596	6	0	0	Aleutians West
+703	Alaska	US	09/08/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/09/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/10/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/11/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/12/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/13/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/14/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/15/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/16/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/17/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/18/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/19/2020	52.3233	-174.1596	7	0	0	Aleutians West
+703	Alaska	US	09/20/2020	52.3233	-174.1596	7	0	0	Aleutians West
+704	Alaska	US	09/21/2020	52.3233	-174.1596	7	0	0	Aleutians West
+704	Alaska	US	09/22/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/23/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/24/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/25/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/26/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/27/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/28/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	09/29/2020	52.3233	-174.1596	9	0	0	Aleutians West
+704	Alaska	US	09/30/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/01/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/02/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/03/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/04/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/05/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/06/2020	52.3233	-174.1596	8	0	0	Aleutians West
+704	Alaska	US	10/07/2020	52.3233	-174.1596	5	0	0	Aleutians West
+704	Alaska	US	10/08/2020	52.3233	-174.1596	5	0	0	Aleutians West
+704	Alaska	US	10/09/2020	52.3233	-174.1596	5	0	0	Aleutians West
+704	Alaska	US	10/10/2020	52.3233	-174.1596	5	0	0	Aleutians West
+704	Alaska	US	10/11/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/12/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/13/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/14/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/15/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/16/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/17/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/18/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/19/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/20/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/21/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/22/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/23/2020	52.3233	-174.1596	6	0	0	Aleutians West
+705	Alaska	US	10/24/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/25/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/26/2020	52.3233	-174.1596	5	0	0	Aleutians West
+705	Alaska	US	10/27/2020	52.3233	-174.1596	97	0	0	Aleutians West
+706	Alaska	US	10/28/2020	52.3233	-174.1596	98	0.0	0	Aleutians West
+706	Alaska	US	10/29/2020	52.3233	-174.1596	99	0	0	Aleutians West
+706	Alaska	US	10/30/2020	52.3233	-174.1596	99	0	0	Aleutians West
+706	Alaska	US	10/31/2020	52.3233	-174.1596	99	0	0	Aleutians West
+706	Alaska	US	11/01/2020	52.3233	-174.1596	100	0	0	Aleutians West
+706	Alaska	US	11/02/2020	52.3233	-174.1596	100	0	0	Aleutians West
+706	Alaska	US	11/03/2020	52.3233	-174.1596	101	0	0	Aleutians West
+706	Alaska	US	11/04/2020	52.3233	-174.1596	101	0	0	Aleutians West
+706	Alaska	US	11/05/2020	52.3233	-174.1596	102	0	0	Aleutians West
+706	Alaska	US	11/06/2020	52.3233	-174.1596	102	0	0	Aleutians West
+706	Alaska	US	11/07/2020	52.3233	-174.1596	103	0	0	Aleutians West
+706	Alaska	US	11/08/2020	52.3233	-174.1596	103	0	0	Aleutians West
+706	Alaska	US	11/09/2020	52.3233	-174.1596	103	0	0.0	Aleutians West
+706	Alaska	US	11/10/2020	52.3233	-174.1596	103	0	0.0	Aleutians West
+706	Alaska	US	11/11/2020	52.3233	-174.1596	104	0	0.0	Aleutians West
+718	Alaska	US	11/12/2020	52.3233	-174.1596	105	0	0	Aleutians West
+718	Alaska	US	11/13/2020	52.3233	-174.1596	105	0	0	Aleutians West
+718	Alaska	US	11/14/2020	52.3233	-174.1596	105	0	0	Aleutians West
+718	Alaska	US	11/15/2020	52.3233	-174.1596	105	0	0	Aleutians West
+718	Alaska	US	11/16/2020	52.3233	-174.1596	105	0	0	Aleutians West
+718	Alaska	US	11/17/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/18/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/19/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/20/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/21/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/22/2020	52.3233	-174.1596	106	0	0	Aleutians West
+718	Alaska	US	11/23/2020	52.3233	-174.1596	106	0	0	Aleutians West
+719	Alaska	US	11/24/2020	52.3233	-174.1596	107	0	0	Aleutians West
+719	Alaska	US	11/25/2020	52.3233	-174.1596	107	0	0	Aleutians West
+719	Alaska	US	11/26/2020	52.3233	-174.1596	107	0	0	Aleutians West
+719	Alaska	US	11/27/2020	52.3233	-174.1596	107	0	0	Aleutians West
+719	Alaska	US	11/28/2020	52.3233	-174.1596	108	0	0	Aleutians West
+719	Alaska	US	11/29/2020	52.3233	-174.1596	108	0	0	Aleutians West
+719	Alaska	US	11/30/2020	52.3233	-174.1596	108	0	0	Aleutians West
+719	Alaska	US	12/01/2020	52.3233	-174.1596	108	0	0	Aleutians West
+719	Alaska	US	12/02/2020	52.3233	-174.1596	111	0	0	Aleutians West
+719	Alaska	US	12/03/2020	52.3233	-174.1596	111	0	0	Aleutians West
+719	Alaska	US	12/04/2020	52.3233	-174.1596	111	0	0	Aleutians West
+719	Alaska	US	12/05/2020	52.3233	-174.1596	112	0	0	Aleutians West
+719	Alaska	US	12/06/2020	52.3233	-174.1596	115	0	0	Aleutians West
+719	Alaska	US	12/07/2020	52.3233	-174.1596	136	0	0	Aleutians West
+719	Alaska	US	12/08/2020	52.3233	-174.1596	146	0	0	Aleutians West
+719	Alaska	US	12/09/2020	52.3233	-174.1596	148	0	0	Aleutians West
+719	Alaska	US	12/10/2020	52.3233	-174.1596	150	0	0	Aleutians West
+719	Alaska	US	12/11/2020	52.3233	-174.1596	156	0	0	Aleutians West
+719	Alaska	US	12/12/2020	52.3233	-174.1596	158	0	0	Aleutians West
+719	Alaska	US	12/13/2020	52.3233	-174.1596	161	0	0	Aleutians West
+719	Alaska	US	12/14/2020	52.3233	-174.1596	161	0	0	Aleutians West
+719	Alaska	US	12/15/2020	52.3233	-174.1596	161	0	0	Aleutians West
+719	Alaska	US	12/16/2020	52.3233	-174.1596	165	0	0	Aleutians West
+719	Alaska	US	12/17/2020	52.3233	-174.1596	167	0	0	Aleutians West
+719	Alaska	US	12/18/2020	52.3233	-174.1596	169	0	0	Aleutians West
+719	Alaska	US	12/19/2020	52.3233	-174.1596	169	0	0	Aleutians West
+719	Alaska	US	12/20/2020	52.3233	-174.1596	169	0	0	Aleutians West
+719	Alaska	US	12/21/2020	52.3233	-174.1596	169	0	0	Aleutians West
+719	Alaska	US	12/22/2020	52.3233	-174.1596	169	0	0	Aleutians West
+719	Alaska	US	12/23/2020	52.3233	-174.1596	174	0	0	Aleutians West
+719	Alaska	US	12/24/2020	52.3233	-174.1596	179	0	0	Aleutians West
+719	Alaska	US	12/25/2020	52.3233	-174.1596	179	0	0	Aleutians West
+719	Alaska	US	12/26/2020	52.3233	-174.1596	185	0	0	Aleutians West
+719	Alaska	US	12/27/2020	52.3233	-174.1596	189	0	0	Aleutians West
+719	Alaska	US	12/28/2020	52.3233	-174.1596	189	0	0	Aleutians West
+719	Alaska	US	12/29/2020	52.3233	-174.1596	189	0	0	Aleutians West
+719	Alaska	US	12/30/2020	52.3233	-174.1596	191	0	0	Aleutians West
+719	Alaska	US	12/31/2020	52.3233	-174.1596	198	0	0	Aleutians West
+719	Alaska	US	01/01/2021	52.3233	-174.1596	198	0	0	Aleutians West
+719	Alaska	US	01/02/2021	52.3233	-174.1596	205	0	0	Aleutians West
+720	Alaska	US	01/03/2021	52.3233	-174.1596	209	0	0	Aleutians West
+720	Alaska	US	01/04/2021	52.3233	-174.1596	209	0	0	Aleutians West
+720	Alaska	US	01/05/2021	52.3233	-174.1596	211	0	0	Aleutians West
+720	Alaska	US	01/06/2021	52.3233	-174.1596	217	0	0	Aleutians West
+720	Alaska	US	01/07/2021	52.3233	-174.1596	218	0	0	Aleutians West
+720	Alaska	US	01/08/2021	52.3233	-174.1596	222	0	0	Aleutians West
+720	Alaska	US	01/09/2021	52.3233	-174.1596	224	0	0	Aleutians West
+720	Alaska	US	01/10/2021	52.3233	-174.1596	224	0	0	Aleutians West
+720	Alaska	US	01/11/2021	52.3233	-174.1596	229	0	0	Aleutians West
+720	Alaska	US	01/12/2021	52.3233	-174.1596	231	0	0	Aleutians West
+720	Alaska	US	01/13/2021	52.3233	-174.1596	235	0	0	Aleutians West
+720	Alaska	US	01/14/2021	52.3233	-174.1596	239	0	0	Aleutians West
+720	Alaska	US	01/15/2021	52.3233	-174.1596	242	0	0	Aleutians West
+720	Alaska	US	01/16/2021	52.3233	-174.1596	245	0	0	Aleutians West
+720	Alaska	US	01/17/2021	52.3233	-174.1596	269	0	0	Aleutians West
+720	Alaska	US	01/18/2021	52.3233	-174.1596	269	0	0	Aleutians West
+720	Alaska	US	01/19/2021	52.3233	-174.1596	271	0	0	Aleutians West
+720	Alaska	US	01/20/2021	52.3233	-174.1596	274	0	0	Aleutians West
+721	Alaska	US	01/21/2021	52.3233	-174.1596	281	0	0	Aleutians West
+721	Alaska	US	01/22/2021	52.3233	-174.1596	291	0	0	Aleutians West
+721	Alaska	US	01/23/2021	52.3233	-174.1596	293	0	0	Aleutians West
+721	Alaska	US	01/24/2021	52.3233	-174.1596	293	0	0	Aleutians West
+721	Alaska	US	01/25/2021	52.3233	-174.1596	293	0	0	Aleutians West
+721	Alaska	US	01/26/2021	52.3233	-174.1596	298	0	0	Aleutians West
+721	Alaska	US	01/27/2021	52.3233	-174.1596	309	0	0	Aleutians West
+721	Alaska	US	01/28/2021	52.3233	-174.1596	317	0	0	Aleutians West
+721	Alaska	US	01/29/2021	52.3233	-174.1596	321	0	0	Aleutians West
+721	Alaska	US	01/30/2021	52.3233	-174.1596	322	0	0	Aleutians West
+721	Alaska	US	01/31/2021	52.3233	-174.1596	328	0	0	Aleutians West
+721	Alaska	US	02/01/2021	52.3233	-174.1596	340	0	0	Aleutians West
+721	Alaska	US	02/02/2021	52.3233	-174.1596	345	0	0	Aleutians West
+721	Alaska	US	02/03/2021	52.3233	-174.1596	352	0	0	Aleutians West
+721	Alaska	US	02/04/2021	52.3233	-174.1596	355	0	0	Aleutians West
+721	Alaska	US	02/05/2021	52.3233	-174.1596	360	0	0	Aleutians West
+721	Alaska	US	02/06/2021	52.3233	-174.1596	360	0	0	Aleutians West
+721	Alaska	US	02/07/2021	52.3233	-174.1596	360	0	0	Aleutians West
+721	Alaska	US	02/08/2021	52.3233	-174.1596	376	0	0	Aleutians West
+721	Alaska	US	02/09/2021	52.3233	-174.1596	378	0	0	Aleutians West
+721	Alaska	US	02/10/2021	52.3233	-174.1596	385	0	0	Aleutians West
+721	Alaska	US	02/11/2021	52.3233	-174.1596	391	0	0	Aleutians West
+721	Alaska	US	02/12/2021	52.3233	-174.1596	397	0	0	Aleutians West
+721	Alaska	US	02/13/2021	52.3233	-174.1596	397	0	0	Aleutians West
+721	Alaska	US	02/14/2021	52.3233	-174.1596	397	0	0	Aleutians West
+721	Alaska	US	02/15/2021	52.3233	-174.1596	397	0	0	Aleutians West
+721	Alaska	US	02/16/2021	52.3233	-174.1596	464	0	0	Aleutians West
+721	Alaska	US	02/17/2021	52.3233	-174.1596	466	0	0	Aleutians West
+721	Alaska	US	02/18/2021	52.3233	-174.1596	468	0	0	Aleutians West
+722	Alaska	US	02/19/2021	52.3233	-174.1596	491	0	0	Aleutians West
+722	Alaska	US	02/20/2021	52.3233	-174.1596	491	0	0	Aleutians West
+722	Alaska	US	02/21/2021	52.3233	-174.1596	491	0	0	Aleutians West
+722	Alaska	US	02/22/2021	52.3233	-174.1596	516	0	0	Aleutians West
+722	Alaska	US	02/23/2021	52.3233	-174.1596	518	0	0	Aleutians West
+722	Alaska	US	02/24/2021	52.3233	-174.1596	519	0	0	Aleutians West
+722	Alaska	US	02/25/2021	52.3233	-174.1596	554	0	0	Aleutians West
+722	Alaska	US	02/26/2021	52.3233	-174.1596	557	0	0	Aleutians West
+722	Alaska	US	02/27/2021	52.3233	-174.1596	557	0	0	Aleutians West
+722	Alaska	US	02/28/2021	52.3233	-174.1596	557	0	0	Aleutians West
+722	Alaska	US	03/01/2021	52.3233	-174.1596	572	0	0	Aleutians West
+722	Alaska	US	03/02/2021	52.3233	-174.1596	600	0	0	Aleutians West
+722	Alaska	US	03/03/2021	52.3233	-174.1596	619	0	0	Aleutians West
+722	Alaska	US	03/04/2021	52.3233	-174.1596	626	0	0	Aleutians West
+722	Alaska	US	03/05/2021	52.3233	-174.1596	628	0	0	Aleutians West
+722	Alaska	US	03/06/2021	52.3233	-174.1596	628	0	0	Aleutians West
+722	Alaska	US	03/07/2021	52.3233	-174.1596	628	0		Aleutians West
+722	Alaska	US	03/08/2021	52.3233	-174.1596	630	0		Aleutians West
+722	Alaska	US	03/09/2021	52.3233	-174.1596	630	0		Aleutians West
+722	Alaska	US	03/10/2021	52.3233	-174.1596	635	0		Aleutians West
+722	Alaska	US	03/11/2021	52.3233	-174.1596	643	0		Aleutians West
+722	Alaska	US	03/12/2021	52.3233	-174.1596	643	0		Aleutians West
+722	Alaska	US	03/13/2021	52.3233	-174.1596	643	0		Aleutians West
+722	Alaska	US	03/14/2021	52.3233	-174.1596	643	0		Aleutians West
+722	Alaska	US	03/15/2021	52.3233	-174.1596	643	0		Aleutians West
+722	Alaska	US	03/16/2021	52.3233	-174.1596	645	0		Aleutians West
+722	Alaska	US	03/17/2021	52.3233	-174.1596	645	0		Aleutians West
+722	Alaska	US	03/18/2021	52.3233	-174.1596	647	0		Aleutians West
+722	Alaska	US	03/19/2021	52.3233	-174.1596	647	0		Aleutians West
+722	Alaska	US	03/20/2021	52.3233	-174.1596	647	0		Aleutians West
+722	Alaska	US	03/21/2021	52.3233	-174.1596	647	0		Aleutians West
+722	Alaska	US	03/22/2021	52.3233	-174.1596	648	0		Aleutians West
+722	Alaska	US	03/23/2021	52.3233	-174.1596	648	0		Aleutians West
+722	Alaska	US	03/24/2021	52.3233	-174.1596	649	0		Aleutians West
+722	Alaska	US	03/25/2021	52.3233	-174.1596	650	0		Aleutians West
+722	Alaska	US	03/26/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	03/27/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	03/28/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	03/29/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	03/30/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	03/31/2021	52.3233	-174.1596	652	0		Aleutians West
+722	Alaska	US	04/01/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/02/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/03/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/04/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/05/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/06/2021	52.3233	-174.1596	655	0		Aleutians West
+722	Alaska	US	04/07/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/08/2021	52.3233	-174.1596	656	0		Aleutians West
+722	Alaska	US	04/09/2021	52.3233	-174.1596	657	0		Aleutians West
+722	Alaska	US	04/10/2021	52.3233	-174.1596	657	0		Aleutians West
+722	Alaska	US	04/11/2021	52.3233	-174.1596	657	0		Aleutians West
+722	Alaska	US	04/12/2021	52.3233	-174.1596	658	0		Aleutians West
+722	Alaska	US	04/13/2021	52.3233	-174.1596	679	0		Aleutians West
+722	Alaska	US	04/14/2021	52.3233	-174.1596	679	0		Aleutians West
+722	Alaska	US	04/15/2021	52.3233	-174.1596	679	0		Aleutians West
+722	Alaska	US	04/16/2021	52.3233	-174.1596	681	0		Aleutians West
+722	Alaska	US	04/17/2021	52.3233	-174.1596	681	0		Aleutians West
+722	Alaska	US	04/18/2021	52.3233	-174.1596	681	0		Aleutians West
+722	Alaska	US	04/19/2021	52.3233	-174.1596	683	0		Aleutians West
+722	Alaska	US	04/20/2021	52.3233	-174.1596	686	0		Aleutians West
+722	Alaska	US	04/21/2021	52.3233	-174.1596	686	0		Aleutians West
+722	Alaska	US	04/22/2021	52.3233	-174.1596	686	0		Aleutians West
+722	Alaska	US	04/23/2021	52.3233	-174.1596	687	0		Aleutians West
+722	Alaska	US	04/24/2021	52.3233	-174.1596	687	0		Aleutians West
+722	Alaska	US	04/25/2021	52.3233	-174.1596	687	0		Aleutians West
+722	Alaska	US	04/26/2021	52.3233	-174.1596	688	1		Aleutians West
+722	Alaska	US	04/27/2021	52.3233	-174.1596	689	1		Aleutians West
+722	Alaska	US	04/28/2021	52.3233	-174.1596	690	1		Aleutians West
+722	Alaska	US	04/29/2021	52.3233	-174.1596	692	1		Aleutians West
+722	Alaska	US	04/30/2021	52.3233	-174.1596	692	1		Aleutians West
+722	Alaska	US	05/01/2021	52.3233	-174.1596	692	1		Aleutians West
+722	Alaska	US	05/02/2021	52.3233	-174.1596	692	1		Aleutians West
+722	Alaska	US	05/03/2021	52.3233	-174.1596	693	1		Aleutians West
+722	Alaska	US	05/04/2021	52.3233	-174.1596	695	1		Aleutians West
+722	Alaska	US	05/05/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/06/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/07/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/08/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/09/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/10/2021	52.3233	-174.1596	697	1		Aleutians West
+722	Alaska	US	05/11/2021	52.3233	-174.1596	698	1		Aleutians West
+722	Alaska	US	05/12/2021	52.3233	-174.1596	698	1		Aleutians West
+722	Alaska	US	05/13/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/14/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/15/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/16/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/17/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/18/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/19/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/20/2021	52.3233	-174.1596	699	1		Aleutians West
+722	Alaska	US	05/21/2021	52.3233	-174.1596	701	1		Aleutians West
+722	Alaska	US	05/22/2021	52.3233	-174.1596	701	1		Aleutians West
+722	Alaska	US	05/23/2021	52.3233	-174.1596	701	1		Aleutians West
+722	Alaska	US	05/24/2021	52.3233	-174.1596	703	1		Aleutians West
+722	Alaska	US	05/25/2021	52.3233	-174.1596	704	1		Aleutians West
+722	Alaska	US	05/26/2021	52.3233	-174.1596	704	1		Aleutians West
+723	Alaska	US	05/27/2021	52.3233	-174.1596	705	1		Aleutians West
+723	Alaska	US	05/28/2021	52.3233	-174.1596	706	1		Aleutians West
+723	Alaska	US	05/29/2021	52.3233	-174.1596	706	1		Aleutians West
+723	Alaska	US	05/30/2021	52.3233	-174.1596	706	1		Aleutians West
+723	Alaska	US	05/31/2021	52.3233	-174.1596	706	1		Aleutians West
+723	Alaska	US	06/01/2021	52.3233	-174.1596	706	1		Aleutians West
+723	Alaska	US	06/02/2021	52.3233	-174.1596	708	1		Aleutians West
+723	Alaska	US	06/03/2021	52.3233	-174.1596	708	1		Aleutians West
+723	Alaska	US	06/04/2021	52.3233	-174.1596	710	1		Aleutians West
+723	Alaska	US	06/05/2021	52.3233	-174.1596	710	1		Aleutians West
+723	Alaska	US	06/06/2021	52.3233	-174.1596	710	1		Aleutians West
+723	Alaska	US	06/07/2021	52.3233	-174.1596	711	1		Aleutians West
+723	Alaska	US	06/08/2021	52.3233	-174.1596	711	1		Aleutians West
+723	Alaska	US	06/09/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/10/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/11/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/12/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/13/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/14/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/15/2021	52.3233	-174.1596	712	1		Aleutians West
+723	Alaska	US	06/16/2021	52.3233	-174.1596	712	1		Aleutians West
+725	Alaska	US	06/17/2021	52.3233	-174.1596	712	1		Aleutians West
+725	Alaska	US	06/18/2021	52.3233	-174.1596	718	1		Aleutians West
+725	Alaska	US	06/19/2021	52.3233	-174.1596	718	1		Aleutians West
+725	Alaska	US	06/20/2021	52.3233	-174.1596	718	1		Aleutians West
+725	Alaska	US	06/21/2021	52.3233	-174.1596	721	1		Aleutians West
+725	Alaska	US	06/22/2021	52.3233	-174.1596	721	1		Aleutians West
+725	Alaska	US	06/23/2021	52.3233	-174.1596	727	1		Aleutians West
+726	Alaska	US	06/24/2021	52.3233	-174.1596	727	1		Aleutians West
+726	Alaska	US	06/25/2021	52.3233	-174.1596	727	1		Aleutians West
+726	Alaska	US	06/26/2021	52.3233	-174.1596	727	1		Aleutians West
+726	Alaska	US	06/27/2021	52.3233	-174.1596	727	1		Aleutians West
+726	Alaska	US	06/28/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	06/29/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	06/30/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	07/01/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	07/02/2021	52.3233	-174.1596	729	1		Aleutians West
+726	Alaska	US	07/03/2021	52.3233	-174.1596	729	1		Aleutians West
+726	Alaska	US	07/04/2021	52.3233	-174.1596	729	1		Aleutians West
+726	Alaska	US	07/05/2021	52.3233	-174.1596	729	1		Aleutians West
+726	Alaska	US	07/06/2021	52.3233	-174.1596	729	1		Aleutians West
+726	Alaska	US	07/07/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	07/08/2021	52.3233	-174.1596	732	1		Aleutians West
+726	Alaska	US	07/09/2021	52.3233	-174.1596	733	1		Aleutians West
+726	Alaska	US	07/10/2021	52.3233	-174.1596	733	1		Aleutians West
+726	Alaska	US	07/11/2021	52.3233	-174.1596	733	1		Aleutians West
+726	Alaska	US	07/12/2021	52.3233	-174.1596	733	1		Aleutians West
+726	Alaska	US	07/13/2021	52.3233	-174.1596	733	1		Aleutians West
+726	Alaska	US	07/14/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/15/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/16/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/17/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/18/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/19/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/20/2021	52.3233	-174.1596	735	1		Aleutians West
+726	Alaska	US	07/21/2021	52.3233	-174.1596	738	1		Aleutians West
+726	Alaska	US	07/22/2021	52.3233	-174.1596	738	1		Aleutians West
+726	Alaska	US	07/23/2021	52.3233	-174.1596	744	1		Aleutians West
+726	Alaska	US	07/24/2021	52.3233	-174.1596	744	1		Aleutians West
+726	Alaska	US	07/25/2021	52.3233	-174.1596	744	1		Aleutians West
+726	Alaska	US	07/26/2021	52.3233	-174.1596	744	1		Aleutians West
+726	Alaska	US	07/27/2021	52.3233	-174.1596	744	1		Aleutians West
+726	Alaska	US	07/28/2021	52.3233	-174.1596	776	1		Aleutians West
+726	Alaska	US	07/29/2021	52.3233	-174.1596	776	1		Aleutians West
+726	Alaska	US	07/30/2021	52.3233	-174.1596	785	1		Aleutians West
+726	Alaska	US	07/31/2021	52.3233	-174.1596	785	1		Aleutians West
+726	Alaska	US	08/01/2021	52.3233	-174.1596	785	1		Aleutians West
+726	Alaska	US	08/02/2021	52.3233	-174.1596	785	1		Aleutians West
+726	Alaska	US	08/03/2021	52.3233	-174.1596	786	1		Aleutians West
+726	Alaska	US	08/04/2021	52.3233	-174.1596	786	1		Aleutians West
+726	Alaska	US	08/05/2021	52.3233	-174.1596	786	1		Aleutians West
+726	Alaska	US	08/06/2021	52.3233	-174.1596	787	1		Aleutians West
+726	Alaska	US	08/07/2021	52.3233	-174.1596	787	1		Aleutians West
+726	Alaska	US	08/08/2021	52.3233	-174.1596	787	1		Aleutians West
+726	Alaska	US	08/09/2021	52.3233	-174.1596	787	1		Aleutians West
+726	Alaska	US	08/10/2021	52.3233	-174.1596	788	1		Aleutians West
+726	Alaska	US	08/11/2021	52.3233	-174.1596	788	1		Aleutians West
+726	Alaska	US	08/12/2021	52.3233	-174.1596	789	1		Aleutians West
+726	Alaska	US	08/13/2021	52.3233	-174.1596	791	1		Aleutians West
+726	Alaska	US	08/14/2021	52.3233	-174.1596	791	1		Aleutians West
+726	Alaska	US	08/15/2021	52.3233	-174.1596	791	1		Aleutians West
+726	Alaska	US	08/16/2021	52.3233	-174.1596	791	1		Aleutians West
+726	Alaska	US	08/17/2021	52.3233	-174.1596	792	1		Aleutians West
+726	Alaska	US	08/18/2021	52.3233	-174.1596	794	1		Aleutians West
+726	Alaska	US	08/19/2021	52.3233	-174.1596	795	1		Aleutians West
+726	Alaska	US	08/20/2021	52.3233	-174.1596	800	1		Aleutians West
+726	Alaska	US	08/21/2021	52.3233	-174.1596	800	1		Aleutians West
+726	Alaska	US	08/22/2021	52.3233	-174.1596	800	1		Aleutians West
+726	Alaska	US	08/23/2021	52.3233	-174.1596	803	1		Aleutians West
+726	Alaska	US	08/24/2021	52.3233	-174.1596	804	1		Aleutians West
+726	Alaska	US	08/25/2021	52.3233	-174.1596	806	1		Aleutians West
+726	Alaska	US	08/26/2021	52.3233	-174.1596	806	1		Aleutians West
+726	Alaska	US	08/27/2021	52.3233	-174.1596	809	1		Aleutians West
+726	Alaska	US	08/28/2021	52.3233	-174.1596	809	1		Aleutians West
+726	Alaska	US	08/29/2021	52.3233	-174.1596	809	1		Aleutians West
+726	Alaska	US	08/30/2021	52.3233	-174.1596	811	1		Aleutians West
+726	Alaska	US	08/31/2021	52.3233	-174.1596	812	1		Aleutians West
+726	Alaska	US	09/01/2021	52.3233	-174.1596	817	1		Aleutians West

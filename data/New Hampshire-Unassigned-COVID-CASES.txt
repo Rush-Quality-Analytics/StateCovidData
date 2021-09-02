@@ -1,523 +1,524 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2870	Unassigned	23	US	0	0.0	0.0	New Hampshire	0	03/23/2020
-2872	Unassigned	4	US	0	0.0	0.0	New Hampshire	0	03/27/2020
-2875	Unassigned	56	US	0	0.0	0.0	New Hampshire	0	03/30/2020
-1948	Unassigned	0	US	0	0.0	0.0	New Hampshire	0	03/31/2020
-1994	Unassigned	0	US	0	0.0	0.0	New Hampshire	0	04/01/2020
-2067	Unassigned	0	US	2			New Hampshire	0	04/02/2020
-2112	Unassigned	0	US	2			New Hampshire	0	04/03/2020
-2166	Unassigned	0	US	4			New Hampshire	0	04/04/2020
-2240	Unassigned	4	US	6			New Hampshire	0	04/05/2020
-2278	Unassigned	1	US	6			New Hampshire	0	04/06/2020
-2325	Unassigned	1	US	6			New Hampshire	0	04/07/2020
-2349	Unassigned	1	US	10			New Hampshire	0	04/08/2020
-2375	Unassigned	32	US	18			New Hampshire	0	04/09/2020
-2399	Unassigned	32	US	18			New Hampshire	0	04/10/2020
-2424	Unassigned	0	US	19			New Hampshire	0	04/11/2020
-2446	Unassigned	1	US	20			New Hampshire	0	04/12/2020
-2460	Unassigned	1	US	20			New Hampshire	0	04/13/2020
-2470	Unassigned	1	US	24			New Hampshire	0	04/14/2020
-2482	Unassigned	0	US	29			New Hampshire	0	04/15/2020
-2496	Unassigned	0	US	29			New Hampshire	0	04/16/2020
-2498	Unassigned	2	US	34			New Hampshire	0	04/17/2020
-2505	Unassigned	0	US	35			New Hampshire	0	04/18/2020
-2522	Unassigned	0	US	35			New Hampshire	0	04/19/2020
-2531	Unassigned	4	US	39			New Hampshire	0	04/20/2020
-2540	Unassigned	14	US	39			New Hampshire	0	04/21/2020
-2547	Unassigned	17	US	45			New Hampshire	0	04/22/2020
-2564	Unassigned	11	US	48			New Hampshire	0	04/23/2020
-2570	Unassigned	3	US	50			New Hampshire	0	04/24/2020
-2575	Unassigned	9	US	50			New Hampshire	0	04/25/2020
-2583	Unassigned	5	US	57			New Hampshire	0	04/26/2020
-2590	Unassigned	11	US	57			New Hampshire	0	04/27/2020
-2599	Unassigned	7	US	57			New Hampshire	0	04/28/2020
-2604	Unassigned	7	US	57			New Hampshire	0	04/29/2020
-2610	Unassigned	3	US	12			New Hampshire	0	04/30/2020
-2620	Unassigned	15	US	21			New Hampshire	0	05/01/2020
-2624	Unassigned	34	US	24			New Hampshire	0	05/02/2020
-2629	Unassigned	19	US	26			New Hampshire	0	05/03/2020
-2632	Unassigned	15	US	26			New Hampshire	0	05/04/2020
-2640	Unassigned	15	US	32			New Hampshire	0	05/05/2020
-2646	Unassigned	20	US	32			New Hampshire	0	05/06/2020
-2653	Unassigned	21	US	28			New Hampshire	0	05/07/2020
-2660	Unassigned	28	US	35			New Hampshire	0	05/08/2020
-2662	Unassigned	32	US	45			New Hampshire	0	05/09/2020
-2664	Unassigned	28	US	47			New Hampshire	0	05/10/2020
-2664	Unassigned	31	US	47			New Hampshire	0	05/11/2020
-2667	Unassigned	26	US	56			New Hampshire	0	05/12/2020
-2668	Unassigned	26	US	64			New Hampshire	0	05/13/2020
-2670	Unassigned	34	US	19			New Hampshire	0	05/14/2020
-2675	Unassigned	34	US	19			New Hampshire	0	05/15/2020
-2679	Unassigned	10	US	39			New Hampshire	0	05/16/2020
-2682	Unassigned	10	US	40			New Hampshire	0	05/17/2020
-2684	Unassigned	32	US	40			New Hampshire	0	05/18/2020
-2688	Unassigned	11	US	40			New Hampshire	0	05/19/2020
-2694	Unassigned	14	US	58			New Hampshire	0	05/20/2020
-2696	Unassigned	15	US	27			New Hampshire	0	05/21/2020
-2703	Unassigned	17	US	32			New Hampshire	0	05/22/2020
-2705	Unassigned	15	US	36			New Hampshire	0	05/23/2020
-2708	Unassigned	14	US	37			New Hampshire	0	05/24/2020
-2709	Unassigned	12	US	38			New Hampshire	0	05/25/2020
-2710	Unassigned	12	US	42			New Hampshire	0	05/26/2020
-2713	Unassigned	10	US	51			New Hampshire	0	05/27/2020
-2716	Unassigned	10	US	60			New Hampshire	0	05/28/2020
-2719	Unassigned	6	US	0			New Hampshire	0	05/29/2020
-2721	Unassigned	6	US	0			New Hampshire	0	05/30/2020
-2722	Unassigned	6	US	0			New Hampshire	0	05/31/2020
-2724	Unassigned	6	US	0			New Hampshire	0	06/01/2020
-2729	Unassigned	10	US	0			New Hampshire	0	06/02/2020
-2731	Unassigned	10	US	0			New Hampshire	0	06/03/2020
-2732	Unassigned	8	US	0			New Hampshire	0	06/04/2020
-2736	Unassigned	85	US	5			New Hampshire	0	06/05/2020
-2738	Unassigned	10	US	0			New Hampshire	0	06/06/2020
-2738	Unassigned	9	US	0			New Hampshire	0	06/07/2020
-2738	Unassigned	9	US	0			New Hampshire	0	06/08/2020
-2740	Unassigned	9	US	0			New Hampshire	0	06/09/2020
-2742	Unassigned	8	US	0			New Hampshire	0	06/10/2020
-2744	Unassigned	4	US	0			New Hampshire	0	06/11/2020
-2758	Unassigned	5	US	0			New Hampshire	0	06/12/2020
-2761	Unassigned	5	US	0			New Hampshire	0	06/13/2020
-2761	Unassigned	5	US	0			New Hampshire	0	06/14/2020
-2765	Unassigned	5	US	0			New Hampshire	0	06/15/2020
-2763	Unassigned	4	US	0			New Hampshire	0	06/16/2020
-2765	Unassigned	3	US	0			New Hampshire	0	06/17/2020
-2765	Unassigned	1	US	0			New Hampshire	0	06/18/2020
-2766	Unassigned	1	US	0			New Hampshire	0	06/19/2020
-2770	Unassigned	1	US	0			New Hampshire	0	06/20/2020
-2770	Unassigned	2	US	0			New Hampshire	0	06/21/2020
-2773	Unassigned	3	US	0			New Hampshire	0	06/22/2020
-2778	Unassigned	1	US	0			New Hampshire	0	06/23/2020
-2790	Unassigned	2	US	0			New Hampshire	0	06/24/2020
-2795	Unassigned	2	US	0			New Hampshire	0	06/25/2020
-2796	Unassigned	2	US	0			New Hampshire	0	06/26/2020
-2797	Unassigned	2	US	0			New Hampshire	0	06/27/2020
-2797	Unassigned	2	US	0			New Hampshire	0	06/28/2020
-2799	Unassigned	1	US	0			New Hampshire	0	06/29/2020
-2801	Unassigned	1	US	0			New Hampshire	0	06/30/2020
-2803	Unassigned	1	US	0			New Hampshire	0	07/01/2020
-2806	Unassigned	1	US	0			New Hampshire	0	07/02/2020
-2811	Unassigned	2	US	0			New Hampshire	0	07/03/2020
-2812	Unassigned	1	US	0			New Hampshire	0	07/04/2020
-2813	Unassigned	4	US	0			New Hampshire	0	07/05/2020
-2816	Unassigned	3	US	0			New Hampshire	0	07/06/2020
-2817	Unassigned	1	US	0			New Hampshire	0	07/07/2020
-2820	Unassigned	1	US	0			New Hampshire	0	07/08/2020
-2819	Unassigned	1	US	0			New Hampshire	0	07/09/2020
-2823	Unassigned	2	US	0			New Hampshire	0	07/10/2020
-2824	Unassigned	2	US	0			New Hampshire	0	07/11/2020
-2826	Unassigned	6	US	0			New Hampshire	0	07/12/2020
-2827	Unassigned	5	US	0			New Hampshire	0	07/13/2020
-2833	Unassigned	0	US	0			New Hampshire	0	07/14/2020
-2834	Unassigned	0	US	0			New Hampshire	0	07/15/2020
-2836	Unassigned	0	US	0			New Hampshire	0	07/16/2020
-2836	Unassigned	0	US	0			New Hampshire	0	07/17/2020
-2909	Unassigned	0	US	0			New Hampshire	0	07/18/2020
-2909	Unassigned	0	US	0			New Hampshire	0	07/19/2020
-2832	Unassigned	0	US	0			New Hampshire	0	07/20/2020
-2913	Unassigned	0	US	0			New Hampshire	0	07/21/2020
-2914	Unassigned	0	US	0			New Hampshire	0	07/22/2020
-2917	Unassigned	0	US	0			New Hampshire	0	07/23/2020
-2916	Unassigned	0	US	0			New Hampshire	0	07/24/2020
-2917	Unassigned	0	US	0			New Hampshire	0	07/25/2020
-2918	Unassigned	0	US	0			New Hampshire	0	07/26/2020
-2918	Unassigned	0	US	0			New Hampshire	0	07/27/2020
-2918	Unassigned	0	US	0			New Hampshire	0	07/28/2020
-2922	Unassigned	0	US	0			New Hampshire	0	07/29/2020
-2922	Unassigned	3	US	0			New Hampshire	0	07/30/2020
-2924	Unassigned	1	US	0			New Hampshire	0	07/31/2020
-2924	Unassigned	1	US	0			New Hampshire	0	08/01/2020
-2924	Unassigned	0	US	0			New Hampshire	0	08/02/2020
-2924	Unassigned	1	US	0			New Hampshire	0	08/03/2020
-2924	Unassigned	4	US	0			New Hampshire	0	08/04/2020
-2928	Unassigned	3	US	0			New Hampshire	0	08/05/2020
-2928	Unassigned	3	US	0			New Hampshire	0	08/06/2020
-2928	Unassigned	3	US	0			New Hampshire	0	08/07/2020
-2928	Unassigned	6	US	0			New Hampshire	0	08/08/2020
-2928	Unassigned	6	US	0			New Hampshire	0	08/09/2020
-2928	Unassigned	0	US	0			New Hampshire	0	08/10/2020
-2484	Unassigned	0	US	0			New Hampshire	0	08/11/2020
-2438	Unassigned	1	US	0			New Hampshire	0	08/12/2020
-2439	Unassigned	0	US	0			New Hampshire	0	08/13/2020
-2439	Unassigned	0	US	0			New Hampshire	0	08/14/2020
-2439	Unassigned	0	US	0			New Hampshire	0	08/15/2020
-2439	Unassigned	0	US	0			New Hampshire	0	08/16/2020
-2441	Unassigned	0	US	0			New Hampshire	0	08/17/2020
-2441	Unassigned	0	US	0			New Hampshire	0	08/18/2020
-2443	Unassigned	0	US	0			New Hampshire	0	08/19/2020
-2443	Unassigned	2	US	0			New Hampshire	0	08/20/2020
-2443	Unassigned	2	US	0			New Hampshire	0	08/21/2020
-2444	Unassigned	2	US	0			New Hampshire	0	08/22/2020
-2444	Unassigned	6	US	0			New Hampshire	0	08/23/2020
-2444	Unassigned	6	US	0			New Hampshire	0	08/24/2020
-2444	Unassigned	6	US	0			New Hampshire	0	08/25/2020
-2444	Unassigned	6	US	0			New Hampshire	0	08/26/2020
-2444	Unassigned	3	US	0			New Hampshire	0	08/27/2020
-2444	Unassigned	3	US	0			New Hampshire	0	08/28/2020
-2444	Unassigned	3	US	0			New Hampshire	0	08/29/2020
-2444	Unassigned	3	US	0			New Hampshire	0	08/30/2020
-2444	Unassigned	2	US	0			New Hampshire	0	08/31/2020
-2444	Unassigned	2	US	0			New Hampshire	0	09/01/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/02/2020
-2444	Unassigned	2	US	0			New Hampshire	0	09/03/2020
-2444	Unassigned	2	US	0			New Hampshire	0	09/04/2020
-2444	Unassigned	9	US	0			New Hampshire	0	09/05/2020
-2444	Unassigned	4	US	0			New Hampshire	0	09/06/2020
-2444	Unassigned	2	US	0			New Hampshire	0	09/07/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/08/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/09/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/10/2020
-2444	Unassigned	1	US	0			New Hampshire	0	09/11/2020
-2444	Unassigned	1	US	0			New Hampshire	0	09/12/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/13/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/14/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/15/2020
-2444	Unassigned	1	US	0			New Hampshire	0	09/16/2020
-2444	Unassigned	1	US	0			New Hampshire	0	09/17/2020
-2444	Unassigned	2	US	0			New Hampshire	0	09/18/2020
-2444	Unassigned	3	US	0			New Hampshire	0	09/19/2020
-2444	Unassigned	6	US	0			New Hampshire	0	09/20/2020
-2445	Unassigned	5	US	0			New Hampshire	0	09/21/2020
-2445	Unassigned	6	US	0			New Hampshire	0	09/22/2020
-2445	Unassigned	3	US	0			New Hampshire	0	09/23/2020
-2445	Unassigned	2	US	0			New Hampshire	0	09/24/2020
-2445	Unassigned	4	US	0			New Hampshire	0	09/25/2020
-2445	Unassigned	3	US	0			New Hampshire	0	09/26/2020
-2445	Unassigned	4	US	0			New Hampshire	0	09/27/2020
-2445	Unassigned	5	US	0			New Hampshire	0	09/28/2020
-2445	Unassigned	3	US	0			New Hampshire	0	09/29/2020
-2445	Unassigned	3	US	0			New Hampshire	0	09/30/2020
-2445	Unassigned	4	US	0			New Hampshire	0	10/01/2020
-2445	Unassigned	2	US	0			New Hampshire	0	10/02/2020
-2445	Unassigned	5	US	0			New Hampshire	0	10/03/2020
-2445	Unassigned	3	US	0			New Hampshire	0	10/04/2020
-2445	Unassigned	3	US	0			New Hampshire	0	10/05/2020
-2445	Unassigned	6	US	0			New Hampshire	0	10/06/2020
-2445	Unassigned	6	US	0			New Hampshire	0	10/07/2020
-2445	Unassigned	2	US	0			New Hampshire	0	10/08/2020
-2445	Unassigned	7	US	0			New Hampshire	0	10/09/2020
-2445	Unassigned	9	US	0			New Hampshire	0	10/10/2020
-2445	Unassigned	6	US	0			New Hampshire	0	10/11/2020
-2446	Unassigned	8	US	0			New Hampshire	0	10/12/2020
-2446	Unassigned	10	US	0			New Hampshire	0	10/13/2020
-2446	Unassigned	8	US	0			New Hampshire	0	10/14/2020
-2446	Unassigned	8	US	0			New Hampshire	0	10/15/2020
-2447	Unassigned	6	US	0			New Hampshire	0	10/16/2020
-2447	Unassigned	12	US	0			New Hampshire	0	10/17/2020
-2447	Unassigned	12	US	0			New Hampshire	0	10/18/2020
-2448	Unassigned	14	US	0			New Hampshire	0	10/19/2020
-2448	Unassigned	13	US	0			New Hampshire	0	10/20/2020
-2448	Unassigned	17	US	0			New Hampshire	0	10/21/2020
-2448	Unassigned	15	US	0			New Hampshire	0	10/22/2020
-2448	Unassigned	14	US	0			New Hampshire	0	10/23/2020
-2448	Unassigned	16	US	0			New Hampshire	0	10/24/2020
-2448	Unassigned	18	US	0			New Hampshire	0	10/25/2020
-2448	Unassigned	16	US	0			New Hampshire	0	10/26/2020
-2448	Unassigned	21	US	0			New Hampshire	0	10/27/2020
-2449	Unassigned	18	US	0.0			New Hampshire	0	10/28/2020
-2449	Unassigned	18	US	0			New Hampshire	0	10/29/2020
-2449	Unassigned	20	US	0			New Hampshire	0	10/30/2020
-2449	Unassigned	26	US	0			New Hampshire	0	10/31/2020
-2449	Unassigned	12	US	0			New Hampshire	0	11/01/2020
-2449	Unassigned	4	US	0			New Hampshire	0	11/02/2020
-2450	Unassigned	4	US	0			New Hampshire	0	11/03/2020
-2450	Unassigned	9	US	0			New Hampshire	0	11/04/2020
-2450	Unassigned	21	US	0			New Hampshire	0	11/05/2020
-2450	Unassigned	32	US	0			New Hampshire	0	11/06/2020
-2450	Unassigned	35	US	0			New Hampshire	0	11/07/2020
-2450	Unassigned	43	US	0			New Hampshire	0	11/08/2020
-2450	Unassigned	46	US	0			New Hampshire	0.0	11/09/2020
-2450	Unassigned	43	US	0			New Hampshire	0.0	11/10/2020
-2450	Unassigned	58	US	0			New Hampshire	0.0	11/11/2020
-2462	Unassigned	58	US	0			New Hampshire	0	11/12/2020
-2462	Unassigned	68	US	0			New Hampshire	0	11/13/2020
-2462	Unassigned	157	US	0			New Hampshire	0	11/14/2020
-2462	Unassigned	156	US	0			New Hampshire	0	11/15/2020
-2462	Unassigned	167	US	0			New Hampshire	0	11/16/2020
-2462	Unassigned	161	US	0			New Hampshire	0	11/17/2020
-2462	Unassigned	186	US	0			New Hampshire	0	11/18/2020
-2462	Unassigned	204	US	0			New Hampshire	0	11/19/2020
-2462	Unassigned	315	US	0			New Hampshire	0	11/20/2020
-2462	Unassigned	315	US	0			New Hampshire	0	11/21/2020
-2462	Unassigned	327	US	0			New Hampshire	0	11/22/2020
-2462	Unassigned	361	US	0			New Hampshire	0	11/23/2020
-2463	Unassigned	436	US	0			New Hampshire	0	11/24/2020
-2463	Unassigned	451	US	0			New Hampshire	0	11/25/2020
-2463	Unassigned	980	US	0			New Hampshire	0	11/26/2020
-2463	Unassigned	633	US	4			New Hampshire	0	11/27/2020
-2463	Unassigned	490	US	4			New Hampshire	0	11/28/2020
-2463	Unassigned	535	US	1			New Hampshire	0	11/29/2020
-2463	Unassigned	432	US	1			New Hampshire	0	11/30/2020
-2463	Unassigned	390	US	1			New Hampshire	0	12/01/2020
-2463	Unassigned	549	US	4			New Hampshire	0	12/02/2020
-2463	Unassigned	1084	US	4			New Hampshire	0	12/03/2020
-2463	Unassigned	1167	US	0			New Hampshire	0	12/04/2020
-2463	Unassigned	1649	US	0			New Hampshire	0	12/05/2020
-2463	Unassigned	1679	US	0			New Hampshire	0	12/06/2020
-2463	Unassigned	1410	US	0			New Hampshire	0	12/07/2020
-2463	Unassigned	1428	US	0			New Hampshire	0	12/08/2020
-2463	Unassigned	1415	US	0			New Hampshire	0	12/09/2020
-2463	Unassigned	1468	US	0			New Hampshire	0	12/10/2020
-2463	Unassigned	1358	US	1			New Hampshire	0	12/11/2020
-2463	Unassigned	1438	US	0			New Hampshire	0	12/12/2020
-2463	Unassigned	1319	US	0			New Hampshire	0	12/13/2020
-2463	Unassigned	1286	US	0			New Hampshire	0	12/14/2020
-2463	Unassigned	1411	US	0			New Hampshire	0	12/15/2020
-2463	Unassigned	1308	US	0			New Hampshire	0	12/16/2020
-2463	Unassigned	1229	US	0			New Hampshire	0	12/17/2020
-2463	Unassigned	1400	US	0			New Hampshire	0	12/18/2020
-2463	Unassigned	1411	US	0			New Hampshire	0	12/19/2020
-2463	Unassigned	1237	US	0			New Hampshire	0	12/20/2020
-2463	Unassigned	1035	US	0			New Hampshire	0	12/21/2020
-2463	Unassigned	1009	US	0			New Hampshire	0	12/22/2020
-2463	Unassigned	1047	US	0			New Hampshire	0	12/23/2020
-2463	Unassigned	1773	US	0			New Hampshire	0	12/24/2020
-2463	Unassigned	2542	US	0			New Hampshire	0	12/25/2020
-2463	Unassigned	1930	US	1			New Hampshire	0	12/26/2020
-2463	Unassigned	1589	US	0			New Hampshire	0	12/27/2020
-2463	Unassigned	1355	US	0			New Hampshire	0	12/28/2020
-2463	Unassigned	1097	US	0			New Hampshire	0	12/29/2020
-2463	Unassigned	1500	US	0			New Hampshire	0	12/30/2020
-2463	Unassigned	1737	US	0			New Hampshire	0	12/31/2020
-2463	Unassigned	2787	US	0			New Hampshire	0	01/01/2021
-2463	Unassigned	2555	US	0			New Hampshire	0	01/02/2021
-2464	Unassigned	1828	US	0			New Hampshire	0	01/03/2021
-2464	Unassigned	1504	US	1			New Hampshire	0	01/04/2021
-2464	Unassigned	1649	US	1			New Hampshire	0	01/05/2021
-2464	Unassigned	1746	US	1			New Hampshire	0	01/06/2021
-2464	Unassigned	2073	US	1			New Hampshire	0	01/07/2021
-2464	Unassigned	2138	US	1			New Hampshire	0	01/08/2021
-2464	Unassigned	2473	US	0			New Hampshire	0	01/09/2021
-2464	Unassigned	2368	US	0			New Hampshire	0	01/10/2021
-2464	Unassigned	2626	US	0			New Hampshire	0	01/11/2021
-2464	Unassigned	2562	US	0			New Hampshire	0	01/12/2021
-2464	Unassigned	2319	US	0			New Hampshire	0	01/13/2021
-2464	Unassigned	2230	US	0			New Hampshire	0	01/14/2021
-2465	Unassigned	2467	US	0			New Hampshire	0	01/15/2021
-2465	Unassigned	2635	US	1			New Hampshire	0	01/16/2021
-2465	Unassigned	2357	US	1			New Hampshire	0	01/17/2021
-2465	Unassigned	2837	US	1			New Hampshire	0	01/18/2021
-2465	Unassigned	1616	US	1			New Hampshire	0	01/19/2021
-2465	Unassigned	1586	US	1			New Hampshire	0	01/20/2021
-2466	Unassigned	1390	US	1			New Hampshire	0	01/21/2021
-2466	Unassigned	1302	US	1			New Hampshire	0	01/22/2021
-2466	Unassigned	1472	US	1			New Hampshire	0	01/23/2021
-2466	Unassigned	1196	US	1			New Hampshire	0	01/24/2021
-2466	Unassigned	1183	US	1			New Hampshire	0	01/25/2021
-2466	Unassigned	1289	US	1			New Hampshire	0	01/26/2021
-2466	Unassigned	1366	US	1			New Hampshire	0	01/27/2021
-2466	Unassigned	1373	US	1			New Hampshire	0	01/28/2021
-2466	Unassigned	1326	US	1			New Hampshire	0	01/29/2021
-2466	Unassigned	1335	US	2			New Hampshire	0	01/30/2021
-2466	Unassigned	1276	US	4			New Hampshire	0	01/31/2021
-2466	Unassigned	1269	US	4			New Hampshire	0	02/01/2021
-2466	Unassigned	1636	US	4			New Hampshire	0	02/02/2021
-2466	Unassigned	1362	US	4			New Hampshire	0	02/03/2021
-2466	Unassigned	1397	US	4			New Hampshire	0	02/04/2021
-2466	Unassigned	1350	US	4			New Hampshire	0	02/05/2021
-2466	Unassigned	1232	US	4			New Hampshire	0	02/06/2021
-2466	Unassigned	1222	US	5			New Hampshire	0	02/07/2021
-2466	Unassigned	1415	US	5			New Hampshire	0	02/08/2021
-2466	Unassigned	1249	US	5			New Hampshire	0	02/09/2021
-2466	Unassigned	1267	US	5			New Hampshire	0	02/10/2021
-2466	Unassigned	1294	US	5			New Hampshire	0	02/11/2021
-2466	Unassigned	1241	US	5			New Hampshire	0	02/12/2021
-2466	Unassigned	1259	US	5			New Hampshire	0	02/13/2021
-2466	Unassigned	1255	US	5			New Hampshire	0	02/14/2021
-2466	Unassigned	1292	US	5			New Hampshire	0	02/15/2021
-2466	Unassigned	1365	US	5			New Hampshire	0	02/16/2021
-2466	Unassigned	1043	US	5			New Hampshire	0	02/17/2021
-2466	Unassigned	1037	US	5			New Hampshire	0	02/18/2021
-2467	Unassigned	1045	US	5			New Hampshire	0	02/19/2021
-2467	Unassigned	1060	US	5			New Hampshire	0	02/20/2021
-2467	Unassigned	1051	US	5			New Hampshire	0	02/21/2021
-2467	Unassigned	1065	US	5			New Hampshire	0	02/22/2021
-2467	Unassigned	1084	US	5			New Hampshire	0	02/23/2021
-2467	Unassigned	1089	US	5			New Hampshire	0	02/24/2021
-2467	Unassigned	1063	US	5			New Hampshire	0	02/25/2021
-2467	Unassigned	1055	US	5			New Hampshire	0	02/26/2021
-2467	Unassigned	1047	US	5			New Hampshire	0	02/27/2021
-2467	Unassigned	1050	US	5			New Hampshire	0	02/28/2021
-2467	Unassigned	1057	US	5			New Hampshire	0	03/01/2021
-2467	Unassigned	1075	US	5			New Hampshire	0	03/02/2021
-2467	Unassigned	1041	US	5			New Hampshire	0	03/03/2021
-2467	Unassigned	1037	US	5			New Hampshire	0	03/04/2021
-2467	Unassigned	1037	US	5			New Hampshire	0	03/05/2021
-2467	Unassigned	1055	US	5			New Hampshire	0	03/06/2021
-2467	Unassigned	1042	US	5			New Hampshire		03/07/2021
-2467	Unassigned	1049	US	5			New Hampshire		03/08/2021
-2467	Unassigned	1067	US	5			New Hampshire		03/09/2021
-2467	Unassigned	1041	US	5			New Hampshire		03/10/2021
-2467	Unassigned	1039	US	5			New Hampshire		03/11/2021
-2467	Unassigned	1035	US	5			New Hampshire		03/12/2021
-2467	Unassigned	1026	US	5			New Hampshire		03/13/2021
-2467	Unassigned	1041	US	5			New Hampshire		03/14/2021
-2467	Unassigned	1064	US	5			New Hampshire		03/15/2021
-2467	Unassigned	1077	US	5			New Hampshire		03/16/2021
-2467	Unassigned	1093	US	5			New Hampshire		03/17/2021
-2467	Unassigned	1103	US	5			New Hampshire		03/18/2021
-2467	Unassigned	1066	US	5			New Hampshire		03/19/2021
-2467	Unassigned	1074	US	5			New Hampshire		03/20/2021
-2467	Unassigned	1076	US	5			New Hampshire		03/21/2021
-2467	Unassigned	1095	US	5			New Hampshire		03/22/2021
-2467	Unassigned	1114	US	5			New Hampshire		03/23/2021
-2467	Unassigned	1129	US	5			New Hampshire		03/24/2021
-2467	Unassigned	1124	US	5			New Hampshire		03/25/2021
-2467	Unassigned	1117	US	5			New Hampshire		03/26/2021
-2467	Unassigned	1103	US	5			New Hampshire		03/27/2021
-2467	Unassigned	1095	US	5			New Hampshire		03/28/2021
-2467	Unassigned	1122	US	5			New Hampshire		03/29/2021
-2467	Unassigned	1140	US	5			New Hampshire		03/30/2021
-2467	Unassigned	1165	US	5			New Hampshire		03/31/2021
-2467	Unassigned	1106	US	6			New Hampshire		04/01/2021
-2469	Unassigned	1269	US	6			New Hampshire		04/02/2021
-2469	Unassigned	1133	US	6			New Hampshire		04/03/2021
-2469	Unassigned	1154	US	6			New Hampshire		04/04/2021
-2469	Unassigned	1160	US	6			New Hampshire		04/05/2021
-2469	Unassigned	1160	US	6			New Hampshire		04/06/2021
-2469	Unassigned	1163	US	6			New Hampshire		04/07/2021
-2469	Unassigned	1169	US	6			New Hampshire		04/08/2021
-2469	Unassigned	1167	US	6			New Hampshire		04/09/2021
-2469	Unassigned	1188	US	6			New Hampshire		04/10/2021
-2469	Unassigned	1199	US	6			New Hampshire		04/11/2021
-2469	Unassigned	1224	US	6			New Hampshire		04/12/2021
-2469	Unassigned	1243	US	6			New Hampshire		04/13/2021
-2469	Unassigned	1210	US	6			New Hampshire		04/14/2021
-2469	Unassigned	1260	US	6			New Hampshire		04/15/2021
-2469	Unassigned	1188	US	4			New Hampshire		04/16/2021
-2469	Unassigned	1207	US	4			New Hampshire		04/17/2021
-2469	Unassigned	1219	US	4			New Hampshire		04/18/2021
-2469	Unassigned	1186	US	4			New Hampshire		04/19/2021
-2469	Unassigned	1179	US	4			New Hampshire		04/20/2021
-2469	Unassigned	1157	US	4			New Hampshire		04/21/2021
-2469	Unassigned	1177	US	4			New Hampshire		04/22/2021
-2469	Unassigned	1138	US	6			New Hampshire		04/23/2021
-2469	Unassigned	1156	US	6			New Hampshire		04/24/2021
-2469	Unassigned	1178	US	6			New Hampshire		04/25/2021
-2469	Unassigned	1178	US	6			New Hampshire		04/26/2021
-2469	Unassigned	1170	US	6			New Hampshire		04/27/2021
-2469	Unassigned	1157	US	5			New Hampshire		04/28/2021
-2469	Unassigned	1151	US	5			New Hampshire		04/29/2021
-2469	Unassigned	1107	US	5			New Hampshire		04/30/2021
-2469	Unassigned	1116	US	5			New Hampshire		05/01/2021
-2469	Unassigned	1122	US	5			New Hampshire		05/02/2021
-2469	Unassigned	1104	US	5			New Hampshire		05/03/2021
-2469	Unassigned	1086	US	6			New Hampshire		05/04/2021
-2469	Unassigned	1059	US	6			New Hampshire		05/05/2021
-2469	Unassigned	1057	US	6			New Hampshire		05/06/2021
-2469	Unassigned	1033	US	6			New Hampshire		05/07/2021
-2469	Unassigned	1011	US	6			New Hampshire		05/08/2021
-2469	Unassigned	1010	US	6			New Hampshire		05/09/2021
-2469	Unassigned	1024	US	6			New Hampshire		05/10/2021
-2469	Unassigned	1031	US	6			New Hampshire		05/11/2021
-2469	Unassigned	764	US	1			New Hampshire		05/12/2021
-2469	Unassigned	773	US	1			New Hampshire		05/13/2021
-2469	Unassigned	686	US	1			New Hampshire		05/14/2021
-2469	Unassigned	686	US	1			New Hampshire		05/15/2021
-2469	Unassigned	692	US	1			New Hampshire		05/16/2021
-2469	Unassigned	698	US	1			New Hampshire		05/17/2021
-2469	Unassigned	697	US	1			New Hampshire		05/18/2021
-2469	Unassigned	645	US	1			New Hampshire		05/19/2021
-2469	Unassigned	644	US	1			New Hampshire		05/20/2021
-2469	Unassigned	598	US	1			New Hampshire		05/21/2021
-2469	Unassigned	599	US	1			New Hampshire		05/22/2021
-2469	Unassigned	566	US	1			New Hampshire		05/23/2021
-2469	Unassigned	568	US	1			New Hampshire		05/24/2021
-2469	Unassigned	569	US	1			New Hampshire		05/25/2021
-2469	Unassigned	543	US	1			New Hampshire		05/26/2021
-2470	Unassigned	549	US	1			New Hampshire		05/27/2021
-2470	Unassigned	527	US	1			New Hampshire		05/28/2021
-2470	Unassigned	509	US	1			New Hampshire		05/29/2021
-2470	Unassigned	510	US	1			New Hampshire		05/30/2021
-2470	Unassigned	510	US	1			New Hampshire		05/31/2021
-2470	Unassigned	491	US	1			New Hampshire		06/01/2021
-2470	Unassigned	468	US	1			New Hampshire		06/02/2021
-2470	Unassigned	444	US	1			New Hampshire		06/03/2021
-2470	Unassigned	420	US	1			New Hampshire		06/04/2021
-2470	Unassigned	420	US	1			New Hampshire		06/05/2021
-2470	Unassigned	420	US	1			New Hampshire		06/06/2021
-2470	Unassigned	405	US	1			New Hampshire		06/07/2021
-2470	Unassigned	383	US	1			New Hampshire		06/08/2021
-2470	Unassigned	378	US	1			New Hampshire		06/09/2021
-2470	Unassigned	372	US	1			New Hampshire		06/10/2021
-2470	Unassigned	358	US	1			New Hampshire		06/11/2021
-2470	Unassigned	358	US	1			New Hampshire		06/12/2021
-2470	Unassigned	358	US	1			New Hampshire		06/13/2021
-2470	Unassigned	365	US	1			New Hampshire		06/14/2021
-2470	Unassigned	367	US	1			New Hampshire		06/15/2021
-2470	Unassigned	355	US	1			New Hampshire		06/16/2021
-2472	Unassigned	357	US	1			New Hampshire		06/17/2021
-2472	Unassigned	350	US	1			New Hampshire		06/18/2021
-2472	Unassigned	350	US	1			New Hampshire		06/19/2021
-2472	Unassigned	350	US	1			New Hampshire		06/20/2021
-2472	Unassigned	339	US	1			New Hampshire		06/21/2021
-2472	Unassigned	344	US	1			New Hampshire		06/22/2021
-2472	Unassigned	343	US	1			New Hampshire		06/23/2021
-2473	Unassigned	340	US	1			New Hampshire		06/24/2021
-2473	Unassigned	337	US	1			New Hampshire		06/25/2021
-2473	Unassigned	337	US	1			New Hampshire		06/26/2021
-2473	Unassigned	337	US	1			New Hampshire		06/27/2021
-2473	Unassigned	335	US	1			New Hampshire		06/28/2021
-2473	Unassigned	325	US	1			New Hampshire		06/29/2021
-2473	Unassigned	325	US	1			New Hampshire		06/30/2021
-2473	Unassigned	323	US	1			New Hampshire		07/01/2021
-2473	Unassigned	327	US	1			New Hampshire		07/02/2021
-2473	Unassigned	327	US	1			New Hampshire		07/03/2021
-2473	Unassigned	327	US	1			New Hampshire		07/04/2021
-2473	Unassigned	327	US	1			New Hampshire		07/05/2021
-2473	Unassigned	329	US	1			New Hampshire		07/06/2021
-2473	Unassigned	329	US	1			New Hampshire		07/07/2021
-2473	Unassigned	324	US	1			New Hampshire		07/08/2021
-2473	Unassigned	323	US	1			New Hampshire		07/09/2021
-2473	Unassigned	323	US	1			New Hampshire		07/10/2021
-2473	Unassigned	323	US	1			New Hampshire		07/11/2021
-2473	Unassigned	312	US	1			New Hampshire		07/12/2021
-2473	Unassigned	315	US	1			New Hampshire		07/13/2021
-2473	Unassigned	316	US	1			New Hampshire		07/14/2021
-2473	Unassigned	307	US	1			New Hampshire		07/15/2021
-2473	Unassigned	307	US	1			New Hampshire		07/16/2021
-2473	Unassigned	307	US	1			New Hampshire		07/17/2021
-2473	Unassigned	307	US	1			New Hampshire		07/18/2021
-2473	Unassigned	304	US	1			New Hampshire		07/19/2021
-2473	Unassigned	307	US	1			New Hampshire		07/20/2021
-2473	Unassigned	299	US	1			New Hampshire		07/21/2021
-2473	Unassigned	307	US	1			New Hampshire		07/22/2021
-2473	Unassigned	301	US	1			New Hampshire		07/23/2021
-2473	Unassigned	301	US	1			New Hampshire		07/24/2021
-2473	Unassigned	301	US	1			New Hampshire		07/25/2021
-2473	Unassigned	303	US	1			New Hampshire		07/26/2021
-2473	Unassigned	310	US	1			New Hampshire		07/27/2021
-2473	Unassigned	304	US	1			New Hampshire		07/28/2021
-2473	Unassigned	309	US	1			New Hampshire		07/29/2021
-2473	Unassigned	308	US	1			New Hampshire		07/30/2021
-2473	Unassigned	308	US	1			New Hampshire		07/31/2021
-2473	Unassigned	308	US	1			New Hampshire		08/01/2021
-2473	Unassigned	328	US	1			New Hampshire		08/02/2021
-2473	Unassigned	343	US	1			New Hampshire		08/03/2021
-2473	Unassigned	338	US	1			New Hampshire		08/04/2021
-2473	Unassigned	358	US	1			New Hampshire		08/05/2021
-2473	Unassigned	359	US	1			New Hampshire		08/06/2021
-2473	Unassigned	359	US	1			New Hampshire		08/07/2021
-2473	Unassigned	359	US	1			New Hampshire		08/08/2021
-2473	Unassigned	375	US	1			New Hampshire		08/09/2021
-2473	Unassigned	387	US	1			New Hampshire		08/10/2021
-2473	Unassigned	394	US	1			New Hampshire		08/11/2021
-2473	Unassigned	430	US	1			New Hampshire		08/12/2021
-2473	Unassigned	446	US	1			New Hampshire		08/13/2021
-2473	Unassigned	446	US	1			New Hampshire		08/14/2021
-2473	Unassigned	446	US	1			New Hampshire		08/15/2021
-2473	Unassigned	464	US	1			New Hampshire		08/16/2021
-2473	Unassigned	491	US	1			New Hampshire		08/17/2021
-2473	Unassigned	503	US	1			New Hampshire		08/18/2021
-2473	Unassigned	516	US	1			New Hampshire		08/19/2021
-2473	Unassigned	508	US	1			New Hampshire		08/20/2021
-2473	Unassigned	508	US	1			New Hampshire		08/21/2021
-2473	Unassigned	508	US	1			New Hampshire		08/22/2021
-2473	Unassigned	509	US	1			New Hampshire		08/23/2021
-2473	Unassigned	534	US	1			New Hampshire		08/24/2021
-2473	Unassigned	527	US	1			New Hampshire		08/25/2021
-2473	Unassigned	517	US	1			New Hampshire		08/26/2021
-2473	Unassigned	515	US	1			New Hampshire		08/27/2021
-2473	Unassigned	515	US	1			New Hampshire		08/28/2021
-2473	Unassigned	515	US	1			New Hampshire		08/29/2021
-2473	Unassigned	520	US	1			New Hampshire		08/30/2021
-2473	Unassigned	536	US	1			New Hampshire		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2870	New Hampshire	US	03/23/2020	0.0	0.0	23	0	0	Unassigned
+2872	New Hampshire	US	03/27/2020	0.0	0.0	4	0	0	Unassigned
+2875	New Hampshire	US	03/30/2020	0.0	0.0	56	0	0	Unassigned
+1948	New Hampshire	US	03/31/2020	0.0	0.0	0	0	0	Unassigned
+1994	New Hampshire	US	04/01/2020	0.0	0.0	0	0	0	Unassigned
+2067	New Hampshire	US	04/02/2020			0	2	0	Unassigned
+2112	New Hampshire	US	04/03/2020			0	2	0	Unassigned
+2166	New Hampshire	US	04/04/2020			0	4	0	Unassigned
+2240	New Hampshire	US	04/05/2020			4	6	0	Unassigned
+2278	New Hampshire	US	04/06/2020			1	6	0	Unassigned
+2325	New Hampshire	US	04/07/2020			1	6	0	Unassigned
+2349	New Hampshire	US	04/08/2020			1	10	0	Unassigned
+2375	New Hampshire	US	04/09/2020			32	18	0	Unassigned
+2399	New Hampshire	US	04/10/2020			32	18	0	Unassigned
+2424	New Hampshire	US	04/11/2020			0	19	0	Unassigned
+2446	New Hampshire	US	04/12/2020			1	20	0	Unassigned
+2460	New Hampshire	US	04/13/2020			1	20	0	Unassigned
+2470	New Hampshire	US	04/14/2020			1	24	0	Unassigned
+2482	New Hampshire	US	04/15/2020			0	29	0	Unassigned
+2496	New Hampshire	US	04/16/2020			0	29	0	Unassigned
+2498	New Hampshire	US	04/17/2020			2	34	0	Unassigned
+2505	New Hampshire	US	04/18/2020			0	35	0	Unassigned
+2522	New Hampshire	US	04/19/2020			0	35	0	Unassigned
+2531	New Hampshire	US	04/20/2020			4	39	0	Unassigned
+2540	New Hampshire	US	04/21/2020			14	39	0	Unassigned
+2547	New Hampshire	US	04/22/2020			17	45	0	Unassigned
+2564	New Hampshire	US	04/23/2020			11	48	0	Unassigned
+2570	New Hampshire	US	04/24/2020			3	50	0	Unassigned
+2575	New Hampshire	US	04/25/2020			9	50	0	Unassigned
+2583	New Hampshire	US	04/26/2020			5	57	0	Unassigned
+2590	New Hampshire	US	04/27/2020			11	57	0	Unassigned
+2599	New Hampshire	US	04/28/2020			7	57	0	Unassigned
+2604	New Hampshire	US	04/29/2020			7	57	0	Unassigned
+2610	New Hampshire	US	04/30/2020			3	12	0	Unassigned
+2620	New Hampshire	US	05/01/2020			15	21	0	Unassigned
+2624	New Hampshire	US	05/02/2020			34	24	0	Unassigned
+2629	New Hampshire	US	05/03/2020			19	26	0	Unassigned
+2632	New Hampshire	US	05/04/2020			15	26	0	Unassigned
+2640	New Hampshire	US	05/05/2020			15	32	0	Unassigned
+2646	New Hampshire	US	05/06/2020			20	32	0	Unassigned
+2653	New Hampshire	US	05/07/2020			21	28	0	Unassigned
+2660	New Hampshire	US	05/08/2020			28	35	0	Unassigned
+2662	New Hampshire	US	05/09/2020			32	45	0	Unassigned
+2664	New Hampshire	US	05/10/2020			28	47	0	Unassigned
+2664	New Hampshire	US	05/11/2020			31	47	0	Unassigned
+2667	New Hampshire	US	05/12/2020			26	56	0	Unassigned
+2668	New Hampshire	US	05/13/2020			26	64	0	Unassigned
+2670	New Hampshire	US	05/14/2020			34	19	0	Unassigned
+2675	New Hampshire	US	05/15/2020			34	19	0	Unassigned
+2679	New Hampshire	US	05/16/2020			10	39	0	Unassigned
+2682	New Hampshire	US	05/17/2020			10	40	0	Unassigned
+2684	New Hampshire	US	05/18/2020			32	40	0	Unassigned
+2688	New Hampshire	US	05/19/2020			11	40	0	Unassigned
+2694	New Hampshire	US	05/20/2020			14	58	0	Unassigned
+2696	New Hampshire	US	05/21/2020			15	27	0	Unassigned
+2703	New Hampshire	US	05/22/2020			17	32	0	Unassigned
+2705	New Hampshire	US	05/23/2020			15	36	0	Unassigned
+2708	New Hampshire	US	05/24/2020			14	37	0	Unassigned
+2709	New Hampshire	US	05/25/2020			12	38	0	Unassigned
+2710	New Hampshire	US	05/26/2020			12	42	0	Unassigned
+2713	New Hampshire	US	05/27/2020			10	51	0	Unassigned
+2716	New Hampshire	US	05/28/2020			10	60	0	Unassigned
+2719	New Hampshire	US	05/29/2020			6	0	0	Unassigned
+2721	New Hampshire	US	05/30/2020			6	0	0	Unassigned
+2722	New Hampshire	US	05/31/2020			6	0	0	Unassigned
+2724	New Hampshire	US	06/01/2020			6	0	0	Unassigned
+2729	New Hampshire	US	06/02/2020			10	0	0	Unassigned
+2731	New Hampshire	US	06/03/2020			10	0	0	Unassigned
+2732	New Hampshire	US	06/04/2020			8	0	0	Unassigned
+2736	New Hampshire	US	06/05/2020			85	5	0	Unassigned
+2738	New Hampshire	US	06/06/2020			10	0	0	Unassigned
+2738	New Hampshire	US	06/07/2020			9	0	0	Unassigned
+2738	New Hampshire	US	06/08/2020			9	0	0	Unassigned
+2740	New Hampshire	US	06/09/2020			9	0	0	Unassigned
+2742	New Hampshire	US	06/10/2020			8	0	0	Unassigned
+2744	New Hampshire	US	06/11/2020			4	0	0	Unassigned
+2758	New Hampshire	US	06/12/2020			5	0	0	Unassigned
+2761	New Hampshire	US	06/13/2020			5	0	0	Unassigned
+2761	New Hampshire	US	06/14/2020			5	0	0	Unassigned
+2765	New Hampshire	US	06/15/2020			5	0	0	Unassigned
+2763	New Hampshire	US	06/16/2020			4	0	0	Unassigned
+2765	New Hampshire	US	06/17/2020			3	0	0	Unassigned
+2765	New Hampshire	US	06/18/2020			1	0	0	Unassigned
+2766	New Hampshire	US	06/19/2020			1	0	0	Unassigned
+2770	New Hampshire	US	06/20/2020			1	0	0	Unassigned
+2770	New Hampshire	US	06/21/2020			2	0	0	Unassigned
+2773	New Hampshire	US	06/22/2020			3	0	0	Unassigned
+2778	New Hampshire	US	06/23/2020			1	0	0	Unassigned
+2790	New Hampshire	US	06/24/2020			2	0	0	Unassigned
+2795	New Hampshire	US	06/25/2020			2	0	0	Unassigned
+2796	New Hampshire	US	06/26/2020			2	0	0	Unassigned
+2797	New Hampshire	US	06/27/2020			2	0	0	Unassigned
+2797	New Hampshire	US	06/28/2020			2	0	0	Unassigned
+2799	New Hampshire	US	06/29/2020			1	0	0	Unassigned
+2801	New Hampshire	US	06/30/2020			1	0	0	Unassigned
+2803	New Hampshire	US	07/01/2020			1	0	0	Unassigned
+2806	New Hampshire	US	07/02/2020			1	0	0	Unassigned
+2811	New Hampshire	US	07/03/2020			2	0	0	Unassigned
+2812	New Hampshire	US	07/04/2020			1	0	0	Unassigned
+2813	New Hampshire	US	07/05/2020			4	0	0	Unassigned
+2816	New Hampshire	US	07/06/2020			3	0	0	Unassigned
+2817	New Hampshire	US	07/07/2020			1	0	0	Unassigned
+2820	New Hampshire	US	07/08/2020			1	0	0	Unassigned
+2819	New Hampshire	US	07/09/2020			1	0	0	Unassigned
+2823	New Hampshire	US	07/10/2020			2	0	0	Unassigned
+2824	New Hampshire	US	07/11/2020			2	0	0	Unassigned
+2826	New Hampshire	US	07/12/2020			6	0	0	Unassigned
+2827	New Hampshire	US	07/13/2020			5	0	0	Unassigned
+2833	New Hampshire	US	07/14/2020			0	0	0	Unassigned
+2834	New Hampshire	US	07/15/2020			0	0	0	Unassigned
+2836	New Hampshire	US	07/16/2020			0	0	0	Unassigned
+2836	New Hampshire	US	07/17/2020			0	0	0	Unassigned
+2909	New Hampshire	US	07/18/2020			0	0	0	Unassigned
+2909	New Hampshire	US	07/19/2020			0	0	0	Unassigned
+2832	New Hampshire	US	07/20/2020			0	0	0	Unassigned
+2913	New Hampshire	US	07/21/2020			0	0	0	Unassigned
+2914	New Hampshire	US	07/22/2020			0	0	0	Unassigned
+2917	New Hampshire	US	07/23/2020			0	0	0	Unassigned
+2916	New Hampshire	US	07/24/2020			0	0	0	Unassigned
+2917	New Hampshire	US	07/25/2020			0	0	0	Unassigned
+2918	New Hampshire	US	07/26/2020			0	0	0	Unassigned
+2918	New Hampshire	US	07/27/2020			0	0	0	Unassigned
+2918	New Hampshire	US	07/28/2020			0	0	0	Unassigned
+2922	New Hampshire	US	07/29/2020			0	0	0	Unassigned
+2922	New Hampshire	US	07/30/2020			3	0	0	Unassigned
+2924	New Hampshire	US	07/31/2020			1	0	0	Unassigned
+2924	New Hampshire	US	08/01/2020			1	0	0	Unassigned
+2924	New Hampshire	US	08/02/2020			0	0	0	Unassigned
+2924	New Hampshire	US	08/03/2020			1	0	0	Unassigned
+2924	New Hampshire	US	08/04/2020			4	0	0	Unassigned
+2928	New Hampshire	US	08/05/2020			3	0	0	Unassigned
+2928	New Hampshire	US	08/06/2020			3	0	0	Unassigned
+2928	New Hampshire	US	08/07/2020			3	0	0	Unassigned
+2928	New Hampshire	US	08/08/2020			6	0	0	Unassigned
+2928	New Hampshire	US	08/09/2020			6	0	0	Unassigned
+2928	New Hampshire	US	08/10/2020			0	0	0	Unassigned
+2484	New Hampshire	US	08/11/2020			0	0	0	Unassigned
+2438	New Hampshire	US	08/12/2020			1	0	0	Unassigned
+2439	New Hampshire	US	08/13/2020			0	0	0	Unassigned
+2439	New Hampshire	US	08/14/2020			0	0	0	Unassigned
+2439	New Hampshire	US	08/15/2020			0	0	0	Unassigned
+2439	New Hampshire	US	08/16/2020			0	0	0	Unassigned
+2441	New Hampshire	US	08/17/2020			0	0	0	Unassigned
+2441	New Hampshire	US	08/18/2020			0	0	0	Unassigned
+2443	New Hampshire	US	08/19/2020			0	0	0	Unassigned
+2443	New Hampshire	US	08/20/2020			2	0	0	Unassigned
+2443	New Hampshire	US	08/21/2020			2	0	0	Unassigned
+2444	New Hampshire	US	08/22/2020			2	0	0	Unassigned
+2444	New Hampshire	US	08/23/2020			6	0	0	Unassigned
+2444	New Hampshire	US	08/24/2020			6	0	0	Unassigned
+2444	New Hampshire	US	08/25/2020			6	0	0	Unassigned
+2444	New Hampshire	US	08/26/2020			6	0	0	Unassigned
+2444	New Hampshire	US	08/27/2020			3	0	0	Unassigned
+2444	New Hampshire	US	08/28/2020			3	0	0	Unassigned
+2444	New Hampshire	US	08/29/2020			3	0	0	Unassigned
+2444	New Hampshire	US	08/30/2020			3	0	0	Unassigned
+2444	New Hampshire	US	08/31/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/01/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/02/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/03/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/04/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/05/2020			9	0	0	Unassigned
+2444	New Hampshire	US	09/06/2020			4	0	0	Unassigned
+2444	New Hampshire	US	09/07/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/08/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/09/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/10/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/11/2020			1	0	0	Unassigned
+2444	New Hampshire	US	09/12/2020			1	0	0	Unassigned
+2444	New Hampshire	US	09/13/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/14/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/15/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/16/2020			1	0	0	Unassigned
+2444	New Hampshire	US	09/17/2020			1	0	0	Unassigned
+2444	New Hampshire	US	09/18/2020			2	0	0	Unassigned
+2444	New Hampshire	US	09/19/2020			3	0	0	Unassigned
+2444	New Hampshire	US	09/20/2020			6	0	0	Unassigned
+2445	New Hampshire	US	09/21/2020			5	0	0	Unassigned
+2445	New Hampshire	US	09/22/2020			6	0	0	Unassigned
+2445	New Hampshire	US	09/23/2020			3	0	0	Unassigned
+2445	New Hampshire	US	09/24/2020			2	0	0	Unassigned
+2445	New Hampshire	US	09/25/2020			4	0	0	Unassigned
+2445	New Hampshire	US	09/26/2020			3	0	0	Unassigned
+2445	New Hampshire	US	09/27/2020			4	0	0	Unassigned
+2445	New Hampshire	US	09/28/2020			5	0	0	Unassigned
+2445	New Hampshire	US	09/29/2020			3	0	0	Unassigned
+2445	New Hampshire	US	09/30/2020			3	0	0	Unassigned
+2445	New Hampshire	US	10/01/2020			4	0	0	Unassigned
+2445	New Hampshire	US	10/02/2020			2	0	0	Unassigned
+2445	New Hampshire	US	10/03/2020			5	0	0	Unassigned
+2445	New Hampshire	US	10/04/2020			3	0	0	Unassigned
+2445	New Hampshire	US	10/05/2020			3	0	0	Unassigned
+2445	New Hampshire	US	10/06/2020			6	0	0	Unassigned
+2445	New Hampshire	US	10/07/2020			6	0	0	Unassigned
+2445	New Hampshire	US	10/08/2020			2	0	0	Unassigned
+2445	New Hampshire	US	10/09/2020			7	0	0	Unassigned
+2445	New Hampshire	US	10/10/2020			9	0	0	Unassigned
+2445	New Hampshire	US	10/11/2020			6	0	0	Unassigned
+2446	New Hampshire	US	10/12/2020			8	0	0	Unassigned
+2446	New Hampshire	US	10/13/2020			10	0	0	Unassigned
+2446	New Hampshire	US	10/14/2020			8	0	0	Unassigned
+2446	New Hampshire	US	10/15/2020			8	0	0	Unassigned
+2447	New Hampshire	US	10/16/2020			6	0	0	Unassigned
+2447	New Hampshire	US	10/17/2020			12	0	0	Unassigned
+2447	New Hampshire	US	10/18/2020			12	0	0	Unassigned
+2448	New Hampshire	US	10/19/2020			14	0	0	Unassigned
+2448	New Hampshire	US	10/20/2020			13	0	0	Unassigned
+2448	New Hampshire	US	10/21/2020			17	0	0	Unassigned
+2448	New Hampshire	US	10/22/2020			15	0	0	Unassigned
+2448	New Hampshire	US	10/23/2020			14	0	0	Unassigned
+2448	New Hampshire	US	10/24/2020			16	0	0	Unassigned
+2448	New Hampshire	US	10/25/2020			18	0	0	Unassigned
+2448	New Hampshire	US	10/26/2020			16	0	0	Unassigned
+2448	New Hampshire	US	10/27/2020			21	0	0	Unassigned
+2449	New Hampshire	US	10/28/2020			18	0.0	0	Unassigned
+2449	New Hampshire	US	10/29/2020			18	0	0	Unassigned
+2449	New Hampshire	US	10/30/2020			20	0	0	Unassigned
+2449	New Hampshire	US	10/31/2020			26	0	0	Unassigned
+2449	New Hampshire	US	11/01/2020			12	0	0	Unassigned
+2449	New Hampshire	US	11/02/2020			4	0	0	Unassigned
+2450	New Hampshire	US	11/03/2020			4	0	0	Unassigned
+2450	New Hampshire	US	11/04/2020			9	0	0	Unassigned
+2450	New Hampshire	US	11/05/2020			21	0	0	Unassigned
+2450	New Hampshire	US	11/06/2020			32	0	0	Unassigned
+2450	New Hampshire	US	11/07/2020			35	0	0	Unassigned
+2450	New Hampshire	US	11/08/2020			43	0	0	Unassigned
+2450	New Hampshire	US	11/09/2020			46	0	0.0	Unassigned
+2450	New Hampshire	US	11/10/2020			43	0	0.0	Unassigned
+2450	New Hampshire	US	11/11/2020			58	0	0.0	Unassigned
+2462	New Hampshire	US	11/12/2020			58	0	0	Unassigned
+2462	New Hampshire	US	11/13/2020			68	0	0	Unassigned
+2462	New Hampshire	US	11/14/2020			157	0	0	Unassigned
+2462	New Hampshire	US	11/15/2020			156	0	0	Unassigned
+2462	New Hampshire	US	11/16/2020			167	0	0	Unassigned
+2462	New Hampshire	US	11/17/2020			161	0	0	Unassigned
+2462	New Hampshire	US	11/18/2020			186	0	0	Unassigned
+2462	New Hampshire	US	11/19/2020			204	0	0	Unassigned
+2462	New Hampshire	US	11/20/2020			315	0	0	Unassigned
+2462	New Hampshire	US	11/21/2020			315	0	0	Unassigned
+2462	New Hampshire	US	11/22/2020			327	0	0	Unassigned
+2462	New Hampshire	US	11/23/2020			361	0	0	Unassigned
+2463	New Hampshire	US	11/24/2020			436	0	0	Unassigned
+2463	New Hampshire	US	11/25/2020			451	0	0	Unassigned
+2463	New Hampshire	US	11/26/2020			980	0	0	Unassigned
+2463	New Hampshire	US	11/27/2020			633	4	0	Unassigned
+2463	New Hampshire	US	11/28/2020			490	4	0	Unassigned
+2463	New Hampshire	US	11/29/2020			535	1	0	Unassigned
+2463	New Hampshire	US	11/30/2020			432	1	0	Unassigned
+2463	New Hampshire	US	12/01/2020			390	1	0	Unassigned
+2463	New Hampshire	US	12/02/2020			549	4	0	Unassigned
+2463	New Hampshire	US	12/03/2020			1084	4	0	Unassigned
+2463	New Hampshire	US	12/04/2020			1167	0	0	Unassigned
+2463	New Hampshire	US	12/05/2020			1649	0	0	Unassigned
+2463	New Hampshire	US	12/06/2020			1679	0	0	Unassigned
+2463	New Hampshire	US	12/07/2020			1410	0	0	Unassigned
+2463	New Hampshire	US	12/08/2020			1428	0	0	Unassigned
+2463	New Hampshire	US	12/09/2020			1415	0	0	Unassigned
+2463	New Hampshire	US	12/10/2020			1468	0	0	Unassigned
+2463	New Hampshire	US	12/11/2020			1358	1	0	Unassigned
+2463	New Hampshire	US	12/12/2020			1438	0	0	Unassigned
+2463	New Hampshire	US	12/13/2020			1319	0	0	Unassigned
+2463	New Hampshire	US	12/14/2020			1286	0	0	Unassigned
+2463	New Hampshire	US	12/15/2020			1411	0	0	Unassigned
+2463	New Hampshire	US	12/16/2020			1308	0	0	Unassigned
+2463	New Hampshire	US	12/17/2020			1229	0	0	Unassigned
+2463	New Hampshire	US	12/18/2020			1400	0	0	Unassigned
+2463	New Hampshire	US	12/19/2020			1411	0	0	Unassigned
+2463	New Hampshire	US	12/20/2020			1237	0	0	Unassigned
+2463	New Hampshire	US	12/21/2020			1035	0	0	Unassigned
+2463	New Hampshire	US	12/22/2020			1009	0	0	Unassigned
+2463	New Hampshire	US	12/23/2020			1047	0	0	Unassigned
+2463	New Hampshire	US	12/24/2020			1773	0	0	Unassigned
+2463	New Hampshire	US	12/25/2020			2542	0	0	Unassigned
+2463	New Hampshire	US	12/26/2020			1930	1	0	Unassigned
+2463	New Hampshire	US	12/27/2020			1589	0	0	Unassigned
+2463	New Hampshire	US	12/28/2020			1355	0	0	Unassigned
+2463	New Hampshire	US	12/29/2020			1097	0	0	Unassigned
+2463	New Hampshire	US	12/30/2020			1500	0	0	Unassigned
+2463	New Hampshire	US	12/31/2020			1737	0	0	Unassigned
+2463	New Hampshire	US	01/01/2021			2787	0	0	Unassigned
+2463	New Hampshire	US	01/02/2021			2555	0	0	Unassigned
+2464	New Hampshire	US	01/03/2021			1828	0	0	Unassigned
+2464	New Hampshire	US	01/04/2021			1504	1	0	Unassigned
+2464	New Hampshire	US	01/05/2021			1649	1	0	Unassigned
+2464	New Hampshire	US	01/06/2021			1746	1	0	Unassigned
+2464	New Hampshire	US	01/07/2021			2073	1	0	Unassigned
+2464	New Hampshire	US	01/08/2021			2138	1	0	Unassigned
+2464	New Hampshire	US	01/09/2021			2473	0	0	Unassigned
+2464	New Hampshire	US	01/10/2021			2368	0	0	Unassigned
+2464	New Hampshire	US	01/11/2021			2626	0	0	Unassigned
+2464	New Hampshire	US	01/12/2021			2562	0	0	Unassigned
+2464	New Hampshire	US	01/13/2021			2319	0	0	Unassigned
+2464	New Hampshire	US	01/14/2021			2230	0	0	Unassigned
+2465	New Hampshire	US	01/15/2021			2467	0	0	Unassigned
+2465	New Hampshire	US	01/16/2021			2635	1	0	Unassigned
+2465	New Hampshire	US	01/17/2021			2357	1	0	Unassigned
+2465	New Hampshire	US	01/18/2021			2837	1	0	Unassigned
+2465	New Hampshire	US	01/19/2021			1616	1	0	Unassigned
+2465	New Hampshire	US	01/20/2021			1586	1	0	Unassigned
+2466	New Hampshire	US	01/21/2021			1390	1	0	Unassigned
+2466	New Hampshire	US	01/22/2021			1302	1	0	Unassigned
+2466	New Hampshire	US	01/23/2021			1472	1	0	Unassigned
+2466	New Hampshire	US	01/24/2021			1196	1	0	Unassigned
+2466	New Hampshire	US	01/25/2021			1183	1	0	Unassigned
+2466	New Hampshire	US	01/26/2021			1289	1	0	Unassigned
+2466	New Hampshire	US	01/27/2021			1366	1	0	Unassigned
+2466	New Hampshire	US	01/28/2021			1373	1	0	Unassigned
+2466	New Hampshire	US	01/29/2021			1326	1	0	Unassigned
+2466	New Hampshire	US	01/30/2021			1335	2	0	Unassigned
+2466	New Hampshire	US	01/31/2021			1276	4	0	Unassigned
+2466	New Hampshire	US	02/01/2021			1269	4	0	Unassigned
+2466	New Hampshire	US	02/02/2021			1636	4	0	Unassigned
+2466	New Hampshire	US	02/03/2021			1362	4	0	Unassigned
+2466	New Hampshire	US	02/04/2021			1397	4	0	Unassigned
+2466	New Hampshire	US	02/05/2021			1350	4	0	Unassigned
+2466	New Hampshire	US	02/06/2021			1232	4	0	Unassigned
+2466	New Hampshire	US	02/07/2021			1222	5	0	Unassigned
+2466	New Hampshire	US	02/08/2021			1415	5	0	Unassigned
+2466	New Hampshire	US	02/09/2021			1249	5	0	Unassigned
+2466	New Hampshire	US	02/10/2021			1267	5	0	Unassigned
+2466	New Hampshire	US	02/11/2021			1294	5	0	Unassigned
+2466	New Hampshire	US	02/12/2021			1241	5	0	Unassigned
+2466	New Hampshire	US	02/13/2021			1259	5	0	Unassigned
+2466	New Hampshire	US	02/14/2021			1255	5	0	Unassigned
+2466	New Hampshire	US	02/15/2021			1292	5	0	Unassigned
+2466	New Hampshire	US	02/16/2021			1365	5	0	Unassigned
+2466	New Hampshire	US	02/17/2021			1043	5	0	Unassigned
+2466	New Hampshire	US	02/18/2021			1037	5	0	Unassigned
+2467	New Hampshire	US	02/19/2021			1045	5	0	Unassigned
+2467	New Hampshire	US	02/20/2021			1060	5	0	Unassigned
+2467	New Hampshire	US	02/21/2021			1051	5	0	Unassigned
+2467	New Hampshire	US	02/22/2021			1065	5	0	Unassigned
+2467	New Hampshire	US	02/23/2021			1084	5	0	Unassigned
+2467	New Hampshire	US	02/24/2021			1089	5	0	Unassigned
+2467	New Hampshire	US	02/25/2021			1063	5	0	Unassigned
+2467	New Hampshire	US	02/26/2021			1055	5	0	Unassigned
+2467	New Hampshire	US	02/27/2021			1047	5	0	Unassigned
+2467	New Hampshire	US	02/28/2021			1050	5	0	Unassigned
+2467	New Hampshire	US	03/01/2021			1057	5	0	Unassigned
+2467	New Hampshire	US	03/02/2021			1075	5	0	Unassigned
+2467	New Hampshire	US	03/03/2021			1041	5	0	Unassigned
+2467	New Hampshire	US	03/04/2021			1037	5	0	Unassigned
+2467	New Hampshire	US	03/05/2021			1037	5	0	Unassigned
+2467	New Hampshire	US	03/06/2021			1055	5	0	Unassigned
+2467	New Hampshire	US	03/07/2021			1042	5		Unassigned
+2467	New Hampshire	US	03/08/2021			1049	5		Unassigned
+2467	New Hampshire	US	03/09/2021			1067	5		Unassigned
+2467	New Hampshire	US	03/10/2021			1041	5		Unassigned
+2467	New Hampshire	US	03/11/2021			1039	5		Unassigned
+2467	New Hampshire	US	03/12/2021			1035	5		Unassigned
+2467	New Hampshire	US	03/13/2021			1026	5		Unassigned
+2467	New Hampshire	US	03/14/2021			1041	5		Unassigned
+2467	New Hampshire	US	03/15/2021			1064	5		Unassigned
+2467	New Hampshire	US	03/16/2021			1077	5		Unassigned
+2467	New Hampshire	US	03/17/2021			1093	5		Unassigned
+2467	New Hampshire	US	03/18/2021			1103	5		Unassigned
+2467	New Hampshire	US	03/19/2021			1066	5		Unassigned
+2467	New Hampshire	US	03/20/2021			1074	5		Unassigned
+2467	New Hampshire	US	03/21/2021			1076	5		Unassigned
+2467	New Hampshire	US	03/22/2021			1095	5		Unassigned
+2467	New Hampshire	US	03/23/2021			1114	5		Unassigned
+2467	New Hampshire	US	03/24/2021			1129	5		Unassigned
+2467	New Hampshire	US	03/25/2021			1124	5		Unassigned
+2467	New Hampshire	US	03/26/2021			1117	5		Unassigned
+2467	New Hampshire	US	03/27/2021			1103	5		Unassigned
+2467	New Hampshire	US	03/28/2021			1095	5		Unassigned
+2467	New Hampshire	US	03/29/2021			1122	5		Unassigned
+2467	New Hampshire	US	03/30/2021			1140	5		Unassigned
+2467	New Hampshire	US	03/31/2021			1165	5		Unassigned
+2467	New Hampshire	US	04/01/2021			1106	6		Unassigned
+2469	New Hampshire	US	04/02/2021			1269	6		Unassigned
+2469	New Hampshire	US	04/03/2021			1133	6		Unassigned
+2469	New Hampshire	US	04/04/2021			1154	6		Unassigned
+2469	New Hampshire	US	04/05/2021			1160	6		Unassigned
+2469	New Hampshire	US	04/06/2021			1160	6		Unassigned
+2469	New Hampshire	US	04/07/2021			1163	6		Unassigned
+2469	New Hampshire	US	04/08/2021			1169	6		Unassigned
+2469	New Hampshire	US	04/09/2021			1167	6		Unassigned
+2469	New Hampshire	US	04/10/2021			1188	6		Unassigned
+2469	New Hampshire	US	04/11/2021			1199	6		Unassigned
+2469	New Hampshire	US	04/12/2021			1224	6		Unassigned
+2469	New Hampshire	US	04/13/2021			1243	6		Unassigned
+2469	New Hampshire	US	04/14/2021			1210	6		Unassigned
+2469	New Hampshire	US	04/15/2021			1260	6		Unassigned
+2469	New Hampshire	US	04/16/2021			1188	4		Unassigned
+2469	New Hampshire	US	04/17/2021			1207	4		Unassigned
+2469	New Hampshire	US	04/18/2021			1219	4		Unassigned
+2469	New Hampshire	US	04/19/2021			1186	4		Unassigned
+2469	New Hampshire	US	04/20/2021			1179	4		Unassigned
+2469	New Hampshire	US	04/21/2021			1157	4		Unassigned
+2469	New Hampshire	US	04/22/2021			1177	4		Unassigned
+2469	New Hampshire	US	04/23/2021			1138	6		Unassigned
+2469	New Hampshire	US	04/24/2021			1156	6		Unassigned
+2469	New Hampshire	US	04/25/2021			1178	6		Unassigned
+2469	New Hampshire	US	04/26/2021			1178	6		Unassigned
+2469	New Hampshire	US	04/27/2021			1170	6		Unassigned
+2469	New Hampshire	US	04/28/2021			1157	5		Unassigned
+2469	New Hampshire	US	04/29/2021			1151	5		Unassigned
+2469	New Hampshire	US	04/30/2021			1107	5		Unassigned
+2469	New Hampshire	US	05/01/2021			1116	5		Unassigned
+2469	New Hampshire	US	05/02/2021			1122	5		Unassigned
+2469	New Hampshire	US	05/03/2021			1104	5		Unassigned
+2469	New Hampshire	US	05/04/2021			1086	6		Unassigned
+2469	New Hampshire	US	05/05/2021			1059	6		Unassigned
+2469	New Hampshire	US	05/06/2021			1057	6		Unassigned
+2469	New Hampshire	US	05/07/2021			1033	6		Unassigned
+2469	New Hampshire	US	05/08/2021			1011	6		Unassigned
+2469	New Hampshire	US	05/09/2021			1010	6		Unassigned
+2469	New Hampshire	US	05/10/2021			1024	6		Unassigned
+2469	New Hampshire	US	05/11/2021			1031	6		Unassigned
+2469	New Hampshire	US	05/12/2021			764	1		Unassigned
+2469	New Hampshire	US	05/13/2021			773	1		Unassigned
+2469	New Hampshire	US	05/14/2021			686	1		Unassigned
+2469	New Hampshire	US	05/15/2021			686	1		Unassigned
+2469	New Hampshire	US	05/16/2021			692	1		Unassigned
+2469	New Hampshire	US	05/17/2021			698	1		Unassigned
+2469	New Hampshire	US	05/18/2021			697	1		Unassigned
+2469	New Hampshire	US	05/19/2021			645	1		Unassigned
+2469	New Hampshire	US	05/20/2021			644	1		Unassigned
+2469	New Hampshire	US	05/21/2021			598	1		Unassigned
+2469	New Hampshire	US	05/22/2021			599	1		Unassigned
+2469	New Hampshire	US	05/23/2021			566	1		Unassigned
+2469	New Hampshire	US	05/24/2021			568	1		Unassigned
+2469	New Hampshire	US	05/25/2021			569	1		Unassigned
+2469	New Hampshire	US	05/26/2021			543	1		Unassigned
+2470	New Hampshire	US	05/27/2021			549	1		Unassigned
+2470	New Hampshire	US	05/28/2021			527	1		Unassigned
+2470	New Hampshire	US	05/29/2021			509	1		Unassigned
+2470	New Hampshire	US	05/30/2021			510	1		Unassigned
+2470	New Hampshire	US	05/31/2021			510	1		Unassigned
+2470	New Hampshire	US	06/01/2021			491	1		Unassigned
+2470	New Hampshire	US	06/02/2021			468	1		Unassigned
+2470	New Hampshire	US	06/03/2021			444	1		Unassigned
+2470	New Hampshire	US	06/04/2021			420	1		Unassigned
+2470	New Hampshire	US	06/05/2021			420	1		Unassigned
+2470	New Hampshire	US	06/06/2021			420	1		Unassigned
+2470	New Hampshire	US	06/07/2021			405	1		Unassigned
+2470	New Hampshire	US	06/08/2021			383	1		Unassigned
+2470	New Hampshire	US	06/09/2021			378	1		Unassigned
+2470	New Hampshire	US	06/10/2021			372	1		Unassigned
+2470	New Hampshire	US	06/11/2021			358	1		Unassigned
+2470	New Hampshire	US	06/12/2021			358	1		Unassigned
+2470	New Hampshire	US	06/13/2021			358	1		Unassigned
+2470	New Hampshire	US	06/14/2021			365	1		Unassigned
+2470	New Hampshire	US	06/15/2021			367	1		Unassigned
+2470	New Hampshire	US	06/16/2021			355	1		Unassigned
+2472	New Hampshire	US	06/17/2021			357	1		Unassigned
+2472	New Hampshire	US	06/18/2021			350	1		Unassigned
+2472	New Hampshire	US	06/19/2021			350	1		Unassigned
+2472	New Hampshire	US	06/20/2021			350	1		Unassigned
+2472	New Hampshire	US	06/21/2021			339	1		Unassigned
+2472	New Hampshire	US	06/22/2021			344	1		Unassigned
+2472	New Hampshire	US	06/23/2021			343	1		Unassigned
+2473	New Hampshire	US	06/24/2021			340	1		Unassigned
+2473	New Hampshire	US	06/25/2021			337	1		Unassigned
+2473	New Hampshire	US	06/26/2021			337	1		Unassigned
+2473	New Hampshire	US	06/27/2021			337	1		Unassigned
+2473	New Hampshire	US	06/28/2021			335	1		Unassigned
+2473	New Hampshire	US	06/29/2021			325	1		Unassigned
+2473	New Hampshire	US	06/30/2021			325	1		Unassigned
+2473	New Hampshire	US	07/01/2021			323	1		Unassigned
+2473	New Hampshire	US	07/02/2021			327	1		Unassigned
+2473	New Hampshire	US	07/03/2021			327	1		Unassigned
+2473	New Hampshire	US	07/04/2021			327	1		Unassigned
+2473	New Hampshire	US	07/05/2021			327	1		Unassigned
+2473	New Hampshire	US	07/06/2021			329	1		Unassigned
+2473	New Hampshire	US	07/07/2021			329	1		Unassigned
+2473	New Hampshire	US	07/08/2021			324	1		Unassigned
+2473	New Hampshire	US	07/09/2021			323	1		Unassigned
+2473	New Hampshire	US	07/10/2021			323	1		Unassigned
+2473	New Hampshire	US	07/11/2021			323	1		Unassigned
+2473	New Hampshire	US	07/12/2021			312	1		Unassigned
+2473	New Hampshire	US	07/13/2021			315	1		Unassigned
+2473	New Hampshire	US	07/14/2021			316	1		Unassigned
+2473	New Hampshire	US	07/15/2021			307	1		Unassigned
+2473	New Hampshire	US	07/16/2021			307	1		Unassigned
+2473	New Hampshire	US	07/17/2021			307	1		Unassigned
+2473	New Hampshire	US	07/18/2021			307	1		Unassigned
+2473	New Hampshire	US	07/19/2021			304	1		Unassigned
+2473	New Hampshire	US	07/20/2021			307	1		Unassigned
+2473	New Hampshire	US	07/21/2021			299	1		Unassigned
+2473	New Hampshire	US	07/22/2021			307	1		Unassigned
+2473	New Hampshire	US	07/23/2021			301	1		Unassigned
+2473	New Hampshire	US	07/24/2021			301	1		Unassigned
+2473	New Hampshire	US	07/25/2021			301	1		Unassigned
+2473	New Hampshire	US	07/26/2021			303	1		Unassigned
+2473	New Hampshire	US	07/27/2021			310	1		Unassigned
+2473	New Hampshire	US	07/28/2021			304	1		Unassigned
+2473	New Hampshire	US	07/29/2021			309	1		Unassigned
+2473	New Hampshire	US	07/30/2021			308	1		Unassigned
+2473	New Hampshire	US	07/31/2021			308	1		Unassigned
+2473	New Hampshire	US	08/01/2021			308	1		Unassigned
+2473	New Hampshire	US	08/02/2021			328	1		Unassigned
+2473	New Hampshire	US	08/03/2021			343	1		Unassigned
+2473	New Hampshire	US	08/04/2021			338	1		Unassigned
+2473	New Hampshire	US	08/05/2021			358	1		Unassigned
+2473	New Hampshire	US	08/06/2021			359	1		Unassigned
+2473	New Hampshire	US	08/07/2021			359	1		Unassigned
+2473	New Hampshire	US	08/08/2021			359	1		Unassigned
+2473	New Hampshire	US	08/09/2021			375	1		Unassigned
+2473	New Hampshire	US	08/10/2021			387	1		Unassigned
+2473	New Hampshire	US	08/11/2021			394	1		Unassigned
+2473	New Hampshire	US	08/12/2021			430	1		Unassigned
+2473	New Hampshire	US	08/13/2021			446	1		Unassigned
+2473	New Hampshire	US	08/14/2021			446	1		Unassigned
+2473	New Hampshire	US	08/15/2021			446	1		Unassigned
+2473	New Hampshire	US	08/16/2021			464	1		Unassigned
+2473	New Hampshire	US	08/17/2021			491	1		Unassigned
+2473	New Hampshire	US	08/18/2021			503	1		Unassigned
+2473	New Hampshire	US	08/19/2021			516	1		Unassigned
+2473	New Hampshire	US	08/20/2021			508	1		Unassigned
+2473	New Hampshire	US	08/21/2021			508	1		Unassigned
+2473	New Hampshire	US	08/22/2021			508	1		Unassigned
+2473	New Hampshire	US	08/23/2021			509	1		Unassigned
+2473	New Hampshire	US	08/24/2021			534	1		Unassigned
+2473	New Hampshire	US	08/25/2021			527	1		Unassigned
+2473	New Hampshire	US	08/26/2021			517	1		Unassigned
+2473	New Hampshire	US	08/27/2021			515	1		Unassigned
+2473	New Hampshire	US	08/28/2021			515	1		Unassigned
+2473	New Hampshire	US	08/29/2021			515	1		Unassigned
+2473	New Hampshire	US	08/30/2021			520	1		Unassigned
+2473	New Hampshire	US	08/31/2021			536	1		Unassigned
+2473	New Hampshire	US	09/01/2021			518	1		Unassigned

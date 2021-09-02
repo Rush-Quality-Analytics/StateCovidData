@@ -1,318 +1,319 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-709	Bristol Bay plus Lake and Peninsula	34	US	0	58.62403337	-156.21405890000003	Alaska	0	10/19/2020
-709	Bristol Bay plus Lake and Peninsula	34	US	0	58.62403337	-156.21405890000003	Alaska	0	10/20/2020
-709	Bristol Bay plus Lake and Peninsula	37	US	0	58.62403337	-156.21405890000003	Alaska	0	10/21/2020
-709	Bristol Bay plus Lake and Peninsula	37	US	0	58.62403337	-156.21405890000003	Alaska	0	10/22/2020
-709	Bristol Bay plus Lake and Peninsula	37	US	0	58.62403337	-156.21405890000003	Alaska	0	10/23/2020
-709	Bristol Bay plus Lake and Peninsula	37	US	0	58.62403337	-156.21405890000003	Alaska	0	10/24/2020
-709	Bristol Bay plus Lake and Peninsula	38	US	0	58.62403337	-156.21405890000003	Alaska	0	10/25/2020
-709	Bristol Bay plus Lake and Peninsula	38	US	0	58.62403337	-156.21405890000003	Alaska	0	10/26/2020
-709	Bristol Bay plus Lake and Peninsula	105	US	0	58.62403337	-156.21405890000003	Alaska	0	10/27/2020
-710	Bristol Bay plus Lake and Peninsula	107	US	0.0	58.62403337	-156.21405890000003	Alaska	0	10/28/2020
-710	Bristol Bay plus Lake and Peninsula	108	US	0	58.62403337	-156.21405890000003	Alaska	0	10/29/2020
-710	Bristol Bay plus Lake and Peninsula	110	US	0	58.62403337	-156.21405890000003	Alaska	0	10/30/2020
-710	Bristol Bay plus Lake and Peninsula	113	US	0	58.62403337	-156.21405890000003	Alaska	0	10/31/2020
-710	Bristol Bay plus Lake and Peninsula	113	US	0	58.62403337	-156.21405890000003	Alaska	0	11/01/2020
-710	Bristol Bay plus Lake and Peninsula	113	US	0	58.62403337	-156.21405890000003	Alaska	0	11/02/2020
-710	Bristol Bay plus Lake and Peninsula	115	US	0	58.62403337	-156.21405890000003	Alaska	0	11/03/2020
-710	Bristol Bay plus Lake and Peninsula	115	US	0	58.62403337	-156.21405890000003	Alaska	0	11/04/2020
-710	Bristol Bay plus Lake and Peninsula	115	US	0	58.62403337	-156.21405890000003	Alaska	0	11/05/2020
-710	Bristol Bay plus Lake and Peninsula	116	US	0	58.62403337	-156.21405890000003	Alaska	0	11/06/2020
-710	Bristol Bay plus Lake and Peninsula	116	US	0	58.62403337	-156.21405890000003	Alaska	0	11/07/2020
-710	Bristol Bay plus Lake and Peninsula	117	US	0	58.62403337	-156.21405890000003	Alaska	0	11/08/2020
-710	Bristol Bay plus Lake and Peninsula	122	US	0	58.62403337	-156.21405890000003	Alaska	0.0	11/09/2020
-710	Bristol Bay plus Lake and Peninsula	122	US	0	58.62403337	-156.21405890000003	Alaska	0.0	11/10/2020
-710	Bristol Bay plus Lake and Peninsula	122	US	0	58.62403337	-156.21405890000003	Alaska	0.0	11/11/2020
-722	Bristol Bay plus Lake and Peninsula	124	US	0	58.62403337	-156.21405890000003	Alaska	0	11/12/2020
-722	Bristol Bay plus Lake and Peninsula	128	US	0	58.62403337	-156.21405890000003	Alaska	0	11/13/2020
-722	Bristol Bay plus Lake and Peninsula	129	US	0	58.62403337	-156.21405890000003	Alaska	0	11/14/2020
-722	Bristol Bay plus Lake and Peninsula	133	US	0	58.62403337	-156.21405890000003	Alaska	0	11/15/2020
-722	Bristol Bay plus Lake and Peninsula	133	US	0	58.62403337	-156.21405890000003	Alaska	0	11/16/2020
-722	Bristol Bay plus Lake and Peninsula	137	US	0	58.62403337	-156.21405890000003	Alaska	0	11/17/2020
-722	Bristol Bay plus Lake and Peninsula	138	US	0	58.62403337	-156.21405890000003	Alaska	0	11/18/2020
-722	Bristol Bay plus Lake and Peninsula	140	US	0	58.62403337	-156.21405890000003	Alaska	0	11/19/2020
-722	Bristol Bay plus Lake and Peninsula	141	US	0	58.62403337	-156.21405890000003	Alaska	0	11/20/2020
-722	Bristol Bay plus Lake and Peninsula	141	US	0	58.62403337	-156.21405890000003	Alaska	0	11/21/2020
-722	Bristol Bay plus Lake and Peninsula	143	US	0	58.62403337	-156.21405890000003	Alaska	0	11/22/2020
-722	Bristol Bay plus Lake and Peninsula	143	US	0	58.62403337	-156.21405890000003	Alaska	0	11/23/2020
-723	Bristol Bay plus Lake and Peninsula	143	US	0	58.62403337	-156.21405890000003	Alaska	0	11/24/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/25/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/26/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/27/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/28/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/29/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	11/30/2020
-723	Bristol Bay plus Lake and Peninsula	144	US	0	58.62403337	-156.21405890000003	Alaska	0	12/01/2020
-723	Bristol Bay plus Lake and Peninsula	145	US	0	58.62403337	-156.21405890000003	Alaska	0	12/02/2020
-723	Bristol Bay plus Lake and Peninsula	145	US	0	58.62403337	-156.21405890000003	Alaska	0	12/03/2020
-723	Bristol Bay plus Lake and Peninsula	147	US	0	58.62403337	-156.21405890000003	Alaska	0	12/04/2020
-723	Bristol Bay plus Lake and Peninsula	148	US	0	58.62403337	-156.21405890000003	Alaska	0	12/05/2020
-723	Bristol Bay plus Lake and Peninsula	150	US	0	58.62403337	-156.21405890000003	Alaska	0	12/06/2020
-723	Bristol Bay plus Lake and Peninsula	150	US	0	58.62403337	-156.21405890000003	Alaska	0	12/07/2020
-723	Bristol Bay plus Lake and Peninsula	151	US	0	58.62403337	-156.21405890000003	Alaska	0	12/08/2020
-723	Bristol Bay plus Lake and Peninsula	151	US	0	58.62403337	-156.21405890000003	Alaska	0	12/09/2020
-723	Bristol Bay plus Lake and Peninsula	152	US	0	58.62403337	-156.21405890000003	Alaska	0	12/10/2020
-723	Bristol Bay plus Lake and Peninsula	152	US	0	58.62403337	-156.21405890000003	Alaska	0	12/11/2020
-723	Bristol Bay plus Lake and Peninsula	153	US	0	58.62403337	-156.21405890000003	Alaska	0	12/12/2020
-723	Bristol Bay plus Lake and Peninsula	153	US	0	58.62403337	-156.21405890000003	Alaska	0	12/13/2020
-723	Bristol Bay plus Lake and Peninsula	154	US	0	58.62403337	-156.21405890000003	Alaska	0	12/14/2020
-723	Bristol Bay plus Lake and Peninsula	155	US	0	58.62403337	-156.21405890000003	Alaska	0	12/15/2020
-723	Bristol Bay plus Lake and Peninsula	154	US	0	58.62403337	-156.21405890000003	Alaska	0	12/16/2020
-723	Bristol Bay plus Lake and Peninsula	155	US	0	58.62403337	-156.21405890000003	Alaska	0	12/17/2020
-723	Bristol Bay plus Lake and Peninsula	155	US	0	58.62403337	-156.21405890000003	Alaska	0	12/18/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/19/2020
-723	Bristol Bay plus Lake and Peninsula	156	US	0	58.62403337	-156.21405890000003	Alaska	0	12/20/2020
-723	Bristol Bay plus Lake and Peninsula	156	US	0	58.62403337	-156.21405890000003	Alaska	0	12/21/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/22/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/23/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/24/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/25/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/26/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/27/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/28/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/29/2020
-723	Bristol Bay plus Lake and Peninsula	157	US	0	58.62403337	-156.21405890000003	Alaska	0	12/30/2020
-723	Bristol Bay plus Lake and Peninsula	158	US	0	58.62403337	-156.21405890000003	Alaska	0	12/31/2020
-723	Bristol Bay plus Lake and Peninsula	158	US	0	58.62403337	-156.21405890000003	Alaska	0	01/01/2021
-723	Bristol Bay plus Lake and Peninsula	160	US	0	58.62403337	-156.21405890000003	Alaska	0	01/02/2021
-724	Bristol Bay plus Lake and Peninsula	160	US	0	58.62403337	-156.21405890000003	Alaska	0	01/03/2021
-724	Bristol Bay plus Lake and Peninsula	160	US	0	58.62403337	-156.21405890000003	Alaska	0	01/04/2021
-724	Bristol Bay plus Lake and Peninsula	160	US	0	58.62403337	-156.21405890000003	Alaska	0	01/05/2021
-724	Bristol Bay plus Lake and Peninsula	159	US	0	58.62403337	-156.21405890000003	Alaska	0	01/06/2021
-724	Bristol Bay plus Lake and Peninsula	159	US	0	58.62403337	-156.21405890000003	Alaska	0	01/07/2021
-724	Bristol Bay plus Lake and Peninsula	163	US	0	58.62403337	-156.21405890000003	Alaska	0	01/08/2021
-724	Bristol Bay plus Lake and Peninsula	163	US	0	58.62403337	-156.21405890000003	Alaska	0	01/09/2021
-724	Bristol Bay plus Lake and Peninsula	161	US	0	58.62403337	-156.21405890000003	Alaska	0	01/10/2021
-724	Bristol Bay plus Lake and Peninsula	162	US	0	58.62403337	-156.21405890000003	Alaska	0	01/11/2021
-724	Bristol Bay plus Lake and Peninsula	161	US	0	58.62403337	-156.21405890000003	Alaska	0	01/12/2021
-724	Bristol Bay plus Lake and Peninsula	161	US	0	58.62403337	-156.21405890000003	Alaska	0	01/13/2021
-724	Bristol Bay plus Lake and Peninsula	162	US	0	58.62403337	-156.21405890000003	Alaska	0	01/14/2021
-724	Bristol Bay plus Lake and Peninsula	163	US	0	58.62403337	-156.21405890000003	Alaska	0	01/15/2021
-724	Bristol Bay plus Lake and Peninsula	163	US	0	58.62403337	-156.21405890000003	Alaska	0	01/16/2021
-724	Bristol Bay plus Lake and Peninsula	167	US	0	58.62403337	-156.21405890000003	Alaska	0	01/17/2021
-724	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	01/18/2021
-724	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	01/19/2021
-724	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	01/20/2021
-725	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	01/21/2021
-725	Bristol Bay plus Lake and Peninsula	169	US	0	58.62403337	-156.21405890000003	Alaska	0	01/22/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/23/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/24/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/25/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/26/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/27/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/28/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/29/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/30/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	01/31/2021
-725	Bristol Bay plus Lake and Peninsula	170	US	0	58.62403337	-156.21405890000003	Alaska	0	02/01/2021
-725	Bristol Bay plus Lake and Peninsula	169	US	0	58.62403337	-156.21405890000003	Alaska	0	02/02/2021
-725	Bristol Bay plus Lake and Peninsula	169	US	0	58.62403337	-156.21405890000003	Alaska	0	02/03/2021
-725	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	02/04/2021
-725	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	02/05/2021
-725	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	02/06/2021
-725	Bristol Bay plus Lake and Peninsula	168	US	0	58.62403337	-156.21405890000003	Alaska	0	02/07/2021
-725	Bristol Bay plus Lake and Peninsula	171	US	0	58.62403337	-156.21405890000003	Alaska	0	02/08/2021
-725	Bristol Bay plus Lake and Peninsula	172	US	0	58.62403337	-156.21405890000003	Alaska	0	02/09/2021
-725	Bristol Bay plus Lake and Peninsula	174	US	0	58.62403337	-156.21405890000003	Alaska	0	02/10/2021
-725	Bristol Bay plus Lake and Peninsula	174	US	0	58.62403337	-156.21405890000003	Alaska	0	02/11/2021
-725	Bristol Bay plus Lake and Peninsula	180	US	0	58.62403337	-156.21405890000003	Alaska	0	02/12/2021
-725	Bristol Bay plus Lake and Peninsula	180	US	0	58.62403337	-156.21405890000003	Alaska	0	02/13/2021
-725	Bristol Bay plus Lake and Peninsula	180	US	0	58.62403337	-156.21405890000003	Alaska	0	02/14/2021
-725	Bristol Bay plus Lake and Peninsula	180	US	0	58.62403337	-156.21405890000003	Alaska	0	02/15/2021
-725	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/16/2021
-725	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/17/2021
-725	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/18/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/19/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/20/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/21/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/22/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/23/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/24/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/25/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/26/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/27/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	02/28/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/01/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/02/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/03/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/04/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/05/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska	0	03/06/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/07/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/08/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/09/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/10/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/11/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/12/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/13/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/14/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/15/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/16/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/17/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/18/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/19/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/20/2021
-726	Bristol Bay plus Lake and Peninsula	177	US	0	58.62403337	-156.21405890000003	Alaska		03/21/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/22/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/23/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/24/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/25/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/26/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/27/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/28/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/29/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/30/2021
-726	Bristol Bay plus Lake and Peninsula	185	US	0	58.62403337	-156.21405890000003	Alaska		03/31/2021
-726	Bristol Bay plus Lake and Peninsula	187	US	0	58.62403337	-156.21405890000003	Alaska		04/01/2021
-726	Bristol Bay plus Lake and Peninsula	187	US	0	58.62403337	-156.21405890000003	Alaska		04/02/2021
-726	Bristol Bay plus Lake and Peninsula	187	US	0	58.62403337	-156.21405890000003	Alaska		04/03/2021
-726	Bristol Bay plus Lake and Peninsula	187	US	0	58.62403337	-156.21405890000003	Alaska		04/04/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/05/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/06/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/07/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/08/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/09/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/10/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/11/2021
-726	Bristol Bay plus Lake and Peninsula	188	US	0	58.62403337	-156.21405890000003	Alaska		04/12/2021
-726	Bristol Bay plus Lake and Peninsula	189	US	0	58.62403337	-156.21405890000003	Alaska		04/13/2021
-726	Bristol Bay plus Lake and Peninsula	190	US	0	58.62403337	-156.21405890000003	Alaska		04/14/2021
-726	Bristol Bay plus Lake and Peninsula	194	US	0	58.62403337	-156.21405890000003	Alaska		04/15/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/16/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/17/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/18/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/19/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/20/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/21/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/22/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/23/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/24/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/25/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/26/2021
-726	Bristol Bay plus Lake and Peninsula	193	US	0	58.62403337	-156.21405890000003	Alaska		04/27/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		04/28/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		04/29/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		04/30/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/01/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/02/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/03/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/04/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/05/2021
-726	Bristol Bay plus Lake and Peninsula	195	US	0	58.62403337	-156.21405890000003	Alaska		05/06/2021
-726	Bristol Bay plus Lake and Peninsula	196	US	0	58.62403337	-156.21405890000003	Alaska		05/07/2021
-726	Bristol Bay plus Lake and Peninsula	196	US	0	58.62403337	-156.21405890000003	Alaska		05/08/2021
-726	Bristol Bay plus Lake and Peninsula	196	US	0	58.62403337	-156.21405890000003	Alaska		05/09/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/10/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/11/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/12/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/13/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/14/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/15/2021
-726	Bristol Bay plus Lake and Peninsula	197	US	0	58.62403337	-156.21405890000003	Alaska		05/16/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/17/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/18/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/19/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/20/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/21/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/22/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/23/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/24/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/25/2021
-726	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/26/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/27/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/28/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/29/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/30/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		05/31/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/01/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/02/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/03/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/04/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/05/2021
-727	Bristol Bay plus Lake and Peninsula	198	US	0	58.62403337	-156.21405890000003	Alaska		06/06/2021
-727	Bristol Bay plus Lake and Peninsula	200	US	0	58.62403337	-156.21405890000003	Alaska		06/07/2021
-727	Bristol Bay plus Lake and Peninsula	200	US	0	58.62403337	-156.21405890000003	Alaska		06/08/2021
-727	Bristol Bay plus Lake and Peninsula	201	US	0	58.62403337	-156.21405890000003	Alaska		06/09/2021
-727	Bristol Bay plus Lake and Peninsula	201	US	0	58.62403337	-156.21405890000003	Alaska		06/10/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/11/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/12/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/13/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/14/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/15/2021
-727	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/16/2021
-729	Bristol Bay plus Lake and Peninsula	202	US	0	58.62403337	-156.21405890000003	Alaska		06/17/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/18/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/19/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/20/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/21/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/22/2021
-729	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/23/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/24/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/25/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/26/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/27/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/28/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/29/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		06/30/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/01/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/02/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/03/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/04/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/05/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/06/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/07/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/08/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/09/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/10/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/11/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/12/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/13/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/14/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/15/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/16/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/17/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/18/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/19/2021
-730	Bristol Bay plus Lake and Peninsula	203	US	0	58.62403337	-156.21405890000003	Alaska		07/20/2021
-730	Bristol Bay plus Lake and Peninsula	204	US	0	58.62403337	-156.21405890000003	Alaska		07/21/2021
-730	Bristol Bay plus Lake and Peninsula	204	US	0	58.62403337	-156.21405890000003	Alaska		07/22/2021
-730	Bristol Bay plus Lake and Peninsula	204	US	0	58.62403337	-156.21405890000003	Alaska		07/23/2021
-730	Bristol Bay plus Lake and Peninsula	204	US	0	58.62403337	-156.21405890000003	Alaska		07/24/2021
-730	Bristol Bay plus Lake and Peninsula	204	US	0	58.62403337	-156.21405890000003	Alaska		07/25/2021
-730	Bristol Bay plus Lake and Peninsula	205	US	0	58.62403337	-156.21405890000003	Alaska		07/26/2021
-730	Bristol Bay plus Lake and Peninsula	205	US	0	58.62403337	-156.21405890000003	Alaska		07/27/2021
-730	Bristol Bay plus Lake and Peninsula	206	US	0	58.62403337	-156.21405890000003	Alaska		07/28/2021
-730	Bristol Bay plus Lake and Peninsula	206	US	0	58.62403337	-156.21405890000003	Alaska		07/29/2021
-730	Bristol Bay plus Lake and Peninsula	207	US	0	58.62403337	-156.21405890000003	Alaska		07/30/2021
-730	Bristol Bay plus Lake and Peninsula	207	US	0	58.62403337	-156.21405890000003	Alaska		07/31/2021
-730	Bristol Bay plus Lake and Peninsula	207	US	0	58.62403337	-156.21405890000003	Alaska		08/01/2021
-730	Bristol Bay plus Lake and Peninsula	208	US	0	58.62403337	-156.21405890000003	Alaska		08/02/2021
-730	Bristol Bay plus Lake and Peninsula	208	US	0	58.62403337	-156.21405890000003	Alaska		08/03/2021
-730	Bristol Bay plus Lake and Peninsula	208	US	0	58.62403337	-156.21405890000003	Alaska		08/04/2021
-730	Bristol Bay plus Lake and Peninsula	208	US	0	58.62403337	-156.21405890000003	Alaska		08/05/2021
-730	Bristol Bay plus Lake and Peninsula	210	US	0	58.62403337	-156.21405890000003	Alaska		08/06/2021
-730	Bristol Bay plus Lake and Peninsula	210	US	0	58.62403337	-156.21405890000003	Alaska		08/07/2021
-730	Bristol Bay plus Lake and Peninsula	210	US	0	58.62403337	-156.21405890000003	Alaska		08/08/2021
-730	Bristol Bay plus Lake and Peninsula	214	US	0	58.62403337	-156.21405890000003	Alaska		08/09/2021
-730	Bristol Bay plus Lake and Peninsula	215	US	0	58.62403337	-156.21405890000003	Alaska		08/10/2021
-730	Bristol Bay plus Lake and Peninsula	215	US	0	58.62403337	-156.21405890000003	Alaska		08/11/2021
-730	Bristol Bay plus Lake and Peninsula	217	US	0	58.62403337	-156.21405890000003	Alaska		08/12/2021
-730	Bristol Bay plus Lake and Peninsula	226	US	0	58.62403337	-156.21405890000003	Alaska		08/13/2021
-730	Bristol Bay plus Lake and Peninsula	226	US	0	58.62403337	-156.21405890000003	Alaska		08/14/2021
-730	Bristol Bay plus Lake and Peninsula	226	US	0	58.62403337	-156.21405890000003	Alaska		08/15/2021
-730	Bristol Bay plus Lake and Peninsula	232	US	0	58.62403337	-156.21405890000003	Alaska		08/16/2021
-730	Bristol Bay plus Lake and Peninsula	232	US	0	58.62403337	-156.21405890000003	Alaska		08/17/2021
-730	Bristol Bay plus Lake and Peninsula	239	US	0	58.62403337	-156.21405890000003	Alaska		08/18/2021
-730	Bristol Bay plus Lake and Peninsula	239	US	0	58.62403337	-156.21405890000003	Alaska		08/19/2021
-730	Bristol Bay plus Lake and Peninsula	240	US	0	58.62403337	-156.21405890000003	Alaska		08/20/2021
-730	Bristol Bay plus Lake and Peninsula	240	US	0	58.62403337	-156.21405890000003	Alaska		08/21/2021
-730	Bristol Bay plus Lake and Peninsula	240	US	0	58.62403337	-156.21405890000003	Alaska		08/22/2021
-730	Bristol Bay plus Lake and Peninsula	243	US	0	58.62403337	-156.21405890000003	Alaska		08/23/2021
-730	Bristol Bay plus Lake and Peninsula	243	US	0	58.62403337	-156.21405890000003	Alaska		08/24/2021
-730	Bristol Bay plus Lake and Peninsula	247	US	0	58.62403337	-156.21405890000003	Alaska		08/25/2021
-730	Bristol Bay plus Lake and Peninsula	247	US	0	58.62403337	-156.21405890000003	Alaska		08/26/2021
-730	Bristol Bay plus Lake and Peninsula	247	US	0	58.62403337	-156.21405890000003	Alaska		08/27/2021
-730	Bristol Bay plus Lake and Peninsula	247	US	0	58.62403337	-156.21405890000003	Alaska		08/28/2021
-730	Bristol Bay plus Lake and Peninsula	247	US	0	58.62403337	-156.21405890000003	Alaska		08/29/2021
-730	Bristol Bay plus Lake and Peninsula	253	US	0	58.62403337	-156.21405890000003	Alaska		08/30/2021
-730	Bristol Bay plus Lake and Peninsula	253	US	0	58.62403337	-156.21405890000003	Alaska		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+709	Alaska	US	10/19/2020	58.62403337	-156.21405890000003	34	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/20/2020	58.62403337	-156.21405890000003	34	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/21/2020	58.62403337	-156.21405890000003	37	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/22/2020	58.62403337	-156.21405890000003	37	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/23/2020	58.62403337	-156.21405890000003	37	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/24/2020	58.62403337	-156.21405890000003	37	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/25/2020	58.62403337	-156.21405890000003	38	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/26/2020	58.62403337	-156.21405890000003	38	0	0	Bristol Bay plus Lake and Peninsula
+709	Alaska	US	10/27/2020	58.62403337	-156.21405890000003	105	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	10/28/2020	58.62403337	-156.21405890000003	107	0.0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	10/29/2020	58.62403337	-156.21405890000003	108	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	10/30/2020	58.62403337	-156.21405890000003	110	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	10/31/2020	58.62403337	-156.21405890000003	113	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/01/2020	58.62403337	-156.21405890000003	113	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/02/2020	58.62403337	-156.21405890000003	113	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/03/2020	58.62403337	-156.21405890000003	115	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/04/2020	58.62403337	-156.21405890000003	115	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/05/2020	58.62403337	-156.21405890000003	115	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/06/2020	58.62403337	-156.21405890000003	116	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/07/2020	58.62403337	-156.21405890000003	116	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/08/2020	58.62403337	-156.21405890000003	117	0	0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/09/2020	58.62403337	-156.21405890000003	122	0	0.0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/10/2020	58.62403337	-156.21405890000003	122	0	0.0	Bristol Bay plus Lake and Peninsula
+710	Alaska	US	11/11/2020	58.62403337	-156.21405890000003	122	0	0.0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/12/2020	58.62403337	-156.21405890000003	124	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/13/2020	58.62403337	-156.21405890000003	128	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/14/2020	58.62403337	-156.21405890000003	129	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/15/2020	58.62403337	-156.21405890000003	133	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/16/2020	58.62403337	-156.21405890000003	133	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/17/2020	58.62403337	-156.21405890000003	137	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/18/2020	58.62403337	-156.21405890000003	138	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/19/2020	58.62403337	-156.21405890000003	140	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/20/2020	58.62403337	-156.21405890000003	141	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/21/2020	58.62403337	-156.21405890000003	141	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/22/2020	58.62403337	-156.21405890000003	143	0	0	Bristol Bay plus Lake and Peninsula
+722	Alaska	US	11/23/2020	58.62403337	-156.21405890000003	143	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/24/2020	58.62403337	-156.21405890000003	143	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/25/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/26/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/27/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/28/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/29/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	11/30/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/01/2020	58.62403337	-156.21405890000003	144	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/02/2020	58.62403337	-156.21405890000003	145	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/03/2020	58.62403337	-156.21405890000003	145	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/04/2020	58.62403337	-156.21405890000003	147	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/05/2020	58.62403337	-156.21405890000003	148	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/06/2020	58.62403337	-156.21405890000003	150	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/07/2020	58.62403337	-156.21405890000003	150	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/08/2020	58.62403337	-156.21405890000003	151	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/09/2020	58.62403337	-156.21405890000003	151	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/10/2020	58.62403337	-156.21405890000003	152	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/11/2020	58.62403337	-156.21405890000003	152	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/12/2020	58.62403337	-156.21405890000003	153	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/13/2020	58.62403337	-156.21405890000003	153	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/14/2020	58.62403337	-156.21405890000003	154	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/15/2020	58.62403337	-156.21405890000003	155	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/16/2020	58.62403337	-156.21405890000003	154	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/17/2020	58.62403337	-156.21405890000003	155	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/18/2020	58.62403337	-156.21405890000003	155	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/19/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/20/2020	58.62403337	-156.21405890000003	156	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/21/2020	58.62403337	-156.21405890000003	156	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/22/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/23/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/24/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/25/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/26/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/27/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/28/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/29/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/30/2020	58.62403337	-156.21405890000003	157	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	12/31/2020	58.62403337	-156.21405890000003	158	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	01/01/2021	58.62403337	-156.21405890000003	158	0	0	Bristol Bay plus Lake and Peninsula
+723	Alaska	US	01/02/2021	58.62403337	-156.21405890000003	160	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/03/2021	58.62403337	-156.21405890000003	160	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/04/2021	58.62403337	-156.21405890000003	160	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/05/2021	58.62403337	-156.21405890000003	160	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/06/2021	58.62403337	-156.21405890000003	159	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/07/2021	58.62403337	-156.21405890000003	159	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/08/2021	58.62403337	-156.21405890000003	163	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/09/2021	58.62403337	-156.21405890000003	163	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/10/2021	58.62403337	-156.21405890000003	161	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/11/2021	58.62403337	-156.21405890000003	162	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/12/2021	58.62403337	-156.21405890000003	161	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/13/2021	58.62403337	-156.21405890000003	161	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/14/2021	58.62403337	-156.21405890000003	162	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/15/2021	58.62403337	-156.21405890000003	163	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/16/2021	58.62403337	-156.21405890000003	163	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/17/2021	58.62403337	-156.21405890000003	167	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/18/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/19/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+724	Alaska	US	01/20/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/21/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/22/2021	58.62403337	-156.21405890000003	169	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/23/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/24/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/25/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/26/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/27/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/28/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/29/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/30/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	01/31/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/01/2021	58.62403337	-156.21405890000003	170	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/02/2021	58.62403337	-156.21405890000003	169	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/03/2021	58.62403337	-156.21405890000003	169	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/04/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/05/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/06/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/07/2021	58.62403337	-156.21405890000003	168	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/08/2021	58.62403337	-156.21405890000003	171	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/09/2021	58.62403337	-156.21405890000003	172	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/10/2021	58.62403337	-156.21405890000003	174	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/11/2021	58.62403337	-156.21405890000003	174	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/12/2021	58.62403337	-156.21405890000003	180	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/13/2021	58.62403337	-156.21405890000003	180	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/14/2021	58.62403337	-156.21405890000003	180	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/15/2021	58.62403337	-156.21405890000003	180	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/16/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/17/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+725	Alaska	US	02/18/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/19/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/20/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/21/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/22/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/23/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/24/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/25/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/26/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/27/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	02/28/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/01/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/02/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/03/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/04/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/05/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/06/2021	58.62403337	-156.21405890000003	177	0	0	Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/07/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/08/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/09/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/10/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/11/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/12/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/13/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/14/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/15/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/16/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/17/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/18/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/19/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/20/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/21/2021	58.62403337	-156.21405890000003	177	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/22/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/23/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/24/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/25/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/26/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/27/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/28/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/29/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/30/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	03/31/2021	58.62403337	-156.21405890000003	185	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/01/2021	58.62403337	-156.21405890000003	187	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/02/2021	58.62403337	-156.21405890000003	187	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/03/2021	58.62403337	-156.21405890000003	187	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/04/2021	58.62403337	-156.21405890000003	187	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/05/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/06/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/07/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/08/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/09/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/10/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/11/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/12/2021	58.62403337	-156.21405890000003	188	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/13/2021	58.62403337	-156.21405890000003	189	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/14/2021	58.62403337	-156.21405890000003	190	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/15/2021	58.62403337	-156.21405890000003	194	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/16/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/17/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/18/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/19/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/20/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/21/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/22/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/23/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/24/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/25/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/26/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/27/2021	58.62403337	-156.21405890000003	193	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/28/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/29/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	04/30/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/01/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/02/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/03/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/04/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/05/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/06/2021	58.62403337	-156.21405890000003	195	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/07/2021	58.62403337	-156.21405890000003	196	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/08/2021	58.62403337	-156.21405890000003	196	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/09/2021	58.62403337	-156.21405890000003	196	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/10/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/11/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/12/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/13/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/14/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/15/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/16/2021	58.62403337	-156.21405890000003	197	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/17/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/18/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/19/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/20/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/21/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/22/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/23/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/24/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/25/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+726	Alaska	US	05/26/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	05/27/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	05/28/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	05/29/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	05/30/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	05/31/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/01/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/02/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/03/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/04/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/05/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/06/2021	58.62403337	-156.21405890000003	198	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/07/2021	58.62403337	-156.21405890000003	200	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/08/2021	58.62403337	-156.21405890000003	200	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/09/2021	58.62403337	-156.21405890000003	201	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/10/2021	58.62403337	-156.21405890000003	201	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/11/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/12/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/13/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/14/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/15/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+727	Alaska	US	06/16/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/17/2021	58.62403337	-156.21405890000003	202	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/18/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/19/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/20/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/21/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/22/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+729	Alaska	US	06/23/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/24/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/25/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/26/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/27/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/28/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/29/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	06/30/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/01/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/02/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/03/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/04/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/05/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/06/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/07/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/08/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/09/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/10/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/11/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/12/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/13/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/14/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/15/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/16/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/17/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/18/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/19/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/20/2021	58.62403337	-156.21405890000003	203	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/21/2021	58.62403337	-156.21405890000003	204	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/22/2021	58.62403337	-156.21405890000003	204	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/23/2021	58.62403337	-156.21405890000003	204	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/24/2021	58.62403337	-156.21405890000003	204	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/25/2021	58.62403337	-156.21405890000003	204	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/26/2021	58.62403337	-156.21405890000003	205	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/27/2021	58.62403337	-156.21405890000003	205	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/28/2021	58.62403337	-156.21405890000003	206	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/29/2021	58.62403337	-156.21405890000003	206	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/30/2021	58.62403337	-156.21405890000003	207	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	07/31/2021	58.62403337	-156.21405890000003	207	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/01/2021	58.62403337	-156.21405890000003	207	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/02/2021	58.62403337	-156.21405890000003	208	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/03/2021	58.62403337	-156.21405890000003	208	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/04/2021	58.62403337	-156.21405890000003	208	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/05/2021	58.62403337	-156.21405890000003	208	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/06/2021	58.62403337	-156.21405890000003	210	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/07/2021	58.62403337	-156.21405890000003	210	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/08/2021	58.62403337	-156.21405890000003	210	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/09/2021	58.62403337	-156.21405890000003	214	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/10/2021	58.62403337	-156.21405890000003	215	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/11/2021	58.62403337	-156.21405890000003	215	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/12/2021	58.62403337	-156.21405890000003	217	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/13/2021	58.62403337	-156.21405890000003	226	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/14/2021	58.62403337	-156.21405890000003	226	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/15/2021	58.62403337	-156.21405890000003	226	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/16/2021	58.62403337	-156.21405890000003	232	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/17/2021	58.62403337	-156.21405890000003	232	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/18/2021	58.62403337	-156.21405890000003	239	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/19/2021	58.62403337	-156.21405890000003	239	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/20/2021	58.62403337	-156.21405890000003	240	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/21/2021	58.62403337	-156.21405890000003	240	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/22/2021	58.62403337	-156.21405890000003	240	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/23/2021	58.62403337	-156.21405890000003	243	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/24/2021	58.62403337	-156.21405890000003	243	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/25/2021	58.62403337	-156.21405890000003	247	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/26/2021	58.62403337	-156.21405890000003	247	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/27/2021	58.62403337	-156.21405890000003	247	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/28/2021	58.62403337	-156.21405890000003	247	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/29/2021	58.62403337	-156.21405890000003	247	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/30/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	08/31/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	09/01/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula

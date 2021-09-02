@@ -1,529 +1,530 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-950	Unassigned	39	US	0	0.0	0.0	Kentucky	0	03/22/2020
-2862	Unassigned	15	US	0	0.0	0.0	Kentucky	0	03/23/2020
-2864	Unassigned	46	US	0	0.0	0.0	Kentucky	0	03/24/2020
-2863	Unassigned	54	US	0	0.0	0.0	Kentucky	0	03/25/2020
-2862	Unassigned	104	US	0	0.0	0.0	Kentucky	0	03/26/2020
-2863	Unassigned	158	US	0	0.0	0.0	Kentucky	0	03/27/2020
-2863	Unassigned	150	US	0	0.0	0.0	Kentucky	0	03/28/2020
-2864	Unassigned	69	US	0	0.0	0.0	Kentucky	0	03/29/2020
-2865	Unassigned	53	US	2	0.0	0.0	Kentucky	0	03/30/2020
-1939	Unassigned	14	US	2	0.0	0.0	Kentucky	0	03/31/2020
-1984	Unassigned	18	US	3	0.0	0.0	Kentucky	0	04/01/2020
-2056	Unassigned	113	US	14			Kentucky	0	04/02/2020
-2102	Unassigned	113	US	3			Kentucky	0	04/03/2020
-2155	Unassigned	29	US	6			Kentucky	0	04/04/2020
-2229	Unassigned	34	US	0			Kentucky	0	04/05/2020
-2267	Unassigned	34	US	0			Kentucky	0	04/06/2020
-2314	Unassigned	152	US	5			Kentucky	0	04/07/2020
-2337	Unassigned	152	US	5			Kentucky	0	04/08/2020
-2363	Unassigned	76	US	5			Kentucky	0	04/09/2020
-2387	Unassigned	385	US	21			Kentucky	0	04/10/2020
-2413	Unassigned	385	US	21			Kentucky	0	04/11/2020
-2435	Unassigned	112	US	28			Kentucky	0	04/12/2020
-2449	Unassigned	112	US	28			Kentucky	0	04/13/2020
-2459	Unassigned	23	US	0			Kentucky	0	04/14/2020
-2471	Unassigned	78	US	9			Kentucky	0	04/15/2020
-2485	Unassigned	77	US	0			Kentucky	0	04/16/2020
-2487	Unassigned	87	US	1			Kentucky	0	04/17/2020
-2494	Unassigned	73	US	6			Kentucky	0	04/18/2020
-2511	Unassigned	79	US	6			Kentucky	0	04/19/2020
-2519	Unassigned	73	US	0			Kentucky	0	04/20/2020
-2528	Unassigned	73	US	0			Kentucky	0	04/21/2020
-2535	Unassigned	72	US	0			Kentucky	0	04/22/2020
-2552	Unassigned	67	US	0			Kentucky	0	04/23/2020
-2558	Unassigned	58	US	0			Kentucky	0	04/24/2020
-2563	Unassigned	58	US	0			Kentucky	0	04/25/2020
-2571	Unassigned	58	US	0			Kentucky	0	04/26/2020
-2578	Unassigned	58	US	0			Kentucky	0	04/27/2020
-2587	Unassigned	50	US	0			Kentucky	0	04/28/2020
-2592	Unassigned	50	US	0			Kentucky	0	04/29/2020
-2598	Unassigned	53	US	1			Kentucky	0	04/30/2020
-2609	Unassigned	53	US	1			Kentucky	0	05/01/2020
-2612	Unassigned	56	US	0			Kentucky	0	05/02/2020
-2617	Unassigned	62	US	0			Kentucky	0	05/03/2020
-2620	Unassigned	58	US	0			Kentucky	0	05/04/2020
-2628	Unassigned	57	US	0			Kentucky	0	05/05/2020
-2634	Unassigned	41	US	0			Kentucky	0	05/06/2020
-2641	Unassigned	38	US	0			Kentucky	0	05/07/2020
-2648	Unassigned	38	US	0			Kentucky	0	05/08/2020
-2650	Unassigned	34	US	0			Kentucky	0	05/09/2020
-2652	Unassigned	34	US	0			Kentucky	0	05/10/2020
-2652	Unassigned	31	US	0			Kentucky	0	05/11/2020
-2655	Unassigned	31	US	0			Kentucky	0	05/12/2020
-2656	Unassigned	31	US	0			Kentucky	0	05/13/2020
-2658	Unassigned	31	US	0			Kentucky	0	05/14/2020
-2663	Unassigned	31	US	0			Kentucky	0	05/15/2020
-2667	Unassigned	31	US	0			Kentucky	0	05/16/2020
-2670	Unassigned	31	US	0			Kentucky	0	05/17/2020
-2672	Unassigned	32	US	0			Kentucky	0	05/18/2020
-2676	Unassigned	33	US	0			Kentucky	0	05/19/2020
-2682	Unassigned	32	US	0			Kentucky	0	05/20/2020
-2684	Unassigned	28	US	0			Kentucky	0	05/21/2020
-2691	Unassigned	28	US	0			Kentucky	0	05/22/2020
-2693	Unassigned	29	US	0			Kentucky	0	05/23/2020
-2696	Unassigned	29	US	0			Kentucky	0	05/24/2020
-2697	Unassigned	29	US	0			Kentucky	0	05/25/2020
-2698	Unassigned	29	US	0			Kentucky	0	05/26/2020
-2701	Unassigned	29	US	0			Kentucky	0	05/27/2020
-2704	Unassigned	29	US	0			Kentucky	0	05/28/2020
-2707	Unassigned	25	US	0			Kentucky	0	05/29/2020
-2709	Unassigned	6	US	0			Kentucky	0	05/30/2020
-2710	Unassigned	6	US	0			Kentucky	0	05/31/2020
-2712	Unassigned	14	US	0			Kentucky	0	06/01/2020
-2717	Unassigned	7	US	0			Kentucky	0	06/02/2020
-2719	Unassigned	8	US	0			Kentucky	0	06/03/2020
-2720	Unassigned	9	US	0			Kentucky	0	06/04/2020
-2724	Unassigned	9	US	0			Kentucky	0	06/05/2020
-2726	Unassigned	7	US	0			Kentucky	0	06/06/2020
-2726	Unassigned	7	US	0			Kentucky	0	06/07/2020
-2726	Unassigned	7	US	0			Kentucky	0	06/08/2020
-2728	Unassigned	7	US	0			Kentucky	0	06/09/2020
-2730	Unassigned	6	US	0			Kentucky	0	06/10/2020
-2732	Unassigned	7	US	0			Kentucky	0	06/11/2020
-2746	Unassigned	9	US	0			Kentucky	0	06/12/2020
-2749	Unassigned	11	US	0			Kentucky	0	06/13/2020
-2749	Unassigned	11	US	0			Kentucky	0	06/14/2020
-2753	Unassigned	11	US	0			Kentucky	0	06/15/2020
-2751	Unassigned	11	US	0			Kentucky	0	06/16/2020
-2753	Unassigned	14	US	0			Kentucky	0	06/17/2020
-2753	Unassigned	18	US	0			Kentucky	0	06/18/2020
-2754	Unassigned	21	US	0			Kentucky	0	06/19/2020
-2758	Unassigned	21	US	0			Kentucky	0	06/20/2020
-2758	Unassigned	21	US	0			Kentucky	0	06/21/2020
-2761	Unassigned	21	US	0			Kentucky	0	06/22/2020
-2766	Unassigned	14	US	0			Kentucky	0	06/23/2020
-2778	Unassigned	14	US	0			Kentucky	0	06/24/2020
-2783	Unassigned	13	US	0			Kentucky	0	06/25/2020
-2784	Unassigned	0	US	0			Kentucky	0	06/26/2020
-2785	Unassigned	2	US	0			Kentucky	0	06/27/2020
-2785	Unassigned	2	US	0			Kentucky	0	06/28/2020
-2787	Unassigned	2	US	0			Kentucky	0	06/29/2020
-2789	Unassigned	2	US	0			Kentucky	0	06/30/2020
-2791	Unassigned	4	US	0			Kentucky	0	07/01/2020
-2794	Unassigned	4	US	0			Kentucky	0	07/02/2020
-2799	Unassigned	4	US	0			Kentucky	0	07/03/2020
-2800	Unassigned	4	US	0			Kentucky	0	07/04/2020
-2801	Unassigned	4	US	0			Kentucky	0	07/05/2020
-2804	Unassigned	1	US	0			Kentucky	0	07/06/2020
-2805	Unassigned	0	US	0			Kentucky	0	07/07/2020
-2808	Unassigned	1	US	0			Kentucky	0	07/08/2020
-2807	Unassigned	4	US	0			Kentucky	0	07/09/2020
-2811	Unassigned	4	US	0			Kentucky	0	07/10/2020
-2812	Unassigned	3	US	0			Kentucky	0	07/11/2020
-2814	Unassigned	9	US	0			Kentucky	0	07/12/2020
-2815	Unassigned	11	US	0			Kentucky	0	07/13/2020
-2821	Unassigned	11	US	0			Kentucky	0	07/14/2020
-2822	Unassigned	3	US	0			Kentucky	0	07/15/2020
-2824	Unassigned	1	US	0			Kentucky	0	07/16/2020
-2824	Unassigned	0	US	0			Kentucky	0	07/17/2020
-2897	Unassigned	6	US	0			Kentucky	0	07/18/2020
-2897	Unassigned	6	US	0			Kentucky	0	07/19/2020
-2821	Unassigned	4	US	0			Kentucky	0	07/20/2020
-2901	Unassigned	4	US	0			Kentucky	0	07/21/2020
-2902	Unassigned	0	US	0			Kentucky	0	07/22/2020
-2905	Unassigned	4	US	0			Kentucky	0	07/23/2020
-2904	Unassigned	4	US	0			Kentucky	0	07/24/2020
-2905	Unassigned	3	US	0			Kentucky	0	07/25/2020
-2906	Unassigned	3	US	0			Kentucky	0	07/26/2020
-2906	Unassigned	3	US	0			Kentucky	0	07/27/2020
-2906	Unassigned	3	US	0			Kentucky	0	07/28/2020
-2910	Unassigned	0	US	0			Kentucky	0	07/29/2020
-2910	Unassigned	1	US	0			Kentucky	0	07/30/2020
-2912	Unassigned	0	US	0			Kentucky	0	07/31/2020
-2912	Unassigned	0	US	0			Kentucky	0	08/01/2020
-2912	Unassigned	0	US	0			Kentucky	0	08/02/2020
-2912	Unassigned	0	US	0			Kentucky	0	08/03/2020
-2913	Unassigned	0	US	0			Kentucky	0	08/04/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/05/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/06/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/07/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/08/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/09/2020
-2917	Unassigned	0	US	0			Kentucky	0	08/10/2020
-1800	Unassigned	0	US	0			Kentucky	0	08/11/2020
-1754	Unassigned	0	US	0			Kentucky	0	08/12/2020
-1755	Unassigned	0	US	0			Kentucky	0	08/13/2020
-1755	Unassigned	0	US	0			Kentucky	0	08/14/2020
-1755	Unassigned	0	US	0			Kentucky	0	08/15/2020
-1755	Unassigned	0	US	0			Kentucky	0	08/16/2020
-1757	Unassigned	0	US	0			Kentucky	0	08/17/2020
-1757	Unassigned	0	US	0			Kentucky	0	08/18/2020
-1757	Unassigned	0	US	0			Kentucky	0	08/19/2020
-1757	Unassigned	0	US	0			Kentucky	0	08/20/2020
-1757	Unassigned	0	US	0			Kentucky	0	08/21/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/22/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/23/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/24/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/25/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/26/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/27/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/28/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/29/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/30/2020
-1758	Unassigned	0	US	0			Kentucky	0	08/31/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/01/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/02/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/03/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/04/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/05/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/06/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/07/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/08/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/09/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/10/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/11/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/12/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/13/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/14/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/15/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/16/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/17/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/18/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/19/2020
-1758	Unassigned	0	US	0			Kentucky	0	09/20/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/21/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/22/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/23/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/24/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/25/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/26/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/27/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/28/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/29/2020
-1759	Unassigned	0	US	0			Kentucky	0	09/30/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/01/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/02/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/03/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/04/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/05/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/06/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/07/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/08/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/09/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/10/2020
-1759	Unassigned	0	US	0			Kentucky	0	10/11/2020
-1760	Unassigned	0	US	0			Kentucky	0	10/12/2020
-1760	Unassigned	0	US	0			Kentucky	0	10/13/2020
-1760	Unassigned	0	US	0			Kentucky	0	10/14/2020
-1760	Unassigned	0	US	0			Kentucky	0	10/15/2020
-1761	Unassigned	0	US	0			Kentucky	0	10/16/2020
-1761	Unassigned	0	US	0			Kentucky	0	10/17/2020
-1761	Unassigned	0	US	0			Kentucky	0	10/18/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/19/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/20/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/21/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/22/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/23/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/24/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/25/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/26/2020
-1762	Unassigned	0	US	0			Kentucky	0	10/27/2020
-1763	Unassigned	0	US	0.0			Kentucky	0	10/28/2020
-1763	Unassigned	0	US	0			Kentucky	0	10/29/2020
-1763	Unassigned	0	US	0			Kentucky	0	10/30/2020
-1763	Unassigned	0	US	0			Kentucky	0	10/31/2020
-1763	Unassigned	0	US	0			Kentucky	0	11/01/2020
-1763	Unassigned	0	US	0			Kentucky	0	11/02/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/03/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/04/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/05/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/06/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/07/2020
-1764	Unassigned	0	US	0			Kentucky	0	11/08/2020
-1764	Unassigned	0	US	0			Kentucky	0.0	11/09/2020
-1764	Unassigned	0	US	0			Kentucky	0.0	11/10/2020
-1764	Unassigned	0	US	0			Kentucky	0.0	11/11/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/12/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/13/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/14/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/15/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/16/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/17/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/18/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/19/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/20/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/21/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/22/2020
-1776	Unassigned	0	US	0			Kentucky	0	11/23/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/24/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/25/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/26/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/27/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/28/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/29/2020
-1777	Unassigned	0	US	0			Kentucky	0	11/30/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/01/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/02/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/03/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/04/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/05/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/06/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/07/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/08/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/09/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/10/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/11/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/12/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/13/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/14/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/15/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/16/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/17/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/18/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/19/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/20/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/21/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/22/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/23/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/24/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/25/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/26/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/27/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/28/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/29/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/30/2020
-1777	Unassigned	0	US	0			Kentucky	0	12/31/2020
-1777	Unassigned	0	US	0			Kentucky	0	01/01/2021
-1777	Unassigned	0	US	0			Kentucky	0	01/02/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/03/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/04/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/05/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/06/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/07/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/08/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/09/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/10/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/11/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/12/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/13/2021
-1778	Unassigned	0	US	0			Kentucky	0	01/14/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/15/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/16/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/17/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/18/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/19/2021
-1779	Unassigned	0	US	0			Kentucky	0	01/20/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/21/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/22/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/23/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/24/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/25/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/26/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/27/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/28/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/29/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/30/2021
-1780	Unassigned	0	US	0			Kentucky	0	01/31/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/01/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/02/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/03/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/04/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/05/2021
-1780	Unassigned	0	US	0			Kentucky	0	02/06/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/07/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/08/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/09/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/10/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/11/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/12/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/13/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/14/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/15/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/16/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/17/2021
-1780	Unassigned	8	US	0			Kentucky	0	02/18/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/19/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/20/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/21/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/22/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/23/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/24/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/25/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/26/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/27/2021
-1781	Unassigned	8	US	0			Kentucky	0	02/28/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/01/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/02/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/03/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/04/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/05/2021
-1781	Unassigned	8	US	0			Kentucky	0	03/06/2021
-1781	Unassigned	8	US	0			Kentucky		03/07/2021
-1781	Unassigned	8	US	0			Kentucky		03/08/2021
-1781	Unassigned	8	US	0			Kentucky		03/09/2021
-1781	Unassigned	8	US	0			Kentucky		03/10/2021
-1781	Unassigned	8	US	0			Kentucky		03/11/2021
-1781	Unassigned	8	US	0			Kentucky		03/12/2021
-1781	Unassigned	8	US	0			Kentucky		03/13/2021
-1781	Unassigned	21	US	0			Kentucky		03/14/2021
-1781	Unassigned	20	US	0			Kentucky		03/15/2021
-1781	Unassigned	20	US	0			Kentucky		03/16/2021
-1781	Unassigned	20	US	0			Kentucky		03/17/2021
-1781	Unassigned	20	US	0			Kentucky		03/18/2021
-1781	Unassigned	20	US	0			Kentucky		03/19/2021
-1781	Unassigned	20	US	0			Kentucky		03/20/2021
-1781	Unassigned	10	US	0			Kentucky		03/21/2021
-1781	Unassigned	10	US	0			Kentucky		03/22/2021
-1781	Unassigned	10	US	0			Kentucky		03/23/2021
-1781	Unassigned	10	US	0			Kentucky		03/24/2021
-1781	Unassigned	11	US	0			Kentucky		03/25/2021
-1781	Unassigned	11	US	0			Kentucky		03/26/2021
-1781	Unassigned	11	US	0			Kentucky		03/27/2021
-1781	Unassigned	11	US	0			Kentucky		03/28/2021
-1781	Unassigned	11	US	0			Kentucky		03/29/2021
-1781	Unassigned	11	US	0			Kentucky		03/30/2021
-1781	Unassigned	11	US	0			Kentucky		03/31/2021
-1781	Unassigned	9	US	0			Kentucky		04/01/2021
-1783	Unassigned	9	US	0			Kentucky		04/02/2021
-1783	Unassigned	9	US	0			Kentucky		04/03/2021
-1783	Unassigned	9	US	0			Kentucky		04/04/2021
-1783	Unassigned	9	US	0			Kentucky		04/05/2021
-1783	Unassigned	9	US	0			Kentucky		04/06/2021
-1783	Unassigned	9	US	0			Kentucky		04/07/2021
-1783	Unassigned	9	US	0			Kentucky		04/08/2021
-1783	Unassigned	9	US	0			Kentucky		04/09/2021
-1783	Unassigned	9	US	0			Kentucky		04/10/2021
-1783	Unassigned	9	US	0			Kentucky		04/11/2021
-1783	Unassigned	9	US	0			Kentucky		04/12/2021
-1783	Unassigned	9	US	0			Kentucky		04/13/2021
-1783	Unassigned	9	US	0			Kentucky		04/14/2021
-1783	Unassigned	9	US	0			Kentucky		04/15/2021
-1783	Unassigned	9	US	0			Kentucky		04/16/2021
-1783	Unassigned	9	US	0			Kentucky		04/17/2021
-1783	Unassigned	9	US	0			Kentucky		04/18/2021
-1783	Unassigned	9	US	0			Kentucky		04/19/2021
-1783	Unassigned	9	US	0			Kentucky		04/20/2021
-1783	Unassigned	9	US	0			Kentucky		04/21/2021
-1783	Unassigned	9	US	0			Kentucky		04/22/2021
-1783	Unassigned	9	US	0			Kentucky		04/23/2021
-1783	Unassigned	9	US	0			Kentucky		04/24/2021
-1783	Unassigned	9	US	0			Kentucky		04/25/2021
-1783	Unassigned	9	US	0			Kentucky		04/26/2021
-1783	Unassigned	9	US	0			Kentucky		04/27/2021
-1783	Unassigned	9	US	0			Kentucky		04/28/2021
-1783	Unassigned	9	US	0			Kentucky		04/29/2021
-1783	Unassigned	9	US	0			Kentucky		04/30/2021
-1783	Unassigned	9	US	0			Kentucky		05/01/2021
-1783	Unassigned	9	US	0			Kentucky		05/02/2021
-1783	Unassigned	9	US	0			Kentucky		05/03/2021
-1783	Unassigned	9	US	0			Kentucky		05/04/2021
-1783	Unassigned	9	US	0			Kentucky		05/05/2021
-1783	Unassigned	9	US	0			Kentucky		05/06/2021
-1783	Unassigned	9	US	0			Kentucky		05/07/2021
-1783	Unassigned	9	US	0			Kentucky		05/08/2021
-1783	Unassigned	9	US	0			Kentucky		05/09/2021
-1783	Unassigned	9	US	0			Kentucky		05/10/2021
-1783	Unassigned	9	US	0			Kentucky		05/11/2021
-1783	Unassigned	9	US	0			Kentucky		05/12/2021
-1783	Unassigned	9	US	0			Kentucky		05/13/2021
-1783	Unassigned	9	US	0			Kentucky		05/14/2021
-1783	Unassigned	9	US	0			Kentucky		05/15/2021
-1783	Unassigned	9	US	0			Kentucky		05/16/2021
-1783	Unassigned	9	US	0			Kentucky		05/17/2021
-1783	Unassigned	9	US	0			Kentucky		05/18/2021
-1783	Unassigned	9	US	0			Kentucky		05/19/2021
-1783	Unassigned	9	US	0			Kentucky		05/20/2021
-1783	Unassigned	9	US	0			Kentucky		05/21/2021
-1783	Unassigned	9	US	0			Kentucky		05/22/2021
-1783	Unassigned	9	US	0			Kentucky		05/23/2021
-1783	Unassigned	9	US	0			Kentucky		05/24/2021
-1783	Unassigned	9	US	0			Kentucky		05/25/2021
-1783	Unassigned	9	US	0			Kentucky		05/26/2021
-1784	Unassigned	9	US	0			Kentucky		05/27/2021
-1784	Unassigned	9	US	0			Kentucky		05/28/2021
-1784	Unassigned	9	US	0			Kentucky		05/29/2021
-1784	Unassigned	9	US	0			Kentucky		05/30/2021
-1784	Unassigned	9	US	0			Kentucky		05/31/2021
-1784	Unassigned	9	US	0			Kentucky		06/01/2021
-1784	Unassigned	9	US	0			Kentucky		06/02/2021
-1784	Unassigned	9	US	0			Kentucky		06/03/2021
-1784	Unassigned	9	US	0			Kentucky		06/04/2021
-1784	Unassigned	9	US	0			Kentucky		06/05/2021
-1784	Unassigned	9	US	0			Kentucky		06/06/2021
-1784	Unassigned	9	US	0			Kentucky		06/07/2021
-1784	Unassigned	9	US	0			Kentucky		06/08/2021
-1784	Unassigned	9	US	0			Kentucky		06/09/2021
-1784	Unassigned	9	US	0			Kentucky		06/10/2021
-1784	Unassigned	9	US	0			Kentucky		06/11/2021
-1784	Unassigned	9	US	0			Kentucky		06/12/2021
-1784	Unassigned	9	US	0			Kentucky		06/13/2021
-1784	Unassigned	9	US	0			Kentucky		06/14/2021
-1784	Unassigned	9	US	0			Kentucky		06/15/2021
-1784	Unassigned	9	US	0			Kentucky		06/16/2021
-1786	Unassigned	9	US	0			Kentucky		06/17/2021
-1786	Unassigned	9	US	0			Kentucky		06/18/2021
-1786	Unassigned	9	US	0			Kentucky		06/19/2021
-1786	Unassigned	9	US	0			Kentucky		06/20/2021
-1786	Unassigned	9	US	0			Kentucky		06/21/2021
-1786	Unassigned	9	US	0			Kentucky		06/22/2021
-1786	Unassigned	9	US	0			Kentucky		06/23/2021
-1787	Unassigned	9	US	0			Kentucky		06/24/2021
-1787	Unassigned	9	US	0			Kentucky		06/25/2021
-1787	Unassigned	9	US	0			Kentucky		06/26/2021
-1787	Unassigned	9	US	0			Kentucky		06/27/2021
-1787	Unassigned	9	US	0			Kentucky		06/28/2021
-1787	Unassigned	9	US	0			Kentucky		06/29/2021
-1787	Unassigned	9	US	0			Kentucky		06/30/2021
-1787	Unassigned	9	US	0			Kentucky		07/01/2021
-1787	Unassigned	9	US	0			Kentucky		07/02/2021
-1787	Unassigned	9	US	0			Kentucky		07/03/2021
-1787	Unassigned	9	US	0			Kentucky		07/04/2021
-1787	Unassigned	9	US	0			Kentucky		07/05/2021
-1787	Unassigned	9	US	0			Kentucky		07/06/2021
-1787	Unassigned	9	US	0			Kentucky		07/07/2021
-1787	Unassigned	9	US	0			Kentucky		07/08/2021
-1787	Unassigned	9	US	0			Kentucky		07/09/2021
-1787	Unassigned	9	US	0			Kentucky		07/10/2021
-1787	Unassigned	9	US	0			Kentucky		07/11/2021
-1787	Unassigned	9	US	0			Kentucky		07/12/2021
-1787	Unassigned	9	US	0			Kentucky		07/13/2021
-1787	Unassigned	9	US	0			Kentucky		07/14/2021
-1787	Unassigned	9	US	0			Kentucky		07/15/2021
-1787	Unassigned	9	US	0			Kentucky		07/16/2021
-1787	Unassigned	9	US	0			Kentucky		07/17/2021
-1787	Unassigned	9	US	0			Kentucky		07/18/2021
-1787	Unassigned	9	US	0			Kentucky		07/19/2021
-1787	Unassigned	9	US	0			Kentucky		07/20/2021
-1787	Unassigned	9	US	0			Kentucky		07/21/2021
-1787	Unassigned	9	US	0			Kentucky		07/22/2021
-1787	Unassigned	9	US	0			Kentucky		07/23/2021
-1787	Unassigned	9	US	0			Kentucky		07/24/2021
-1787	Unassigned	9	US	0			Kentucky		07/25/2021
-1787	Unassigned	9	US	0			Kentucky		07/26/2021
-1787	Unassigned	9	US	0			Kentucky		07/27/2021
-1787	Unassigned	9	US	0			Kentucky		07/28/2021
-1787	Unassigned	9	US	0			Kentucky		07/29/2021
-1787	Unassigned	9	US	0			Kentucky		07/30/2021
-1787	Unassigned	9	US	0			Kentucky		07/31/2021
-1787	Unassigned	9	US	0			Kentucky		08/01/2021
-1787	Unassigned	9	US	0			Kentucky		08/02/2021
-1787	Unassigned	9	US	0			Kentucky		08/03/2021
-1787	Unassigned	9	US	0			Kentucky		08/04/2021
-1787	Unassigned	9	US	0			Kentucky		08/05/2021
-1787	Unassigned	9	US	0			Kentucky		08/06/2021
-1787	Unassigned	9	US	0			Kentucky		08/07/2021
-1787	Unassigned	9	US	0			Kentucky		08/08/2021
-1787	Unassigned	9	US	0			Kentucky		08/09/2021
-1787	Unassigned	9	US	0			Kentucky		08/10/2021
-1787	Unassigned	9	US	0			Kentucky		08/11/2021
-1787	Unassigned	9	US	0			Kentucky		08/12/2021
-1787	Unassigned	9	US	0			Kentucky		08/13/2021
-1787	Unassigned	9	US	0			Kentucky		08/14/2021
-1787	Unassigned	9	US	0			Kentucky		08/15/2021
-1787	Unassigned	9	US	0			Kentucky		08/16/2021
-1787	Unassigned	9	US	0			Kentucky		08/17/2021
-1787	Unassigned	9	US	0			Kentucky		08/18/2021
-1787	Unassigned	9	US	0			Kentucky		08/19/2021
-1787	Unassigned	9	US	0			Kentucky		08/20/2021
-1787	Unassigned	9	US	0			Kentucky		08/21/2021
-1787	Unassigned	9	US	0			Kentucky		08/22/2021
-1787	Unassigned	9	US	0			Kentucky		08/23/2021
-1787	Unassigned	9	US	0			Kentucky		08/24/2021
-1787	Unassigned	9	US	0			Kentucky		08/25/2021
-1787	Unassigned	9	US	0			Kentucky		08/26/2021
-1787	Unassigned	9	US	0			Kentucky		08/27/2021
-1787	Unassigned	9	US	0			Kentucky		08/28/2021
-1787	Unassigned	9	US	0			Kentucky		08/29/2021
-1787	Unassigned	9	US	0			Kentucky		08/30/2021
-1787	Unassigned	9	US	0			Kentucky		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+950	Kentucky	US	03/22/2020	0.0	0.0	39	0	0	Unassigned
+2862	Kentucky	US	03/23/2020	0.0	0.0	15	0	0	Unassigned
+2864	Kentucky	US	03/24/2020	0.0	0.0	46	0	0	Unassigned
+2863	Kentucky	US	03/25/2020	0.0	0.0	54	0	0	Unassigned
+2862	Kentucky	US	03/26/2020	0.0	0.0	104	0	0	Unassigned
+2863	Kentucky	US	03/27/2020	0.0	0.0	158	0	0	Unassigned
+2863	Kentucky	US	03/28/2020	0.0	0.0	150	0	0	Unassigned
+2864	Kentucky	US	03/29/2020	0.0	0.0	69	0	0	Unassigned
+2865	Kentucky	US	03/30/2020	0.0	0.0	53	2	0	Unassigned
+1939	Kentucky	US	03/31/2020	0.0	0.0	14	2	0	Unassigned
+1984	Kentucky	US	04/01/2020	0.0	0.0	18	3	0	Unassigned
+2056	Kentucky	US	04/02/2020			113	14	0	Unassigned
+2102	Kentucky	US	04/03/2020			113	3	0	Unassigned
+2155	Kentucky	US	04/04/2020			29	6	0	Unassigned
+2229	Kentucky	US	04/05/2020			34	0	0	Unassigned
+2267	Kentucky	US	04/06/2020			34	0	0	Unassigned
+2314	Kentucky	US	04/07/2020			152	5	0	Unassigned
+2337	Kentucky	US	04/08/2020			152	5	0	Unassigned
+2363	Kentucky	US	04/09/2020			76	5	0	Unassigned
+2387	Kentucky	US	04/10/2020			385	21	0	Unassigned
+2413	Kentucky	US	04/11/2020			385	21	0	Unassigned
+2435	Kentucky	US	04/12/2020			112	28	0	Unassigned
+2449	Kentucky	US	04/13/2020			112	28	0	Unassigned
+2459	Kentucky	US	04/14/2020			23	0	0	Unassigned
+2471	Kentucky	US	04/15/2020			78	9	0	Unassigned
+2485	Kentucky	US	04/16/2020			77	0	0	Unassigned
+2487	Kentucky	US	04/17/2020			87	1	0	Unassigned
+2494	Kentucky	US	04/18/2020			73	6	0	Unassigned
+2511	Kentucky	US	04/19/2020			79	6	0	Unassigned
+2519	Kentucky	US	04/20/2020			73	0	0	Unassigned
+2528	Kentucky	US	04/21/2020			73	0	0	Unassigned
+2535	Kentucky	US	04/22/2020			72	0	0	Unassigned
+2552	Kentucky	US	04/23/2020			67	0	0	Unassigned
+2558	Kentucky	US	04/24/2020			58	0	0	Unassigned
+2563	Kentucky	US	04/25/2020			58	0	0	Unassigned
+2571	Kentucky	US	04/26/2020			58	0	0	Unassigned
+2578	Kentucky	US	04/27/2020			58	0	0	Unassigned
+2587	Kentucky	US	04/28/2020			50	0	0	Unassigned
+2592	Kentucky	US	04/29/2020			50	0	0	Unassigned
+2598	Kentucky	US	04/30/2020			53	1	0	Unassigned
+2609	Kentucky	US	05/01/2020			53	1	0	Unassigned
+2612	Kentucky	US	05/02/2020			56	0	0	Unassigned
+2617	Kentucky	US	05/03/2020			62	0	0	Unassigned
+2620	Kentucky	US	05/04/2020			58	0	0	Unassigned
+2628	Kentucky	US	05/05/2020			57	0	0	Unassigned
+2634	Kentucky	US	05/06/2020			41	0	0	Unassigned
+2641	Kentucky	US	05/07/2020			38	0	0	Unassigned
+2648	Kentucky	US	05/08/2020			38	0	0	Unassigned
+2650	Kentucky	US	05/09/2020			34	0	0	Unassigned
+2652	Kentucky	US	05/10/2020			34	0	0	Unassigned
+2652	Kentucky	US	05/11/2020			31	0	0	Unassigned
+2655	Kentucky	US	05/12/2020			31	0	0	Unassigned
+2656	Kentucky	US	05/13/2020			31	0	0	Unassigned
+2658	Kentucky	US	05/14/2020			31	0	0	Unassigned
+2663	Kentucky	US	05/15/2020			31	0	0	Unassigned
+2667	Kentucky	US	05/16/2020			31	0	0	Unassigned
+2670	Kentucky	US	05/17/2020			31	0	0	Unassigned
+2672	Kentucky	US	05/18/2020			32	0	0	Unassigned
+2676	Kentucky	US	05/19/2020			33	0	0	Unassigned
+2682	Kentucky	US	05/20/2020			32	0	0	Unassigned
+2684	Kentucky	US	05/21/2020			28	0	0	Unassigned
+2691	Kentucky	US	05/22/2020			28	0	0	Unassigned
+2693	Kentucky	US	05/23/2020			29	0	0	Unassigned
+2696	Kentucky	US	05/24/2020			29	0	0	Unassigned
+2697	Kentucky	US	05/25/2020			29	0	0	Unassigned
+2698	Kentucky	US	05/26/2020			29	0	0	Unassigned
+2701	Kentucky	US	05/27/2020			29	0	0	Unassigned
+2704	Kentucky	US	05/28/2020			29	0	0	Unassigned
+2707	Kentucky	US	05/29/2020			25	0	0	Unassigned
+2709	Kentucky	US	05/30/2020			6	0	0	Unassigned
+2710	Kentucky	US	05/31/2020			6	0	0	Unassigned
+2712	Kentucky	US	06/01/2020			14	0	0	Unassigned
+2717	Kentucky	US	06/02/2020			7	0	0	Unassigned
+2719	Kentucky	US	06/03/2020			8	0	0	Unassigned
+2720	Kentucky	US	06/04/2020			9	0	0	Unassigned
+2724	Kentucky	US	06/05/2020			9	0	0	Unassigned
+2726	Kentucky	US	06/06/2020			7	0	0	Unassigned
+2726	Kentucky	US	06/07/2020			7	0	0	Unassigned
+2726	Kentucky	US	06/08/2020			7	0	0	Unassigned
+2728	Kentucky	US	06/09/2020			7	0	0	Unassigned
+2730	Kentucky	US	06/10/2020			6	0	0	Unassigned
+2732	Kentucky	US	06/11/2020			7	0	0	Unassigned
+2746	Kentucky	US	06/12/2020			9	0	0	Unassigned
+2749	Kentucky	US	06/13/2020			11	0	0	Unassigned
+2749	Kentucky	US	06/14/2020			11	0	0	Unassigned
+2753	Kentucky	US	06/15/2020			11	0	0	Unassigned
+2751	Kentucky	US	06/16/2020			11	0	0	Unassigned
+2753	Kentucky	US	06/17/2020			14	0	0	Unassigned
+2753	Kentucky	US	06/18/2020			18	0	0	Unassigned
+2754	Kentucky	US	06/19/2020			21	0	0	Unassigned
+2758	Kentucky	US	06/20/2020			21	0	0	Unassigned
+2758	Kentucky	US	06/21/2020			21	0	0	Unassigned
+2761	Kentucky	US	06/22/2020			21	0	0	Unassigned
+2766	Kentucky	US	06/23/2020			14	0	0	Unassigned
+2778	Kentucky	US	06/24/2020			14	0	0	Unassigned
+2783	Kentucky	US	06/25/2020			13	0	0	Unassigned
+2784	Kentucky	US	06/26/2020			0	0	0	Unassigned
+2785	Kentucky	US	06/27/2020			2	0	0	Unassigned
+2785	Kentucky	US	06/28/2020			2	0	0	Unassigned
+2787	Kentucky	US	06/29/2020			2	0	0	Unassigned
+2789	Kentucky	US	06/30/2020			2	0	0	Unassigned
+2791	Kentucky	US	07/01/2020			4	0	0	Unassigned
+2794	Kentucky	US	07/02/2020			4	0	0	Unassigned
+2799	Kentucky	US	07/03/2020			4	0	0	Unassigned
+2800	Kentucky	US	07/04/2020			4	0	0	Unassigned
+2801	Kentucky	US	07/05/2020			4	0	0	Unassigned
+2804	Kentucky	US	07/06/2020			1	0	0	Unassigned
+2805	Kentucky	US	07/07/2020			0	0	0	Unassigned
+2808	Kentucky	US	07/08/2020			1	0	0	Unassigned
+2807	Kentucky	US	07/09/2020			4	0	0	Unassigned
+2811	Kentucky	US	07/10/2020			4	0	0	Unassigned
+2812	Kentucky	US	07/11/2020			3	0	0	Unassigned
+2814	Kentucky	US	07/12/2020			9	0	0	Unassigned
+2815	Kentucky	US	07/13/2020			11	0	0	Unassigned
+2821	Kentucky	US	07/14/2020			11	0	0	Unassigned
+2822	Kentucky	US	07/15/2020			3	0	0	Unassigned
+2824	Kentucky	US	07/16/2020			1	0	0	Unassigned
+2824	Kentucky	US	07/17/2020			0	0	0	Unassigned
+2897	Kentucky	US	07/18/2020			6	0	0	Unassigned
+2897	Kentucky	US	07/19/2020			6	0	0	Unassigned
+2821	Kentucky	US	07/20/2020			4	0	0	Unassigned
+2901	Kentucky	US	07/21/2020			4	0	0	Unassigned
+2902	Kentucky	US	07/22/2020			0	0	0	Unassigned
+2905	Kentucky	US	07/23/2020			4	0	0	Unassigned
+2904	Kentucky	US	07/24/2020			4	0	0	Unassigned
+2905	Kentucky	US	07/25/2020			3	0	0	Unassigned
+2906	Kentucky	US	07/26/2020			3	0	0	Unassigned
+2906	Kentucky	US	07/27/2020			3	0	0	Unassigned
+2906	Kentucky	US	07/28/2020			3	0	0	Unassigned
+2910	Kentucky	US	07/29/2020			0	0	0	Unassigned
+2910	Kentucky	US	07/30/2020			1	0	0	Unassigned
+2912	Kentucky	US	07/31/2020			0	0	0	Unassigned
+2912	Kentucky	US	08/01/2020			0	0	0	Unassigned
+2912	Kentucky	US	08/02/2020			0	0	0	Unassigned
+2912	Kentucky	US	08/03/2020			0	0	0	Unassigned
+2913	Kentucky	US	08/04/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/05/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/06/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/07/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/08/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/09/2020			0	0	0	Unassigned
+2917	Kentucky	US	08/10/2020			0	0	0	Unassigned
+1800	Kentucky	US	08/11/2020			0	0	0	Unassigned
+1754	Kentucky	US	08/12/2020			0	0	0	Unassigned
+1755	Kentucky	US	08/13/2020			0	0	0	Unassigned
+1755	Kentucky	US	08/14/2020			0	0	0	Unassigned
+1755	Kentucky	US	08/15/2020			0	0	0	Unassigned
+1755	Kentucky	US	08/16/2020			0	0	0	Unassigned
+1757	Kentucky	US	08/17/2020			0	0	0	Unassigned
+1757	Kentucky	US	08/18/2020			0	0	0	Unassigned
+1757	Kentucky	US	08/19/2020			0	0	0	Unassigned
+1757	Kentucky	US	08/20/2020			0	0	0	Unassigned
+1757	Kentucky	US	08/21/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/22/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/23/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/24/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/25/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/26/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/27/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/28/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/29/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/30/2020			0	0	0	Unassigned
+1758	Kentucky	US	08/31/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/01/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/02/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/03/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/04/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/05/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/06/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/07/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/08/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/09/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/10/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/11/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/12/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/13/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/14/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/15/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/16/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/17/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/18/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/19/2020			0	0	0	Unassigned
+1758	Kentucky	US	09/20/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/21/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/22/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/23/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/24/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/25/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/26/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/27/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/28/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/29/2020			0	0	0	Unassigned
+1759	Kentucky	US	09/30/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/01/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/02/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/03/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/04/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/05/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/06/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/07/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/08/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/09/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/10/2020			0	0	0	Unassigned
+1759	Kentucky	US	10/11/2020			0	0	0	Unassigned
+1760	Kentucky	US	10/12/2020			0	0	0	Unassigned
+1760	Kentucky	US	10/13/2020			0	0	0	Unassigned
+1760	Kentucky	US	10/14/2020			0	0	0	Unassigned
+1760	Kentucky	US	10/15/2020			0	0	0	Unassigned
+1761	Kentucky	US	10/16/2020			0	0	0	Unassigned
+1761	Kentucky	US	10/17/2020			0	0	0	Unassigned
+1761	Kentucky	US	10/18/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/19/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/20/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/21/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/22/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/23/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/24/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/25/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/26/2020			0	0	0	Unassigned
+1762	Kentucky	US	10/27/2020			0	0	0	Unassigned
+1763	Kentucky	US	10/28/2020			0	0.0	0	Unassigned
+1763	Kentucky	US	10/29/2020			0	0	0	Unassigned
+1763	Kentucky	US	10/30/2020			0	0	0	Unassigned
+1763	Kentucky	US	10/31/2020			0	0	0	Unassigned
+1763	Kentucky	US	11/01/2020			0	0	0	Unassigned
+1763	Kentucky	US	11/02/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/03/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/04/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/05/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/06/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/07/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/08/2020			0	0	0	Unassigned
+1764	Kentucky	US	11/09/2020			0	0	0.0	Unassigned
+1764	Kentucky	US	11/10/2020			0	0	0.0	Unassigned
+1764	Kentucky	US	11/11/2020			0	0	0.0	Unassigned
+1776	Kentucky	US	11/12/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/13/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/14/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/15/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/16/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/17/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/18/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/19/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/20/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/21/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/22/2020			0	0	0	Unassigned
+1776	Kentucky	US	11/23/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/24/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/25/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/26/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/27/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/28/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/29/2020			0	0	0	Unassigned
+1777	Kentucky	US	11/30/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/01/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/02/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/03/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/04/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/05/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/06/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/07/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/08/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/09/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/10/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/11/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/12/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/13/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/14/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/15/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/16/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/17/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/18/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/19/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/20/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/21/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/22/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/23/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/24/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/25/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/26/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/27/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/28/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/29/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/30/2020			0	0	0	Unassigned
+1777	Kentucky	US	12/31/2020			0	0	0	Unassigned
+1777	Kentucky	US	01/01/2021			0	0	0	Unassigned
+1777	Kentucky	US	01/02/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/03/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/04/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/05/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/06/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/07/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/08/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/09/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/10/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/11/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/12/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/13/2021			0	0	0	Unassigned
+1778	Kentucky	US	01/14/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/15/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/16/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/17/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/18/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/19/2021			0	0	0	Unassigned
+1779	Kentucky	US	01/20/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/21/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/22/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/23/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/24/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/25/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/26/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/27/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/28/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/29/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/30/2021			0	0	0	Unassigned
+1780	Kentucky	US	01/31/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/01/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/02/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/03/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/04/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/05/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/06/2021			0	0	0	Unassigned
+1780	Kentucky	US	02/07/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/08/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/09/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/10/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/11/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/12/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/13/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/14/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/15/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/16/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/17/2021			8	0	0	Unassigned
+1780	Kentucky	US	02/18/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/19/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/20/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/21/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/22/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/23/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/24/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/25/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/26/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/27/2021			8	0	0	Unassigned
+1781	Kentucky	US	02/28/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/01/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/02/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/03/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/04/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/05/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/06/2021			8	0	0	Unassigned
+1781	Kentucky	US	03/07/2021			8	0		Unassigned
+1781	Kentucky	US	03/08/2021			8	0		Unassigned
+1781	Kentucky	US	03/09/2021			8	0		Unassigned
+1781	Kentucky	US	03/10/2021			8	0		Unassigned
+1781	Kentucky	US	03/11/2021			8	0		Unassigned
+1781	Kentucky	US	03/12/2021			8	0		Unassigned
+1781	Kentucky	US	03/13/2021			8	0		Unassigned
+1781	Kentucky	US	03/14/2021			21	0		Unassigned
+1781	Kentucky	US	03/15/2021			20	0		Unassigned
+1781	Kentucky	US	03/16/2021			20	0		Unassigned
+1781	Kentucky	US	03/17/2021			20	0		Unassigned
+1781	Kentucky	US	03/18/2021			20	0		Unassigned
+1781	Kentucky	US	03/19/2021			20	0		Unassigned
+1781	Kentucky	US	03/20/2021			20	0		Unassigned
+1781	Kentucky	US	03/21/2021			10	0		Unassigned
+1781	Kentucky	US	03/22/2021			10	0		Unassigned
+1781	Kentucky	US	03/23/2021			10	0		Unassigned
+1781	Kentucky	US	03/24/2021			10	0		Unassigned
+1781	Kentucky	US	03/25/2021			11	0		Unassigned
+1781	Kentucky	US	03/26/2021			11	0		Unassigned
+1781	Kentucky	US	03/27/2021			11	0		Unassigned
+1781	Kentucky	US	03/28/2021			11	0		Unassigned
+1781	Kentucky	US	03/29/2021			11	0		Unassigned
+1781	Kentucky	US	03/30/2021			11	0		Unassigned
+1781	Kentucky	US	03/31/2021			11	0		Unassigned
+1781	Kentucky	US	04/01/2021			9	0		Unassigned
+1783	Kentucky	US	04/02/2021			9	0		Unassigned
+1783	Kentucky	US	04/03/2021			9	0		Unassigned
+1783	Kentucky	US	04/04/2021			9	0		Unassigned
+1783	Kentucky	US	04/05/2021			9	0		Unassigned
+1783	Kentucky	US	04/06/2021			9	0		Unassigned
+1783	Kentucky	US	04/07/2021			9	0		Unassigned
+1783	Kentucky	US	04/08/2021			9	0		Unassigned
+1783	Kentucky	US	04/09/2021			9	0		Unassigned
+1783	Kentucky	US	04/10/2021			9	0		Unassigned
+1783	Kentucky	US	04/11/2021			9	0		Unassigned
+1783	Kentucky	US	04/12/2021			9	0		Unassigned
+1783	Kentucky	US	04/13/2021			9	0		Unassigned
+1783	Kentucky	US	04/14/2021			9	0		Unassigned
+1783	Kentucky	US	04/15/2021			9	0		Unassigned
+1783	Kentucky	US	04/16/2021			9	0		Unassigned
+1783	Kentucky	US	04/17/2021			9	0		Unassigned
+1783	Kentucky	US	04/18/2021			9	0		Unassigned
+1783	Kentucky	US	04/19/2021			9	0		Unassigned
+1783	Kentucky	US	04/20/2021			9	0		Unassigned
+1783	Kentucky	US	04/21/2021			9	0		Unassigned
+1783	Kentucky	US	04/22/2021			9	0		Unassigned
+1783	Kentucky	US	04/23/2021			9	0		Unassigned
+1783	Kentucky	US	04/24/2021			9	0		Unassigned
+1783	Kentucky	US	04/25/2021			9	0		Unassigned
+1783	Kentucky	US	04/26/2021			9	0		Unassigned
+1783	Kentucky	US	04/27/2021			9	0		Unassigned
+1783	Kentucky	US	04/28/2021			9	0		Unassigned
+1783	Kentucky	US	04/29/2021			9	0		Unassigned
+1783	Kentucky	US	04/30/2021			9	0		Unassigned
+1783	Kentucky	US	05/01/2021			9	0		Unassigned
+1783	Kentucky	US	05/02/2021			9	0		Unassigned
+1783	Kentucky	US	05/03/2021			9	0		Unassigned
+1783	Kentucky	US	05/04/2021			9	0		Unassigned
+1783	Kentucky	US	05/05/2021			9	0		Unassigned
+1783	Kentucky	US	05/06/2021			9	0		Unassigned
+1783	Kentucky	US	05/07/2021			9	0		Unassigned
+1783	Kentucky	US	05/08/2021			9	0		Unassigned
+1783	Kentucky	US	05/09/2021			9	0		Unassigned
+1783	Kentucky	US	05/10/2021			9	0		Unassigned
+1783	Kentucky	US	05/11/2021			9	0		Unassigned
+1783	Kentucky	US	05/12/2021			9	0		Unassigned
+1783	Kentucky	US	05/13/2021			9	0		Unassigned
+1783	Kentucky	US	05/14/2021			9	0		Unassigned
+1783	Kentucky	US	05/15/2021			9	0		Unassigned
+1783	Kentucky	US	05/16/2021			9	0		Unassigned
+1783	Kentucky	US	05/17/2021			9	0		Unassigned
+1783	Kentucky	US	05/18/2021			9	0		Unassigned
+1783	Kentucky	US	05/19/2021			9	0		Unassigned
+1783	Kentucky	US	05/20/2021			9	0		Unassigned
+1783	Kentucky	US	05/21/2021			9	0		Unassigned
+1783	Kentucky	US	05/22/2021			9	0		Unassigned
+1783	Kentucky	US	05/23/2021			9	0		Unassigned
+1783	Kentucky	US	05/24/2021			9	0		Unassigned
+1783	Kentucky	US	05/25/2021			9	0		Unassigned
+1783	Kentucky	US	05/26/2021			9	0		Unassigned
+1784	Kentucky	US	05/27/2021			9	0		Unassigned
+1784	Kentucky	US	05/28/2021			9	0		Unassigned
+1784	Kentucky	US	05/29/2021			9	0		Unassigned
+1784	Kentucky	US	05/30/2021			9	0		Unassigned
+1784	Kentucky	US	05/31/2021			9	0		Unassigned
+1784	Kentucky	US	06/01/2021			9	0		Unassigned
+1784	Kentucky	US	06/02/2021			9	0		Unassigned
+1784	Kentucky	US	06/03/2021			9	0		Unassigned
+1784	Kentucky	US	06/04/2021			9	0		Unassigned
+1784	Kentucky	US	06/05/2021			9	0		Unassigned
+1784	Kentucky	US	06/06/2021			9	0		Unassigned
+1784	Kentucky	US	06/07/2021			9	0		Unassigned
+1784	Kentucky	US	06/08/2021			9	0		Unassigned
+1784	Kentucky	US	06/09/2021			9	0		Unassigned
+1784	Kentucky	US	06/10/2021			9	0		Unassigned
+1784	Kentucky	US	06/11/2021			9	0		Unassigned
+1784	Kentucky	US	06/12/2021			9	0		Unassigned
+1784	Kentucky	US	06/13/2021			9	0		Unassigned
+1784	Kentucky	US	06/14/2021			9	0		Unassigned
+1784	Kentucky	US	06/15/2021			9	0		Unassigned
+1784	Kentucky	US	06/16/2021			9	0		Unassigned
+1786	Kentucky	US	06/17/2021			9	0		Unassigned
+1786	Kentucky	US	06/18/2021			9	0		Unassigned
+1786	Kentucky	US	06/19/2021			9	0		Unassigned
+1786	Kentucky	US	06/20/2021			9	0		Unassigned
+1786	Kentucky	US	06/21/2021			9	0		Unassigned
+1786	Kentucky	US	06/22/2021			9	0		Unassigned
+1786	Kentucky	US	06/23/2021			9	0		Unassigned
+1787	Kentucky	US	06/24/2021			9	0		Unassigned
+1787	Kentucky	US	06/25/2021			9	0		Unassigned
+1787	Kentucky	US	06/26/2021			9	0		Unassigned
+1787	Kentucky	US	06/27/2021			9	0		Unassigned
+1787	Kentucky	US	06/28/2021			9	0		Unassigned
+1787	Kentucky	US	06/29/2021			9	0		Unassigned
+1787	Kentucky	US	06/30/2021			9	0		Unassigned
+1787	Kentucky	US	07/01/2021			9	0		Unassigned
+1787	Kentucky	US	07/02/2021			9	0		Unassigned
+1787	Kentucky	US	07/03/2021			9	0		Unassigned
+1787	Kentucky	US	07/04/2021			9	0		Unassigned
+1787	Kentucky	US	07/05/2021			9	0		Unassigned
+1787	Kentucky	US	07/06/2021			9	0		Unassigned
+1787	Kentucky	US	07/07/2021			9	0		Unassigned
+1787	Kentucky	US	07/08/2021			9	0		Unassigned
+1787	Kentucky	US	07/09/2021			9	0		Unassigned
+1787	Kentucky	US	07/10/2021			9	0		Unassigned
+1787	Kentucky	US	07/11/2021			9	0		Unassigned
+1787	Kentucky	US	07/12/2021			9	0		Unassigned
+1787	Kentucky	US	07/13/2021			9	0		Unassigned
+1787	Kentucky	US	07/14/2021			9	0		Unassigned
+1787	Kentucky	US	07/15/2021			9	0		Unassigned
+1787	Kentucky	US	07/16/2021			9	0		Unassigned
+1787	Kentucky	US	07/17/2021			9	0		Unassigned
+1787	Kentucky	US	07/18/2021			9	0		Unassigned
+1787	Kentucky	US	07/19/2021			9	0		Unassigned
+1787	Kentucky	US	07/20/2021			9	0		Unassigned
+1787	Kentucky	US	07/21/2021			9	0		Unassigned
+1787	Kentucky	US	07/22/2021			9	0		Unassigned
+1787	Kentucky	US	07/23/2021			9	0		Unassigned
+1787	Kentucky	US	07/24/2021			9	0		Unassigned
+1787	Kentucky	US	07/25/2021			9	0		Unassigned
+1787	Kentucky	US	07/26/2021			9	0		Unassigned
+1787	Kentucky	US	07/27/2021			9	0		Unassigned
+1787	Kentucky	US	07/28/2021			9	0		Unassigned
+1787	Kentucky	US	07/29/2021			9	0		Unassigned
+1787	Kentucky	US	07/30/2021			9	0		Unassigned
+1787	Kentucky	US	07/31/2021			9	0		Unassigned
+1787	Kentucky	US	08/01/2021			9	0		Unassigned
+1787	Kentucky	US	08/02/2021			9	0		Unassigned
+1787	Kentucky	US	08/03/2021			9	0		Unassigned
+1787	Kentucky	US	08/04/2021			9	0		Unassigned
+1787	Kentucky	US	08/05/2021			9	0		Unassigned
+1787	Kentucky	US	08/06/2021			9	0		Unassigned
+1787	Kentucky	US	08/07/2021			9	0		Unassigned
+1787	Kentucky	US	08/08/2021			9	0		Unassigned
+1787	Kentucky	US	08/09/2021			9	0		Unassigned
+1787	Kentucky	US	08/10/2021			9	0		Unassigned
+1787	Kentucky	US	08/11/2021			9	0		Unassigned
+1787	Kentucky	US	08/12/2021			9	0		Unassigned
+1787	Kentucky	US	08/13/2021			9	0		Unassigned
+1787	Kentucky	US	08/14/2021			9	0		Unassigned
+1787	Kentucky	US	08/15/2021			9	0		Unassigned
+1787	Kentucky	US	08/16/2021			9	0		Unassigned
+1787	Kentucky	US	08/17/2021			9	0		Unassigned
+1787	Kentucky	US	08/18/2021			9	0		Unassigned
+1787	Kentucky	US	08/19/2021			9	0		Unassigned
+1787	Kentucky	US	08/20/2021			9	0		Unassigned
+1787	Kentucky	US	08/21/2021			9	0		Unassigned
+1787	Kentucky	US	08/22/2021			9	0		Unassigned
+1787	Kentucky	US	08/23/2021			9	0		Unassigned
+1787	Kentucky	US	08/24/2021			9	0		Unassigned
+1787	Kentucky	US	08/25/2021			9	0		Unassigned
+1787	Kentucky	US	08/26/2021			9	0		Unassigned
+1787	Kentucky	US	08/27/2021			9	0		Unassigned
+1787	Kentucky	US	08/28/2021			9	0		Unassigned
+1787	Kentucky	US	08/29/2021			9	0		Unassigned
+1787	Kentucky	US	08/30/2021			9	0		Unassigned
+1787	Kentucky	US	08/31/2021			9	0		Unassigned
+1787	Kentucky	US	09/01/2021			9	0		Unassigned

@@ -1,2 +1,2 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-483	Out-of-state	82	US	0			Tennessee	0	03/22/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+483	Tennessee	US	03/22/2020			82	0	0	Out-of-state

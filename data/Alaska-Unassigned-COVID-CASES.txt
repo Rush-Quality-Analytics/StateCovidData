@@ -1,526 +1,527 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2856	Unassigned	0	US	1	0.0	0.0	Alaska	0	03/25/2020
-2855	Unassigned	0	US	1	0.0	0.0	Alaska	0	03/26/2020
-2855	Unassigned	0	US	1	0.0	0.0	Alaska	0	03/27/2020
-2855	Unassigned	0	US	1	0.0	0.0	Alaska	0	03/28/2020
-2855	Unassigned	0	US	1	0.0	0.0	Alaska	0	03/29/2020
-2855	Unassigned	0	US	2	0.0	0.0	Alaska	0	03/30/2020
-1927	Unassigned	0	US	2	0.0	0.0	Alaska	0	03/31/2020
-1973	Unassigned	0	US	2	0.0	0.0	Alaska	0	04/01/2020
-2043	Unassigned	0	US	2			Alaska	0	04/02/2020
-2090	Unassigned	0	US	2			Alaska	0	04/03/2020
-2143	Unassigned	0	US	4			Alaska	0	04/04/2020
-2215	Unassigned	0	US	5			Alaska	0	04/05/2020
-2252	Unassigned	0	US	5			Alaska	0	04/06/2020
-2299	Unassigned	0	US	1			Alaska	0	04/07/2020
-2322	Unassigned	1	US	2			Alaska	0	04/08/2020
-2348	Unassigned	0	US	2			Alaska	0	04/09/2020
-2372	Unassigned	0	US	2			Alaska	0	04/10/2020
-2398	Unassigned	0	US	3			Alaska	0	04/11/2020
-2420	Unassigned	0	US	3			Alaska	0	04/12/2020
-2434	Unassigned	0	US	3			Alaska	0	04/13/2020
-2444	Unassigned	0	US	4			Alaska	0	04/14/2020
-2456	Unassigned	0	US	4			Alaska	0	04/15/2020
-2470	Unassigned	0	US	4			Alaska	0	04/16/2020
-2472	Unassigned	0	US	4			Alaska	0	04/17/2020
-2479	Unassigned	0	US	4			Alaska	0	04/18/2020
-2496	Unassigned	0	US	4			Alaska	0	04/19/2020
-2504	Unassigned	0	US	4			Alaska	0	04/20/2020
-2513	Unassigned	0	US	4			Alaska	0	04/21/2020
-2520	Unassigned	0	US	4			Alaska	0	04/22/2020
-2537	Unassigned	0	US	4			Alaska	0	04/23/2020
-2543	Unassigned	0	US	4			Alaska	0	04/24/2020
-2548	Unassigned	0	US	4			Alaska	0	04/25/2020
-2556	Unassigned	0	US	4			Alaska	0	04/26/2020
-2563	Unassigned	0	US	4			Alaska	0	04/27/2020
-2572	Unassigned	0	US	4			Alaska	0	04/28/2020
-2577	Unassigned	0	US	4			Alaska	0	04/29/2020
-2583	Unassigned	0	US	4			Alaska	0	04/30/2020
-2594	Unassigned	0	US	0			Alaska	0	05/01/2020
-2597	Unassigned	0	US	0			Alaska	0	05/02/2020
-2602	Unassigned	0	US	0			Alaska	0	05/03/2020
-2605	Unassigned	0	US	0			Alaska	0	05/04/2020
-2613	Unassigned	0	US	0			Alaska	0	05/05/2020
-2619	Unassigned	0	US	0			Alaska	0	05/06/2020
-2626	Unassigned	0	US	0			Alaska	0	05/07/2020
-2633	Unassigned	0	US	0			Alaska	0	05/08/2020
-2635	Unassigned	0	US	0			Alaska	0	05/09/2020
-2637	Unassigned	0	US	0			Alaska	0	05/10/2020
-2637	Unassigned	0	US	0			Alaska	0	05/11/2020
-2640	Unassigned	4	US	0			Alaska	0	05/12/2020
-2641	Unassigned	4	US	0			Alaska	0	05/13/2020
-2643	Unassigned	4	US	0			Alaska	0	05/14/2020
-2648	Unassigned	1	US	0			Alaska	0	05/15/2020
-2652	Unassigned	1	US	0			Alaska	0	05/16/2020
-2655	Unassigned	1	US	0			Alaska	0	05/17/2020
-2657	Unassigned	1	US	0			Alaska	0	05/18/2020
-2661	Unassigned	1	US	0			Alaska	0	05/19/2020
-2667	Unassigned	0	US	0			Alaska	0	05/20/2020
-2669	Unassigned	0	US	0			Alaska	0	05/21/2020
-2676	Unassigned	0	US	0			Alaska	0	05/22/2020
-2678	Unassigned	0	US	0			Alaska	0	05/23/2020
-2681	Unassigned	0	US	0			Alaska	0	05/24/2020
-2682	Unassigned	0	US	0			Alaska	0	05/25/2020
-2683	Unassigned	0	US	0			Alaska	0	05/26/2020
-2686	Unassigned	0	US	0			Alaska	0	05/27/2020
-2689	Unassigned	0	US	0			Alaska	0	05/28/2020
-2692	Unassigned	0	US	0			Alaska	0	05/29/2020
-2694	Unassigned	0	US	0			Alaska	0	05/30/2020
-2695	Unassigned	0	US	0			Alaska	0	05/31/2020
-2697	Unassigned	0	US	0			Alaska	0	06/01/2020
-2702	Unassigned	0	US	0			Alaska	0	06/02/2020
-2704	Unassigned	0	US	0			Alaska	0	06/03/2020
-2705	Unassigned	0	US	0			Alaska	0	06/04/2020
-2709	Unassigned	0	US	0			Alaska	0	06/05/2020
-2711	Unassigned	0	US	0			Alaska	0	06/06/2020
-2711	Unassigned	0	US	0			Alaska	0	06/07/2020
-2711	Unassigned	0	US	0			Alaska	0	06/08/2020
-2713	Unassigned	0	US	0			Alaska	0	06/09/2020
-2715	Unassigned	0	US	0			Alaska	0	06/10/2020
-2717	Unassigned	0	US	0			Alaska	0	06/11/2020
-2731	Unassigned	0	US	0			Alaska	0	06/12/2020
-2734	Unassigned	0	US	0			Alaska	0	06/13/2020
-2734	Unassigned	0	US	0			Alaska	0	06/14/2020
-2738	Unassigned	0	US	0			Alaska	0	06/15/2020
-2736	Unassigned	0	US	0			Alaska	0	06/16/2020
-2738	Unassigned	0	US	0			Alaska	0	06/17/2020
-2738	Unassigned	0	US	0			Alaska	0	06/18/2020
-2739	Unassigned	0	US	0			Alaska	0	06/19/2020
-2743	Unassigned	0	US	0			Alaska	0	06/20/2020
-2743	Unassigned	0	US	0			Alaska	0	06/21/2020
-2746	Unassigned	0	US	0			Alaska	0	06/22/2020
-2751	Unassigned	0	US	0			Alaska	0	06/23/2020
-2763	Unassigned	0	US	0			Alaska	0	06/24/2020
-2768	Unassigned	0	US	0			Alaska	0	06/25/2020
-2769	Unassigned	0	US	0			Alaska	0	06/26/2020
-2770	Unassigned	0	US	0			Alaska	0	06/27/2020
-2770	Unassigned	0	US	0			Alaska	0	06/28/2020
-2772	Unassigned	0	US	0			Alaska	0	06/29/2020
-2774	Unassigned	0	US	0			Alaska	0	06/30/2020
-2776	Unassigned	0	US	0			Alaska	0	07/01/2020
-2779	Unassigned	0	US	0			Alaska	0	07/02/2020
-2784	Unassigned	0	US	1			Alaska	0	07/03/2020
-2785	Unassigned	0	US	1			Alaska	0	07/04/2020
-2786	Unassigned	0	US	1			Alaska	0	07/05/2020
-2789	Unassigned	0	US	1			Alaska	0	07/06/2020
-2790	Unassigned	0	US	2			Alaska	0	07/07/2020
-2793	Unassigned	0	US	2			Alaska	0	07/08/2020
-2792	Unassigned	0	US	2			Alaska	0	07/09/2020
-2796	Unassigned	0	US	0			Alaska	0	07/10/2020
-2797	Unassigned	0	US	0			Alaska	0	07/11/2020
-2799	Unassigned	0	US	0			Alaska	0	07/12/2020
-2801	Unassigned	0	US	0			Alaska	0	07/13/2020
-2806	Unassigned	0	US	0			Alaska	0	07/14/2020
-2807	Unassigned	0	US	0			Alaska	0	07/15/2020
-2809	Unassigned	0	US	0			Alaska	0	07/16/2020
-2809	Unassigned	0	US	0			Alaska	0	07/17/2020
-2882	Unassigned	0	US	0			Alaska	0	07/18/2020
-2882	Unassigned	0	US	0			Alaska	0	07/19/2020
-2806	Unassigned	0	US	0			Alaska	0	07/20/2020
-2886	Unassigned	0	US	0			Alaska	0	07/21/2020
-2887	Unassigned	0	US	0			Alaska	0	07/22/2020
-2890	Unassigned	0	US	0			Alaska	0	07/23/2020
-2889	Unassigned	0	US	0			Alaska	0	07/24/2020
-2890	Unassigned	0	US	0			Alaska	0	07/25/2020
-2891	Unassigned	0	US	0			Alaska	0	07/26/2020
-2891	Unassigned	0	US	0			Alaska	0	07/27/2020
-2891	Unassigned	0	US	0			Alaska	0	07/28/2020
-2895	Unassigned	0	US	0			Alaska	0	07/29/2020
-2895	Unassigned	0	US	0			Alaska	0	07/30/2020
-2897	Unassigned	0	US	0			Alaska	0	07/31/2020
-2897	Unassigned	0	US	0			Alaska	0	08/01/2020
-2897	Unassigned	0	US	0			Alaska	0	08/02/2020
-2897	Unassigned	0	US	0			Alaska	0	08/03/2020
-2898	Unassigned	0	US	0			Alaska	0	08/04/2020
-2902	Unassigned	0	US	0			Alaska	0	08/05/2020
-2902	Unassigned	0	US	0			Alaska	0	08/06/2020
-2902	Unassigned	0	US	0			Alaska	0	08/07/2020
-2902	Unassigned	0	US	0			Alaska	0	08/08/2020
-2902	Unassigned	0	US	0			Alaska	0	08/09/2020
-2902	Unassigned	0	US	0			Alaska	0	08/10/2020
-770	Unassigned	0	US	0			Alaska	0	08/11/2020
-724	Unassigned	0	US	0			Alaska	0	08/12/2020
-724	Unassigned	2	US	0			Alaska	0	08/13/2020
-724	Unassigned	2	US	0			Alaska	0	08/14/2020
-724	Unassigned	1	US	0			Alaska	0	08/15/2020
-724	Unassigned	1	US	0			Alaska	0	08/16/2020
-724	Unassigned	1	US	0			Alaska	0	08/17/2020
-724	Unassigned	1	US	0			Alaska	0	08/18/2020
-724	Unassigned	1	US	0			Alaska	0	08/19/2020
-724	Unassigned	1	US	0			Alaska	0	08/20/2020
-724	Unassigned	1	US	0			Alaska	0	08/21/2020
-724	Unassigned	1	US	0			Alaska	0	08/22/2020
-724	Unassigned	1	US	0			Alaska	0	08/23/2020
-724	Unassigned	2	US	0			Alaska	0	08/24/2020
-724	Unassigned	2	US	0			Alaska	0	08/25/2020
-724	Unassigned	2	US	0			Alaska	0	08/26/2020
-724	Unassigned	3	US	0			Alaska	0	08/27/2020
-724	Unassigned	4	US	0			Alaska	0	08/28/2020
-724	Unassigned	2	US	0			Alaska	0	08/29/2020
-724	Unassigned	1	US	0			Alaska	0	08/30/2020
-724	Unassigned	1	US	0			Alaska	0	08/31/2020
-724	Unassigned	2	US	0			Alaska	0	09/01/2020
-724	Unassigned	1	US	0			Alaska	0	09/02/2020
-724	Unassigned	1	US	0			Alaska	0	09/03/2020
-724	Unassigned	1	US	0			Alaska	0	09/04/2020
-724	Unassigned	1	US	0			Alaska	0	09/05/2020
-724	Unassigned	1	US	0			Alaska	0	09/06/2020
-724	Unassigned	1	US	0			Alaska	0	09/07/2020
-724	Unassigned	1	US	0			Alaska	0	09/08/2020
-724	Unassigned	1	US	0			Alaska	0	09/09/2020
-724	Unassigned	1	US	0			Alaska	0	09/10/2020
-724	Unassigned	1	US	0			Alaska	0	09/11/2020
-724	Unassigned	1	US	0			Alaska	0	09/12/2020
-724	Unassigned	1	US	0			Alaska	0	09/13/2020
-724	Unassigned	2	US	0			Alaska	0	09/14/2020
-724	Unassigned	2	US	0			Alaska	0	09/15/2020
-724	Unassigned	1	US	0			Alaska	0	09/16/2020
-724	Unassigned	1	US	0			Alaska	0	09/17/2020
-724	Unassigned	1	US	0			Alaska	0	09/18/2020
-724	Unassigned	1	US	0			Alaska	0	09/19/2020
-724	Unassigned	1	US	0			Alaska	0	09/20/2020
-725	Unassigned	1	US	0			Alaska	0	09/21/2020
-725	Unassigned	1	US	0			Alaska	0	09/22/2020
-725	Unassigned	17	US	0			Alaska	0	09/23/2020
-725	Unassigned	17	US	0			Alaska	0	09/24/2020
-725	Unassigned	18	US	0			Alaska	0	09/25/2020
-725	Unassigned	19	US	0			Alaska	0	09/26/2020
-725	Unassigned	20	US	0			Alaska	0	09/27/2020
-725	Unassigned	20	US	0			Alaska	0	09/28/2020
-725	Unassigned	20	US	0			Alaska	0	09/29/2020
-725	Unassigned	19	US	0			Alaska	0	09/30/2020
-725	Unassigned	19	US	0			Alaska	0	10/01/2020
-725	Unassigned	19	US	0			Alaska	0	10/02/2020
-725	Unassigned	21	US	0			Alaska	0	10/03/2020
-725	Unassigned	21	US	0			Alaska	0	10/04/2020
-725	Unassigned	21	US	0			Alaska	0	10/05/2020
-725	Unassigned	21	US	0			Alaska	0	10/06/2020
-725	Unassigned	21	US	0			Alaska	0	10/07/2020
-725	Unassigned	21	US	0			Alaska	0	10/08/2020
-725	Unassigned	21	US	0			Alaska	0	10/09/2020
-725	Unassigned	21	US	0			Alaska	0	10/10/2020
-725	Unassigned	22	US	0			Alaska	0	10/11/2020
-726	Unassigned	22	US	0			Alaska	0	10/12/2020
-726	Unassigned	22	US	0			Alaska	0	10/13/2020
-726	Unassigned	22	US	0			Alaska	0	10/14/2020
-726	Unassigned	23	US	0			Alaska	0	10/15/2020
-727	Unassigned	24	US	0			Alaska	0	10/16/2020
-727	Unassigned	24	US	0			Alaska	0	10/17/2020
-727	Unassigned	25	US	0			Alaska	0	10/18/2020
-728	Unassigned	3	US	0			Alaska	0	10/19/2020
-728	Unassigned	3	US	0			Alaska	0	10/20/2020
-728	Unassigned	3	US	0			Alaska	0	10/21/2020
-728	Unassigned	3	US	0			Alaska	0	10/22/2020
-728	Unassigned	3	US	0			Alaska	0	10/23/2020
-728	Unassigned	3	US	0			Alaska	0	10/24/2020
-728	Unassigned	3	US	0			Alaska	0	10/25/2020
-728	Unassigned	3	US	0			Alaska	0	10/26/2020
-728	Unassigned	62	US	0			Alaska	0	10/27/2020
-729	Unassigned	64	US	0.0			Alaska	0	10/28/2020
-729	Unassigned	60	US	0			Alaska	0	10/29/2020
-729	Unassigned	64	US	0			Alaska	0	10/30/2020
-729	Unassigned	64	US	0			Alaska	0	10/31/2020
-729	Unassigned	68	US	0			Alaska	0	11/01/2020
-729	Unassigned	69	US	0			Alaska	0	11/02/2020
-729	Unassigned	71	US	0			Alaska	0	11/03/2020
-729	Unassigned	73	US	0			Alaska	0	11/04/2020
-729	Unassigned	77	US	0			Alaska	0	11/05/2020
-729	Unassigned	79	US	0			Alaska	0	11/06/2020
-729	Unassigned	80	US	0			Alaska	0	11/07/2020
-729	Unassigned	81	US	0			Alaska	0	11/08/2020
-729	Unassigned	82	US	0			Alaska	0.0	11/09/2020
-729	Unassigned	84	US	0			Alaska	0.0	11/10/2020
-729	Unassigned	81	US	0			Alaska	0.0	11/11/2020
-741	Unassigned	82	US	0			Alaska	0	11/12/2020
-741	Unassigned	86	US	0			Alaska	0	11/13/2020
-741	Unassigned	97	US	0			Alaska	0	11/14/2020
-741	Unassigned	104	US	0			Alaska	0	11/15/2020
-741	Unassigned	106	US	0			Alaska	0	11/16/2020
-741	Unassigned	112	US	0			Alaska	0	11/17/2020
-741	Unassigned	112	US	0			Alaska	0	11/18/2020
-741	Unassigned	115	US	0			Alaska	0	11/19/2020
-741	Unassigned	118	US	0			Alaska	0	11/20/2020
-741	Unassigned	122	US	0			Alaska	0	11/21/2020
-741	Unassigned	129	US	0			Alaska	0	11/22/2020
-741	Unassigned	129	US	0			Alaska	0	11/23/2020
-742	Unassigned	132	US	0			Alaska	0	11/24/2020
-742	Unassigned	138	US	0			Alaska	0	11/25/2020
-742	Unassigned	143	US	0			Alaska	0	11/26/2020
-742	Unassigned	151	US	0			Alaska	0	11/27/2020
-742	Unassigned	155	US	0			Alaska	0	11/28/2020
-742	Unassigned	156	US	0			Alaska	0	11/29/2020
-742	Unassigned	158	US	0			Alaska	0	11/30/2020
-742	Unassigned	161	US	0			Alaska	0	12/01/2020
-742	Unassigned	164	US	0			Alaska	0	12/02/2020
-742	Unassigned	167	US	0			Alaska	0	12/03/2020
-742	Unassigned	170	US	0			Alaska	0	12/04/2020
-742	Unassigned	179	US	0			Alaska	0	12/05/2020
-742	Unassigned	180	US	0			Alaska	0	12/06/2020
-742	Unassigned	184	US	0			Alaska	0	12/07/2020
-742	Unassigned	192	US	0			Alaska	0	12/08/2020
-742	Unassigned	192	US	0			Alaska	0	12/09/2020
-742	Unassigned	203	US	0			Alaska	0	12/10/2020
-742	Unassigned	206	US	0			Alaska	0	12/11/2020
-742	Unassigned	207	US	0			Alaska	0	12/12/2020
-742	Unassigned	210	US	0			Alaska	0	12/13/2020
-742	Unassigned	212	US	0			Alaska	0	12/14/2020
-742	Unassigned	215	US	0			Alaska	0	12/15/2020
-742	Unassigned	218	US	0			Alaska	0	12/16/2020
-742	Unassigned	215	US	0			Alaska	0	12/17/2020
-742	Unassigned	223	US	0			Alaska	0	12/18/2020
-742	Unassigned	226	US	0			Alaska	0	12/19/2020
-742	Unassigned	209	US	0			Alaska	0	12/20/2020
-742	Unassigned	204	US	0			Alaska	0	12/21/2020
-742	Unassigned	204	US	0			Alaska	0	12/22/2020
-742	Unassigned	205	US	0			Alaska	0	12/23/2020
-742	Unassigned	207	US	0			Alaska	0	12/24/2020
-742	Unassigned	207	US	0			Alaska	0	12/25/2020
-742	Unassigned	210	US	0			Alaska	0	12/26/2020
-742	Unassigned	214	US	0			Alaska	0	12/27/2020
-742	Unassigned	216	US	0			Alaska	0	12/28/2020
-742	Unassigned	219	US	0			Alaska	0	12/29/2020
-742	Unassigned	221	US	0			Alaska	0	12/30/2020
-742	Unassigned	218	US	0			Alaska	0	12/31/2020
-742	Unassigned	218	US	0			Alaska	0	01/01/2021
-742	Unassigned	225	US	0			Alaska	0	01/02/2021
-743	Unassigned	226	US	0			Alaska	0	01/03/2021
-743	Unassigned	229	US	0			Alaska	0	01/04/2021
-743	Unassigned	231	US	0			Alaska	0	01/05/2021
-743	Unassigned	237	US	0			Alaska	0	01/06/2021
-743	Unassigned	237	US	0			Alaska	0	01/07/2021
-743	Unassigned	241	US	0			Alaska	0	01/08/2021
-743	Unassigned	248	US	0			Alaska	0	01/09/2021
-743	Unassigned	253	US	0			Alaska	0	01/10/2021
-743	Unassigned	211	US	0			Alaska	0	01/11/2021
-743	Unassigned	210	US	0			Alaska	0	01/12/2021
-743	Unassigned	212	US	0			Alaska	0	01/13/2021
-743	Unassigned	217	US	0			Alaska	0	01/14/2021
-743	Unassigned	221	US	0			Alaska	0	01/15/2021
-743	Unassigned	222	US	0			Alaska	0	01/16/2021
-743	Unassigned	225	US	0			Alaska	0	01/17/2021
-743	Unassigned	225	US	0			Alaska	0	01/18/2021
-743	Unassigned	226	US	0			Alaska	0	01/19/2021
-743	Unassigned	230	US	0			Alaska	0	01/20/2021
-744	Unassigned	232	US	0			Alaska	0	01/21/2021
-744	Unassigned	232	US	0			Alaska	0	01/22/2021
-744	Unassigned	232	US	0			Alaska	0	01/23/2021
-744	Unassigned	232	US	0			Alaska	0	01/24/2021
-744	Unassigned	233	US	0			Alaska	0	01/25/2021
-744	Unassigned	233	US	0			Alaska	0	01/26/2021
-744	Unassigned	235	US	0			Alaska	0	01/27/2021
-744	Unassigned	230	US	0			Alaska	0	01/28/2021
-744	Unassigned	232	US	0			Alaska	0	01/29/2021
-744	Unassigned	233	US	0			Alaska	0	01/30/2021
-744	Unassigned	236	US	0			Alaska	0	01/31/2021
-744	Unassigned	246	US	0			Alaska	0	02/01/2021
-744	Unassigned	239	US	0			Alaska	0	02/02/2021
-744	Unassigned	239	US	0			Alaska	0	02/03/2021
-744	Unassigned	240	US	0			Alaska	0	02/04/2021
-744	Unassigned	240	US	0			Alaska	0	02/05/2021
-744	Unassigned	240	US	0			Alaska	0	02/06/2021
-744	Unassigned	240	US	0			Alaska	0	02/07/2021
-744	Unassigned	249	US	0			Alaska	0	02/08/2021
-744	Unassigned	250	US	0			Alaska	0	02/09/2021
-744	Unassigned	251	US	0			Alaska	0	02/10/2021
-744	Unassigned	251	US	0			Alaska	0	02/11/2021
-744	Unassigned	253	US	0			Alaska	0	02/12/2021
-744	Unassigned	253	US	0			Alaska	0	02/13/2021
-744	Unassigned	253	US	0			Alaska	0	02/14/2021
-744	Unassigned	253	US	0			Alaska	0	02/15/2021
-744	Unassigned	255	US	0			Alaska	0	02/16/2021
-744	Unassigned	255	US	0			Alaska	0	02/17/2021
-744	Unassigned	253	US	0			Alaska	0	02/18/2021
-745	Unassigned	253	US	0			Alaska	0	02/19/2021
-745	Unassigned	253	US	0			Alaska	0	02/20/2021
-745	Unassigned	253	US	0			Alaska	0	02/21/2021
-745	Unassigned	254	US	0			Alaska	0	02/22/2021
-745	Unassigned	255	US	0			Alaska	0	02/23/2021
-745	Unassigned	256	US	0			Alaska	0	02/24/2021
-745	Unassigned	258	US	0			Alaska	0	02/25/2021
-745	Unassigned	259	US	0			Alaska	0	02/26/2021
-745	Unassigned	259	US	0			Alaska	0	02/27/2021
-745	Unassigned	259	US	0			Alaska	0	02/28/2021
-745	Unassigned	256	US	0			Alaska	0	03/01/2021
-745	Unassigned	265	US	0			Alaska	0	03/02/2021
-745	Unassigned	265	US	0			Alaska	0	03/03/2021
-745	Unassigned	256	US	0			Alaska	0	03/04/2021
-745	Unassigned	257	US	0			Alaska	0	03/05/2021
-745	Unassigned	257	US	0			Alaska	0	03/06/2021
-745	Unassigned	257	US	0			Alaska		03/07/2021
-745	Unassigned	257	US	0			Alaska		03/08/2021
-745	Unassigned	258	US	0			Alaska		03/09/2021
-745	Unassigned	258	US	0			Alaska		03/10/2021
-745	Unassigned	258	US	0			Alaska		03/11/2021
-745	Unassigned	258	US	0			Alaska		03/12/2021
-745	Unassigned	258	US	0			Alaska		03/13/2021
-745	Unassigned	258	US	0			Alaska		03/14/2021
-745	Unassigned	259	US	0			Alaska		03/15/2021
-745	Unassigned	259	US	0			Alaska		03/16/2021
-745	Unassigned	261	US	0			Alaska		03/17/2021
-745	Unassigned	261	US	0			Alaska		03/18/2021
-745	Unassigned	262	US	0			Alaska		03/19/2021
-745	Unassigned	262	US	0			Alaska		03/20/2021
-745	Unassigned	262	US	0			Alaska		03/21/2021
-745	Unassigned	262	US	0			Alaska		03/22/2021
-745	Unassigned	263	US	0			Alaska		03/23/2021
-745	Unassigned	264	US	0			Alaska		03/24/2021
-745	Unassigned	266	US	0			Alaska		03/25/2021
-745	Unassigned	266	US	0			Alaska		03/26/2021
-745	Unassigned	266	US	0			Alaska		03/27/2021
-745	Unassigned	266	US	0			Alaska		03/28/2021
-745	Unassigned	266	US	0			Alaska		03/29/2021
-745	Unassigned	276	US	0			Alaska		03/30/2021
-745	Unassigned	276	US	0			Alaska		03/31/2021
-745	Unassigned	275	US	0			Alaska		04/01/2021
-747	Unassigned	277	US	0			Alaska		04/02/2021
-747	Unassigned	277	US	0			Alaska		04/03/2021
-747	Unassigned	277	US	0			Alaska		04/04/2021
-747	Unassigned	284	US	0			Alaska		04/05/2021
-747	Unassigned	284	US	0			Alaska		04/06/2021
-747	Unassigned	286	US	0			Alaska		04/07/2021
-747	Unassigned	288	US	0			Alaska		04/08/2021
-747	Unassigned	294	US	0			Alaska		04/09/2021
-747	Unassigned	294	US	0			Alaska		04/10/2021
-747	Unassigned	294	US	0			Alaska		04/11/2021
-747	Unassigned	302	US	0			Alaska		04/12/2021
-747	Unassigned	302	US	0			Alaska		04/13/2021
-747	Unassigned	302	US	0			Alaska		04/14/2021
-747	Unassigned	303	US	0			Alaska		04/15/2021
-747	Unassigned	306	US	0			Alaska		04/16/2021
-747	Unassigned	306	US	0			Alaska		04/17/2021
-747	Unassigned	306	US	0			Alaska		04/18/2021
-747	Unassigned	308	US	0			Alaska		04/19/2021
-747	Unassigned	309	US	0			Alaska		04/20/2021
-747	Unassigned	310	US	0			Alaska		04/21/2021
-747	Unassigned	310	US	0			Alaska		04/22/2021
-747	Unassigned	310	US	0			Alaska		04/23/2021
-747	Unassigned	310	US	0			Alaska		04/24/2021
-747	Unassigned	310	US	0			Alaska		04/25/2021
-747	Unassigned	314	US	0			Alaska		04/26/2021
-747	Unassigned	312	US	0			Alaska		04/27/2021
-747	Unassigned	290	US	0			Alaska		04/28/2021
-747	Unassigned	288	US	0			Alaska		04/29/2021
-747	Unassigned	288	US	0			Alaska		04/30/2021
-747	Unassigned	288	US	0			Alaska		05/01/2021
-747	Unassigned	288	US	0			Alaska		05/02/2021
-747	Unassigned	288	US	0			Alaska		05/03/2021
-747	Unassigned	289	US	0			Alaska		05/04/2021
-747	Unassigned	288	US	0			Alaska		05/05/2021
-747	Unassigned	288	US	0			Alaska		05/06/2021
-747	Unassigned	288	US	0			Alaska		05/07/2021
-747	Unassigned	288	US	0			Alaska		05/08/2021
-747	Unassigned	288	US	0			Alaska		05/09/2021
-747	Unassigned	291	US	0			Alaska		05/10/2021
-747	Unassigned	291	US	0			Alaska		05/11/2021
-747	Unassigned	293	US	0			Alaska		05/12/2021
-747	Unassigned	294	US	0			Alaska		05/13/2021
-747	Unassigned	296	US	0			Alaska		05/14/2021
-747	Unassigned	296	US	0			Alaska		05/15/2021
-747	Unassigned	296	US	0			Alaska		05/16/2021
-747	Unassigned	298	US	0			Alaska		05/17/2021
-747	Unassigned	297	US	0			Alaska		05/18/2021
-747	Unassigned	297	US	0			Alaska		05/19/2021
-747	Unassigned	297	US	0			Alaska		05/20/2021
-747	Unassigned	297	US	0			Alaska		05/21/2021
-747	Unassigned	297	US	0			Alaska		05/22/2021
-747	Unassigned	297	US	0			Alaska		05/23/2021
-747	Unassigned	298	US	0			Alaska		05/24/2021
-747	Unassigned	298	US	0			Alaska		05/25/2021
-747	Unassigned	300	US	0			Alaska		05/26/2021
-748	Unassigned	298	US	0			Alaska		05/27/2021
-748	Unassigned	295	US	0			Alaska		05/28/2021
-748	Unassigned	295	US	0			Alaska		05/29/2021
-748	Unassigned	295	US	0			Alaska		05/30/2021
-748	Unassigned	295	US	0			Alaska		05/31/2021
-748	Unassigned	296	US	0			Alaska		06/01/2021
-748	Unassigned	291	US	0			Alaska		06/02/2021
-748	Unassigned	292	US	0			Alaska		06/03/2021
-748	Unassigned	292	US	0			Alaska		06/04/2021
-748	Unassigned	292	US	0			Alaska		06/05/2021
-748	Unassigned	292	US	0			Alaska		06/06/2021
-748	Unassigned	292	US	0			Alaska		06/07/2021
-748	Unassigned	292	US	0			Alaska		06/08/2021
-748	Unassigned	291	US	0			Alaska		06/09/2021
-748	Unassigned	291	US	0			Alaska		06/10/2021
-748	Unassigned	292	US	0			Alaska		06/11/2021
-748	Unassigned	292	US	0			Alaska		06/12/2021
-748	Unassigned	292	US	0			Alaska		06/13/2021
-748	Unassigned	289	US	0			Alaska		06/14/2021
-748	Unassigned	289	US	0			Alaska		06/15/2021
-748	Unassigned	289	US	0			Alaska		06/16/2021
-750	Unassigned	289	US	0			Alaska		06/17/2021
-750	Unassigned	288	US	0			Alaska		06/18/2021
-750	Unassigned	288	US	0			Alaska		06/19/2021
-750	Unassigned	288	US	0			Alaska		06/20/2021
-750	Unassigned	288	US	0			Alaska		06/21/2021
-750	Unassigned	288	US	0			Alaska		06/22/2021
-750	Unassigned	290	US	0			Alaska		06/23/2021
-751	Unassigned	290	US	0			Alaska		06/24/2021
-751	Unassigned	290	US	0			Alaska		06/25/2021
-751	Unassigned	290	US	0			Alaska		06/26/2021
-751	Unassigned	290	US	0			Alaska		06/27/2021
-751	Unassigned	292	US	0			Alaska		06/28/2021
-751	Unassigned	292	US	0			Alaska		06/29/2021
-751	Unassigned	293	US	0			Alaska		06/30/2021
-751	Unassigned	293	US	0			Alaska		07/01/2021
-751	Unassigned	299	US	0			Alaska		07/02/2021
-751	Unassigned	299	US	0			Alaska		07/03/2021
-751	Unassigned	299	US	0			Alaska		07/04/2021
-751	Unassigned	299	US	0			Alaska		07/05/2021
-751	Unassigned	299	US	0			Alaska		07/06/2021
-751	Unassigned	300	US	0			Alaska		07/07/2021
-751	Unassigned	300	US	0			Alaska		07/08/2021
-751	Unassigned	302	US	0			Alaska		07/09/2021
-751	Unassigned	302	US	0			Alaska		07/10/2021
-751	Unassigned	302	US	0			Alaska		07/11/2021
-751	Unassigned	306	US	0			Alaska		07/12/2021
-751	Unassigned	306	US	0			Alaska		07/13/2021
-751	Unassigned	308	US	0			Alaska		07/14/2021
-751	Unassigned	308	US	0			Alaska		07/15/2021
-751	Unassigned	313	US	0			Alaska		07/16/2021
-751	Unassigned	313	US	0			Alaska		07/17/2021
-751	Unassigned	313	US	0			Alaska		07/18/2021
-751	Unassigned	315	US	0			Alaska		07/19/2021
-751	Unassigned	315	US	0			Alaska		07/20/2021
-751	Unassigned	325	US	0			Alaska		07/21/2021
-751	Unassigned	325	US	0			Alaska		07/22/2021
-751	Unassigned	326	US	0			Alaska		07/23/2021
-751	Unassigned	326	US	0			Alaska		07/24/2021
-751	Unassigned	326	US	0			Alaska		07/25/2021
-751	Unassigned	331	US	0			Alaska		07/26/2021
-751	Unassigned	331	US	0			Alaska		07/27/2021
-751	Unassigned	332	US	0			Alaska		07/28/2021
-751	Unassigned	332	US	0			Alaska		07/29/2021
-751	Unassigned	332	US	0			Alaska		07/30/2021
-751	Unassigned	332	US	0			Alaska		07/31/2021
-751	Unassigned	332	US	0			Alaska		08/01/2021
-751	Unassigned	343	US	0			Alaska		08/02/2021
-751	Unassigned	344	US	0			Alaska		08/03/2021
-751	Unassigned	345	US	0			Alaska		08/04/2021
-751	Unassigned	350	US	0			Alaska		08/05/2021
-751	Unassigned	353	US	0			Alaska		08/06/2021
-751	Unassigned	353	US	0			Alaska		08/07/2021
-751	Unassigned	353	US	0			Alaska		08/08/2021
-751	Unassigned	356	US	0			Alaska		08/09/2021
-751	Unassigned	360	US	0			Alaska		08/10/2021
-751	Unassigned	360	US	0			Alaska		08/11/2021
-751	Unassigned	364	US	0			Alaska		08/12/2021
-751	Unassigned	363	US	0			Alaska		08/13/2021
-751	Unassigned	363	US	0			Alaska		08/14/2021
-751	Unassigned	363	US	0			Alaska		08/15/2021
-751	Unassigned	363	US	0			Alaska		08/16/2021
-751	Unassigned	364	US	0			Alaska		08/17/2021
-751	Unassigned	372	US	0			Alaska		08/18/2021
-751	Unassigned	373	US	0			Alaska		08/19/2021
-751	Unassigned	376	US	0			Alaska		08/20/2021
-751	Unassigned	376	US	0			Alaska		08/21/2021
-751	Unassigned	376	US	0			Alaska		08/22/2021
-751	Unassigned	383	US	0			Alaska		08/23/2021
-751	Unassigned	385	US	0			Alaska		08/24/2021
-751	Unassigned	386	US	0			Alaska		08/25/2021
-751	Unassigned	386	US	0			Alaska		08/26/2021
-751	Unassigned	400	US	0			Alaska		08/27/2021
-751	Unassigned	400	US	0			Alaska		08/28/2021
-751	Unassigned	400	US	0			Alaska		08/29/2021
-751	Unassigned	366	US	0			Alaska		08/30/2021
-751	Unassigned	368	US	0			Alaska		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2856	Alaska	US	03/25/2020	0.0	0.0	0	1	0	Unassigned
+2855	Alaska	US	03/26/2020	0.0	0.0	0	1	0	Unassigned
+2855	Alaska	US	03/27/2020	0.0	0.0	0	1	0	Unassigned
+2855	Alaska	US	03/28/2020	0.0	0.0	0	1	0	Unassigned
+2855	Alaska	US	03/29/2020	0.0	0.0	0	1	0	Unassigned
+2855	Alaska	US	03/30/2020	0.0	0.0	0	2	0	Unassigned
+1927	Alaska	US	03/31/2020	0.0	0.0	0	2	0	Unassigned
+1973	Alaska	US	04/01/2020	0.0	0.0	0	2	0	Unassigned
+2043	Alaska	US	04/02/2020			0	2	0	Unassigned
+2090	Alaska	US	04/03/2020			0	2	0	Unassigned
+2143	Alaska	US	04/04/2020			0	4	0	Unassigned
+2215	Alaska	US	04/05/2020			0	5	0	Unassigned
+2252	Alaska	US	04/06/2020			0	5	0	Unassigned
+2299	Alaska	US	04/07/2020			0	1	0	Unassigned
+2322	Alaska	US	04/08/2020			1	2	0	Unassigned
+2348	Alaska	US	04/09/2020			0	2	0	Unassigned
+2372	Alaska	US	04/10/2020			0	2	0	Unassigned
+2398	Alaska	US	04/11/2020			0	3	0	Unassigned
+2420	Alaska	US	04/12/2020			0	3	0	Unassigned
+2434	Alaska	US	04/13/2020			0	3	0	Unassigned
+2444	Alaska	US	04/14/2020			0	4	0	Unassigned
+2456	Alaska	US	04/15/2020			0	4	0	Unassigned
+2470	Alaska	US	04/16/2020			0	4	0	Unassigned
+2472	Alaska	US	04/17/2020			0	4	0	Unassigned
+2479	Alaska	US	04/18/2020			0	4	0	Unassigned
+2496	Alaska	US	04/19/2020			0	4	0	Unassigned
+2504	Alaska	US	04/20/2020			0	4	0	Unassigned
+2513	Alaska	US	04/21/2020			0	4	0	Unassigned
+2520	Alaska	US	04/22/2020			0	4	0	Unassigned
+2537	Alaska	US	04/23/2020			0	4	0	Unassigned
+2543	Alaska	US	04/24/2020			0	4	0	Unassigned
+2548	Alaska	US	04/25/2020			0	4	0	Unassigned
+2556	Alaska	US	04/26/2020			0	4	0	Unassigned
+2563	Alaska	US	04/27/2020			0	4	0	Unassigned
+2572	Alaska	US	04/28/2020			0	4	0	Unassigned
+2577	Alaska	US	04/29/2020			0	4	0	Unassigned
+2583	Alaska	US	04/30/2020			0	4	0	Unassigned
+2594	Alaska	US	05/01/2020			0	0	0	Unassigned
+2597	Alaska	US	05/02/2020			0	0	0	Unassigned
+2602	Alaska	US	05/03/2020			0	0	0	Unassigned
+2605	Alaska	US	05/04/2020			0	0	0	Unassigned
+2613	Alaska	US	05/05/2020			0	0	0	Unassigned
+2619	Alaska	US	05/06/2020			0	0	0	Unassigned
+2626	Alaska	US	05/07/2020			0	0	0	Unassigned
+2633	Alaska	US	05/08/2020			0	0	0	Unassigned
+2635	Alaska	US	05/09/2020			0	0	0	Unassigned
+2637	Alaska	US	05/10/2020			0	0	0	Unassigned
+2637	Alaska	US	05/11/2020			0	0	0	Unassigned
+2640	Alaska	US	05/12/2020			4	0	0	Unassigned
+2641	Alaska	US	05/13/2020			4	0	0	Unassigned
+2643	Alaska	US	05/14/2020			4	0	0	Unassigned
+2648	Alaska	US	05/15/2020			1	0	0	Unassigned
+2652	Alaska	US	05/16/2020			1	0	0	Unassigned
+2655	Alaska	US	05/17/2020			1	0	0	Unassigned
+2657	Alaska	US	05/18/2020			1	0	0	Unassigned
+2661	Alaska	US	05/19/2020			1	0	0	Unassigned
+2667	Alaska	US	05/20/2020			0	0	0	Unassigned
+2669	Alaska	US	05/21/2020			0	0	0	Unassigned
+2676	Alaska	US	05/22/2020			0	0	0	Unassigned
+2678	Alaska	US	05/23/2020			0	0	0	Unassigned
+2681	Alaska	US	05/24/2020			0	0	0	Unassigned
+2682	Alaska	US	05/25/2020			0	0	0	Unassigned
+2683	Alaska	US	05/26/2020			0	0	0	Unassigned
+2686	Alaska	US	05/27/2020			0	0	0	Unassigned
+2689	Alaska	US	05/28/2020			0	0	0	Unassigned
+2692	Alaska	US	05/29/2020			0	0	0	Unassigned
+2694	Alaska	US	05/30/2020			0	0	0	Unassigned
+2695	Alaska	US	05/31/2020			0	0	0	Unassigned
+2697	Alaska	US	06/01/2020			0	0	0	Unassigned
+2702	Alaska	US	06/02/2020			0	0	0	Unassigned
+2704	Alaska	US	06/03/2020			0	0	0	Unassigned
+2705	Alaska	US	06/04/2020			0	0	0	Unassigned
+2709	Alaska	US	06/05/2020			0	0	0	Unassigned
+2711	Alaska	US	06/06/2020			0	0	0	Unassigned
+2711	Alaska	US	06/07/2020			0	0	0	Unassigned
+2711	Alaska	US	06/08/2020			0	0	0	Unassigned
+2713	Alaska	US	06/09/2020			0	0	0	Unassigned
+2715	Alaska	US	06/10/2020			0	0	0	Unassigned
+2717	Alaska	US	06/11/2020			0	0	0	Unassigned
+2731	Alaska	US	06/12/2020			0	0	0	Unassigned
+2734	Alaska	US	06/13/2020			0	0	0	Unassigned
+2734	Alaska	US	06/14/2020			0	0	0	Unassigned
+2738	Alaska	US	06/15/2020			0	0	0	Unassigned
+2736	Alaska	US	06/16/2020			0	0	0	Unassigned
+2738	Alaska	US	06/17/2020			0	0	0	Unassigned
+2738	Alaska	US	06/18/2020			0	0	0	Unassigned
+2739	Alaska	US	06/19/2020			0	0	0	Unassigned
+2743	Alaska	US	06/20/2020			0	0	0	Unassigned
+2743	Alaska	US	06/21/2020			0	0	0	Unassigned
+2746	Alaska	US	06/22/2020			0	0	0	Unassigned
+2751	Alaska	US	06/23/2020			0	0	0	Unassigned
+2763	Alaska	US	06/24/2020			0	0	0	Unassigned
+2768	Alaska	US	06/25/2020			0	0	0	Unassigned
+2769	Alaska	US	06/26/2020			0	0	0	Unassigned
+2770	Alaska	US	06/27/2020			0	0	0	Unassigned
+2770	Alaska	US	06/28/2020			0	0	0	Unassigned
+2772	Alaska	US	06/29/2020			0	0	0	Unassigned
+2774	Alaska	US	06/30/2020			0	0	0	Unassigned
+2776	Alaska	US	07/01/2020			0	0	0	Unassigned
+2779	Alaska	US	07/02/2020			0	0	0	Unassigned
+2784	Alaska	US	07/03/2020			0	1	0	Unassigned
+2785	Alaska	US	07/04/2020			0	1	0	Unassigned
+2786	Alaska	US	07/05/2020			0	1	0	Unassigned
+2789	Alaska	US	07/06/2020			0	1	0	Unassigned
+2790	Alaska	US	07/07/2020			0	2	0	Unassigned
+2793	Alaska	US	07/08/2020			0	2	0	Unassigned
+2792	Alaska	US	07/09/2020			0	2	0	Unassigned
+2796	Alaska	US	07/10/2020			0	0	0	Unassigned
+2797	Alaska	US	07/11/2020			0	0	0	Unassigned
+2799	Alaska	US	07/12/2020			0	0	0	Unassigned
+2801	Alaska	US	07/13/2020			0	0	0	Unassigned
+2806	Alaska	US	07/14/2020			0	0	0	Unassigned
+2807	Alaska	US	07/15/2020			0	0	0	Unassigned
+2809	Alaska	US	07/16/2020			0	0	0	Unassigned
+2809	Alaska	US	07/17/2020			0	0	0	Unassigned
+2882	Alaska	US	07/18/2020			0	0	0	Unassigned
+2882	Alaska	US	07/19/2020			0	0	0	Unassigned
+2806	Alaska	US	07/20/2020			0	0	0	Unassigned
+2886	Alaska	US	07/21/2020			0	0	0	Unassigned
+2887	Alaska	US	07/22/2020			0	0	0	Unassigned
+2890	Alaska	US	07/23/2020			0	0	0	Unassigned
+2889	Alaska	US	07/24/2020			0	0	0	Unassigned
+2890	Alaska	US	07/25/2020			0	0	0	Unassigned
+2891	Alaska	US	07/26/2020			0	0	0	Unassigned
+2891	Alaska	US	07/27/2020			0	0	0	Unassigned
+2891	Alaska	US	07/28/2020			0	0	0	Unassigned
+2895	Alaska	US	07/29/2020			0	0	0	Unassigned
+2895	Alaska	US	07/30/2020			0	0	0	Unassigned
+2897	Alaska	US	07/31/2020			0	0	0	Unassigned
+2897	Alaska	US	08/01/2020			0	0	0	Unassigned
+2897	Alaska	US	08/02/2020			0	0	0	Unassigned
+2897	Alaska	US	08/03/2020			0	0	0	Unassigned
+2898	Alaska	US	08/04/2020			0	0	0	Unassigned
+2902	Alaska	US	08/05/2020			0	0	0	Unassigned
+2902	Alaska	US	08/06/2020			0	0	0	Unassigned
+2902	Alaska	US	08/07/2020			0	0	0	Unassigned
+2902	Alaska	US	08/08/2020			0	0	0	Unassigned
+2902	Alaska	US	08/09/2020			0	0	0	Unassigned
+2902	Alaska	US	08/10/2020			0	0	0	Unassigned
+770	Alaska	US	08/11/2020			0	0	0	Unassigned
+724	Alaska	US	08/12/2020			0	0	0	Unassigned
+724	Alaska	US	08/13/2020			2	0	0	Unassigned
+724	Alaska	US	08/14/2020			2	0	0	Unassigned
+724	Alaska	US	08/15/2020			1	0	0	Unassigned
+724	Alaska	US	08/16/2020			1	0	0	Unassigned
+724	Alaska	US	08/17/2020			1	0	0	Unassigned
+724	Alaska	US	08/18/2020			1	0	0	Unassigned
+724	Alaska	US	08/19/2020			1	0	0	Unassigned
+724	Alaska	US	08/20/2020			1	0	0	Unassigned
+724	Alaska	US	08/21/2020			1	0	0	Unassigned
+724	Alaska	US	08/22/2020			1	0	0	Unassigned
+724	Alaska	US	08/23/2020			1	0	0	Unassigned
+724	Alaska	US	08/24/2020			2	0	0	Unassigned
+724	Alaska	US	08/25/2020			2	0	0	Unassigned
+724	Alaska	US	08/26/2020			2	0	0	Unassigned
+724	Alaska	US	08/27/2020			3	0	0	Unassigned
+724	Alaska	US	08/28/2020			4	0	0	Unassigned
+724	Alaska	US	08/29/2020			2	0	0	Unassigned
+724	Alaska	US	08/30/2020			1	0	0	Unassigned
+724	Alaska	US	08/31/2020			1	0	0	Unassigned
+724	Alaska	US	09/01/2020			2	0	0	Unassigned
+724	Alaska	US	09/02/2020			1	0	0	Unassigned
+724	Alaska	US	09/03/2020			1	0	0	Unassigned
+724	Alaska	US	09/04/2020			1	0	0	Unassigned
+724	Alaska	US	09/05/2020			1	0	0	Unassigned
+724	Alaska	US	09/06/2020			1	0	0	Unassigned
+724	Alaska	US	09/07/2020			1	0	0	Unassigned
+724	Alaska	US	09/08/2020			1	0	0	Unassigned
+724	Alaska	US	09/09/2020			1	0	0	Unassigned
+724	Alaska	US	09/10/2020			1	0	0	Unassigned
+724	Alaska	US	09/11/2020			1	0	0	Unassigned
+724	Alaska	US	09/12/2020			1	0	0	Unassigned
+724	Alaska	US	09/13/2020			1	0	0	Unassigned
+724	Alaska	US	09/14/2020			2	0	0	Unassigned
+724	Alaska	US	09/15/2020			2	0	0	Unassigned
+724	Alaska	US	09/16/2020			1	0	0	Unassigned
+724	Alaska	US	09/17/2020			1	0	0	Unassigned
+724	Alaska	US	09/18/2020			1	0	0	Unassigned
+724	Alaska	US	09/19/2020			1	0	0	Unassigned
+724	Alaska	US	09/20/2020			1	0	0	Unassigned
+725	Alaska	US	09/21/2020			1	0	0	Unassigned
+725	Alaska	US	09/22/2020			1	0	0	Unassigned
+725	Alaska	US	09/23/2020			17	0	0	Unassigned
+725	Alaska	US	09/24/2020			17	0	0	Unassigned
+725	Alaska	US	09/25/2020			18	0	0	Unassigned
+725	Alaska	US	09/26/2020			19	0	0	Unassigned
+725	Alaska	US	09/27/2020			20	0	0	Unassigned
+725	Alaska	US	09/28/2020			20	0	0	Unassigned
+725	Alaska	US	09/29/2020			20	0	0	Unassigned
+725	Alaska	US	09/30/2020			19	0	0	Unassigned
+725	Alaska	US	10/01/2020			19	0	0	Unassigned
+725	Alaska	US	10/02/2020			19	0	0	Unassigned
+725	Alaska	US	10/03/2020			21	0	0	Unassigned
+725	Alaska	US	10/04/2020			21	0	0	Unassigned
+725	Alaska	US	10/05/2020			21	0	0	Unassigned
+725	Alaska	US	10/06/2020			21	0	0	Unassigned
+725	Alaska	US	10/07/2020			21	0	0	Unassigned
+725	Alaska	US	10/08/2020			21	0	0	Unassigned
+725	Alaska	US	10/09/2020			21	0	0	Unassigned
+725	Alaska	US	10/10/2020			21	0	0	Unassigned
+725	Alaska	US	10/11/2020			22	0	0	Unassigned
+726	Alaska	US	10/12/2020			22	0	0	Unassigned
+726	Alaska	US	10/13/2020			22	0	0	Unassigned
+726	Alaska	US	10/14/2020			22	0	0	Unassigned
+726	Alaska	US	10/15/2020			23	0	0	Unassigned
+727	Alaska	US	10/16/2020			24	0	0	Unassigned
+727	Alaska	US	10/17/2020			24	0	0	Unassigned
+727	Alaska	US	10/18/2020			25	0	0	Unassigned
+728	Alaska	US	10/19/2020			3	0	0	Unassigned
+728	Alaska	US	10/20/2020			3	0	0	Unassigned
+728	Alaska	US	10/21/2020			3	0	0	Unassigned
+728	Alaska	US	10/22/2020			3	0	0	Unassigned
+728	Alaska	US	10/23/2020			3	0	0	Unassigned
+728	Alaska	US	10/24/2020			3	0	0	Unassigned
+728	Alaska	US	10/25/2020			3	0	0	Unassigned
+728	Alaska	US	10/26/2020			3	0	0	Unassigned
+728	Alaska	US	10/27/2020			62	0	0	Unassigned
+729	Alaska	US	10/28/2020			64	0.0	0	Unassigned
+729	Alaska	US	10/29/2020			60	0	0	Unassigned
+729	Alaska	US	10/30/2020			64	0	0	Unassigned
+729	Alaska	US	10/31/2020			64	0	0	Unassigned
+729	Alaska	US	11/01/2020			68	0	0	Unassigned
+729	Alaska	US	11/02/2020			69	0	0	Unassigned
+729	Alaska	US	11/03/2020			71	0	0	Unassigned
+729	Alaska	US	11/04/2020			73	0	0	Unassigned
+729	Alaska	US	11/05/2020			77	0	0	Unassigned
+729	Alaska	US	11/06/2020			79	0	0	Unassigned
+729	Alaska	US	11/07/2020			80	0	0	Unassigned
+729	Alaska	US	11/08/2020			81	0	0	Unassigned
+729	Alaska	US	11/09/2020			82	0	0.0	Unassigned
+729	Alaska	US	11/10/2020			84	0	0.0	Unassigned
+729	Alaska	US	11/11/2020			81	0	0.0	Unassigned
+741	Alaska	US	11/12/2020			82	0	0	Unassigned
+741	Alaska	US	11/13/2020			86	0	0	Unassigned
+741	Alaska	US	11/14/2020			97	0	0	Unassigned
+741	Alaska	US	11/15/2020			104	0	0	Unassigned
+741	Alaska	US	11/16/2020			106	0	0	Unassigned
+741	Alaska	US	11/17/2020			112	0	0	Unassigned
+741	Alaska	US	11/18/2020			112	0	0	Unassigned
+741	Alaska	US	11/19/2020			115	0	0	Unassigned
+741	Alaska	US	11/20/2020			118	0	0	Unassigned
+741	Alaska	US	11/21/2020			122	0	0	Unassigned
+741	Alaska	US	11/22/2020			129	0	0	Unassigned
+741	Alaska	US	11/23/2020			129	0	0	Unassigned
+742	Alaska	US	11/24/2020			132	0	0	Unassigned
+742	Alaska	US	11/25/2020			138	0	0	Unassigned
+742	Alaska	US	11/26/2020			143	0	0	Unassigned
+742	Alaska	US	11/27/2020			151	0	0	Unassigned
+742	Alaska	US	11/28/2020			155	0	0	Unassigned
+742	Alaska	US	11/29/2020			156	0	0	Unassigned
+742	Alaska	US	11/30/2020			158	0	0	Unassigned
+742	Alaska	US	12/01/2020			161	0	0	Unassigned
+742	Alaska	US	12/02/2020			164	0	0	Unassigned
+742	Alaska	US	12/03/2020			167	0	0	Unassigned
+742	Alaska	US	12/04/2020			170	0	0	Unassigned
+742	Alaska	US	12/05/2020			179	0	0	Unassigned
+742	Alaska	US	12/06/2020			180	0	0	Unassigned
+742	Alaska	US	12/07/2020			184	0	0	Unassigned
+742	Alaska	US	12/08/2020			192	0	0	Unassigned
+742	Alaska	US	12/09/2020			192	0	0	Unassigned
+742	Alaska	US	12/10/2020			203	0	0	Unassigned
+742	Alaska	US	12/11/2020			206	0	0	Unassigned
+742	Alaska	US	12/12/2020			207	0	0	Unassigned
+742	Alaska	US	12/13/2020			210	0	0	Unassigned
+742	Alaska	US	12/14/2020			212	0	0	Unassigned
+742	Alaska	US	12/15/2020			215	0	0	Unassigned
+742	Alaska	US	12/16/2020			218	0	0	Unassigned
+742	Alaska	US	12/17/2020			215	0	0	Unassigned
+742	Alaska	US	12/18/2020			223	0	0	Unassigned
+742	Alaska	US	12/19/2020			226	0	0	Unassigned
+742	Alaska	US	12/20/2020			209	0	0	Unassigned
+742	Alaska	US	12/21/2020			204	0	0	Unassigned
+742	Alaska	US	12/22/2020			204	0	0	Unassigned
+742	Alaska	US	12/23/2020			205	0	0	Unassigned
+742	Alaska	US	12/24/2020			207	0	0	Unassigned
+742	Alaska	US	12/25/2020			207	0	0	Unassigned
+742	Alaska	US	12/26/2020			210	0	0	Unassigned
+742	Alaska	US	12/27/2020			214	0	0	Unassigned
+742	Alaska	US	12/28/2020			216	0	0	Unassigned
+742	Alaska	US	12/29/2020			219	0	0	Unassigned
+742	Alaska	US	12/30/2020			221	0	0	Unassigned
+742	Alaska	US	12/31/2020			218	0	0	Unassigned
+742	Alaska	US	01/01/2021			218	0	0	Unassigned
+742	Alaska	US	01/02/2021			225	0	0	Unassigned
+743	Alaska	US	01/03/2021			226	0	0	Unassigned
+743	Alaska	US	01/04/2021			229	0	0	Unassigned
+743	Alaska	US	01/05/2021			231	0	0	Unassigned
+743	Alaska	US	01/06/2021			237	0	0	Unassigned
+743	Alaska	US	01/07/2021			237	0	0	Unassigned
+743	Alaska	US	01/08/2021			241	0	0	Unassigned
+743	Alaska	US	01/09/2021			248	0	0	Unassigned
+743	Alaska	US	01/10/2021			253	0	0	Unassigned
+743	Alaska	US	01/11/2021			211	0	0	Unassigned
+743	Alaska	US	01/12/2021			210	0	0	Unassigned
+743	Alaska	US	01/13/2021			212	0	0	Unassigned
+743	Alaska	US	01/14/2021			217	0	0	Unassigned
+743	Alaska	US	01/15/2021			221	0	0	Unassigned
+743	Alaska	US	01/16/2021			222	0	0	Unassigned
+743	Alaska	US	01/17/2021			225	0	0	Unassigned
+743	Alaska	US	01/18/2021			225	0	0	Unassigned
+743	Alaska	US	01/19/2021			226	0	0	Unassigned
+743	Alaska	US	01/20/2021			230	0	0	Unassigned
+744	Alaska	US	01/21/2021			232	0	0	Unassigned
+744	Alaska	US	01/22/2021			232	0	0	Unassigned
+744	Alaska	US	01/23/2021			232	0	0	Unassigned
+744	Alaska	US	01/24/2021			232	0	0	Unassigned
+744	Alaska	US	01/25/2021			233	0	0	Unassigned
+744	Alaska	US	01/26/2021			233	0	0	Unassigned
+744	Alaska	US	01/27/2021			235	0	0	Unassigned
+744	Alaska	US	01/28/2021			230	0	0	Unassigned
+744	Alaska	US	01/29/2021			232	0	0	Unassigned
+744	Alaska	US	01/30/2021			233	0	0	Unassigned
+744	Alaska	US	01/31/2021			236	0	0	Unassigned
+744	Alaska	US	02/01/2021			246	0	0	Unassigned
+744	Alaska	US	02/02/2021			239	0	0	Unassigned
+744	Alaska	US	02/03/2021			239	0	0	Unassigned
+744	Alaska	US	02/04/2021			240	0	0	Unassigned
+744	Alaska	US	02/05/2021			240	0	0	Unassigned
+744	Alaska	US	02/06/2021			240	0	0	Unassigned
+744	Alaska	US	02/07/2021			240	0	0	Unassigned
+744	Alaska	US	02/08/2021			249	0	0	Unassigned
+744	Alaska	US	02/09/2021			250	0	0	Unassigned
+744	Alaska	US	02/10/2021			251	0	0	Unassigned
+744	Alaska	US	02/11/2021			251	0	0	Unassigned
+744	Alaska	US	02/12/2021			253	0	0	Unassigned
+744	Alaska	US	02/13/2021			253	0	0	Unassigned
+744	Alaska	US	02/14/2021			253	0	0	Unassigned
+744	Alaska	US	02/15/2021			253	0	0	Unassigned
+744	Alaska	US	02/16/2021			255	0	0	Unassigned
+744	Alaska	US	02/17/2021			255	0	0	Unassigned
+744	Alaska	US	02/18/2021			253	0	0	Unassigned
+745	Alaska	US	02/19/2021			253	0	0	Unassigned
+745	Alaska	US	02/20/2021			253	0	0	Unassigned
+745	Alaska	US	02/21/2021			253	0	0	Unassigned
+745	Alaska	US	02/22/2021			254	0	0	Unassigned
+745	Alaska	US	02/23/2021			255	0	0	Unassigned
+745	Alaska	US	02/24/2021			256	0	0	Unassigned
+745	Alaska	US	02/25/2021			258	0	0	Unassigned
+745	Alaska	US	02/26/2021			259	0	0	Unassigned
+745	Alaska	US	02/27/2021			259	0	0	Unassigned
+745	Alaska	US	02/28/2021			259	0	0	Unassigned
+745	Alaska	US	03/01/2021			256	0	0	Unassigned
+745	Alaska	US	03/02/2021			265	0	0	Unassigned
+745	Alaska	US	03/03/2021			265	0	0	Unassigned
+745	Alaska	US	03/04/2021			256	0	0	Unassigned
+745	Alaska	US	03/05/2021			257	0	0	Unassigned
+745	Alaska	US	03/06/2021			257	0	0	Unassigned
+745	Alaska	US	03/07/2021			257	0		Unassigned
+745	Alaska	US	03/08/2021			257	0		Unassigned
+745	Alaska	US	03/09/2021			258	0		Unassigned
+745	Alaska	US	03/10/2021			258	0		Unassigned
+745	Alaska	US	03/11/2021			258	0		Unassigned
+745	Alaska	US	03/12/2021			258	0		Unassigned
+745	Alaska	US	03/13/2021			258	0		Unassigned
+745	Alaska	US	03/14/2021			258	0		Unassigned
+745	Alaska	US	03/15/2021			259	0		Unassigned
+745	Alaska	US	03/16/2021			259	0		Unassigned
+745	Alaska	US	03/17/2021			261	0		Unassigned
+745	Alaska	US	03/18/2021			261	0		Unassigned
+745	Alaska	US	03/19/2021			262	0		Unassigned
+745	Alaska	US	03/20/2021			262	0		Unassigned
+745	Alaska	US	03/21/2021			262	0		Unassigned
+745	Alaska	US	03/22/2021			262	0		Unassigned
+745	Alaska	US	03/23/2021			263	0		Unassigned
+745	Alaska	US	03/24/2021			264	0		Unassigned
+745	Alaska	US	03/25/2021			266	0		Unassigned
+745	Alaska	US	03/26/2021			266	0		Unassigned
+745	Alaska	US	03/27/2021			266	0		Unassigned
+745	Alaska	US	03/28/2021			266	0		Unassigned
+745	Alaska	US	03/29/2021			266	0		Unassigned
+745	Alaska	US	03/30/2021			276	0		Unassigned
+745	Alaska	US	03/31/2021			276	0		Unassigned
+745	Alaska	US	04/01/2021			275	0		Unassigned
+747	Alaska	US	04/02/2021			277	0		Unassigned
+747	Alaska	US	04/03/2021			277	0		Unassigned
+747	Alaska	US	04/04/2021			277	0		Unassigned
+747	Alaska	US	04/05/2021			284	0		Unassigned
+747	Alaska	US	04/06/2021			284	0		Unassigned
+747	Alaska	US	04/07/2021			286	0		Unassigned
+747	Alaska	US	04/08/2021			288	0		Unassigned
+747	Alaska	US	04/09/2021			294	0		Unassigned
+747	Alaska	US	04/10/2021			294	0		Unassigned
+747	Alaska	US	04/11/2021			294	0		Unassigned
+747	Alaska	US	04/12/2021			302	0		Unassigned
+747	Alaska	US	04/13/2021			302	0		Unassigned
+747	Alaska	US	04/14/2021			302	0		Unassigned
+747	Alaska	US	04/15/2021			303	0		Unassigned
+747	Alaska	US	04/16/2021			306	0		Unassigned
+747	Alaska	US	04/17/2021			306	0		Unassigned
+747	Alaska	US	04/18/2021			306	0		Unassigned
+747	Alaska	US	04/19/2021			308	0		Unassigned
+747	Alaska	US	04/20/2021			309	0		Unassigned
+747	Alaska	US	04/21/2021			310	0		Unassigned
+747	Alaska	US	04/22/2021			310	0		Unassigned
+747	Alaska	US	04/23/2021			310	0		Unassigned
+747	Alaska	US	04/24/2021			310	0		Unassigned
+747	Alaska	US	04/25/2021			310	0		Unassigned
+747	Alaska	US	04/26/2021			314	0		Unassigned
+747	Alaska	US	04/27/2021			312	0		Unassigned
+747	Alaska	US	04/28/2021			290	0		Unassigned
+747	Alaska	US	04/29/2021			288	0		Unassigned
+747	Alaska	US	04/30/2021			288	0		Unassigned
+747	Alaska	US	05/01/2021			288	0		Unassigned
+747	Alaska	US	05/02/2021			288	0		Unassigned
+747	Alaska	US	05/03/2021			288	0		Unassigned
+747	Alaska	US	05/04/2021			289	0		Unassigned
+747	Alaska	US	05/05/2021			288	0		Unassigned
+747	Alaska	US	05/06/2021			288	0		Unassigned
+747	Alaska	US	05/07/2021			288	0		Unassigned
+747	Alaska	US	05/08/2021			288	0		Unassigned
+747	Alaska	US	05/09/2021			288	0		Unassigned
+747	Alaska	US	05/10/2021			291	0		Unassigned
+747	Alaska	US	05/11/2021			291	0		Unassigned
+747	Alaska	US	05/12/2021			293	0		Unassigned
+747	Alaska	US	05/13/2021			294	0		Unassigned
+747	Alaska	US	05/14/2021			296	0		Unassigned
+747	Alaska	US	05/15/2021			296	0		Unassigned
+747	Alaska	US	05/16/2021			296	0		Unassigned
+747	Alaska	US	05/17/2021			298	0		Unassigned
+747	Alaska	US	05/18/2021			297	0		Unassigned
+747	Alaska	US	05/19/2021			297	0		Unassigned
+747	Alaska	US	05/20/2021			297	0		Unassigned
+747	Alaska	US	05/21/2021			297	0		Unassigned
+747	Alaska	US	05/22/2021			297	0		Unassigned
+747	Alaska	US	05/23/2021			297	0		Unassigned
+747	Alaska	US	05/24/2021			298	0		Unassigned
+747	Alaska	US	05/25/2021			298	0		Unassigned
+747	Alaska	US	05/26/2021			300	0		Unassigned
+748	Alaska	US	05/27/2021			298	0		Unassigned
+748	Alaska	US	05/28/2021			295	0		Unassigned
+748	Alaska	US	05/29/2021			295	0		Unassigned
+748	Alaska	US	05/30/2021			295	0		Unassigned
+748	Alaska	US	05/31/2021			295	0		Unassigned
+748	Alaska	US	06/01/2021			296	0		Unassigned
+748	Alaska	US	06/02/2021			291	0		Unassigned
+748	Alaska	US	06/03/2021			292	0		Unassigned
+748	Alaska	US	06/04/2021			292	0		Unassigned
+748	Alaska	US	06/05/2021			292	0		Unassigned
+748	Alaska	US	06/06/2021			292	0		Unassigned
+748	Alaska	US	06/07/2021			292	0		Unassigned
+748	Alaska	US	06/08/2021			292	0		Unassigned
+748	Alaska	US	06/09/2021			291	0		Unassigned
+748	Alaska	US	06/10/2021			291	0		Unassigned
+748	Alaska	US	06/11/2021			292	0		Unassigned
+748	Alaska	US	06/12/2021			292	0		Unassigned
+748	Alaska	US	06/13/2021			292	0		Unassigned
+748	Alaska	US	06/14/2021			289	0		Unassigned
+748	Alaska	US	06/15/2021			289	0		Unassigned
+748	Alaska	US	06/16/2021			289	0		Unassigned
+750	Alaska	US	06/17/2021			289	0		Unassigned
+750	Alaska	US	06/18/2021			288	0		Unassigned
+750	Alaska	US	06/19/2021			288	0		Unassigned
+750	Alaska	US	06/20/2021			288	0		Unassigned
+750	Alaska	US	06/21/2021			288	0		Unassigned
+750	Alaska	US	06/22/2021			288	0		Unassigned
+750	Alaska	US	06/23/2021			290	0		Unassigned
+751	Alaska	US	06/24/2021			290	0		Unassigned
+751	Alaska	US	06/25/2021			290	0		Unassigned
+751	Alaska	US	06/26/2021			290	0		Unassigned
+751	Alaska	US	06/27/2021			290	0		Unassigned
+751	Alaska	US	06/28/2021			292	0		Unassigned
+751	Alaska	US	06/29/2021			292	0		Unassigned
+751	Alaska	US	06/30/2021			293	0		Unassigned
+751	Alaska	US	07/01/2021			293	0		Unassigned
+751	Alaska	US	07/02/2021			299	0		Unassigned
+751	Alaska	US	07/03/2021			299	0		Unassigned
+751	Alaska	US	07/04/2021			299	0		Unassigned
+751	Alaska	US	07/05/2021			299	0		Unassigned
+751	Alaska	US	07/06/2021			299	0		Unassigned
+751	Alaska	US	07/07/2021			300	0		Unassigned
+751	Alaska	US	07/08/2021			300	0		Unassigned
+751	Alaska	US	07/09/2021			302	0		Unassigned
+751	Alaska	US	07/10/2021			302	0		Unassigned
+751	Alaska	US	07/11/2021			302	0		Unassigned
+751	Alaska	US	07/12/2021			306	0		Unassigned
+751	Alaska	US	07/13/2021			306	0		Unassigned
+751	Alaska	US	07/14/2021			308	0		Unassigned
+751	Alaska	US	07/15/2021			308	0		Unassigned
+751	Alaska	US	07/16/2021			313	0		Unassigned
+751	Alaska	US	07/17/2021			313	0		Unassigned
+751	Alaska	US	07/18/2021			313	0		Unassigned
+751	Alaska	US	07/19/2021			315	0		Unassigned
+751	Alaska	US	07/20/2021			315	0		Unassigned
+751	Alaska	US	07/21/2021			325	0		Unassigned
+751	Alaska	US	07/22/2021			325	0		Unassigned
+751	Alaska	US	07/23/2021			326	0		Unassigned
+751	Alaska	US	07/24/2021			326	0		Unassigned
+751	Alaska	US	07/25/2021			326	0		Unassigned
+751	Alaska	US	07/26/2021			331	0		Unassigned
+751	Alaska	US	07/27/2021			331	0		Unassigned
+751	Alaska	US	07/28/2021			332	0		Unassigned
+751	Alaska	US	07/29/2021			332	0		Unassigned
+751	Alaska	US	07/30/2021			332	0		Unassigned
+751	Alaska	US	07/31/2021			332	0		Unassigned
+751	Alaska	US	08/01/2021			332	0		Unassigned
+751	Alaska	US	08/02/2021			343	0		Unassigned
+751	Alaska	US	08/03/2021			344	0		Unassigned
+751	Alaska	US	08/04/2021			345	0		Unassigned
+751	Alaska	US	08/05/2021			350	0		Unassigned
+751	Alaska	US	08/06/2021			353	0		Unassigned
+751	Alaska	US	08/07/2021			353	0		Unassigned
+751	Alaska	US	08/08/2021			353	0		Unassigned
+751	Alaska	US	08/09/2021			356	0		Unassigned
+751	Alaska	US	08/10/2021			360	0		Unassigned
+751	Alaska	US	08/11/2021			360	0		Unassigned
+751	Alaska	US	08/12/2021			364	0		Unassigned
+751	Alaska	US	08/13/2021			363	0		Unassigned
+751	Alaska	US	08/14/2021			363	0		Unassigned
+751	Alaska	US	08/15/2021			363	0		Unassigned
+751	Alaska	US	08/16/2021			363	0		Unassigned
+751	Alaska	US	08/17/2021			364	0		Unassigned
+751	Alaska	US	08/18/2021			372	0		Unassigned
+751	Alaska	US	08/19/2021			373	0		Unassigned
+751	Alaska	US	08/20/2021			376	0		Unassigned
+751	Alaska	US	08/21/2021			376	0		Unassigned
+751	Alaska	US	08/22/2021			376	0		Unassigned
+751	Alaska	US	08/23/2021			383	0		Unassigned
+751	Alaska	US	08/24/2021			385	0		Unassigned
+751	Alaska	US	08/25/2021			386	0		Unassigned
+751	Alaska	US	08/26/2021			386	0		Unassigned
+751	Alaska	US	08/27/2021			400	0		Unassigned
+751	Alaska	US	08/28/2021			400	0		Unassigned
+751	Alaska	US	08/29/2021			400	0		Unassigned
+751	Alaska	US	08/30/2021			366	0		Unassigned
+751	Alaska	US	08/31/2021			368	0		Unassigned
+751	Alaska	US	09/01/2021			371	0		Unassigned

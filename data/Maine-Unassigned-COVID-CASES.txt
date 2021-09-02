@@ -1,528 +1,529 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1013	Unassigned	8	US	0	0.0	0.0	Maine	0	03/22/2020
-2864	Unassigned	5	US	0	0.0	0.0	Maine	0	03/23/2020
-2865	Unassigned	2	US	0	0.0	0.0	Maine	0	03/25/2020
-2864	Unassigned	1	US	0	0.0	0.0	Maine	0	03/26/2020
-2865	Unassigned	3	US	0	0.0	0.0	Maine	0	03/27/2020
-2865	Unassigned	3	US	0	0.0	0.0	Maine	0	03/28/2020
-2866	Unassigned	5	US	0	0.0	0.0	Maine	0	03/29/2020
-2867	Unassigned	5	US	0	0.0	0.0	Maine	0	03/30/2020
-1941	Unassigned	6	US	0	0.0	0.0	Maine	0	03/31/2020
-1986	Unassigned	6	US	0	0.0	0.0	Maine	0	04/01/2020
-2058	Unassigned	8	US	0			Maine	0	04/02/2020
-2104	Unassigned	11	US	2			Maine	0	04/03/2020
-2157	Unassigned	12	US	3			Maine	0	04/04/2020
-2231	Unassigned	11	US	3			Maine	0	04/05/2020
-2269	Unassigned	11	US	3			Maine	0	04/06/2020
-2316	Unassigned	9	US	0			Maine	0	04/07/2020
-2339	Unassigned	8	US	0			Maine	0	04/08/2020
-2365	Unassigned	4	US	0			Maine	0	04/09/2020
-2389	Unassigned	3	US	0			Maine	0	04/10/2020
-2415	Unassigned	3	US	0			Maine	0	04/11/2020
-2437	Unassigned	3	US	0			Maine	0	04/12/2020
-2451	Unassigned	5	US	0			Maine	0	04/13/2020
-2461	Unassigned	2	US	0			Maine	0	04/14/2020
-2473	Unassigned	2	US	0			Maine	0	04/15/2020
-2487	Unassigned	2	US	0			Maine	0	04/16/2020
-2489	Unassigned	1	US	0			Maine	0	04/17/2020
-2496	Unassigned	1	US	0			Maine	0	04/18/2020
-2513	Unassigned	2	US	0			Maine	0	04/19/2020
-2521	Unassigned	1	US	0			Maine	0	04/20/2020
-2530	Unassigned	1	US	0			Maine	0	04/21/2020
-2537	Unassigned	2	US	0			Maine	0	04/22/2020
-2554	Unassigned	0	US	0			Maine	0	04/23/2020
-2560	Unassigned	0	US	0			Maine	0	04/24/2020
-2565	Unassigned	0	US	0			Maine	0	04/25/2020
-2573	Unassigned	2	US	0			Maine	0	04/26/2020
-2580	Unassigned	2	US	0			Maine	0	04/27/2020
-2589	Unassigned	1	US	0			Maine	0	04/28/2020
-2594	Unassigned	2	US	0			Maine	0	04/29/2020
-2600	Unassigned	1	US	0			Maine	0	04/30/2020
-2611	Unassigned	0	US	0			Maine	0	05/01/2020
-2614	Unassigned	0	US	0			Maine	0	05/02/2020
-2619	Unassigned	0	US	0			Maine	0	05/03/2020
-2622	Unassigned	2	US	0			Maine	0	05/04/2020
-2630	Unassigned	0	US	0			Maine	0	05/05/2020
-2636	Unassigned	0	US	0			Maine	0	05/06/2020
-2643	Unassigned	2	US	0			Maine	0	05/07/2020
-2650	Unassigned	6	US	0			Maine	0	05/08/2020
-2652	Unassigned	1	US	0			Maine	0	05/09/2020
-2654	Unassigned	3	US	0			Maine	0	05/10/2020
-2654	Unassigned	6	US	0			Maine	0	05/11/2020
-2657	Unassigned	6	US	0			Maine	0	05/12/2020
-2658	Unassigned	6	US	0			Maine	0	05/13/2020
-2660	Unassigned	2	US	0			Maine	0	05/14/2020
-2665	Unassigned	2	US	0			Maine	0	05/15/2020
-2669	Unassigned	2	US	0			Maine	0	05/16/2020
-2672	Unassigned	2	US	0			Maine	0	05/17/2020
-2674	Unassigned	1	US	0			Maine	0	05/18/2020
-2678	Unassigned	1	US	0			Maine	0	05/19/2020
-2684	Unassigned	2	US	0			Maine	0	05/20/2020
-2686	Unassigned	3	US	0			Maine	0	05/21/2020
-2693	Unassigned	3	US	0			Maine	0	05/22/2020
-2695	Unassigned	0	US	0			Maine	0	05/23/2020
-2698	Unassigned	1	US	0			Maine	0	05/24/2020
-2699	Unassigned	0	US	0			Maine	0	05/25/2020
-2700	Unassigned	0	US	0			Maine	0	05/26/2020
-2703	Unassigned	3	US	0			Maine	0	05/27/2020
-2706	Unassigned	5	US	0			Maine	0	05/28/2020
-2709	Unassigned	4	US	0			Maine	0	05/29/2020
-2711	Unassigned	4	US	0			Maine	0	05/30/2020
-2712	Unassigned	2	US	0			Maine	0	05/31/2020
-2714	Unassigned	1	US	0			Maine	0	06/01/2020
-2719	Unassigned	1	US	0			Maine	0	06/02/2020
-2721	Unassigned	4	US	0			Maine	0	06/03/2020
-2722	Unassigned	4	US	0			Maine	0	06/04/2020
-2726	Unassigned	4	US	0			Maine	0	06/05/2020
-2728	Unassigned	0	US	0			Maine	0	06/06/2020
-2728	Unassigned	2	US	0			Maine	0	06/07/2020
-2728	Unassigned	2	US	0			Maine	0	06/08/2020
-2730	Unassigned	2	US	0			Maine	0	06/09/2020
-2732	Unassigned	2	US	0			Maine	0	06/10/2020
-2734	Unassigned	2	US	0			Maine	0	06/11/2020
-2748	Unassigned	4	US	0			Maine	0	06/12/2020
-2751	Unassigned	2	US	0			Maine	0	06/13/2020
-2751	Unassigned	2	US	0			Maine	0	06/14/2020
-2755	Unassigned	2	US	0			Maine	0	06/15/2020
-2753	Unassigned	3	US	0			Maine	0	06/16/2020
-2755	Unassigned	1	US	0			Maine	0	06/17/2020
-2755	Unassigned	2	US	0			Maine	0	06/18/2020
-2756	Unassigned	1	US	0			Maine	0	06/19/2020
-2760	Unassigned	2	US	0			Maine	0	06/20/2020
-2760	Unassigned	1	US	0			Maine	0	06/21/2020
-2763	Unassigned	2	US	0			Maine	0	06/22/2020
-2768	Unassigned	2	US	0			Maine	0	06/23/2020
-2780	Unassigned	2	US	0			Maine	0	06/24/2020
-2785	Unassigned	2	US	0			Maine	0	06/25/2020
-2786	Unassigned	6	US	0			Maine	0	06/26/2020
-2787	Unassigned	3	US	0			Maine	0	06/27/2020
-2787	Unassigned	5	US	0			Maine	0	06/28/2020
-2789	Unassigned	5	US	0			Maine	0	06/29/2020
-2791	Unassigned	2	US	0			Maine	0	06/30/2020
-2793	Unassigned	2	US	0			Maine	0	07/01/2020
-2796	Unassigned	6	US	0			Maine	0	07/02/2020
-2801	Unassigned	5	US	0			Maine	0	07/03/2020
-2802	Unassigned	3	US	0			Maine	0	07/04/2020
-2803	Unassigned	3	US	0			Maine	0	07/05/2020
-2806	Unassigned	2	US	0			Maine	0	07/06/2020
-2807	Unassigned	5	US	0			Maine	0	07/07/2020
-2810	Unassigned	2	US	0			Maine	0	07/08/2020
-2809	Unassigned	3	US	0			Maine	0	07/09/2020
-2813	Unassigned	3	US	0			Maine	0	07/10/2020
-2814	Unassigned	6	US	0			Maine	0	07/11/2020
-2816	Unassigned	10	US	0			Maine	0	07/12/2020
-2817	Unassigned	3	US	0			Maine	0	07/13/2020
-2823	Unassigned	2	US	0			Maine	0	07/14/2020
-2824	Unassigned	3	US	0			Maine	0	07/15/2020
-2826	Unassigned	4	US	0			Maine	0	07/16/2020
-2826	Unassigned	3	US	0			Maine	0	07/17/2020
-2899	Unassigned	4	US	0			Maine	0	07/18/2020
-2899	Unassigned	26	US	0			Maine	0	07/19/2020
-2823	Unassigned	24	US	0			Maine	0	07/20/2020
-2903	Unassigned	23	US	0			Maine	0	07/21/2020
-2904	Unassigned	3	US	0			Maine	0	07/22/2020
-2907	Unassigned	3	US	0			Maine	0	07/23/2020
-2906	Unassigned	2	US	0			Maine	0	07/24/2020
-2907	Unassigned	1	US	0			Maine	0	07/25/2020
-2908	Unassigned	1	US	0			Maine	0	07/26/2020
-2908	Unassigned	1	US	0			Maine	0	07/27/2020
-2908	Unassigned	1	US	0			Maine	0	07/28/2020
-2912	Unassigned	1	US	0			Maine	0	07/29/2020
-2912	Unassigned	1	US	0			Maine	0	07/30/2020
-2914	Unassigned	2	US	0			Maine	0	07/31/2020
-2914	Unassigned	2	US	0			Maine	0	08/01/2020
-2914	Unassigned	2	US	0			Maine	0	08/02/2020
-2914	Unassigned	2	US	0			Maine	0	08/03/2020
-3934	Unassigned	2	US	0			Maine	0	08/04/2020
-3938	Unassigned	2	US	0			Maine	0	08/05/2020
-3938	Unassigned	2	US	0			Maine	0	08/06/2020
-3938	Unassigned	2	US	0			Maine	0	08/07/2020
-3938	Unassigned	2	US	0			Maine	0	08/08/2020
-3938	Unassigned	2	US	0			Maine	0	08/09/2020
-3938	Unassigned	2	US	0			Maine	0	08/10/2020
-1889	Unassigned	2	US	0			Maine	0	08/11/2020
-1843	Unassigned	1	US	0			Maine	0	08/12/2020
-1844	Unassigned	1	US	0			Maine	0	08/13/2020
-1844	Unassigned	1	US	0			Maine	0	08/14/2020
-1844	Unassigned	2	US	0			Maine	0	08/15/2020
-1844	Unassigned	2	US	0			Maine	0	08/16/2020
-1846	Unassigned	1	US	0			Maine	0	08/17/2020
-1846	Unassigned	1	US	0			Maine	0	08/18/2020
-1846	Unassigned	1	US	0			Maine	0	08/19/2020
-1846	Unassigned	1	US	0			Maine	0	08/20/2020
-1846	Unassigned	1	US	0			Maine	0	08/21/2020
-1847	Unassigned	1	US	0			Maine	0	08/22/2020
-1847	Unassigned	1	US	0			Maine	0	08/23/2020
-1847	Unassigned	1	US	0			Maine	0	08/24/2020
-1847	Unassigned	1	US	0			Maine	0	08/25/2020
-1847	Unassigned	1	US	0			Maine	0	08/26/2020
-1847	Unassigned	1	US	0			Maine	0	08/27/2020
-1847	Unassigned	3	US	0			Maine	0	08/28/2020
-1847	Unassigned	3	US	0			Maine	0	08/29/2020
-1847	Unassigned	3	US	0			Maine	0	08/30/2020
-1847	Unassigned	3	US	0			Maine	0	08/31/2020
-1847	Unassigned	1	US	0			Maine	0	09/01/2020
-1847	Unassigned	1	US	0			Maine	0	09/02/2020
-1847	Unassigned	1	US	0			Maine	0	09/03/2020
-1847	Unassigned	1	US	0			Maine	0	09/04/2020
-1847	Unassigned	1	US	0			Maine	0	09/05/2020
-1847	Unassigned	1	US	0			Maine	0	09/06/2020
-1847	Unassigned	0	US	0			Maine	0	09/07/2020
-1847	Unassigned	0	US	0			Maine	0	09/08/2020
-1847	Unassigned	0	US	0			Maine	0	09/09/2020
-1847	Unassigned	1	US	0			Maine	0	09/10/2020
-1847	Unassigned	1	US	0			Maine	0	09/11/2020
-1847	Unassigned	5	US	0			Maine	0	09/12/2020
-1847	Unassigned	1	US	0			Maine	0	09/13/2020
-1847	Unassigned	1	US	0			Maine	0	09/14/2020
-1847	Unassigned	0	US	0			Maine	0	09/15/2020
-1847	Unassigned	0	US	0			Maine	0	09/16/2020
-1847	Unassigned	0	US	0			Maine	0	09/17/2020
-1847	Unassigned	0	US	0			Maine	0	09/18/2020
-1847	Unassigned	0	US	0			Maine	0	09/19/2020
-1847	Unassigned	0	US	0			Maine	0	09/20/2020
-1848	Unassigned	0	US	0			Maine	0	09/21/2020
-1848	Unassigned	0	US	0			Maine	0	09/22/2020
-1848	Unassigned	0	US	0			Maine	0	09/23/2020
-1848	Unassigned	0	US	0			Maine	0	09/24/2020
-1848	Unassigned	0	US	0			Maine	0	09/25/2020
-1848	Unassigned	0	US	0			Maine	0	09/26/2020
-1848	Unassigned	0	US	0			Maine	0	09/27/2020
-1848	Unassigned	0	US	0			Maine	0	09/28/2020
-1848	Unassigned	0	US	0			Maine	0	09/29/2020
-1848	Unassigned	0	US	0			Maine	0	09/30/2020
-1848	Unassigned	0	US	0			Maine	0	10/01/2020
-1848	Unassigned	0	US	0			Maine	0	10/02/2020
-1848	Unassigned	0	US	0			Maine	0	10/03/2020
-1848	Unassigned	0	US	0			Maine	0	10/04/2020
-1848	Unassigned	0	US	0			Maine	0	10/05/2020
-1848	Unassigned	0	US	0			Maine	0	10/06/2020
-1848	Unassigned	0	US	0			Maine	0	10/07/2020
-1848	Unassigned	0	US	0			Maine	0	10/08/2020
-1848	Unassigned	0	US	0			Maine	0	10/09/2020
-1848	Unassigned	0	US	0			Maine	0	10/10/2020
-1848	Unassigned	0	US	0			Maine	0	10/11/2020
-1849	Unassigned	0	US	0			Maine	0	10/12/2020
-1849	Unassigned	0	US	0			Maine	0	10/13/2020
-1849	Unassigned	0	US	0			Maine	0	10/14/2020
-1849	Unassigned	0	US	0			Maine	0	10/15/2020
-1850	Unassigned	0	US	0			Maine	0	10/16/2020
-1850	Unassigned	0	US	0			Maine	0	10/17/2020
-1850	Unassigned	0	US	0			Maine	0	10/18/2020
-1851	Unassigned	0	US	0			Maine	0	10/19/2020
-1851	Unassigned	0	US	0			Maine	0	10/20/2020
-1851	Unassigned	0	US	0			Maine	0	10/21/2020
-1851	Unassigned	0	US	0			Maine	0	10/22/2020
-1851	Unassigned	0	US	0			Maine	0	10/23/2020
-1851	Unassigned	0	US	0			Maine	0	10/24/2020
-1851	Unassigned	0	US	0			Maine	0	10/25/2020
-1851	Unassigned	0	US	0			Maine	0	10/26/2020
-1851	Unassigned	0	US	0			Maine	0	10/27/2020
-1852	Unassigned	0	US	0.0			Maine	0	10/28/2020
-1852	Unassigned	0	US	0			Maine	0	10/29/2020
-1852	Unassigned	0	US	0			Maine	0	10/30/2020
-1852	Unassigned	0	US	0			Maine	0	10/31/2020
-1852	Unassigned	0	US	0			Maine	0	11/01/2020
-1852	Unassigned	0	US	0			Maine	0	11/02/2020
-1853	Unassigned	0	US	0			Maine	0	11/03/2020
-1853	Unassigned	0	US	0			Maine	0	11/04/2020
-1853	Unassigned	1	US	0			Maine	0	11/05/2020
-1853	Unassigned	9	US	0			Maine	0	11/06/2020
-1853	Unassigned	5	US	0			Maine	0	11/07/2020
-1853	Unassigned	2	US	0			Maine	0	11/08/2020
-1853	Unassigned	2	US	0			Maine	0.0	11/09/2020
-1853	Unassigned	7	US	0			Maine	0.0	11/10/2020
-1853	Unassigned	5	US	0			Maine	0.0	11/11/2020
-1865	Unassigned	1	US	0			Maine	0	11/12/2020
-1865	Unassigned	4	US	0			Maine	0	11/13/2020
-1865	Unassigned	1	US	0			Maine	0	11/14/2020
-1865	Unassigned	3	US	0			Maine	0	11/15/2020
-1865	Unassigned	3	US	0			Maine	0	11/16/2020
-1865	Unassigned	5	US	0			Maine	0	11/17/2020
-1865	Unassigned	6	US	0			Maine	0	11/18/2020
-1865	Unassigned	3	US	0			Maine	0	11/19/2020
-1865	Unassigned	3	US	0			Maine	0	11/20/2020
-1865	Unassigned	1	US	0			Maine	0	11/21/2020
-1865	Unassigned	8	US	0			Maine	0	11/22/2020
-1865	Unassigned	3	US	0			Maine	0	11/23/2020
-1866	Unassigned	8	US	0			Maine	0	11/24/2020
-1866	Unassigned	9	US	0			Maine	0	11/25/2020
-1866	Unassigned	7	US	0			Maine	0	11/26/2020
-1866	Unassigned	7	US	0			Maine	0	11/27/2020
-1866	Unassigned	3	US	0			Maine	0	11/28/2020
-1866	Unassigned	2	US	0			Maine	0	11/29/2020
-1866	Unassigned	5	US	0			Maine	0	11/30/2020
-1866	Unassigned	5	US	0			Maine	0	12/01/2020
-1866	Unassigned	11	US	0			Maine	0	12/02/2020
-1866	Unassigned	1	US	0			Maine	0	12/03/2020
-1866	Unassigned	11	US	0			Maine	0	12/04/2020
-1866	Unassigned	5	US	0			Maine	0	12/05/2020
-1866	Unassigned	2	US	0			Maine	0	12/06/2020
-1866	Unassigned	1	US	0			Maine	0	12/07/2020
-1866	Unassigned	15	US	0			Maine	0	12/08/2020
-1866	Unassigned	18	US	0			Maine	0	12/09/2020
-1866	Unassigned	1	US	0			Maine	0	12/10/2020
-1866	Unassigned	1	US	0			Maine	0	12/11/2020
-1866	Unassigned	2	US	0			Maine	0	12/12/2020
-1866	Unassigned	6	US	0			Maine	0	12/13/2020
-1866	Unassigned	11	US	0			Maine	0	12/14/2020
-1866	Unassigned	2	US	0			Maine	0	12/15/2020
-1866	Unassigned	19	US	0			Maine	0	12/16/2020
-1866	Unassigned	13	US	0			Maine	0	12/17/2020
-1866	Unassigned	14	US	0			Maine	0	12/18/2020
-1866	Unassigned	9	US	0			Maine	0	12/19/2020
-1866	Unassigned	2	US	0			Maine	0	12/20/2020
-1866	Unassigned	15	US	0			Maine	0	12/21/2020
-1866	Unassigned	1	US	0			Maine	0	12/22/2020
-1866	Unassigned	9	US	0			Maine	0	12/23/2020
-1866	Unassigned	2	US	0			Maine	0	12/24/2020
-1866	Unassigned	8	US	0			Maine	0	12/25/2020
-1866	Unassigned	8	US	0			Maine	0	12/26/2020
-1866	Unassigned	13	US	0			Maine	0	12/27/2020
-1866	Unassigned	9	US	0			Maine	0	12/28/2020
-1866	Unassigned	13	US	0			Maine	0	12/29/2020
-1866	Unassigned	9	US	0			Maine	0	12/30/2020
-1866	Unassigned	1	US	0			Maine	0	12/31/2020
-1866	Unassigned	23	US	0			Maine	0	01/01/2021
-1866	Unassigned	1	US	0			Maine	0	01/02/2021
-1867	Unassigned	7	US	0			Maine	0	01/03/2021
-1867	Unassigned	3	US	0			Maine	0	01/04/2021
-1867	Unassigned	19	US	0			Maine	0	01/05/2021
-1867	Unassigned	12	US	0			Maine	0	01/06/2021
-1867	Unassigned	2	US	0			Maine	0	01/07/2021
-1867	Unassigned	16	US	0			Maine	0	01/08/2021
-1867	Unassigned	11	US	0			Maine	0	01/09/2021
-1867	Unassigned	2	US	0			Maine	0	01/10/2021
-1867	Unassigned	13	US	1			Maine	0	01/11/2021
-1867	Unassigned	16	US	0			Maine	0	01/12/2021
-1867	Unassigned	26	US	0			Maine	0	01/13/2021
-1867	Unassigned	13	US	0			Maine	0	01/14/2021
-1868	Unassigned	20	US	0			Maine	0	01/15/2021
-1868	Unassigned	8	US	0			Maine	0	01/16/2021
-1868	Unassigned	3	US	0			Maine	0	01/17/2021
-1868	Unassigned	3	US	0			Maine	0	01/18/2021
-1868	Unassigned	6	US	0			Maine	0	01/19/2021
-1868	Unassigned	14	US	0			Maine	0	01/20/2021
-1869	Unassigned	1	US	0			Maine	0	01/21/2021
-1869	Unassigned	19	US	0			Maine	0	01/22/2021
-1869	Unassigned	1	US	0			Maine	0	01/23/2021
-1869	Unassigned	1	US	0			Maine	0	01/24/2021
-1869	Unassigned	2	US	0			Maine	0	01/25/2021
-1869	Unassigned	2	US	0			Maine	0	01/26/2021
-1869	Unassigned	9	US	0			Maine	0	01/27/2021
-1869	Unassigned	1	US	0			Maine	0	01/28/2021
-1869	Unassigned	15	US	0			Maine	0	01/29/2021
-1869	Unassigned	7	US	0			Maine	0	01/30/2021
-1869	Unassigned	2	US	0			Maine	0	01/31/2021
-1869	Unassigned	5	US	0			Maine	0	02/01/2021
-1869	Unassigned	1	US	0			Maine	0	02/02/2021
-1869	Unassigned	7	US	0			Maine	0	02/03/2021
-1869	Unassigned	3	US	0			Maine	0	02/04/2021
-1869	Unassigned	1	US	0			Maine	0	02/05/2021
-1869	Unassigned	1	US	0			Maine	0	02/06/2021
-1869	Unassigned	1	US	0			Maine	0	02/07/2021
-1869	Unassigned	6	US	0			Maine	0	02/08/2021
-1869	Unassigned	6	US	0			Maine	0	02/09/2021
-1869	Unassigned	6	US	0			Maine	0	02/10/2021
-1869	Unassigned	6	US	0			Maine	0	02/11/2021
-1869	Unassigned	6	US	0			Maine	0	02/12/2021
-1869	Unassigned	6	US	0			Maine	0	02/13/2021
-1869	Unassigned	1	US	0			Maine	0	02/14/2021
-1869	Unassigned	5	US	0			Maine	0	02/15/2021
-1869	Unassigned	5	US	0			Maine	0	02/16/2021
-1869	Unassigned	5	US	0			Maine	0	02/17/2021
-1869	Unassigned	5	US	0			Maine	0	02/18/2021
-1870	Unassigned	5	US	0			Maine	0	02/19/2021
-1870	Unassigned	2	US	0			Maine	0	02/20/2021
-1870	Unassigned	3	US	0			Maine	0	02/21/2021
-1870	Unassigned	3	US	0			Maine	0	02/22/2021
-1870	Unassigned	5	US	0			Maine	0	02/23/2021
-1870	Unassigned	1	US	0			Maine	0	02/24/2021
-1870	Unassigned	1	US	0			Maine	0	02/25/2021
-1870	Unassigned	1	US	0			Maine	0	02/26/2021
-1870	Unassigned	1	US	0			Maine	0	02/27/2021
-1870	Unassigned	1	US	0			Maine	0	02/28/2021
-1870	Unassigned	1	US	0			Maine	0	03/01/2021
-1870	Unassigned	1	US	0			Maine	0	03/02/2021
-1870	Unassigned	4	US	0			Maine	0	03/03/2021
-1870	Unassigned	4	US	0			Maine	0	03/04/2021
-1870	Unassigned	4	US	0			Maine	0	03/05/2021
-1870	Unassigned	4	US	0			Maine	0	03/06/2021
-1870	Unassigned	7	US	0			Maine		03/07/2021
-1870	Unassigned	7	US	0			Maine		03/08/2021
-1870	Unassigned	7	US	0			Maine		03/09/2021
-1870	Unassigned	7	US	0			Maine		03/10/2021
-1870	Unassigned	7	US	0			Maine		03/11/2021
-1870	Unassigned	7	US	0			Maine		03/12/2021
-1870	Unassigned	7	US	0			Maine		03/13/2021
-1870	Unassigned	7	US	0			Maine		03/14/2021
-1870	Unassigned	7	US	0			Maine		03/15/2021
-1870	Unassigned	7	US	0			Maine		03/16/2021
-1870	Unassigned	4	US	0			Maine		03/17/2021
-1870	Unassigned	1	US	0			Maine		03/18/2021
-1870	Unassigned	1	US	0			Maine		03/19/2021
-1870	Unassigned	1	US	0			Maine		03/20/2021
-1870	Unassigned	11	US	0			Maine		03/21/2021
-1870	Unassigned	1	US	0			Maine		03/22/2021
-1870	Unassigned	1	US	0			Maine		03/23/2021
-1870	Unassigned	1	US	0			Maine		03/24/2021
-1870	Unassigned	1	US	0			Maine		03/25/2021
-1870	Unassigned	1	US	0			Maine		03/26/2021
-1870	Unassigned	2	US	0			Maine		03/27/2021
-1870	Unassigned	11	US	0			Maine		03/28/2021
-1870	Unassigned	4	US	0			Maine		03/29/2021
-1870	Unassigned	2	US	0			Maine		03/30/2021
-1870	Unassigned	1	US	0			Maine		03/31/2021
-1870	Unassigned	1	US	0			Maine		04/01/2021
-1872	Unassigned	2	US	0			Maine		04/02/2021
-1872	Unassigned	2	US	0			Maine		04/03/2021
-1872	Unassigned	2	US	0			Maine		04/04/2021
-1872	Unassigned	1	US	0			Maine		04/05/2021
-1872	Unassigned	1	US	0			Maine		04/06/2021
-1872	Unassigned	4	US	0			Maine		04/07/2021
-1872	Unassigned	1	US	0			Maine		04/08/2021
-1872	Unassigned	1	US	0			Maine		04/09/2021
-1872	Unassigned	1	US	0			Maine		04/10/2021
-1872	Unassigned	4	US	0			Maine		04/11/2021
-1872	Unassigned	2	US	0			Maine		04/12/2021
-1872	Unassigned	2	US	0			Maine		04/13/2021
-1872	Unassigned	1	US	0			Maine		04/14/2021
-1872	Unassigned	1	US	0			Maine		04/15/2021
-1872	Unassigned	2	US	0			Maine		04/16/2021
-1872	Unassigned	4	US	0			Maine		04/17/2021
-1872	Unassigned	4	US	0			Maine		04/18/2021
-1872	Unassigned	2	US	0			Maine		04/19/2021
-1872	Unassigned	1	US	0			Maine		04/20/2021
-1872	Unassigned	1	US	0			Maine		04/21/2021
-1872	Unassigned	2	US	0			Maine		04/22/2021
-1872	Unassigned	1	US	0			Maine		04/23/2021
-1872	Unassigned	2	US	0			Maine		04/24/2021
-1872	Unassigned	3	US	0			Maine		04/25/2021
-1872	Unassigned	3	US	0			Maine		04/26/2021
-1872	Unassigned	2	US	0			Maine		04/27/2021
-1872	Unassigned	6	US	0			Maine		04/28/2021
-1872	Unassigned	5	US	0			Maine		04/29/2021
-1872	Unassigned	1	US	0			Maine		04/30/2021
-1872	Unassigned	2	US	0			Maine		05/01/2021
-1872	Unassigned	14	US	0			Maine		05/02/2021
-1872	Unassigned	1	US	0			Maine		05/03/2021
-1872	Unassigned	1	US	0			Maine		05/04/2021
-1872	Unassigned	1	US	0			Maine		05/05/2021
-1872	Unassigned	1	US	0			Maine		05/06/2021
-1872	Unassigned	1	US	0			Maine		05/07/2021
-1872	Unassigned	1	US	0			Maine		05/08/2021
-1872	Unassigned	11	US	0			Maine		05/09/2021
-1872	Unassigned	11	US	0			Maine		05/10/2021
-1872	Unassigned	11	US	0			Maine		05/11/2021
-1872	Unassigned	1	US	0			Maine		05/12/2021
-1872	Unassigned	1	US	0			Maine		05/13/2021
-1872	Unassigned	1	US	0			Maine		05/14/2021
-1872	Unassigned	1	US	0			Maine		05/15/2021
-1872	Unassigned	1	US	0			Maine		05/16/2021
-1872	Unassigned	1	US	0			Maine		05/17/2021
-1872	Unassigned	1	US	0			Maine		05/18/2021
-1872	Unassigned	1	US	0			Maine		05/19/2021
-1872	Unassigned	1	US	0			Maine		05/20/2021
-1872	Unassigned	1	US	0			Maine		05/21/2021
-1872	Unassigned	1	US	0			Maine		05/22/2021
-1872	Unassigned	7	US	0			Maine		05/23/2021
-1872	Unassigned	7	US	0			Maine		05/24/2021
-1872	Unassigned	7	US	0			Maine		05/25/2021
-1872	Unassigned	7	US	0			Maine		05/26/2021
-1873	Unassigned	7	US	0			Maine		05/27/2021
-1873	Unassigned	7	US	0			Maine		05/28/2021
-1873	Unassigned	7	US	0			Maine		05/29/2021
-1873	Unassigned	7	US	0			Maine		05/30/2021
-1873	Unassigned	7	US	0			Maine		05/31/2021
-1873	Unassigned	1	US	0			Maine		06/01/2021
-1873	Unassigned	1	US	0			Maine		06/02/2021
-1873	Unassigned	1	US	0			Maine		06/03/2021
-1873	Unassigned	1	US	0			Maine		06/04/2021
-1873	Unassigned	1	US	0			Maine		06/05/2021
-1873	Unassigned	1	US	0			Maine		06/06/2021
-1873	Unassigned	2	US	0			Maine		06/07/2021
-1873	Unassigned	2	US	0			Maine		06/08/2021
-1873	Unassigned	2	US	0			Maine		06/09/2021
-1873	Unassigned	1	US	0			Maine		06/10/2021
-1873	Unassigned	1	US	0			Maine		06/11/2021
-1873	Unassigned	1	US	0			Maine		06/12/2021
-1873	Unassigned	3	US	0			Maine		06/13/2021
-1873	Unassigned	3	US	0			Maine		06/14/2021
-1873	Unassigned	3	US	0			Maine		06/15/2021
-1873	Unassigned	3	US	0			Maine		06/16/2021
-1875	Unassigned	3	US	0			Maine		06/17/2021
-1875	Unassigned	3	US	0			Maine		06/18/2021
-1875	Unassigned	1	US	0			Maine		06/19/2021
-1875	Unassigned	2	US	0			Maine		06/20/2021
-1875	Unassigned	2	US	0			Maine		06/21/2021
-1875	Unassigned	2	US	0			Maine		06/22/2021
-1875	Unassigned	2	US	0			Maine		06/23/2021
-1876	Unassigned	1	US	0			Maine		06/24/2021
-1876	Unassigned	1	US	0			Maine		06/25/2021
-1876	Unassigned	1	US	0			Maine		06/26/2021
-1876	Unassigned	1	US	0			Maine		06/27/2021
-1876	Unassigned	1	US	0			Maine		06/28/2021
-1876	Unassigned	1	US	0			Maine		06/29/2021
-1876	Unassigned	1	US	0			Maine		06/30/2021
-1876	Unassigned	1	US	0			Maine		07/01/2021
-1876	Unassigned	1	US	0			Maine		07/02/2021
-1876	Unassigned	3	US	0			Maine		07/03/2021
-1876	Unassigned	3	US	0			Maine		07/04/2021
-1876	Unassigned	3	US	0			Maine		07/05/2021
-1876	Unassigned	3	US	0			Maine		07/06/2021
-1876	Unassigned	3	US	0			Maine		07/07/2021
-1876	Unassigned	1	US	0			Maine		07/08/2021
-1876	Unassigned	1	US	0			Maine		07/09/2021
-1876	Unassigned	1	US	0			Maine		07/10/2021
-1876	Unassigned	1	US	0			Maine		07/11/2021
-1876	Unassigned	1	US	0			Maine		07/12/2021
-1876	Unassigned	1	US	0			Maine		07/13/2021
-1876	Unassigned	1	US	0			Maine		07/14/2021
-1876	Unassigned	1	US	0			Maine		07/15/2021
-1876	Unassigned	2	US	0			Maine		07/16/2021
-1876	Unassigned	2	US	0			Maine		07/17/2021
-1876	Unassigned	2	US	0			Maine		07/18/2021
-1876	Unassigned	2	US	0			Maine		07/19/2021
-1876	Unassigned	1	US	0			Maine		07/20/2021
-1876	Unassigned	1	US	0			Maine		07/21/2021
-1876	Unassigned	1	US	0			Maine		07/22/2021
-1876	Unassigned	1	US	0			Maine		07/23/2021
-1876	Unassigned	1	US	0			Maine		07/24/2021
-1876	Unassigned	1	US	0			Maine		07/25/2021
-1876	Unassigned	1	US	0			Maine		07/26/2021
-1876	Unassigned	1	US	0			Maine		07/27/2021
-1876	Unassigned	1	US	0			Maine		07/28/2021
-1876	Unassigned	2	US	0			Maine		07/29/2021
-1876	Unassigned	7	US	0			Maine		07/30/2021
-1876	Unassigned	2	US	0			Maine		07/31/2021
-1876	Unassigned	2	US	0			Maine		08/01/2021
-1876	Unassigned	2	US	0			Maine		08/02/2021
-1876	Unassigned	3	US	0			Maine		08/03/2021
-1876	Unassigned	3	US	0			Maine		08/04/2021
-1876	Unassigned	7	US	0			Maine		08/05/2021
-1876	Unassigned	8	US	0			Maine		08/06/2021
-1876	Unassigned	2	US	0			Maine		08/07/2021
-1876	Unassigned	2	US	0			Maine		08/08/2021
-1876	Unassigned	2	US	0			Maine		08/09/2021
-1876	Unassigned	7	US	0			Maine		08/10/2021
-1876	Unassigned	1	US	0			Maine		08/11/2021
-1876	Unassigned	1	US	0			Maine		08/12/2021
-1876	Unassigned	1	US	0			Maine		08/13/2021
-1876	Unassigned	1	US	0			Maine		08/14/2021
-1876	Unassigned	1	US	0			Maine		08/15/2021
-1876	Unassigned	1	US	0			Maine		08/16/2021
-1876	Unassigned	1	US	0			Maine		08/17/2021
-1876	Unassigned	1	US	0			Maine		08/18/2021
-1876	Unassigned	1	US	0			Maine		08/19/2021
-1876	Unassigned	1	US	0			Maine		08/20/2021
-1876	Unassigned	1	US	0			Maine		08/21/2021
-1876	Unassigned	1	US	0			Maine		08/22/2021
-1876	Unassigned	1	US	0			Maine		08/23/2021
-1876	Unassigned	4	US	0			Maine		08/24/2021
-1876	Unassigned	4	US	0			Maine		08/25/2021
-1876	Unassigned	4	US	0			Maine		08/26/2021
-1876	Unassigned	4	US	0			Maine		08/27/2021
-1876	Unassigned	1	US	0			Maine		08/28/2021
-1876	Unassigned	1	US	0			Maine		08/29/2021
-1876	Unassigned	1	US	0			Maine		08/30/2021
-1876	Unassigned	1	US	0			Maine		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1013	Maine	US	03/22/2020	0.0	0.0	8	0	0	Unassigned
+2864	Maine	US	03/23/2020	0.0	0.0	5	0	0	Unassigned
+2865	Maine	US	03/25/2020	0.0	0.0	2	0	0	Unassigned
+2864	Maine	US	03/26/2020	0.0	0.0	1	0	0	Unassigned
+2865	Maine	US	03/27/2020	0.0	0.0	3	0	0	Unassigned
+2865	Maine	US	03/28/2020	0.0	0.0	3	0	0	Unassigned
+2866	Maine	US	03/29/2020	0.0	0.0	5	0	0	Unassigned
+2867	Maine	US	03/30/2020	0.0	0.0	5	0	0	Unassigned
+1941	Maine	US	03/31/2020	0.0	0.0	6	0	0	Unassigned
+1986	Maine	US	04/01/2020	0.0	0.0	6	0	0	Unassigned
+2058	Maine	US	04/02/2020			8	0	0	Unassigned
+2104	Maine	US	04/03/2020			11	2	0	Unassigned
+2157	Maine	US	04/04/2020			12	3	0	Unassigned
+2231	Maine	US	04/05/2020			11	3	0	Unassigned
+2269	Maine	US	04/06/2020			11	3	0	Unassigned
+2316	Maine	US	04/07/2020			9	0	0	Unassigned
+2339	Maine	US	04/08/2020			8	0	0	Unassigned
+2365	Maine	US	04/09/2020			4	0	0	Unassigned
+2389	Maine	US	04/10/2020			3	0	0	Unassigned
+2415	Maine	US	04/11/2020			3	0	0	Unassigned
+2437	Maine	US	04/12/2020			3	0	0	Unassigned
+2451	Maine	US	04/13/2020			5	0	0	Unassigned
+2461	Maine	US	04/14/2020			2	0	0	Unassigned
+2473	Maine	US	04/15/2020			2	0	0	Unassigned
+2487	Maine	US	04/16/2020			2	0	0	Unassigned
+2489	Maine	US	04/17/2020			1	0	0	Unassigned
+2496	Maine	US	04/18/2020			1	0	0	Unassigned
+2513	Maine	US	04/19/2020			2	0	0	Unassigned
+2521	Maine	US	04/20/2020			1	0	0	Unassigned
+2530	Maine	US	04/21/2020			1	0	0	Unassigned
+2537	Maine	US	04/22/2020			2	0	0	Unassigned
+2554	Maine	US	04/23/2020			0	0	0	Unassigned
+2560	Maine	US	04/24/2020			0	0	0	Unassigned
+2565	Maine	US	04/25/2020			0	0	0	Unassigned
+2573	Maine	US	04/26/2020			2	0	0	Unassigned
+2580	Maine	US	04/27/2020			2	0	0	Unassigned
+2589	Maine	US	04/28/2020			1	0	0	Unassigned
+2594	Maine	US	04/29/2020			2	0	0	Unassigned
+2600	Maine	US	04/30/2020			1	0	0	Unassigned
+2611	Maine	US	05/01/2020			0	0	0	Unassigned
+2614	Maine	US	05/02/2020			0	0	0	Unassigned
+2619	Maine	US	05/03/2020			0	0	0	Unassigned
+2622	Maine	US	05/04/2020			2	0	0	Unassigned
+2630	Maine	US	05/05/2020			0	0	0	Unassigned
+2636	Maine	US	05/06/2020			0	0	0	Unassigned
+2643	Maine	US	05/07/2020			2	0	0	Unassigned
+2650	Maine	US	05/08/2020			6	0	0	Unassigned
+2652	Maine	US	05/09/2020			1	0	0	Unassigned
+2654	Maine	US	05/10/2020			3	0	0	Unassigned
+2654	Maine	US	05/11/2020			6	0	0	Unassigned
+2657	Maine	US	05/12/2020			6	0	0	Unassigned
+2658	Maine	US	05/13/2020			6	0	0	Unassigned
+2660	Maine	US	05/14/2020			2	0	0	Unassigned
+2665	Maine	US	05/15/2020			2	0	0	Unassigned
+2669	Maine	US	05/16/2020			2	0	0	Unassigned
+2672	Maine	US	05/17/2020			2	0	0	Unassigned
+2674	Maine	US	05/18/2020			1	0	0	Unassigned
+2678	Maine	US	05/19/2020			1	0	0	Unassigned
+2684	Maine	US	05/20/2020			2	0	0	Unassigned
+2686	Maine	US	05/21/2020			3	0	0	Unassigned
+2693	Maine	US	05/22/2020			3	0	0	Unassigned
+2695	Maine	US	05/23/2020			0	0	0	Unassigned
+2698	Maine	US	05/24/2020			1	0	0	Unassigned
+2699	Maine	US	05/25/2020			0	0	0	Unassigned
+2700	Maine	US	05/26/2020			0	0	0	Unassigned
+2703	Maine	US	05/27/2020			3	0	0	Unassigned
+2706	Maine	US	05/28/2020			5	0	0	Unassigned
+2709	Maine	US	05/29/2020			4	0	0	Unassigned
+2711	Maine	US	05/30/2020			4	0	0	Unassigned
+2712	Maine	US	05/31/2020			2	0	0	Unassigned
+2714	Maine	US	06/01/2020			1	0	0	Unassigned
+2719	Maine	US	06/02/2020			1	0	0	Unassigned
+2721	Maine	US	06/03/2020			4	0	0	Unassigned
+2722	Maine	US	06/04/2020			4	0	0	Unassigned
+2726	Maine	US	06/05/2020			4	0	0	Unassigned
+2728	Maine	US	06/06/2020			0	0	0	Unassigned
+2728	Maine	US	06/07/2020			2	0	0	Unassigned
+2728	Maine	US	06/08/2020			2	0	0	Unassigned
+2730	Maine	US	06/09/2020			2	0	0	Unassigned
+2732	Maine	US	06/10/2020			2	0	0	Unassigned
+2734	Maine	US	06/11/2020			2	0	0	Unassigned
+2748	Maine	US	06/12/2020			4	0	0	Unassigned
+2751	Maine	US	06/13/2020			2	0	0	Unassigned
+2751	Maine	US	06/14/2020			2	0	0	Unassigned
+2755	Maine	US	06/15/2020			2	0	0	Unassigned
+2753	Maine	US	06/16/2020			3	0	0	Unassigned
+2755	Maine	US	06/17/2020			1	0	0	Unassigned
+2755	Maine	US	06/18/2020			2	0	0	Unassigned
+2756	Maine	US	06/19/2020			1	0	0	Unassigned
+2760	Maine	US	06/20/2020			2	0	0	Unassigned
+2760	Maine	US	06/21/2020			1	0	0	Unassigned
+2763	Maine	US	06/22/2020			2	0	0	Unassigned
+2768	Maine	US	06/23/2020			2	0	0	Unassigned
+2780	Maine	US	06/24/2020			2	0	0	Unassigned
+2785	Maine	US	06/25/2020			2	0	0	Unassigned
+2786	Maine	US	06/26/2020			6	0	0	Unassigned
+2787	Maine	US	06/27/2020			3	0	0	Unassigned
+2787	Maine	US	06/28/2020			5	0	0	Unassigned
+2789	Maine	US	06/29/2020			5	0	0	Unassigned
+2791	Maine	US	06/30/2020			2	0	0	Unassigned
+2793	Maine	US	07/01/2020			2	0	0	Unassigned
+2796	Maine	US	07/02/2020			6	0	0	Unassigned
+2801	Maine	US	07/03/2020			5	0	0	Unassigned
+2802	Maine	US	07/04/2020			3	0	0	Unassigned
+2803	Maine	US	07/05/2020			3	0	0	Unassigned
+2806	Maine	US	07/06/2020			2	0	0	Unassigned
+2807	Maine	US	07/07/2020			5	0	0	Unassigned
+2810	Maine	US	07/08/2020			2	0	0	Unassigned
+2809	Maine	US	07/09/2020			3	0	0	Unassigned
+2813	Maine	US	07/10/2020			3	0	0	Unassigned
+2814	Maine	US	07/11/2020			6	0	0	Unassigned
+2816	Maine	US	07/12/2020			10	0	0	Unassigned
+2817	Maine	US	07/13/2020			3	0	0	Unassigned
+2823	Maine	US	07/14/2020			2	0	0	Unassigned
+2824	Maine	US	07/15/2020			3	0	0	Unassigned
+2826	Maine	US	07/16/2020			4	0	0	Unassigned
+2826	Maine	US	07/17/2020			3	0	0	Unassigned
+2899	Maine	US	07/18/2020			4	0	0	Unassigned
+2899	Maine	US	07/19/2020			26	0	0	Unassigned
+2823	Maine	US	07/20/2020			24	0	0	Unassigned
+2903	Maine	US	07/21/2020			23	0	0	Unassigned
+2904	Maine	US	07/22/2020			3	0	0	Unassigned
+2907	Maine	US	07/23/2020			3	0	0	Unassigned
+2906	Maine	US	07/24/2020			2	0	0	Unassigned
+2907	Maine	US	07/25/2020			1	0	0	Unassigned
+2908	Maine	US	07/26/2020			1	0	0	Unassigned
+2908	Maine	US	07/27/2020			1	0	0	Unassigned
+2908	Maine	US	07/28/2020			1	0	0	Unassigned
+2912	Maine	US	07/29/2020			1	0	0	Unassigned
+2912	Maine	US	07/30/2020			1	0	0	Unassigned
+2914	Maine	US	07/31/2020			2	0	0	Unassigned
+2914	Maine	US	08/01/2020			2	0	0	Unassigned
+2914	Maine	US	08/02/2020			2	0	0	Unassigned
+2914	Maine	US	08/03/2020			2	0	0	Unassigned
+3934	Maine	US	08/04/2020			2	0	0	Unassigned
+3938	Maine	US	08/05/2020			2	0	0	Unassigned
+3938	Maine	US	08/06/2020			2	0	0	Unassigned
+3938	Maine	US	08/07/2020			2	0	0	Unassigned
+3938	Maine	US	08/08/2020			2	0	0	Unassigned
+3938	Maine	US	08/09/2020			2	0	0	Unassigned
+3938	Maine	US	08/10/2020			2	0	0	Unassigned
+1889	Maine	US	08/11/2020			2	0	0	Unassigned
+1843	Maine	US	08/12/2020			1	0	0	Unassigned
+1844	Maine	US	08/13/2020			1	0	0	Unassigned
+1844	Maine	US	08/14/2020			1	0	0	Unassigned
+1844	Maine	US	08/15/2020			2	0	0	Unassigned
+1844	Maine	US	08/16/2020			2	0	0	Unassigned
+1846	Maine	US	08/17/2020			1	0	0	Unassigned
+1846	Maine	US	08/18/2020			1	0	0	Unassigned
+1846	Maine	US	08/19/2020			1	0	0	Unassigned
+1846	Maine	US	08/20/2020			1	0	0	Unassigned
+1846	Maine	US	08/21/2020			1	0	0	Unassigned
+1847	Maine	US	08/22/2020			1	0	0	Unassigned
+1847	Maine	US	08/23/2020			1	0	0	Unassigned
+1847	Maine	US	08/24/2020			1	0	0	Unassigned
+1847	Maine	US	08/25/2020			1	0	0	Unassigned
+1847	Maine	US	08/26/2020			1	0	0	Unassigned
+1847	Maine	US	08/27/2020			1	0	0	Unassigned
+1847	Maine	US	08/28/2020			3	0	0	Unassigned
+1847	Maine	US	08/29/2020			3	0	0	Unassigned
+1847	Maine	US	08/30/2020			3	0	0	Unassigned
+1847	Maine	US	08/31/2020			3	0	0	Unassigned
+1847	Maine	US	09/01/2020			1	0	0	Unassigned
+1847	Maine	US	09/02/2020			1	0	0	Unassigned
+1847	Maine	US	09/03/2020			1	0	0	Unassigned
+1847	Maine	US	09/04/2020			1	0	0	Unassigned
+1847	Maine	US	09/05/2020			1	0	0	Unassigned
+1847	Maine	US	09/06/2020			1	0	0	Unassigned
+1847	Maine	US	09/07/2020			0	0	0	Unassigned
+1847	Maine	US	09/08/2020			0	0	0	Unassigned
+1847	Maine	US	09/09/2020			0	0	0	Unassigned
+1847	Maine	US	09/10/2020			1	0	0	Unassigned
+1847	Maine	US	09/11/2020			1	0	0	Unassigned
+1847	Maine	US	09/12/2020			5	0	0	Unassigned
+1847	Maine	US	09/13/2020			1	0	0	Unassigned
+1847	Maine	US	09/14/2020			1	0	0	Unassigned
+1847	Maine	US	09/15/2020			0	0	0	Unassigned
+1847	Maine	US	09/16/2020			0	0	0	Unassigned
+1847	Maine	US	09/17/2020			0	0	0	Unassigned
+1847	Maine	US	09/18/2020			0	0	0	Unassigned
+1847	Maine	US	09/19/2020			0	0	0	Unassigned
+1847	Maine	US	09/20/2020			0	0	0	Unassigned
+1848	Maine	US	09/21/2020			0	0	0	Unassigned
+1848	Maine	US	09/22/2020			0	0	0	Unassigned
+1848	Maine	US	09/23/2020			0	0	0	Unassigned
+1848	Maine	US	09/24/2020			0	0	0	Unassigned
+1848	Maine	US	09/25/2020			0	0	0	Unassigned
+1848	Maine	US	09/26/2020			0	0	0	Unassigned
+1848	Maine	US	09/27/2020			0	0	0	Unassigned
+1848	Maine	US	09/28/2020			0	0	0	Unassigned
+1848	Maine	US	09/29/2020			0	0	0	Unassigned
+1848	Maine	US	09/30/2020			0	0	0	Unassigned
+1848	Maine	US	10/01/2020			0	0	0	Unassigned
+1848	Maine	US	10/02/2020			0	0	0	Unassigned
+1848	Maine	US	10/03/2020			0	0	0	Unassigned
+1848	Maine	US	10/04/2020			0	0	0	Unassigned
+1848	Maine	US	10/05/2020			0	0	0	Unassigned
+1848	Maine	US	10/06/2020			0	0	0	Unassigned
+1848	Maine	US	10/07/2020			0	0	0	Unassigned
+1848	Maine	US	10/08/2020			0	0	0	Unassigned
+1848	Maine	US	10/09/2020			0	0	0	Unassigned
+1848	Maine	US	10/10/2020			0	0	0	Unassigned
+1848	Maine	US	10/11/2020			0	0	0	Unassigned
+1849	Maine	US	10/12/2020			0	0	0	Unassigned
+1849	Maine	US	10/13/2020			0	0	0	Unassigned
+1849	Maine	US	10/14/2020			0	0	0	Unassigned
+1849	Maine	US	10/15/2020			0	0	0	Unassigned
+1850	Maine	US	10/16/2020			0	0	0	Unassigned
+1850	Maine	US	10/17/2020			0	0	0	Unassigned
+1850	Maine	US	10/18/2020			0	0	0	Unassigned
+1851	Maine	US	10/19/2020			0	0	0	Unassigned
+1851	Maine	US	10/20/2020			0	0	0	Unassigned
+1851	Maine	US	10/21/2020			0	0	0	Unassigned
+1851	Maine	US	10/22/2020			0	0	0	Unassigned
+1851	Maine	US	10/23/2020			0	0	0	Unassigned
+1851	Maine	US	10/24/2020			0	0	0	Unassigned
+1851	Maine	US	10/25/2020			0	0	0	Unassigned
+1851	Maine	US	10/26/2020			0	0	0	Unassigned
+1851	Maine	US	10/27/2020			0	0	0	Unassigned
+1852	Maine	US	10/28/2020			0	0.0	0	Unassigned
+1852	Maine	US	10/29/2020			0	0	0	Unassigned
+1852	Maine	US	10/30/2020			0	0	0	Unassigned
+1852	Maine	US	10/31/2020			0	0	0	Unassigned
+1852	Maine	US	11/01/2020			0	0	0	Unassigned
+1852	Maine	US	11/02/2020			0	0	0	Unassigned
+1853	Maine	US	11/03/2020			0	0	0	Unassigned
+1853	Maine	US	11/04/2020			0	0	0	Unassigned
+1853	Maine	US	11/05/2020			1	0	0	Unassigned
+1853	Maine	US	11/06/2020			9	0	0	Unassigned
+1853	Maine	US	11/07/2020			5	0	0	Unassigned
+1853	Maine	US	11/08/2020			2	0	0	Unassigned
+1853	Maine	US	11/09/2020			2	0	0.0	Unassigned
+1853	Maine	US	11/10/2020			7	0	0.0	Unassigned
+1853	Maine	US	11/11/2020			5	0	0.0	Unassigned
+1865	Maine	US	11/12/2020			1	0	0	Unassigned
+1865	Maine	US	11/13/2020			4	0	0	Unassigned
+1865	Maine	US	11/14/2020			1	0	0	Unassigned
+1865	Maine	US	11/15/2020			3	0	0	Unassigned
+1865	Maine	US	11/16/2020			3	0	0	Unassigned
+1865	Maine	US	11/17/2020			5	0	0	Unassigned
+1865	Maine	US	11/18/2020			6	0	0	Unassigned
+1865	Maine	US	11/19/2020			3	0	0	Unassigned
+1865	Maine	US	11/20/2020			3	0	0	Unassigned
+1865	Maine	US	11/21/2020			1	0	0	Unassigned
+1865	Maine	US	11/22/2020			8	0	0	Unassigned
+1865	Maine	US	11/23/2020			3	0	0	Unassigned
+1866	Maine	US	11/24/2020			8	0	0	Unassigned
+1866	Maine	US	11/25/2020			9	0	0	Unassigned
+1866	Maine	US	11/26/2020			7	0	0	Unassigned
+1866	Maine	US	11/27/2020			7	0	0	Unassigned
+1866	Maine	US	11/28/2020			3	0	0	Unassigned
+1866	Maine	US	11/29/2020			2	0	0	Unassigned
+1866	Maine	US	11/30/2020			5	0	0	Unassigned
+1866	Maine	US	12/01/2020			5	0	0	Unassigned
+1866	Maine	US	12/02/2020			11	0	0	Unassigned
+1866	Maine	US	12/03/2020			1	0	0	Unassigned
+1866	Maine	US	12/04/2020			11	0	0	Unassigned
+1866	Maine	US	12/05/2020			5	0	0	Unassigned
+1866	Maine	US	12/06/2020			2	0	0	Unassigned
+1866	Maine	US	12/07/2020			1	0	0	Unassigned
+1866	Maine	US	12/08/2020			15	0	0	Unassigned
+1866	Maine	US	12/09/2020			18	0	0	Unassigned
+1866	Maine	US	12/10/2020			1	0	0	Unassigned
+1866	Maine	US	12/11/2020			1	0	0	Unassigned
+1866	Maine	US	12/12/2020			2	0	0	Unassigned
+1866	Maine	US	12/13/2020			6	0	0	Unassigned
+1866	Maine	US	12/14/2020			11	0	0	Unassigned
+1866	Maine	US	12/15/2020			2	0	0	Unassigned
+1866	Maine	US	12/16/2020			19	0	0	Unassigned
+1866	Maine	US	12/17/2020			13	0	0	Unassigned
+1866	Maine	US	12/18/2020			14	0	0	Unassigned
+1866	Maine	US	12/19/2020			9	0	0	Unassigned
+1866	Maine	US	12/20/2020			2	0	0	Unassigned
+1866	Maine	US	12/21/2020			15	0	0	Unassigned
+1866	Maine	US	12/22/2020			1	0	0	Unassigned
+1866	Maine	US	12/23/2020			9	0	0	Unassigned
+1866	Maine	US	12/24/2020			2	0	0	Unassigned
+1866	Maine	US	12/25/2020			8	0	0	Unassigned
+1866	Maine	US	12/26/2020			8	0	0	Unassigned
+1866	Maine	US	12/27/2020			13	0	0	Unassigned
+1866	Maine	US	12/28/2020			9	0	0	Unassigned
+1866	Maine	US	12/29/2020			13	0	0	Unassigned
+1866	Maine	US	12/30/2020			9	0	0	Unassigned
+1866	Maine	US	12/31/2020			1	0	0	Unassigned
+1866	Maine	US	01/01/2021			23	0	0	Unassigned
+1866	Maine	US	01/02/2021			1	0	0	Unassigned
+1867	Maine	US	01/03/2021			7	0	0	Unassigned
+1867	Maine	US	01/04/2021			3	0	0	Unassigned
+1867	Maine	US	01/05/2021			19	0	0	Unassigned
+1867	Maine	US	01/06/2021			12	0	0	Unassigned
+1867	Maine	US	01/07/2021			2	0	0	Unassigned
+1867	Maine	US	01/08/2021			16	0	0	Unassigned
+1867	Maine	US	01/09/2021			11	0	0	Unassigned
+1867	Maine	US	01/10/2021			2	0	0	Unassigned
+1867	Maine	US	01/11/2021			13	1	0	Unassigned
+1867	Maine	US	01/12/2021			16	0	0	Unassigned
+1867	Maine	US	01/13/2021			26	0	0	Unassigned
+1867	Maine	US	01/14/2021			13	0	0	Unassigned
+1868	Maine	US	01/15/2021			20	0	0	Unassigned
+1868	Maine	US	01/16/2021			8	0	0	Unassigned
+1868	Maine	US	01/17/2021			3	0	0	Unassigned
+1868	Maine	US	01/18/2021			3	0	0	Unassigned
+1868	Maine	US	01/19/2021			6	0	0	Unassigned
+1868	Maine	US	01/20/2021			14	0	0	Unassigned
+1869	Maine	US	01/21/2021			1	0	0	Unassigned
+1869	Maine	US	01/22/2021			19	0	0	Unassigned
+1869	Maine	US	01/23/2021			1	0	0	Unassigned
+1869	Maine	US	01/24/2021			1	0	0	Unassigned
+1869	Maine	US	01/25/2021			2	0	0	Unassigned
+1869	Maine	US	01/26/2021			2	0	0	Unassigned
+1869	Maine	US	01/27/2021			9	0	0	Unassigned
+1869	Maine	US	01/28/2021			1	0	0	Unassigned
+1869	Maine	US	01/29/2021			15	0	0	Unassigned
+1869	Maine	US	01/30/2021			7	0	0	Unassigned
+1869	Maine	US	01/31/2021			2	0	0	Unassigned
+1869	Maine	US	02/01/2021			5	0	0	Unassigned
+1869	Maine	US	02/02/2021			1	0	0	Unassigned
+1869	Maine	US	02/03/2021			7	0	0	Unassigned
+1869	Maine	US	02/04/2021			3	0	0	Unassigned
+1869	Maine	US	02/05/2021			1	0	0	Unassigned
+1869	Maine	US	02/06/2021			1	0	0	Unassigned
+1869	Maine	US	02/07/2021			1	0	0	Unassigned
+1869	Maine	US	02/08/2021			6	0	0	Unassigned
+1869	Maine	US	02/09/2021			6	0	0	Unassigned
+1869	Maine	US	02/10/2021			6	0	0	Unassigned
+1869	Maine	US	02/11/2021			6	0	0	Unassigned
+1869	Maine	US	02/12/2021			6	0	0	Unassigned
+1869	Maine	US	02/13/2021			6	0	0	Unassigned
+1869	Maine	US	02/14/2021			1	0	0	Unassigned
+1869	Maine	US	02/15/2021			5	0	0	Unassigned
+1869	Maine	US	02/16/2021			5	0	0	Unassigned
+1869	Maine	US	02/17/2021			5	0	0	Unassigned
+1869	Maine	US	02/18/2021			5	0	0	Unassigned
+1870	Maine	US	02/19/2021			5	0	0	Unassigned
+1870	Maine	US	02/20/2021			2	0	0	Unassigned
+1870	Maine	US	02/21/2021			3	0	0	Unassigned
+1870	Maine	US	02/22/2021			3	0	0	Unassigned
+1870	Maine	US	02/23/2021			5	0	0	Unassigned
+1870	Maine	US	02/24/2021			1	0	0	Unassigned
+1870	Maine	US	02/25/2021			1	0	0	Unassigned
+1870	Maine	US	02/26/2021			1	0	0	Unassigned
+1870	Maine	US	02/27/2021			1	0	0	Unassigned
+1870	Maine	US	02/28/2021			1	0	0	Unassigned
+1870	Maine	US	03/01/2021			1	0	0	Unassigned
+1870	Maine	US	03/02/2021			1	0	0	Unassigned
+1870	Maine	US	03/03/2021			4	0	0	Unassigned
+1870	Maine	US	03/04/2021			4	0	0	Unassigned
+1870	Maine	US	03/05/2021			4	0	0	Unassigned
+1870	Maine	US	03/06/2021			4	0	0	Unassigned
+1870	Maine	US	03/07/2021			7	0		Unassigned
+1870	Maine	US	03/08/2021			7	0		Unassigned
+1870	Maine	US	03/09/2021			7	0		Unassigned
+1870	Maine	US	03/10/2021			7	0		Unassigned
+1870	Maine	US	03/11/2021			7	0		Unassigned
+1870	Maine	US	03/12/2021			7	0		Unassigned
+1870	Maine	US	03/13/2021			7	0		Unassigned
+1870	Maine	US	03/14/2021			7	0		Unassigned
+1870	Maine	US	03/15/2021			7	0		Unassigned
+1870	Maine	US	03/16/2021			7	0		Unassigned
+1870	Maine	US	03/17/2021			4	0		Unassigned
+1870	Maine	US	03/18/2021			1	0		Unassigned
+1870	Maine	US	03/19/2021			1	0		Unassigned
+1870	Maine	US	03/20/2021			1	0		Unassigned
+1870	Maine	US	03/21/2021			11	0		Unassigned
+1870	Maine	US	03/22/2021			1	0		Unassigned
+1870	Maine	US	03/23/2021			1	0		Unassigned
+1870	Maine	US	03/24/2021			1	0		Unassigned
+1870	Maine	US	03/25/2021			1	0		Unassigned
+1870	Maine	US	03/26/2021			1	0		Unassigned
+1870	Maine	US	03/27/2021			2	0		Unassigned
+1870	Maine	US	03/28/2021			11	0		Unassigned
+1870	Maine	US	03/29/2021			4	0		Unassigned
+1870	Maine	US	03/30/2021			2	0		Unassigned
+1870	Maine	US	03/31/2021			1	0		Unassigned
+1870	Maine	US	04/01/2021			1	0		Unassigned
+1872	Maine	US	04/02/2021			2	0		Unassigned
+1872	Maine	US	04/03/2021			2	0		Unassigned
+1872	Maine	US	04/04/2021			2	0		Unassigned
+1872	Maine	US	04/05/2021			1	0		Unassigned
+1872	Maine	US	04/06/2021			1	0		Unassigned
+1872	Maine	US	04/07/2021			4	0		Unassigned
+1872	Maine	US	04/08/2021			1	0		Unassigned
+1872	Maine	US	04/09/2021			1	0		Unassigned
+1872	Maine	US	04/10/2021			1	0		Unassigned
+1872	Maine	US	04/11/2021			4	0		Unassigned
+1872	Maine	US	04/12/2021			2	0		Unassigned
+1872	Maine	US	04/13/2021			2	0		Unassigned
+1872	Maine	US	04/14/2021			1	0		Unassigned
+1872	Maine	US	04/15/2021			1	0		Unassigned
+1872	Maine	US	04/16/2021			2	0		Unassigned
+1872	Maine	US	04/17/2021			4	0		Unassigned
+1872	Maine	US	04/18/2021			4	0		Unassigned
+1872	Maine	US	04/19/2021			2	0		Unassigned
+1872	Maine	US	04/20/2021			1	0		Unassigned
+1872	Maine	US	04/21/2021			1	0		Unassigned
+1872	Maine	US	04/22/2021			2	0		Unassigned
+1872	Maine	US	04/23/2021			1	0		Unassigned
+1872	Maine	US	04/24/2021			2	0		Unassigned
+1872	Maine	US	04/25/2021			3	0		Unassigned
+1872	Maine	US	04/26/2021			3	0		Unassigned
+1872	Maine	US	04/27/2021			2	0		Unassigned
+1872	Maine	US	04/28/2021			6	0		Unassigned
+1872	Maine	US	04/29/2021			5	0		Unassigned
+1872	Maine	US	04/30/2021			1	0		Unassigned
+1872	Maine	US	05/01/2021			2	0		Unassigned
+1872	Maine	US	05/02/2021			14	0		Unassigned
+1872	Maine	US	05/03/2021			1	0		Unassigned
+1872	Maine	US	05/04/2021			1	0		Unassigned
+1872	Maine	US	05/05/2021			1	0		Unassigned
+1872	Maine	US	05/06/2021			1	0		Unassigned
+1872	Maine	US	05/07/2021			1	0		Unassigned
+1872	Maine	US	05/08/2021			1	0		Unassigned
+1872	Maine	US	05/09/2021			11	0		Unassigned
+1872	Maine	US	05/10/2021			11	0		Unassigned
+1872	Maine	US	05/11/2021			11	0		Unassigned
+1872	Maine	US	05/12/2021			1	0		Unassigned
+1872	Maine	US	05/13/2021			1	0		Unassigned
+1872	Maine	US	05/14/2021			1	0		Unassigned
+1872	Maine	US	05/15/2021			1	0		Unassigned
+1872	Maine	US	05/16/2021			1	0		Unassigned
+1872	Maine	US	05/17/2021			1	0		Unassigned
+1872	Maine	US	05/18/2021			1	0		Unassigned
+1872	Maine	US	05/19/2021			1	0		Unassigned
+1872	Maine	US	05/20/2021			1	0		Unassigned
+1872	Maine	US	05/21/2021			1	0		Unassigned
+1872	Maine	US	05/22/2021			1	0		Unassigned
+1872	Maine	US	05/23/2021			7	0		Unassigned
+1872	Maine	US	05/24/2021			7	0		Unassigned
+1872	Maine	US	05/25/2021			7	0		Unassigned
+1872	Maine	US	05/26/2021			7	0		Unassigned
+1873	Maine	US	05/27/2021			7	0		Unassigned
+1873	Maine	US	05/28/2021			7	0		Unassigned
+1873	Maine	US	05/29/2021			7	0		Unassigned
+1873	Maine	US	05/30/2021			7	0		Unassigned
+1873	Maine	US	05/31/2021			7	0		Unassigned
+1873	Maine	US	06/01/2021			1	0		Unassigned
+1873	Maine	US	06/02/2021			1	0		Unassigned
+1873	Maine	US	06/03/2021			1	0		Unassigned
+1873	Maine	US	06/04/2021			1	0		Unassigned
+1873	Maine	US	06/05/2021			1	0		Unassigned
+1873	Maine	US	06/06/2021			1	0		Unassigned
+1873	Maine	US	06/07/2021			2	0		Unassigned
+1873	Maine	US	06/08/2021			2	0		Unassigned
+1873	Maine	US	06/09/2021			2	0		Unassigned
+1873	Maine	US	06/10/2021			1	0		Unassigned
+1873	Maine	US	06/11/2021			1	0		Unassigned
+1873	Maine	US	06/12/2021			1	0		Unassigned
+1873	Maine	US	06/13/2021			3	0		Unassigned
+1873	Maine	US	06/14/2021			3	0		Unassigned
+1873	Maine	US	06/15/2021			3	0		Unassigned
+1873	Maine	US	06/16/2021			3	0		Unassigned
+1875	Maine	US	06/17/2021			3	0		Unassigned
+1875	Maine	US	06/18/2021			3	0		Unassigned
+1875	Maine	US	06/19/2021			1	0		Unassigned
+1875	Maine	US	06/20/2021			2	0		Unassigned
+1875	Maine	US	06/21/2021			2	0		Unassigned
+1875	Maine	US	06/22/2021			2	0		Unassigned
+1875	Maine	US	06/23/2021			2	0		Unassigned
+1876	Maine	US	06/24/2021			1	0		Unassigned
+1876	Maine	US	06/25/2021			1	0		Unassigned
+1876	Maine	US	06/26/2021			1	0		Unassigned
+1876	Maine	US	06/27/2021			1	0		Unassigned
+1876	Maine	US	06/28/2021			1	0		Unassigned
+1876	Maine	US	06/29/2021			1	0		Unassigned
+1876	Maine	US	06/30/2021			1	0		Unassigned
+1876	Maine	US	07/01/2021			1	0		Unassigned
+1876	Maine	US	07/02/2021			1	0		Unassigned
+1876	Maine	US	07/03/2021			3	0		Unassigned
+1876	Maine	US	07/04/2021			3	0		Unassigned
+1876	Maine	US	07/05/2021			3	0		Unassigned
+1876	Maine	US	07/06/2021			3	0		Unassigned
+1876	Maine	US	07/07/2021			3	0		Unassigned
+1876	Maine	US	07/08/2021			1	0		Unassigned
+1876	Maine	US	07/09/2021			1	0		Unassigned
+1876	Maine	US	07/10/2021			1	0		Unassigned
+1876	Maine	US	07/11/2021			1	0		Unassigned
+1876	Maine	US	07/12/2021			1	0		Unassigned
+1876	Maine	US	07/13/2021			1	0		Unassigned
+1876	Maine	US	07/14/2021			1	0		Unassigned
+1876	Maine	US	07/15/2021			1	0		Unassigned
+1876	Maine	US	07/16/2021			2	0		Unassigned
+1876	Maine	US	07/17/2021			2	0		Unassigned
+1876	Maine	US	07/18/2021			2	0		Unassigned
+1876	Maine	US	07/19/2021			2	0		Unassigned
+1876	Maine	US	07/20/2021			1	0		Unassigned
+1876	Maine	US	07/21/2021			1	0		Unassigned
+1876	Maine	US	07/22/2021			1	0		Unassigned
+1876	Maine	US	07/23/2021			1	0		Unassigned
+1876	Maine	US	07/24/2021			1	0		Unassigned
+1876	Maine	US	07/25/2021			1	0		Unassigned
+1876	Maine	US	07/26/2021			1	0		Unassigned
+1876	Maine	US	07/27/2021			1	0		Unassigned
+1876	Maine	US	07/28/2021			1	0		Unassigned
+1876	Maine	US	07/29/2021			2	0		Unassigned
+1876	Maine	US	07/30/2021			7	0		Unassigned
+1876	Maine	US	07/31/2021			2	0		Unassigned
+1876	Maine	US	08/01/2021			2	0		Unassigned
+1876	Maine	US	08/02/2021			2	0		Unassigned
+1876	Maine	US	08/03/2021			3	0		Unassigned
+1876	Maine	US	08/04/2021			3	0		Unassigned
+1876	Maine	US	08/05/2021			7	0		Unassigned
+1876	Maine	US	08/06/2021			8	0		Unassigned
+1876	Maine	US	08/07/2021			2	0		Unassigned
+1876	Maine	US	08/08/2021			2	0		Unassigned
+1876	Maine	US	08/09/2021			2	0		Unassigned
+1876	Maine	US	08/10/2021			7	0		Unassigned
+1876	Maine	US	08/11/2021			1	0		Unassigned
+1876	Maine	US	08/12/2021			1	0		Unassigned
+1876	Maine	US	08/13/2021			1	0		Unassigned
+1876	Maine	US	08/14/2021			1	0		Unassigned
+1876	Maine	US	08/15/2021			1	0		Unassigned
+1876	Maine	US	08/16/2021			1	0		Unassigned
+1876	Maine	US	08/17/2021			1	0		Unassigned
+1876	Maine	US	08/18/2021			1	0		Unassigned
+1876	Maine	US	08/19/2021			1	0		Unassigned
+1876	Maine	US	08/20/2021			1	0		Unassigned
+1876	Maine	US	08/21/2021			1	0		Unassigned
+1876	Maine	US	08/22/2021			1	0		Unassigned
+1876	Maine	US	08/23/2021			1	0		Unassigned
+1876	Maine	US	08/24/2021			4	0		Unassigned
+1876	Maine	US	08/25/2021			4	0		Unassigned
+1876	Maine	US	08/26/2021			4	0		Unassigned
+1876	Maine	US	08/27/2021			4	0		Unassigned
+1876	Maine	US	08/28/2021			1	0		Unassigned
+1876	Maine	US	08/29/2021			1	0		Unassigned
+1876	Maine	US	08/30/2021			1	0		Unassigned
+1876	Maine	US	08/31/2021			1	0		Unassigned
+1876	Maine	US	09/01/2021			1	0		Unassigned

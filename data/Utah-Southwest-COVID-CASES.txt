@@ -1,10 +1,10 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2347	Southwest	0	US	0			Utah	0	04/23/2020
-2352	Southwest	0	US	0			Utah	0	04/24/2020
-2357	Southwest	0	US	0			Utah	0	04/25/2020
-2365	Southwest	0	US	0			Utah	0	04/26/2020
-2372	Southwest	0	US	0			Utah	0	04/27/2020
-2381	Southwest	0	US	0			Utah	0	04/28/2020
-2385	Southwest	0	US	0			Utah	0	04/29/2020
-2391	Southwest	0	US	0			Utah	0	04/30/2020
-2402	Southwest	0	US	0			Utah	0	05/01/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2347	Utah	US	04/23/2020			0	0	0	Southwest
+2352	Utah	US	04/24/2020			0	0	0	Southwest
+2357	Utah	US	04/25/2020			0	0	0	Southwest
+2365	Utah	US	04/26/2020			0	0	0	Southwest
+2372	Utah	US	04/27/2020			0	0	0	Southwest
+2381	Utah	US	04/28/2020			0	0	0	Southwest
+2385	Utah	US	04/29/2020			0	0	0	Southwest
+2391	Utah	US	04/30/2020			0	0	0	Southwest
+2402	Utah	US	05/01/2020			0	0	0	Southwest

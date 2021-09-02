@@ -1,6 +1,6 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2571	unassigned	0	US	0			Wyoming	0	04/02/2020
-2626	unassigned	0	US	0			Wyoming	0	04/03/2020
-2680	unassigned	0	US	0			Wyoming	0	04/04/2020
-2764	unassigned	0	US	0			Wyoming	0	04/05/2020
-2809	unassigned	0	US	0			Wyoming	0	04/06/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2571	Wyoming	US	04/02/2020			0	0	0	unassigned
+2626	Wyoming	US	04/03/2020			0	0	0	unassigned
+2680	Wyoming	US	04/04/2020			0	0	0	unassigned
+2764	Wyoming	US	04/05/2020			0	0	0	unassigned
+2809	Wyoming	US	04/06/2020			0	0	0	unassigned

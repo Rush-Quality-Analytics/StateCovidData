@@ -1,526 +1,527 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-243	Unassigned	1	US	0	0.0	0.0	Florida	0	03/22/2020
-2858	Unassigned	0	US	1	0.0	0.0	Florida	0	03/23/2020
-2859	Unassigned	0	US	1	0.0	0.0	Florida	0	03/24/2020
-2859	Unassigned	0	US	8	0.0	0.0	Florida	0	03/28/2020
-2860	Unassigned	0	US	2	0.0	0.0	Florida	0	03/29/2020
-2861	Unassigned	1	US	4	0.0	0.0	Florida	0	03/30/2020
-1934	Unassigned	2	US	0	0.0	0.0	Florida	0	03/31/2020
-1979	Unassigned	3	US	2	0.0	0.0	Florida	0	04/01/2020
-2050	Unassigned	9	US	20			Florida	0	04/02/2020
-2097	Unassigned	10	US	7			Florida	0	04/03/2020
-2149	Unassigned	1	US	1			Florida	0	04/04/2020
-2222	Unassigned	4	US	0			Florida	0	04/05/2020
-2259	Unassigned	7	US	1			Florida	0	04/06/2020
-2306	Unassigned	2	US	29			Florida	0	04/07/2020
-2329	Unassigned	3	US	0			Florida	0	04/08/2020
-2355	Unassigned	2	US	0			Florida	0	04/09/2020
-2379	Unassigned	2	US	0			Florida	0	04/10/2020
-2405	Unassigned	2	US	0			Florida	0	04/11/2020
-2427	Unassigned	2	US	0			Florida	0	04/12/2020
-2441	Unassigned	2	US	0			Florida	0	04/13/2020
-2451	Unassigned	3	US	47			Florida	0	04/14/2020
-2463	Unassigned	5	US	0			Florida	0	04/15/2020
-2477	Unassigned	6	US	0			Florida	0	04/16/2020
-2479	Unassigned	4	US	0			Florida	0	04/17/2020
-2486	Unassigned	3	US	0			Florida	0	04/18/2020
-2503	Unassigned	3	US	0			Florida	0	04/19/2020
-2511	Unassigned	3	US	0			Florida	0	04/20/2020
-2520	Unassigned	4	US	0			Florida	0	04/21/2020
-2527	Unassigned	0	US	0			Florida	0	04/22/2020
-2544	Unassigned	0	US	0			Florida	0	04/23/2020
-2550	Unassigned	0	US	0			Florida	0	04/24/2020
-2555	Unassigned	1	US	0			Florida	0	04/25/2020
-2563	Unassigned	1	US	0			Florida	0	04/26/2020
-2570	Unassigned	1	US	0			Florida	0	04/27/2020
-2579	Unassigned	4	US	0			Florida	0	04/28/2020
-2584	Unassigned	7	US	0			Florida	0	04/29/2020
-2590	Unassigned	7	US	0			Florida	0	04/30/2020
-2601	Unassigned	8	US	0			Florida	0	05/01/2020
-2604	Unassigned	9	US	0			Florida	0	05/02/2020
-2609	Unassigned	12	US	0			Florida	0	05/03/2020
-2612	Unassigned	12	US	0			Florida	0	05/04/2020
-2620	Unassigned	17	US	0			Florida	0	05/05/2020
-2626	Unassigned	31	US	0			Florida	0	05/06/2020
-2633	Unassigned	33	US	0			Florida	0	05/07/2020
-2640	Unassigned	33	US	0			Florida	0	05/08/2020
-2642	Unassigned	49	US	0			Florida	0	05/09/2020
-2644	Unassigned	50	US	0			Florida	0	05/10/2020
-2644	Unassigned	50	US	0			Florida	0	05/11/2020
-2647	Unassigned	57	US	0			Florida	0	05/12/2020
-2648	Unassigned	88	US	0			Florida	0	05/13/2020
-2650	Unassigned	76	US	0			Florida	0	05/14/2020
-2655	Unassigned	78	US	0			Florida	0	05/15/2020
-2659	Unassigned	79	US	0			Florida	0	05/16/2020
-2662	Unassigned	79	US	0			Florida	0	05/17/2020
-2664	Unassigned	79	US	0			Florida	0	05/18/2020
-2668	Unassigned	79	US	0			Florida	0	05/19/2020
-2674	Unassigned	80	US	0			Florida	0	05/20/2020
-2676	Unassigned	82	US	0			Florida	0	05/21/2020
-2683	Unassigned	84	US	0			Florida	0	05/22/2020
-2685	Unassigned	84	US	0			Florida	0	05/23/2020
-2688	Unassigned	85	US	0			Florida	0	05/24/2020
-2689	Unassigned	85	US	0			Florida	0	05/25/2020
-2690	Unassigned	85	US	0			Florida	0	05/26/2020
-2693	Unassigned	85	US	0			Florida	0	05/27/2020
-2696	Unassigned	86	US	0			Florida	0	05/28/2020
-2699	Unassigned	83	US	0			Florida	0	05/29/2020
-2701	Unassigned	84	US	0			Florida	0	05/30/2020
-2702	Unassigned	84	US	0			Florida	0	05/31/2020
-2704	Unassigned	84	US	0			Florida	0	06/01/2020
-2709	Unassigned	87	US	0			Florida	0	06/02/2020
-2711	Unassigned	89	US	0			Florida	0	06/03/2020
-2712	Unassigned	90	US	0			Florida	0	06/04/2020
-2716	Unassigned	95	US	0			Florida	0	06/05/2020
-2718	Unassigned	97	US	0			Florida	0	06/06/2020
-2718	Unassigned	97	US	0			Florida	0	06/07/2020
-2718	Unassigned	93	US	0			Florida	0	06/08/2020
-2720	Unassigned	93	US	0			Florida	0	06/09/2020
-2722	Unassigned	96	US	0			Florida	0	06/10/2020
-2724	Unassigned	96	US	0			Florida	0	06/11/2020
-2738	Unassigned	100	US	0			Florida	0	06/12/2020
-2741	Unassigned	102	US	0			Florida	0	06/13/2020
-2741	Unassigned	102	US	0			Florida	0	06/14/2020
-2745	Unassigned	97	US	0			Florida	0	06/15/2020
-2743	Unassigned	97	US	0			Florida	0	06/16/2020
-2745	Unassigned	105	US	0			Florida	0	06/17/2020
-2745	Unassigned	110	US	0			Florida	0	06/18/2020
-2746	Unassigned	113	US	0			Florida	0	06/19/2020
-2750	Unassigned	117	US	0			Florida	0	06/20/2020
-2750	Unassigned	118	US	0			Florida	0	06/21/2020
-2753	Unassigned	119	US	0			Florida	0	06/22/2020
-2758	Unassigned	126	US	0			Florida	0	06/23/2020
-2770	Unassigned	130	US	0			Florida	0	06/24/2020
-2775	Unassigned	130	US	0			Florida	0	06/25/2020
-2776	Unassigned	134	US	0			Florida	0	06/26/2020
-2777	Unassigned	139	US	0			Florida	0	06/27/2020
-2777	Unassigned	143	US	0			Florida	0	06/28/2020
-2779	Unassigned	138	US	0			Florida	0	06/29/2020
-2781	Unassigned	145	US	0			Florida	0	06/30/2020
-2783	Unassigned	167	US	0			Florida	0	07/01/2020
-2786	Unassigned	172	US	0			Florida	0	07/02/2020
-2791	Unassigned	187	US	0			Florida	0	07/03/2020
-2792	Unassigned	201	US	0			Florida	0	07/04/2020
-2793	Unassigned	226	US	0			Florida	0	07/05/2020
-2796	Unassigned	230	US	0			Florida	0	07/06/2020
-2797	Unassigned	231	US	0			Florida	0	07/07/2020
-2800	Unassigned	251	US	0			Florida	0	07/08/2020
-2799	Unassigned	262	US	0			Florida	0	07/09/2020
-2803	Unassigned	271	US	0			Florida	0	07/10/2020
-2804	Unassigned	279	US	0			Florida	0	07/11/2020
-2806	Unassigned	297	US	0			Florida	0	07/12/2020
-2807	Unassigned	318	US	0			Florida	0	07/13/2020
-2813	Unassigned	328	US	0			Florida	0	07/14/2020
-2814	Unassigned	332	US	0			Florida	0	07/15/2020
-2816	Unassigned	372	US	0			Florida	0	07/16/2020
-2816	Unassigned	383	US	0			Florida	0	07/17/2020
-2889	Unassigned	401	US	0			Florida	0	07/18/2020
-2889	Unassigned	388	US	0			Florida	0	07/19/2020
-2813	Unassigned	404	US	0			Florida	0	07/20/2020
-2893	Unassigned	411	US	0			Florida	0	07/21/2020
-2894	Unassigned	420	US	0			Florida	0	07/22/2020
-2897	Unassigned	433	US	0			Florida	0	07/23/2020
-2896	Unassigned	447	US	0			Florida	0	07/24/2020
-2897	Unassigned	462	US	0			Florida	0	07/25/2020
-2898	Unassigned	489	US	0			Florida	0	07/26/2020
-2898	Unassigned	501	US	0			Florida	0	07/27/2020
-2898	Unassigned	517	US	0			Florida	0	07/28/2020
-2902	Unassigned	528	US	0			Florida	0	07/29/2020
-2902	Unassigned	559	US	0			Florida	0	07/30/2020
-2904	Unassigned	570	US	0			Florida	0	07/31/2020
-2904	Unassigned	601	US	0			Florida	0	08/01/2020
-2904	Unassigned	633	US	0			Florida	0	08/02/2020
-2904	Unassigned	631	US	0			Florida	0	08/03/2020
-2905	Unassigned	638	US	0			Florida	0	08/04/2020
-2909	Unassigned	639	US	0			Florida	0	08/05/2020
-2909	Unassigned	646	US	0			Florida	0	08/06/2020
-2909	Unassigned	660	US	0			Florida	0	08/07/2020
-2909	Unassigned	678	US	0			Florida	0	08/08/2020
-2909	Unassigned	695	US	0			Florida	0	08/09/2020
-2909	Unassigned	697	US	0			Florida	0	08/10/2020
-1068	Unassigned	721	US	0			Florida	0	08/11/2020
-1022	Unassigned	703	US	0			Florida	0	08/12/2020
-1022	Unassigned	720	US	0			Florida	0	08/13/2020
-1022	Unassigned	735	US	0			Florida	0	08/14/2020
-1022	Unassigned	758	US	0			Florida	0	08/15/2020
-1022	Unassigned	770	US	0			Florida	0	08/16/2020
-1022	Unassigned	776	US	0			Florida	0	08/17/2020
-1022	Unassigned	780	US	0			Florida	0	08/18/2020
-1022	Unassigned	786	US	0			Florida	0	08/19/2020
-1022	Unassigned	798	US	0			Florida	0	08/20/2020
-1022	Unassigned	812	US	0			Florida	0	08/21/2020
-1023	Unassigned	835	US	0			Florida	0	08/22/2020
-1023	Unassigned	838	US	0			Florida	0	08/23/2020
-1023	Unassigned	851	US	0			Florida	0	08/24/2020
-1023	Unassigned	862	US	0			Florida	0	08/25/2020
-1023	Unassigned	886	US	0			Florida	0	08/26/2020
-1023	Unassigned	911	US	0			Florida	0	08/27/2020
-1023	Unassigned	959	US	0			Florida	0	08/28/2020
-1023	Unassigned	984	US	0			Florida	0	08/29/2020
-1023	Unassigned	998	US	0			Florida	0	08/30/2020
-1023	Unassigned	1000	US	0			Florida	0	08/31/2020
-1023	Unassigned	1027	US	0			Florida	0	09/01/2020
-1023	Unassigned	1057	US	0			Florida	0	09/02/2020
-1023	Unassigned	1083	US	0			Florida	0	09/03/2020
-1023	Unassigned	1089	US	0			Florida	0	09/04/2020
-1023	Unassigned	1095	US	0			Florida	0	09/05/2020
-1023	Unassigned	1103	US	0			Florida	0	09/06/2020
-1023	Unassigned	1105	US	0			Florida	0	09/07/2020
-1023	Unassigned	1112	US	0			Florida	0	09/08/2020
-1023	Unassigned	1123	US	0			Florida	0	09/09/2020
-1023	Unassigned	1124	US	0			Florida	0	09/10/2020
-1023	Unassigned	1027	US	0			Florida	0	09/11/2020
-1023	Unassigned	1033	US	0			Florida	0	09/12/2020
-1023	Unassigned	1035	US	0			Florida	0	09/13/2020
-1023	Unassigned	1038	US	0			Florida	0	09/14/2020
-1023	Unassigned	1556	US	0			Florida	0	09/15/2020
-1023	Unassigned	1566	US	0			Florida	0	09/16/2020
-1023	Unassigned	1569	US	0			Florida	0	09/17/2020
-1023	Unassigned	1575	US	0			Florida	0	09/18/2020
-1023	Unassigned	1592	US	0			Florida	0	09/19/2020
-1023	Unassigned	1598	US	0			Florida	0	09/20/2020
-1024	Unassigned	1600	US	0			Florida	0	09/21/2020
-1024	Unassigned	1613	US	0			Florida	0	09/22/2020
-1024	Unassigned	1623	US	0			Florida	0	09/23/2020
-1024	Unassigned	1645	US	0			Florida	0	09/24/2020
-1024	Unassigned	1654	US	0			Florida	0	09/25/2020
-1024	Unassigned	1669	US	0			Florida	0	09/26/2020
-1024	Unassigned	1687	US	0			Florida	0	09/27/2020
-1024	Unassigned	1690	US	0			Florida	0	09/28/2020
-1024	Unassigned	1712	US	0			Florida	0	09/29/2020
-1024	Unassigned	1730	US	0			Florida	0	09/30/2020
-1024	Unassigned	1742	US	0			Florida	0	10/01/2020
-1024	Unassigned	1754	US	0			Florida	0	10/02/2020
-1024	Unassigned	1766	US	0			Florida	0	10/03/2020
-1024	Unassigned	1785	US	0			Florida	0	10/04/2020
-1024	Unassigned	1792	US	0			Florida	0	10/05/2020
-1024	Unassigned	1817	US	0			Florida	0	10/06/2020
-1024	Unassigned	1821	US	0			Florida	0	10/07/2020
-1024	Unassigned	1830	US	0			Florida	0	10/08/2020
-1024	Unassigned	1844	US	0			Florida	0	10/09/2020
-1024	Unassigned	1844	US	0			Florida	0	10/10/2020
-1024	Unassigned	1882	US	0			Florida	0	10/11/2020
-1025	Unassigned	1888	US	0			Florida	0	10/12/2020
-1025	Unassigned	1895	US	0			Florida	0	10/13/2020
-1025	Unassigned	1906	US	0			Florida	0	10/14/2020
-1025	Unassigned	1927	US	0			Florida	0	10/15/2020
-1026	Unassigned	1948	US	0			Florida	0	10/16/2020
-1026	Unassigned	1961	US	0			Florida	0	10/17/2020
-1026	Unassigned	1972	US	0			Florida	0	10/18/2020
-1027	Unassigned	1984	US	0			Florida	0	10/19/2020
-1027	Unassigned	1993	US	0			Florida	0	10/20/2020
-1027	Unassigned	1912	US	0			Florida	0	10/21/2020
-1027	Unassigned	1861	US	0			Florida	0	10/22/2020
-1027	Unassigned	1853	US	0			Florida	0	10/23/2020
-1027	Unassigned	1855	US	0			Florida	0	10/24/2020
-1027	Unassigned	1857	US	0			Florida	0	10/25/2020
-1027	Unassigned	1847	US	0			Florida	0	10/26/2020
-1027	Unassigned	1856	US	0			Florida	0	10/27/2020
-1028	Unassigned	1835	US	0.0			Florida	0	10/28/2020
-1028	Unassigned	1827	US	0			Florida	0	10/29/2020
-1028	Unassigned	1786	US	0			Florida	0	10/30/2020
-1028	Unassigned	1940	US	0			Florida	0	10/31/2020
-1028	Unassigned	1925	US	0			Florida	0	11/01/2020
-1028	Unassigned	1915	US	0			Florida	0	11/02/2020
-1029	Unassigned	1899	US	0			Florida	0	11/03/2020
-1029	Unassigned	1864	US	0			Florida	0	11/04/2020
-1029	Unassigned	1817	US	0			Florida	0	11/05/2020
-1029	Unassigned	1784	US	0			Florida	0	11/06/2020
-1029	Unassigned	1789	US	0			Florida	0	11/07/2020
-1029	Unassigned	2038	US	0			Florida	0	11/08/2020
-1029	Unassigned	2021	US	0			Florida	0.0	11/09/2020
-1029	Unassigned	2027	US	0			Florida	0.0	11/10/2020
-1029	Unassigned	2062	US	0			Florida	0.0	11/11/2020
-1041	Unassigned	2057	US	0			Florida	0	11/12/2020
-1041	Unassigned	2056	US	0			Florida	0	11/13/2020
-1041	Unassigned	2076	US	0			Florida	0	11/14/2020
-1041	Unassigned	2096	US	0			Florida	0	11/15/2020
-1041	Unassigned	2113	US	0			Florida	0	11/16/2020
-1041	Unassigned	2141	US	0			Florida	0	11/17/2020
-1041	Unassigned	2160	US	0			Florida	0	11/18/2020
-1041	Unassigned	2184	US	0			Florida	0	11/19/2020
-1041	Unassigned	2209	US	0			Florida	0	11/20/2020
-1041	Unassigned	2232	US	0			Florida	0	11/21/2020
-1041	Unassigned	2361	US	0			Florida	0	11/22/2020
-1041	Unassigned	2397	US	0			Florida	0	11/23/2020
-1042	Unassigned	2564	US	0			Florida	0	11/24/2020
-1042	Unassigned	2603	US	0			Florida	0	11/25/2020
-1042	Unassigned	2603	US	0			Florida	0	11/26/2020
-1042	Unassigned	2645	US	0			Florida	0	11/27/2020
-1042	Unassigned	2722	US	0			Florida	0	11/28/2020
-1042	Unassigned	2756	US	0			Florida	0	11/29/2020
-1042	Unassigned	2768	US	0			Florida	0	11/30/2020
-1042	Unassigned	2797	US	0			Florida	0	12/01/2020
-1042	Unassigned	2851	US	0			Florida	0	12/02/2020
-1042	Unassigned	2869	US	0			Florida	0	12/03/2020
-1042	Unassigned	2905	US	0			Florida	0	12/04/2020
-1042	Unassigned	2931	US	0			Florida	0	12/05/2020
-1042	Unassigned	2959	US	0			Florida	0	12/06/2020
-1042	Unassigned	2966	US	0			Florida	0	12/07/2020
-1042	Unassigned	2983	US	0			Florida	0	12/08/2020
-1042	Unassigned	3008	US	0			Florida	0	12/09/2020
-1042	Unassigned	3025	US	0			Florida	0	12/10/2020
-1042	Unassigned	3088	US	0			Florida	0	12/11/2020
-1042	Unassigned	3121	US	0			Florida	0	12/12/2020
-1042	Unassigned	3130	US	0			Florida	0	12/13/2020
-1042	Unassigned	3137	US	0			Florida	0	12/14/2020
-1042	Unassigned	3151	US	0			Florida	0	12/15/2020
-1042	Unassigned	3179	US	0			Florida	0	12/16/2020
-1042	Unassigned	2925	US	0			Florida	0	12/17/2020
-1042	Unassigned	2937	US	0			Florida	0	12/18/2020
-1042	Unassigned	2949	US	0			Florida	0	12/19/2020
-1042	Unassigned	2952	US	0			Florida	0	12/20/2020
-1042	Unassigned	2964	US	0			Florida	0	12/21/2020
-1042	Unassigned	2975	US	0			Florida	0	12/22/2020
-1042	Unassigned	3023	US	0			Florida	0	12/23/2020
-1042	Unassigned	3036	US	0			Florida	0	12/24/2020
-1042	Unassigned	3036	US	0			Florida	0	12/25/2020
-1042	Unassigned	3067	US	0			Florida	0	12/26/2020
-1042	Unassigned	3080	US	0			Florida	0	12/27/2020
-1042	Unassigned	3088	US	0			Florida	0	12/28/2020
-1042	Unassigned	3082	US	0			Florida	0	12/29/2020
-1042	Unassigned	3062	US	0			Florida	0	12/30/2020
-1042	Unassigned	3010	US	0			Florida	0	12/31/2020
-1042	Unassigned	3010	US	0			Florida	0	01/01/2021
-1042	Unassigned	3045	US	0			Florida	0	01/02/2021
-1043	Unassigned	3065	US	0			Florida	0	01/03/2021
-1043	Unassigned	3078	US	0			Florida	0	01/04/2021
-1043	Unassigned	3082	US	0			Florida	0	01/05/2021
-1043	Unassigned	3156	US	0			Florida	0	01/06/2021
-1043	Unassigned	3147	US	0			Florida	0	01/07/2021
-1043	Unassigned	3157	US	0			Florida	0	01/08/2021
-1043	Unassigned	3166	US	0			Florida	0	01/09/2021
-1043	Unassigned	3170	US	0			Florida	0	01/10/2021
-1043	Unassigned	3176	US	0			Florida	0	01/11/2021
-1043	Unassigned	3184	US	0			Florida	0	01/12/2021
-1043	Unassigned	3241	US	0			Florida	0	01/13/2021
-1043	Unassigned	3258	US	0			Florida	0	01/14/2021
-1043	Unassigned	3279	US	0			Florida	0	01/15/2021
-1043	Unassigned	3287	US	0			Florida	0	01/16/2021
-1043	Unassigned	3293	US	0			Florida	0	01/17/2021
-1043	Unassigned	3306	US	0			Florida	0	01/18/2021
-1043	Unassigned	3311	US	0			Florida	0	01/19/2021
-1043	Unassigned	3279	US	0			Florida	0	01/20/2021
-1044	Unassigned	3288	US	0			Florida	0	01/21/2021
-1044	Unassigned	3291	US	0			Florida	0	01/22/2021
-1044	Unassigned	3293	US	0			Florida	0	01/23/2021
-1044	Unassigned	3311	US	0			Florida	0	01/24/2021
-1044	Unassigned	3318	US	0			Florida	0	01/25/2021
-1044	Unassigned	3314	US	0			Florida	0	01/26/2021
-1044	Unassigned	3321	US	0			Florida	0	01/27/2021
-1044	Unassigned	3327	US	0			Florida	0	01/28/2021
-1044	Unassigned	3324	US	0			Florida	0	01/29/2021
-1044	Unassigned	3331	US	0			Florida	0	01/30/2021
-1044	Unassigned	3334	US	0			Florida	0	01/31/2021
-1044	Unassigned	3338	US	0			Florida	0	02/01/2021
-1044	Unassigned	3335	US	0			Florida	0	02/02/2021
-1044	Unassigned	3340	US	0			Florida	0	02/03/2021
-1044	Unassigned	3348	US	0			Florida	0	02/04/2021
-1044	Unassigned	3363	US	0			Florida	0	02/05/2021
-1044	Unassigned	3364	US	0			Florida	0	02/06/2021
-1044	Unassigned	3367	US	0			Florida	0	02/07/2021
-1044	Unassigned	3375	US	0			Florida	0	02/08/2021
-1044	Unassigned	3375	US	0			Florida	0	02/09/2021
-1044	Unassigned	3379	US	0			Florida	0	02/10/2021
-1044	Unassigned	3384	US	0			Florida	0	02/11/2021
-1044	Unassigned	3388	US	0			Florida	0	02/12/2021
-1044	Unassigned	3381	US	0			Florida	0	02/13/2021
-1044	Unassigned	3383	US	0			Florida	0	02/14/2021
-1044	Unassigned	3390	US	0			Florida	0	02/15/2021
-1044	Unassigned	3398	US	0			Florida	0	02/16/2021
-1044	Unassigned	3403	US	0			Florida	0	02/17/2021
-1044	Unassigned	3403	US	0			Florida	0	02/18/2021
-1045	Unassigned	3406	US	0			Florida	0	02/19/2021
-1045	Unassigned	3415	US	0			Florida	0	02/20/2021
-1045	Unassigned	3418	US	0			Florida	0	02/21/2021
-1045	Unassigned	3422	US	0			Florida	0	02/22/2021
-1045	Unassigned	3426	US	0			Florida	0	02/23/2021
-1045	Unassigned	3440	US	0			Florida	0	02/24/2021
-1045	Unassigned	3446	US	0			Florida	0	02/25/2021
-1045	Unassigned	3454	US	0			Florida	0	02/26/2021
-1045	Unassigned	3464	US	0			Florida	0	02/27/2021
-1045	Unassigned	3469	US	0			Florida	0	02/28/2021
-1045	Unassigned	3469	US	0			Florida	0	03/01/2021
-1045	Unassigned	3481	US	0			Florida	0	03/02/2021
-1045	Unassigned	3493	US	0			Florida	0	03/03/2021
-1045	Unassigned	3493	US	0			Florida	0	03/04/2021
-1045	Unassigned	3491	US	0			Florida	0	03/05/2021
-1045	Unassigned	3494	US	0			Florida	0	03/06/2021
-1045	Unassigned	3499	US	0			Florida		03/07/2021
-1045	Unassigned	3498	US	0			Florida		03/08/2021
-1045	Unassigned	3500	US	0			Florida		03/09/2021
-1045	Unassigned	3498	US	0			Florida		03/10/2021
-1045	Unassigned	3503	US	0			Florida		03/11/2021
-1045	Unassigned	3507	US	0			Florida		03/12/2021
-1045	Unassigned	3508	US	0			Florida		03/13/2021
-1045	Unassigned	3512	US	0			Florida		03/14/2021
-1045	Unassigned	3513	US	0			Florida		03/15/2021
-1045	Unassigned	3518	US	0			Florida		03/16/2021
-1045	Unassigned	3516	US	0			Florida		03/17/2021
-1045	Unassigned	3499	US	0			Florida		03/18/2021
-1045	Unassigned	3513	US	0			Florida		03/19/2021
-1045	Unassigned	3514	US	0			Florida		03/20/2021
-1045	Unassigned	3509	US	0			Florida		03/21/2021
-1045	Unassigned	3512	US	0			Florida		03/22/2021
-1045	Unassigned	3518	US	0			Florida		03/23/2021
-1045	Unassigned	3523	US	0			Florida		03/24/2021
-1045	Unassigned	3525	US	0			Florida		03/25/2021
-1045	Unassigned	3533	US	0			Florida		03/26/2021
-1045	Unassigned	3540	US	0			Florida		03/27/2021
-1045	Unassigned	3545	US	0			Florida		03/28/2021
-1045	Unassigned	3547	US	0			Florida		03/29/2021
-1045	Unassigned	3552	US	0			Florida		03/30/2021
-1045	Unassigned	3561	US	0			Florida		03/31/2021
-1045	Unassigned	3568	US	0			Florida		04/01/2021
-1047	Unassigned	3569	US	0			Florida		04/02/2021
-1047	Unassigned	3577	US	0			Florida		04/03/2021
-1047	Unassigned	3578	US	0			Florida		04/04/2021
-1047	Unassigned	3577	US	0			Florida		04/05/2021
-1047	Unassigned	3588	US	0			Florida		04/06/2021
-1047	Unassigned	3596	US	0			Florida		04/07/2021
-1047	Unassigned	3604	US	0			Florida		04/08/2021
-1047	Unassigned	3610	US	0			Florida		04/09/2021
-1047	Unassigned	3567	US	0			Florida		04/10/2021
-1047	Unassigned	3555	US	0			Florida		04/11/2021
-1047	Unassigned	3555	US	0			Florida		04/12/2021
-1047	Unassigned	3511	US	0			Florida		04/13/2021
-1047	Unassigned	3505	US	0			Florida		04/14/2021
-1047	Unassigned	3505	US	0			Florida		04/15/2021
-1047	Unassigned	3506	US	0			Florida		04/16/2021
-1047	Unassigned	3491	US	0			Florida		04/17/2021
-1047	Unassigned	3499	US	0			Florida		04/18/2021
-1047	Unassigned	3500	US	0			Florida		04/19/2021
-1047	Unassigned	3495	US	0			Florida		04/20/2021
-1047	Unassigned	3497	US	0			Florida		04/21/2021
-1047	Unassigned	3502	US	0			Florida		04/22/2021
-1047	Unassigned	3505	US	0			Florida		04/23/2021
-1047	Unassigned	3506	US	0			Florida		04/24/2021
-1047	Unassigned	3497	US	0			Florida		04/25/2021
-1047	Unassigned	3494	US	0			Florida		04/26/2021
-1047	Unassigned	3492	US	0			Florida		04/27/2021
-1047	Unassigned	3497	US	0			Florida		04/28/2021
-1047	Unassigned	3500	US	0			Florida		04/29/2021
-1047	Unassigned	3497	US	0			Florida		04/30/2021
-1047	Unassigned	3454	US	0			Florida		05/01/2021
-1047	Unassigned	3393	US	0			Florida		05/02/2021
-1047	Unassigned	3336	US	0			Florida		05/03/2021
-1047	Unassigned	3293	US	0			Florida		05/04/2021
-1047	Unassigned	3296	US	0			Florida		05/05/2021
-1047	Unassigned	3298	US	0			Florida		05/06/2021
-1047	Unassigned	3301	US	0			Florida		05/07/2021
-1047	Unassigned	3294	US	0			Florida		05/08/2021
-1047	Unassigned	3249	US	0			Florida		05/09/2021
-1047	Unassigned	3237	US	0			Florida		05/10/2021
-1047	Unassigned	3229	US	0			Florida		05/11/2021
-1047	Unassigned	3193	US	0			Florida		05/12/2021
-1047	Unassigned	3188	US	0			Florida		05/13/2021
-1047	Unassigned	3195	US	0			Florida		05/14/2021
-1047	Unassigned	3198	US	0			Florida		05/15/2021
-1047	Unassigned	3166	US	0			Florida		05/16/2021
-1047	Unassigned	3167	US	0			Florida		05/17/2021
-1047	Unassigned	3165	US	0			Florida		05/18/2021
-1047	Unassigned	3150	US	0			Florida		05/19/2021
-1047	Unassigned	3134	US	0			Florida		05/20/2021
-1047	Unassigned	3125	US	0			Florida		05/21/2021
-1047	Unassigned	3109	US	0			Florida		05/22/2021
-1047	Unassigned	3059	US	0			Florida		05/23/2021
-1047	Unassigned	3060	US	0			Florida		05/24/2021
-1047	Unassigned	3057	US	0			Florida		05/25/2021
-1047	Unassigned	3049	US	0			Florida		05/26/2021
-1048	Unassigned	3041	US	0			Florida		05/27/2021
-1048	Unassigned	3034	US	0			Florida		05/28/2021
-1048	Unassigned	3034	US	0			Florida		05/29/2021
-1048	Unassigned	3034	US	0			Florida		05/30/2021
-1048	Unassigned	3034	US	0			Florida		05/31/2021
-1048	Unassigned	3031	US	0			Florida		06/01/2021
-1048	Unassigned	3027	US	0			Florida		06/02/2021
-1048	Unassigned	3017	US	0			Florida		06/03/2021
-1048	Unassigned	3017	US	12			Florida		06/04/2021
-1048	Unassigned	3016	US	12			Florida		06/05/2021
-1048	Unassigned	3016	US	12			Florida		06/06/2021
-1048	Unassigned	3016	US	12			Florida		06/07/2021
-1048	Unassigned	3016	US	12			Florida		06/08/2021
-1048	Unassigned	3016	US	12			Florida		06/09/2021
-1048	Unassigned	3016	US	12			Florida		06/10/2021
-1048	Unassigned	3019	US	292			Florida		06/11/2021
-1048	Unassigned	3019	US	292			Florida		06/12/2021
-1048	Unassigned	3019	US	292			Florida		06/13/2021
-1048	Unassigned	3019	US	292			Florida		06/14/2021
-1048	Unassigned	3019	US	292			Florida		06/15/2021
-1048	Unassigned	3019	US	292			Florida		06/16/2021
-1050	Unassigned	3019	US	292			Florida		06/17/2021
-1050	Unassigned	3018	US	582			Florida		06/18/2021
-1050	Unassigned	3018	US	582			Florida		06/19/2021
-1050	Unassigned	3018	US	582			Florida		06/20/2021
-1050	Unassigned	3018	US	582			Florida		06/21/2021
-1050	Unassigned	3018	US	582			Florida		06/22/2021
-1050	Unassigned	3018	US	582			Florida		06/23/2021
-1051	Unassigned	3018	US	582			Florida		06/24/2021
-1051	Unassigned	3017	US	799			Florida		06/25/2021
-1051	Unassigned	3017	US	799			Florida		06/26/2021
-1051	Unassigned	3017	US	799			Florida		06/27/2021
-1051	Unassigned	3017	US	799			Florida		06/28/2021
-1051	Unassigned	3017	US	799			Florida		06/29/2021
-1051	Unassigned	3017	US	799			Florida		06/30/2021
-1051	Unassigned	3017	US	799			Florida		07/01/2021
-1051	Unassigned	3017	US	1012			Florida		07/02/2021
-1051	Unassigned	3017	US	1012			Florida		07/03/2021
-1051	Unassigned	3017	US	1012			Florida		07/04/2021
-1051	Unassigned	3017	US	1012			Florida		07/05/2021
-1051	Unassigned	3017	US	1012			Florida		07/06/2021
-1051	Unassigned	3017	US	1012			Florida		07/07/2021
-1051	Unassigned	3017	US	1012			Florida		07/08/2021
-1051	Unassigned	2963	US	1184			Florida		07/09/2021
-1051	Unassigned	2963	US	1184			Florida		07/10/2021
-1051	Unassigned	2963	US	1184			Florida		07/11/2021
-1051	Unassigned	2963	US	1184			Florida		07/12/2021
-1051	Unassigned	2963	US	1184			Florida		07/13/2021
-1051	Unassigned	2963	US	1184			Florida		07/14/2021
-1051	Unassigned	2963	US	1184			Florida		07/15/2021
-1051	Unassigned	2963	US	1415			Florida		07/16/2021
-1051	Unassigned	2963	US	1415			Florida		07/17/2021
-1051	Unassigned	2963	US	1415			Florida		07/18/2021
-1051	Unassigned	2963	US	1415			Florida		07/19/2021
-1051	Unassigned	2963	US	1415			Florida		07/20/2021
-1051	Unassigned	2963	US	1415			Florida		07/21/2021
-1051	Unassigned	2963	US	1415			Florida		07/22/2021
-1051	Unassigned	2963	US	1697			Florida		07/23/2021
-1051	Unassigned	2963	US	1697			Florida		07/24/2021
-1051	Unassigned	2963	US	1697			Florida		07/25/2021
-1051	Unassigned	2963	US	1697			Florida		07/26/2021
-1051	Unassigned	2963	US	1697			Florida		07/27/2021
-1051	Unassigned	2963	US	1697			Florida		07/28/2021
-1051	Unassigned	2963	US	1697			Florida		07/29/2021
-1051	Unassigned	2962	US	2106			Florida		07/30/2021
-1051	Unassigned	2962	US	2106			Florida		07/31/2021
-1051	Unassigned	2962	US	2106			Florida		08/01/2021
-1051	Unassigned	2962	US	2106			Florida		08/02/2021
-1051	Unassigned	2962	US	2106			Florida		08/03/2021
-1051	Unassigned	2962	US	2106			Florida		08/04/2021
-1051	Unassigned	2962	US	2106			Florida		08/05/2021
-1051	Unassigned	2962	US	2722			Florida		08/06/2021
-1051	Unassigned	2962	US	2722			Florida		08/07/2021
-1051	Unassigned	2962	US	2722			Florida		08/08/2021
-1051	Unassigned	2962	US	2722			Florida		08/09/2021
-1051	Unassigned	2962	US	2722			Florida		08/10/2021
-1051	Unassigned	2962	US	2722			Florida		08/11/2021
-1051	Unassigned	2962	US	2722			Florida		08/12/2021
-1051	Unassigned	2961	US	3793			Florida		08/13/2021
-1051	Unassigned	2961	US	3793			Florida		08/14/2021
-1051	Unassigned	2961	US	3793			Florida		08/15/2021
-1051	Unassigned	2961	US	3793			Florida		08/16/2021
-1051	Unassigned	2961	US	3793			Florida		08/17/2021
-1051	Unassigned	2961	US	3793			Florida		08/18/2021
-1051	Unassigned	2961	US	3793			Florida		08/19/2021
-1051	Unassigned	2965	US	5279			Florida		08/20/2021
-1051	Unassigned	2965	US	5279			Florida		08/21/2021
-1051	Unassigned	2965	US	5279			Florida		08/22/2021
-1051	Unassigned	2965	US	5279			Florida		08/23/2021
-1051	Unassigned	2965	US	5279			Florida		08/24/2021
-1051	Unassigned	2965	US	5279			Florida		08/25/2021
-1051	Unassigned	2965	US	5279			Florida		08/26/2021
-1051	Unassigned	2965	US	7006			Florida		08/27/2021
-1051	Unassigned	2965	US	7006			Florida		08/28/2021
-1051	Unassigned	2965	US	7006			Florida		08/29/2021
-1051	Unassigned	2965	US	7006			Florida		08/30/2021
-1051	Unassigned	2965	US	7006			Florida		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+243	Florida	US	03/22/2020	0.0	0.0	1	0	0	Unassigned
+2858	Florida	US	03/23/2020	0.0	0.0	0	1	0	Unassigned
+2859	Florida	US	03/24/2020	0.0	0.0	0	1	0	Unassigned
+2859	Florida	US	03/28/2020	0.0	0.0	0	8	0	Unassigned
+2860	Florida	US	03/29/2020	0.0	0.0	0	2	0	Unassigned
+2861	Florida	US	03/30/2020	0.0	0.0	1	4	0	Unassigned
+1934	Florida	US	03/31/2020	0.0	0.0	2	0	0	Unassigned
+1979	Florida	US	04/01/2020	0.0	0.0	3	2	0	Unassigned
+2050	Florida	US	04/02/2020			9	20	0	Unassigned
+2097	Florida	US	04/03/2020			10	7	0	Unassigned
+2149	Florida	US	04/04/2020			1	1	0	Unassigned
+2222	Florida	US	04/05/2020			4	0	0	Unassigned
+2259	Florida	US	04/06/2020			7	1	0	Unassigned
+2306	Florida	US	04/07/2020			2	29	0	Unassigned
+2329	Florida	US	04/08/2020			3	0	0	Unassigned
+2355	Florida	US	04/09/2020			2	0	0	Unassigned
+2379	Florida	US	04/10/2020			2	0	0	Unassigned
+2405	Florida	US	04/11/2020			2	0	0	Unassigned
+2427	Florida	US	04/12/2020			2	0	0	Unassigned
+2441	Florida	US	04/13/2020			2	0	0	Unassigned
+2451	Florida	US	04/14/2020			3	47	0	Unassigned
+2463	Florida	US	04/15/2020			5	0	0	Unassigned
+2477	Florida	US	04/16/2020			6	0	0	Unassigned
+2479	Florida	US	04/17/2020			4	0	0	Unassigned
+2486	Florida	US	04/18/2020			3	0	0	Unassigned
+2503	Florida	US	04/19/2020			3	0	0	Unassigned
+2511	Florida	US	04/20/2020			3	0	0	Unassigned
+2520	Florida	US	04/21/2020			4	0	0	Unassigned
+2527	Florida	US	04/22/2020			0	0	0	Unassigned
+2544	Florida	US	04/23/2020			0	0	0	Unassigned
+2550	Florida	US	04/24/2020			0	0	0	Unassigned
+2555	Florida	US	04/25/2020			1	0	0	Unassigned
+2563	Florida	US	04/26/2020			1	0	0	Unassigned
+2570	Florida	US	04/27/2020			1	0	0	Unassigned
+2579	Florida	US	04/28/2020			4	0	0	Unassigned
+2584	Florida	US	04/29/2020			7	0	0	Unassigned
+2590	Florida	US	04/30/2020			7	0	0	Unassigned
+2601	Florida	US	05/01/2020			8	0	0	Unassigned
+2604	Florida	US	05/02/2020			9	0	0	Unassigned
+2609	Florida	US	05/03/2020			12	0	0	Unassigned
+2612	Florida	US	05/04/2020			12	0	0	Unassigned
+2620	Florida	US	05/05/2020			17	0	0	Unassigned
+2626	Florida	US	05/06/2020			31	0	0	Unassigned
+2633	Florida	US	05/07/2020			33	0	0	Unassigned
+2640	Florida	US	05/08/2020			33	0	0	Unassigned
+2642	Florida	US	05/09/2020			49	0	0	Unassigned
+2644	Florida	US	05/10/2020			50	0	0	Unassigned
+2644	Florida	US	05/11/2020			50	0	0	Unassigned
+2647	Florida	US	05/12/2020			57	0	0	Unassigned
+2648	Florida	US	05/13/2020			88	0	0	Unassigned
+2650	Florida	US	05/14/2020			76	0	0	Unassigned
+2655	Florida	US	05/15/2020			78	0	0	Unassigned
+2659	Florida	US	05/16/2020			79	0	0	Unassigned
+2662	Florida	US	05/17/2020			79	0	0	Unassigned
+2664	Florida	US	05/18/2020			79	0	0	Unassigned
+2668	Florida	US	05/19/2020			79	0	0	Unassigned
+2674	Florida	US	05/20/2020			80	0	0	Unassigned
+2676	Florida	US	05/21/2020			82	0	0	Unassigned
+2683	Florida	US	05/22/2020			84	0	0	Unassigned
+2685	Florida	US	05/23/2020			84	0	0	Unassigned
+2688	Florida	US	05/24/2020			85	0	0	Unassigned
+2689	Florida	US	05/25/2020			85	0	0	Unassigned
+2690	Florida	US	05/26/2020			85	0	0	Unassigned
+2693	Florida	US	05/27/2020			85	0	0	Unassigned
+2696	Florida	US	05/28/2020			86	0	0	Unassigned
+2699	Florida	US	05/29/2020			83	0	0	Unassigned
+2701	Florida	US	05/30/2020			84	0	0	Unassigned
+2702	Florida	US	05/31/2020			84	0	0	Unassigned
+2704	Florida	US	06/01/2020			84	0	0	Unassigned
+2709	Florida	US	06/02/2020			87	0	0	Unassigned
+2711	Florida	US	06/03/2020			89	0	0	Unassigned
+2712	Florida	US	06/04/2020			90	0	0	Unassigned
+2716	Florida	US	06/05/2020			95	0	0	Unassigned
+2718	Florida	US	06/06/2020			97	0	0	Unassigned
+2718	Florida	US	06/07/2020			97	0	0	Unassigned
+2718	Florida	US	06/08/2020			93	0	0	Unassigned
+2720	Florida	US	06/09/2020			93	0	0	Unassigned
+2722	Florida	US	06/10/2020			96	0	0	Unassigned
+2724	Florida	US	06/11/2020			96	0	0	Unassigned
+2738	Florida	US	06/12/2020			100	0	0	Unassigned
+2741	Florida	US	06/13/2020			102	0	0	Unassigned
+2741	Florida	US	06/14/2020			102	0	0	Unassigned
+2745	Florida	US	06/15/2020			97	0	0	Unassigned
+2743	Florida	US	06/16/2020			97	0	0	Unassigned
+2745	Florida	US	06/17/2020			105	0	0	Unassigned
+2745	Florida	US	06/18/2020			110	0	0	Unassigned
+2746	Florida	US	06/19/2020			113	0	0	Unassigned
+2750	Florida	US	06/20/2020			117	0	0	Unassigned
+2750	Florida	US	06/21/2020			118	0	0	Unassigned
+2753	Florida	US	06/22/2020			119	0	0	Unassigned
+2758	Florida	US	06/23/2020			126	0	0	Unassigned
+2770	Florida	US	06/24/2020			130	0	0	Unassigned
+2775	Florida	US	06/25/2020			130	0	0	Unassigned
+2776	Florida	US	06/26/2020			134	0	0	Unassigned
+2777	Florida	US	06/27/2020			139	0	0	Unassigned
+2777	Florida	US	06/28/2020			143	0	0	Unassigned
+2779	Florida	US	06/29/2020			138	0	0	Unassigned
+2781	Florida	US	06/30/2020			145	0	0	Unassigned
+2783	Florida	US	07/01/2020			167	0	0	Unassigned
+2786	Florida	US	07/02/2020			172	0	0	Unassigned
+2791	Florida	US	07/03/2020			187	0	0	Unassigned
+2792	Florida	US	07/04/2020			201	0	0	Unassigned
+2793	Florida	US	07/05/2020			226	0	0	Unassigned
+2796	Florida	US	07/06/2020			230	0	0	Unassigned
+2797	Florida	US	07/07/2020			231	0	0	Unassigned
+2800	Florida	US	07/08/2020			251	0	0	Unassigned
+2799	Florida	US	07/09/2020			262	0	0	Unassigned
+2803	Florida	US	07/10/2020			271	0	0	Unassigned
+2804	Florida	US	07/11/2020			279	0	0	Unassigned
+2806	Florida	US	07/12/2020			297	0	0	Unassigned
+2807	Florida	US	07/13/2020			318	0	0	Unassigned
+2813	Florida	US	07/14/2020			328	0	0	Unassigned
+2814	Florida	US	07/15/2020			332	0	0	Unassigned
+2816	Florida	US	07/16/2020			372	0	0	Unassigned
+2816	Florida	US	07/17/2020			383	0	0	Unassigned
+2889	Florida	US	07/18/2020			401	0	0	Unassigned
+2889	Florida	US	07/19/2020			388	0	0	Unassigned
+2813	Florida	US	07/20/2020			404	0	0	Unassigned
+2893	Florida	US	07/21/2020			411	0	0	Unassigned
+2894	Florida	US	07/22/2020			420	0	0	Unassigned
+2897	Florida	US	07/23/2020			433	0	0	Unassigned
+2896	Florida	US	07/24/2020			447	0	0	Unassigned
+2897	Florida	US	07/25/2020			462	0	0	Unassigned
+2898	Florida	US	07/26/2020			489	0	0	Unassigned
+2898	Florida	US	07/27/2020			501	0	0	Unassigned
+2898	Florida	US	07/28/2020			517	0	0	Unassigned
+2902	Florida	US	07/29/2020			528	0	0	Unassigned
+2902	Florida	US	07/30/2020			559	0	0	Unassigned
+2904	Florida	US	07/31/2020			570	0	0	Unassigned
+2904	Florida	US	08/01/2020			601	0	0	Unassigned
+2904	Florida	US	08/02/2020			633	0	0	Unassigned
+2904	Florida	US	08/03/2020			631	0	0	Unassigned
+2905	Florida	US	08/04/2020			638	0	0	Unassigned
+2909	Florida	US	08/05/2020			639	0	0	Unassigned
+2909	Florida	US	08/06/2020			646	0	0	Unassigned
+2909	Florida	US	08/07/2020			660	0	0	Unassigned
+2909	Florida	US	08/08/2020			678	0	0	Unassigned
+2909	Florida	US	08/09/2020			695	0	0	Unassigned
+2909	Florida	US	08/10/2020			697	0	0	Unassigned
+1068	Florida	US	08/11/2020			721	0	0	Unassigned
+1022	Florida	US	08/12/2020			703	0	0	Unassigned
+1022	Florida	US	08/13/2020			720	0	0	Unassigned
+1022	Florida	US	08/14/2020			735	0	0	Unassigned
+1022	Florida	US	08/15/2020			758	0	0	Unassigned
+1022	Florida	US	08/16/2020			770	0	0	Unassigned
+1022	Florida	US	08/17/2020			776	0	0	Unassigned
+1022	Florida	US	08/18/2020			780	0	0	Unassigned
+1022	Florida	US	08/19/2020			786	0	0	Unassigned
+1022	Florida	US	08/20/2020			798	0	0	Unassigned
+1022	Florida	US	08/21/2020			812	0	0	Unassigned
+1023	Florida	US	08/22/2020			835	0	0	Unassigned
+1023	Florida	US	08/23/2020			838	0	0	Unassigned
+1023	Florida	US	08/24/2020			851	0	0	Unassigned
+1023	Florida	US	08/25/2020			862	0	0	Unassigned
+1023	Florida	US	08/26/2020			886	0	0	Unassigned
+1023	Florida	US	08/27/2020			911	0	0	Unassigned
+1023	Florida	US	08/28/2020			959	0	0	Unassigned
+1023	Florida	US	08/29/2020			984	0	0	Unassigned
+1023	Florida	US	08/30/2020			998	0	0	Unassigned
+1023	Florida	US	08/31/2020			1000	0	0	Unassigned
+1023	Florida	US	09/01/2020			1027	0	0	Unassigned
+1023	Florida	US	09/02/2020			1057	0	0	Unassigned
+1023	Florida	US	09/03/2020			1083	0	0	Unassigned
+1023	Florida	US	09/04/2020			1089	0	0	Unassigned
+1023	Florida	US	09/05/2020			1095	0	0	Unassigned
+1023	Florida	US	09/06/2020			1103	0	0	Unassigned
+1023	Florida	US	09/07/2020			1105	0	0	Unassigned
+1023	Florida	US	09/08/2020			1112	0	0	Unassigned
+1023	Florida	US	09/09/2020			1123	0	0	Unassigned
+1023	Florida	US	09/10/2020			1124	0	0	Unassigned
+1023	Florida	US	09/11/2020			1027	0	0	Unassigned
+1023	Florida	US	09/12/2020			1033	0	0	Unassigned
+1023	Florida	US	09/13/2020			1035	0	0	Unassigned
+1023	Florida	US	09/14/2020			1038	0	0	Unassigned
+1023	Florida	US	09/15/2020			1556	0	0	Unassigned
+1023	Florida	US	09/16/2020			1566	0	0	Unassigned
+1023	Florida	US	09/17/2020			1569	0	0	Unassigned
+1023	Florida	US	09/18/2020			1575	0	0	Unassigned
+1023	Florida	US	09/19/2020			1592	0	0	Unassigned
+1023	Florida	US	09/20/2020			1598	0	0	Unassigned
+1024	Florida	US	09/21/2020			1600	0	0	Unassigned
+1024	Florida	US	09/22/2020			1613	0	0	Unassigned
+1024	Florida	US	09/23/2020			1623	0	0	Unassigned
+1024	Florida	US	09/24/2020			1645	0	0	Unassigned
+1024	Florida	US	09/25/2020			1654	0	0	Unassigned
+1024	Florida	US	09/26/2020			1669	0	0	Unassigned
+1024	Florida	US	09/27/2020			1687	0	0	Unassigned
+1024	Florida	US	09/28/2020			1690	0	0	Unassigned
+1024	Florida	US	09/29/2020			1712	0	0	Unassigned
+1024	Florida	US	09/30/2020			1730	0	0	Unassigned
+1024	Florida	US	10/01/2020			1742	0	0	Unassigned
+1024	Florida	US	10/02/2020			1754	0	0	Unassigned
+1024	Florida	US	10/03/2020			1766	0	0	Unassigned
+1024	Florida	US	10/04/2020			1785	0	0	Unassigned
+1024	Florida	US	10/05/2020			1792	0	0	Unassigned
+1024	Florida	US	10/06/2020			1817	0	0	Unassigned
+1024	Florida	US	10/07/2020			1821	0	0	Unassigned
+1024	Florida	US	10/08/2020			1830	0	0	Unassigned
+1024	Florida	US	10/09/2020			1844	0	0	Unassigned
+1024	Florida	US	10/10/2020			1844	0	0	Unassigned
+1024	Florida	US	10/11/2020			1882	0	0	Unassigned
+1025	Florida	US	10/12/2020			1888	0	0	Unassigned
+1025	Florida	US	10/13/2020			1895	0	0	Unassigned
+1025	Florida	US	10/14/2020			1906	0	0	Unassigned
+1025	Florida	US	10/15/2020			1927	0	0	Unassigned
+1026	Florida	US	10/16/2020			1948	0	0	Unassigned
+1026	Florida	US	10/17/2020			1961	0	0	Unassigned
+1026	Florida	US	10/18/2020			1972	0	0	Unassigned
+1027	Florida	US	10/19/2020			1984	0	0	Unassigned
+1027	Florida	US	10/20/2020			1993	0	0	Unassigned
+1027	Florida	US	10/21/2020			1912	0	0	Unassigned
+1027	Florida	US	10/22/2020			1861	0	0	Unassigned
+1027	Florida	US	10/23/2020			1853	0	0	Unassigned
+1027	Florida	US	10/24/2020			1855	0	0	Unassigned
+1027	Florida	US	10/25/2020			1857	0	0	Unassigned
+1027	Florida	US	10/26/2020			1847	0	0	Unassigned
+1027	Florida	US	10/27/2020			1856	0	0	Unassigned
+1028	Florida	US	10/28/2020			1835	0.0	0	Unassigned
+1028	Florida	US	10/29/2020			1827	0	0	Unassigned
+1028	Florida	US	10/30/2020			1786	0	0	Unassigned
+1028	Florida	US	10/31/2020			1940	0	0	Unassigned
+1028	Florida	US	11/01/2020			1925	0	0	Unassigned
+1028	Florida	US	11/02/2020			1915	0	0	Unassigned
+1029	Florida	US	11/03/2020			1899	0	0	Unassigned
+1029	Florida	US	11/04/2020			1864	0	0	Unassigned
+1029	Florida	US	11/05/2020			1817	0	0	Unassigned
+1029	Florida	US	11/06/2020			1784	0	0	Unassigned
+1029	Florida	US	11/07/2020			1789	0	0	Unassigned
+1029	Florida	US	11/08/2020			2038	0	0	Unassigned
+1029	Florida	US	11/09/2020			2021	0	0.0	Unassigned
+1029	Florida	US	11/10/2020			2027	0	0.0	Unassigned
+1029	Florida	US	11/11/2020			2062	0	0.0	Unassigned
+1041	Florida	US	11/12/2020			2057	0	0	Unassigned
+1041	Florida	US	11/13/2020			2056	0	0	Unassigned
+1041	Florida	US	11/14/2020			2076	0	0	Unassigned
+1041	Florida	US	11/15/2020			2096	0	0	Unassigned
+1041	Florida	US	11/16/2020			2113	0	0	Unassigned
+1041	Florida	US	11/17/2020			2141	0	0	Unassigned
+1041	Florida	US	11/18/2020			2160	0	0	Unassigned
+1041	Florida	US	11/19/2020			2184	0	0	Unassigned
+1041	Florida	US	11/20/2020			2209	0	0	Unassigned
+1041	Florida	US	11/21/2020			2232	0	0	Unassigned
+1041	Florida	US	11/22/2020			2361	0	0	Unassigned
+1041	Florida	US	11/23/2020			2397	0	0	Unassigned
+1042	Florida	US	11/24/2020			2564	0	0	Unassigned
+1042	Florida	US	11/25/2020			2603	0	0	Unassigned
+1042	Florida	US	11/26/2020			2603	0	0	Unassigned
+1042	Florida	US	11/27/2020			2645	0	0	Unassigned
+1042	Florida	US	11/28/2020			2722	0	0	Unassigned
+1042	Florida	US	11/29/2020			2756	0	0	Unassigned
+1042	Florida	US	11/30/2020			2768	0	0	Unassigned
+1042	Florida	US	12/01/2020			2797	0	0	Unassigned
+1042	Florida	US	12/02/2020			2851	0	0	Unassigned
+1042	Florida	US	12/03/2020			2869	0	0	Unassigned
+1042	Florida	US	12/04/2020			2905	0	0	Unassigned
+1042	Florida	US	12/05/2020			2931	0	0	Unassigned
+1042	Florida	US	12/06/2020			2959	0	0	Unassigned
+1042	Florida	US	12/07/2020			2966	0	0	Unassigned
+1042	Florida	US	12/08/2020			2983	0	0	Unassigned
+1042	Florida	US	12/09/2020			3008	0	0	Unassigned
+1042	Florida	US	12/10/2020			3025	0	0	Unassigned
+1042	Florida	US	12/11/2020			3088	0	0	Unassigned
+1042	Florida	US	12/12/2020			3121	0	0	Unassigned
+1042	Florida	US	12/13/2020			3130	0	0	Unassigned
+1042	Florida	US	12/14/2020			3137	0	0	Unassigned
+1042	Florida	US	12/15/2020			3151	0	0	Unassigned
+1042	Florida	US	12/16/2020			3179	0	0	Unassigned
+1042	Florida	US	12/17/2020			2925	0	0	Unassigned
+1042	Florida	US	12/18/2020			2937	0	0	Unassigned
+1042	Florida	US	12/19/2020			2949	0	0	Unassigned
+1042	Florida	US	12/20/2020			2952	0	0	Unassigned
+1042	Florida	US	12/21/2020			2964	0	0	Unassigned
+1042	Florida	US	12/22/2020			2975	0	0	Unassigned
+1042	Florida	US	12/23/2020			3023	0	0	Unassigned
+1042	Florida	US	12/24/2020			3036	0	0	Unassigned
+1042	Florida	US	12/25/2020			3036	0	0	Unassigned
+1042	Florida	US	12/26/2020			3067	0	0	Unassigned
+1042	Florida	US	12/27/2020			3080	0	0	Unassigned
+1042	Florida	US	12/28/2020			3088	0	0	Unassigned
+1042	Florida	US	12/29/2020			3082	0	0	Unassigned
+1042	Florida	US	12/30/2020			3062	0	0	Unassigned
+1042	Florida	US	12/31/2020			3010	0	0	Unassigned
+1042	Florida	US	01/01/2021			3010	0	0	Unassigned
+1042	Florida	US	01/02/2021			3045	0	0	Unassigned
+1043	Florida	US	01/03/2021			3065	0	0	Unassigned
+1043	Florida	US	01/04/2021			3078	0	0	Unassigned
+1043	Florida	US	01/05/2021			3082	0	0	Unassigned
+1043	Florida	US	01/06/2021			3156	0	0	Unassigned
+1043	Florida	US	01/07/2021			3147	0	0	Unassigned
+1043	Florida	US	01/08/2021			3157	0	0	Unassigned
+1043	Florida	US	01/09/2021			3166	0	0	Unassigned
+1043	Florida	US	01/10/2021			3170	0	0	Unassigned
+1043	Florida	US	01/11/2021			3176	0	0	Unassigned
+1043	Florida	US	01/12/2021			3184	0	0	Unassigned
+1043	Florida	US	01/13/2021			3241	0	0	Unassigned
+1043	Florida	US	01/14/2021			3258	0	0	Unassigned
+1043	Florida	US	01/15/2021			3279	0	0	Unassigned
+1043	Florida	US	01/16/2021			3287	0	0	Unassigned
+1043	Florida	US	01/17/2021			3293	0	0	Unassigned
+1043	Florida	US	01/18/2021			3306	0	0	Unassigned
+1043	Florida	US	01/19/2021			3311	0	0	Unassigned
+1043	Florida	US	01/20/2021			3279	0	0	Unassigned
+1044	Florida	US	01/21/2021			3288	0	0	Unassigned
+1044	Florida	US	01/22/2021			3291	0	0	Unassigned
+1044	Florida	US	01/23/2021			3293	0	0	Unassigned
+1044	Florida	US	01/24/2021			3311	0	0	Unassigned
+1044	Florida	US	01/25/2021			3318	0	0	Unassigned
+1044	Florida	US	01/26/2021			3314	0	0	Unassigned
+1044	Florida	US	01/27/2021			3321	0	0	Unassigned
+1044	Florida	US	01/28/2021			3327	0	0	Unassigned
+1044	Florida	US	01/29/2021			3324	0	0	Unassigned
+1044	Florida	US	01/30/2021			3331	0	0	Unassigned
+1044	Florida	US	01/31/2021			3334	0	0	Unassigned
+1044	Florida	US	02/01/2021			3338	0	0	Unassigned
+1044	Florida	US	02/02/2021			3335	0	0	Unassigned
+1044	Florida	US	02/03/2021			3340	0	0	Unassigned
+1044	Florida	US	02/04/2021			3348	0	0	Unassigned
+1044	Florida	US	02/05/2021			3363	0	0	Unassigned
+1044	Florida	US	02/06/2021			3364	0	0	Unassigned
+1044	Florida	US	02/07/2021			3367	0	0	Unassigned
+1044	Florida	US	02/08/2021			3375	0	0	Unassigned
+1044	Florida	US	02/09/2021			3375	0	0	Unassigned
+1044	Florida	US	02/10/2021			3379	0	0	Unassigned
+1044	Florida	US	02/11/2021			3384	0	0	Unassigned
+1044	Florida	US	02/12/2021			3388	0	0	Unassigned
+1044	Florida	US	02/13/2021			3381	0	0	Unassigned
+1044	Florida	US	02/14/2021			3383	0	0	Unassigned
+1044	Florida	US	02/15/2021			3390	0	0	Unassigned
+1044	Florida	US	02/16/2021			3398	0	0	Unassigned
+1044	Florida	US	02/17/2021			3403	0	0	Unassigned
+1044	Florida	US	02/18/2021			3403	0	0	Unassigned
+1045	Florida	US	02/19/2021			3406	0	0	Unassigned
+1045	Florida	US	02/20/2021			3415	0	0	Unassigned
+1045	Florida	US	02/21/2021			3418	0	0	Unassigned
+1045	Florida	US	02/22/2021			3422	0	0	Unassigned
+1045	Florida	US	02/23/2021			3426	0	0	Unassigned
+1045	Florida	US	02/24/2021			3440	0	0	Unassigned
+1045	Florida	US	02/25/2021			3446	0	0	Unassigned
+1045	Florida	US	02/26/2021			3454	0	0	Unassigned
+1045	Florida	US	02/27/2021			3464	0	0	Unassigned
+1045	Florida	US	02/28/2021			3469	0	0	Unassigned
+1045	Florida	US	03/01/2021			3469	0	0	Unassigned
+1045	Florida	US	03/02/2021			3481	0	0	Unassigned
+1045	Florida	US	03/03/2021			3493	0	0	Unassigned
+1045	Florida	US	03/04/2021			3493	0	0	Unassigned
+1045	Florida	US	03/05/2021			3491	0	0	Unassigned
+1045	Florida	US	03/06/2021			3494	0	0	Unassigned
+1045	Florida	US	03/07/2021			3499	0		Unassigned
+1045	Florida	US	03/08/2021			3498	0		Unassigned
+1045	Florida	US	03/09/2021			3500	0		Unassigned
+1045	Florida	US	03/10/2021			3498	0		Unassigned
+1045	Florida	US	03/11/2021			3503	0		Unassigned
+1045	Florida	US	03/12/2021			3507	0		Unassigned
+1045	Florida	US	03/13/2021			3508	0		Unassigned
+1045	Florida	US	03/14/2021			3512	0		Unassigned
+1045	Florida	US	03/15/2021			3513	0		Unassigned
+1045	Florida	US	03/16/2021			3518	0		Unassigned
+1045	Florida	US	03/17/2021			3516	0		Unassigned
+1045	Florida	US	03/18/2021			3499	0		Unassigned
+1045	Florida	US	03/19/2021			3513	0		Unassigned
+1045	Florida	US	03/20/2021			3514	0		Unassigned
+1045	Florida	US	03/21/2021			3509	0		Unassigned
+1045	Florida	US	03/22/2021			3512	0		Unassigned
+1045	Florida	US	03/23/2021			3518	0		Unassigned
+1045	Florida	US	03/24/2021			3523	0		Unassigned
+1045	Florida	US	03/25/2021			3525	0		Unassigned
+1045	Florida	US	03/26/2021			3533	0		Unassigned
+1045	Florida	US	03/27/2021			3540	0		Unassigned
+1045	Florida	US	03/28/2021			3545	0		Unassigned
+1045	Florida	US	03/29/2021			3547	0		Unassigned
+1045	Florida	US	03/30/2021			3552	0		Unassigned
+1045	Florida	US	03/31/2021			3561	0		Unassigned
+1045	Florida	US	04/01/2021			3568	0		Unassigned
+1047	Florida	US	04/02/2021			3569	0		Unassigned
+1047	Florida	US	04/03/2021			3577	0		Unassigned
+1047	Florida	US	04/04/2021			3578	0		Unassigned
+1047	Florida	US	04/05/2021			3577	0		Unassigned
+1047	Florida	US	04/06/2021			3588	0		Unassigned
+1047	Florida	US	04/07/2021			3596	0		Unassigned
+1047	Florida	US	04/08/2021			3604	0		Unassigned
+1047	Florida	US	04/09/2021			3610	0		Unassigned
+1047	Florida	US	04/10/2021			3567	0		Unassigned
+1047	Florida	US	04/11/2021			3555	0		Unassigned
+1047	Florida	US	04/12/2021			3555	0		Unassigned
+1047	Florida	US	04/13/2021			3511	0		Unassigned
+1047	Florida	US	04/14/2021			3505	0		Unassigned
+1047	Florida	US	04/15/2021			3505	0		Unassigned
+1047	Florida	US	04/16/2021			3506	0		Unassigned
+1047	Florida	US	04/17/2021			3491	0		Unassigned
+1047	Florida	US	04/18/2021			3499	0		Unassigned
+1047	Florida	US	04/19/2021			3500	0		Unassigned
+1047	Florida	US	04/20/2021			3495	0		Unassigned
+1047	Florida	US	04/21/2021			3497	0		Unassigned
+1047	Florida	US	04/22/2021			3502	0		Unassigned
+1047	Florida	US	04/23/2021			3505	0		Unassigned
+1047	Florida	US	04/24/2021			3506	0		Unassigned
+1047	Florida	US	04/25/2021			3497	0		Unassigned
+1047	Florida	US	04/26/2021			3494	0		Unassigned
+1047	Florida	US	04/27/2021			3492	0		Unassigned
+1047	Florida	US	04/28/2021			3497	0		Unassigned
+1047	Florida	US	04/29/2021			3500	0		Unassigned
+1047	Florida	US	04/30/2021			3497	0		Unassigned
+1047	Florida	US	05/01/2021			3454	0		Unassigned
+1047	Florida	US	05/02/2021			3393	0		Unassigned
+1047	Florida	US	05/03/2021			3336	0		Unassigned
+1047	Florida	US	05/04/2021			3293	0		Unassigned
+1047	Florida	US	05/05/2021			3296	0		Unassigned
+1047	Florida	US	05/06/2021			3298	0		Unassigned
+1047	Florida	US	05/07/2021			3301	0		Unassigned
+1047	Florida	US	05/08/2021			3294	0		Unassigned
+1047	Florida	US	05/09/2021			3249	0		Unassigned
+1047	Florida	US	05/10/2021			3237	0		Unassigned
+1047	Florida	US	05/11/2021			3229	0		Unassigned
+1047	Florida	US	05/12/2021			3193	0		Unassigned
+1047	Florida	US	05/13/2021			3188	0		Unassigned
+1047	Florida	US	05/14/2021			3195	0		Unassigned
+1047	Florida	US	05/15/2021			3198	0		Unassigned
+1047	Florida	US	05/16/2021			3166	0		Unassigned
+1047	Florida	US	05/17/2021			3167	0		Unassigned
+1047	Florida	US	05/18/2021			3165	0		Unassigned
+1047	Florida	US	05/19/2021			3150	0		Unassigned
+1047	Florida	US	05/20/2021			3134	0		Unassigned
+1047	Florida	US	05/21/2021			3125	0		Unassigned
+1047	Florida	US	05/22/2021			3109	0		Unassigned
+1047	Florida	US	05/23/2021			3059	0		Unassigned
+1047	Florida	US	05/24/2021			3060	0		Unassigned
+1047	Florida	US	05/25/2021			3057	0		Unassigned
+1047	Florida	US	05/26/2021			3049	0		Unassigned
+1048	Florida	US	05/27/2021			3041	0		Unassigned
+1048	Florida	US	05/28/2021			3034	0		Unassigned
+1048	Florida	US	05/29/2021			3034	0		Unassigned
+1048	Florida	US	05/30/2021			3034	0		Unassigned
+1048	Florida	US	05/31/2021			3034	0		Unassigned
+1048	Florida	US	06/01/2021			3031	0		Unassigned
+1048	Florida	US	06/02/2021			3027	0		Unassigned
+1048	Florida	US	06/03/2021			3017	0		Unassigned
+1048	Florida	US	06/04/2021			3017	12		Unassigned
+1048	Florida	US	06/05/2021			3016	12		Unassigned
+1048	Florida	US	06/06/2021			3016	12		Unassigned
+1048	Florida	US	06/07/2021			3016	12		Unassigned
+1048	Florida	US	06/08/2021			3016	12		Unassigned
+1048	Florida	US	06/09/2021			3016	12		Unassigned
+1048	Florida	US	06/10/2021			3016	12		Unassigned
+1048	Florida	US	06/11/2021			3019	292		Unassigned
+1048	Florida	US	06/12/2021			3019	292		Unassigned
+1048	Florida	US	06/13/2021			3019	292		Unassigned
+1048	Florida	US	06/14/2021			3019	292		Unassigned
+1048	Florida	US	06/15/2021			3019	292		Unassigned
+1048	Florida	US	06/16/2021			3019	292		Unassigned
+1050	Florida	US	06/17/2021			3019	292		Unassigned
+1050	Florida	US	06/18/2021			3018	582		Unassigned
+1050	Florida	US	06/19/2021			3018	582		Unassigned
+1050	Florida	US	06/20/2021			3018	582		Unassigned
+1050	Florida	US	06/21/2021			3018	582		Unassigned
+1050	Florida	US	06/22/2021			3018	582		Unassigned
+1050	Florida	US	06/23/2021			3018	582		Unassigned
+1051	Florida	US	06/24/2021			3018	582		Unassigned
+1051	Florida	US	06/25/2021			3017	799		Unassigned
+1051	Florida	US	06/26/2021			3017	799		Unassigned
+1051	Florida	US	06/27/2021			3017	799		Unassigned
+1051	Florida	US	06/28/2021			3017	799		Unassigned
+1051	Florida	US	06/29/2021			3017	799		Unassigned
+1051	Florida	US	06/30/2021			3017	799		Unassigned
+1051	Florida	US	07/01/2021			3017	799		Unassigned
+1051	Florida	US	07/02/2021			3017	1012		Unassigned
+1051	Florida	US	07/03/2021			3017	1012		Unassigned
+1051	Florida	US	07/04/2021			3017	1012		Unassigned
+1051	Florida	US	07/05/2021			3017	1012		Unassigned
+1051	Florida	US	07/06/2021			3017	1012		Unassigned
+1051	Florida	US	07/07/2021			3017	1012		Unassigned
+1051	Florida	US	07/08/2021			3017	1012		Unassigned
+1051	Florida	US	07/09/2021			2963	1184		Unassigned
+1051	Florida	US	07/10/2021			2963	1184		Unassigned
+1051	Florida	US	07/11/2021			2963	1184		Unassigned
+1051	Florida	US	07/12/2021			2963	1184		Unassigned
+1051	Florida	US	07/13/2021			2963	1184		Unassigned
+1051	Florida	US	07/14/2021			2963	1184		Unassigned
+1051	Florida	US	07/15/2021			2963	1184		Unassigned
+1051	Florida	US	07/16/2021			2963	1415		Unassigned
+1051	Florida	US	07/17/2021			2963	1415		Unassigned
+1051	Florida	US	07/18/2021			2963	1415		Unassigned
+1051	Florida	US	07/19/2021			2963	1415		Unassigned
+1051	Florida	US	07/20/2021			2963	1415		Unassigned
+1051	Florida	US	07/21/2021			2963	1415		Unassigned
+1051	Florida	US	07/22/2021			2963	1415		Unassigned
+1051	Florida	US	07/23/2021			2963	1697		Unassigned
+1051	Florida	US	07/24/2021			2963	1697		Unassigned
+1051	Florida	US	07/25/2021			2963	1697		Unassigned
+1051	Florida	US	07/26/2021			2963	1697		Unassigned
+1051	Florida	US	07/27/2021			2963	1697		Unassigned
+1051	Florida	US	07/28/2021			2963	1697		Unassigned
+1051	Florida	US	07/29/2021			2963	1697		Unassigned
+1051	Florida	US	07/30/2021			2962	2106		Unassigned
+1051	Florida	US	07/31/2021			2962	2106		Unassigned
+1051	Florida	US	08/01/2021			2962	2106		Unassigned
+1051	Florida	US	08/02/2021			2962	2106		Unassigned
+1051	Florida	US	08/03/2021			2962	2106		Unassigned
+1051	Florida	US	08/04/2021			2962	2106		Unassigned
+1051	Florida	US	08/05/2021			2962	2106		Unassigned
+1051	Florida	US	08/06/2021			2962	2722		Unassigned
+1051	Florida	US	08/07/2021			2962	2722		Unassigned
+1051	Florida	US	08/08/2021			2962	2722		Unassigned
+1051	Florida	US	08/09/2021			2962	2722		Unassigned
+1051	Florida	US	08/10/2021			2962	2722		Unassigned
+1051	Florida	US	08/11/2021			2962	2722		Unassigned
+1051	Florida	US	08/12/2021			2962	2722		Unassigned
+1051	Florida	US	08/13/2021			2961	3793		Unassigned
+1051	Florida	US	08/14/2021			2961	3793		Unassigned
+1051	Florida	US	08/15/2021			2961	3793		Unassigned
+1051	Florida	US	08/16/2021			2961	3793		Unassigned
+1051	Florida	US	08/17/2021			2961	3793		Unassigned
+1051	Florida	US	08/18/2021			2961	3793		Unassigned
+1051	Florida	US	08/19/2021			2961	3793		Unassigned
+1051	Florida	US	08/20/2021			2965	5279		Unassigned
+1051	Florida	US	08/21/2021			2965	5279		Unassigned
+1051	Florida	US	08/22/2021			2965	5279		Unassigned
+1051	Florida	US	08/23/2021			2965	5279		Unassigned
+1051	Florida	US	08/24/2021			2965	5279		Unassigned
+1051	Florida	US	08/25/2021			2965	5279		Unassigned
+1051	Florida	US	08/26/2021			2965	5279		Unassigned
+1051	Florida	US	08/27/2021			2965	7006		Unassigned
+1051	Florida	US	08/28/2021			2965	7006		Unassigned
+1051	Florida	US	08/29/2021			2965	7006		Unassigned
+1051	Florida	US	08/30/2021			2965	7006		Unassigned
+1051	Florida	US	08/31/2021			2965	7006		Unassigned
+1051	Florida	US	09/01/2021			2965	7006		Unassigned

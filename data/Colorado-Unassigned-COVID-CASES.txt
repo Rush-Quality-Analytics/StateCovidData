@@ -1,529 +1,530 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-445	Unassigned	1	US	0	0.0	0.0	Colorado	0	03/22/2020
-2857	Unassigned	1	US	0	0.0	0.0	Colorado	0	03/23/2020
-2858	Unassigned	5	US	0	0.0	0.0	Colorado	0	03/24/2020
-2859	Unassigned	18	US	0	0.0	0.0	Colorado	0	03/25/2020
-2858	Unassigned	102	US	0	0.0	0.0	Colorado	0	03/26/2020
-2859	Unassigned	102	US	8	0.0	0.0	Colorado	0	03/27/2020
-2858	Unassigned	136	US	1	0.0	0.0	Colorado	0	03/28/2020
-2859	Unassigned	186	US	1	0.0	0.0	Colorado	0	03/29/2020
-2859	Unassigned	186	US	1	0.0	0.0	Colorado	0	03/30/2020
-1931	Unassigned	129	US	1	0.0	0.0	Colorado	0	03/31/2020
-1977	Unassigned	129	US	1	0.0	0.0	Colorado	0	04/01/2020
-2047	Unassigned	128	US	4			Colorado	0	04/02/2020
-2094	Unassigned	144	US	0			Colorado	0	04/03/2020
-2146	Unassigned	158	US	0			Colorado	0	04/04/2020
-2219	Unassigned	251	US	0			Colorado	0	04/05/2020
-2256	Unassigned	276	US	0			Colorado	0	04/06/2020
-2303	Unassigned	252	US	29			Colorado	0	04/07/2020
-2326	Unassigned	238	US	1			Colorado	0	04/08/2020
-2352	Unassigned	238	US	1			Colorado	0	04/09/2020
-2376	Unassigned	235	US	34			Colorado	0	04/10/2020
-2402	Unassigned	145	US	1			Colorado	0	04/11/2020
-2424	Unassigned	156	US	0			Colorado	0	04/12/2020
-2438	Unassigned	145	US	0			Colorado	0	04/13/2020
-2448	Unassigned	119	US	0			Colorado	0	04/14/2020
-2460	Unassigned	119	US	0			Colorado	0	04/15/2020
-2474	Unassigned	111	US	1			Colorado	0	04/16/2020
-2476	Unassigned	96	US	1			Colorado	0	04/17/2020
-2483	Unassigned	67	US	1			Colorado	0	04/18/2020
-2500	Unassigned	114	US	1			Colorado	0	04/19/2020
-2508	Unassigned	114	US	1			Colorado	0	04/20/2020
-2517	Unassigned	126	US	1			Colorado	0	04/21/2020
-2524	Unassigned	95	US	1			Colorado	0	04/22/2020
-2541	Unassigned	108	US	1			Colorado	0	04/23/2020
-2547	Unassigned	103	US	2			Colorado	0	04/24/2020
-2552	Unassigned	131	US	2			Colorado	0	04/25/2020
-2560	Unassigned	172	US	2			Colorado	0	04/26/2020
-2567	Unassigned	176	US	2			Colorado	0	04/27/2020
-2576	Unassigned	165	US	1			Colorado	0	04/28/2020
-2581	Unassigned	145	US	1			Colorado	0	04/29/2020
-2587	Unassigned	158	US	1			Colorado	0	04/30/2020
-2598	Unassigned	201	US	2			Colorado	0	05/01/2020
-2601	Unassigned	226	US	2			Colorado	0	05/02/2020
-2606	Unassigned	242	US	2			Colorado	0	05/03/2020
-2609	Unassigned	242	US	2			Colorado	0	05/04/2020
-2617	Unassigned	189	US	3			Colorado	0	05/05/2020
-2623	Unassigned	164	US	3			Colorado	0	05/06/2020
-2630	Unassigned	153	US	3			Colorado	0	05/07/2020
-2637	Unassigned	140	US	3			Colorado	0	05/08/2020
-2639	Unassigned	179	US	3			Colorado	0	05/09/2020
-2641	Unassigned	222	US	3			Colorado	0	05/10/2020
-2641	Unassigned	153	US	3			Colorado	0	05/11/2020
-2644	Unassigned	101	US	3			Colorado	0	05/12/2020
-2645	Unassigned	85	US	3			Colorado	0	05/13/2020
-2647	Unassigned	71	US	1			Colorado	0	05/14/2020
-2652	Unassigned	61	US	1			Colorado	0	05/15/2020
-2656	Unassigned	77	US	1			Colorado	0	05/16/2020
-2659	Unassigned	83	US	1			Colorado	0	05/17/2020
-2661	Unassigned	78	US	1			Colorado	0	05/18/2020
-2665	Unassigned	65	US	1			Colorado	0	05/19/2020
-2671	Unassigned	67	US	1			Colorado	0	05/20/2020
-2673	Unassigned	91	US	1			Colorado	0	05/21/2020
-2680	Unassigned	94	US	1			Colorado	0	05/22/2020
-2682	Unassigned	126	US	0			Colorado	0	05/23/2020
-2685	Unassigned	125	US	0			Colorado	0	05/24/2020
-2686	Unassigned	13	US	0			Colorado	0	05/25/2020
-2687	Unassigned	13	US	0			Colorado	0	05/26/2020
-2690	Unassigned	13	US	0			Colorado	0	05/27/2020
-2693	Unassigned	14	US	0			Colorado	0	05/28/2020
-2696	Unassigned	14	US	0			Colorado	0	05/29/2020
-2698	Unassigned	14	US	0			Colorado	0	05/30/2020
-2699	Unassigned	14	US	0			Colorado	0	05/31/2020
-2701	Unassigned	14	US	0			Colorado	0	06/01/2020
-2706	Unassigned	14	US	0			Colorado	0	06/02/2020
-2708	Unassigned	14	US	0			Colorado	0	06/03/2020
-2709	Unassigned	14	US	0			Colorado	0	06/04/2020
-2713	Unassigned	14	US	0			Colorado	0	06/05/2020
-2715	Unassigned	14	US	0			Colorado	0	06/06/2020
-2715	Unassigned	14	US	0			Colorado	0	06/07/2020
-2715	Unassigned	14	US	0			Colorado	0	06/08/2020
-2717	Unassigned	14	US	0			Colorado	0	06/09/2020
-2719	Unassigned	15	US	0			Colorado	0	06/10/2020
-2721	Unassigned	15	US	0			Colorado	0	06/11/2020
-2735	Unassigned	15	US	0			Colorado	0	06/12/2020
-2738	Unassigned	15	US	0			Colorado	0	06/13/2020
-2738	Unassigned	15	US	0			Colorado	0	06/14/2020
-2742	Unassigned	15	US	0			Colorado	0	06/15/2020
-2740	Unassigned	15	US	0			Colorado	0	06/16/2020
-2742	Unassigned	15	US	0			Colorado	0	06/17/2020
-2742	Unassigned	15	US	0			Colorado	0	06/18/2020
-2743	Unassigned	15	US	0			Colorado	0	06/19/2020
-2747	Unassigned	15	US	0			Colorado	0	06/20/2020
-2747	Unassigned	15	US	0			Colorado	0	06/21/2020
-2750	Unassigned	16	US	0			Colorado	0	06/22/2020
-2755	Unassigned	16	US	0			Colorado	0	06/23/2020
-2767	Unassigned	16	US	0			Colorado	0	06/24/2020
-2772	Unassigned	16	US	0			Colorado	0	06/25/2020
-2773	Unassigned	16	US	0			Colorado	0	06/26/2020
-2774	Unassigned	16	US	0			Colorado	0	06/27/2020
-2774	Unassigned	17	US	0			Colorado	0	06/28/2020
-2776	Unassigned	17	US	0			Colorado	0	06/29/2020
-2778	Unassigned	17	US	0			Colorado	0	06/30/2020
-2780	Unassigned	17	US	0			Colorado	0	07/01/2020
-2783	Unassigned	17	US	0			Colorado	0	07/02/2020
-2788	Unassigned	17	US	0			Colorado	0	07/03/2020
-2789	Unassigned	17	US	0			Colorado	0	07/04/2020
-2790	Unassigned	17	US	0			Colorado	0	07/05/2020
-2793	Unassigned	17	US	0			Colorado	0	07/06/2020
-2794	Unassigned	17	US	0			Colorado	0	07/07/2020
-2797	Unassigned	17	US	0			Colorado	0	07/08/2020
-2796	Unassigned	18	US	0			Colorado	0	07/09/2020
-2800	Unassigned	18	US	0			Colorado	0	07/10/2020
-2801	Unassigned	18	US	0			Colorado	0	07/11/2020
-2803	Unassigned	18	US	0			Colorado	0	07/12/2020
-2804	Unassigned	18	US	0			Colorado	0	07/13/2020
-2810	Unassigned	18	US	0			Colorado	0	07/14/2020
-2811	Unassigned	18	US	0			Colorado	0	07/15/2020
-2813	Unassigned	18	US	0			Colorado	0	07/16/2020
-2813	Unassigned	18	US	0			Colorado	0	07/17/2020
-2886	Unassigned	18	US	0			Colorado	0	07/18/2020
-2886	Unassigned	18	US	0			Colorado	0	07/19/2020
-2810	Unassigned	18	US	0			Colorado	0	07/20/2020
-2890	Unassigned	18	US	0			Colorado	0	07/21/2020
-2891	Unassigned	18	US	0			Colorado	0	07/22/2020
-2894	Unassigned	18	US	0			Colorado	0	07/23/2020
-2893	Unassigned	18	US	0			Colorado	0	07/24/2020
-2894	Unassigned	18	US	0			Colorado	0	07/25/2020
-2895	Unassigned	18	US	0			Colorado	0	07/26/2020
-2895	Unassigned	18	US	0			Colorado	0	07/27/2020
-2895	Unassigned	18	US	0			Colorado	0	07/28/2020
-2899	Unassigned	18	US	0			Colorado	0	07/29/2020
-2899	Unassigned	18	US	0			Colorado	0	07/30/2020
-2901	Unassigned	18	US	0			Colorado	0	07/31/2020
-2901	Unassigned	18	US	0			Colorado	0	08/01/2020
-2901	Unassigned	18	US	0			Colorado	0	08/02/2020
-2901	Unassigned	18	US	0			Colorado	0	08/03/2020
-2902	Unassigned	18	US	0			Colorado	0	08/04/2020
-2906	Unassigned	18	US	0			Colorado	0	08/05/2020
-2906	Unassigned	18	US	0			Colorado	0	08/06/2020
-2906	Unassigned	18	US	0			Colorado	0	08/07/2020
-2906	Unassigned	18	US	0			Colorado	0	08/08/2020
-2906	Unassigned	18	US	0			Colorado	0	08/09/2020
-2906	Unassigned	18	US	0			Colorado	0	08/10/2020
-987	Unassigned	19	US	0			Colorado	0	08/11/2020
-941	Unassigned	19	US	0			Colorado	0	08/12/2020
-941	Unassigned	19	US	0			Colorado	0	08/13/2020
-941	Unassigned	19	US	0			Colorado	0	08/14/2020
-941	Unassigned	19	US	0			Colorado	0	08/15/2020
-941	Unassigned	19	US	0			Colorado	0	08/16/2020
-941	Unassigned	19	US	0			Colorado	0	08/17/2020
-941	Unassigned	19	US	0			Colorado	0	08/18/2020
-941	Unassigned	19	US	0			Colorado	0	08/19/2020
-941	Unassigned	19	US	0			Colorado	0	08/20/2020
-941	Unassigned	19	US	0			Colorado	0	08/21/2020
-942	Unassigned	19	US	0			Colorado	0	08/22/2020
-942	Unassigned	20	US	0			Colorado	0	08/23/2020
-942	Unassigned	20	US	0			Colorado	0	08/24/2020
-942	Unassigned	20	US	0			Colorado	0	08/25/2020
-942	Unassigned	20	US	0			Colorado	0	08/26/2020
-942	Unassigned	20	US	0			Colorado	0	08/27/2020
-942	Unassigned	20	US	0			Colorado	0	08/28/2020
-942	Unassigned	20	US	0			Colorado	0	08/29/2020
-942	Unassigned	20	US	0			Colorado	0	08/30/2020
-942	Unassigned	20	US	0			Colorado	0	08/31/2020
-942	Unassigned	20	US	0			Colorado	0	09/01/2020
-942	Unassigned	20	US	0			Colorado	0	09/02/2020
-942	Unassigned	20	US	0			Colorado	0	09/03/2020
-942	Unassigned	20	US	0			Colorado	0	09/04/2020
-942	Unassigned	20	US	0			Colorado	0	09/05/2020
-942	Unassigned	20	US	0			Colorado	0	09/06/2020
-942	Unassigned	20	US	0			Colorado	0	09/07/2020
-942	Unassigned	20	US	0			Colorado	0	09/08/2020
-942	Unassigned	20	US	0			Colorado	0	09/09/2020
-942	Unassigned	20	US	0			Colorado	0	09/10/2020
-942	Unassigned	20	US	0			Colorado	0	09/11/2020
-942	Unassigned	20	US	0			Colorado	0	09/12/2020
-942	Unassigned	20	US	0			Colorado	0	09/13/2020
-942	Unassigned	20	US	0			Colorado	0	09/14/2020
-942	Unassigned	20	US	0			Colorado	0	09/15/2020
-942	Unassigned	20	US	0			Colorado	0	09/16/2020
-942	Unassigned	20	US	0			Colorado	0	09/17/2020
-942	Unassigned	20	US	0			Colorado	0	09/18/2020
-942	Unassigned	20	US	0			Colorado	0	09/19/2020
-942	Unassigned	20	US	0			Colorado	0	09/20/2020
-943	Unassigned	20	US	0			Colorado	0	09/21/2020
-943	Unassigned	20	US	0			Colorado	0	09/22/2020
-943	Unassigned	20	US	0			Colorado	0	09/23/2020
-943	Unassigned	21	US	0			Colorado	0	09/24/2020
-943	Unassigned	21	US	0			Colorado	0	09/25/2020
-943	Unassigned	21	US	0			Colorado	0	09/26/2020
-943	Unassigned	21	US	0			Colorado	0	09/27/2020
-943	Unassigned	21	US	0			Colorado	0	09/28/2020
-943	Unassigned	21	US	0			Colorado	0	09/29/2020
-943	Unassigned	21	US	0			Colorado	0	09/30/2020
-943	Unassigned	21	US	0			Colorado	0	10/01/2020
-943	Unassigned	22	US	0			Colorado	0	10/02/2020
-943	Unassigned	22	US	0			Colorado	0	10/03/2020
-943	Unassigned	22	US	0			Colorado	0	10/04/2020
-943	Unassigned	22	US	0			Colorado	0	10/05/2020
-943	Unassigned	22	US	0			Colorado	0	10/06/2020
-943	Unassigned	23	US	0			Colorado	0	10/07/2020
-943	Unassigned	24	US	0			Colorado	0	10/08/2020
-943	Unassigned	24	US	0			Colorado	0	10/09/2020
-943	Unassigned	24	US	0			Colorado	0	10/10/2020
-943	Unassigned	24	US	0			Colorado	0	10/11/2020
-944	Unassigned	24	US	0			Colorado	0	10/12/2020
-944	Unassigned	24	US	0			Colorado	0	10/13/2020
-944	Unassigned	24	US	0			Colorado	0	10/14/2020
-944	Unassigned	23	US	0			Colorado	0	10/15/2020
-945	Unassigned	23	US	0			Colorado	0	10/16/2020
-945	Unassigned	23	US	0			Colorado	0	10/17/2020
-945	Unassigned	23	US	0			Colorado	0	10/18/2020
-946	Unassigned	23	US	0			Colorado	0	10/19/2020
-946	Unassigned	23	US	0			Colorado	0	10/20/2020
-946	Unassigned	23	US	0			Colorado	0	10/21/2020
-946	Unassigned	23	US	0			Colorado	0	10/22/2020
-946	Unassigned	23	US	0			Colorado	0	10/23/2020
-946	Unassigned	23	US	0			Colorado	0	10/24/2020
-946	Unassigned	23	US	0			Colorado	0	10/25/2020
-946	Unassigned	23	US	0			Colorado	0	10/26/2020
-946	Unassigned	23	US	0			Colorado	0	10/27/2020
-947	Unassigned	23	US	0.0			Colorado	0	10/28/2020
-947	Unassigned	23	US	0			Colorado	0	10/29/2020
-947	Unassigned	23	US	0			Colorado	0	10/30/2020
-947	Unassigned	23	US	0			Colorado	0	10/31/2020
-947	Unassigned	23	US	0			Colorado	0	11/01/2020
-947	Unassigned	23	US	0			Colorado	0	11/02/2020
-948	Unassigned	23	US	0			Colorado	0	11/03/2020
-948	Unassigned	23	US	0			Colorado	0	11/04/2020
-948	Unassigned	23	US	0			Colorado	0	11/05/2020
-948	Unassigned	23	US	0			Colorado	0	11/06/2020
-948	Unassigned	23	US	0			Colorado	0	11/07/2020
-948	Unassigned	23	US	0			Colorado	0	11/08/2020
-948	Unassigned	23	US	0			Colorado	0.0	11/09/2020
-948	Unassigned	23	US	0			Colorado	0.0	11/10/2020
-948	Unassigned	23	US	0			Colorado	0.0	11/11/2020
-960	Unassigned	23	US	0			Colorado	0	11/12/2020
-960	Unassigned	23	US	0			Colorado	0	11/13/2020
-960	Unassigned	23	US	0			Colorado	0	11/14/2020
-960	Unassigned	23	US	0			Colorado	0	11/15/2020
-960	Unassigned	23	US	0			Colorado	0	11/16/2020
-960	Unassigned	23	US	0			Colorado	0	11/17/2020
-960	Unassigned	23	US	0			Colorado	0	11/18/2020
-960	Unassigned	25	US	0			Colorado	0	11/19/2020
-960	Unassigned	26	US	0			Colorado	0	11/20/2020
-960	Unassigned	26	US	0			Colorado	0	11/21/2020
-960	Unassigned	27	US	0			Colorado	0	11/22/2020
-960	Unassigned	27	US	0			Colorado	0	11/23/2020
-961	Unassigned	27	US	0			Colorado	0	11/24/2020
-961	Unassigned	27	US	0			Colorado	0	11/25/2020
-961	Unassigned	27	US	0			Colorado	0	11/26/2020
-961	Unassigned	27	US	0			Colorado	0	11/27/2020
-961	Unassigned	27	US	0			Colorado	0	11/28/2020
-961	Unassigned	27	US	0			Colorado	0	11/29/2020
-961	Unassigned	27	US	0			Colorado	0	11/30/2020
-961	Unassigned	25	US	0			Colorado	0	12/01/2020
-961	Unassigned	25	US	0			Colorado	0	12/02/2020
-961	Unassigned	25	US	0			Colorado	0	12/03/2020
-961	Unassigned	25	US	0			Colorado	0	12/04/2020
-961	Unassigned	25	US	0			Colorado	0	12/05/2020
-961	Unassigned	25	US	0			Colorado	0	12/06/2020
-961	Unassigned	25	US	0			Colorado	0	12/07/2020
-961	Unassigned	25	US	0			Colorado	0	12/08/2020
-961	Unassigned	25	US	0			Colorado	0	12/09/2020
-961	Unassigned	25	US	0			Colorado	0	12/10/2020
-961	Unassigned	26	US	0			Colorado	0	12/11/2020
-961	Unassigned	25	US	0			Colorado	0	12/12/2020
-961	Unassigned	25	US	0			Colorado	0	12/13/2020
-961	Unassigned	25	US	0			Colorado	0	12/14/2020
-961	Unassigned	25	US	0			Colorado	0	12/15/2020
-961	Unassigned	25	US	0			Colorado	0	12/16/2020
-961	Unassigned	25	US	0			Colorado	0	12/17/2020
-961	Unassigned	25	US	0			Colorado	0	12/18/2020
-961	Unassigned	25	US	0			Colorado	0	12/19/2020
-961	Unassigned	25	US	0			Colorado	0	12/20/2020
-961	Unassigned	25	US	0			Colorado	0	12/21/2020
-961	Unassigned	25	US	0			Colorado	0	12/22/2020
-961	Unassigned	25	US	0			Colorado	0	12/23/2020
-961	Unassigned	25	US	0			Colorado	0	12/24/2020
-961	Unassigned	25	US	0			Colorado	0	12/25/2020
-961	Unassigned	25	US	0			Colorado	0	12/26/2020
-961	Unassigned	25	US	0			Colorado	0	12/27/2020
-961	Unassigned	25	US	0			Colorado	0	12/28/2020
-961	Unassigned	25	US	0			Colorado	0	12/29/2020
-961	Unassigned	26	US	0			Colorado	0	12/30/2020
-961	Unassigned	27	US	0			Colorado	0	12/31/2020
-961	Unassigned	27	US	0			Colorado	0	01/01/2021
-961	Unassigned	27	US	0			Colorado	0	01/02/2021
-962	Unassigned	27	US	0			Colorado	0	01/03/2021
-962	Unassigned	27	US	0			Colorado	0	01/04/2021
-962	Unassigned	27	US	0			Colorado	0	01/05/2021
-962	Unassigned	27	US	0			Colorado	0	01/06/2021
-962	Unassigned	27	US	0			Colorado	0	01/07/2021
-962	Unassigned	27	US	0			Colorado	0	01/08/2021
-962	Unassigned	27	US	0			Colorado	0	01/09/2021
-962	Unassigned	27	US	0			Colorado	0	01/10/2021
-962	Unassigned	27	US	0			Colorado	0	01/11/2021
-962	Unassigned	29	US	0			Colorado	0	01/12/2021
-962	Unassigned	30	US	0			Colorado	0	01/13/2021
-962	Unassigned	30	US	0			Colorado	0	01/14/2021
-962	Unassigned	30	US	0			Colorado	0	01/15/2021
-962	Unassigned	31	US	0			Colorado	0	01/16/2021
-962	Unassigned	32	US	0			Colorado	0	01/17/2021
-962	Unassigned	32	US	0			Colorado	0	01/18/2021
-962	Unassigned	33	US	0			Colorado	0	01/19/2021
-962	Unassigned	34	US	0			Colorado	0	01/20/2021
-963	Unassigned	35	US	0			Colorado	0	01/21/2021
-963	Unassigned	35	US	0			Colorado	0	01/22/2021
-963	Unassigned	35	US	0			Colorado	0	01/23/2021
-963	Unassigned	35	US	0			Colorado	0	01/24/2021
-963	Unassigned	70	US	0			Colorado	0	01/25/2021
-963	Unassigned	38	US	0			Colorado	0	01/26/2021
-963	Unassigned	76	US	0			Colorado	0	01/27/2021
-963	Unassigned	76	US	0			Colorado	0	01/28/2021
-963	Unassigned	76	US	0			Colorado	0	01/29/2021
-963	Unassigned	38	US	0			Colorado	0	01/30/2021
-963	Unassigned	38	US	0			Colorado	0	01/31/2021
-963	Unassigned	76	US	0			Colorado	0	02/01/2021
-963	Unassigned	78	US	0			Colorado	0	02/02/2021
-963	Unassigned	40	US	0			Colorado	0	02/03/2021
-963	Unassigned	40	US	0			Colorado	0	02/04/2021
-963	Unassigned	80	US	0			Colorado	0	02/05/2021
-963	Unassigned	41	US	0			Colorado	0	02/06/2021
-963	Unassigned	82	US	0			Colorado	0	02/07/2021
-963	Unassigned	41	US	0			Colorado	0	02/08/2021
-963	Unassigned	42	US	0			Colorado	0	02/09/2021
-963	Unassigned	43	US	0			Colorado	0	02/10/2021
-963	Unassigned	46	US	0			Colorado	0	02/11/2021
-963	Unassigned	48	US	0			Colorado	0	02/12/2021
-963	Unassigned	48	US	0			Colorado	0	02/13/2021
-963	Unassigned	48	US	0			Colorado	0	02/14/2021
-963	Unassigned	48	US	0			Colorado	0	02/15/2021
-963	Unassigned	48	US	0			Colorado	0	02/16/2021
-963	Unassigned	48	US	0			Colorado	0	02/17/2021
-963	Unassigned	48	US	0			Colorado	0	02/18/2021
-964	Unassigned	47	US	0			Colorado	0	02/19/2021
-964	Unassigned	47	US	0			Colorado	0	02/20/2021
-964	Unassigned	47	US	0			Colorado	0	02/21/2021
-964	Unassigned	47	US	0			Colorado	0	02/22/2021
-964	Unassigned	47	US	0			Colorado	0	02/23/2021
-964	Unassigned	49	US	0			Colorado	0	02/24/2021
-964	Unassigned	49	US	0			Colorado	0	02/25/2021
-964	Unassigned	49	US	0			Colorado	0	02/26/2021
-964	Unassigned	49	US	0			Colorado	0	02/27/2021
-964	Unassigned	49	US	0			Colorado	0	02/28/2021
-964	Unassigned	49	US	0			Colorado	0	03/01/2021
-964	Unassigned	49	US	0			Colorado	0	03/02/2021
-964	Unassigned	49	US	0			Colorado	0	03/03/2021
-964	Unassigned	50	US	0			Colorado	0	03/04/2021
-964	Unassigned	51	US	0			Colorado	0	03/05/2021
-964	Unassigned	51	US	0			Colorado	0	03/06/2021
-964	Unassigned	51	US	0			Colorado		03/07/2021
-964	Unassigned	51	US	0			Colorado		03/08/2021
-964	Unassigned	51	US	0			Colorado		03/09/2021
-964	Unassigned	51	US	0			Colorado		03/10/2021
-964	Unassigned	53	US	0			Colorado		03/11/2021
-964	Unassigned	53	US	0			Colorado		03/12/2021
-964	Unassigned	53	US	0			Colorado		03/13/2021
-964	Unassigned	53	US	0			Colorado		03/14/2021
-964	Unassigned	53	US	0			Colorado		03/15/2021
-964	Unassigned	53	US	0			Colorado		03/16/2021
-964	Unassigned	53	US	0			Colorado		03/17/2021
-964	Unassigned	55	US	0			Colorado		03/18/2021
-964	Unassigned	55	US	0			Colorado		03/19/2021
-964	Unassigned	55	US	0			Colorado		03/20/2021
-964	Unassigned	55	US	0			Colorado		03/21/2021
-964	Unassigned	55	US	0			Colorado		03/22/2021
-964	Unassigned	55	US	0			Colorado		03/23/2021
-964	Unassigned	55	US	0			Colorado		03/24/2021
-964	Unassigned	57	US	0			Colorado		03/25/2021
-964	Unassigned	57	US	0			Colorado		03/26/2021
-964	Unassigned	57	US	0			Colorado		03/27/2021
-964	Unassigned	57	US	0			Colorado		03/28/2021
-964	Unassigned	57	US	0			Colorado		03/29/2021
-964	Unassigned	57	US	0			Colorado		03/30/2021
-964	Unassigned	57	US	0			Colorado		03/31/2021
-964	Unassigned	57	US	0			Colorado		04/01/2021
-966	Unassigned	57	US	0			Colorado		04/02/2021
-966	Unassigned	59	US	0			Colorado		04/03/2021
-966	Unassigned	59	US	0			Colorado		04/04/2021
-966	Unassigned	59	US	0			Colorado		04/05/2021
-966	Unassigned	59	US	0			Colorado		04/06/2021
-966	Unassigned	59	US	0			Colorado		04/07/2021
-966	Unassigned	59	US	0			Colorado		04/08/2021
-966	Unassigned	59	US	0			Colorado		04/09/2021
-966	Unassigned	59	US	0			Colorado		04/10/2021
-966	Unassigned	59	US	0			Colorado		04/11/2021
-966	Unassigned	59	US	0			Colorado		04/12/2021
-966	Unassigned	60	US	0			Colorado		04/13/2021
-966	Unassigned	60	US	0			Colorado		04/14/2021
-966	Unassigned	62	US	0			Colorado		04/15/2021
-966	Unassigned	63	US	0			Colorado		04/16/2021
-966	Unassigned	64	US	0			Colorado		04/17/2021
-966	Unassigned	64	US	0			Colorado		04/18/2021
-966	Unassigned	64	US	0			Colorado		04/19/2021
-966	Unassigned	64	US	0			Colorado		04/20/2021
-966	Unassigned	64	US	0			Colorado		04/21/2021
-966	Unassigned	64	US	0			Colorado		04/22/2021
-966	Unassigned	65	US	0			Colorado		04/23/2021
-966	Unassigned	65	US	0			Colorado		04/24/2021
-966	Unassigned	65	US	0			Colorado		04/25/2021
-966	Unassigned	65	US	0			Colorado		04/26/2021
-966	Unassigned	67	US	0			Colorado		04/27/2021
-966	Unassigned	66	US	0			Colorado		04/28/2021
-966	Unassigned	66	US	0			Colorado		04/29/2021
-966	Unassigned	66	US	0			Colorado		04/30/2021
-966	Unassigned	66	US	0			Colorado		05/01/2021
-966	Unassigned	66	US	0			Colorado		05/02/2021
-966	Unassigned	66	US	0			Colorado		05/03/2021
-966	Unassigned	67	US	1			Colorado		05/04/2021
-966	Unassigned	66	US	0			Colorado		05/05/2021
-966	Unassigned	66	US	0			Colorado		05/06/2021
-966	Unassigned	66	US	0			Colorado		05/07/2021
-966	Unassigned	66	US	0			Colorado		05/08/2021
-966	Unassigned	66	US	0			Colorado		05/09/2021
-966	Unassigned	66	US	0			Colorado		05/10/2021
-966	Unassigned	67	US	0			Colorado		05/11/2021
-966	Unassigned	68	US	0			Colorado		05/12/2021
-966	Unassigned	68	US	0			Colorado		05/13/2021
-966	Unassigned	68	US	0			Colorado		05/14/2021
-966	Unassigned	67	US	0			Colorado		05/15/2021
-966	Unassigned	68	US	0			Colorado		05/16/2021
-966	Unassigned	67	US	0			Colorado		05/17/2021
-966	Unassigned	67	US	0			Colorado		05/18/2021
-966	Unassigned	68	US	0			Colorado		05/19/2021
-966	Unassigned	67	US	0			Colorado		05/20/2021
-966	Unassigned	68	US	0			Colorado		05/21/2021
-966	Unassigned	68	US	0			Colorado		05/22/2021
-966	Unassigned	68	US	0			Colorado		05/23/2021
-966	Unassigned	67	US	0			Colorado		05/24/2021
-966	Unassigned	68	US	0			Colorado		05/25/2021
-966	Unassigned	69	US	0			Colorado		05/26/2021
-967	Unassigned	69	US	0			Colorado		05/27/2021
-967	Unassigned	71	US	0			Colorado		05/28/2021
-967	Unassigned	71	US	0			Colorado		05/29/2021
-967	Unassigned	72	US	0			Colorado		05/30/2021
-967	Unassigned	72	US	0			Colorado		05/31/2021
-967	Unassigned	72	US	0			Colorado		06/01/2021
-967	Unassigned	72	US	0			Colorado		06/02/2021
-967	Unassigned	73	US	0			Colorado		06/03/2021
-967	Unassigned	72	US	0			Colorado		06/04/2021
-967	Unassigned	74	US	0			Colorado		06/05/2021
-967	Unassigned	74	US	0			Colorado		06/06/2021
-967	Unassigned	74	US	0			Colorado		06/07/2021
-967	Unassigned	73	US	0			Colorado		06/08/2021
-967	Unassigned	73	US	0			Colorado		06/09/2021
-967	Unassigned	73	US	0			Colorado		06/10/2021
-967	Unassigned	73	US	0			Colorado		06/11/2021
-967	Unassigned	74	US	0			Colorado		06/12/2021
-967	Unassigned	73	US	0			Colorado		06/13/2021
-967	Unassigned	73	US	0			Colorado		06/14/2021
-967	Unassigned	73	US	0			Colorado		06/15/2021
-967	Unassigned	75	US	0			Colorado		06/16/2021
-969	Unassigned	74	US	0			Colorado		06/17/2021
-969	Unassigned	75	US	0			Colorado		06/18/2021
-969	Unassigned	74	US	0			Colorado		06/19/2021
-969	Unassigned	75	US	0			Colorado		06/20/2021
-969	Unassigned	73	US	0			Colorado		06/21/2021
-969	Unassigned	75	US	0			Colorado		06/22/2021
-969	Unassigned	76	US	0			Colorado		06/23/2021
-970	Unassigned	76	US	0			Colorado		06/24/2021
-970	Unassigned	75	US	0			Colorado		06/25/2021
-970	Unassigned	75	US	0			Colorado		06/26/2021
-970	Unassigned	76	US	0			Colorado		06/27/2021
-970	Unassigned	76	US	0			Colorado		06/28/2021
-970	Unassigned	76	US	0			Colorado		06/29/2021
-970	Unassigned	75	US	0			Colorado		06/30/2021
-970	Unassigned	76	US	0			Colorado		07/01/2021
-970	Unassigned	76	US	0			Colorado		07/02/2021
-970	Unassigned	77	US	0			Colorado		07/03/2021
-970	Unassigned	77	US	0			Colorado		07/04/2021
-970	Unassigned	77	US	0			Colorado		07/05/2021
-970	Unassigned	76	US	0			Colorado		07/06/2021
-970	Unassigned	76	US	0			Colorado		07/07/2021
-970	Unassigned	76	US	0			Colorado		07/08/2021
-970	Unassigned	76	US	0			Colorado		07/09/2021
-970	Unassigned	77	US	0			Colorado		07/10/2021
-970	Unassigned	79	US	0			Colorado		07/11/2021
-970	Unassigned	79	US	0			Colorado		07/12/2021
-970	Unassigned	79	US	0			Colorado		07/13/2021
-970	Unassigned	79	US	0			Colorado		07/14/2021
-970	Unassigned	79	US	0			Colorado		07/15/2021
-970	Unassigned	80	US	0			Colorado		07/16/2021
-970	Unassigned	80	US	0			Colorado		07/17/2021
-970	Unassigned	80	US	0			Colorado		07/18/2021
-970	Unassigned	79	US	0			Colorado		07/19/2021
-970	Unassigned	80	US	0			Colorado		07/20/2021
-970	Unassigned	81	US	0			Colorado		07/21/2021
-970	Unassigned	81	US	0			Colorado		07/22/2021
-970	Unassigned	81	US	0			Colorado		07/23/2021
-970	Unassigned	81	US	0			Colorado		07/24/2021
-970	Unassigned	81	US	0			Colorado		07/25/2021
-970	Unassigned	81	US	0			Colorado		07/26/2021
-970	Unassigned	82	US	0			Colorado		07/27/2021
-970	Unassigned	82	US	0			Colorado		07/28/2021
-970	Unassigned	82	US	0			Colorado		07/29/2021
-970	Unassigned	82	US	0			Colorado		07/30/2021
-970	Unassigned	82	US	0			Colorado		07/31/2021
-970	Unassigned	82	US	0			Colorado		08/01/2021
-970	Unassigned	82	US	0			Colorado		08/02/2021
-970	Unassigned	82	US	0			Colorado		08/03/2021
-970	Unassigned	82	US	0			Colorado		08/04/2021
-970	Unassigned	83	US	0			Colorado		08/05/2021
-970	Unassigned	83	US	0			Colorado		08/06/2021
-970	Unassigned	83	US	0			Colorado		08/07/2021
-970	Unassigned	83	US	0			Colorado		08/08/2021
-970	Unassigned	84	US	0			Colorado		08/09/2021
-970	Unassigned	86	US	0			Colorado		08/10/2021
-970	Unassigned	86	US	0			Colorado		08/11/2021
-970	Unassigned	86	US	0			Colorado		08/12/2021
-970	Unassigned	86	US	0			Colorado		08/13/2021
-970	Unassigned	86	US	0			Colorado		08/14/2021
-970	Unassigned	86	US	0			Colorado		08/15/2021
-970	Unassigned	85	US	0			Colorado		08/16/2021
-970	Unassigned	86	US	0			Colorado		08/17/2021
-970	Unassigned	86	US	0			Colorado		08/18/2021
-970	Unassigned	86	US	0			Colorado		08/19/2021
-970	Unassigned	87	US	0			Colorado		08/20/2021
-970	Unassigned	87	US	0			Colorado		08/21/2021
-970	Unassigned	87	US	0			Colorado		08/22/2021
-970	Unassigned	87	US	0			Colorado		08/23/2021
-970	Unassigned	87	US	0			Colorado		08/24/2021
-970	Unassigned	87	US	0			Colorado		08/25/2021
-970	Unassigned	88	US	0			Colorado		08/26/2021
-970	Unassigned	88	US	0			Colorado		08/27/2021
-970	Unassigned	88	US	0			Colorado		08/28/2021
-970	Unassigned	88	US	0			Colorado		08/29/2021
-970	Unassigned	89	US	0			Colorado		08/30/2021
-970	Unassigned	89	US	0			Colorado		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+445	Colorado	US	03/22/2020	0.0	0.0	1	0	0	Unassigned
+2857	Colorado	US	03/23/2020	0.0	0.0	1	0	0	Unassigned
+2858	Colorado	US	03/24/2020	0.0	0.0	5	0	0	Unassigned
+2859	Colorado	US	03/25/2020	0.0	0.0	18	0	0	Unassigned
+2858	Colorado	US	03/26/2020	0.0	0.0	102	0	0	Unassigned
+2859	Colorado	US	03/27/2020	0.0	0.0	102	8	0	Unassigned
+2858	Colorado	US	03/28/2020	0.0	0.0	136	1	0	Unassigned
+2859	Colorado	US	03/29/2020	0.0	0.0	186	1	0	Unassigned
+2859	Colorado	US	03/30/2020	0.0	0.0	186	1	0	Unassigned
+1931	Colorado	US	03/31/2020	0.0	0.0	129	1	0	Unassigned
+1977	Colorado	US	04/01/2020	0.0	0.0	129	1	0	Unassigned
+2047	Colorado	US	04/02/2020			128	4	0	Unassigned
+2094	Colorado	US	04/03/2020			144	0	0	Unassigned
+2146	Colorado	US	04/04/2020			158	0	0	Unassigned
+2219	Colorado	US	04/05/2020			251	0	0	Unassigned
+2256	Colorado	US	04/06/2020			276	0	0	Unassigned
+2303	Colorado	US	04/07/2020			252	29	0	Unassigned
+2326	Colorado	US	04/08/2020			238	1	0	Unassigned
+2352	Colorado	US	04/09/2020			238	1	0	Unassigned
+2376	Colorado	US	04/10/2020			235	34	0	Unassigned
+2402	Colorado	US	04/11/2020			145	1	0	Unassigned
+2424	Colorado	US	04/12/2020			156	0	0	Unassigned
+2438	Colorado	US	04/13/2020			145	0	0	Unassigned
+2448	Colorado	US	04/14/2020			119	0	0	Unassigned
+2460	Colorado	US	04/15/2020			119	0	0	Unassigned
+2474	Colorado	US	04/16/2020			111	1	0	Unassigned
+2476	Colorado	US	04/17/2020			96	1	0	Unassigned
+2483	Colorado	US	04/18/2020			67	1	0	Unassigned
+2500	Colorado	US	04/19/2020			114	1	0	Unassigned
+2508	Colorado	US	04/20/2020			114	1	0	Unassigned
+2517	Colorado	US	04/21/2020			126	1	0	Unassigned
+2524	Colorado	US	04/22/2020			95	1	0	Unassigned
+2541	Colorado	US	04/23/2020			108	1	0	Unassigned
+2547	Colorado	US	04/24/2020			103	2	0	Unassigned
+2552	Colorado	US	04/25/2020			131	2	0	Unassigned
+2560	Colorado	US	04/26/2020			172	2	0	Unassigned
+2567	Colorado	US	04/27/2020			176	2	0	Unassigned
+2576	Colorado	US	04/28/2020			165	1	0	Unassigned
+2581	Colorado	US	04/29/2020			145	1	0	Unassigned
+2587	Colorado	US	04/30/2020			158	1	0	Unassigned
+2598	Colorado	US	05/01/2020			201	2	0	Unassigned
+2601	Colorado	US	05/02/2020			226	2	0	Unassigned
+2606	Colorado	US	05/03/2020			242	2	0	Unassigned
+2609	Colorado	US	05/04/2020			242	2	0	Unassigned
+2617	Colorado	US	05/05/2020			189	3	0	Unassigned
+2623	Colorado	US	05/06/2020			164	3	0	Unassigned
+2630	Colorado	US	05/07/2020			153	3	0	Unassigned
+2637	Colorado	US	05/08/2020			140	3	0	Unassigned
+2639	Colorado	US	05/09/2020			179	3	0	Unassigned
+2641	Colorado	US	05/10/2020			222	3	0	Unassigned
+2641	Colorado	US	05/11/2020			153	3	0	Unassigned
+2644	Colorado	US	05/12/2020			101	3	0	Unassigned
+2645	Colorado	US	05/13/2020			85	3	0	Unassigned
+2647	Colorado	US	05/14/2020			71	1	0	Unassigned
+2652	Colorado	US	05/15/2020			61	1	0	Unassigned
+2656	Colorado	US	05/16/2020			77	1	0	Unassigned
+2659	Colorado	US	05/17/2020			83	1	0	Unassigned
+2661	Colorado	US	05/18/2020			78	1	0	Unassigned
+2665	Colorado	US	05/19/2020			65	1	0	Unassigned
+2671	Colorado	US	05/20/2020			67	1	0	Unassigned
+2673	Colorado	US	05/21/2020			91	1	0	Unassigned
+2680	Colorado	US	05/22/2020			94	1	0	Unassigned
+2682	Colorado	US	05/23/2020			126	0	0	Unassigned
+2685	Colorado	US	05/24/2020			125	0	0	Unassigned
+2686	Colorado	US	05/25/2020			13	0	0	Unassigned
+2687	Colorado	US	05/26/2020			13	0	0	Unassigned
+2690	Colorado	US	05/27/2020			13	0	0	Unassigned
+2693	Colorado	US	05/28/2020			14	0	0	Unassigned
+2696	Colorado	US	05/29/2020			14	0	0	Unassigned
+2698	Colorado	US	05/30/2020			14	0	0	Unassigned
+2699	Colorado	US	05/31/2020			14	0	0	Unassigned
+2701	Colorado	US	06/01/2020			14	0	0	Unassigned
+2706	Colorado	US	06/02/2020			14	0	0	Unassigned
+2708	Colorado	US	06/03/2020			14	0	0	Unassigned
+2709	Colorado	US	06/04/2020			14	0	0	Unassigned
+2713	Colorado	US	06/05/2020			14	0	0	Unassigned
+2715	Colorado	US	06/06/2020			14	0	0	Unassigned
+2715	Colorado	US	06/07/2020			14	0	0	Unassigned
+2715	Colorado	US	06/08/2020			14	0	0	Unassigned
+2717	Colorado	US	06/09/2020			14	0	0	Unassigned
+2719	Colorado	US	06/10/2020			15	0	0	Unassigned
+2721	Colorado	US	06/11/2020			15	0	0	Unassigned
+2735	Colorado	US	06/12/2020			15	0	0	Unassigned
+2738	Colorado	US	06/13/2020			15	0	0	Unassigned
+2738	Colorado	US	06/14/2020			15	0	0	Unassigned
+2742	Colorado	US	06/15/2020			15	0	0	Unassigned
+2740	Colorado	US	06/16/2020			15	0	0	Unassigned
+2742	Colorado	US	06/17/2020			15	0	0	Unassigned
+2742	Colorado	US	06/18/2020			15	0	0	Unassigned
+2743	Colorado	US	06/19/2020			15	0	0	Unassigned
+2747	Colorado	US	06/20/2020			15	0	0	Unassigned
+2747	Colorado	US	06/21/2020			15	0	0	Unassigned
+2750	Colorado	US	06/22/2020			16	0	0	Unassigned
+2755	Colorado	US	06/23/2020			16	0	0	Unassigned
+2767	Colorado	US	06/24/2020			16	0	0	Unassigned
+2772	Colorado	US	06/25/2020			16	0	0	Unassigned
+2773	Colorado	US	06/26/2020			16	0	0	Unassigned
+2774	Colorado	US	06/27/2020			16	0	0	Unassigned
+2774	Colorado	US	06/28/2020			17	0	0	Unassigned
+2776	Colorado	US	06/29/2020			17	0	0	Unassigned
+2778	Colorado	US	06/30/2020			17	0	0	Unassigned
+2780	Colorado	US	07/01/2020			17	0	0	Unassigned
+2783	Colorado	US	07/02/2020			17	0	0	Unassigned
+2788	Colorado	US	07/03/2020			17	0	0	Unassigned
+2789	Colorado	US	07/04/2020			17	0	0	Unassigned
+2790	Colorado	US	07/05/2020			17	0	0	Unassigned
+2793	Colorado	US	07/06/2020			17	0	0	Unassigned
+2794	Colorado	US	07/07/2020			17	0	0	Unassigned
+2797	Colorado	US	07/08/2020			17	0	0	Unassigned
+2796	Colorado	US	07/09/2020			18	0	0	Unassigned
+2800	Colorado	US	07/10/2020			18	0	0	Unassigned
+2801	Colorado	US	07/11/2020			18	0	0	Unassigned
+2803	Colorado	US	07/12/2020			18	0	0	Unassigned
+2804	Colorado	US	07/13/2020			18	0	0	Unassigned
+2810	Colorado	US	07/14/2020			18	0	0	Unassigned
+2811	Colorado	US	07/15/2020			18	0	0	Unassigned
+2813	Colorado	US	07/16/2020			18	0	0	Unassigned
+2813	Colorado	US	07/17/2020			18	0	0	Unassigned
+2886	Colorado	US	07/18/2020			18	0	0	Unassigned
+2886	Colorado	US	07/19/2020			18	0	0	Unassigned
+2810	Colorado	US	07/20/2020			18	0	0	Unassigned
+2890	Colorado	US	07/21/2020			18	0	0	Unassigned
+2891	Colorado	US	07/22/2020			18	0	0	Unassigned
+2894	Colorado	US	07/23/2020			18	0	0	Unassigned
+2893	Colorado	US	07/24/2020			18	0	0	Unassigned
+2894	Colorado	US	07/25/2020			18	0	0	Unassigned
+2895	Colorado	US	07/26/2020			18	0	0	Unassigned
+2895	Colorado	US	07/27/2020			18	0	0	Unassigned
+2895	Colorado	US	07/28/2020			18	0	0	Unassigned
+2899	Colorado	US	07/29/2020			18	0	0	Unassigned
+2899	Colorado	US	07/30/2020			18	0	0	Unassigned
+2901	Colorado	US	07/31/2020			18	0	0	Unassigned
+2901	Colorado	US	08/01/2020			18	0	0	Unassigned
+2901	Colorado	US	08/02/2020			18	0	0	Unassigned
+2901	Colorado	US	08/03/2020			18	0	0	Unassigned
+2902	Colorado	US	08/04/2020			18	0	0	Unassigned
+2906	Colorado	US	08/05/2020			18	0	0	Unassigned
+2906	Colorado	US	08/06/2020			18	0	0	Unassigned
+2906	Colorado	US	08/07/2020			18	0	0	Unassigned
+2906	Colorado	US	08/08/2020			18	0	0	Unassigned
+2906	Colorado	US	08/09/2020			18	0	0	Unassigned
+2906	Colorado	US	08/10/2020			18	0	0	Unassigned
+987	Colorado	US	08/11/2020			19	0	0	Unassigned
+941	Colorado	US	08/12/2020			19	0	0	Unassigned
+941	Colorado	US	08/13/2020			19	0	0	Unassigned
+941	Colorado	US	08/14/2020			19	0	0	Unassigned
+941	Colorado	US	08/15/2020			19	0	0	Unassigned
+941	Colorado	US	08/16/2020			19	0	0	Unassigned
+941	Colorado	US	08/17/2020			19	0	0	Unassigned
+941	Colorado	US	08/18/2020			19	0	0	Unassigned
+941	Colorado	US	08/19/2020			19	0	0	Unassigned
+941	Colorado	US	08/20/2020			19	0	0	Unassigned
+941	Colorado	US	08/21/2020			19	0	0	Unassigned
+942	Colorado	US	08/22/2020			19	0	0	Unassigned
+942	Colorado	US	08/23/2020			20	0	0	Unassigned
+942	Colorado	US	08/24/2020			20	0	0	Unassigned
+942	Colorado	US	08/25/2020			20	0	0	Unassigned
+942	Colorado	US	08/26/2020			20	0	0	Unassigned
+942	Colorado	US	08/27/2020			20	0	0	Unassigned
+942	Colorado	US	08/28/2020			20	0	0	Unassigned
+942	Colorado	US	08/29/2020			20	0	0	Unassigned
+942	Colorado	US	08/30/2020			20	0	0	Unassigned
+942	Colorado	US	08/31/2020			20	0	0	Unassigned
+942	Colorado	US	09/01/2020			20	0	0	Unassigned
+942	Colorado	US	09/02/2020			20	0	0	Unassigned
+942	Colorado	US	09/03/2020			20	0	0	Unassigned
+942	Colorado	US	09/04/2020			20	0	0	Unassigned
+942	Colorado	US	09/05/2020			20	0	0	Unassigned
+942	Colorado	US	09/06/2020			20	0	0	Unassigned
+942	Colorado	US	09/07/2020			20	0	0	Unassigned
+942	Colorado	US	09/08/2020			20	0	0	Unassigned
+942	Colorado	US	09/09/2020			20	0	0	Unassigned
+942	Colorado	US	09/10/2020			20	0	0	Unassigned
+942	Colorado	US	09/11/2020			20	0	0	Unassigned
+942	Colorado	US	09/12/2020			20	0	0	Unassigned
+942	Colorado	US	09/13/2020			20	0	0	Unassigned
+942	Colorado	US	09/14/2020			20	0	0	Unassigned
+942	Colorado	US	09/15/2020			20	0	0	Unassigned
+942	Colorado	US	09/16/2020			20	0	0	Unassigned
+942	Colorado	US	09/17/2020			20	0	0	Unassigned
+942	Colorado	US	09/18/2020			20	0	0	Unassigned
+942	Colorado	US	09/19/2020			20	0	0	Unassigned
+942	Colorado	US	09/20/2020			20	0	0	Unassigned
+943	Colorado	US	09/21/2020			20	0	0	Unassigned
+943	Colorado	US	09/22/2020			20	0	0	Unassigned
+943	Colorado	US	09/23/2020			20	0	0	Unassigned
+943	Colorado	US	09/24/2020			21	0	0	Unassigned
+943	Colorado	US	09/25/2020			21	0	0	Unassigned
+943	Colorado	US	09/26/2020			21	0	0	Unassigned
+943	Colorado	US	09/27/2020			21	0	0	Unassigned
+943	Colorado	US	09/28/2020			21	0	0	Unassigned
+943	Colorado	US	09/29/2020			21	0	0	Unassigned
+943	Colorado	US	09/30/2020			21	0	0	Unassigned
+943	Colorado	US	10/01/2020			21	0	0	Unassigned
+943	Colorado	US	10/02/2020			22	0	0	Unassigned
+943	Colorado	US	10/03/2020			22	0	0	Unassigned
+943	Colorado	US	10/04/2020			22	0	0	Unassigned
+943	Colorado	US	10/05/2020			22	0	0	Unassigned
+943	Colorado	US	10/06/2020			22	0	0	Unassigned
+943	Colorado	US	10/07/2020			23	0	0	Unassigned
+943	Colorado	US	10/08/2020			24	0	0	Unassigned
+943	Colorado	US	10/09/2020			24	0	0	Unassigned
+943	Colorado	US	10/10/2020			24	0	0	Unassigned
+943	Colorado	US	10/11/2020			24	0	0	Unassigned
+944	Colorado	US	10/12/2020			24	0	0	Unassigned
+944	Colorado	US	10/13/2020			24	0	0	Unassigned
+944	Colorado	US	10/14/2020			24	0	0	Unassigned
+944	Colorado	US	10/15/2020			23	0	0	Unassigned
+945	Colorado	US	10/16/2020			23	0	0	Unassigned
+945	Colorado	US	10/17/2020			23	0	0	Unassigned
+945	Colorado	US	10/18/2020			23	0	0	Unassigned
+946	Colorado	US	10/19/2020			23	0	0	Unassigned
+946	Colorado	US	10/20/2020			23	0	0	Unassigned
+946	Colorado	US	10/21/2020			23	0	0	Unassigned
+946	Colorado	US	10/22/2020			23	0	0	Unassigned
+946	Colorado	US	10/23/2020			23	0	0	Unassigned
+946	Colorado	US	10/24/2020			23	0	0	Unassigned
+946	Colorado	US	10/25/2020			23	0	0	Unassigned
+946	Colorado	US	10/26/2020			23	0	0	Unassigned
+946	Colorado	US	10/27/2020			23	0	0	Unassigned
+947	Colorado	US	10/28/2020			23	0.0	0	Unassigned
+947	Colorado	US	10/29/2020			23	0	0	Unassigned
+947	Colorado	US	10/30/2020			23	0	0	Unassigned
+947	Colorado	US	10/31/2020			23	0	0	Unassigned
+947	Colorado	US	11/01/2020			23	0	0	Unassigned
+947	Colorado	US	11/02/2020			23	0	0	Unassigned
+948	Colorado	US	11/03/2020			23	0	0	Unassigned
+948	Colorado	US	11/04/2020			23	0	0	Unassigned
+948	Colorado	US	11/05/2020			23	0	0	Unassigned
+948	Colorado	US	11/06/2020			23	0	0	Unassigned
+948	Colorado	US	11/07/2020			23	0	0	Unassigned
+948	Colorado	US	11/08/2020			23	0	0	Unassigned
+948	Colorado	US	11/09/2020			23	0	0.0	Unassigned
+948	Colorado	US	11/10/2020			23	0	0.0	Unassigned
+948	Colorado	US	11/11/2020			23	0	0.0	Unassigned
+960	Colorado	US	11/12/2020			23	0	0	Unassigned
+960	Colorado	US	11/13/2020			23	0	0	Unassigned
+960	Colorado	US	11/14/2020			23	0	0	Unassigned
+960	Colorado	US	11/15/2020			23	0	0	Unassigned
+960	Colorado	US	11/16/2020			23	0	0	Unassigned
+960	Colorado	US	11/17/2020			23	0	0	Unassigned
+960	Colorado	US	11/18/2020			23	0	0	Unassigned
+960	Colorado	US	11/19/2020			25	0	0	Unassigned
+960	Colorado	US	11/20/2020			26	0	0	Unassigned
+960	Colorado	US	11/21/2020			26	0	0	Unassigned
+960	Colorado	US	11/22/2020			27	0	0	Unassigned
+960	Colorado	US	11/23/2020			27	0	0	Unassigned
+961	Colorado	US	11/24/2020			27	0	0	Unassigned
+961	Colorado	US	11/25/2020			27	0	0	Unassigned
+961	Colorado	US	11/26/2020			27	0	0	Unassigned
+961	Colorado	US	11/27/2020			27	0	0	Unassigned
+961	Colorado	US	11/28/2020			27	0	0	Unassigned
+961	Colorado	US	11/29/2020			27	0	0	Unassigned
+961	Colorado	US	11/30/2020			27	0	0	Unassigned
+961	Colorado	US	12/01/2020			25	0	0	Unassigned
+961	Colorado	US	12/02/2020			25	0	0	Unassigned
+961	Colorado	US	12/03/2020			25	0	0	Unassigned
+961	Colorado	US	12/04/2020			25	0	0	Unassigned
+961	Colorado	US	12/05/2020			25	0	0	Unassigned
+961	Colorado	US	12/06/2020			25	0	0	Unassigned
+961	Colorado	US	12/07/2020			25	0	0	Unassigned
+961	Colorado	US	12/08/2020			25	0	0	Unassigned
+961	Colorado	US	12/09/2020			25	0	0	Unassigned
+961	Colorado	US	12/10/2020			25	0	0	Unassigned
+961	Colorado	US	12/11/2020			26	0	0	Unassigned
+961	Colorado	US	12/12/2020			25	0	0	Unassigned
+961	Colorado	US	12/13/2020			25	0	0	Unassigned
+961	Colorado	US	12/14/2020			25	0	0	Unassigned
+961	Colorado	US	12/15/2020			25	0	0	Unassigned
+961	Colorado	US	12/16/2020			25	0	0	Unassigned
+961	Colorado	US	12/17/2020			25	0	0	Unassigned
+961	Colorado	US	12/18/2020			25	0	0	Unassigned
+961	Colorado	US	12/19/2020			25	0	0	Unassigned
+961	Colorado	US	12/20/2020			25	0	0	Unassigned
+961	Colorado	US	12/21/2020			25	0	0	Unassigned
+961	Colorado	US	12/22/2020			25	0	0	Unassigned
+961	Colorado	US	12/23/2020			25	0	0	Unassigned
+961	Colorado	US	12/24/2020			25	0	0	Unassigned
+961	Colorado	US	12/25/2020			25	0	0	Unassigned
+961	Colorado	US	12/26/2020			25	0	0	Unassigned
+961	Colorado	US	12/27/2020			25	0	0	Unassigned
+961	Colorado	US	12/28/2020			25	0	0	Unassigned
+961	Colorado	US	12/29/2020			25	0	0	Unassigned
+961	Colorado	US	12/30/2020			26	0	0	Unassigned
+961	Colorado	US	12/31/2020			27	0	0	Unassigned
+961	Colorado	US	01/01/2021			27	0	0	Unassigned
+961	Colorado	US	01/02/2021			27	0	0	Unassigned
+962	Colorado	US	01/03/2021			27	0	0	Unassigned
+962	Colorado	US	01/04/2021			27	0	0	Unassigned
+962	Colorado	US	01/05/2021			27	0	0	Unassigned
+962	Colorado	US	01/06/2021			27	0	0	Unassigned
+962	Colorado	US	01/07/2021			27	0	0	Unassigned
+962	Colorado	US	01/08/2021			27	0	0	Unassigned
+962	Colorado	US	01/09/2021			27	0	0	Unassigned
+962	Colorado	US	01/10/2021			27	0	0	Unassigned
+962	Colorado	US	01/11/2021			27	0	0	Unassigned
+962	Colorado	US	01/12/2021			29	0	0	Unassigned
+962	Colorado	US	01/13/2021			30	0	0	Unassigned
+962	Colorado	US	01/14/2021			30	0	0	Unassigned
+962	Colorado	US	01/15/2021			30	0	0	Unassigned
+962	Colorado	US	01/16/2021			31	0	0	Unassigned
+962	Colorado	US	01/17/2021			32	0	0	Unassigned
+962	Colorado	US	01/18/2021			32	0	0	Unassigned
+962	Colorado	US	01/19/2021			33	0	0	Unassigned
+962	Colorado	US	01/20/2021			34	0	0	Unassigned
+963	Colorado	US	01/21/2021			35	0	0	Unassigned
+963	Colorado	US	01/22/2021			35	0	0	Unassigned
+963	Colorado	US	01/23/2021			35	0	0	Unassigned
+963	Colorado	US	01/24/2021			35	0	0	Unassigned
+963	Colorado	US	01/25/2021			70	0	0	Unassigned
+963	Colorado	US	01/26/2021			38	0	0	Unassigned
+963	Colorado	US	01/27/2021			76	0	0	Unassigned
+963	Colorado	US	01/28/2021			76	0	0	Unassigned
+963	Colorado	US	01/29/2021			76	0	0	Unassigned
+963	Colorado	US	01/30/2021			38	0	0	Unassigned
+963	Colorado	US	01/31/2021			38	0	0	Unassigned
+963	Colorado	US	02/01/2021			76	0	0	Unassigned
+963	Colorado	US	02/02/2021			78	0	0	Unassigned
+963	Colorado	US	02/03/2021			40	0	0	Unassigned
+963	Colorado	US	02/04/2021			40	0	0	Unassigned
+963	Colorado	US	02/05/2021			80	0	0	Unassigned
+963	Colorado	US	02/06/2021			41	0	0	Unassigned
+963	Colorado	US	02/07/2021			82	0	0	Unassigned
+963	Colorado	US	02/08/2021			41	0	0	Unassigned
+963	Colorado	US	02/09/2021			42	0	0	Unassigned
+963	Colorado	US	02/10/2021			43	0	0	Unassigned
+963	Colorado	US	02/11/2021			46	0	0	Unassigned
+963	Colorado	US	02/12/2021			48	0	0	Unassigned
+963	Colorado	US	02/13/2021			48	0	0	Unassigned
+963	Colorado	US	02/14/2021			48	0	0	Unassigned
+963	Colorado	US	02/15/2021			48	0	0	Unassigned
+963	Colorado	US	02/16/2021			48	0	0	Unassigned
+963	Colorado	US	02/17/2021			48	0	0	Unassigned
+963	Colorado	US	02/18/2021			48	0	0	Unassigned
+964	Colorado	US	02/19/2021			47	0	0	Unassigned
+964	Colorado	US	02/20/2021			47	0	0	Unassigned
+964	Colorado	US	02/21/2021			47	0	0	Unassigned
+964	Colorado	US	02/22/2021			47	0	0	Unassigned
+964	Colorado	US	02/23/2021			47	0	0	Unassigned
+964	Colorado	US	02/24/2021			49	0	0	Unassigned
+964	Colorado	US	02/25/2021			49	0	0	Unassigned
+964	Colorado	US	02/26/2021			49	0	0	Unassigned
+964	Colorado	US	02/27/2021			49	0	0	Unassigned
+964	Colorado	US	02/28/2021			49	0	0	Unassigned
+964	Colorado	US	03/01/2021			49	0	0	Unassigned
+964	Colorado	US	03/02/2021			49	0	0	Unassigned
+964	Colorado	US	03/03/2021			49	0	0	Unassigned
+964	Colorado	US	03/04/2021			50	0	0	Unassigned
+964	Colorado	US	03/05/2021			51	0	0	Unassigned
+964	Colorado	US	03/06/2021			51	0	0	Unassigned
+964	Colorado	US	03/07/2021			51	0		Unassigned
+964	Colorado	US	03/08/2021			51	0		Unassigned
+964	Colorado	US	03/09/2021			51	0		Unassigned
+964	Colorado	US	03/10/2021			51	0		Unassigned
+964	Colorado	US	03/11/2021			53	0		Unassigned
+964	Colorado	US	03/12/2021			53	0		Unassigned
+964	Colorado	US	03/13/2021			53	0		Unassigned
+964	Colorado	US	03/14/2021			53	0		Unassigned
+964	Colorado	US	03/15/2021			53	0		Unassigned
+964	Colorado	US	03/16/2021			53	0		Unassigned
+964	Colorado	US	03/17/2021			53	0		Unassigned
+964	Colorado	US	03/18/2021			55	0		Unassigned
+964	Colorado	US	03/19/2021			55	0		Unassigned
+964	Colorado	US	03/20/2021			55	0		Unassigned
+964	Colorado	US	03/21/2021			55	0		Unassigned
+964	Colorado	US	03/22/2021			55	0		Unassigned
+964	Colorado	US	03/23/2021			55	0		Unassigned
+964	Colorado	US	03/24/2021			55	0		Unassigned
+964	Colorado	US	03/25/2021			57	0		Unassigned
+964	Colorado	US	03/26/2021			57	0		Unassigned
+964	Colorado	US	03/27/2021			57	0		Unassigned
+964	Colorado	US	03/28/2021			57	0		Unassigned
+964	Colorado	US	03/29/2021			57	0		Unassigned
+964	Colorado	US	03/30/2021			57	0		Unassigned
+964	Colorado	US	03/31/2021			57	0		Unassigned
+964	Colorado	US	04/01/2021			57	0		Unassigned
+966	Colorado	US	04/02/2021			57	0		Unassigned
+966	Colorado	US	04/03/2021			59	0		Unassigned
+966	Colorado	US	04/04/2021			59	0		Unassigned
+966	Colorado	US	04/05/2021			59	0		Unassigned
+966	Colorado	US	04/06/2021			59	0		Unassigned
+966	Colorado	US	04/07/2021			59	0		Unassigned
+966	Colorado	US	04/08/2021			59	0		Unassigned
+966	Colorado	US	04/09/2021			59	0		Unassigned
+966	Colorado	US	04/10/2021			59	0		Unassigned
+966	Colorado	US	04/11/2021			59	0		Unassigned
+966	Colorado	US	04/12/2021			59	0		Unassigned
+966	Colorado	US	04/13/2021			60	0		Unassigned
+966	Colorado	US	04/14/2021			60	0		Unassigned
+966	Colorado	US	04/15/2021			62	0		Unassigned
+966	Colorado	US	04/16/2021			63	0		Unassigned
+966	Colorado	US	04/17/2021			64	0		Unassigned
+966	Colorado	US	04/18/2021			64	0		Unassigned
+966	Colorado	US	04/19/2021			64	0		Unassigned
+966	Colorado	US	04/20/2021			64	0		Unassigned
+966	Colorado	US	04/21/2021			64	0		Unassigned
+966	Colorado	US	04/22/2021			64	0		Unassigned
+966	Colorado	US	04/23/2021			65	0		Unassigned
+966	Colorado	US	04/24/2021			65	0		Unassigned
+966	Colorado	US	04/25/2021			65	0		Unassigned
+966	Colorado	US	04/26/2021			65	0		Unassigned
+966	Colorado	US	04/27/2021			67	0		Unassigned
+966	Colorado	US	04/28/2021			66	0		Unassigned
+966	Colorado	US	04/29/2021			66	0		Unassigned
+966	Colorado	US	04/30/2021			66	0		Unassigned
+966	Colorado	US	05/01/2021			66	0		Unassigned
+966	Colorado	US	05/02/2021			66	0		Unassigned
+966	Colorado	US	05/03/2021			66	0		Unassigned
+966	Colorado	US	05/04/2021			67	1		Unassigned
+966	Colorado	US	05/05/2021			66	0		Unassigned
+966	Colorado	US	05/06/2021			66	0		Unassigned
+966	Colorado	US	05/07/2021			66	0		Unassigned
+966	Colorado	US	05/08/2021			66	0		Unassigned
+966	Colorado	US	05/09/2021			66	0		Unassigned
+966	Colorado	US	05/10/2021			66	0		Unassigned
+966	Colorado	US	05/11/2021			67	0		Unassigned
+966	Colorado	US	05/12/2021			68	0		Unassigned
+966	Colorado	US	05/13/2021			68	0		Unassigned
+966	Colorado	US	05/14/2021			68	0		Unassigned
+966	Colorado	US	05/15/2021			67	0		Unassigned
+966	Colorado	US	05/16/2021			68	0		Unassigned
+966	Colorado	US	05/17/2021			67	0		Unassigned
+966	Colorado	US	05/18/2021			67	0		Unassigned
+966	Colorado	US	05/19/2021			68	0		Unassigned
+966	Colorado	US	05/20/2021			67	0		Unassigned
+966	Colorado	US	05/21/2021			68	0		Unassigned
+966	Colorado	US	05/22/2021			68	0		Unassigned
+966	Colorado	US	05/23/2021			68	0		Unassigned
+966	Colorado	US	05/24/2021			67	0		Unassigned
+966	Colorado	US	05/25/2021			68	0		Unassigned
+966	Colorado	US	05/26/2021			69	0		Unassigned
+967	Colorado	US	05/27/2021			69	0		Unassigned
+967	Colorado	US	05/28/2021			71	0		Unassigned
+967	Colorado	US	05/29/2021			71	0		Unassigned
+967	Colorado	US	05/30/2021			72	0		Unassigned
+967	Colorado	US	05/31/2021			72	0		Unassigned
+967	Colorado	US	06/01/2021			72	0		Unassigned
+967	Colorado	US	06/02/2021			72	0		Unassigned
+967	Colorado	US	06/03/2021			73	0		Unassigned
+967	Colorado	US	06/04/2021			72	0		Unassigned
+967	Colorado	US	06/05/2021			74	0		Unassigned
+967	Colorado	US	06/06/2021			74	0		Unassigned
+967	Colorado	US	06/07/2021			74	0		Unassigned
+967	Colorado	US	06/08/2021			73	0		Unassigned
+967	Colorado	US	06/09/2021			73	0		Unassigned
+967	Colorado	US	06/10/2021			73	0		Unassigned
+967	Colorado	US	06/11/2021			73	0		Unassigned
+967	Colorado	US	06/12/2021			74	0		Unassigned
+967	Colorado	US	06/13/2021			73	0		Unassigned
+967	Colorado	US	06/14/2021			73	0		Unassigned
+967	Colorado	US	06/15/2021			73	0		Unassigned
+967	Colorado	US	06/16/2021			75	0		Unassigned
+969	Colorado	US	06/17/2021			74	0		Unassigned
+969	Colorado	US	06/18/2021			75	0		Unassigned
+969	Colorado	US	06/19/2021			74	0		Unassigned
+969	Colorado	US	06/20/2021			75	0		Unassigned
+969	Colorado	US	06/21/2021			73	0		Unassigned
+969	Colorado	US	06/22/2021			75	0		Unassigned
+969	Colorado	US	06/23/2021			76	0		Unassigned
+970	Colorado	US	06/24/2021			76	0		Unassigned
+970	Colorado	US	06/25/2021			75	0		Unassigned
+970	Colorado	US	06/26/2021			75	0		Unassigned
+970	Colorado	US	06/27/2021			76	0		Unassigned
+970	Colorado	US	06/28/2021			76	0		Unassigned
+970	Colorado	US	06/29/2021			76	0		Unassigned
+970	Colorado	US	06/30/2021			75	0		Unassigned
+970	Colorado	US	07/01/2021			76	0		Unassigned
+970	Colorado	US	07/02/2021			76	0		Unassigned
+970	Colorado	US	07/03/2021			77	0		Unassigned
+970	Colorado	US	07/04/2021			77	0		Unassigned
+970	Colorado	US	07/05/2021			77	0		Unassigned
+970	Colorado	US	07/06/2021			76	0		Unassigned
+970	Colorado	US	07/07/2021			76	0		Unassigned
+970	Colorado	US	07/08/2021			76	0		Unassigned
+970	Colorado	US	07/09/2021			76	0		Unassigned
+970	Colorado	US	07/10/2021			77	0		Unassigned
+970	Colorado	US	07/11/2021			79	0		Unassigned
+970	Colorado	US	07/12/2021			79	0		Unassigned
+970	Colorado	US	07/13/2021			79	0		Unassigned
+970	Colorado	US	07/14/2021			79	0		Unassigned
+970	Colorado	US	07/15/2021			79	0		Unassigned
+970	Colorado	US	07/16/2021			80	0		Unassigned
+970	Colorado	US	07/17/2021			80	0		Unassigned
+970	Colorado	US	07/18/2021			80	0		Unassigned
+970	Colorado	US	07/19/2021			79	0		Unassigned
+970	Colorado	US	07/20/2021			80	0		Unassigned
+970	Colorado	US	07/21/2021			81	0		Unassigned
+970	Colorado	US	07/22/2021			81	0		Unassigned
+970	Colorado	US	07/23/2021			81	0		Unassigned
+970	Colorado	US	07/24/2021			81	0		Unassigned
+970	Colorado	US	07/25/2021			81	0		Unassigned
+970	Colorado	US	07/26/2021			81	0		Unassigned
+970	Colorado	US	07/27/2021			82	0		Unassigned
+970	Colorado	US	07/28/2021			82	0		Unassigned
+970	Colorado	US	07/29/2021			82	0		Unassigned
+970	Colorado	US	07/30/2021			82	0		Unassigned
+970	Colorado	US	07/31/2021			82	0		Unassigned
+970	Colorado	US	08/01/2021			82	0		Unassigned
+970	Colorado	US	08/02/2021			82	0		Unassigned
+970	Colorado	US	08/03/2021			82	0		Unassigned
+970	Colorado	US	08/04/2021			82	0		Unassigned
+970	Colorado	US	08/05/2021			83	0		Unassigned
+970	Colorado	US	08/06/2021			83	0		Unassigned
+970	Colorado	US	08/07/2021			83	0		Unassigned
+970	Colorado	US	08/08/2021			83	0		Unassigned
+970	Colorado	US	08/09/2021			84	0		Unassigned
+970	Colorado	US	08/10/2021			86	0		Unassigned
+970	Colorado	US	08/11/2021			86	0		Unassigned
+970	Colorado	US	08/12/2021			86	0		Unassigned
+970	Colorado	US	08/13/2021			86	0		Unassigned
+970	Colorado	US	08/14/2021			86	0		Unassigned
+970	Colorado	US	08/15/2021			86	0		Unassigned
+970	Colorado	US	08/16/2021			85	0		Unassigned
+970	Colorado	US	08/17/2021			86	0		Unassigned
+970	Colorado	US	08/18/2021			86	0		Unassigned
+970	Colorado	US	08/19/2021			86	0		Unassigned
+970	Colorado	US	08/20/2021			87	0		Unassigned
+970	Colorado	US	08/21/2021			87	0		Unassigned
+970	Colorado	US	08/22/2021			87	0		Unassigned
+970	Colorado	US	08/23/2021			87	0		Unassigned
+970	Colorado	US	08/24/2021			87	0		Unassigned
+970	Colorado	US	08/25/2021			87	0		Unassigned
+970	Colorado	US	08/26/2021			88	0		Unassigned
+970	Colorado	US	08/27/2021			88	0		Unassigned
+970	Colorado	US	08/28/2021			88	0		Unassigned
+970	Colorado	US	08/29/2021			88	0		Unassigned
+970	Colorado	US	08/30/2021			89	0		Unassigned
+970	Colorado	US	08/31/2021			89	0		Unassigned
+970	Colorado	US	09/01/2021			90	0		Unassigned

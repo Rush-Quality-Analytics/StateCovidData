@@ -1,523 +1,524 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2870	Unassigned	2	US	0	0.0	0.0	Nebraska	0	03/27/2020
-2871	Unassigned	4	US	0	0.0	0.0	Nebraska	0	03/29/2020
-2873	Unassigned	2	US	0	0.0	0.0	Nebraska	0	03/30/2020
-1946	Unassigned	3	US	0	0.0	0.0	Nebraska	0	03/31/2020
-1992	Unassigned	3	US	0	0.0	0.0	Nebraska	0	04/01/2020
-2065	Unassigned	2	US	1			Nebraska	0	04/02/2020
-2110	Unassigned	1	US	1			Nebraska	0	04/03/2020
-2164	Unassigned	1	US	1			Nebraska	0	04/04/2020
-2238	Unassigned	1	US	1			Nebraska	0	04/05/2020
-2276	Unassigned	1	US	0			Nebraska	0	04/06/2020
-2323	Unassigned	1	US	1			Nebraska	0	04/07/2020
-2347	Unassigned	0	US	1			Nebraska	0	04/08/2020
-2373	Unassigned	0	US	2			Nebraska	0	04/09/2020
-2397	Unassigned	0	US	2			Nebraska	0	04/10/2020
-2422	Unassigned	0	US	2			Nebraska	0	04/11/2020
-2444	Unassigned	23	US	2			Nebraska	0	04/12/2020
-2458	Unassigned	23	US	2			Nebraska	0	04/13/2020
-2468	Unassigned	18	US	5			Nebraska	0	04/14/2020
-2480	Unassigned	19	US	5			Nebraska	0	04/15/2020
-2494	Unassigned	23	US	6			Nebraska	0	04/16/2020
-2496	Unassigned	92	US	9			Nebraska	0	04/17/2020
-2503	Unassigned	60	US	9			Nebraska	0	04/18/2020
-2520	Unassigned	40	US	10			Nebraska	0	04/19/2020
-2529	Unassigned	37	US	15			Nebraska	0	04/20/2020
-2538	Unassigned	0	US	15			Nebraska	0	04/21/2020
-2545	Unassigned	12	US	20			Nebraska	0	04/22/2020
-2562	Unassigned	7	US	9			Nebraska	0	04/23/2020
-2568	Unassigned	0	US	12			Nebraska	0	04/24/2020
-2573	Unassigned	0	US	12			Nebraska	0	04/25/2020
-2581	Unassigned	10	US	18			Nebraska	0	04/26/2020
-2588	Unassigned	34	US	18			Nebraska	0	04/27/2020
-2597	Unassigned	23	US	18			Nebraska	0	04/28/2020
-2602	Unassigned	23	US	18			Nebraska	0	04/29/2020
-2608	Unassigned	48	US	3			Nebraska	0	04/30/2020
-2618	Unassigned	0	US	6			Nebraska	0	05/01/2020
-2622	Unassigned	0	US	6			Nebraska	0	05/02/2020
-2627	Unassigned	0	US	11			Nebraska	0	05/03/2020
-2630	Unassigned	0	US	11			Nebraska	0	05/04/2020
-2638	Unassigned	0	US	11			Nebraska	0	05/05/2020
-2644	Unassigned	0	US	11			Nebraska	0	05/06/2020
-2651	Unassigned	266	US	22			Nebraska	0	05/07/2020
-2658	Unassigned	124	US	21			Nebraska	0	05/08/2020
-2660	Unassigned	0	US	21			Nebraska	0	05/09/2020
-2662	Unassigned	0	US	21			Nebraska	0	05/10/2020
-2662	Unassigned	0	US	29			Nebraska	0	05/11/2020
-2665	Unassigned	0	US	31			Nebraska	0	05/12/2020
-2666	Unassigned	0	US	33			Nebraska	0	05/13/2020
-2668	Unassigned	0	US	33			Nebraska	0	05/14/2020
-2673	Unassigned	0	US	43			Nebraska	0	05/15/2020
-2677	Unassigned	165	US	53			Nebraska	0	05/16/2020
-2680	Unassigned	0	US	53			Nebraska	0	05/17/2020
-2682	Unassigned	162	US	53			Nebraska	0	05/18/2020
-2686	Unassigned	162	US	53			Nebraska	0	05/19/2020
-2692	Unassigned	170	US	4			Nebraska	0	05/20/2020
-2694	Unassigned	170	US	4			Nebraska	0	05/21/2020
-2701	Unassigned	169	US	13			Nebraska	0	05/22/2020
-2703	Unassigned	169	US	13			Nebraska	0	05/23/2020
-2706	Unassigned	189	US	13			Nebraska	0	05/24/2020
-2707	Unassigned	189	US	13			Nebraska	0	05/25/2020
-2708	Unassigned	189	US	13			Nebraska	0	05/26/2020
-2711	Unassigned	192	US	19			Nebraska	0	05/27/2020
-2714	Unassigned	192	US	29			Nebraska	0	05/28/2020
-2717	Unassigned	207	US	29			Nebraska	0	05/29/2020
-2719	Unassigned	217	US	35			Nebraska	0	05/30/2020
-2720	Unassigned	219	US	35			Nebraska	0	05/31/2020
-2722	Unassigned	215	US	35			Nebraska	0	06/01/2020
-2727	Unassigned	215	US	35			Nebraska	0	06/02/2020
-2729	Unassigned	215	US	35			Nebraska	0	06/03/2020
-2730	Unassigned	217	US	19			Nebraska	0	06/04/2020
-2734	Unassigned	217	US	0			Nebraska	0	06/05/2020
-2736	Unassigned	217	US	0			Nebraska	0	06/06/2020
-2736	Unassigned	217	US	0			Nebraska	0	06/07/2020
-2736	Unassigned	217	US	0			Nebraska	0	06/08/2020
-2738	Unassigned	217	US	0			Nebraska	0	06/09/2020
-2740	Unassigned	217	US	0			Nebraska	0	06/10/2020
-2742	Unassigned	180	US	1			Nebraska	0	06/11/2020
-2756	Unassigned	180	US	1			Nebraska	0	06/12/2020
-2759	Unassigned	180	US	1			Nebraska	0	06/13/2020
-2759	Unassigned	180	US	1			Nebraska	0	06/14/2020
-2763	Unassigned	176	US	1			Nebraska	0	06/15/2020
-2761	Unassigned	176	US	1			Nebraska	0	06/16/2020
-2763	Unassigned	176	US	1			Nebraska	0	06/17/2020
-2763	Unassigned	176	US	1			Nebraska	0	06/18/2020
-2764	Unassigned	176	US	1			Nebraska	0	06/19/2020
-2768	Unassigned	187	US	1			Nebraska	0	06/20/2020
-2768	Unassigned	187	US	1			Nebraska	0	06/21/2020
-2771	Unassigned	187	US	1			Nebraska	0	06/22/2020
-2776	Unassigned	187	US	1			Nebraska	0	06/23/2020
-2788	Unassigned	183	US	1			Nebraska	0	06/24/2020
-2793	Unassigned	167	US	1			Nebraska	0	06/25/2020
-2794	Unassigned	170	US	1			Nebraska	0	06/26/2020
-2795	Unassigned	174	US	1			Nebraska	0	06/27/2020
-2795	Unassigned	173	US	1			Nebraska	0	06/28/2020
-2797	Unassigned	175	US	1			Nebraska	0	06/29/2020
-2799	Unassigned	174	US	1			Nebraska	0	06/30/2020
-2801	Unassigned	176	US	1			Nebraska	0	07/01/2020
-2804	Unassigned	166	US	1			Nebraska	0	07/02/2020
-2809	Unassigned	160	US	1			Nebraska	0	07/03/2020
-2810	Unassigned	166	US	1			Nebraska	0	07/04/2020
-2811	Unassigned	168	US	1			Nebraska	0	07/05/2020
-2814	Unassigned	166	US	1			Nebraska	0	07/06/2020
-2815	Unassigned	126	US	1			Nebraska	0	07/07/2020
-2818	Unassigned	123	US	1			Nebraska	0	07/08/2020
-2817	Unassigned	123	US	0			Nebraska	0	07/09/2020
-2821	Unassigned	116	US	1			Nebraska	0	07/10/2020
-2822	Unassigned	114	US	1			Nebraska	0	07/11/2020
-2824	Unassigned	116	US	1			Nebraska	0	07/12/2020
-2825	Unassigned	115	US	1			Nebraska	0	07/13/2020
-2831	Unassigned	116	US	1			Nebraska	0	07/14/2020
-2832	Unassigned	118	US	2			Nebraska	0	07/15/2020
-2834	Unassigned	117	US	2			Nebraska	0	07/16/2020
-2834	Unassigned	114	US	2			Nebraska	0	07/17/2020
-2907	Unassigned	115	US	2			Nebraska	0	07/18/2020
-2907	Unassigned	120	US	2			Nebraska	0	07/19/2020
-2830	Unassigned	125	US	9			Nebraska	0	07/20/2020
-2911	Unassigned	120	US	2			Nebraska	0	07/21/2020
-2912	Unassigned	127	US	2			Nebraska	0	07/22/2020
-2915	Unassigned	130	US	2			Nebraska	0	07/23/2020
-2914	Unassigned	130	US	0			Nebraska	0	07/24/2020
-2915	Unassigned	130	US	0			Nebraska	0	07/25/2020
-2916	Unassigned	132	US	0			Nebraska	0	07/26/2020
-2916	Unassigned	142	US	0			Nebraska	0	07/27/2020
-2916	Unassigned	144	US	0			Nebraska	0	07/28/2020
-2920	Unassigned	149	US	0			Nebraska	0	07/29/2020
-2920	Unassigned	149	US	0			Nebraska	0	07/30/2020
-2922	Unassigned	145	US	0			Nebraska	0	07/31/2020
-2922	Unassigned	140	US	0			Nebraska	0	08/01/2020
-2922	Unassigned	143	US	0			Nebraska	0	08/02/2020
-2922	Unassigned	155	US	0			Nebraska	0	08/03/2020
-2922	Unassigned	151	US	0			Nebraska	0	08/04/2020
-2926	Unassigned	150	US	5			Nebraska	0	08/05/2020
-2926	Unassigned	147	US	0			Nebraska	0	08/06/2020
-2926	Unassigned	142	US	0			Nebraska	0	08/07/2020
-2926	Unassigned	139	US	0			Nebraska	0	08/08/2020
-2926	Unassigned	136	US	0			Nebraska	0	08/09/2020
-2926	Unassigned	155	US	0			Nebraska	0	08/10/2020
-2449	Unassigned	154	US	0			Nebraska	0	08/11/2020
-2403	Unassigned	160	US	0			Nebraska	0	08/12/2020
-2404	Unassigned	155	US	0			Nebraska	0	08/13/2020
-2404	Unassigned	161	US	0			Nebraska	0	08/14/2020
-2404	Unassigned	155	US	0			Nebraska	0	08/15/2020
-2404	Unassigned	154	US	0			Nebraska	0	08/16/2020
-2406	Unassigned	159	US	1			Nebraska	0	08/17/2020
-2406	Unassigned	163	US	1			Nebraska	0	08/18/2020
-2408	Unassigned	178	US	0			Nebraska	0	08/19/2020
-2408	Unassigned	166	US	0			Nebraska	0	08/20/2020
-2408	Unassigned	183	US	0			Nebraska	0	08/21/2020
-2409	Unassigned	170	US	0			Nebraska	0	08/22/2020
-2409	Unassigned	176	US	0			Nebraska	0	08/23/2020
-2409	Unassigned	168	US	1			Nebraska	0	08/24/2020
-2409	Unassigned	150	US	1			Nebraska	0	08/25/2020
-2409	Unassigned	158	US	2			Nebraska	0	08/26/2020
-2409	Unassigned	134	US	2			Nebraska	0	08/27/2020
-2409	Unassigned	125	US	2			Nebraska	0	08/28/2020
-2409	Unassigned	122	US	1			Nebraska	0	08/29/2020
-2409	Unassigned	125	US	1			Nebraska	0	08/30/2020
-2409	Unassigned	132	US	1			Nebraska	0	08/31/2020
-2409	Unassigned	137	US	0			Nebraska	0	09/01/2020
-2409	Unassigned	151	US	0			Nebraska	0	09/02/2020
-2409	Unassigned	156	US	1			Nebraska	0	09/03/2020
-2409	Unassigned	141	US	1			Nebraska	0	09/04/2020
-2409	Unassigned	141	US	1			Nebraska	0	09/05/2020
-2409	Unassigned	145	US	1			Nebraska	0	09/06/2020
-2409	Unassigned	143	US	1			Nebraska	0	09/07/2020
-2409	Unassigned	143	US	1			Nebraska	0	09/08/2020
-2409	Unassigned	149	US	0			Nebraska	0	09/09/2020
-2409	Unassigned	157	US	3			Nebraska	0	09/10/2020
-2409	Unassigned	157	US	3			Nebraska	0	09/11/2020
-2409	Unassigned	157	US	3			Nebraska	0	09/12/2020
-2409	Unassigned	146	US	0			Nebraska	0	09/13/2020
-2409	Unassigned	160	US	0			Nebraska	0	09/14/2020
-2409	Unassigned	160	US	0			Nebraska	0	09/15/2020
-2409	Unassigned	170	US	0			Nebraska	0	09/16/2020
-2409	Unassigned	184	US	0			Nebraska	0	09/17/2020
-2409	Unassigned	192	US	0			Nebraska	0	09/18/2020
-2409	Unassigned	194	US	0			Nebraska	0	09/19/2020
-2409	Unassigned	196	US	0			Nebraska	0	09/20/2020
-2410	Unassigned	223	US	2			Nebraska	0	09/21/2020
-2410	Unassigned	249	US	2			Nebraska	0	09/22/2020
-2410	Unassigned	246	US	0			Nebraska	0	09/23/2020
-2410	Unassigned	266	US	0			Nebraska	0	09/24/2020
-2410	Unassigned	277	US	0			Nebraska	0	09/25/2020
-2410	Unassigned	269	US	0			Nebraska	0	09/26/2020
-2410	Unassigned	273	US	0			Nebraska	0	09/27/2020
-2410	Unassigned	302	US	0			Nebraska	0	09/28/2020
-2410	Unassigned	299	US	0			Nebraska	0	09/29/2020
-2410	Unassigned	290	US	0			Nebraska	0	09/30/2020
-2410	Unassigned	316	US	0			Nebraska	0	10/01/2020
-2410	Unassigned	332	US	0			Nebraska	0	10/02/2020
-2410	Unassigned	335	US	0			Nebraska	0	10/03/2020
-2410	Unassigned	334	US	2			Nebraska	0	10/04/2020
-2410	Unassigned	351	US	1			Nebraska	0	10/05/2020
-2410	Unassigned	358	US	1			Nebraska	0	10/06/2020
-2410	Unassigned	391	US	1			Nebraska	0	10/07/2020
-2410	Unassigned	388	US	1			Nebraska	0	10/08/2020
-2410	Unassigned	388	US	1			Nebraska	0	10/09/2020
-2410	Unassigned	406	US	1			Nebraska	0	10/10/2020
-2410	Unassigned	412	US	1			Nebraska	0	10/11/2020
-2411	Unassigned	404	US	1			Nebraska	0	10/12/2020
-2411	Unassigned	405	US	1			Nebraska	0	10/13/2020
-2411	Unassigned	392	US	1			Nebraska	0	10/14/2020
-2411	Unassigned	398	US	1			Nebraska	0	10/15/2020
-2412	Unassigned	396	US	1			Nebraska	0	10/16/2020
-2412	Unassigned	405	US	1			Nebraska	0	10/17/2020
-2412	Unassigned	404	US	1			Nebraska	0	10/18/2020
-2413	Unassigned	412	US	1			Nebraska	0	10/19/2020
-2413	Unassigned	409	US	2			Nebraska	0	10/20/2020
-2413	Unassigned	410	US	3			Nebraska	0	10/21/2020
-2413	Unassigned	418	US	5			Nebraska	0	10/22/2020
-2413	Unassigned	431	US	5			Nebraska	0	10/23/2020
-2413	Unassigned	439	US	0			Nebraska	0	10/24/2020
-2413	Unassigned	450	US	0			Nebraska	0	10/25/2020
-2413	Unassigned	468	US	2			Nebraska	0	10/26/2020
-2413	Unassigned	461	US	3			Nebraska	0	10/27/2020
-2414	Unassigned	475	US	4.0			Nebraska	0	10/28/2020
-2414	Unassigned	495	US	5			Nebraska	0	10/29/2020
-2414	Unassigned	535	US	5			Nebraska	0	10/30/2020
-2414	Unassigned	528	US	8			Nebraska	0	10/31/2020
-2414	Unassigned	531	US	0			Nebraska	0	11/01/2020
-2414	Unassigned	532	US	1			Nebraska	0	11/02/2020
-2415	Unassigned	586	US	2			Nebraska	0	11/03/2020
-2415	Unassigned	623	US	2			Nebraska	0	11/04/2020
-2415	Unassigned	666	US	2			Nebraska	0	11/05/2020
-2415	Unassigned	680	US	2			Nebraska	0	11/06/2020
-2415	Unassigned	683	US	3			Nebraska	0	11/07/2020
-2415	Unassigned	695	US	3			Nebraska	0	11/08/2020
-2415	Unassigned	696	US	3			Nebraska	0.0	11/09/2020
-2415	Unassigned	701	US	6			Nebraska	0.0	11/10/2020
-2415	Unassigned	712	US	7			Nebraska	0.0	11/11/2020
-2427	Unassigned	725	US	1			Nebraska	0	11/12/2020
-2427	Unassigned	769	US	1			Nebraska	0	11/13/2020
-2427	Unassigned	784	US	1			Nebraska	0	11/14/2020
-2427	Unassigned	797	US	1			Nebraska	0	11/15/2020
-2427	Unassigned	819	US	3			Nebraska	0	11/16/2020
-2427	Unassigned	839	US	2			Nebraska	0	11/17/2020
-2427	Unassigned	871	US	2			Nebraska	0	11/18/2020
-2427	Unassigned	917	US	4			Nebraska	0	11/19/2020
-2427	Unassigned	922	US	0			Nebraska	0	11/20/2020
-2427	Unassigned	930	US	0			Nebraska	0	11/21/2020
-2427	Unassigned	953	US	0			Nebraska	0	11/22/2020
-2427	Unassigned	961	US	6			Nebraska	0	11/23/2020
-2428	Unassigned	961	US	6			Nebraska	0	11/24/2020
-2428	Unassigned	966	US	9			Nebraska	0	11/25/2020
-2428	Unassigned	1003	US	1			Nebraska	0	11/26/2020
-2428	Unassigned	996	US	1			Nebraska	0	11/27/2020
-2428	Unassigned	1007	US	2			Nebraska	0	11/28/2020
-2428	Unassigned	1027	US	2			Nebraska	0	11/29/2020
-2428	Unassigned	1043	US	3			Nebraska	0	11/30/2020
-2428	Unassigned	1048	US	4			Nebraska	0	12/01/2020
-2428	Unassigned	1051	US	7			Nebraska	0	12/02/2020
-2428	Unassigned	1063	US	2			Nebraska	0	12/03/2020
-2428	Unassigned	1071	US	1			Nebraska	0	12/04/2020
-2428	Unassigned	1084	US	1			Nebraska	0	12/05/2020
-2428	Unassigned	1085	US	1			Nebraska	0	12/06/2020
-2428	Unassigned	1099	US	4			Nebraska	0	12/07/2020
-2428	Unassigned	1135	US	6			Nebraska	0	12/08/2020
-2428	Unassigned	1135	US	7			Nebraska	0	12/09/2020
-2428	Unassigned	1131	US	9			Nebraska	0	12/10/2020
-2428	Unassigned	1158	US	0			Nebraska	0	12/11/2020
-2428	Unassigned	1154	US	0			Nebraska	0	12/12/2020
-2428	Unassigned	1173	US	0			Nebraska	0	12/13/2020
-2428	Unassigned	1178	US	0			Nebraska	0	12/14/2020
-2428	Unassigned	1171	US	2			Nebraska	0	12/15/2020
-2428	Unassigned	1175	US	2			Nebraska	0	12/16/2020
-2428	Unassigned	1186	US	2			Nebraska	0	12/17/2020
-2428	Unassigned	1184	US	3			Nebraska	0	12/18/2020
-2428	Unassigned	1185	US	3			Nebraska	0	12/19/2020
-2428	Unassigned	1187	US	1			Nebraska	0	12/20/2020
-2428	Unassigned	1188	US	2			Nebraska	0	12/21/2020
-2428	Unassigned	1202	US	2			Nebraska	0	12/22/2020
-2428	Unassigned	1199	US	3			Nebraska	0	12/23/2020
-2428	Unassigned	1208	US	4			Nebraska	0	12/24/2020
-2428	Unassigned	1212	US	4			Nebraska	0	12/25/2020
-2428	Unassigned	1210	US	4			Nebraska	0	12/26/2020
-2428	Unassigned	1218	US	4			Nebraska	0	12/27/2020
-2428	Unassigned	1229	US	5			Nebraska	0	12/28/2020
-2428	Unassigned	1241	US	6			Nebraska	0	12/29/2020
-2428	Unassigned	1253	US	6			Nebraska	0	12/30/2020
-2428	Unassigned	1251	US	2			Nebraska	0	12/31/2020
-2428	Unassigned	1257	US	5			Nebraska	0	01/01/2021
-2428	Unassigned	1261	US	5			Nebraska	0	01/02/2021
-2429	Unassigned	1264	US	5			Nebraska	0	01/03/2021
-2429	Unassigned	1263	US	5			Nebraska	0	01/04/2021
-2429	Unassigned	1266	US	0			Nebraska	0	01/05/2021
-2429	Unassigned	1271	US	2			Nebraska	0	01/06/2021
-2429	Unassigned	1260	US	2			Nebraska	0	01/07/2021
-2429	Unassigned	1287	US	2			Nebraska	0	01/08/2021
-2429	Unassigned	1294	US	2			Nebraska	0	01/09/2021
-2429	Unassigned	1295	US	6			Nebraska	0	01/10/2021
-2429	Unassigned	1293	US	6			Nebraska	0	01/11/2021
-2429	Unassigned	1289	US	7			Nebraska	0	01/12/2021
-2429	Unassigned	1308	US	7			Nebraska	0	01/13/2021
-2429	Unassigned	1309	US	7			Nebraska	0	01/14/2021
-2430	Unassigned	1306	US	7			Nebraska	0	01/15/2021
-2430	Unassigned	1306	US	7			Nebraska	0	01/16/2021
-2430	Unassigned	1302	US	7			Nebraska	0	01/17/2021
-2430	Unassigned	1302	US	7			Nebraska	0	01/18/2021
-2430	Unassigned	1302	US	7			Nebraska	0	01/19/2021
-2430	Unassigned	1334	US	2			Nebraska	0	01/20/2021
-2431	Unassigned	1346	US	3			Nebraska	0	01/21/2021
-2431	Unassigned	1357	US	3			Nebraska	0	01/22/2021
-2431	Unassigned	1364	US	3			Nebraska	0	01/23/2021
-2431	Unassigned	1375	US	3			Nebraska	0	01/24/2021
-2431	Unassigned	1382	US	3			Nebraska	0	01/25/2021
-2431	Unassigned	1373	US	5			Nebraska	0	01/26/2021
-2431	Unassigned	1371	US	5			Nebraska	0	01/27/2021
-2431	Unassigned	1378	US	8			Nebraska	0	01/28/2021
-2431	Unassigned	1378	US	8			Nebraska	0	01/29/2021
-2431	Unassigned	1386	US	8			Nebraska	0	01/30/2021
-2431	Unassigned	1387	US	8			Nebraska	0	01/31/2021
-2431	Unassigned	1386	US	8			Nebraska	0	02/01/2021
-2431	Unassigned	1386	US	8			Nebraska	0	02/02/2021
-2431	Unassigned	1398	US	8			Nebraska	0	02/03/2021
-2431	Unassigned	1401	US	8			Nebraska	0	02/04/2021
-2431	Unassigned	1401	US	8			Nebraska	0	02/05/2021
-2431	Unassigned	1410	US	9			Nebraska	0	02/06/2021
-2431	Unassigned	1407	US	9			Nebraska	0	02/07/2021
-2431	Unassigned	1405	US	0			Nebraska	0	02/08/2021
-2431	Unassigned	1414	US	0			Nebraska	0	02/09/2021
-2431	Unassigned	1409	US	0			Nebraska	0	02/10/2021
-2431	Unassigned	1415	US	1			Nebraska	0	02/11/2021
-2431	Unassigned	1425	US	1			Nebraska	0	02/12/2021
-2431	Unassigned	1730	US	1			Nebraska	0	02/13/2021
-2431	Unassigned	1732	US	1			Nebraska	0	02/14/2021
-2431	Unassigned	1731	US	1			Nebraska	0	02/15/2021
-2431	Unassigned	1731	US	1			Nebraska	0	02/16/2021
-2431	Unassigned	1728	US	2			Nebraska	0	02/17/2021
-2431	Unassigned	1732	US	2			Nebraska	0	02/18/2021
-2432	Unassigned	1736	US	2			Nebraska	0	02/19/2021
-2432	Unassigned	1735	US	2			Nebraska	0	02/20/2021
-2432	Unassigned	1734	US	2			Nebraska	0	02/21/2021
-2432	Unassigned	1736	US	2			Nebraska	0	02/22/2021
-2432	Unassigned	1739	US	2			Nebraska	0	02/23/2021
-2432	Unassigned	1736	US	2			Nebraska	0	02/24/2021
-2432	Unassigned	1730	US	4			Nebraska	0	02/25/2021
-2432	Unassigned	1728	US	6			Nebraska	0	02/26/2021
-2432	Unassigned	1726	US	6			Nebraska	0	02/27/2021
-2432	Unassigned	1726	US	6			Nebraska	0	02/28/2021
-2432	Unassigned	1716	US	6			Nebraska	0	03/01/2021
-2432	Unassigned	1727	US	7			Nebraska	0	03/02/2021
-2432	Unassigned	1721	US	7			Nebraska	0	03/03/2021
-2432	Unassigned	1726	US	7			Nebraska	0	03/04/2021
-2432	Unassigned	1734	US	7			Nebraska	0	03/05/2021
-2432	Unassigned	1740	US	7			Nebraska	0	03/06/2021
-2432	Unassigned	1782	US	7			Nebraska		03/07/2021
-2432	Unassigned	1739	US	7			Nebraska		03/08/2021
-2432	Unassigned	1752	US	7			Nebraska		03/09/2021
-2432	Unassigned	1749	US	7			Nebraska		03/10/2021
-2432	Unassigned	1764	US	7			Nebraska		03/11/2021
-2432	Unassigned	1769	US	7			Nebraska		03/12/2021
-2432	Unassigned	1772	US	7			Nebraska		03/13/2021
-2432	Unassigned	1775	US	7			Nebraska		03/14/2021
-2432	Unassigned	1775	US	7			Nebraska		03/15/2021
-2432	Unassigned	1820	US	7			Nebraska		03/16/2021
-2432	Unassigned	1779	US	7			Nebraska		03/17/2021
-2432	Unassigned	1779	US	7			Nebraska		03/18/2021
-2432	Unassigned	1775	US	7			Nebraska		03/19/2021
-2432	Unassigned	1801	US	7			Nebraska		03/20/2021
-2432	Unassigned	1805	US	7			Nebraska		03/21/2021
-2432	Unassigned	1805	US	7			Nebraska		03/22/2021
-2432	Unassigned	1768	US	7			Nebraska		03/23/2021
-2432	Unassigned	1766	US	7			Nebraska		03/24/2021
-2432	Unassigned	1761	US	7			Nebraska		03/25/2021
-2432	Unassigned	1808	US	7			Nebraska		03/26/2021
-2432	Unassigned	1768	US	7			Nebraska		03/27/2021
-2432	Unassigned	1804	US	7			Nebraska		03/28/2021
-2432	Unassigned	1805	US	7			Nebraska		03/29/2021
-2432	Unassigned	1810	US	7			Nebraska		03/30/2021
-2432	Unassigned	1816	US	7			Nebraska		03/31/2021
-2432	Unassigned	1813	US	7			Nebraska		04/01/2021
-2434	Unassigned	1808	US	7			Nebraska		04/02/2021
-2434	Unassigned	1811	US	7			Nebraska		04/03/2021
-2434	Unassigned	1812	US	7			Nebraska		04/04/2021
-2434	Unassigned	1813	US	7			Nebraska		04/05/2021
-2434	Unassigned	1812	US	7			Nebraska		04/06/2021
-2434	Unassigned	1816	US	7			Nebraska		04/07/2021
-2434	Unassigned	1813	US	7			Nebraska		04/08/2021
-2434	Unassigned	1824	US	7			Nebraska		04/09/2021
-2434	Unassigned	1829	US	7			Nebraska		04/10/2021
-2434	Unassigned	1829	US	7			Nebraska		04/11/2021
-2434	Unassigned	1824	US	7			Nebraska		04/12/2021
-2434	Unassigned	1827	US	7			Nebraska		04/13/2021
-2434	Unassigned	1833	US	28			Nebraska		04/14/2021
-2434	Unassigned	1838	US	7			Nebraska		04/15/2021
-2434	Unassigned	1842	US	7			Nebraska		04/16/2021
-2434	Unassigned	1855	US	7			Nebraska		04/17/2021
-2434	Unassigned	1856	US	7			Nebraska		04/18/2021
-2434	Unassigned	1857	US	7			Nebraska		04/19/2021
-2434	Unassigned	1861	US	7			Nebraska		04/20/2021
-2434	Unassigned	1855	US	7			Nebraska		04/21/2021
-2434	Unassigned	1857	US	7			Nebraska		04/22/2021
-2434	Unassigned	1860	US	7			Nebraska		04/23/2021
-2434	Unassigned	1868	US	7			Nebraska		04/24/2021
-2434	Unassigned	1866	US	7			Nebraska		04/25/2021
-2434	Unassigned	1863	US	7			Nebraska		04/26/2021
-2434	Unassigned	1864	US	7			Nebraska		04/27/2021
-2434	Unassigned	1867	US	7			Nebraska		04/28/2021
-2434	Unassigned	1857	US	7			Nebraska		04/29/2021
-2434	Unassigned	1859	US	7			Nebraska		04/30/2021
-2434	Unassigned	1862	US	7			Nebraska		05/01/2021
-2434	Unassigned	1867	US	7			Nebraska		05/02/2021
-2434	Unassigned	1867	US	7			Nebraska		05/03/2021
-2434	Unassigned	1869	US	7			Nebraska		05/04/2021
-2434	Unassigned	1866	US	7			Nebraska		05/05/2021
-2434	Unassigned	1862	US	7			Nebraska		05/06/2021
-2434	Unassigned	1859	US	7			Nebraska		05/07/2021
-2434	Unassigned	1864	US	7			Nebraska		05/08/2021
-2434	Unassigned	1867	US	7			Nebraska		05/09/2021
-2434	Unassigned	1868	US	7			Nebraska		05/10/2021
-2434	Unassigned	1914	US	8			Nebraska		05/11/2021
-2434	Unassigned	1909	US	9			Nebraska		05/12/2021
-2434	Unassigned	1907	US	8			Nebraska		05/13/2021
-2434	Unassigned	1905	US	8			Nebraska		05/14/2021
-2434	Unassigned	1905	US	8			Nebraska		05/15/2021
-2434	Unassigned	1905	US	0			Nebraska		05/16/2021
-2434	Unassigned	1901	US	8			Nebraska		05/17/2021
-2434	Unassigned	1902	US	7			Nebraska		05/18/2021
-2434	Unassigned	1898	US	7			Nebraska		05/19/2021
-2434	Unassigned	1893	US	6			Nebraska		05/20/2021
-2434	Unassigned	1890	US	6			Nebraska		05/21/2021
-2434	Unassigned	1890	US	6			Nebraska		05/22/2021
-2434	Unassigned	1890	US	6			Nebraska		05/23/2021
-2434	Unassigned	1889	US	6			Nebraska		05/24/2021
-2434	Unassigned	1891	US	6			Nebraska		05/25/2021
-2434	Unassigned	1962	US	6			Nebraska		05/26/2021
-2435	Unassigned	2008	US	6			Nebraska		05/27/2021
-2435	Unassigned	2069	US	19			Nebraska		05/28/2021
-2435	Unassigned	2069	US	19			Nebraska		05/29/2021
-2435	Unassigned	2069	US	19			Nebraska		05/30/2021
-2435	Unassigned	2133	US	19			Nebraska		05/31/2021
-2435	Unassigned	2169	US	19			Nebraska		06/01/2021
-2435	Unassigned	2199	US	19			Nebraska		06/02/2021
-2435	Unassigned	2282	US	19			Nebraska		06/03/2021
-2435	Unassigned	2323	US	19			Nebraska		06/04/2021
-2435	Unassigned	2323	US	19			Nebraska		06/05/2021
-2435	Unassigned	2323	US	19			Nebraska		06/06/2021
-2435	Unassigned	2413	US	21			Nebraska		06/07/2021
-2435	Unassigned	2450	US	24			Nebraska		06/08/2021
-2435	Unassigned	2479	US	26			Nebraska		06/09/2021
-2435	Unassigned	2514	US	26			Nebraska		06/10/2021
-2435	Unassigned	2557	US	26			Nebraska		06/11/2021
-2435	Unassigned	2557	US	26			Nebraska		06/12/2021
-2435	Unassigned	2557	US	26			Nebraska		06/13/2021
-2435	Unassigned	2612	US	28			Nebraska		06/14/2021
-2435	Unassigned	2653	US	28			Nebraska		06/15/2021
-2435	Unassigned	2696	US	28			Nebraska		06/16/2021
-2437	Unassigned	2725	US	28			Nebraska		06/17/2021
-2437	Unassigned	2751	US	29			Nebraska		06/18/2021
-2437	Unassigned	2751	US	29			Nebraska		06/19/2021
-2437	Unassigned	2751	US	29			Nebraska		06/20/2021
-2437	Unassigned	2830	US	29			Nebraska		06/21/2021
-2437	Unassigned	2868	US	27			Nebraska		06/22/2021
-2437	Unassigned	2921	US	29			Nebraska		06/23/2021
-2438	Unassigned	2971	US	29			Nebraska		06/24/2021
-2438	Unassigned	2991	US	29			Nebraska		06/25/2021
-2438	Unassigned	2991	US	29			Nebraska		06/26/2021
-2438	Unassigned	2991	US	29			Nebraska		06/27/2021
-2438	Unassigned	3095	US	29			Nebraska		06/28/2021
-2438	Unassigned	3169	US	31			Nebraska		06/29/2021
-2438	Unassigned	3253	US	31			Nebraska		06/30/2021
-2438	Unassigned	3253	US	31			Nebraska		07/01/2021
-2438	Unassigned	3447	US	31			Nebraska		07/02/2021
-2438	Unassigned	3447	US	31			Nebraska		07/03/2021
-2438	Unassigned	3447	US	31			Nebraska		07/04/2021
-2438	Unassigned	3447	US	31			Nebraska		07/05/2021
-2438	Unassigned	3638	US	32			Nebraska		07/06/2021
-2438	Unassigned	3638	US	32			Nebraska		07/07/2021
-2438	Unassigned	3834	US	32			Nebraska		07/08/2021
-2438	Unassigned	3936	US	32			Nebraska		07/09/2021
-2438	Unassigned	3936	US	32			Nebraska		07/10/2021
-2438	Unassigned	3936	US	32			Nebraska		07/11/2021
-2438	Unassigned	3936	US	32			Nebraska		07/12/2021
-2438	Unassigned	4242	US	35			Nebraska		07/13/2021
-2438	Unassigned	4365	US	37			Nebraska		07/14/2021
-2438	Unassigned	4476	US	40			Nebraska		07/15/2021
-2438	Unassigned	4626	US	45			Nebraska		07/16/2021
-2438	Unassigned	4626	US	45			Nebraska		07/17/2021
-2438	Unassigned	4626	US	45			Nebraska		07/18/2021
-2438	Unassigned	4626	US	45			Nebraska		07/19/2021
-2438	Unassigned	5072	US	51			Nebraska		07/20/2021
-2438	Unassigned	5207	US	55			Nebraska		07/21/2021
-2438	Unassigned	5371	US	54			Nebraska		07/22/2021
-2438	Unassigned	5604	US	54			Nebraska		07/23/2021
-2438	Unassigned	5604	US	54			Nebraska		07/24/2021
-2438	Unassigned	5604	US	54			Nebraska		07/25/2021
-2438	Unassigned	5604	US	54			Nebraska		07/26/2021
-2438	Unassigned	5604	US	54			Nebraska		07/27/2021
-2438	Unassigned	6613	US	50			Nebraska		07/28/2021
-2438	Unassigned	6851	US	50			Nebraska		07/29/2021
-2438	Unassigned	7215	US	50			Nebraska		07/30/2021
-2438	Unassigned	7215	US	50			Nebraska		07/31/2021
-2438	Unassigned	7215	US	50			Nebraska		08/01/2021
-2438	Unassigned	7215	US	50			Nebraska		08/02/2021
-2438	Unassigned	8208	US	51			Nebraska		08/03/2021
-2438	Unassigned	8589	US	55			Nebraska		08/04/2021
-2438	Unassigned	9001	US	59			Nebraska		08/05/2021
-2438	Unassigned	9395	US	59			Nebraska		08/06/2021
-2438	Unassigned	9834	US	60			Nebraska		08/07/2021
-2438	Unassigned	9834	US	60			Nebraska		08/08/2021
-2438	Unassigned	9834	US	60			Nebraska		08/09/2021
-2438	Unassigned	10681	US	57			Nebraska		08/10/2021
-2438	Unassigned	11164	US	55			Nebraska		08/11/2021
-2438	Unassigned	11164	US	55			Nebraska		08/12/2021
-2438	Unassigned	11164	US	55			Nebraska		08/13/2021
-2438	Unassigned	11164	US	55			Nebraska		08/14/2021
-2438	Unassigned	11164	US	55			Nebraska		08/15/2021
-2438	Unassigned	11164	US	55			Nebraska		08/16/2021
-2438	Unassigned	13840	US	72			Nebraska		08/17/2021
-2438	Unassigned	14451	US	72			Nebraska		08/18/2021
-2438	Unassigned	15111	US	72			Nebraska		08/19/2021
-2438	Unassigned	15520	US	72			Nebraska		08/20/2021
-2438	Unassigned	16257	US	72			Nebraska		08/21/2021
-2438	Unassigned	16257	US	72			Nebraska		08/22/2021
-2438	Unassigned	16257	US	72			Nebraska		08/23/2021
-2438	Unassigned	17867	US	82			Nebraska		08/24/2021
-2438	Unassigned	18793	US	84			Nebraska		08/25/2021
-2438	Unassigned	19569	US	86			Nebraska		08/26/2021
-2438	Unassigned	20436	US	85			Nebraska		08/27/2021
-2438	Unassigned	21263	US	89			Nebraska		08/28/2021
-2438	Unassigned	21263	US	89			Nebraska		08/29/2021
-2438	Unassigned	21263	US	89			Nebraska		08/30/2021
-2438	Unassigned	23019	US	92			Nebraska		08/31/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2870	Nebraska	US	03/27/2020	0.0	0.0	2	0	0	Unassigned
+2871	Nebraska	US	03/29/2020	0.0	0.0	4	0	0	Unassigned
+2873	Nebraska	US	03/30/2020	0.0	0.0	2	0	0	Unassigned
+1946	Nebraska	US	03/31/2020	0.0	0.0	3	0	0	Unassigned
+1992	Nebraska	US	04/01/2020	0.0	0.0	3	0	0	Unassigned
+2065	Nebraska	US	04/02/2020			2	1	0	Unassigned
+2110	Nebraska	US	04/03/2020			1	1	0	Unassigned
+2164	Nebraska	US	04/04/2020			1	1	0	Unassigned
+2238	Nebraska	US	04/05/2020			1	1	0	Unassigned
+2276	Nebraska	US	04/06/2020			1	0	0	Unassigned
+2323	Nebraska	US	04/07/2020			1	1	0	Unassigned
+2347	Nebraska	US	04/08/2020			0	1	0	Unassigned
+2373	Nebraska	US	04/09/2020			0	2	0	Unassigned
+2397	Nebraska	US	04/10/2020			0	2	0	Unassigned
+2422	Nebraska	US	04/11/2020			0	2	0	Unassigned
+2444	Nebraska	US	04/12/2020			23	2	0	Unassigned
+2458	Nebraska	US	04/13/2020			23	2	0	Unassigned
+2468	Nebraska	US	04/14/2020			18	5	0	Unassigned
+2480	Nebraska	US	04/15/2020			19	5	0	Unassigned
+2494	Nebraska	US	04/16/2020			23	6	0	Unassigned
+2496	Nebraska	US	04/17/2020			92	9	0	Unassigned
+2503	Nebraska	US	04/18/2020			60	9	0	Unassigned
+2520	Nebraska	US	04/19/2020			40	10	0	Unassigned
+2529	Nebraska	US	04/20/2020			37	15	0	Unassigned
+2538	Nebraska	US	04/21/2020			0	15	0	Unassigned
+2545	Nebraska	US	04/22/2020			12	20	0	Unassigned
+2562	Nebraska	US	04/23/2020			7	9	0	Unassigned
+2568	Nebraska	US	04/24/2020			0	12	0	Unassigned
+2573	Nebraska	US	04/25/2020			0	12	0	Unassigned
+2581	Nebraska	US	04/26/2020			10	18	0	Unassigned
+2588	Nebraska	US	04/27/2020			34	18	0	Unassigned
+2597	Nebraska	US	04/28/2020			23	18	0	Unassigned
+2602	Nebraska	US	04/29/2020			23	18	0	Unassigned
+2608	Nebraska	US	04/30/2020			48	3	0	Unassigned
+2618	Nebraska	US	05/01/2020			0	6	0	Unassigned
+2622	Nebraska	US	05/02/2020			0	6	0	Unassigned
+2627	Nebraska	US	05/03/2020			0	11	0	Unassigned
+2630	Nebraska	US	05/04/2020			0	11	0	Unassigned
+2638	Nebraska	US	05/05/2020			0	11	0	Unassigned
+2644	Nebraska	US	05/06/2020			0	11	0	Unassigned
+2651	Nebraska	US	05/07/2020			266	22	0	Unassigned
+2658	Nebraska	US	05/08/2020			124	21	0	Unassigned
+2660	Nebraska	US	05/09/2020			0	21	0	Unassigned
+2662	Nebraska	US	05/10/2020			0	21	0	Unassigned
+2662	Nebraska	US	05/11/2020			0	29	0	Unassigned
+2665	Nebraska	US	05/12/2020			0	31	0	Unassigned
+2666	Nebraska	US	05/13/2020			0	33	0	Unassigned
+2668	Nebraska	US	05/14/2020			0	33	0	Unassigned
+2673	Nebraska	US	05/15/2020			0	43	0	Unassigned
+2677	Nebraska	US	05/16/2020			165	53	0	Unassigned
+2680	Nebraska	US	05/17/2020			0	53	0	Unassigned
+2682	Nebraska	US	05/18/2020			162	53	0	Unassigned
+2686	Nebraska	US	05/19/2020			162	53	0	Unassigned
+2692	Nebraska	US	05/20/2020			170	4	0	Unassigned
+2694	Nebraska	US	05/21/2020			170	4	0	Unassigned
+2701	Nebraska	US	05/22/2020			169	13	0	Unassigned
+2703	Nebraska	US	05/23/2020			169	13	0	Unassigned
+2706	Nebraska	US	05/24/2020			189	13	0	Unassigned
+2707	Nebraska	US	05/25/2020			189	13	0	Unassigned
+2708	Nebraska	US	05/26/2020			189	13	0	Unassigned
+2711	Nebraska	US	05/27/2020			192	19	0	Unassigned
+2714	Nebraska	US	05/28/2020			192	29	0	Unassigned
+2717	Nebraska	US	05/29/2020			207	29	0	Unassigned
+2719	Nebraska	US	05/30/2020			217	35	0	Unassigned
+2720	Nebraska	US	05/31/2020			219	35	0	Unassigned
+2722	Nebraska	US	06/01/2020			215	35	0	Unassigned
+2727	Nebraska	US	06/02/2020			215	35	0	Unassigned
+2729	Nebraska	US	06/03/2020			215	35	0	Unassigned
+2730	Nebraska	US	06/04/2020			217	19	0	Unassigned
+2734	Nebraska	US	06/05/2020			217	0	0	Unassigned
+2736	Nebraska	US	06/06/2020			217	0	0	Unassigned
+2736	Nebraska	US	06/07/2020			217	0	0	Unassigned
+2736	Nebraska	US	06/08/2020			217	0	0	Unassigned
+2738	Nebraska	US	06/09/2020			217	0	0	Unassigned
+2740	Nebraska	US	06/10/2020			217	0	0	Unassigned
+2742	Nebraska	US	06/11/2020			180	1	0	Unassigned
+2756	Nebraska	US	06/12/2020			180	1	0	Unassigned
+2759	Nebraska	US	06/13/2020			180	1	0	Unassigned
+2759	Nebraska	US	06/14/2020			180	1	0	Unassigned
+2763	Nebraska	US	06/15/2020			176	1	0	Unassigned
+2761	Nebraska	US	06/16/2020			176	1	0	Unassigned
+2763	Nebraska	US	06/17/2020			176	1	0	Unassigned
+2763	Nebraska	US	06/18/2020			176	1	0	Unassigned
+2764	Nebraska	US	06/19/2020			176	1	0	Unassigned
+2768	Nebraska	US	06/20/2020			187	1	0	Unassigned
+2768	Nebraska	US	06/21/2020			187	1	0	Unassigned
+2771	Nebraska	US	06/22/2020			187	1	0	Unassigned
+2776	Nebraska	US	06/23/2020			187	1	0	Unassigned
+2788	Nebraska	US	06/24/2020			183	1	0	Unassigned
+2793	Nebraska	US	06/25/2020			167	1	0	Unassigned
+2794	Nebraska	US	06/26/2020			170	1	0	Unassigned
+2795	Nebraska	US	06/27/2020			174	1	0	Unassigned
+2795	Nebraska	US	06/28/2020			173	1	0	Unassigned
+2797	Nebraska	US	06/29/2020			175	1	0	Unassigned
+2799	Nebraska	US	06/30/2020			174	1	0	Unassigned
+2801	Nebraska	US	07/01/2020			176	1	0	Unassigned
+2804	Nebraska	US	07/02/2020			166	1	0	Unassigned
+2809	Nebraska	US	07/03/2020			160	1	0	Unassigned
+2810	Nebraska	US	07/04/2020			166	1	0	Unassigned
+2811	Nebraska	US	07/05/2020			168	1	0	Unassigned
+2814	Nebraska	US	07/06/2020			166	1	0	Unassigned
+2815	Nebraska	US	07/07/2020			126	1	0	Unassigned
+2818	Nebraska	US	07/08/2020			123	1	0	Unassigned
+2817	Nebraska	US	07/09/2020			123	0	0	Unassigned
+2821	Nebraska	US	07/10/2020			116	1	0	Unassigned
+2822	Nebraska	US	07/11/2020			114	1	0	Unassigned
+2824	Nebraska	US	07/12/2020			116	1	0	Unassigned
+2825	Nebraska	US	07/13/2020			115	1	0	Unassigned
+2831	Nebraska	US	07/14/2020			116	1	0	Unassigned
+2832	Nebraska	US	07/15/2020			118	2	0	Unassigned
+2834	Nebraska	US	07/16/2020			117	2	0	Unassigned
+2834	Nebraska	US	07/17/2020			114	2	0	Unassigned
+2907	Nebraska	US	07/18/2020			115	2	0	Unassigned
+2907	Nebraska	US	07/19/2020			120	2	0	Unassigned
+2830	Nebraska	US	07/20/2020			125	9	0	Unassigned
+2911	Nebraska	US	07/21/2020			120	2	0	Unassigned
+2912	Nebraska	US	07/22/2020			127	2	0	Unassigned
+2915	Nebraska	US	07/23/2020			130	2	0	Unassigned
+2914	Nebraska	US	07/24/2020			130	0	0	Unassigned
+2915	Nebraska	US	07/25/2020			130	0	0	Unassigned
+2916	Nebraska	US	07/26/2020			132	0	0	Unassigned
+2916	Nebraska	US	07/27/2020			142	0	0	Unassigned
+2916	Nebraska	US	07/28/2020			144	0	0	Unassigned
+2920	Nebraska	US	07/29/2020			149	0	0	Unassigned
+2920	Nebraska	US	07/30/2020			149	0	0	Unassigned
+2922	Nebraska	US	07/31/2020			145	0	0	Unassigned
+2922	Nebraska	US	08/01/2020			140	0	0	Unassigned
+2922	Nebraska	US	08/02/2020			143	0	0	Unassigned
+2922	Nebraska	US	08/03/2020			155	0	0	Unassigned
+2922	Nebraska	US	08/04/2020			151	0	0	Unassigned
+2926	Nebraska	US	08/05/2020			150	5	0	Unassigned
+2926	Nebraska	US	08/06/2020			147	0	0	Unassigned
+2926	Nebraska	US	08/07/2020			142	0	0	Unassigned
+2926	Nebraska	US	08/08/2020			139	0	0	Unassigned
+2926	Nebraska	US	08/09/2020			136	0	0	Unassigned
+2926	Nebraska	US	08/10/2020			155	0	0	Unassigned
+2449	Nebraska	US	08/11/2020			154	0	0	Unassigned
+2403	Nebraska	US	08/12/2020			160	0	0	Unassigned
+2404	Nebraska	US	08/13/2020			155	0	0	Unassigned
+2404	Nebraska	US	08/14/2020			161	0	0	Unassigned
+2404	Nebraska	US	08/15/2020			155	0	0	Unassigned
+2404	Nebraska	US	08/16/2020			154	0	0	Unassigned
+2406	Nebraska	US	08/17/2020			159	1	0	Unassigned
+2406	Nebraska	US	08/18/2020			163	1	0	Unassigned
+2408	Nebraska	US	08/19/2020			178	0	0	Unassigned
+2408	Nebraska	US	08/20/2020			166	0	0	Unassigned
+2408	Nebraska	US	08/21/2020			183	0	0	Unassigned
+2409	Nebraska	US	08/22/2020			170	0	0	Unassigned
+2409	Nebraska	US	08/23/2020			176	0	0	Unassigned
+2409	Nebraska	US	08/24/2020			168	1	0	Unassigned
+2409	Nebraska	US	08/25/2020			150	1	0	Unassigned
+2409	Nebraska	US	08/26/2020			158	2	0	Unassigned
+2409	Nebraska	US	08/27/2020			134	2	0	Unassigned
+2409	Nebraska	US	08/28/2020			125	2	0	Unassigned
+2409	Nebraska	US	08/29/2020			122	1	0	Unassigned
+2409	Nebraska	US	08/30/2020			125	1	0	Unassigned
+2409	Nebraska	US	08/31/2020			132	1	0	Unassigned
+2409	Nebraska	US	09/01/2020			137	0	0	Unassigned
+2409	Nebraska	US	09/02/2020			151	0	0	Unassigned
+2409	Nebraska	US	09/03/2020			156	1	0	Unassigned
+2409	Nebraska	US	09/04/2020			141	1	0	Unassigned
+2409	Nebraska	US	09/05/2020			141	1	0	Unassigned
+2409	Nebraska	US	09/06/2020			145	1	0	Unassigned
+2409	Nebraska	US	09/07/2020			143	1	0	Unassigned
+2409	Nebraska	US	09/08/2020			143	1	0	Unassigned
+2409	Nebraska	US	09/09/2020			149	0	0	Unassigned
+2409	Nebraska	US	09/10/2020			157	3	0	Unassigned
+2409	Nebraska	US	09/11/2020			157	3	0	Unassigned
+2409	Nebraska	US	09/12/2020			157	3	0	Unassigned
+2409	Nebraska	US	09/13/2020			146	0	0	Unassigned
+2409	Nebraska	US	09/14/2020			160	0	0	Unassigned
+2409	Nebraska	US	09/15/2020			160	0	0	Unassigned
+2409	Nebraska	US	09/16/2020			170	0	0	Unassigned
+2409	Nebraska	US	09/17/2020			184	0	0	Unassigned
+2409	Nebraska	US	09/18/2020			192	0	0	Unassigned
+2409	Nebraska	US	09/19/2020			194	0	0	Unassigned
+2409	Nebraska	US	09/20/2020			196	0	0	Unassigned
+2410	Nebraska	US	09/21/2020			223	2	0	Unassigned
+2410	Nebraska	US	09/22/2020			249	2	0	Unassigned
+2410	Nebraska	US	09/23/2020			246	0	0	Unassigned
+2410	Nebraska	US	09/24/2020			266	0	0	Unassigned
+2410	Nebraska	US	09/25/2020			277	0	0	Unassigned
+2410	Nebraska	US	09/26/2020			269	0	0	Unassigned
+2410	Nebraska	US	09/27/2020			273	0	0	Unassigned
+2410	Nebraska	US	09/28/2020			302	0	0	Unassigned
+2410	Nebraska	US	09/29/2020			299	0	0	Unassigned
+2410	Nebraska	US	09/30/2020			290	0	0	Unassigned
+2410	Nebraska	US	10/01/2020			316	0	0	Unassigned
+2410	Nebraska	US	10/02/2020			332	0	0	Unassigned
+2410	Nebraska	US	10/03/2020			335	0	0	Unassigned
+2410	Nebraska	US	10/04/2020			334	2	0	Unassigned
+2410	Nebraska	US	10/05/2020			351	1	0	Unassigned
+2410	Nebraska	US	10/06/2020			358	1	0	Unassigned
+2410	Nebraska	US	10/07/2020			391	1	0	Unassigned
+2410	Nebraska	US	10/08/2020			388	1	0	Unassigned
+2410	Nebraska	US	10/09/2020			388	1	0	Unassigned
+2410	Nebraska	US	10/10/2020			406	1	0	Unassigned
+2410	Nebraska	US	10/11/2020			412	1	0	Unassigned
+2411	Nebraska	US	10/12/2020			404	1	0	Unassigned
+2411	Nebraska	US	10/13/2020			405	1	0	Unassigned
+2411	Nebraska	US	10/14/2020			392	1	0	Unassigned
+2411	Nebraska	US	10/15/2020			398	1	0	Unassigned
+2412	Nebraska	US	10/16/2020			396	1	0	Unassigned
+2412	Nebraska	US	10/17/2020			405	1	0	Unassigned
+2412	Nebraska	US	10/18/2020			404	1	0	Unassigned
+2413	Nebraska	US	10/19/2020			412	1	0	Unassigned
+2413	Nebraska	US	10/20/2020			409	2	0	Unassigned
+2413	Nebraska	US	10/21/2020			410	3	0	Unassigned
+2413	Nebraska	US	10/22/2020			418	5	0	Unassigned
+2413	Nebraska	US	10/23/2020			431	5	0	Unassigned
+2413	Nebraska	US	10/24/2020			439	0	0	Unassigned
+2413	Nebraska	US	10/25/2020			450	0	0	Unassigned
+2413	Nebraska	US	10/26/2020			468	2	0	Unassigned
+2413	Nebraska	US	10/27/2020			461	3	0	Unassigned
+2414	Nebraska	US	10/28/2020			475	4.0	0	Unassigned
+2414	Nebraska	US	10/29/2020			495	5	0	Unassigned
+2414	Nebraska	US	10/30/2020			535	5	0	Unassigned
+2414	Nebraska	US	10/31/2020			528	8	0	Unassigned
+2414	Nebraska	US	11/01/2020			531	0	0	Unassigned
+2414	Nebraska	US	11/02/2020			532	1	0	Unassigned
+2415	Nebraska	US	11/03/2020			586	2	0	Unassigned
+2415	Nebraska	US	11/04/2020			623	2	0	Unassigned
+2415	Nebraska	US	11/05/2020			666	2	0	Unassigned
+2415	Nebraska	US	11/06/2020			680	2	0	Unassigned
+2415	Nebraska	US	11/07/2020			683	3	0	Unassigned
+2415	Nebraska	US	11/08/2020			695	3	0	Unassigned
+2415	Nebraska	US	11/09/2020			696	3	0.0	Unassigned
+2415	Nebraska	US	11/10/2020			701	6	0.0	Unassigned
+2415	Nebraska	US	11/11/2020			712	7	0.0	Unassigned
+2427	Nebraska	US	11/12/2020			725	1	0	Unassigned
+2427	Nebraska	US	11/13/2020			769	1	0	Unassigned
+2427	Nebraska	US	11/14/2020			784	1	0	Unassigned
+2427	Nebraska	US	11/15/2020			797	1	0	Unassigned
+2427	Nebraska	US	11/16/2020			819	3	0	Unassigned
+2427	Nebraska	US	11/17/2020			839	2	0	Unassigned
+2427	Nebraska	US	11/18/2020			871	2	0	Unassigned
+2427	Nebraska	US	11/19/2020			917	4	0	Unassigned
+2427	Nebraska	US	11/20/2020			922	0	0	Unassigned
+2427	Nebraska	US	11/21/2020			930	0	0	Unassigned
+2427	Nebraska	US	11/22/2020			953	0	0	Unassigned
+2427	Nebraska	US	11/23/2020			961	6	0	Unassigned
+2428	Nebraska	US	11/24/2020			961	6	0	Unassigned
+2428	Nebraska	US	11/25/2020			966	9	0	Unassigned
+2428	Nebraska	US	11/26/2020			1003	1	0	Unassigned
+2428	Nebraska	US	11/27/2020			996	1	0	Unassigned
+2428	Nebraska	US	11/28/2020			1007	2	0	Unassigned
+2428	Nebraska	US	11/29/2020			1027	2	0	Unassigned
+2428	Nebraska	US	11/30/2020			1043	3	0	Unassigned
+2428	Nebraska	US	12/01/2020			1048	4	0	Unassigned
+2428	Nebraska	US	12/02/2020			1051	7	0	Unassigned
+2428	Nebraska	US	12/03/2020			1063	2	0	Unassigned
+2428	Nebraska	US	12/04/2020			1071	1	0	Unassigned
+2428	Nebraska	US	12/05/2020			1084	1	0	Unassigned
+2428	Nebraska	US	12/06/2020			1085	1	0	Unassigned
+2428	Nebraska	US	12/07/2020			1099	4	0	Unassigned
+2428	Nebraska	US	12/08/2020			1135	6	0	Unassigned
+2428	Nebraska	US	12/09/2020			1135	7	0	Unassigned
+2428	Nebraska	US	12/10/2020			1131	9	0	Unassigned
+2428	Nebraska	US	12/11/2020			1158	0	0	Unassigned
+2428	Nebraska	US	12/12/2020			1154	0	0	Unassigned
+2428	Nebraska	US	12/13/2020			1173	0	0	Unassigned
+2428	Nebraska	US	12/14/2020			1178	0	0	Unassigned
+2428	Nebraska	US	12/15/2020			1171	2	0	Unassigned
+2428	Nebraska	US	12/16/2020			1175	2	0	Unassigned
+2428	Nebraska	US	12/17/2020			1186	2	0	Unassigned
+2428	Nebraska	US	12/18/2020			1184	3	0	Unassigned
+2428	Nebraska	US	12/19/2020			1185	3	0	Unassigned
+2428	Nebraska	US	12/20/2020			1187	1	0	Unassigned
+2428	Nebraska	US	12/21/2020			1188	2	0	Unassigned
+2428	Nebraska	US	12/22/2020			1202	2	0	Unassigned
+2428	Nebraska	US	12/23/2020			1199	3	0	Unassigned
+2428	Nebraska	US	12/24/2020			1208	4	0	Unassigned
+2428	Nebraska	US	12/25/2020			1212	4	0	Unassigned
+2428	Nebraska	US	12/26/2020			1210	4	0	Unassigned
+2428	Nebraska	US	12/27/2020			1218	4	0	Unassigned
+2428	Nebraska	US	12/28/2020			1229	5	0	Unassigned
+2428	Nebraska	US	12/29/2020			1241	6	0	Unassigned
+2428	Nebraska	US	12/30/2020			1253	6	0	Unassigned
+2428	Nebraska	US	12/31/2020			1251	2	0	Unassigned
+2428	Nebraska	US	01/01/2021			1257	5	0	Unassigned
+2428	Nebraska	US	01/02/2021			1261	5	0	Unassigned
+2429	Nebraska	US	01/03/2021			1264	5	0	Unassigned
+2429	Nebraska	US	01/04/2021			1263	5	0	Unassigned
+2429	Nebraska	US	01/05/2021			1266	0	0	Unassigned
+2429	Nebraska	US	01/06/2021			1271	2	0	Unassigned
+2429	Nebraska	US	01/07/2021			1260	2	0	Unassigned
+2429	Nebraska	US	01/08/2021			1287	2	0	Unassigned
+2429	Nebraska	US	01/09/2021			1294	2	0	Unassigned
+2429	Nebraska	US	01/10/2021			1295	6	0	Unassigned
+2429	Nebraska	US	01/11/2021			1293	6	0	Unassigned
+2429	Nebraska	US	01/12/2021			1289	7	0	Unassigned
+2429	Nebraska	US	01/13/2021			1308	7	0	Unassigned
+2429	Nebraska	US	01/14/2021			1309	7	0	Unassigned
+2430	Nebraska	US	01/15/2021			1306	7	0	Unassigned
+2430	Nebraska	US	01/16/2021			1306	7	0	Unassigned
+2430	Nebraska	US	01/17/2021			1302	7	0	Unassigned
+2430	Nebraska	US	01/18/2021			1302	7	0	Unassigned
+2430	Nebraska	US	01/19/2021			1302	7	0	Unassigned
+2430	Nebraska	US	01/20/2021			1334	2	0	Unassigned
+2431	Nebraska	US	01/21/2021			1346	3	0	Unassigned
+2431	Nebraska	US	01/22/2021			1357	3	0	Unassigned
+2431	Nebraska	US	01/23/2021			1364	3	0	Unassigned
+2431	Nebraska	US	01/24/2021			1375	3	0	Unassigned
+2431	Nebraska	US	01/25/2021			1382	3	0	Unassigned
+2431	Nebraska	US	01/26/2021			1373	5	0	Unassigned
+2431	Nebraska	US	01/27/2021			1371	5	0	Unassigned
+2431	Nebraska	US	01/28/2021			1378	8	0	Unassigned
+2431	Nebraska	US	01/29/2021			1378	8	0	Unassigned
+2431	Nebraska	US	01/30/2021			1386	8	0	Unassigned
+2431	Nebraska	US	01/31/2021			1387	8	0	Unassigned
+2431	Nebraska	US	02/01/2021			1386	8	0	Unassigned
+2431	Nebraska	US	02/02/2021			1386	8	0	Unassigned
+2431	Nebraska	US	02/03/2021			1398	8	0	Unassigned
+2431	Nebraska	US	02/04/2021			1401	8	0	Unassigned
+2431	Nebraska	US	02/05/2021			1401	8	0	Unassigned
+2431	Nebraska	US	02/06/2021			1410	9	0	Unassigned
+2431	Nebraska	US	02/07/2021			1407	9	0	Unassigned
+2431	Nebraska	US	02/08/2021			1405	0	0	Unassigned
+2431	Nebraska	US	02/09/2021			1414	0	0	Unassigned
+2431	Nebraska	US	02/10/2021			1409	0	0	Unassigned
+2431	Nebraska	US	02/11/2021			1415	1	0	Unassigned
+2431	Nebraska	US	02/12/2021			1425	1	0	Unassigned
+2431	Nebraska	US	02/13/2021			1730	1	0	Unassigned
+2431	Nebraska	US	02/14/2021			1732	1	0	Unassigned
+2431	Nebraska	US	02/15/2021			1731	1	0	Unassigned
+2431	Nebraska	US	02/16/2021			1731	1	0	Unassigned
+2431	Nebraska	US	02/17/2021			1728	2	0	Unassigned
+2431	Nebraska	US	02/18/2021			1732	2	0	Unassigned
+2432	Nebraska	US	02/19/2021			1736	2	0	Unassigned
+2432	Nebraska	US	02/20/2021			1735	2	0	Unassigned
+2432	Nebraska	US	02/21/2021			1734	2	0	Unassigned
+2432	Nebraska	US	02/22/2021			1736	2	0	Unassigned
+2432	Nebraska	US	02/23/2021			1739	2	0	Unassigned
+2432	Nebraska	US	02/24/2021			1736	2	0	Unassigned
+2432	Nebraska	US	02/25/2021			1730	4	0	Unassigned
+2432	Nebraska	US	02/26/2021			1728	6	0	Unassigned
+2432	Nebraska	US	02/27/2021			1726	6	0	Unassigned
+2432	Nebraska	US	02/28/2021			1726	6	0	Unassigned
+2432	Nebraska	US	03/01/2021			1716	6	0	Unassigned
+2432	Nebraska	US	03/02/2021			1727	7	0	Unassigned
+2432	Nebraska	US	03/03/2021			1721	7	0	Unassigned
+2432	Nebraska	US	03/04/2021			1726	7	0	Unassigned
+2432	Nebraska	US	03/05/2021			1734	7	0	Unassigned
+2432	Nebraska	US	03/06/2021			1740	7	0	Unassigned
+2432	Nebraska	US	03/07/2021			1782	7		Unassigned
+2432	Nebraska	US	03/08/2021			1739	7		Unassigned
+2432	Nebraska	US	03/09/2021			1752	7		Unassigned
+2432	Nebraska	US	03/10/2021			1749	7		Unassigned
+2432	Nebraska	US	03/11/2021			1764	7		Unassigned
+2432	Nebraska	US	03/12/2021			1769	7		Unassigned
+2432	Nebraska	US	03/13/2021			1772	7		Unassigned
+2432	Nebraska	US	03/14/2021			1775	7		Unassigned
+2432	Nebraska	US	03/15/2021			1775	7		Unassigned
+2432	Nebraska	US	03/16/2021			1820	7		Unassigned
+2432	Nebraska	US	03/17/2021			1779	7		Unassigned
+2432	Nebraska	US	03/18/2021			1779	7		Unassigned
+2432	Nebraska	US	03/19/2021			1775	7		Unassigned
+2432	Nebraska	US	03/20/2021			1801	7		Unassigned
+2432	Nebraska	US	03/21/2021			1805	7		Unassigned
+2432	Nebraska	US	03/22/2021			1805	7		Unassigned
+2432	Nebraska	US	03/23/2021			1768	7		Unassigned
+2432	Nebraska	US	03/24/2021			1766	7		Unassigned
+2432	Nebraska	US	03/25/2021			1761	7		Unassigned
+2432	Nebraska	US	03/26/2021			1808	7		Unassigned
+2432	Nebraska	US	03/27/2021			1768	7		Unassigned
+2432	Nebraska	US	03/28/2021			1804	7		Unassigned
+2432	Nebraska	US	03/29/2021			1805	7		Unassigned
+2432	Nebraska	US	03/30/2021			1810	7		Unassigned
+2432	Nebraska	US	03/31/2021			1816	7		Unassigned
+2432	Nebraska	US	04/01/2021			1813	7		Unassigned
+2434	Nebraska	US	04/02/2021			1808	7		Unassigned
+2434	Nebraska	US	04/03/2021			1811	7		Unassigned
+2434	Nebraska	US	04/04/2021			1812	7		Unassigned
+2434	Nebraska	US	04/05/2021			1813	7		Unassigned
+2434	Nebraska	US	04/06/2021			1812	7		Unassigned
+2434	Nebraska	US	04/07/2021			1816	7		Unassigned
+2434	Nebraska	US	04/08/2021			1813	7		Unassigned
+2434	Nebraska	US	04/09/2021			1824	7		Unassigned
+2434	Nebraska	US	04/10/2021			1829	7		Unassigned
+2434	Nebraska	US	04/11/2021			1829	7		Unassigned
+2434	Nebraska	US	04/12/2021			1824	7		Unassigned
+2434	Nebraska	US	04/13/2021			1827	7		Unassigned
+2434	Nebraska	US	04/14/2021			1833	28		Unassigned
+2434	Nebraska	US	04/15/2021			1838	7		Unassigned
+2434	Nebraska	US	04/16/2021			1842	7		Unassigned
+2434	Nebraska	US	04/17/2021			1855	7		Unassigned
+2434	Nebraska	US	04/18/2021			1856	7		Unassigned
+2434	Nebraska	US	04/19/2021			1857	7		Unassigned
+2434	Nebraska	US	04/20/2021			1861	7		Unassigned
+2434	Nebraska	US	04/21/2021			1855	7		Unassigned
+2434	Nebraska	US	04/22/2021			1857	7		Unassigned
+2434	Nebraska	US	04/23/2021			1860	7		Unassigned
+2434	Nebraska	US	04/24/2021			1868	7		Unassigned
+2434	Nebraska	US	04/25/2021			1866	7		Unassigned
+2434	Nebraska	US	04/26/2021			1863	7		Unassigned
+2434	Nebraska	US	04/27/2021			1864	7		Unassigned
+2434	Nebraska	US	04/28/2021			1867	7		Unassigned
+2434	Nebraska	US	04/29/2021			1857	7		Unassigned
+2434	Nebraska	US	04/30/2021			1859	7		Unassigned
+2434	Nebraska	US	05/01/2021			1862	7		Unassigned
+2434	Nebraska	US	05/02/2021			1867	7		Unassigned
+2434	Nebraska	US	05/03/2021			1867	7		Unassigned
+2434	Nebraska	US	05/04/2021			1869	7		Unassigned
+2434	Nebraska	US	05/05/2021			1866	7		Unassigned
+2434	Nebraska	US	05/06/2021			1862	7		Unassigned
+2434	Nebraska	US	05/07/2021			1859	7		Unassigned
+2434	Nebraska	US	05/08/2021			1864	7		Unassigned
+2434	Nebraska	US	05/09/2021			1867	7		Unassigned
+2434	Nebraska	US	05/10/2021			1868	7		Unassigned
+2434	Nebraska	US	05/11/2021			1914	8		Unassigned
+2434	Nebraska	US	05/12/2021			1909	9		Unassigned
+2434	Nebraska	US	05/13/2021			1907	8		Unassigned
+2434	Nebraska	US	05/14/2021			1905	8		Unassigned
+2434	Nebraska	US	05/15/2021			1905	8		Unassigned
+2434	Nebraska	US	05/16/2021			1905	0		Unassigned
+2434	Nebraska	US	05/17/2021			1901	8		Unassigned
+2434	Nebraska	US	05/18/2021			1902	7		Unassigned
+2434	Nebraska	US	05/19/2021			1898	7		Unassigned
+2434	Nebraska	US	05/20/2021			1893	6		Unassigned
+2434	Nebraska	US	05/21/2021			1890	6		Unassigned
+2434	Nebraska	US	05/22/2021			1890	6		Unassigned
+2434	Nebraska	US	05/23/2021			1890	6		Unassigned
+2434	Nebraska	US	05/24/2021			1889	6		Unassigned
+2434	Nebraska	US	05/25/2021			1891	6		Unassigned
+2434	Nebraska	US	05/26/2021			1962	6		Unassigned
+2435	Nebraska	US	05/27/2021			2008	6		Unassigned
+2435	Nebraska	US	05/28/2021			2069	19		Unassigned
+2435	Nebraska	US	05/29/2021			2069	19		Unassigned
+2435	Nebraska	US	05/30/2021			2069	19		Unassigned
+2435	Nebraska	US	05/31/2021			2133	19		Unassigned
+2435	Nebraska	US	06/01/2021			2169	19		Unassigned
+2435	Nebraska	US	06/02/2021			2199	19		Unassigned
+2435	Nebraska	US	06/03/2021			2282	19		Unassigned
+2435	Nebraska	US	06/04/2021			2323	19		Unassigned
+2435	Nebraska	US	06/05/2021			2323	19		Unassigned
+2435	Nebraska	US	06/06/2021			2323	19		Unassigned
+2435	Nebraska	US	06/07/2021			2413	21		Unassigned
+2435	Nebraska	US	06/08/2021			2450	24		Unassigned
+2435	Nebraska	US	06/09/2021			2479	26		Unassigned
+2435	Nebraska	US	06/10/2021			2514	26		Unassigned
+2435	Nebraska	US	06/11/2021			2557	26		Unassigned
+2435	Nebraska	US	06/12/2021			2557	26		Unassigned
+2435	Nebraska	US	06/13/2021			2557	26		Unassigned
+2435	Nebraska	US	06/14/2021			2612	28		Unassigned
+2435	Nebraska	US	06/15/2021			2653	28		Unassigned
+2435	Nebraska	US	06/16/2021			2696	28		Unassigned
+2437	Nebraska	US	06/17/2021			2725	28		Unassigned
+2437	Nebraska	US	06/18/2021			2751	29		Unassigned
+2437	Nebraska	US	06/19/2021			2751	29		Unassigned
+2437	Nebraska	US	06/20/2021			2751	29		Unassigned
+2437	Nebraska	US	06/21/2021			2830	29		Unassigned
+2437	Nebraska	US	06/22/2021			2868	27		Unassigned
+2437	Nebraska	US	06/23/2021			2921	29		Unassigned
+2438	Nebraska	US	06/24/2021			2971	29		Unassigned
+2438	Nebraska	US	06/25/2021			2991	29		Unassigned
+2438	Nebraska	US	06/26/2021			2991	29		Unassigned
+2438	Nebraska	US	06/27/2021			2991	29		Unassigned
+2438	Nebraska	US	06/28/2021			3095	29		Unassigned
+2438	Nebraska	US	06/29/2021			3169	31		Unassigned
+2438	Nebraska	US	06/30/2021			3253	31		Unassigned
+2438	Nebraska	US	07/01/2021			3253	31		Unassigned
+2438	Nebraska	US	07/02/2021			3447	31		Unassigned
+2438	Nebraska	US	07/03/2021			3447	31		Unassigned
+2438	Nebraska	US	07/04/2021			3447	31		Unassigned
+2438	Nebraska	US	07/05/2021			3447	31		Unassigned
+2438	Nebraska	US	07/06/2021			3638	32		Unassigned
+2438	Nebraska	US	07/07/2021			3638	32		Unassigned
+2438	Nebraska	US	07/08/2021			3834	32		Unassigned
+2438	Nebraska	US	07/09/2021			3936	32		Unassigned
+2438	Nebraska	US	07/10/2021			3936	32		Unassigned
+2438	Nebraska	US	07/11/2021			3936	32		Unassigned
+2438	Nebraska	US	07/12/2021			3936	32		Unassigned
+2438	Nebraska	US	07/13/2021			4242	35		Unassigned
+2438	Nebraska	US	07/14/2021			4365	37		Unassigned
+2438	Nebraska	US	07/15/2021			4476	40		Unassigned
+2438	Nebraska	US	07/16/2021			4626	45		Unassigned
+2438	Nebraska	US	07/17/2021			4626	45		Unassigned
+2438	Nebraska	US	07/18/2021			4626	45		Unassigned
+2438	Nebraska	US	07/19/2021			4626	45		Unassigned
+2438	Nebraska	US	07/20/2021			5072	51		Unassigned
+2438	Nebraska	US	07/21/2021			5207	55		Unassigned
+2438	Nebraska	US	07/22/2021			5371	54		Unassigned
+2438	Nebraska	US	07/23/2021			5604	54		Unassigned
+2438	Nebraska	US	07/24/2021			5604	54		Unassigned
+2438	Nebraska	US	07/25/2021			5604	54		Unassigned
+2438	Nebraska	US	07/26/2021			5604	54		Unassigned
+2438	Nebraska	US	07/27/2021			5604	54		Unassigned
+2438	Nebraska	US	07/28/2021			6613	50		Unassigned
+2438	Nebraska	US	07/29/2021			6851	50		Unassigned
+2438	Nebraska	US	07/30/2021			7215	50		Unassigned
+2438	Nebraska	US	07/31/2021			7215	50		Unassigned
+2438	Nebraska	US	08/01/2021			7215	50		Unassigned
+2438	Nebraska	US	08/02/2021			7215	50		Unassigned
+2438	Nebraska	US	08/03/2021			8208	51		Unassigned
+2438	Nebraska	US	08/04/2021			8589	55		Unassigned
+2438	Nebraska	US	08/05/2021			9001	59		Unassigned
+2438	Nebraska	US	08/06/2021			9395	59		Unassigned
+2438	Nebraska	US	08/07/2021			9834	60		Unassigned
+2438	Nebraska	US	08/08/2021			9834	60		Unassigned
+2438	Nebraska	US	08/09/2021			9834	60		Unassigned
+2438	Nebraska	US	08/10/2021			10681	57		Unassigned
+2438	Nebraska	US	08/11/2021			11164	55		Unassigned
+2438	Nebraska	US	08/12/2021			11164	55		Unassigned
+2438	Nebraska	US	08/13/2021			11164	55		Unassigned
+2438	Nebraska	US	08/14/2021			11164	55		Unassigned
+2438	Nebraska	US	08/15/2021			11164	55		Unassigned
+2438	Nebraska	US	08/16/2021			11164	55		Unassigned
+2438	Nebraska	US	08/17/2021			13840	72		Unassigned
+2438	Nebraska	US	08/18/2021			14451	72		Unassigned
+2438	Nebraska	US	08/19/2021			15111	72		Unassigned
+2438	Nebraska	US	08/20/2021			15520	72		Unassigned
+2438	Nebraska	US	08/21/2021			16257	72		Unassigned
+2438	Nebraska	US	08/22/2021			16257	72		Unassigned
+2438	Nebraska	US	08/23/2021			16257	72		Unassigned
+2438	Nebraska	US	08/24/2021			17867	82		Unassigned
+2438	Nebraska	US	08/25/2021			18793	84		Unassigned
+2438	Nebraska	US	08/26/2021			19569	86		Unassigned
+2438	Nebraska	US	08/27/2021			20436	85		Unassigned
+2438	Nebraska	US	08/28/2021			21263	89		Unassigned
+2438	Nebraska	US	08/29/2021			21263	89		Unassigned
+2438	Nebraska	US	08/30/2021			21263	89		Unassigned
+2438	Nebraska	US	08/31/2021			23019	92		Unassigned
+2438	Nebraska	US	09/01/2021			23019	92		Unassigned
