@@ -528,3 +528,4 @@
 1908	Massachusetts	US	08/30/2021	41.40674725	-70.68763497	3529	6		Dukes and Nantucket
 1908	Massachusetts	US	08/31/2021	41.40674725	-70.68763497	3535	6		Dukes and Nantucket
 1908	Massachusetts	US	09/01/2021	41.40674725	-70.68763497	3539	6		Dukes and Nantucket
+1908	Massachusetts	US	09/02/2021	41.40674725	-70.68763497	3560	6		Dukes and Nantucket

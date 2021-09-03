@@ -520,3 +520,4 @@
 1555	Iowa	US	08/30/2021			7	0		Unassigned
 1555	Iowa	US	08/31/2021			7	0		Unassigned
 1555	Iowa	US	09/01/2021			8	0		Unassigned
+1555	Iowa	US	09/02/2021			8	0		Unassigned

@@ -514,3 +514,4 @@
 1224	Hawaii	US	08/30/2021			2141	3		Out of HI
 1224	Hawaii	US	08/31/2021			2149	3		Out of HI
 1224	Hawaii	US	09/01/2021			2157	4		Out of HI
+1224	Hawaii	US	09/02/2021			2165	4		Out of HI

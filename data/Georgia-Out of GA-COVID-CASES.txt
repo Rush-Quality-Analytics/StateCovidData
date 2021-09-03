@@ -505,3 +505,4 @@
 1166	Georgia	US	08/30/2021			36640	730		Out of GA
 1166	Georgia	US	08/31/2021			36893	733		Out of GA
 1166	Georgia	US	09/01/2021			37196	738		Out of GA
+1166	Georgia	US	09/02/2021			37458	743		Out of GA

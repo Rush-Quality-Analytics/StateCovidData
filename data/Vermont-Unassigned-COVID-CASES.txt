@@ -527,3 +527,4 @@
 3601	Vermont	US	08/30/2021			21	0		Unassigned
 3601	Vermont	US	08/31/2021			21	0		Unassigned
 3601	Vermont	US	09/01/2021			20	0		Unassigned
+3601	Vermont	US	09/02/2021			20	0		Unassigned

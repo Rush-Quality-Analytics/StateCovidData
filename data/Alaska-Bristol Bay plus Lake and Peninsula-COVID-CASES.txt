@@ -317,3 +317,4 @@
 730	Alaska	US	08/30/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula
 730	Alaska	US	08/31/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula
 730	Alaska	US	09/01/2021	58.62403337	-156.21405890000003	253	0		Bristol Bay plus Lake and Peninsula
+730	Alaska	US	09/02/2021	58.62403337	-156.21405890000003	258	0		Bristol Bay plus Lake and Peninsula

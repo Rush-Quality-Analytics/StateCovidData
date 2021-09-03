@@ -345,3 +345,4 @@
 2569	New York	US	08/30/2021			0	273		Out of NY
 2569	New York	US	08/31/2021			0	273		Out of NY
 2569	New York	US	09/01/2021			0	273		Out of NY
+2569	New York	US	09/02/2021			0	274		Out of NY
