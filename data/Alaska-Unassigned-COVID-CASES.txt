@@ -526,3 +526,6 @@
 751	Alaska	US	08/31/2021			368	0		Unassigned
 751	Alaska	US	09/01/2021			371	0		Unassigned
 751	Alaska	US	09/02/2021			367	0		Unassigned
+751	Alaska	US	09/03/2021			370	0		Unassigned
+751	Alaska	US	09/04/2021			370	0		Unassigned
+751	Alaska	US	09/05/2021			370	0		Unassigned

@@ -507,3 +507,6 @@
 1943	Michigan	US	08/31/2021			320	5		Federal Correctional Institution (FCI)
 1943	Michigan	US	09/01/2021			320	5		Federal Correctional Institution (FCI)
 1943	Michigan	US	09/02/2021			320	5		Federal Correctional Institution (FCI)
+1943	Michigan	US	09/03/2021			320	5		Federal Correctional Institution (FCI)
+1943	Michigan	US	09/04/2021			320	5		Federal Correctional Institution (FCI)
+1943	Michigan	US	09/05/2021			320	5		Federal Correctional Institution (FCI)

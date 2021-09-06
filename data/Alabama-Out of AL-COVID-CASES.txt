@@ -436,3 +436,6 @@
 708	Alabama	US	08/31/2021			0	0		Out of AL
 708	Alabama	US	09/01/2021			0	0		Out of AL
 708	Alabama	US	09/02/2021			0	0		Out of AL
+708	Alabama	US	09/03/2021			0	0		Out of AL
+708	Alabama	US	09/04/2021			0	0		Out of AL
+708	Alabama	US	09/05/2021			0	0		Out of AL

@@ -522,3 +522,6 @@
 904	California	US	08/31/2021			346	0		Unassigned
 904	California	US	09/01/2021			223	0		Unassigned
 904	California	US	09/02/2021			112	0		Unassigned
+904	California	US	09/03/2021			97	0		Unassigned
+904	California	US	09/04/2021			102	0		Unassigned
+904	California	US	09/05/2021			91	0		Unassigned

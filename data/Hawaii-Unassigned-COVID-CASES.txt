@@ -527,3 +527,6 @@
 1225	Hawaii	US	08/31/2021			0	0		Unassigned
 1225	Hawaii	US	09/01/2021			0	0		Unassigned
 1225	Hawaii	US	09/02/2021			0	0		Unassigned
+1225	Hawaii	US	09/03/2021			0	0		Unassigned
+1225	Hawaii	US	09/04/2021			0	0		Unassigned
+1225	Hawaii	US	09/05/2021			0	0		Unassigned

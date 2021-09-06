@@ -411,3 +411,6 @@
 3078	Puerto Rico	US	08/31/2021			383	0		Out of PR
 3078	Puerto Rico	US	09/01/2021			385	0		Out of PR
 3078	Puerto Rico	US	09/02/2021			385	0		Out of PR
+3078	Puerto Rico	US	09/03/2021			429	0		Out of PR
+3078	Puerto Rico	US	09/04/2021			431	0		Out of PR
+3078	Puerto Rico	US	09/05/2021			432	0		Out of PR

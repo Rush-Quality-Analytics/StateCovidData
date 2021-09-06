@@ -521,3 +521,6 @@
 981	Connecticut	US	08/31/2021			1263	1		Unassigned
 981	Connecticut	US	09/01/2021			1255	1		Unassigned
 981	Connecticut	US	09/02/2021			1261	1		Unassigned
+981	Connecticut	US	09/03/2021			1259	1		Unassigned
+981	Connecticut	US	09/04/2021			1259	1		Unassigned
+981	Connecticut	US	09/05/2021			1259	1		Unassigned
