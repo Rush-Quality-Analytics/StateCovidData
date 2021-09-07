@@ -509,3 +509,4 @@
 1166	Georgia	US	09/03/2021			37765	747		Out of GA
 1166	Georgia	US	09/04/2021			37765	747		Out of GA
 1166	Georgia	US	09/05/2021			37765	747		Out of GA
+1166	Georgia	US	09/06/2021			37765	747		Out of GA
