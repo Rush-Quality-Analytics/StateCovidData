@@ -533,3 +533,4 @@
 3290	Tennessee	US	09/05/2021			24104	107		Out of TN
 3290	Tennessee	US	09/06/2021			24104	107		Out of TN
 3290	Tennessee	US	09/07/2021			25661	108		Out of TN
+3290	Tennessee	US	09/08/2021			25821	110		Out of TN
