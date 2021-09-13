@@ -420,3 +420,4 @@
 3095	Puerto Rico	US	09/09/2021			3520	2967		Unassigned
 3095	Puerto Rico	US	09/10/2021			3552	2984		Unassigned
 3095	Puerto Rico	US	09/11/2021			3559	2995		Unassigned
+3095	Puerto Rico	US	09/12/2021			3569	2998		Unassigned
