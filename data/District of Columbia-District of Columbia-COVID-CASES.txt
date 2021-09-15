@@ -540,3 +540,5 @@
 988	District of Columbia	US	09/10/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
 988	District of Columbia	US	09/11/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
 988	District of Columbia	US	09/12/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
+988	District of Columbia	US	09/13/2021	38.90417773	-77.01655992	57771	1165		District of Columbia
+988	District of Columbia	US	09/14/2021	38.90417773	-77.01655992	58146	1167		District of Columbia

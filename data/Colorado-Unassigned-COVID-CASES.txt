@@ -539,3 +539,5 @@
 970	Colorado	US	09/10/2021			90	0		Unassigned
 970	Colorado	US	09/11/2021			90	0		Unassigned
 970	Colorado	US	09/12/2021			90	0		Unassigned
+970	Colorado	US	09/13/2021			91	0		Unassigned
+970	Colorado	US	09/14/2021			91	0		Unassigned

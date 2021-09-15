@@ -514,3 +514,5 @@
 2683	North Carolina	US	09/10/2021			761	0		Unassigned
 2683	North Carolina	US	09/11/2021			761	0		Unassigned
 2683	North Carolina	US	09/12/2021			761	0		Unassigned
+2683	North Carolina	US	09/13/2021			4	0		Unassigned
+2683	North Carolina	US	09/14/2021			426	0		Unassigned
