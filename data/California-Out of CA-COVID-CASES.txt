@@ -1,0 +1,3 @@
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+879	California	US	09/16/2021			0	0		Out of CA
+879	California	US	09/17/2021			0	0		Out of CA

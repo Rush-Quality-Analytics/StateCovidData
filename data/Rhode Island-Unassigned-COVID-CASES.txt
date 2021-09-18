@@ -541,3 +541,6 @@
 3108	Rhode Island	US	09/12/2021			14191	25		Unassigned
 3108	Rhode Island	US	09/13/2021			15153	34		Unassigned
 3108	Rhode Island	US	09/14/2021			15587	40		Unassigned
+3108	Rhode Island	US	09/15/2021			13916	21		Unassigned
+3109	Rhode Island	US	09/16/2021			14238	22		Unassigned
+3109	Rhode Island	US	09/17/2021			14712	24		Unassigned

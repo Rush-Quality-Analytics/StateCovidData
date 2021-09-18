@@ -532,3 +532,6 @@
 2897	Oklahoma	US	09/12/2021			0	0		Out of OK
 2897	Oklahoma	US	09/13/2021			0	0		Out of OK
 2897	Oklahoma	US	09/14/2021			0	0		Out of OK
+2897	Oklahoma	US	09/15/2021			0	0		Out of OK
+2898	Oklahoma	US	09/16/2021			0	0		Out of OK
+2898	Oklahoma	US	09/17/2021			0	0		Out of OK

@@ -496,3 +496,6 @@
 1342	Illinois	US	09/12/2021			5	0		Out of IL
 1342	Illinois	US	09/13/2021			5	0		Out of IL
 1342	Illinois	US	09/14/2021			5	0		Out of IL
+1342	Illinois	US	09/15/2021			8	0		Out of IL
+1343	Illinois	US	09/16/2021			3	0		Out of IL
+1343	Illinois	US	09/17/2021			8	0		Out of IL

@@ -541,3 +541,6 @@
 3774	Washington	US	09/12/2021			1654	3		Unassigned
 3774	Washington	US	09/13/2021			1651	3		Unassigned
 3774	Washington	US	09/14/2021			1634	3		Unassigned
+3774	Washington	US	09/15/2021			1659	3		Unassigned
+3775	Washington	US	09/16/2021			1642	3		Unassigned
+3775	Washington	US	09/17/2021			1660	3		Unassigned

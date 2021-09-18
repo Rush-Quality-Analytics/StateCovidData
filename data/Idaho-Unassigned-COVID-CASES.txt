@@ -528,3 +528,6 @@
 1268	Idaho	US	09/12/2021			0	0		Unassigned
 1268	Idaho	US	09/13/2021			7	0		Unassigned
 1268	Idaho	US	09/14/2021			7	0		Unassigned
+1268	Idaho	US	09/15/2021			7	0		Unassigned
+1269	Idaho	US	09/16/2021			7	0		Unassigned
+1269	Idaho	US	09/17/2021			7	0		Unassigned

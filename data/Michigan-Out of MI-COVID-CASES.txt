@@ -540,3 +540,6 @@
 1991	Michigan	US	09/12/2021			2046	16		Out of MI
 1991	Michigan	US	09/13/2021			2071	16		Out of MI
 1991	Michigan	US	09/14/2021			2071	16		Out of MI
+1991	Michigan	US	09/15/2021			2081	16		Out of MI
+1992	Michigan	US	09/16/2021			2081	16		Out of MI
+1992	Michigan	US	09/17/2021			2111	16		Out of MI

@@ -541,3 +541,6 @@
 1852	Louisiana	US	09/12/2021			517	0		Unassigned
 1852	Louisiana	US	09/13/2021			517	0		Unassigned
 1852	Louisiana	US	09/14/2021			518	0		Unassigned
+1852	Louisiana	US	09/15/2021			522	0		Unassigned
+1853	Louisiana	US	09/16/2021			530	0		Unassigned
+1853	Louisiana	US	09/17/2021			530	0		Unassigned

@@ -541,3 +541,6 @@
 2587	New York	US	09/12/2021			124	31		Unassigned
 2587	New York	US	09/13/2021			125	31		Unassigned
 2587	New York	US	09/14/2021			132	31		Unassigned
+2587	New York	US	09/15/2021			130	31		Unassigned
+2588	New York	US	09/16/2021			134	31		Unassigned
+2588	New York	US	09/17/2021			130	31		Unassigned

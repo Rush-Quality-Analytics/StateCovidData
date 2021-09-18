@@ -533,3 +533,6 @@
 1555	Iowa	US	09/12/2021			4039	0		Unassigned
 1555	Iowa	US	09/13/2021			4039	0		Unassigned
 1555	Iowa	US	09/14/2021			8065	0		Unassigned
+1555	Iowa	US	09/15/2021			19	0		Unassigned
+1556	Iowa	US	09/16/2021			580	0		Unassigned
+1556	Iowa	US	09/17/2021			580	0		Unassigned
