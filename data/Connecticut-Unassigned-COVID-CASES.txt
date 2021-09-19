@@ -536,3 +536,4 @@
 981	Connecticut	US	09/15/2021			1296	2		Unassigned
 982	Connecticut	US	09/16/2021			1297	2		Unassigned
 982	Connecticut	US	09/17/2021			1308	3		Unassigned
+982	Connecticut	US	09/18/2021			1308	3		Unassigned

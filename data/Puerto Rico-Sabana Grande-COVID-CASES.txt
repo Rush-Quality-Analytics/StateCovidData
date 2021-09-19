@@ -426,3 +426,4 @@
 3085	Puerto Rico	US	09/15/2021	18.08282	-66.943758	593	0		Sabana Grande
 3086	Puerto Rico	US	09/16/2021	18.08282	-66.943758	594	0		Sabana Grande
 3086	Puerto Rico	US	09/17/2021	18.08282	-66.943758	596	0		Sabana Grande
+3086	Puerto Rico	US	09/18/2021	18.08282	-66.943758	599	0		Sabana Grande

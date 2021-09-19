@@ -541,3 +541,4 @@
 1051	Florida	US	09/15/2021			14375	12284		Unassigned
 1052	Florida	US	09/16/2021			24135	13838		Unassigned
 1052	Florida	US	09/17/2021			2963	14267		Unassigned
+1052	Florida	US	09/18/2021			2963	14267		Unassigned

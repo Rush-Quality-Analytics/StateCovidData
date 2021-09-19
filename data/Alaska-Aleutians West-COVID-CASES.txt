@@ -445,3 +445,4 @@
 726	Alaska	US	09/15/2021	52.3233	-174.1596	845	1		Aleutians West
 726	Alaska	US	09/16/2021	52.3233	-174.1596	846	1		Aleutians West
 726	Alaska	US	09/17/2021	52.3233	-174.1596	847	1		Aleutians West
+726	Alaska	US	09/18/2021	52.3233	-174.1596	847	1		Aleutians West

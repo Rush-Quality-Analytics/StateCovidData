@@ -528,3 +528,4 @@
 1901	Maryland	US	09/15/2021			0	66		Unassigned
 1902	Maryland	US	09/16/2021			0	71		Unassigned
 1902	Maryland	US	09/17/2021			0	57		Unassigned
+1902	Maryland	US	09/18/2021			0	54		Unassigned
