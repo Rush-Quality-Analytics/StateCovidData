@@ -539,3 +539,5 @@
 2439	Nebraska	US	09/16/2021			35671	138		Unassigned
 2439	Nebraska	US	09/17/2021			36552	141		Unassigned
 2439	Nebraska	US	09/18/2021			36552	141		Unassigned
+2439	Nebraska	US	09/19/2021			36552	141		Unassigned
+2439	Nebraska	US	09/20/2021			36552	141		Unassigned

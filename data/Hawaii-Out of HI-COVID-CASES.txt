@@ -531,3 +531,5 @@
 1225	Hawaii	US	09/16/2021			2286	5		Out of HI
 1225	Hawaii	US	09/17/2021			2300	5		Out of HI
 1225	Hawaii	US	09/18/2021			2319	5		Out of HI
+1225	Hawaii	US	09/19/2021			2332	5		Out of HI
+1225	Hawaii	US	09/20/2021			2344	5		Out of HI

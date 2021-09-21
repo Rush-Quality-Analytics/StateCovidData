@@ -545,3 +545,5 @@
 2494	New Jersey	US	09/16/2021			741	0		Unassigned
 2494	New Jersey	US	09/17/2021			742	0		Unassigned
 2494	New Jersey	US	09/18/2021			742	0		Unassigned
+2494	New Jersey	US	09/19/2021			751	0		Unassigned
+2494	New Jersey	US	09/20/2021			763	0		Unassigned

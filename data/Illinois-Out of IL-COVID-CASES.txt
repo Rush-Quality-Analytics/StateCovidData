@@ -500,3 +500,5 @@
 1343	Illinois	US	09/16/2021			3	0		Out of IL
 1343	Illinois	US	09/17/2021			8	0		Out of IL
 1343	Illinois	US	09/18/2021			8	0		Out of IL
+1343	Illinois	US	09/19/2021			8	0		Out of IL
+1343	Illinois	US	09/20/2021			6	0		Out of IL

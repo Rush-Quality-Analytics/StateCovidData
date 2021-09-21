@@ -545,3 +545,5 @@
 3775	Washington	US	09/16/2021			1642	3		Unassigned
 3775	Washington	US	09/17/2021			1660	3		Unassigned
 3775	Washington	US	09/18/2021			1660	3		Unassigned
+3775	Washington	US	09/19/2021			1660	3		Unassigned
+3775	Washington	US	09/20/2021			1657	3		Unassigned

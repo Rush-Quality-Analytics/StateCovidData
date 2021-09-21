@@ -535,3 +535,5 @@
 2913	Oklahoma	US	09/16/2021			5557	1		Unassigned
 2913	Oklahoma	US	09/17/2021			7681	1		Unassigned
 2913	Oklahoma	US	09/18/2021			7681	1		Unassigned
+2913	Oklahoma	US	09/19/2021			7681	1		Unassigned
+2913	Oklahoma	US	09/20/2021			13679	1		Unassigned

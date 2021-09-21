@@ -545,3 +545,5 @@
 842	Arkansas	US	09/16/2021			5109	0		Unassigned
 842	Arkansas	US	09/17/2021			5155	0		Unassigned
 842	Arkansas	US	09/18/2021			5197	0		Unassigned
+842	Arkansas	US	09/19/2021			5244	0		Unassigned
+842	Arkansas	US	09/20/2021			5236	0		Unassigned

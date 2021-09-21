@@ -544,3 +544,5 @@
 3291	Tennessee	US	09/16/2021			26874	115		Out of TN
 3291	Tennessee	US	09/17/2021			26982	115		Out of TN
 3291	Tennessee	US	09/18/2021			26982	115		Out of TN
+3291	Tennessee	US	09/19/2021			26982	115		Out of TN
+3291	Tennessee	US	09/20/2021			27419	115		Out of TN

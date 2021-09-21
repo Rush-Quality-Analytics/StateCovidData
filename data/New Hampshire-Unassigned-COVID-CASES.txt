@@ -539,3 +539,5 @@
 2474	New Hampshire	US	09/16/2021			727	1		Unassigned
 2474	New Hampshire	US	09/17/2021			740	1		Unassigned
 2474	New Hampshire	US	09/18/2021			740	1		Unassigned
+2474	New Hampshire	US	09/19/2021			740	1		Unassigned
+2474	New Hampshire	US	09/20/2021			759	1		Unassigned

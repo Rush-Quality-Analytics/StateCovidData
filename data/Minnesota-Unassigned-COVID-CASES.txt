@@ -540,3 +540,5 @@
 2085	Minnesota	US	09/16/2021			520	93		Unassigned
 2085	Minnesota	US	09/17/2021			515	93		Unassigned
 2085	Minnesota	US	09/18/2021			515	93		Unassigned
+2085	Minnesota	US	09/19/2021			515	93		Unassigned
+2085	Minnesota	US	09/20/2021			530	93		Unassigned

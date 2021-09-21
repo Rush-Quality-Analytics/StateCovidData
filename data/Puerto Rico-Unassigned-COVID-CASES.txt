@@ -427,3 +427,5 @@
 3096	Puerto Rico	US	09/16/2021			3559	3055		Unassigned
 3096	Puerto Rico	US	09/17/2021			3576	3064		Unassigned
 3096	Puerto Rico	US	09/18/2021			3579	3072		Unassigned
+3096	Puerto Rico	US	09/19/2021			3586	3074		Unassigned
+3096	Puerto Rico	US	09/20/2021			3590	3076		Unassigned
