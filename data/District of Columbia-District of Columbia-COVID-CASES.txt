@@ -548,3 +548,4 @@
 989	District of Columbia	US	09/18/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
 989	District of Columbia	US	09/19/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
 989	District of Columbia	US	09/20/2021	38.90417773	-77.01655992	59563	1170		District of Columbia
+989	District of Columbia	US	09/21/2021	38.90417773	-77.01655992	59712	1171		District of Columbia
