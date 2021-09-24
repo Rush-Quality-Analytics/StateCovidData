@@ -1,2 +1,2 @@
 	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
-3419	Washington	US	03/22/2020	46.45197502	-117.5454032	1	2	0	Garfield County
+3418	Washington	US	03/22/2020	46.45197502	-117.5454032	1	2	0	Garfield County

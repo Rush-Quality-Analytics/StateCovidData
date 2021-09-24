@@ -1,6 +1,6 @@
 	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
 1337	District of Columbia	US	03/22/2020	38.90417773	-77.01655992	102	0	0	District of Columbia
-3418	District of Columbia	US	03/22/2020	38.90417773	-77.01655992	102	2	0	District of Columbia
+3417	District of Columbia	US	03/22/2020	38.90417773	-77.01655992	102	2	0	District of Columbia
 788	District of Columbia	US	03/23/2020	38.90417773	-77.01655992	120	2	0	District of Columbia
 788	District of Columbia	US	03/24/2020	38.90417773	-77.01655992	141	2	0	District of Columbia
 788	District of Columbia	US	03/25/2020	38.90417773	-77.01655992	187	2	0	District of Columbia
@@ -142,410 +142,412 @@
 807	District of Columbia	US	08/08/2020	38.90417773	-77.01655992	12653	590	0	District of Columbia
 807	District of Columbia	US	08/09/2020	38.90417773	-77.01655992	12753	591	0	District of Columbia
 807	District of Columbia	US	08/10/2020	38.90417773	-77.01655992	12807	591	0	District of Columbia
-1005	District of Columbia	US	08/11/2020	38.90417773	-77.01655992	12896	593	0	District of Columbia
-959	District of Columbia	US	08/12/2020	38.90417773	-77.01655992	12959	593	0	District of Columbia
-959	District of Columbia	US	08/13/2020	38.90417773	-77.01655992	13024	594	0	District of Columbia
-959	District of Columbia	US	08/14/2020	38.90417773	-77.01655992	13118	594	0	District of Columbia
-959	District of Columbia	US	08/15/2020	38.90417773	-77.01655992	13159	597	0	District of Columbia
-959	District of Columbia	US	08/16/2020	38.90417773	-77.01655992	13220	597	0	District of Columbia
-959	District of Columbia	US	08/17/2020	38.90417773	-77.01655992	13273	597	0	District of Columbia
-959	District of Columbia	US	08/18/2020	38.90417773	-77.01655992	13325	599	0	District of Columbia
-959	District of Columbia	US	08/19/2020	38.90417773	-77.01655992	13354	600	0	District of Columbia
-959	District of Columbia	US	08/20/2020	38.90417773	-77.01655992	13409	601	0	District of Columbia
-959	District of Columbia	US	08/21/2020	38.90417773	-77.01655992	13469	602	0	District of Columbia
-960	District of Columbia	US	08/22/2020	38.90417773	-77.01655992	13534	604	0	District of Columbia
-960	District of Columbia	US	08/23/2020	38.90417773	-77.01655992	13534	604	0	District of Columbia
-960	District of Columbia	US	08/24/2020	38.90417773	-77.01655992	13639	604	0	District of Columbia
-960	District of Columbia	US	08/25/2020	38.90417773	-77.01655992	13684	604	0	District of Columbia
-960	District of Columbia	US	08/26/2020	38.90417773	-77.01655992	13684	605	0	District of Columbia
-960	District of Columbia	US	08/27/2020	38.90417773	-77.01655992	13794	605	0	District of Columbia
-960	District of Columbia	US	08/28/2020	38.90417773	-77.01655992	13851	605	0	District of Columbia
-960	District of Columbia	US	08/29/2020	38.90417773	-77.01655992	13925	605	0	District of Columbia
-960	District of Columbia	US	08/30/2020	38.90417773	-77.01655992	13959	606	0	District of Columbia
-960	District of Columbia	US	08/31/2020	38.90417773	-77.01655992	13992	607	0	District of Columbia
-960	District of Columbia	US	09/01/2020	38.90417773	-77.01655992	14049	607	0	District of Columbia
-960	District of Columbia	US	09/02/2020	38.90417773	-77.01655992	14077	608	0	District of Columbia
-960	District of Columbia	US	09/03/2020	38.90417773	-77.01655992	14135	609	0	District of Columbia
-960	District of Columbia	US	09/04/2020	38.90417773	-77.01655992	14186	611	0	District of Columbia
-960	District of Columbia	US	09/05/2020	38.90417773	-77.01655992	14238	611	0	District of Columbia
-960	District of Columbia	US	09/06/2020	38.90417773	-77.01655992	14279	611	0	District of Columbia
-960	District of Columbia	US	09/07/2020	38.90417773	-77.01655992	14315	611	0	District of Columbia
-960	District of Columbia	US	09/08/2020	38.90417773	-77.01655992	14362	611	0	District of Columbia
-960	District of Columbia	US	09/09/2020	38.90417773	-77.01655992	14387	615	0	District of Columbia
-960	District of Columbia	US	09/10/2020	38.90417773	-77.01655992	14412	616	0	District of Columbia
-960	District of Columbia	US	09/11/2020	38.90417773	-77.01655992	14493	616	0	District of Columbia
-960	District of Columbia	US	09/12/2020	38.90417773	-77.01655992	14493	616	0	District of Columbia
-960	District of Columbia	US	09/13/2020	38.90417773	-77.01655992	14592	616	0	District of Columbia
-960	District of Columbia	US	09/14/2020	38.90417773	-77.01655992	14622	616	0	District of Columbia
-960	District of Columbia	US	09/15/2020	38.90417773	-77.01655992	14687	616	0	District of Columbia
-960	District of Columbia	US	09/16/2020	38.90417773	-77.01655992	14743	617	0	District of Columbia
-960	District of Columbia	US	09/17/2020	38.90417773	-77.01655992	14790	619	0	District of Columbia
-960	District of Columbia	US	09/18/2020	38.90417773	-77.01655992	14852	619	0	District of Columbia
-960	District of Columbia	US	09/19/2020	38.90417773	-77.01655992	14902	619	0	District of Columbia
-960	District of Columbia	US	09/20/2020	38.90417773	-77.01655992	14955	620	0	District of Columbia
-961	District of Columbia	US	09/21/2020	38.90417773	-77.01655992	14978	621	0	District of Columbia
-961	District of Columbia	US	09/22/2020	38.90417773	-77.01655992	15021	621	0	District of Columbia
-961	District of Columbia	US	09/23/2020	38.90417773	-77.01655992	15050	621	0	District of Columbia
-961	District of Columbia	US	09/24/2020	38.90417773	-77.01655992	15106	621	0	District of Columbia
-961	District of Columbia	US	09/25/2020	38.90417773	-77.01655992	15163	623	0	District of Columbia
-961	District of Columbia	US	09/26/2020	38.90417773	-77.01655992	15215	624	0	District of Columbia
-961	District of Columbia	US	09/27/2020	38.90417773	-77.01655992	15250	624	0	District of Columbia
-961	District of Columbia	US	09/28/2020	38.90417773	-77.01655992	15264	624	0	District of Columbia
-961	District of Columbia	US	09/29/2020	38.90417773	-77.01655992	15300	626	0	District of Columbia
-961	District of Columbia	US	09/30/2020	38.90417773	-77.01655992	15326	627	0	District of Columbia
-961	District of Columbia	US	10/01/2020	38.90417773	-77.01655992	15358	628	0	District of Columbia
-961	District of Columbia	US	10/02/2020	38.90417773	-77.01655992	15423	629	0	District of Columbia
-961	District of Columbia	US	10/03/2020	38.90417773	-77.01655992	15473	629	0	District of Columbia
-961	District of Columbia	US	10/04/2020	38.90417773	-77.01655992	15519	631	0	District of Columbia
-961	District of Columbia	US	10/05/2020	38.90417773	-77.01655992	15547	631	0	District of Columbia
-961	District of Columbia	US	10/06/2020	38.90417773	-77.01655992	15652	631	0	District of Columbia
-961	District of Columbia	US	10/07/2020	38.90417773	-77.01655992	15652	631	0	District of Columbia
-961	District of Columbia	US	10/08/2020	38.90417773	-77.01655992	15765	634	0	District of Columbia
-961	District of Columbia	US	10/09/2020	38.90417773	-77.01655992	15843	634	0	District of Columbia
-961	District of Columbia	US	10/10/2020	38.90417773	-77.01655992	15918	636	0	District of Columbia
-961	District of Columbia	US	10/11/2020	38.90417773	-77.01655992	15984	637	0	District of Columbia
-962	District of Columbia	US	10/12/2020	38.90417773	-77.01655992	16022	637	0	District of Columbia
-962	District of Columbia	US	10/13/2020	38.90417773	-77.01655992	16068	637	0	District of Columbia
-962	District of Columbia	US	10/14/2020	38.90417773	-77.01655992	16132	638	0	District of Columbia
-962	District of Columbia	US	10/15/2020	38.90417773	-77.01655992	16166	638	0	District of Columbia
-963	District of Columbia	US	10/16/2020	38.90417773	-77.01655992	16255	641	0	District of Columbia
-963	District of Columbia	US	10/17/2020	38.90417773	-77.01655992	16334	641	0	District of Columbia
-963	District of Columbia	US	10/18/2020	38.90417773	-77.01655992	16370	641	0	District of Columbia
-964	District of Columbia	US	10/19/2020	38.90417773	-77.01655992	16395	641	0	District of Columbia
-964	District of Columbia	US	10/20/2020	38.90417773	-77.01655992	16445	642	0	District of Columbia
-964	District of Columbia	US	10/21/2020	38.90417773	-77.01655992	16498	642	0	District of Columbia
-964	District of Columbia	US	10/22/2020	38.90417773	-77.01655992	16537	642	0	District of Columbia
-964	District of Columbia	US	10/23/2020	38.90417773	-77.01655992	16609	642	0	District of Columbia
-964	District of Columbia	US	10/24/2020	38.90417773	-77.01655992	16706	642	0	District of Columbia
-964	District of Columbia	US	10/25/2020	38.90417773	-77.01655992	16767	642	0	District of Columbia
-964	District of Columbia	US	10/26/2020	38.90417773	-77.01655992	16812	642	0	District of Columbia
-964	District of Columbia	US	10/27/2020	38.90417773	-77.01655992	16906	644	0	District of Columbia
-965	District of Columbia	US	10/28/2020	38.90417773	-77.01655992	16973	644.0	0	District of Columbia
-965	District of Columbia	US	10/29/2020	38.90417773	-77.01655992	17074	645	0	District of Columbia
-965	District of Columbia	US	10/30/2020	38.90417773	-77.01655992	17144	646	0	District of Columbia
-965	District of Columbia	US	10/31/2020	38.90417773	-77.01655992	17266	646	0	District of Columbia
-965	District of Columbia	US	11/01/2020	38.90417773	-77.01655992	17369	646	0	District of Columbia
-965	District of Columbia	US	11/02/2020	38.90417773	-77.01655992	17438	647	0	District of Columbia
-966	District of Columbia	US	11/03/2020	38.90417773	-77.01655992	17524	647	0	District of Columbia
-966	District of Columbia	US	11/04/2020	38.90417773	-77.01655992	17601	647	0	District of Columbia
-966	District of Columbia	US	11/05/2020	38.90417773	-77.01655992	17682	650	0	District of Columbia
-966	District of Columbia	US	11/06/2020	38.90417773	-77.01655992	17792	652	0	District of Columbia
-966	District of Columbia	US	11/07/2020	38.90417773	-77.01655992	17891	654	0	District of Columbia
-966	District of Columbia	US	11/08/2020	38.90417773	-77.01655992	18001	654	0	District of Columbia
-966	District of Columbia	US	11/09/2020	38.90417773	-77.01655992	18087	655	0.0	District of Columbia
-966	District of Columbia	US	11/10/2020	38.90417773	-77.01655992	18173	657	0.0	District of Columbia
-966	District of Columbia	US	11/11/2020	38.90417773	-77.01655992	18379	657	0.0	District of Columbia
-978	District of Columbia	US	11/12/2020	38.90417773	-77.01655992	18507	657	0	District of Columbia
-978	District of Columbia	US	11/13/2020	38.90417773	-77.01655992	18666	657	0	District of Columbia
-978	District of Columbia	US	11/14/2020	38.90417773	-77.01655992	18814	658	0	District of Columbia
-978	District of Columbia	US	11/15/2020	38.90417773	-77.01655992	18977	660	0	District of Columbia
-978	District of Columbia	US	11/16/2020	38.90417773	-77.01655992	19064	660	0	District of Columbia
-978	District of Columbia	US	11/17/2020	38.90417773	-77.01655992	19309	660	0	District of Columbia
-978	District of Columbia	US	11/18/2020	38.90417773	-77.01655992	19465	665	0	District of Columbia
-978	District of Columbia	US	11/19/2020	38.90417773	-77.01655992	19678	667	0	District of Columbia
-978	District of Columbia	US	11/20/2020	38.90417773	-77.01655992	19808	669	0	District of Columbia
-978	District of Columbia	US	11/21/2020	38.90417773	-77.01655992	19961	670	0	District of Columbia
-978	District of Columbia	US	11/22/2020	38.90417773	-77.01655992	20151	670	0	District of Columbia
-978	District of Columbia	US	11/23/2020	38.90417773	-77.01655992	20290	672	0	District of Columbia
-979	District of Columbia	US	11/24/2020	38.90417773	-77.01655992	20409	673	0	District of Columbia
-979	District of Columbia	US	11/25/2020	38.90417773	-77.01655992	20516	677	0	District of Columbia
-979	District of Columbia	US	11/26/2020	38.90417773	-77.01655992	20736	677	0	District of Columbia
-979	District of Columbia	US	11/27/2020	38.90417773	-77.01655992	20937	677	0	District of Columbia
-979	District of Columbia	US	11/28/2020	38.90417773	-77.01655992	21308	678	0	District of Columbia
-979	District of Columbia	US	11/29/2020	38.90417773	-77.01655992	21448	680	0	District of Columbia
-979	District of Columbia	US	11/30/2020	38.90417773	-77.01655992	21552	680	0	District of Columbia
-979	District of Columbia	US	12/01/2020	38.90417773	-77.01655992	21685	685	0	District of Columbia
-979	District of Columbia	US	12/02/2020	38.90417773	-77.01655992	21842	690	0	District of Columbia
-979	District of Columbia	US	12/03/2020	38.90417773	-77.01655992	22164	692	0	District of Columbia
-979	District of Columbia	US	12/04/2020	38.90417773	-77.01655992	22480	693	0	District of Columbia
-979	District of Columbia	US	12/05/2020	38.90417773	-77.01655992	22872	695	0	District of Columbia
-979	District of Columbia	US	12/06/2020	38.90417773	-77.01655992	23136	697	0	District of Columbia
-979	District of Columbia	US	12/07/2020	38.90417773	-77.01655992	23319	701	0	District of Columbia
-979	District of Columbia	US	12/08/2020	38.90417773	-77.01655992	23589	701	0	District of Columbia
-979	District of Columbia	US	12/09/2020	38.90417773	-77.01655992	23854	704	0	District of Columbia
-979	District of Columbia	US	12/10/2020	38.90417773	-77.01655992	24098	708	0	District of Columbia
-979	District of Columbia	US	12/11/2020	38.90417773	-77.01655992	24357	709	0	District of Columbia
-979	District of Columbia	US	12/12/2020	38.90417773	-77.01655992	24643	713	0	District of Columbia
-979	District of Columbia	US	12/13/2020	38.90417773	-77.01655992	24874	715	0	District of Columbia
-979	District of Columbia	US	12/14/2020	38.90417773	-77.01655992	25038	716	0	District of Columbia
-979	District of Columbia	US	12/15/2020	38.90417773	-77.01655992	25339	720	0	District of Columbia
-979	District of Columbia	US	12/16/2020	38.90417773	-77.01655992	25602	720	0	District of Columbia
-979	District of Columbia	US	12/17/2020	38.90417773	-77.01655992	25830	725	0	District of Columbia
-979	District of Columbia	US	12/18/2020	38.90417773	-77.01655992	26104	728	0	District of Columbia
-979	District of Columbia	US	12/19/2020	38.90417773	-77.01655992	26342	730	0	District of Columbia
-979	District of Columbia	US	12/20/2020	38.90417773	-77.01655992	26601	737	0	District of Columbia
-979	District of Columbia	US	12/21/2020	38.90417773	-77.01655992	26740	742	0	District of Columbia
-979	District of Columbia	US	12/22/2020	38.90417773	-77.01655992	26900	744	0	District of Columbia
-979	District of Columbia	US	12/23/2020	38.90417773	-77.01655992	27226	751	0	District of Columbia
-979	District of Columbia	US	12/24/2020	38.90417773	-77.01655992	27436	756	0	District of Columbia
-979	District of Columbia	US	12/25/2020	38.90417773	-77.01655992	27436	756	0	District of Columbia
-979	District of Columbia	US	12/26/2020	38.90417773	-77.01655992	27710	762	0	District of Columbia
-979	District of Columbia	US	12/27/2020	38.90417773	-77.01655992	28202	768	0	District of Columbia
-979	District of Columbia	US	12/28/2020	38.90417773	-77.01655992	28342	771	0	District of Columbia
-979	District of Columbia	US	12/29/2020	38.90417773	-77.01655992	28535	775	0	District of Columbia
-979	District of Columbia	US	12/30/2020	38.90417773	-77.01655992	28758	780	0	District of Columbia
-979	District of Columbia	US	12/31/2020	38.90417773	-77.01655992	28983	786	0	District of Columbia
-979	District of Columbia	US	01/01/2021	38.90417773	-77.01655992	29252	788	0	District of Columbia
-979	District of Columbia	US	01/02/2021	38.90417773	-77.01655992	29509	792	0	District of Columbia
-980	District of Columbia	US	01/03/2021	38.90417773	-77.01655992	29764	794	0	District of Columbia
-980	District of Columbia	US	01/04/2021	38.90417773	-77.01655992	29904	797	0	District of Columbia
-980	District of Columbia	US	01/05/2021	38.90417773	-77.01655992	30166	801	0	District of Columbia
-980	District of Columbia	US	01/06/2021	38.90417773	-77.01655992	30482	806	0	District of Columbia
-980	District of Columbia	US	01/07/2021	38.90417773	-77.01655992	30750	808	0	District of Columbia
-980	District of Columbia	US	01/08/2021	38.90417773	-77.01655992	31107	809	0	District of Columbia
-980	District of Columbia	US	01/09/2021	38.90417773	-77.01655992	31457	813	0	District of Columbia
-980	District of Columbia	US	01/10/2021	38.90417773	-77.01655992	31791	817	0	District of Columbia
-980	District of Columbia	US	01/11/2021	38.90417773	-77.01655992	31993	821	0	District of Columbia
-980	District of Columbia	US	01/12/2021	38.90417773	-77.01655992	32423	825	0	District of Columbia
-980	District of Columbia	US	01/13/2021	38.90417773	-77.01655992	32600	831	0	District of Columbia
-980	District of Columbia	US	01/14/2021	38.90417773	-77.01655992	32820	842	0	District of Columbia
-980	District of Columbia	US	01/15/2021	38.90417773	-77.01655992	33140	842	0	District of Columbia
-980	District of Columbia	US	01/16/2021	38.90417773	-77.01655992	33537	847	0	District of Columbia
-980	District of Columbia	US	01/17/2021	38.90417773	-77.01655992	33851	850	0	District of Columbia
-980	District of Columbia	US	01/18/2021	38.90417773	-77.01655992	34033	857	0	District of Columbia
-980	District of Columbia	US	01/19/2021	38.90417773	-77.01655992	34259	861	0	District of Columbia
-980	District of Columbia	US	01/20/2021	38.90417773	-77.01655992	34403	863	0	District of Columbia
-981	District of Columbia	US	01/21/2021	38.90417773	-77.01655992	34612	864	0	District of Columbia
-981	District of Columbia	US	01/22/2021	38.90417773	-77.01655992	34905	867	0	District of Columbia
-981	District of Columbia	US	01/23/2021	38.90417773	-77.01655992	35077	870	0	District of Columbia
-981	District of Columbia	US	01/24/2021	38.90417773	-77.01655992	35301	872	0	District of Columbia
-981	District of Columbia	US	01/25/2021	38.90417773	-77.01655992	35505	879	0	District of Columbia
-981	District of Columbia	US	01/26/2021	38.90417773	-77.01655992	35700	888	0	District of Columbia
-981	District of Columbia	US	01/27/2021	38.90417773	-77.01655992	35865	895	0	District of Columbia
-981	District of Columbia	US	01/28/2021	38.90417773	-77.01655992	36132	902	0	District of Columbia
-981	District of Columbia	US	01/29/2021	38.90417773	-77.01655992	36414	907	0	District of Columbia
-981	District of Columbia	US	01/30/2021	38.90417773	-77.01655992	36662	909	0	District of Columbia
-981	District of Columbia	US	01/31/2021	38.90417773	-77.01655992	36872	913	0	District of Columbia
-981	District of Columbia	US	02/01/2021	38.90417773	-77.01655992	37008	916	0	District of Columbia
-981	District of Columbia	US	02/02/2021	38.90417773	-77.01655992	37008	916	0	District of Columbia
-981	District of Columbia	US	02/03/2021	38.90417773	-77.01655992	37199	926	0	District of Columbia
-981	District of Columbia	US	02/04/2021	38.90417773	-77.01655992	37365	932	0	District of Columbia
-981	District of Columbia	US	02/05/2021	38.90417773	-77.01655992	37634	940	0	District of Columbia
-981	District of Columbia	US	02/06/2021	38.90417773	-77.01655992	37877	947	0	District of Columbia
-981	District of Columbia	US	02/07/2021	38.90417773	-77.01655992	38035	952	0	District of Columbia
-981	District of Columbia	US	02/08/2021	38.90417773	-77.01655992	38136	956	0	District of Columbia
-981	District of Columbia	US	02/09/2021	38.90417773	-77.01655992	38281	961	0	District of Columbia
-981	District of Columbia	US	02/10/2021	38.90417773	-77.01655992	38348	965	0	District of Columbia
-981	District of Columbia	US	02/11/2021	38.90417773	-77.01655992	38533	973	0	District of Columbia
-981	District of Columbia	US	02/12/2021	38.90417773	-77.01655992	38670	976	0	District of Columbia
-981	District of Columbia	US	02/13/2021	38.90417773	-77.01655992	38796	979	0	District of Columbia
-981	District of Columbia	US	02/14/2021	38.90417773	-77.01655992	38918	979	0	District of Columbia
-981	District of Columbia	US	02/15/2021	38.90417773	-77.01655992	39001	980	0	District of Columbia
-981	District of Columbia	US	02/16/2021	38.90417773	-77.01655992	39131	982	0	District of Columbia
-981	District of Columbia	US	02/17/2021	38.90417773	-77.01655992	39180	985	0	District of Columbia
-981	District of Columbia	US	02/18/2021	38.90417773	-77.01655992	39301	992	0	District of Columbia
-982	District of Columbia	US	02/19/2021	38.90417773	-77.01655992	39461	993	0	District of Columbia
-982	District of Columbia	US	02/20/2021	38.90417773	-77.01655992	39553	994	0	District of Columbia
-982	District of Columbia	US	02/21/2021	38.90417773	-77.01655992	39648	995	0	District of Columbia
-982	District of Columbia	US	02/22/2021	38.90417773	-77.01655992	39755	995	0	District of Columbia
-982	District of Columbia	US	02/23/2021	38.90417773	-77.01655992	39844	998	0	District of Columbia
-982	District of Columbia	US	02/24/2021	38.90417773	-77.01655992	39943	1001	0	District of Columbia
-982	District of Columbia	US	02/25/2021	38.90417773	-77.01655992	40122	1005	0	District of Columbia
-982	District of Columbia	US	02/26/2021	38.90417773	-77.01655992	40284	1009	0	District of Columbia
-982	District of Columbia	US	02/27/2021	38.90417773	-77.01655992	40478	1010	0	District of Columbia
-982	District of Columbia	US	02/28/2021	38.90417773	-77.01655992	40598	1017	0	District of Columbia
-982	District of Columbia	US	03/01/2021	38.90417773	-77.01655992	40684	1019	0	District of Columbia
-982	District of Columbia	US	03/02/2021	38.90417773	-77.01655992	40767	1019	0	District of Columbia
-982	District of Columbia	US	03/03/2021	38.90417773	-77.01655992	40818	1023	0	District of Columbia
-982	District of Columbia	US	03/04/2021	38.90417773	-77.01655992	41014	1024	0	District of Columbia
-982	District of Columbia	US	03/05/2021	38.90417773	-77.01655992	41122	1027	0	District of Columbia
-982	District of Columbia	US	03/06/2021	38.90417773	-77.01655992	41273	1030	0	District of Columbia
-982	District of Columbia	US	03/07/2021	38.90417773	-77.01655992	41419	1030		District of Columbia
-982	District of Columbia	US	03/08/2021	38.90417773	-77.01655992	41579	1035		District of Columbia
-982	District of Columbia	US	03/09/2021	38.90417773	-77.01655992	41910	1036		District of Columbia
-982	District of Columbia	US	03/10/2021	38.90417773	-77.01655992	42006	1037		District of Columbia
-982	District of Columbia	US	03/11/2021	38.90417773	-77.01655992	42128	1038		District of Columbia
-982	District of Columbia	US	03/12/2021	38.90417773	-77.01655992	42282	1038		District of Columbia
-982	District of Columbia	US	03/13/2021	38.90417773	-77.01655992	42432	1040		District of Columbia
-982	District of Columbia	US	03/14/2021	38.90417773	-77.01655992	42511	1041		District of Columbia
-982	District of Columbia	US	03/15/2021	38.90417773	-77.01655992	42623	1042		District of Columbia
-982	District of Columbia	US	03/16/2021	38.90417773	-77.01655992	42730	1042		District of Columbia
-982	District of Columbia	US	03/17/2021	38.90417773	-77.01655992	42811	1044		District of Columbia
-982	District of Columbia	US	03/18/2021	38.90417773	-77.01655992	42892	1046		District of Columbia
-982	District of Columbia	US	03/19/2021	38.90417773	-77.01655992	43034	1047		District of Columbia
-982	District of Columbia	US	03/20/2021	38.90417773	-77.01655992	43175	1049		District of Columbia
-982	District of Columbia	US	03/21/2021	38.90417773	-77.01655992	43229	1050		District of Columbia
-982	District of Columbia	US	03/22/2021	38.90417773	-77.01655992	43383	1050		District of Columbia
-982	District of Columbia	US	03/23/2021	38.90417773	-77.01655992	43488	1051		District of Columbia
-982	District of Columbia	US	03/24/2021	38.90417773	-77.01655992	43595	1053		District of Columbia
-982	District of Columbia	US	03/25/2021	38.90417773	-77.01655992	43669	1053		District of Columbia
-982	District of Columbia	US	03/26/2021	38.90417773	-77.01655992	43825	1055		District of Columbia
-982	District of Columbia	US	03/27/2021	38.90417773	-77.01655992	44051	1056		District of Columbia
-982	District of Columbia	US	03/28/2021	38.90417773	-77.01655992	44175	1056		District of Columbia
-982	District of Columbia	US	03/29/2021	38.90417773	-77.01655992	44248	1059		District of Columbia
-982	District of Columbia	US	03/30/2021	38.90417773	-77.01655992	44413	1061		District of Columbia
-982	District of Columbia	US	03/31/2021	38.90417773	-77.01655992	44513	1064		District of Columbia
-982	District of Columbia	US	04/01/2021	38.90417773	-77.01655992	44656	1066		District of Columbia
-984	District of Columbia	US	04/02/2021	38.90417773	-77.01655992	44807	1069		District of Columbia
-984	District of Columbia	US	04/03/2021	38.90417773	-77.01655992	44932	1070		District of Columbia
-984	District of Columbia	US	04/04/2021	38.90417773	-77.01655992	45037	1070		District of Columbia
-984	District of Columbia	US	04/05/2021	38.90417773	-77.01655992	45112	1072		District of Columbia
-984	District of Columbia	US	04/06/2021	38.90417773	-77.01655992	45234	1074		District of Columbia
-984	District of Columbia	US	04/07/2021	38.90417773	-77.01655992	45328	1076		District of Columbia
-984	District of Columbia	US	04/08/2021	38.90417773	-77.01655992	45498	1077		District of Columbia
-984	District of Columbia	US	04/09/2021	38.90417773	-77.01655992	45634	1079		District of Columbia
-984	District of Columbia	US	04/10/2021	38.90417773	-77.01655992	45762	1081		District of Columbia
-984	District of Columbia	US	04/11/2021	38.90417773	-77.01655992	45830	1081		District of Columbia
-984	District of Columbia	US	04/12/2021	38.90417773	-77.01655992	45903	1084		District of Columbia
-984	District of Columbia	US	04/13/2021	38.90417773	-77.01655992	46016	1085		District of Columbia
-984	District of Columbia	US	04/14/2021	38.90417773	-77.01655992	46209	1088		District of Columbia
-984	District of Columbia	US	04/15/2021	38.90417773	-77.01655992	46315	1090		District of Columbia
-984	District of Columbia	US	04/16/2021	38.90417773	-77.01655992	46449	1093		District of Columbia
-984	District of Columbia	US	04/17/2021	38.90417773	-77.01655992	46579	1095		District of Columbia
-984	District of Columbia	US	04/18/2021	38.90417773	-77.01655992	46662	1096		District of Columbia
-984	District of Columbia	US	04/19/2021	38.90417773	-77.01655992	46740	1096		District of Columbia
-984	District of Columbia	US	04/20/2021	38.90417773	-77.01655992	46869	1097		District of Columbia
-984	District of Columbia	US	04/21/2021	38.90417773	-77.01655992	46941	1097		District of Columbia
-984	District of Columbia	US	04/22/2021	38.90417773	-77.01655992	47040	1098		District of Columbia
-984	District of Columbia	US	04/23/2021	38.90417773	-77.01655992	47141	1099		District of Columbia
-984	District of Columbia	US	04/24/2021	38.90417773	-77.01655992	47219	1099		District of Columbia
-984	District of Columbia	US	04/25/2021	38.90417773	-77.01655992	47323	1099		District of Columbia
-984	District of Columbia	US	04/26/2021	38.90417773	-77.01655992	47378	1099		District of Columbia
-984	District of Columbia	US	04/27/2021	38.90417773	-77.01655992	47471	1100		District of Columbia
-984	District of Columbia	US	04/28/2021	38.90417773	-77.01655992	47533	1104		District of Columbia
-984	District of Columbia	US	04/29/2021	38.90417773	-77.01655992	47614	1105		District of Columbia
-984	District of Columbia	US	04/30/2021	38.90417773	-77.01655992	47697	1105		District of Columbia
-984	District of Columbia	US	05/01/2021	38.90417773	-77.01655992	47697	1105		District of Columbia
-984	District of Columbia	US	05/02/2021	38.90417773	-77.01655992	47800	1106		District of Columbia
-984	District of Columbia	US	05/03/2021	38.90417773	-77.01655992	47903	1106		District of Columbia
-984	District of Columbia	US	05/04/2021	38.90417773	-77.01655992	47986	1106		District of Columbia
-984	District of Columbia	US	05/05/2021	38.90417773	-77.01655992	48041	1109		District of Columbia
-984	District of Columbia	US	05/06/2021	38.90417773	-77.01655992	48080	1110		District of Columbia
-984	District of Columbia	US	05/07/2021	38.90417773	-77.01655992	48136	1110		District of Columbia
-984	District of Columbia	US	05/08/2021	38.90417773	-77.01655992	48164	1110		District of Columbia
-984	District of Columbia	US	05/09/2021	38.90417773	-77.01655992	48180	1110		District of Columbia
-984	District of Columbia	US	05/10/2021	38.90417773	-77.01655992	48195	1110		District of Columbia
-984	District of Columbia	US	05/11/2021	38.90417773	-77.01655992	48282	1113		District of Columbia
-984	District of Columbia	US	05/12/2021	38.90417773	-77.01655992	48336	1115		District of Columbia
-984	District of Columbia	US	05/13/2021	38.90417773	-77.01655992	48404	1115		District of Columbia
-984	District of Columbia	US	05/14/2021	38.90417773	-77.01655992	48424	1116		District of Columbia
-984	District of Columbia	US	05/15/2021	38.90417773	-77.01655992	48530	1118		District of Columbia
-984	District of Columbia	US	05/16/2021	38.90417773	-77.01655992	48545	1120		District of Columbia
-984	District of Columbia	US	05/17/2021	38.90417773	-77.01655992	48590	1122		District of Columbia
-984	District of Columbia	US	05/18/2021	38.90417773	-77.01655992	48616	1122		District of Columbia
-984	District of Columbia	US	05/19/2021	38.90417773	-77.01655992	48634	1124		District of Columbia
-984	District of Columbia	US	05/20/2021	38.90417773	-77.01655992	48662	1125		District of Columbia
-984	District of Columbia	US	05/21/2021	38.90417773	-77.01655992	48689	1125		District of Columbia
-984	District of Columbia	US	05/22/2021	38.90417773	-77.01655992	48727	1125		District of Columbia
-984	District of Columbia	US	05/23/2021	38.90417773	-77.01655992	48748	1127		District of Columbia
-984	District of Columbia	US	05/24/2021	38.90417773	-77.01655992	48762	1130		District of Columbia
-984	District of Columbia	US	05/25/2021	38.90417773	-77.01655992	48803	1130		District of Columbia
-984	District of Columbia	US	05/26/2021	38.90417773	-77.01655992	48822	1131		District of Columbia
-985	District of Columbia	US	05/27/2021	38.90417773	-77.01655992	48844	1132		District of Columbia
-985	District of Columbia	US	05/28/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
-985	District of Columbia	US	05/29/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
-985	District of Columbia	US	05/30/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
-985	District of Columbia	US	05/31/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
-985	District of Columbia	US	06/01/2021	38.90417773	-77.01655992	49000	1134		District of Columbia
-985	District of Columbia	US	06/02/2021	38.90417773	-77.01655992	49011	1135		District of Columbia
-985	District of Columbia	US	06/03/2021	38.90417773	-77.01655992	49041	1136		District of Columbia
-985	District of Columbia	US	06/04/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
-985	District of Columbia	US	06/05/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
-985	District of Columbia	US	06/06/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
-985	District of Columbia	US	06/07/2021	38.90417773	-77.01655992	49110	1136		District of Columbia
-985	District of Columbia	US	06/08/2021	38.90417773	-77.01655992	49119	1137		District of Columbia
-985	District of Columbia	US	06/09/2021	38.90417773	-77.01655992	49127	1137		District of Columbia
-985	District of Columbia	US	06/10/2021	38.90417773	-77.01655992	49151	1137		District of Columbia
-985	District of Columbia	US	06/11/2021	38.90417773	-77.01655992	49158	1137		District of Columbia
-985	District of Columbia	US	06/12/2021	38.90417773	-77.01655992	49179	1138		District of Columbia
-985	District of Columbia	US	06/13/2021	38.90417773	-77.01655992	49179	1138		District of Columbia
-985	District of Columbia	US	06/14/2021	38.90417773	-77.01655992	49200	1138		District of Columbia
-985	District of Columbia	US	06/15/2021	38.90417773	-77.01655992	49213	1138		District of Columbia
-985	District of Columbia	US	06/16/2021	38.90417773	-77.01655992	49223	1139		District of Columbia
-987	District of Columbia	US	06/17/2021	38.90417773	-77.01655992	49232	1140		District of Columbia
-987	District of Columbia	US	06/18/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
-987	District of Columbia	US	06/19/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
-987	District of Columbia	US	06/20/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
-987	District of Columbia	US	06/21/2021	38.90417773	-77.01655992	49262	1141		District of Columbia
-987	District of Columbia	US	06/22/2021	38.90417773	-77.01655992	49275	1141		District of Columbia
-987	District of Columbia	US	06/23/2021	38.90417773	-77.01655992	49284	1141		District of Columbia
-988	District of Columbia	US	06/24/2021	38.90417773	-77.01655992	49297	1141		District of Columbia
-988	District of Columbia	US	06/25/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
-988	District of Columbia	US	06/26/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
-988	District of Columbia	US	06/27/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
-988	District of Columbia	US	06/28/2021	38.90417773	-77.01655992	49333	1141		District of Columbia
-988	District of Columbia	US	06/29/2021	38.90417773	-77.01655992	49347	1141		District of Columbia
-988	District of Columbia	US	06/30/2021	38.90417773	-77.01655992	49355	1141		District of Columbia
-988	District of Columbia	US	07/01/2021	38.90417773	-77.01655992	49362	1141		District of Columbia
-988	District of Columbia	US	07/02/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
-988	District of Columbia	US	07/03/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
-988	District of Columbia	US	07/04/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
-988	District of Columbia	US	07/05/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
-988	District of Columbia	US	07/06/2021	38.90417773	-77.01655992	49417	1142		District of Columbia
-988	District of Columbia	US	07/07/2021	38.90417773	-77.01655992	49423	1143		District of Columbia
-988	District of Columbia	US	07/08/2021	38.90417773	-77.01655992	49434	1143		District of Columbia
-988	District of Columbia	US	07/09/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
-988	District of Columbia	US	07/10/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
-988	District of Columbia	US	07/11/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
-988	District of Columbia	US	07/12/2021	38.90417773	-77.01655992	49526	1144		District of Columbia
-988	District of Columbia	US	07/13/2021	38.90417773	-77.01655992	49536	1144		District of Columbia
-988	District of Columbia	US	07/14/2021	38.90417773	-77.01655992	49574	1145		District of Columbia
-988	District of Columbia	US	07/15/2021	38.90417773	-77.01655992	49615	1145		District of Columbia
-988	District of Columbia	US	07/16/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
-988	District of Columbia	US	07/17/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
-988	District of Columbia	US	07/18/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
-988	District of Columbia	US	07/19/2021	38.90417773	-77.01655992	49793	1146		District of Columbia
-988	District of Columbia	US	07/20/2021	38.90417773	-77.01655992	49827	1146		District of Columbia
-988	District of Columbia	US	07/21/2021	38.90417773	-77.01655992	49858	1146		District of Columbia
-988	District of Columbia	US	07/22/2021	38.90417773	-77.01655992	49930	1146		District of Columbia
-988	District of Columbia	US	07/23/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
-988	District of Columbia	US	07/24/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
-988	District of Columbia	US	07/25/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
-988	District of Columbia	US	07/26/2021	38.90417773	-77.01655992	50160	1147		District of Columbia
-988	District of Columbia	US	07/27/2021	38.90417773	-77.01655992	50228	1147		District of Columbia
-988	District of Columbia	US	07/28/2021	38.90417773	-77.01655992	50268	1148		District of Columbia
-988	District of Columbia	US	07/29/2021	38.90417773	-77.01655992	50329	1149		District of Columbia
-988	District of Columbia	US	07/30/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
-988	District of Columbia	US	07/31/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
-988	District of Columbia	US	08/01/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
-988	District of Columbia	US	08/02/2021	38.90417773	-77.01655992	50718	1149		District of Columbia
-988	District of Columbia	US	08/03/2021	38.90417773	-77.01655992	50800	1149		District of Columbia
-988	District of Columbia	US	08/04/2021	38.90417773	-77.01655992	50858	1149		District of Columbia
-988	District of Columbia	US	08/05/2021	38.90417773	-77.01655992	50975	1149		District of Columbia
-988	District of Columbia	US	08/06/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
-988	District of Columbia	US	08/07/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
-988	District of Columbia	US	08/08/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
-988	District of Columbia	US	08/09/2021	38.90417773	-77.01655992	51589	1149		District of Columbia
-988	District of Columbia	US	08/10/2021	38.90417773	-77.01655992	51589	1149		District of Columbia
-988	District of Columbia	US	08/11/2021	38.90417773	-77.01655992	51853	1149		District of Columbia
-988	District of Columbia	US	08/12/2021	38.90417773	-77.01655992	52005	1150		District of Columbia
-988	District of Columbia	US	08/13/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
-988	District of Columbia	US	08/14/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
-988	District of Columbia	US	08/15/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
-988	District of Columbia	US	08/16/2021	38.90417773	-77.01655992	52777	1150		District of Columbia
-988	District of Columbia	US	08/17/2021	38.90417773	-77.01655992	52843	1151		District of Columbia
-988	District of Columbia	US	08/18/2021	38.90417773	-77.01655992	53024	1153		District of Columbia
-988	District of Columbia	US	08/19/2021	38.90417773	-77.01655992	53162	1155		District of Columbia
-988	District of Columbia	US	08/20/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
-988	District of Columbia	US	08/21/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
-988	District of Columbia	US	08/22/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
-988	District of Columbia	US	08/23/2021	38.90417773	-77.01655992	53898	1155		District of Columbia
-988	District of Columbia	US	08/24/2021	38.90417773	-77.01655992	54031	1155		District of Columbia
-988	District of Columbia	US	08/25/2021	38.90417773	-77.01655992	54156	1155		District of Columbia
-988	District of Columbia	US	08/26/2021	38.90417773	-77.01655992	54366	1158		District of Columbia
-988	District of Columbia	US	08/27/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
-988	District of Columbia	US	08/28/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
-988	District of Columbia	US	08/29/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
-988	District of Columbia	US	08/30/2021	38.90417773	-77.01655992	55253	1159		District of Columbia
-988	District of Columbia	US	08/31/2021	38.90417773	-77.01655992	55431	1160		District of Columbia
-988	District of Columbia	US	09/01/2021	38.90417773	-77.01655992	55570	1161		District of Columbia
-988	District of Columbia	US	09/02/2021	38.90417773	-77.01655992	55718	1161		District of Columbia
-988	District of Columbia	US	09/03/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
-988	District of Columbia	US	09/04/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
-988	District of Columbia	US	09/05/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
-988	District of Columbia	US	09/06/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
-988	District of Columbia	US	09/07/2021	38.90417773	-77.01655992	56569	1163		District of Columbia
-988	District of Columbia	US	09/08/2021	38.90417773	-77.01655992	56694	1163		District of Columbia
-988	District of Columbia	US	09/09/2021	38.90417773	-77.01655992	56859	1164		District of Columbia
-988	District of Columbia	US	09/10/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
-988	District of Columbia	US	09/11/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
-988	District of Columbia	US	09/12/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
-988	District of Columbia	US	09/13/2021	38.90417773	-77.01655992	57771	1165		District of Columbia
-988	District of Columbia	US	09/14/2021	38.90417773	-77.01655992	58146	1167		District of Columbia
-988	District of Columbia	US	09/15/2021	38.90417773	-77.01655992	58440	1167		District of Columbia
-989	District of Columbia	US	09/16/2021	38.90417773	-77.01655992	58649	1167		District of Columbia
-989	District of Columbia	US	09/17/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
-989	District of Columbia	US	09/18/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
-989	District of Columbia	US	09/19/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
-989	District of Columbia	US	09/20/2021	38.90417773	-77.01655992	59563	1170		District of Columbia
-989	District of Columbia	US	09/21/2021	38.90417773	-77.01655992	59712	1171		District of Columbia
+1004	District of Columbia	US	08/11/2020	38.90417773	-77.01655992	12896	593	0	District of Columbia
+958	District of Columbia	US	08/12/2020	38.90417773	-77.01655992	12959	593	0	District of Columbia
+958	District of Columbia	US	08/13/2020	38.90417773	-77.01655992	13024	594	0	District of Columbia
+958	District of Columbia	US	08/14/2020	38.90417773	-77.01655992	13118	594	0	District of Columbia
+958	District of Columbia	US	08/15/2020	38.90417773	-77.01655992	13159	597	0	District of Columbia
+958	District of Columbia	US	08/16/2020	38.90417773	-77.01655992	13220	597	0	District of Columbia
+958	District of Columbia	US	08/17/2020	38.90417773	-77.01655992	13273	597	0	District of Columbia
+958	District of Columbia	US	08/18/2020	38.90417773	-77.01655992	13325	599	0	District of Columbia
+958	District of Columbia	US	08/19/2020	38.90417773	-77.01655992	13354	600	0	District of Columbia
+958	District of Columbia	US	08/20/2020	38.90417773	-77.01655992	13409	601	0	District of Columbia
+958	District of Columbia	US	08/21/2020	38.90417773	-77.01655992	13469	602	0	District of Columbia
+959	District of Columbia	US	08/22/2020	38.90417773	-77.01655992	13534	604	0	District of Columbia
+959	District of Columbia	US	08/23/2020	38.90417773	-77.01655992	13534	604	0	District of Columbia
+959	District of Columbia	US	08/24/2020	38.90417773	-77.01655992	13639	604	0	District of Columbia
+959	District of Columbia	US	08/25/2020	38.90417773	-77.01655992	13684	604	0	District of Columbia
+959	District of Columbia	US	08/26/2020	38.90417773	-77.01655992	13684	605	0	District of Columbia
+959	District of Columbia	US	08/27/2020	38.90417773	-77.01655992	13794	605	0	District of Columbia
+959	District of Columbia	US	08/28/2020	38.90417773	-77.01655992	13851	605	0	District of Columbia
+959	District of Columbia	US	08/29/2020	38.90417773	-77.01655992	13925	605	0	District of Columbia
+959	District of Columbia	US	08/30/2020	38.90417773	-77.01655992	13959	606	0	District of Columbia
+959	District of Columbia	US	08/31/2020	38.90417773	-77.01655992	13992	607	0	District of Columbia
+959	District of Columbia	US	09/01/2020	38.90417773	-77.01655992	14049	607	0	District of Columbia
+959	District of Columbia	US	09/02/2020	38.90417773	-77.01655992	14077	608	0	District of Columbia
+959	District of Columbia	US	09/03/2020	38.90417773	-77.01655992	14135	609	0	District of Columbia
+959	District of Columbia	US	09/04/2020	38.90417773	-77.01655992	14186	611	0	District of Columbia
+959	District of Columbia	US	09/05/2020	38.90417773	-77.01655992	14238	611	0	District of Columbia
+959	District of Columbia	US	09/06/2020	38.90417773	-77.01655992	14279	611	0	District of Columbia
+959	District of Columbia	US	09/07/2020	38.90417773	-77.01655992	14315	611	0	District of Columbia
+959	District of Columbia	US	09/08/2020	38.90417773	-77.01655992	14362	611	0	District of Columbia
+959	District of Columbia	US	09/09/2020	38.90417773	-77.01655992	14387	615	0	District of Columbia
+959	District of Columbia	US	09/10/2020	38.90417773	-77.01655992	14412	616	0	District of Columbia
+959	District of Columbia	US	09/11/2020	38.90417773	-77.01655992	14493	616	0	District of Columbia
+959	District of Columbia	US	09/12/2020	38.90417773	-77.01655992	14493	616	0	District of Columbia
+959	District of Columbia	US	09/13/2020	38.90417773	-77.01655992	14592	616	0	District of Columbia
+959	District of Columbia	US	09/14/2020	38.90417773	-77.01655992	14622	616	0	District of Columbia
+959	District of Columbia	US	09/15/2020	38.90417773	-77.01655992	14687	616	0	District of Columbia
+959	District of Columbia	US	09/16/2020	38.90417773	-77.01655992	14743	617	0	District of Columbia
+959	District of Columbia	US	09/17/2020	38.90417773	-77.01655992	14790	619	0	District of Columbia
+959	District of Columbia	US	09/18/2020	38.90417773	-77.01655992	14852	619	0	District of Columbia
+959	District of Columbia	US	09/19/2020	38.90417773	-77.01655992	14902	619	0	District of Columbia
+959	District of Columbia	US	09/20/2020	38.90417773	-77.01655992	14955	620	0	District of Columbia
+960	District of Columbia	US	09/21/2020	38.90417773	-77.01655992	14978	621	0	District of Columbia
+960	District of Columbia	US	09/22/2020	38.90417773	-77.01655992	15021	621	0	District of Columbia
+960	District of Columbia	US	09/23/2020	38.90417773	-77.01655992	15050	621	0	District of Columbia
+960	District of Columbia	US	09/24/2020	38.90417773	-77.01655992	15106	621	0	District of Columbia
+960	District of Columbia	US	09/25/2020	38.90417773	-77.01655992	15163	623	0	District of Columbia
+960	District of Columbia	US	09/26/2020	38.90417773	-77.01655992	15215	624	0	District of Columbia
+960	District of Columbia	US	09/27/2020	38.90417773	-77.01655992	15250	624	0	District of Columbia
+960	District of Columbia	US	09/28/2020	38.90417773	-77.01655992	15264	624	0	District of Columbia
+960	District of Columbia	US	09/29/2020	38.90417773	-77.01655992	15300	626	0	District of Columbia
+960	District of Columbia	US	09/30/2020	38.90417773	-77.01655992	15326	627	0	District of Columbia
+960	District of Columbia	US	10/01/2020	38.90417773	-77.01655992	15358	628	0	District of Columbia
+960	District of Columbia	US	10/02/2020	38.90417773	-77.01655992	15423	629	0	District of Columbia
+960	District of Columbia	US	10/03/2020	38.90417773	-77.01655992	15473	629	0	District of Columbia
+960	District of Columbia	US	10/04/2020	38.90417773	-77.01655992	15519	631	0	District of Columbia
+960	District of Columbia	US	10/05/2020	38.90417773	-77.01655992	15547	631	0	District of Columbia
+960	District of Columbia	US	10/06/2020	38.90417773	-77.01655992	15652	631	0	District of Columbia
+960	District of Columbia	US	10/07/2020	38.90417773	-77.01655992	15652	631	0	District of Columbia
+960	District of Columbia	US	10/08/2020	38.90417773	-77.01655992	15765	634	0	District of Columbia
+960	District of Columbia	US	10/09/2020	38.90417773	-77.01655992	15843	634	0	District of Columbia
+960	District of Columbia	US	10/10/2020	38.90417773	-77.01655992	15918	636	0	District of Columbia
+960	District of Columbia	US	10/11/2020	38.90417773	-77.01655992	15984	637	0	District of Columbia
+961	District of Columbia	US	10/12/2020	38.90417773	-77.01655992	16022	637	0	District of Columbia
+961	District of Columbia	US	10/13/2020	38.90417773	-77.01655992	16068	637	0	District of Columbia
+961	District of Columbia	US	10/14/2020	38.90417773	-77.01655992	16132	638	0	District of Columbia
+961	District of Columbia	US	10/15/2020	38.90417773	-77.01655992	16166	638	0	District of Columbia
+962	District of Columbia	US	10/16/2020	38.90417773	-77.01655992	16255	641	0	District of Columbia
+962	District of Columbia	US	10/17/2020	38.90417773	-77.01655992	16334	641	0	District of Columbia
+962	District of Columbia	US	10/18/2020	38.90417773	-77.01655992	16370	641	0	District of Columbia
+963	District of Columbia	US	10/19/2020	38.90417773	-77.01655992	16395	641	0	District of Columbia
+963	District of Columbia	US	10/20/2020	38.90417773	-77.01655992	16445	642	0	District of Columbia
+963	District of Columbia	US	10/21/2020	38.90417773	-77.01655992	16498	642	0	District of Columbia
+963	District of Columbia	US	10/22/2020	38.90417773	-77.01655992	16537	642	0	District of Columbia
+963	District of Columbia	US	10/23/2020	38.90417773	-77.01655992	16609	642	0	District of Columbia
+963	District of Columbia	US	10/24/2020	38.90417773	-77.01655992	16706	642	0	District of Columbia
+963	District of Columbia	US	10/25/2020	38.90417773	-77.01655992	16767	642	0	District of Columbia
+963	District of Columbia	US	10/26/2020	38.90417773	-77.01655992	16812	642	0	District of Columbia
+963	District of Columbia	US	10/27/2020	38.90417773	-77.01655992	16906	644	0	District of Columbia
+964	District of Columbia	US	10/28/2020	38.90417773	-77.01655992	16973	644.0	0	District of Columbia
+964	District of Columbia	US	10/29/2020	38.90417773	-77.01655992	17074	645	0	District of Columbia
+964	District of Columbia	US	10/30/2020	38.90417773	-77.01655992	17144	646	0	District of Columbia
+964	District of Columbia	US	10/31/2020	38.90417773	-77.01655992	17266	646	0	District of Columbia
+964	District of Columbia	US	11/01/2020	38.90417773	-77.01655992	17369	646	0	District of Columbia
+964	District of Columbia	US	11/02/2020	38.90417773	-77.01655992	17438	647	0	District of Columbia
+965	District of Columbia	US	11/03/2020	38.90417773	-77.01655992	17524	647	0	District of Columbia
+965	District of Columbia	US	11/04/2020	38.90417773	-77.01655992	17601	647	0	District of Columbia
+965	District of Columbia	US	11/05/2020	38.90417773	-77.01655992	17682	650	0	District of Columbia
+965	District of Columbia	US	11/06/2020	38.90417773	-77.01655992	17792	652	0	District of Columbia
+965	District of Columbia	US	11/07/2020	38.90417773	-77.01655992	17891	654	0	District of Columbia
+965	District of Columbia	US	11/08/2020	38.90417773	-77.01655992	18001	654	0	District of Columbia
+965	District of Columbia	US	11/09/2020	38.90417773	-77.01655992	18087	655	0.0	District of Columbia
+965	District of Columbia	US	11/10/2020	38.90417773	-77.01655992	18173	657	0.0	District of Columbia
+965	District of Columbia	US	11/11/2020	38.90417773	-77.01655992	18379	657	0.0	District of Columbia
+977	District of Columbia	US	11/12/2020	38.90417773	-77.01655992	18507	657	0	District of Columbia
+977	District of Columbia	US	11/13/2020	38.90417773	-77.01655992	18666	657	0	District of Columbia
+977	District of Columbia	US	11/14/2020	38.90417773	-77.01655992	18814	658	0	District of Columbia
+977	District of Columbia	US	11/15/2020	38.90417773	-77.01655992	18977	660	0	District of Columbia
+977	District of Columbia	US	11/16/2020	38.90417773	-77.01655992	19064	660	0	District of Columbia
+977	District of Columbia	US	11/17/2020	38.90417773	-77.01655992	19309	660	0	District of Columbia
+977	District of Columbia	US	11/18/2020	38.90417773	-77.01655992	19465	665	0	District of Columbia
+977	District of Columbia	US	11/19/2020	38.90417773	-77.01655992	19678	667	0	District of Columbia
+977	District of Columbia	US	11/20/2020	38.90417773	-77.01655992	19808	669	0	District of Columbia
+977	District of Columbia	US	11/21/2020	38.90417773	-77.01655992	19961	670	0	District of Columbia
+977	District of Columbia	US	11/22/2020	38.90417773	-77.01655992	20151	670	0	District of Columbia
+977	District of Columbia	US	11/23/2020	38.90417773	-77.01655992	20290	672	0	District of Columbia
+978	District of Columbia	US	11/24/2020	38.90417773	-77.01655992	20409	673	0	District of Columbia
+978	District of Columbia	US	11/25/2020	38.90417773	-77.01655992	20516	677	0	District of Columbia
+978	District of Columbia	US	11/26/2020	38.90417773	-77.01655992	20736	677	0	District of Columbia
+978	District of Columbia	US	11/27/2020	38.90417773	-77.01655992	20937	677	0	District of Columbia
+978	District of Columbia	US	11/28/2020	38.90417773	-77.01655992	21308	678	0	District of Columbia
+978	District of Columbia	US	11/29/2020	38.90417773	-77.01655992	21448	680	0	District of Columbia
+978	District of Columbia	US	11/30/2020	38.90417773	-77.01655992	21552	680	0	District of Columbia
+978	District of Columbia	US	12/01/2020	38.90417773	-77.01655992	21685	685	0	District of Columbia
+978	District of Columbia	US	12/02/2020	38.90417773	-77.01655992	21842	690	0	District of Columbia
+978	District of Columbia	US	12/03/2020	38.90417773	-77.01655992	22164	692	0	District of Columbia
+978	District of Columbia	US	12/04/2020	38.90417773	-77.01655992	22480	693	0	District of Columbia
+978	District of Columbia	US	12/05/2020	38.90417773	-77.01655992	22872	695	0	District of Columbia
+978	District of Columbia	US	12/06/2020	38.90417773	-77.01655992	23136	697	0	District of Columbia
+978	District of Columbia	US	12/07/2020	38.90417773	-77.01655992	23319	701	0	District of Columbia
+978	District of Columbia	US	12/08/2020	38.90417773	-77.01655992	23589	701	0	District of Columbia
+978	District of Columbia	US	12/09/2020	38.90417773	-77.01655992	23854	704	0	District of Columbia
+978	District of Columbia	US	12/10/2020	38.90417773	-77.01655992	24098	708	0	District of Columbia
+978	District of Columbia	US	12/11/2020	38.90417773	-77.01655992	24357	709	0	District of Columbia
+978	District of Columbia	US	12/12/2020	38.90417773	-77.01655992	24643	713	0	District of Columbia
+978	District of Columbia	US	12/13/2020	38.90417773	-77.01655992	24874	715	0	District of Columbia
+978	District of Columbia	US	12/14/2020	38.90417773	-77.01655992	25038	716	0	District of Columbia
+978	District of Columbia	US	12/15/2020	38.90417773	-77.01655992	25339	720	0	District of Columbia
+978	District of Columbia	US	12/16/2020	38.90417773	-77.01655992	25602	720	0	District of Columbia
+978	District of Columbia	US	12/17/2020	38.90417773	-77.01655992	25830	725	0	District of Columbia
+978	District of Columbia	US	12/18/2020	38.90417773	-77.01655992	26104	728	0	District of Columbia
+978	District of Columbia	US	12/19/2020	38.90417773	-77.01655992	26342	730	0	District of Columbia
+978	District of Columbia	US	12/20/2020	38.90417773	-77.01655992	26601	737	0	District of Columbia
+978	District of Columbia	US	12/21/2020	38.90417773	-77.01655992	26740	742	0	District of Columbia
+978	District of Columbia	US	12/22/2020	38.90417773	-77.01655992	26900	744	0	District of Columbia
+978	District of Columbia	US	12/23/2020	38.90417773	-77.01655992	27226	751	0	District of Columbia
+978	District of Columbia	US	12/24/2020	38.90417773	-77.01655992	27436	756	0	District of Columbia
+978	District of Columbia	US	12/25/2020	38.90417773	-77.01655992	27436	756	0	District of Columbia
+978	District of Columbia	US	12/26/2020	38.90417773	-77.01655992	27710	762	0	District of Columbia
+978	District of Columbia	US	12/27/2020	38.90417773	-77.01655992	28202	768	0	District of Columbia
+978	District of Columbia	US	12/28/2020	38.90417773	-77.01655992	28342	771	0	District of Columbia
+978	District of Columbia	US	12/29/2020	38.90417773	-77.01655992	28535	775	0	District of Columbia
+978	District of Columbia	US	12/30/2020	38.90417773	-77.01655992	28758	780	0	District of Columbia
+978	District of Columbia	US	12/31/2020	38.90417773	-77.01655992	28983	786	0	District of Columbia
+978	District of Columbia	US	01/01/2021	38.90417773	-77.01655992	29252	788	0	District of Columbia
+978	District of Columbia	US	01/02/2021	38.90417773	-77.01655992	29509	792	0	District of Columbia
+979	District of Columbia	US	01/03/2021	38.90417773	-77.01655992	29764	794	0	District of Columbia
+979	District of Columbia	US	01/04/2021	38.90417773	-77.01655992	29904	797	0	District of Columbia
+979	District of Columbia	US	01/05/2021	38.90417773	-77.01655992	30166	801	0	District of Columbia
+979	District of Columbia	US	01/06/2021	38.90417773	-77.01655992	30482	806	0	District of Columbia
+979	District of Columbia	US	01/07/2021	38.90417773	-77.01655992	30750	808	0	District of Columbia
+979	District of Columbia	US	01/08/2021	38.90417773	-77.01655992	31107	809	0	District of Columbia
+979	District of Columbia	US	01/09/2021	38.90417773	-77.01655992	31457	813	0	District of Columbia
+979	District of Columbia	US	01/10/2021	38.90417773	-77.01655992	31791	817	0	District of Columbia
+979	District of Columbia	US	01/11/2021	38.90417773	-77.01655992	31993	821	0	District of Columbia
+979	District of Columbia	US	01/12/2021	38.90417773	-77.01655992	32423	825	0	District of Columbia
+979	District of Columbia	US	01/13/2021	38.90417773	-77.01655992	32600	831	0	District of Columbia
+979	District of Columbia	US	01/14/2021	38.90417773	-77.01655992	32820	842	0	District of Columbia
+979	District of Columbia	US	01/15/2021	38.90417773	-77.01655992	33140	842	0	District of Columbia
+979	District of Columbia	US	01/16/2021	38.90417773	-77.01655992	33537	847	0	District of Columbia
+979	District of Columbia	US	01/17/2021	38.90417773	-77.01655992	33851	850	0	District of Columbia
+979	District of Columbia	US	01/18/2021	38.90417773	-77.01655992	34033	857	0	District of Columbia
+979	District of Columbia	US	01/19/2021	38.90417773	-77.01655992	34259	861	0	District of Columbia
+979	District of Columbia	US	01/20/2021	38.90417773	-77.01655992	34403	863	0	District of Columbia
+980	District of Columbia	US	01/21/2021	38.90417773	-77.01655992	34612	864	0	District of Columbia
+980	District of Columbia	US	01/22/2021	38.90417773	-77.01655992	34905	867	0	District of Columbia
+980	District of Columbia	US	01/23/2021	38.90417773	-77.01655992	35077	870	0	District of Columbia
+980	District of Columbia	US	01/24/2021	38.90417773	-77.01655992	35301	872	0	District of Columbia
+980	District of Columbia	US	01/25/2021	38.90417773	-77.01655992	35505	879	0	District of Columbia
+980	District of Columbia	US	01/26/2021	38.90417773	-77.01655992	35700	888	0	District of Columbia
+980	District of Columbia	US	01/27/2021	38.90417773	-77.01655992	35865	895	0	District of Columbia
+980	District of Columbia	US	01/28/2021	38.90417773	-77.01655992	36132	902	0	District of Columbia
+980	District of Columbia	US	01/29/2021	38.90417773	-77.01655992	36414	907	0	District of Columbia
+980	District of Columbia	US	01/30/2021	38.90417773	-77.01655992	36662	909	0	District of Columbia
+980	District of Columbia	US	01/31/2021	38.90417773	-77.01655992	36872	913	0	District of Columbia
+980	District of Columbia	US	02/01/2021	38.90417773	-77.01655992	37008	916	0	District of Columbia
+980	District of Columbia	US	02/02/2021	38.90417773	-77.01655992	37008	916	0	District of Columbia
+980	District of Columbia	US	02/03/2021	38.90417773	-77.01655992	37199	926	0	District of Columbia
+980	District of Columbia	US	02/04/2021	38.90417773	-77.01655992	37365	932	0	District of Columbia
+980	District of Columbia	US	02/05/2021	38.90417773	-77.01655992	37634	940	0	District of Columbia
+980	District of Columbia	US	02/06/2021	38.90417773	-77.01655992	37877	947	0	District of Columbia
+980	District of Columbia	US	02/07/2021	38.90417773	-77.01655992	38035	952	0	District of Columbia
+980	District of Columbia	US	02/08/2021	38.90417773	-77.01655992	38136	956	0	District of Columbia
+980	District of Columbia	US	02/09/2021	38.90417773	-77.01655992	38281	961	0	District of Columbia
+980	District of Columbia	US	02/10/2021	38.90417773	-77.01655992	38348	965	0	District of Columbia
+980	District of Columbia	US	02/11/2021	38.90417773	-77.01655992	38533	973	0	District of Columbia
+980	District of Columbia	US	02/12/2021	38.90417773	-77.01655992	38670	976	0	District of Columbia
+980	District of Columbia	US	02/13/2021	38.90417773	-77.01655992	38796	979	0	District of Columbia
+980	District of Columbia	US	02/14/2021	38.90417773	-77.01655992	38918	979	0	District of Columbia
+980	District of Columbia	US	02/15/2021	38.90417773	-77.01655992	39001	980	0	District of Columbia
+980	District of Columbia	US	02/16/2021	38.90417773	-77.01655992	39131	982	0	District of Columbia
+980	District of Columbia	US	02/17/2021	38.90417773	-77.01655992	39180	985	0	District of Columbia
+980	District of Columbia	US	02/18/2021	38.90417773	-77.01655992	39301	992	0	District of Columbia
+981	District of Columbia	US	02/19/2021	38.90417773	-77.01655992	39461	993	0	District of Columbia
+981	District of Columbia	US	02/20/2021	38.90417773	-77.01655992	39553	994	0	District of Columbia
+981	District of Columbia	US	02/21/2021	38.90417773	-77.01655992	39648	995	0	District of Columbia
+981	District of Columbia	US	02/22/2021	38.90417773	-77.01655992	39755	995	0	District of Columbia
+981	District of Columbia	US	02/23/2021	38.90417773	-77.01655992	39844	998	0	District of Columbia
+981	District of Columbia	US	02/24/2021	38.90417773	-77.01655992	39943	1001	0	District of Columbia
+981	District of Columbia	US	02/25/2021	38.90417773	-77.01655992	40122	1005	0	District of Columbia
+981	District of Columbia	US	02/26/2021	38.90417773	-77.01655992	40284	1009	0	District of Columbia
+981	District of Columbia	US	02/27/2021	38.90417773	-77.01655992	40478	1010	0	District of Columbia
+981	District of Columbia	US	02/28/2021	38.90417773	-77.01655992	40598	1017	0	District of Columbia
+981	District of Columbia	US	03/01/2021	38.90417773	-77.01655992	40684	1019	0	District of Columbia
+981	District of Columbia	US	03/02/2021	38.90417773	-77.01655992	40767	1019	0	District of Columbia
+981	District of Columbia	US	03/03/2021	38.90417773	-77.01655992	40818	1023	0	District of Columbia
+981	District of Columbia	US	03/04/2021	38.90417773	-77.01655992	41014	1024	0	District of Columbia
+981	District of Columbia	US	03/05/2021	38.90417773	-77.01655992	41122	1027	0	District of Columbia
+981	District of Columbia	US	03/06/2021	38.90417773	-77.01655992	41273	1030	0	District of Columbia
+981	District of Columbia	US	03/07/2021	38.90417773	-77.01655992	41419	1030		District of Columbia
+981	District of Columbia	US	03/08/2021	38.90417773	-77.01655992	41579	1035		District of Columbia
+981	District of Columbia	US	03/09/2021	38.90417773	-77.01655992	41910	1036		District of Columbia
+981	District of Columbia	US	03/10/2021	38.90417773	-77.01655992	42006	1037		District of Columbia
+981	District of Columbia	US	03/11/2021	38.90417773	-77.01655992	42128	1038		District of Columbia
+981	District of Columbia	US	03/12/2021	38.90417773	-77.01655992	42282	1038		District of Columbia
+981	District of Columbia	US	03/13/2021	38.90417773	-77.01655992	42432	1040		District of Columbia
+981	District of Columbia	US	03/14/2021	38.90417773	-77.01655992	42511	1041		District of Columbia
+981	District of Columbia	US	03/15/2021	38.90417773	-77.01655992	42623	1042		District of Columbia
+981	District of Columbia	US	03/16/2021	38.90417773	-77.01655992	42730	1042		District of Columbia
+981	District of Columbia	US	03/17/2021	38.90417773	-77.01655992	42811	1044		District of Columbia
+981	District of Columbia	US	03/18/2021	38.90417773	-77.01655992	42892	1046		District of Columbia
+981	District of Columbia	US	03/19/2021	38.90417773	-77.01655992	43034	1047		District of Columbia
+981	District of Columbia	US	03/20/2021	38.90417773	-77.01655992	43175	1049		District of Columbia
+981	District of Columbia	US	03/21/2021	38.90417773	-77.01655992	43229	1050		District of Columbia
+981	District of Columbia	US	03/22/2021	38.90417773	-77.01655992	43383	1050		District of Columbia
+981	District of Columbia	US	03/23/2021	38.90417773	-77.01655992	43488	1051		District of Columbia
+981	District of Columbia	US	03/24/2021	38.90417773	-77.01655992	43595	1053		District of Columbia
+981	District of Columbia	US	03/25/2021	38.90417773	-77.01655992	43669	1053		District of Columbia
+981	District of Columbia	US	03/26/2021	38.90417773	-77.01655992	43825	1055		District of Columbia
+981	District of Columbia	US	03/27/2021	38.90417773	-77.01655992	44051	1056		District of Columbia
+981	District of Columbia	US	03/28/2021	38.90417773	-77.01655992	44175	1056		District of Columbia
+981	District of Columbia	US	03/29/2021	38.90417773	-77.01655992	44248	1059		District of Columbia
+981	District of Columbia	US	03/30/2021	38.90417773	-77.01655992	44413	1061		District of Columbia
+981	District of Columbia	US	03/31/2021	38.90417773	-77.01655992	44513	1064		District of Columbia
+981	District of Columbia	US	04/01/2021	38.90417773	-77.01655992	44656	1066		District of Columbia
+983	District of Columbia	US	04/02/2021	38.90417773	-77.01655992	44807	1069		District of Columbia
+983	District of Columbia	US	04/03/2021	38.90417773	-77.01655992	44932	1070		District of Columbia
+983	District of Columbia	US	04/04/2021	38.90417773	-77.01655992	45037	1070		District of Columbia
+983	District of Columbia	US	04/05/2021	38.90417773	-77.01655992	45112	1072		District of Columbia
+983	District of Columbia	US	04/06/2021	38.90417773	-77.01655992	45234	1074		District of Columbia
+983	District of Columbia	US	04/07/2021	38.90417773	-77.01655992	45328	1076		District of Columbia
+983	District of Columbia	US	04/08/2021	38.90417773	-77.01655992	45498	1077		District of Columbia
+983	District of Columbia	US	04/09/2021	38.90417773	-77.01655992	45634	1079		District of Columbia
+983	District of Columbia	US	04/10/2021	38.90417773	-77.01655992	45762	1081		District of Columbia
+983	District of Columbia	US	04/11/2021	38.90417773	-77.01655992	45830	1081		District of Columbia
+983	District of Columbia	US	04/12/2021	38.90417773	-77.01655992	45903	1084		District of Columbia
+983	District of Columbia	US	04/13/2021	38.90417773	-77.01655992	46016	1085		District of Columbia
+983	District of Columbia	US	04/14/2021	38.90417773	-77.01655992	46209	1088		District of Columbia
+983	District of Columbia	US	04/15/2021	38.90417773	-77.01655992	46315	1090		District of Columbia
+983	District of Columbia	US	04/16/2021	38.90417773	-77.01655992	46449	1093		District of Columbia
+983	District of Columbia	US	04/17/2021	38.90417773	-77.01655992	46579	1095		District of Columbia
+983	District of Columbia	US	04/18/2021	38.90417773	-77.01655992	46662	1096		District of Columbia
+983	District of Columbia	US	04/19/2021	38.90417773	-77.01655992	46740	1096		District of Columbia
+983	District of Columbia	US	04/20/2021	38.90417773	-77.01655992	46869	1097		District of Columbia
+983	District of Columbia	US	04/21/2021	38.90417773	-77.01655992	46941	1097		District of Columbia
+983	District of Columbia	US	04/22/2021	38.90417773	-77.01655992	47040	1098		District of Columbia
+983	District of Columbia	US	04/23/2021	38.90417773	-77.01655992	47141	1099		District of Columbia
+983	District of Columbia	US	04/24/2021	38.90417773	-77.01655992	47219	1099		District of Columbia
+983	District of Columbia	US	04/25/2021	38.90417773	-77.01655992	47323	1099		District of Columbia
+983	District of Columbia	US	04/26/2021	38.90417773	-77.01655992	47378	1099		District of Columbia
+983	District of Columbia	US	04/27/2021	38.90417773	-77.01655992	47471	1100		District of Columbia
+983	District of Columbia	US	04/28/2021	38.90417773	-77.01655992	47533	1104		District of Columbia
+983	District of Columbia	US	04/29/2021	38.90417773	-77.01655992	47614	1105		District of Columbia
+983	District of Columbia	US	04/30/2021	38.90417773	-77.01655992	47697	1105		District of Columbia
+983	District of Columbia	US	05/01/2021	38.90417773	-77.01655992	47697	1105		District of Columbia
+983	District of Columbia	US	05/02/2021	38.90417773	-77.01655992	47800	1106		District of Columbia
+983	District of Columbia	US	05/03/2021	38.90417773	-77.01655992	47903	1106		District of Columbia
+983	District of Columbia	US	05/04/2021	38.90417773	-77.01655992	47986	1106		District of Columbia
+983	District of Columbia	US	05/05/2021	38.90417773	-77.01655992	48041	1109		District of Columbia
+983	District of Columbia	US	05/06/2021	38.90417773	-77.01655992	48080	1110		District of Columbia
+983	District of Columbia	US	05/07/2021	38.90417773	-77.01655992	48136	1110		District of Columbia
+983	District of Columbia	US	05/08/2021	38.90417773	-77.01655992	48164	1110		District of Columbia
+983	District of Columbia	US	05/09/2021	38.90417773	-77.01655992	48180	1110		District of Columbia
+983	District of Columbia	US	05/10/2021	38.90417773	-77.01655992	48195	1110		District of Columbia
+983	District of Columbia	US	05/11/2021	38.90417773	-77.01655992	48282	1113		District of Columbia
+983	District of Columbia	US	05/12/2021	38.90417773	-77.01655992	48336	1115		District of Columbia
+983	District of Columbia	US	05/13/2021	38.90417773	-77.01655992	48404	1115		District of Columbia
+983	District of Columbia	US	05/14/2021	38.90417773	-77.01655992	48424	1116		District of Columbia
+983	District of Columbia	US	05/15/2021	38.90417773	-77.01655992	48530	1118		District of Columbia
+983	District of Columbia	US	05/16/2021	38.90417773	-77.01655992	48545	1120		District of Columbia
+983	District of Columbia	US	05/17/2021	38.90417773	-77.01655992	48590	1122		District of Columbia
+983	District of Columbia	US	05/18/2021	38.90417773	-77.01655992	48616	1122		District of Columbia
+983	District of Columbia	US	05/19/2021	38.90417773	-77.01655992	48634	1124		District of Columbia
+983	District of Columbia	US	05/20/2021	38.90417773	-77.01655992	48662	1125		District of Columbia
+983	District of Columbia	US	05/21/2021	38.90417773	-77.01655992	48689	1125		District of Columbia
+983	District of Columbia	US	05/22/2021	38.90417773	-77.01655992	48727	1125		District of Columbia
+983	District of Columbia	US	05/23/2021	38.90417773	-77.01655992	48748	1127		District of Columbia
+983	District of Columbia	US	05/24/2021	38.90417773	-77.01655992	48762	1130		District of Columbia
+983	District of Columbia	US	05/25/2021	38.90417773	-77.01655992	48803	1130		District of Columbia
+983	District of Columbia	US	05/26/2021	38.90417773	-77.01655992	48822	1131		District of Columbia
+984	District of Columbia	US	05/27/2021	38.90417773	-77.01655992	48844	1132		District of Columbia
+984	District of Columbia	US	05/28/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
+984	District of Columbia	US	05/29/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
+984	District of Columbia	US	05/30/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
+984	District of Columbia	US	05/31/2021	38.90417773	-77.01655992	48898	1132		District of Columbia
+984	District of Columbia	US	06/01/2021	38.90417773	-77.01655992	49000	1134		District of Columbia
+984	District of Columbia	US	06/02/2021	38.90417773	-77.01655992	49011	1135		District of Columbia
+984	District of Columbia	US	06/03/2021	38.90417773	-77.01655992	49041	1136		District of Columbia
+984	District of Columbia	US	06/04/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
+984	District of Columbia	US	06/05/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
+984	District of Columbia	US	06/06/2021	38.90417773	-77.01655992	49068	1136		District of Columbia
+984	District of Columbia	US	06/07/2021	38.90417773	-77.01655992	49110	1136		District of Columbia
+984	District of Columbia	US	06/08/2021	38.90417773	-77.01655992	49119	1137		District of Columbia
+984	District of Columbia	US	06/09/2021	38.90417773	-77.01655992	49127	1137		District of Columbia
+984	District of Columbia	US	06/10/2021	38.90417773	-77.01655992	49151	1137		District of Columbia
+984	District of Columbia	US	06/11/2021	38.90417773	-77.01655992	49158	1137		District of Columbia
+984	District of Columbia	US	06/12/2021	38.90417773	-77.01655992	49179	1138		District of Columbia
+984	District of Columbia	US	06/13/2021	38.90417773	-77.01655992	49179	1138		District of Columbia
+984	District of Columbia	US	06/14/2021	38.90417773	-77.01655992	49200	1138		District of Columbia
+984	District of Columbia	US	06/15/2021	38.90417773	-77.01655992	49213	1138		District of Columbia
+984	District of Columbia	US	06/16/2021	38.90417773	-77.01655992	49223	1139		District of Columbia
+986	District of Columbia	US	06/17/2021	38.90417773	-77.01655992	49232	1140		District of Columbia
+986	District of Columbia	US	06/18/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
+986	District of Columbia	US	06/19/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
+986	District of Columbia	US	06/20/2021	38.90417773	-77.01655992	49243	1141		District of Columbia
+986	District of Columbia	US	06/21/2021	38.90417773	-77.01655992	49262	1141		District of Columbia
+986	District of Columbia	US	06/22/2021	38.90417773	-77.01655992	49275	1141		District of Columbia
+986	District of Columbia	US	06/23/2021	38.90417773	-77.01655992	49284	1141		District of Columbia
+987	District of Columbia	US	06/24/2021	38.90417773	-77.01655992	49297	1141		District of Columbia
+987	District of Columbia	US	06/25/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
+987	District of Columbia	US	06/26/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
+987	District of Columbia	US	06/27/2021	38.90417773	-77.01655992	49305	1141		District of Columbia
+987	District of Columbia	US	06/28/2021	38.90417773	-77.01655992	49333	1141		District of Columbia
+987	District of Columbia	US	06/29/2021	38.90417773	-77.01655992	49347	1141		District of Columbia
+987	District of Columbia	US	06/30/2021	38.90417773	-77.01655992	49355	1141		District of Columbia
+987	District of Columbia	US	07/01/2021	38.90417773	-77.01655992	49362	1141		District of Columbia
+987	District of Columbia	US	07/02/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
+987	District of Columbia	US	07/03/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
+987	District of Columbia	US	07/04/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
+987	District of Columbia	US	07/05/2021	38.90417773	-77.01655992	49378	1141		District of Columbia
+987	District of Columbia	US	07/06/2021	38.90417773	-77.01655992	49417	1142		District of Columbia
+987	District of Columbia	US	07/07/2021	38.90417773	-77.01655992	49423	1143		District of Columbia
+987	District of Columbia	US	07/08/2021	38.90417773	-77.01655992	49434	1143		District of Columbia
+987	District of Columbia	US	07/09/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
+987	District of Columbia	US	07/10/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
+987	District of Columbia	US	07/11/2021	38.90417773	-77.01655992	49455	1143		District of Columbia
+987	District of Columbia	US	07/12/2021	38.90417773	-77.01655992	49526	1144		District of Columbia
+987	District of Columbia	US	07/13/2021	38.90417773	-77.01655992	49536	1144		District of Columbia
+987	District of Columbia	US	07/14/2021	38.90417773	-77.01655992	49574	1145		District of Columbia
+987	District of Columbia	US	07/15/2021	38.90417773	-77.01655992	49615	1145		District of Columbia
+987	District of Columbia	US	07/16/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
+987	District of Columbia	US	07/17/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
+987	District of Columbia	US	07/18/2021	38.90417773	-77.01655992	49652	1146		District of Columbia
+987	District of Columbia	US	07/19/2021	38.90417773	-77.01655992	49793	1146		District of Columbia
+987	District of Columbia	US	07/20/2021	38.90417773	-77.01655992	49827	1146		District of Columbia
+987	District of Columbia	US	07/21/2021	38.90417773	-77.01655992	49858	1146		District of Columbia
+987	District of Columbia	US	07/22/2021	38.90417773	-77.01655992	49930	1146		District of Columbia
+987	District of Columbia	US	07/23/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
+987	District of Columbia	US	07/24/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
+987	District of Columbia	US	07/25/2021	38.90417773	-77.01655992	49973	1146		District of Columbia
+987	District of Columbia	US	07/26/2021	38.90417773	-77.01655992	50160	1147		District of Columbia
+987	District of Columbia	US	07/27/2021	38.90417773	-77.01655992	50228	1147		District of Columbia
+987	District of Columbia	US	07/28/2021	38.90417773	-77.01655992	50268	1148		District of Columbia
+987	District of Columbia	US	07/29/2021	38.90417773	-77.01655992	50329	1149		District of Columbia
+987	District of Columbia	US	07/30/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
+987	District of Columbia	US	07/31/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
+987	District of Columbia	US	08/01/2021	38.90417773	-77.01655992	50398	1149		District of Columbia
+987	District of Columbia	US	08/02/2021	38.90417773	-77.01655992	50718	1149		District of Columbia
+987	District of Columbia	US	08/03/2021	38.90417773	-77.01655992	50800	1149		District of Columbia
+987	District of Columbia	US	08/04/2021	38.90417773	-77.01655992	50858	1149		District of Columbia
+987	District of Columbia	US	08/05/2021	38.90417773	-77.01655992	50975	1149		District of Columbia
+987	District of Columbia	US	08/06/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
+987	District of Columbia	US	08/07/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
+987	District of Columbia	US	08/08/2021	38.90417773	-77.01655992	51103	1149		District of Columbia
+987	District of Columbia	US	08/09/2021	38.90417773	-77.01655992	51589	1149		District of Columbia
+987	District of Columbia	US	08/10/2021	38.90417773	-77.01655992	51589	1149		District of Columbia
+987	District of Columbia	US	08/11/2021	38.90417773	-77.01655992	51853	1149		District of Columbia
+987	District of Columbia	US	08/12/2021	38.90417773	-77.01655992	52005	1150		District of Columbia
+987	District of Columbia	US	08/13/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
+987	District of Columbia	US	08/14/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
+987	District of Columbia	US	08/15/2021	38.90417773	-77.01655992	52201	1150		District of Columbia
+987	District of Columbia	US	08/16/2021	38.90417773	-77.01655992	52777	1150		District of Columbia
+987	District of Columbia	US	08/17/2021	38.90417773	-77.01655992	52843	1151		District of Columbia
+987	District of Columbia	US	08/18/2021	38.90417773	-77.01655992	53024	1153		District of Columbia
+987	District of Columbia	US	08/19/2021	38.90417773	-77.01655992	53162	1155		District of Columbia
+987	District of Columbia	US	08/20/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
+987	District of Columbia	US	08/21/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
+987	District of Columbia	US	08/22/2021	38.90417773	-77.01655992	53342	1155		District of Columbia
+987	District of Columbia	US	08/23/2021	38.90417773	-77.01655992	53898	1155		District of Columbia
+987	District of Columbia	US	08/24/2021	38.90417773	-77.01655992	54031	1155		District of Columbia
+987	District of Columbia	US	08/25/2021	38.90417773	-77.01655992	54156	1155		District of Columbia
+987	District of Columbia	US	08/26/2021	38.90417773	-77.01655992	54366	1158		District of Columbia
+987	District of Columbia	US	08/27/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
+987	District of Columbia	US	08/28/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
+987	District of Columbia	US	08/29/2021	38.90417773	-77.01655992	54556	1159		District of Columbia
+987	District of Columbia	US	08/30/2021	38.90417773	-77.01655992	55253	1159		District of Columbia
+987	District of Columbia	US	08/31/2021	38.90417773	-77.01655992	55431	1160		District of Columbia
+987	District of Columbia	US	09/01/2021	38.90417773	-77.01655992	55570	1161		District of Columbia
+987	District of Columbia	US	09/02/2021	38.90417773	-77.01655992	55718	1161		District of Columbia
+987	District of Columbia	US	09/03/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
+987	District of Columbia	US	09/04/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
+987	District of Columbia	US	09/05/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
+987	District of Columbia	US	09/06/2021	38.90417773	-77.01655992	55918	1162		District of Columbia
+987	District of Columbia	US	09/07/2021	38.90417773	-77.01655992	56569	1163		District of Columbia
+987	District of Columbia	US	09/08/2021	38.90417773	-77.01655992	56694	1163		District of Columbia
+987	District of Columbia	US	09/09/2021	38.90417773	-77.01655992	56859	1164		District of Columbia
+987	District of Columbia	US	09/10/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
+987	District of Columbia	US	09/11/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
+987	District of Columbia	US	09/12/2021	38.90417773	-77.01655992	56966	1165		District of Columbia
+987	District of Columbia	US	09/13/2021	38.90417773	-77.01655992	57771	1165		District of Columbia
+987	District of Columbia	US	09/14/2021	38.90417773	-77.01655992	58146	1167		District of Columbia
+987	District of Columbia	US	09/15/2021	38.90417773	-77.01655992	58440	1167		District of Columbia
+988	District of Columbia	US	09/16/2021	38.90417773	-77.01655992	58649	1167		District of Columbia
+988	District of Columbia	US	09/17/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
+988	District of Columbia	US	09/18/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
+988	District of Columbia	US	09/19/2021	38.90417773	-77.01655992	58851	1167		District of Columbia
+988	District of Columbia	US	09/20/2021	38.90417773	-77.01655992	59563	1170		District of Columbia
+988	District of Columbia	US	09/21/2021	38.90417773	-77.01655992	59712	1171		District of Columbia
+988	District of Columbia	US	09/22/2021	38.90417773	-77.01655992	59849	1171		District of Columbia
+1005	District of Columbia	US	09/23/2021	38.90417773	-77.01655992	60018	1172		District of Columbia

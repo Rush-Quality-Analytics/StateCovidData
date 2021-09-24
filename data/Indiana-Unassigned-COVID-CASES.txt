@@ -127,410 +127,412 @@
 2914	Indiana	US	08/08/2020			0	21	0	Unassigned
 2914	Indiana	US	08/09/2020			0	26	0	Unassigned
 2914	Indiana	US	08/10/2020			0	38	0	Unassigned
-1471	Indiana	US	08/11/2020			0	26	0	Unassigned
-1425	Indiana	US	08/12/2020			0	26	0	Unassigned
-1426	Indiana	US	08/13/2020			0	21	0	Unassigned
-1426	Indiana	US	08/14/2020			0	27	0	Unassigned
-1426	Indiana	US	08/15/2020			0	20	0	Unassigned
-1426	Indiana	US	08/16/2020			0	28	0	Unassigned
-1426	Indiana	US	08/17/2020			0	46	0	Unassigned
-1426	Indiana	US	08/18/2020			0	23	0	Unassigned
-1426	Indiana	US	08/19/2020			0	21	0	Unassigned
-1426	Indiana	US	08/20/2020			0	23	0	Unassigned
-1426	Indiana	US	08/21/2020			0	18	0	Unassigned
-1427	Indiana	US	08/22/2020			0	23	0	Unassigned
-1427	Indiana	US	08/23/2020			0	32	0	Unassigned
-1427	Indiana	US	08/24/2020			0	40	0	Unassigned
-1427	Indiana	US	08/25/2020			0	35	0	Unassigned
-1427	Indiana	US	08/26/2020			0	20	0	Unassigned
-1427	Indiana	US	08/27/2020			0	29	0	Unassigned
-1427	Indiana	US	08/28/2020			0	27	0	Unassigned
-1427	Indiana	US	08/29/2020			0	27	0	Unassigned
-1427	Indiana	US	08/30/2020			0	28	0	Unassigned
-1427	Indiana	US	08/31/2020			0	35	0	Unassigned
-1427	Indiana	US	09/01/2020			0	24	0	Unassigned
-1427	Indiana	US	09/02/2020			0	20	0	Unassigned
-1427	Indiana	US	09/03/2020			0	21	0	Unassigned
-1427	Indiana	US	09/04/2020			0	17	0	Unassigned
-1427	Indiana	US	09/05/2020			0	16	0	Unassigned
-1427	Indiana	US	09/06/2020			0	28	0	Unassigned
-1427	Indiana	US	09/07/2020			0	33	0	Unassigned
-1427	Indiana	US	09/08/2020			0	35	0	Unassigned
-1427	Indiana	US	09/09/2020			0	29	0	Unassigned
-1427	Indiana	US	09/10/2020			0	27	0	Unassigned
-1427	Indiana	US	09/11/2020			0	28	0	Unassigned
-1427	Indiana	US	09/12/2020			0	15	0	Unassigned
-1427	Indiana	US	09/13/2020			0	27	0	Unassigned
-1427	Indiana	US	09/14/2020			0	38	0	Unassigned
-1427	Indiana	US	09/15/2020			0	29	0	Unassigned
-1427	Indiana	US	09/16/2020			0	25	0	Unassigned
-1427	Indiana	US	09/17/2020			0	32	0	Unassigned
-1427	Indiana	US	09/18/2020			0	25	0	Unassigned
-1427	Indiana	US	09/19/2020			0	26	0	Unassigned
-1427	Indiana	US	09/20/2020			0	27	0	Unassigned
-1428	Indiana	US	09/21/2020			0	27	0	Unassigned
-1428	Indiana	US	09/22/2020			0	32	0	Unassigned
-1428	Indiana	US	09/23/2020			0	37	0	Unassigned
-1428	Indiana	US	09/24/2020			0	31	0	Unassigned
-1428	Indiana	US	09/25/2020			0	25	0	Unassigned
-1428	Indiana	US	09/26/2020			0	36	0	Unassigned
-1428	Indiana	US	09/27/2020			0	45	0	Unassigned
-1428	Indiana	US	09/28/2020			0	53	0	Unassigned
-1428	Indiana	US	09/29/2020			0	52	0	Unassigned
-1428	Indiana	US	09/30/2020			0	43	0	Unassigned
-1428	Indiana	US	10/01/2020			0	46	0	Unassigned
-1428	Indiana	US	10/02/2020			0	51	0	Unassigned
-1428	Indiana	US	10/03/2020			0	57	0	Unassigned
-1428	Indiana	US	10/04/2020			0	64	0	Unassigned
-1428	Indiana	US	10/05/2020			0	68	0	Unassigned
-1428	Indiana	US	10/06/2020			0	51	0	Unassigned
-1428	Indiana	US	10/07/2020			0	51	0	Unassigned
-1428	Indiana	US	10/08/2020			0	58	0	Unassigned
-1428	Indiana	US	10/09/2020			0	59	0	Unassigned
-1428	Indiana	US	10/10/2020			0	54	0	Unassigned
-1428	Indiana	US	10/11/2020			0	66	0	Unassigned
-1429	Indiana	US	10/12/2020			0	80	0	Unassigned
-1429	Indiana	US	10/13/2020			0	76	0	Unassigned
-1429	Indiana	US	10/14/2020			0	79	0	Unassigned
-1429	Indiana	US	10/15/2020			0	86	0	Unassigned
-1430	Indiana	US	10/16/2020			0	103	0	Unassigned
-1430	Indiana	US	10/17/2020			0	91	0	Unassigned
-1430	Indiana	US	10/18/2020			0	98	0	Unassigned
-1431	Indiana	US	10/19/2020			0	93	0	Unassigned
-1431	Indiana	US	10/20/2020			0	77	0	Unassigned
-1431	Indiana	US	10/21/2020			0	91	0	Unassigned
-1431	Indiana	US	10/22/2020			0	81	0	Unassigned
-1431	Indiana	US	10/23/2020			0	76	0	Unassigned
-1431	Indiana	US	10/24/2020			0	75	0	Unassigned
-1431	Indiana	US	10/25/2020			0	89	0	Unassigned
-1431	Indiana	US	10/26/2020			0	116	0	Unassigned
-1431	Indiana	US	10/27/2020			0	99	0	Unassigned
-1432	Indiana	US	10/28/2020			0	95.0	0	Unassigned
-1432	Indiana	US	10/29/2020			0	93	0	Unassigned
-1432	Indiana	US	10/30/2020			0	112	0	Unassigned
-1432	Indiana	US	10/31/2020			0	96	0	Unassigned
-1432	Indiana	US	11/01/2020			0	102	0	Unassigned
-1432	Indiana	US	11/02/2020			0	114	0	Unassigned
-1433	Indiana	US	11/03/2020			0	102	0	Unassigned
-1433	Indiana	US	11/04/2020			0	119	0	Unassigned
-1433	Indiana	US	11/05/2020			0	109	0	Unassigned
-1433	Indiana	US	11/06/2020			0	119	0	Unassigned
-1433	Indiana	US	11/07/2020			0	120	0	Unassigned
-1433	Indiana	US	11/08/2020			0	136	0	Unassigned
-1433	Indiana	US	11/09/2020			0	135	0.0	Unassigned
-1433	Indiana	US	11/10/2020			0	118	0.0	Unassigned
-1433	Indiana	US	11/11/2020			0	139	0.0	Unassigned
-1445	Indiana	US	11/12/2020			0	123	0	Unassigned
-1445	Indiana	US	11/13/2020			0	105	0	Unassigned
-1445	Indiana	US	11/14/2020			0	123	0	Unassigned
-1445	Indiana	US	11/15/2020			0	159	0	Unassigned
-1445	Indiana	US	11/16/2020			0	185	0	Unassigned
-1445	Indiana	US	11/17/2020			0	163	0	Unassigned
-1445	Indiana	US	11/18/2020			0	166	0	Unassigned
-1445	Indiana	US	11/19/2020			0	171	0	Unassigned
-1445	Indiana	US	11/20/2020			0	162	0	Unassigned
-1445	Indiana	US	11/21/2020			0	182	0	Unassigned
-1445	Indiana	US	11/22/2020			0	205	0	Unassigned
-1445	Indiana	US	11/23/2020			0	252	0	Unassigned
-1446	Indiana	US	11/24/2020			0	214	0	Unassigned
-1446	Indiana	US	11/25/2020			0	213	0	Unassigned
-1446	Indiana	US	11/26/2020			0	222	0	Unassigned
-1446	Indiana	US	11/27/2020			0	264	0	Unassigned
-1446	Indiana	US	11/28/2020			0	260	0	Unassigned
-1446	Indiana	US	11/29/2020			0	303	0	Unassigned
-1446	Indiana	US	11/30/2020			0	337	0	Unassigned
-1446	Indiana	US	12/01/2020			0	269	0	Unassigned
-1446	Indiana	US	12/02/2020			0	260	0	Unassigned
-1446	Indiana	US	12/03/2020			0	269	0	Unassigned
-1446	Indiana	US	12/04/2020			0	265	0	Unassigned
-1446	Indiana	US	12/05/2020			0	264	0	Unassigned
-1446	Indiana	US	12/06/2020			0	296	0	Unassigned
-1446	Indiana	US	12/07/2020			0	335	0	Unassigned
-1446	Indiana	US	12/08/2020			0	300	0	Unassigned
-1446	Indiana	US	12/09/2020			0	292	0	Unassigned
-1446	Indiana	US	12/10/2020			0	285	0	Unassigned
-1446	Indiana	US	12/11/2020			0	311	0	Unassigned
-1446	Indiana	US	12/12/2020			0	302	0	Unassigned
-1446	Indiana	US	12/13/2020			0	337	0	Unassigned
-1446	Indiana	US	12/14/2020			0	390	0	Unassigned
-1446	Indiana	US	12/15/2020			0	333	0	Unassigned
-1446	Indiana	US	12/16/2020			0	283	0	Unassigned
-1446	Indiana	US	12/17/2020			0	289	0	Unassigned
-1446	Indiana	US	12/18/2020			0	281	0	Unassigned
-1446	Indiana	US	12/19/2020			0	282	0	Unassigned
-1446	Indiana	US	12/20/2020			0	294	0	Unassigned
-1446	Indiana	US	12/21/2020			0	351	0	Unassigned
-1446	Indiana	US	12/22/2020			0	272	0	Unassigned
-1446	Indiana	US	12/23/2020			0	284	0	Unassigned
-1446	Indiana	US	12/24/2020			0	263	0	Unassigned
-1446	Indiana	US	12/25/2020			0	285	0	Unassigned
-1446	Indiana	US	12/26/2020			0	325	0	Unassigned
-1446	Indiana	US	12/27/2020			0	366	0	Unassigned
-1446	Indiana	US	12/28/2020			0	405	0	Unassigned
-1446	Indiana	US	12/29/2020			0	332	0	Unassigned
-1446	Indiana	US	12/30/2020			0	307	0	Unassigned
-1446	Indiana	US	12/31/2020			0	272	0	Unassigned
-1446	Indiana	US	01/01/2021			0	231	0	Unassigned
-1446	Indiana	US	01/02/2021			0	270	0	Unassigned
-1447	Indiana	US	01/03/2021			0	265	0	Unassigned
-1447	Indiana	US	01/04/2021			0	320	0	Unassigned
-1447	Indiana	US	01/05/2021			0	231	0	Unassigned
-1447	Indiana	US	01/06/2021			0	218	0	Unassigned
-1447	Indiana	US	01/07/2021			0	205	0	Unassigned
-1447	Indiana	US	01/08/2021			0	187	0	Unassigned
-1447	Indiana	US	01/09/2021			0	163	0	Unassigned
-1447	Indiana	US	01/10/2021			0	194	0	Unassigned
-1447	Indiana	US	01/11/2021			0	218	0	Unassigned
-1447	Indiana	US	01/12/2021			0	172	0	Unassigned
-1447	Indiana	US	01/13/2021			0	164	0	Unassigned
-1447	Indiana	US	01/14/2021			0	177	0	Unassigned
-1447	Indiana	US	01/15/2021			0	184	0	Unassigned
-1447	Indiana	US	01/16/2021			0	196	0	Unassigned
-1447	Indiana	US	01/17/2021			0	228	0	Unassigned
-1447	Indiana	US	01/18/2021			0	257	0	Unassigned
-1447	Indiana	US	01/19/2021			0	169	0	Unassigned
-1447	Indiana	US	01/20/2021			0	166	0	Unassigned
-1448	Indiana	US	01/21/2021			0	145	0	Unassigned
-1448	Indiana	US	01/22/2021			0	152	0	Unassigned
-1448	Indiana	US	01/23/2021			0	144	0	Unassigned
-1448	Indiana	US	01/24/2021			0	164	0	Unassigned
-1448	Indiana	US	01/25/2021			0	186	0	Unassigned
-1448	Indiana	US	01/26/2021			0	152	0	Unassigned
-1448	Indiana	US	01/27/2021			0	162	0	Unassigned
-1448	Indiana	US	01/28/2021			0	169	0	Unassigned
-1448	Indiana	US	01/29/2021			0	164	0	Unassigned
-1448	Indiana	US	01/30/2021			0	163	0	Unassigned
-1448	Indiana	US	01/31/2021			0	191	0	Unassigned
-1448	Indiana	US	02/01/2021			0	211	0	Unassigned
-1448	Indiana	US	02/02/2021			0	187	0	Unassigned
-1448	Indiana	US	02/03/2021			0	188	0	Unassigned
-1448	Indiana	US	02/04/2021			0	406	0	Unassigned
-1448	Indiana	US	02/05/2021			0	406	0	Unassigned
-1448	Indiana	US	02/06/2021			0	406	0	Unassigned
-1448	Indiana	US	02/07/2021			0	416	0	Unassigned
-1448	Indiana	US	02/08/2021			0	416	0	Unassigned
-1448	Indiana	US	02/09/2021			0	416	0	Unassigned
-1448	Indiana	US	02/10/2021			0	423	0	Unassigned
-1448	Indiana	US	02/11/2021			0	423	0	Unassigned
-1448	Indiana	US	02/12/2021			0	427	0	Unassigned
-1448	Indiana	US	02/13/2021			0	427	0	Unassigned
-1448	Indiana	US	02/14/2021			0	427	0	Unassigned
-1448	Indiana	US	02/15/2021			0	426	0	Unassigned
-1448	Indiana	US	02/16/2021			0	426	0	Unassigned
-1448	Indiana	US	02/17/2021			0	425	0	Unassigned
-1448	Indiana	US	02/18/2021			0	427	0	Unassigned
-1449	Indiana	US	02/19/2021			0	427	0	Unassigned
-1449	Indiana	US	02/20/2021			0	424	0	Unassigned
-1449	Indiana	US	02/21/2021			0	425	0	Unassigned
-1449	Indiana	US	02/22/2021			0	425	0	Unassigned
-1449	Indiana	US	02/23/2021			0	425	0	Unassigned
-1449	Indiana	US	02/24/2021			0	428	0	Unassigned
-1449	Indiana	US	02/25/2021			0	429	0	Unassigned
-1449	Indiana	US	02/26/2021			0	433	0	Unassigned
-1449	Indiana	US	02/27/2021			0	431	0	Unassigned
-1449	Indiana	US	02/28/2021			0	431	0	Unassigned
-1449	Indiana	US	03/01/2021			0	433	0	Unassigned
-1449	Indiana	US	03/02/2021			0	431	0	Unassigned
-1449	Indiana	US	03/03/2021			0	433	0	Unassigned
-1449	Indiana	US	03/04/2021			0	432	0	Unassigned
-1449	Indiana	US	03/05/2021			0	434	0	Unassigned
-1449	Indiana	US	03/06/2021			0	427	0	Unassigned
-1449	Indiana	US	03/07/2021			0	427		Unassigned
-1449	Indiana	US	03/08/2021			0	429		Unassigned
-1449	Indiana	US	03/09/2021			0	427		Unassigned
-1449	Indiana	US	03/10/2021			0	425		Unassigned
-1449	Indiana	US	03/11/2021			0	420		Unassigned
-1449	Indiana	US	03/12/2021			0	415		Unassigned
-1449	Indiana	US	03/13/2021			0	410		Unassigned
-1449	Indiana	US	03/14/2021			0	410		Unassigned
-1449	Indiana	US	03/15/2021			0	410		Unassigned
-1449	Indiana	US	03/16/2021			0	410		Unassigned
-1449	Indiana	US	03/17/2021			0	411		Unassigned
-1449	Indiana	US	03/18/2021			0	412		Unassigned
-1449	Indiana	US	03/19/2021			0	412		Unassigned
-1449	Indiana	US	03/20/2021			0	411		Unassigned
-1449	Indiana	US	03/21/2021			0	410		Unassigned
-1449	Indiana	US	03/22/2021			0	410		Unassigned
-1449	Indiana	US	03/23/2021			0	406		Unassigned
-1449	Indiana	US	03/24/2021			0	407		Unassigned
-1449	Indiana	US	03/25/2021			0	406		Unassigned
-1449	Indiana	US	03/26/2021			0	406		Unassigned
-1449	Indiana	US	03/27/2021			0	406		Unassigned
-1449	Indiana	US	03/28/2021			0	406		Unassigned
-1449	Indiana	US	03/29/2021			0	406		Unassigned
-1449	Indiana	US	03/30/2021			0	406		Unassigned
-1449	Indiana	US	03/31/2021			0	406		Unassigned
-1449	Indiana	US	04/01/2021			0	406		Unassigned
-1451	Indiana	US	04/02/2021			0	407		Unassigned
-1451	Indiana	US	04/03/2021			0	407		Unassigned
-1451	Indiana	US	04/04/2021			0	407		Unassigned
-1451	Indiana	US	04/05/2021			0	407		Unassigned
-1451	Indiana	US	04/06/2021			0	405		Unassigned
-1451	Indiana	US	04/07/2021			0	405		Unassigned
-1451	Indiana	US	04/08/2021			0	404		Unassigned
-1451	Indiana	US	04/09/2021			0	405		Unassigned
-1451	Indiana	US	04/10/2021			0	405		Unassigned
-1451	Indiana	US	04/11/2021			0	405		Unassigned
-1451	Indiana	US	04/12/2021			0	405		Unassigned
-1451	Indiana	US	04/13/2021			0	405		Unassigned
-1451	Indiana	US	04/14/2021			0	405		Unassigned
-1451	Indiana	US	04/15/2021			0	405		Unassigned
-1451	Indiana	US	04/16/2021			0	408		Unassigned
-1451	Indiana	US	04/17/2021			0	408		Unassigned
-1451	Indiana	US	04/18/2021			0	409		Unassigned
-1451	Indiana	US	04/19/2021			0	408		Unassigned
-1451	Indiana	US	04/20/2021			0	408		Unassigned
-1451	Indiana	US	04/21/2021			0	408		Unassigned
-1451	Indiana	US	04/22/2021			0	408		Unassigned
-1451	Indiana	US	04/23/2021			0	408		Unassigned
-1451	Indiana	US	04/24/2021			0	410		Unassigned
-1451	Indiana	US	04/25/2021			0	410		Unassigned
-1451	Indiana	US	04/26/2021			0	410		Unassigned
-1451	Indiana	US	04/27/2021			0	410		Unassigned
-1451	Indiana	US	04/28/2021			0	410		Unassigned
-1451	Indiana	US	04/29/2021			0	411		Unassigned
-1451	Indiana	US	04/30/2021			0	411		Unassigned
-1451	Indiana	US	05/01/2021			0	412		Unassigned
-1451	Indiana	US	05/02/2021			0	412		Unassigned
-1451	Indiana	US	05/03/2021			0	412		Unassigned
-1451	Indiana	US	05/04/2021			0	413		Unassigned
-1451	Indiana	US	05/05/2021			0	413		Unassigned
-1451	Indiana	US	05/06/2021			0	413		Unassigned
-1451	Indiana	US	05/07/2021			0	414		Unassigned
-1451	Indiana	US	05/08/2021			0	414		Unassigned
-1451	Indiana	US	05/09/2021			0	415		Unassigned
-1451	Indiana	US	05/10/2021			0	415		Unassigned
-1451	Indiana	US	05/11/2021			0	416		Unassigned
-1451	Indiana	US	05/12/2021			0	417		Unassigned
-1451	Indiana	US	05/13/2021			0	417		Unassigned
-1451	Indiana	US	05/14/2021			0	417		Unassigned
-1451	Indiana	US	05/15/2021			0	417		Unassigned
-1451	Indiana	US	05/16/2021			0	417		Unassigned
-1451	Indiana	US	05/17/2021			0	417		Unassigned
-1451	Indiana	US	05/18/2021			0	417		Unassigned
-1451	Indiana	US	05/19/2021			0	417		Unassigned
-1451	Indiana	US	05/20/2021			0	417		Unassigned
-1451	Indiana	US	05/21/2021			0	417		Unassigned
-1451	Indiana	US	05/22/2021			0	417		Unassigned
-1451	Indiana	US	05/23/2021			0	417		Unassigned
-1451	Indiana	US	05/24/2021			0	417		Unassigned
-1451	Indiana	US	05/25/2021			0	417		Unassigned
-1451	Indiana	US	05/26/2021			0	416		Unassigned
-1452	Indiana	US	05/27/2021			0	416		Unassigned
-1452	Indiana	US	05/28/2021			0	417		Unassigned
-1452	Indiana	US	05/29/2021			0	417		Unassigned
-1452	Indiana	US	05/30/2021			0	417		Unassigned
-1452	Indiana	US	05/31/2021			0	417		Unassigned
-1452	Indiana	US	06/01/2021			0	417		Unassigned
-1452	Indiana	US	06/02/2021			0	417		Unassigned
-1452	Indiana	US	06/03/2021			0	418		Unassigned
-1452	Indiana	US	06/04/2021			0	417		Unassigned
-1452	Indiana	US	06/05/2021			0	418		Unassigned
-1452	Indiana	US	06/06/2021			0	418		Unassigned
-1452	Indiana	US	06/07/2021			0	418		Unassigned
-1452	Indiana	US	06/08/2021			0	418		Unassigned
-1452	Indiana	US	06/09/2021			0	419		Unassigned
-1452	Indiana	US	06/10/2021			0	419		Unassigned
-1452	Indiana	US	06/11/2021			0	419		Unassigned
-1452	Indiana	US	06/12/2021			0	421		Unassigned
-1452	Indiana	US	06/13/2021			0	421		Unassigned
-1452	Indiana	US	06/14/2021			0	420		Unassigned
-1452	Indiana	US	06/15/2021			0	420		Unassigned
-1452	Indiana	US	06/16/2021			0	420		Unassigned
-1454	Indiana	US	06/17/2021			0	420		Unassigned
-1454	Indiana	US	06/18/2021			0	420		Unassigned
-1454	Indiana	US	06/19/2021			0	420		Unassigned
-1454	Indiana	US	06/20/2021			0	420		Unassigned
-1454	Indiana	US	06/21/2021			0	420		Unassigned
-1454	Indiana	US	06/22/2021			0	424		Unassigned
-1454	Indiana	US	06/23/2021			0	424		Unassigned
-1455	Indiana	US	06/24/2021			0	423		Unassigned
-1455	Indiana	US	06/25/2021			0	423		Unassigned
-1455	Indiana	US	06/26/2021			0	423		Unassigned
-1455	Indiana	US	06/27/2021			0	423		Unassigned
-1455	Indiana	US	06/28/2021			0	424		Unassigned
-1455	Indiana	US	06/29/2021			0	424		Unassigned
-1455	Indiana	US	06/30/2021			0	424		Unassigned
-1455	Indiana	US	07/01/2021			0	424		Unassigned
-1455	Indiana	US	07/02/2021			0	424		Unassigned
-1455	Indiana	US	07/03/2021			0	424		Unassigned
-1455	Indiana	US	07/04/2021			0	424		Unassigned
-1455	Indiana	US	07/05/2021			0	424		Unassigned
-1455	Indiana	US	07/06/2021			0	425		Unassigned
-1455	Indiana	US	07/07/2021			0	426		Unassigned
-1455	Indiana	US	07/08/2021			0	427		Unassigned
-1455	Indiana	US	07/09/2021			0	427		Unassigned
-1455	Indiana	US	07/10/2021			0	427		Unassigned
-1455	Indiana	US	07/11/2021			0	427		Unassigned
-1455	Indiana	US	07/12/2021			0	427		Unassigned
-1455	Indiana	US	07/13/2021			0	427		Unassigned
-1455	Indiana	US	07/14/2021			0	426		Unassigned
-1455	Indiana	US	07/15/2021			0	426		Unassigned
-1455	Indiana	US	07/16/2021			0	426		Unassigned
-1455	Indiana	US	07/17/2021			0	426		Unassigned
-1455	Indiana	US	07/18/2021			0	426		Unassigned
-1455	Indiana	US	07/19/2021			0	427		Unassigned
-1455	Indiana	US	07/20/2021			0	428		Unassigned
-1455	Indiana	US	07/21/2021			0	428		Unassigned
-1455	Indiana	US	07/22/2021			0	428		Unassigned
-1455	Indiana	US	07/23/2021			0	428		Unassigned
-1455	Indiana	US	07/24/2021			0	428		Unassigned
-1455	Indiana	US	07/25/2021			0	428		Unassigned
-1455	Indiana	US	07/26/2021			0	428		Unassigned
-1455	Indiana	US	07/27/2021			0	428		Unassigned
-1455	Indiana	US	07/28/2021			0	429		Unassigned
-1455	Indiana	US	07/29/2021			0	429		Unassigned
-1455	Indiana	US	07/30/2021			0	429		Unassigned
-1455	Indiana	US	07/31/2021			0	429		Unassigned
-1455	Indiana	US	08/01/2021			0	429		Unassigned
-1455	Indiana	US	08/02/2021			0	429		Unassigned
-1455	Indiana	US	08/03/2021			0	429		Unassigned
-1455	Indiana	US	08/04/2021			0	429		Unassigned
-1455	Indiana	US	08/05/2021			0	430		Unassigned
-1455	Indiana	US	08/06/2021			0	430		Unassigned
-1455	Indiana	US	08/07/2021			0	430		Unassigned
-1455	Indiana	US	08/08/2021			0	430		Unassigned
-1455	Indiana	US	08/09/2021			0	430		Unassigned
-1455	Indiana	US	08/10/2021			0	430		Unassigned
-1455	Indiana	US	08/11/2021			0	430		Unassigned
-1455	Indiana	US	08/12/2021			0	430		Unassigned
-1455	Indiana	US	08/13/2021			0	430		Unassigned
-1455	Indiana	US	08/14/2021			0	430		Unassigned
-1455	Indiana	US	08/15/2021			0	430		Unassigned
-1455	Indiana	US	08/16/2021			0	430		Unassigned
-1455	Indiana	US	08/17/2021			0	430		Unassigned
-1455	Indiana	US	08/18/2021			0	430		Unassigned
-1455	Indiana	US	08/19/2021			0	431		Unassigned
-1455	Indiana	US	08/20/2021			0	431		Unassigned
-1455	Indiana	US	08/21/2021			0	431		Unassigned
-1455	Indiana	US	08/22/2021			0	431		Unassigned
-1455	Indiana	US	08/23/2021			0	435		Unassigned
-1455	Indiana	US	08/24/2021			0	435		Unassigned
-1455	Indiana	US	08/25/2021			0	437		Unassigned
-1455	Indiana	US	08/26/2021			0	437		Unassigned
-1455	Indiana	US	08/27/2021			0	437		Unassigned
-1455	Indiana	US	08/28/2021			0	437		Unassigned
-1455	Indiana	US	08/29/2021			0	437		Unassigned
-1455	Indiana	US	08/30/2021			0	439		Unassigned
-1455	Indiana	US	08/31/2021			0	442		Unassigned
-1455	Indiana	US	09/01/2021			0	442		Unassigned
-1455	Indiana	US	09/02/2021			0	444		Unassigned
-1455	Indiana	US	09/03/2021			0	449		Unassigned
-1455	Indiana	US	09/04/2021			0	449		Unassigned
-1455	Indiana	US	09/05/2021			0	449		Unassigned
-1455	Indiana	US	09/06/2021			0	449		Unassigned
-1455	Indiana	US	09/07/2021			0	451		Unassigned
-1455	Indiana	US	09/08/2021			0	451		Unassigned
-1455	Indiana	US	09/09/2021			0	451		Unassigned
-1455	Indiana	US	09/10/2021			0	453		Unassigned
-1455	Indiana	US	09/11/2021			0	453		Unassigned
-1455	Indiana	US	09/12/2021			0	453		Unassigned
-1455	Indiana	US	09/13/2021			0	457		Unassigned
-1455	Indiana	US	09/14/2021			0	458		Unassigned
-1455	Indiana	US	09/15/2021			0	461		Unassigned
-1456	Indiana	US	09/16/2021			0	465		Unassigned
-1456	Indiana	US	09/17/2021			0	468		Unassigned
-1456	Indiana	US	09/18/2021			0	468		Unassigned
-1456	Indiana	US	09/19/2021			0	468		Unassigned
-1456	Indiana	US	09/20/2021			0	473		Unassigned
-1456	Indiana	US	09/21/2021			0	474		Unassigned
+1470	Indiana	US	08/11/2020			0	26	0	Unassigned
+1424	Indiana	US	08/12/2020			0	26	0	Unassigned
+1425	Indiana	US	08/13/2020			0	21	0	Unassigned
+1425	Indiana	US	08/14/2020			0	27	0	Unassigned
+1425	Indiana	US	08/15/2020			0	20	0	Unassigned
+1425	Indiana	US	08/16/2020			0	28	0	Unassigned
+1425	Indiana	US	08/17/2020			0	46	0	Unassigned
+1425	Indiana	US	08/18/2020			0	23	0	Unassigned
+1425	Indiana	US	08/19/2020			0	21	0	Unassigned
+1425	Indiana	US	08/20/2020			0	23	0	Unassigned
+1425	Indiana	US	08/21/2020			0	18	0	Unassigned
+1426	Indiana	US	08/22/2020			0	23	0	Unassigned
+1426	Indiana	US	08/23/2020			0	32	0	Unassigned
+1426	Indiana	US	08/24/2020			0	40	0	Unassigned
+1426	Indiana	US	08/25/2020			0	35	0	Unassigned
+1426	Indiana	US	08/26/2020			0	20	0	Unassigned
+1426	Indiana	US	08/27/2020			0	29	0	Unassigned
+1426	Indiana	US	08/28/2020			0	27	0	Unassigned
+1426	Indiana	US	08/29/2020			0	27	0	Unassigned
+1426	Indiana	US	08/30/2020			0	28	0	Unassigned
+1426	Indiana	US	08/31/2020			0	35	0	Unassigned
+1426	Indiana	US	09/01/2020			0	24	0	Unassigned
+1426	Indiana	US	09/02/2020			0	20	0	Unassigned
+1426	Indiana	US	09/03/2020			0	21	0	Unassigned
+1426	Indiana	US	09/04/2020			0	17	0	Unassigned
+1426	Indiana	US	09/05/2020			0	16	0	Unassigned
+1426	Indiana	US	09/06/2020			0	28	0	Unassigned
+1426	Indiana	US	09/07/2020			0	33	0	Unassigned
+1426	Indiana	US	09/08/2020			0	35	0	Unassigned
+1426	Indiana	US	09/09/2020			0	29	0	Unassigned
+1426	Indiana	US	09/10/2020			0	27	0	Unassigned
+1426	Indiana	US	09/11/2020			0	28	0	Unassigned
+1426	Indiana	US	09/12/2020			0	15	0	Unassigned
+1426	Indiana	US	09/13/2020			0	27	0	Unassigned
+1426	Indiana	US	09/14/2020			0	38	0	Unassigned
+1426	Indiana	US	09/15/2020			0	29	0	Unassigned
+1426	Indiana	US	09/16/2020			0	25	0	Unassigned
+1426	Indiana	US	09/17/2020			0	32	0	Unassigned
+1426	Indiana	US	09/18/2020			0	25	0	Unassigned
+1426	Indiana	US	09/19/2020			0	26	0	Unassigned
+1426	Indiana	US	09/20/2020			0	27	0	Unassigned
+1427	Indiana	US	09/21/2020			0	27	0	Unassigned
+1427	Indiana	US	09/22/2020			0	32	0	Unassigned
+1427	Indiana	US	09/23/2020			0	37	0	Unassigned
+1427	Indiana	US	09/24/2020			0	31	0	Unassigned
+1427	Indiana	US	09/25/2020			0	25	0	Unassigned
+1427	Indiana	US	09/26/2020			0	36	0	Unassigned
+1427	Indiana	US	09/27/2020			0	45	0	Unassigned
+1427	Indiana	US	09/28/2020			0	53	0	Unassigned
+1427	Indiana	US	09/29/2020			0	52	0	Unassigned
+1427	Indiana	US	09/30/2020			0	43	0	Unassigned
+1427	Indiana	US	10/01/2020			0	46	0	Unassigned
+1427	Indiana	US	10/02/2020			0	51	0	Unassigned
+1427	Indiana	US	10/03/2020			0	57	0	Unassigned
+1427	Indiana	US	10/04/2020			0	64	0	Unassigned
+1427	Indiana	US	10/05/2020			0	68	0	Unassigned
+1427	Indiana	US	10/06/2020			0	51	0	Unassigned
+1427	Indiana	US	10/07/2020			0	51	0	Unassigned
+1427	Indiana	US	10/08/2020			0	58	0	Unassigned
+1427	Indiana	US	10/09/2020			0	59	0	Unassigned
+1427	Indiana	US	10/10/2020			0	54	0	Unassigned
+1427	Indiana	US	10/11/2020			0	66	0	Unassigned
+1428	Indiana	US	10/12/2020			0	80	0	Unassigned
+1428	Indiana	US	10/13/2020			0	76	0	Unassigned
+1428	Indiana	US	10/14/2020			0	79	0	Unassigned
+1428	Indiana	US	10/15/2020			0	86	0	Unassigned
+1429	Indiana	US	10/16/2020			0	103	0	Unassigned
+1429	Indiana	US	10/17/2020			0	91	0	Unassigned
+1429	Indiana	US	10/18/2020			0	98	0	Unassigned
+1430	Indiana	US	10/19/2020			0	93	0	Unassigned
+1430	Indiana	US	10/20/2020			0	77	0	Unassigned
+1430	Indiana	US	10/21/2020			0	91	0	Unassigned
+1430	Indiana	US	10/22/2020			0	81	0	Unassigned
+1430	Indiana	US	10/23/2020			0	76	0	Unassigned
+1430	Indiana	US	10/24/2020			0	75	0	Unassigned
+1430	Indiana	US	10/25/2020			0	89	0	Unassigned
+1430	Indiana	US	10/26/2020			0	116	0	Unassigned
+1430	Indiana	US	10/27/2020			0	99	0	Unassigned
+1431	Indiana	US	10/28/2020			0	95.0	0	Unassigned
+1431	Indiana	US	10/29/2020			0	93	0	Unassigned
+1431	Indiana	US	10/30/2020			0	112	0	Unassigned
+1431	Indiana	US	10/31/2020			0	96	0	Unassigned
+1431	Indiana	US	11/01/2020			0	102	0	Unassigned
+1431	Indiana	US	11/02/2020			0	114	0	Unassigned
+1432	Indiana	US	11/03/2020			0	102	0	Unassigned
+1432	Indiana	US	11/04/2020			0	119	0	Unassigned
+1432	Indiana	US	11/05/2020			0	109	0	Unassigned
+1432	Indiana	US	11/06/2020			0	119	0	Unassigned
+1432	Indiana	US	11/07/2020			0	120	0	Unassigned
+1432	Indiana	US	11/08/2020			0	136	0	Unassigned
+1432	Indiana	US	11/09/2020			0	135	0.0	Unassigned
+1432	Indiana	US	11/10/2020			0	118	0.0	Unassigned
+1432	Indiana	US	11/11/2020			0	139	0.0	Unassigned
+1444	Indiana	US	11/12/2020			0	123	0	Unassigned
+1444	Indiana	US	11/13/2020			0	105	0	Unassigned
+1444	Indiana	US	11/14/2020			0	123	0	Unassigned
+1444	Indiana	US	11/15/2020			0	159	0	Unassigned
+1444	Indiana	US	11/16/2020			0	185	0	Unassigned
+1444	Indiana	US	11/17/2020			0	163	0	Unassigned
+1444	Indiana	US	11/18/2020			0	166	0	Unassigned
+1444	Indiana	US	11/19/2020			0	171	0	Unassigned
+1444	Indiana	US	11/20/2020			0	162	0	Unassigned
+1444	Indiana	US	11/21/2020			0	182	0	Unassigned
+1444	Indiana	US	11/22/2020			0	205	0	Unassigned
+1444	Indiana	US	11/23/2020			0	252	0	Unassigned
+1445	Indiana	US	11/24/2020			0	214	0	Unassigned
+1445	Indiana	US	11/25/2020			0	213	0	Unassigned
+1445	Indiana	US	11/26/2020			0	222	0	Unassigned
+1445	Indiana	US	11/27/2020			0	264	0	Unassigned
+1445	Indiana	US	11/28/2020			0	260	0	Unassigned
+1445	Indiana	US	11/29/2020			0	303	0	Unassigned
+1445	Indiana	US	11/30/2020			0	337	0	Unassigned
+1445	Indiana	US	12/01/2020			0	269	0	Unassigned
+1445	Indiana	US	12/02/2020			0	260	0	Unassigned
+1445	Indiana	US	12/03/2020			0	269	0	Unassigned
+1445	Indiana	US	12/04/2020			0	265	0	Unassigned
+1445	Indiana	US	12/05/2020			0	264	0	Unassigned
+1445	Indiana	US	12/06/2020			0	296	0	Unassigned
+1445	Indiana	US	12/07/2020			0	335	0	Unassigned
+1445	Indiana	US	12/08/2020			0	300	0	Unassigned
+1445	Indiana	US	12/09/2020			0	292	0	Unassigned
+1445	Indiana	US	12/10/2020			0	285	0	Unassigned
+1445	Indiana	US	12/11/2020			0	311	0	Unassigned
+1445	Indiana	US	12/12/2020			0	302	0	Unassigned
+1445	Indiana	US	12/13/2020			0	337	0	Unassigned
+1445	Indiana	US	12/14/2020			0	390	0	Unassigned
+1445	Indiana	US	12/15/2020			0	333	0	Unassigned
+1445	Indiana	US	12/16/2020			0	283	0	Unassigned
+1445	Indiana	US	12/17/2020			0	289	0	Unassigned
+1445	Indiana	US	12/18/2020			0	281	0	Unassigned
+1445	Indiana	US	12/19/2020			0	282	0	Unassigned
+1445	Indiana	US	12/20/2020			0	294	0	Unassigned
+1445	Indiana	US	12/21/2020			0	351	0	Unassigned
+1445	Indiana	US	12/22/2020			0	272	0	Unassigned
+1445	Indiana	US	12/23/2020			0	284	0	Unassigned
+1445	Indiana	US	12/24/2020			0	263	0	Unassigned
+1445	Indiana	US	12/25/2020			0	285	0	Unassigned
+1445	Indiana	US	12/26/2020			0	325	0	Unassigned
+1445	Indiana	US	12/27/2020			0	366	0	Unassigned
+1445	Indiana	US	12/28/2020			0	405	0	Unassigned
+1445	Indiana	US	12/29/2020			0	332	0	Unassigned
+1445	Indiana	US	12/30/2020			0	307	0	Unassigned
+1445	Indiana	US	12/31/2020			0	272	0	Unassigned
+1445	Indiana	US	01/01/2021			0	231	0	Unassigned
+1445	Indiana	US	01/02/2021			0	270	0	Unassigned
+1446	Indiana	US	01/03/2021			0	265	0	Unassigned
+1446	Indiana	US	01/04/2021			0	320	0	Unassigned
+1446	Indiana	US	01/05/2021			0	231	0	Unassigned
+1446	Indiana	US	01/06/2021			0	218	0	Unassigned
+1446	Indiana	US	01/07/2021			0	205	0	Unassigned
+1446	Indiana	US	01/08/2021			0	187	0	Unassigned
+1446	Indiana	US	01/09/2021			0	163	0	Unassigned
+1446	Indiana	US	01/10/2021			0	194	0	Unassigned
+1446	Indiana	US	01/11/2021			0	218	0	Unassigned
+1446	Indiana	US	01/12/2021			0	172	0	Unassigned
+1446	Indiana	US	01/13/2021			0	164	0	Unassigned
+1446	Indiana	US	01/14/2021			0	177	0	Unassigned
+1446	Indiana	US	01/15/2021			0	184	0	Unassigned
+1446	Indiana	US	01/16/2021			0	196	0	Unassigned
+1446	Indiana	US	01/17/2021			0	228	0	Unassigned
+1446	Indiana	US	01/18/2021			0	257	0	Unassigned
+1446	Indiana	US	01/19/2021			0	169	0	Unassigned
+1446	Indiana	US	01/20/2021			0	166	0	Unassigned
+1447	Indiana	US	01/21/2021			0	145	0	Unassigned
+1447	Indiana	US	01/22/2021			0	152	0	Unassigned
+1447	Indiana	US	01/23/2021			0	144	0	Unassigned
+1447	Indiana	US	01/24/2021			0	164	0	Unassigned
+1447	Indiana	US	01/25/2021			0	186	0	Unassigned
+1447	Indiana	US	01/26/2021			0	152	0	Unassigned
+1447	Indiana	US	01/27/2021			0	162	0	Unassigned
+1447	Indiana	US	01/28/2021			0	169	0	Unassigned
+1447	Indiana	US	01/29/2021			0	164	0	Unassigned
+1447	Indiana	US	01/30/2021			0	163	0	Unassigned
+1447	Indiana	US	01/31/2021			0	191	0	Unassigned
+1447	Indiana	US	02/01/2021			0	211	0	Unassigned
+1447	Indiana	US	02/02/2021			0	187	0	Unassigned
+1447	Indiana	US	02/03/2021			0	188	0	Unassigned
+1447	Indiana	US	02/04/2021			0	406	0	Unassigned
+1447	Indiana	US	02/05/2021			0	406	0	Unassigned
+1447	Indiana	US	02/06/2021			0	406	0	Unassigned
+1447	Indiana	US	02/07/2021			0	416	0	Unassigned
+1447	Indiana	US	02/08/2021			0	416	0	Unassigned
+1447	Indiana	US	02/09/2021			0	416	0	Unassigned
+1447	Indiana	US	02/10/2021			0	423	0	Unassigned
+1447	Indiana	US	02/11/2021			0	423	0	Unassigned
+1447	Indiana	US	02/12/2021			0	427	0	Unassigned
+1447	Indiana	US	02/13/2021			0	427	0	Unassigned
+1447	Indiana	US	02/14/2021			0	427	0	Unassigned
+1447	Indiana	US	02/15/2021			0	426	0	Unassigned
+1447	Indiana	US	02/16/2021			0	426	0	Unassigned
+1447	Indiana	US	02/17/2021			0	425	0	Unassigned
+1447	Indiana	US	02/18/2021			0	427	0	Unassigned
+1448	Indiana	US	02/19/2021			0	427	0	Unassigned
+1448	Indiana	US	02/20/2021			0	424	0	Unassigned
+1448	Indiana	US	02/21/2021			0	425	0	Unassigned
+1448	Indiana	US	02/22/2021			0	425	0	Unassigned
+1448	Indiana	US	02/23/2021			0	425	0	Unassigned
+1448	Indiana	US	02/24/2021			0	428	0	Unassigned
+1448	Indiana	US	02/25/2021			0	429	0	Unassigned
+1448	Indiana	US	02/26/2021			0	433	0	Unassigned
+1448	Indiana	US	02/27/2021			0	431	0	Unassigned
+1448	Indiana	US	02/28/2021			0	431	0	Unassigned
+1448	Indiana	US	03/01/2021			0	433	0	Unassigned
+1448	Indiana	US	03/02/2021			0	431	0	Unassigned
+1448	Indiana	US	03/03/2021			0	433	0	Unassigned
+1448	Indiana	US	03/04/2021			0	432	0	Unassigned
+1448	Indiana	US	03/05/2021			0	434	0	Unassigned
+1448	Indiana	US	03/06/2021			0	427	0	Unassigned
+1448	Indiana	US	03/07/2021			0	427		Unassigned
+1448	Indiana	US	03/08/2021			0	429		Unassigned
+1448	Indiana	US	03/09/2021			0	427		Unassigned
+1448	Indiana	US	03/10/2021			0	425		Unassigned
+1448	Indiana	US	03/11/2021			0	420		Unassigned
+1448	Indiana	US	03/12/2021			0	415		Unassigned
+1448	Indiana	US	03/13/2021			0	410		Unassigned
+1448	Indiana	US	03/14/2021			0	410		Unassigned
+1448	Indiana	US	03/15/2021			0	410		Unassigned
+1448	Indiana	US	03/16/2021			0	410		Unassigned
+1448	Indiana	US	03/17/2021			0	411		Unassigned
+1448	Indiana	US	03/18/2021			0	412		Unassigned
+1448	Indiana	US	03/19/2021			0	412		Unassigned
+1448	Indiana	US	03/20/2021			0	411		Unassigned
+1448	Indiana	US	03/21/2021			0	410		Unassigned
+1448	Indiana	US	03/22/2021			0	410		Unassigned
+1448	Indiana	US	03/23/2021			0	406		Unassigned
+1448	Indiana	US	03/24/2021			0	407		Unassigned
+1448	Indiana	US	03/25/2021			0	406		Unassigned
+1448	Indiana	US	03/26/2021			0	406		Unassigned
+1448	Indiana	US	03/27/2021			0	406		Unassigned
+1448	Indiana	US	03/28/2021			0	406		Unassigned
+1448	Indiana	US	03/29/2021			0	406		Unassigned
+1448	Indiana	US	03/30/2021			0	406		Unassigned
+1448	Indiana	US	03/31/2021			0	406		Unassigned
+1448	Indiana	US	04/01/2021			0	406		Unassigned
+1450	Indiana	US	04/02/2021			0	407		Unassigned
+1450	Indiana	US	04/03/2021			0	407		Unassigned
+1450	Indiana	US	04/04/2021			0	407		Unassigned
+1450	Indiana	US	04/05/2021			0	407		Unassigned
+1450	Indiana	US	04/06/2021			0	405		Unassigned
+1450	Indiana	US	04/07/2021			0	405		Unassigned
+1450	Indiana	US	04/08/2021			0	404		Unassigned
+1450	Indiana	US	04/09/2021			0	405		Unassigned
+1450	Indiana	US	04/10/2021			0	405		Unassigned
+1450	Indiana	US	04/11/2021			0	405		Unassigned
+1450	Indiana	US	04/12/2021			0	405		Unassigned
+1450	Indiana	US	04/13/2021			0	405		Unassigned
+1450	Indiana	US	04/14/2021			0	405		Unassigned
+1450	Indiana	US	04/15/2021			0	405		Unassigned
+1450	Indiana	US	04/16/2021			0	408		Unassigned
+1450	Indiana	US	04/17/2021			0	408		Unassigned
+1450	Indiana	US	04/18/2021			0	409		Unassigned
+1450	Indiana	US	04/19/2021			0	408		Unassigned
+1450	Indiana	US	04/20/2021			0	408		Unassigned
+1450	Indiana	US	04/21/2021			0	408		Unassigned
+1450	Indiana	US	04/22/2021			0	408		Unassigned
+1450	Indiana	US	04/23/2021			0	408		Unassigned
+1450	Indiana	US	04/24/2021			0	410		Unassigned
+1450	Indiana	US	04/25/2021			0	410		Unassigned
+1450	Indiana	US	04/26/2021			0	410		Unassigned
+1450	Indiana	US	04/27/2021			0	410		Unassigned
+1450	Indiana	US	04/28/2021			0	410		Unassigned
+1450	Indiana	US	04/29/2021			0	411		Unassigned
+1450	Indiana	US	04/30/2021			0	411		Unassigned
+1450	Indiana	US	05/01/2021			0	412		Unassigned
+1450	Indiana	US	05/02/2021			0	412		Unassigned
+1450	Indiana	US	05/03/2021			0	412		Unassigned
+1450	Indiana	US	05/04/2021			0	413		Unassigned
+1450	Indiana	US	05/05/2021			0	413		Unassigned
+1450	Indiana	US	05/06/2021			0	413		Unassigned
+1450	Indiana	US	05/07/2021			0	414		Unassigned
+1450	Indiana	US	05/08/2021			0	414		Unassigned
+1450	Indiana	US	05/09/2021			0	415		Unassigned
+1450	Indiana	US	05/10/2021			0	415		Unassigned
+1450	Indiana	US	05/11/2021			0	416		Unassigned
+1450	Indiana	US	05/12/2021			0	417		Unassigned
+1450	Indiana	US	05/13/2021			0	417		Unassigned
+1450	Indiana	US	05/14/2021			0	417		Unassigned
+1450	Indiana	US	05/15/2021			0	417		Unassigned
+1450	Indiana	US	05/16/2021			0	417		Unassigned
+1450	Indiana	US	05/17/2021			0	417		Unassigned
+1450	Indiana	US	05/18/2021			0	417		Unassigned
+1450	Indiana	US	05/19/2021			0	417		Unassigned
+1450	Indiana	US	05/20/2021			0	417		Unassigned
+1450	Indiana	US	05/21/2021			0	417		Unassigned
+1450	Indiana	US	05/22/2021			0	417		Unassigned
+1450	Indiana	US	05/23/2021			0	417		Unassigned
+1450	Indiana	US	05/24/2021			0	417		Unassigned
+1450	Indiana	US	05/25/2021			0	417		Unassigned
+1450	Indiana	US	05/26/2021			0	416		Unassigned
+1451	Indiana	US	05/27/2021			0	416		Unassigned
+1451	Indiana	US	05/28/2021			0	417		Unassigned
+1451	Indiana	US	05/29/2021			0	417		Unassigned
+1451	Indiana	US	05/30/2021			0	417		Unassigned
+1451	Indiana	US	05/31/2021			0	417		Unassigned
+1451	Indiana	US	06/01/2021			0	417		Unassigned
+1451	Indiana	US	06/02/2021			0	417		Unassigned
+1451	Indiana	US	06/03/2021			0	418		Unassigned
+1451	Indiana	US	06/04/2021			0	417		Unassigned
+1451	Indiana	US	06/05/2021			0	418		Unassigned
+1451	Indiana	US	06/06/2021			0	418		Unassigned
+1451	Indiana	US	06/07/2021			0	418		Unassigned
+1451	Indiana	US	06/08/2021			0	418		Unassigned
+1451	Indiana	US	06/09/2021			0	419		Unassigned
+1451	Indiana	US	06/10/2021			0	419		Unassigned
+1451	Indiana	US	06/11/2021			0	419		Unassigned
+1451	Indiana	US	06/12/2021			0	421		Unassigned
+1451	Indiana	US	06/13/2021			0	421		Unassigned
+1451	Indiana	US	06/14/2021			0	420		Unassigned
+1451	Indiana	US	06/15/2021			0	420		Unassigned
+1451	Indiana	US	06/16/2021			0	420		Unassigned
+1453	Indiana	US	06/17/2021			0	420		Unassigned
+1453	Indiana	US	06/18/2021			0	420		Unassigned
+1453	Indiana	US	06/19/2021			0	420		Unassigned
+1453	Indiana	US	06/20/2021			0	420		Unassigned
+1453	Indiana	US	06/21/2021			0	420		Unassigned
+1453	Indiana	US	06/22/2021			0	424		Unassigned
+1453	Indiana	US	06/23/2021			0	424		Unassigned
+1454	Indiana	US	06/24/2021			0	423		Unassigned
+1454	Indiana	US	06/25/2021			0	423		Unassigned
+1454	Indiana	US	06/26/2021			0	423		Unassigned
+1454	Indiana	US	06/27/2021			0	423		Unassigned
+1454	Indiana	US	06/28/2021			0	424		Unassigned
+1454	Indiana	US	06/29/2021			0	424		Unassigned
+1454	Indiana	US	06/30/2021			0	424		Unassigned
+1454	Indiana	US	07/01/2021			0	424		Unassigned
+1454	Indiana	US	07/02/2021			0	424		Unassigned
+1454	Indiana	US	07/03/2021			0	424		Unassigned
+1454	Indiana	US	07/04/2021			0	424		Unassigned
+1454	Indiana	US	07/05/2021			0	424		Unassigned
+1454	Indiana	US	07/06/2021			0	425		Unassigned
+1454	Indiana	US	07/07/2021			0	426		Unassigned
+1454	Indiana	US	07/08/2021			0	427		Unassigned
+1454	Indiana	US	07/09/2021			0	427		Unassigned
+1454	Indiana	US	07/10/2021			0	427		Unassigned
+1454	Indiana	US	07/11/2021			0	427		Unassigned
+1454	Indiana	US	07/12/2021			0	427		Unassigned
+1454	Indiana	US	07/13/2021			0	427		Unassigned
+1454	Indiana	US	07/14/2021			0	426		Unassigned
+1454	Indiana	US	07/15/2021			0	426		Unassigned
+1454	Indiana	US	07/16/2021			0	426		Unassigned
+1454	Indiana	US	07/17/2021			0	426		Unassigned
+1454	Indiana	US	07/18/2021			0	426		Unassigned
+1454	Indiana	US	07/19/2021			0	427		Unassigned
+1454	Indiana	US	07/20/2021			0	428		Unassigned
+1454	Indiana	US	07/21/2021			0	428		Unassigned
+1454	Indiana	US	07/22/2021			0	428		Unassigned
+1454	Indiana	US	07/23/2021			0	428		Unassigned
+1454	Indiana	US	07/24/2021			0	428		Unassigned
+1454	Indiana	US	07/25/2021			0	428		Unassigned
+1454	Indiana	US	07/26/2021			0	428		Unassigned
+1454	Indiana	US	07/27/2021			0	428		Unassigned
+1454	Indiana	US	07/28/2021			0	429		Unassigned
+1454	Indiana	US	07/29/2021			0	429		Unassigned
+1454	Indiana	US	07/30/2021			0	429		Unassigned
+1454	Indiana	US	07/31/2021			0	429		Unassigned
+1454	Indiana	US	08/01/2021			0	429		Unassigned
+1454	Indiana	US	08/02/2021			0	429		Unassigned
+1454	Indiana	US	08/03/2021			0	429		Unassigned
+1454	Indiana	US	08/04/2021			0	429		Unassigned
+1454	Indiana	US	08/05/2021			0	430		Unassigned
+1454	Indiana	US	08/06/2021			0	430		Unassigned
+1454	Indiana	US	08/07/2021			0	430		Unassigned
+1454	Indiana	US	08/08/2021			0	430		Unassigned
+1454	Indiana	US	08/09/2021			0	430		Unassigned
+1454	Indiana	US	08/10/2021			0	430		Unassigned
+1454	Indiana	US	08/11/2021			0	430		Unassigned
+1454	Indiana	US	08/12/2021			0	430		Unassigned
+1454	Indiana	US	08/13/2021			0	430		Unassigned
+1454	Indiana	US	08/14/2021			0	430		Unassigned
+1454	Indiana	US	08/15/2021			0	430		Unassigned
+1454	Indiana	US	08/16/2021			0	430		Unassigned
+1454	Indiana	US	08/17/2021			0	430		Unassigned
+1454	Indiana	US	08/18/2021			0	430		Unassigned
+1454	Indiana	US	08/19/2021			0	431		Unassigned
+1454	Indiana	US	08/20/2021			0	431		Unassigned
+1454	Indiana	US	08/21/2021			0	431		Unassigned
+1454	Indiana	US	08/22/2021			0	431		Unassigned
+1454	Indiana	US	08/23/2021			0	435		Unassigned
+1454	Indiana	US	08/24/2021			0	435		Unassigned
+1454	Indiana	US	08/25/2021			0	437		Unassigned
+1454	Indiana	US	08/26/2021			0	437		Unassigned
+1454	Indiana	US	08/27/2021			0	437		Unassigned
+1454	Indiana	US	08/28/2021			0	437		Unassigned
+1454	Indiana	US	08/29/2021			0	437		Unassigned
+1454	Indiana	US	08/30/2021			0	439		Unassigned
+1454	Indiana	US	08/31/2021			0	442		Unassigned
+1454	Indiana	US	09/01/2021			0	442		Unassigned
+1454	Indiana	US	09/02/2021			0	444		Unassigned
+1454	Indiana	US	09/03/2021			0	449		Unassigned
+1454	Indiana	US	09/04/2021			0	449		Unassigned
+1454	Indiana	US	09/05/2021			0	449		Unassigned
+1454	Indiana	US	09/06/2021			0	449		Unassigned
+1454	Indiana	US	09/07/2021			0	451		Unassigned
+1454	Indiana	US	09/08/2021			0	451		Unassigned
+1454	Indiana	US	09/09/2021			0	451		Unassigned
+1454	Indiana	US	09/10/2021			0	453		Unassigned
+1454	Indiana	US	09/11/2021			0	453		Unassigned
+1454	Indiana	US	09/12/2021			0	453		Unassigned
+1454	Indiana	US	09/13/2021			0	457		Unassigned
+1454	Indiana	US	09/14/2021			0	458		Unassigned
+1454	Indiana	US	09/15/2021			0	461		Unassigned
+1455	Indiana	US	09/16/2021			0	465		Unassigned
+1455	Indiana	US	09/17/2021			0	468		Unassigned
+1455	Indiana	US	09/18/2021			0	468		Unassigned
+1455	Indiana	US	09/19/2021			0	468		Unassigned
+1455	Indiana	US	09/20/2021			0	473		Unassigned
+1455	Indiana	US	09/21/2021			0	474		Unassigned
+1455	Indiana	US	09/22/2021			0	479		Unassigned
+1472	Indiana	US	09/23/2021			0	479		Unassigned

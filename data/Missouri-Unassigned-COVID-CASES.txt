@@ -134,410 +134,412 @@
 2924	Missouri	US	08/08/2020			596	0	0	Unassigned
 2924	Missouri	US	08/09/2020			599	0	0	Unassigned
 2924	Missouri	US	08/10/2020			606	0	0	Unassigned
-2299	Missouri	US	08/11/2020			646	0	0	Unassigned
-2253	Missouri	US	08/12/2020			718	0	0	Unassigned
-2254	Missouri	US	08/13/2020			755	0	0	Unassigned
-2254	Missouri	US	08/14/2020			772	0	0	Unassigned
-2254	Missouri	US	08/15/2020			788	0	0	Unassigned
-2254	Missouri	US	08/16/2020			794	0	0	Unassigned
-2256	Missouri	US	08/17/2020			815	0	0	Unassigned
-2256	Missouri	US	08/18/2020			851	0	0	Unassigned
-2256	Missouri	US	08/19/2020			863	0	0	Unassigned
-2256	Missouri	US	08/20/2020			918	0	0	Unassigned
-2256	Missouri	US	08/21/2020			959	0	0	Unassigned
-2257	Missouri	US	08/22/2020			981	0	0	Unassigned
-2257	Missouri	US	08/23/2020			984	0	0	Unassigned
-2257	Missouri	US	08/24/2020			1038	0	0	Unassigned
-2257	Missouri	US	08/25/2020			1090	0	0	Unassigned
-2257	Missouri	US	08/26/2020			1159	0	0	Unassigned
-2257	Missouri	US	08/27/2020			1204	0	0	Unassigned
-2257	Missouri	US	08/28/2020			1234	0	0	Unassigned
-2257	Missouri	US	08/29/2020			1253	0	0	Unassigned
-2257	Missouri	US	08/30/2020			1257	0	0	Unassigned
-2257	Missouri	US	08/31/2020			1295	0	0	Unassigned
-2257	Missouri	US	09/01/2020			1357	0	0	Unassigned
-2257	Missouri	US	09/02/2020			1422	0	0	Unassigned
-2257	Missouri	US	09/03/2020			1529	0	0	Unassigned
-2257	Missouri	US	09/04/2020			1574	0	0	Unassigned
-2257	Missouri	US	09/05/2020			1593	0	0	Unassigned
-2257	Missouri	US	09/06/2020			1605	0	0	Unassigned
-2257	Missouri	US	09/07/2020			1645	0	0	Unassigned
-2257	Missouri	US	09/08/2020			1679	0	0	Unassigned
-2257	Missouri	US	09/09/2020			1836	0	0	Unassigned
-2257	Missouri	US	09/10/2020			1889	0	0	Unassigned
-2257	Missouri	US	09/11/2020			1964	0	0	Unassigned
-2257	Missouri	US	09/12/2020			2013	0	0	Unassigned
-2257	Missouri	US	09/13/2020			2044	0	0	Unassigned
-2257	Missouri	US	09/14/2020			2093	0	0	Unassigned
-2257	Missouri	US	09/15/2020			2222	0	0	Unassigned
-2257	Missouri	US	09/16/2020			2311	0	0	Unassigned
-2257	Missouri	US	09/17/2020			2346	0	0	Unassigned
-2257	Missouri	US	09/18/2020			2443	0	0	Unassigned
-2257	Missouri	US	09/19/2020			2475	0	0	Unassigned
-2257	Missouri	US	09/20/2020			2579	0	0	Unassigned
-2258	Missouri	US	09/21/2020			2703	0	0	Unassigned
-2258	Missouri	US	09/22/2020			2891	0	0	Unassigned
-2258	Missouri	US	09/23/2020			2955	0	0	Unassigned
-2258	Missouri	US	09/24/2020			3029	0	0	Unassigned
-2258	Missouri	US	09/25/2020			3120	0	0	Unassigned
-2258	Missouri	US	09/26/2020			3151	0	0	Unassigned
-2258	Missouri	US	09/27/2020			3179	0	0	Unassigned
-2258	Missouri	US	09/28/2020			3231	0	0	Unassigned
-2258	Missouri	US	09/29/2020			3434	0	0	Unassigned
-2258	Missouri	US	09/30/2020			3531	0	0	Unassigned
-2258	Missouri	US	10/01/2020			3599	0	0	Unassigned
-2258	Missouri	US	10/02/2020			3637	0	0	Unassigned
-2258	Missouri	US	10/03/2020			3673	0	0	Unassigned
-2258	Missouri	US	10/04/2020			3698	0	0	Unassigned
-2258	Missouri	US	10/05/2020			3741	0	0	Unassigned
-2258	Missouri	US	10/06/2020			3894	0	0	Unassigned
-2258	Missouri	US	10/07/2020			4035	0	0	Unassigned
-2258	Missouri	US	10/08/2020			4126	0	0	Unassigned
-2258	Missouri	US	10/09/2020			4219	0	0	Unassigned
-2258	Missouri	US	10/10/2020			4272	0	0	Unassigned
-2258	Missouri	US	10/11/2020			4296	0	0	Unassigned
-2259	Missouri	US	10/12/2020			4307	0	0	Unassigned
-2259	Missouri	US	10/13/2020			4435	0	0	Unassigned
-2259	Missouri	US	10/14/2020			4592	0	0	Unassigned
-2259	Missouri	US	10/15/2020			4677	0	0	Unassigned
-2260	Missouri	US	10/16/2020			4803	0	0	Unassigned
-2260	Missouri	US	10/17/2020			4858	0	0	Unassigned
-2260	Missouri	US	10/18/2020			4902	0	0	Unassigned
-2261	Missouri	US	10/19/2020			4962	0	0	Unassigned
-2261	Missouri	US	10/20/2020			5105	0	0	Unassigned
-2261	Missouri	US	10/21/2020			5189	0	0	Unassigned
-2261	Missouri	US	10/22/2020			5320	0	0	Unassigned
-2261	Missouri	US	10/23/2020			5479	0	0	Unassigned
-2261	Missouri	US	10/24/2020			5569	0	0	Unassigned
-2261	Missouri	US	10/25/2020			5661	9	0	Unassigned
-2261	Missouri	US	10/26/2020			5768	0	0	Unassigned
-2261	Missouri	US	10/27/2020			5978	0	0	Unassigned
-2262	Missouri	US	10/28/2020			6204	0.0	0	Unassigned
-2262	Missouri	US	10/29/2020			6500	0	0	Unassigned
-2262	Missouri	US	10/30/2020			6652	0	0	Unassigned
-2262	Missouri	US	10/31/2020			6758	0	0	Unassigned
-2262	Missouri	US	11/01/2020			6914	0	0	Unassigned
-2262	Missouri	US	11/02/2020			7118	0	0	Unassigned
-2263	Missouri	US	11/03/2020			7312	0	0	Unassigned
-2263	Missouri	US	11/04/2020			7526	0	0	Unassigned
-2263	Missouri	US	11/05/2020			7778	0	0	Unassigned
-2263	Missouri	US	11/06/2020			8025	0	0	Unassigned
-2263	Missouri	US	11/07/2020			8134	0	0	Unassigned
-2263	Missouri	US	11/08/2020			8272	0	0	Unassigned
-2263	Missouri	US	11/09/2020			8387	0	0.0	Unassigned
-2263	Missouri	US	11/10/2020			8658	0	0.0	Unassigned
-2263	Missouri	US	11/11/2020			8919	0	0.0	Unassigned
-2275	Missouri	US	11/12/2020			9377	0	0	Unassigned
-2275	Missouri	US	11/13/2020			9603	0	0	Unassigned
-2275	Missouri	US	11/14/2020			9851	0	0	Unassigned
-2275	Missouri	US	11/15/2020			9943	0	0	Unassigned
-2275	Missouri	US	11/16/2020			10385	0	0	Unassigned
-2275	Missouri	US	11/17/2020			10883	0	0	Unassigned
-2275	Missouri	US	11/18/2020			11212	0	0	Unassigned
-2275	Missouri	US	11/19/2020			11615	0	0	Unassigned
-2275	Missouri	US	11/20/2020			11984	0	0	Unassigned
-2275	Missouri	US	11/21/2020			12148	0	0	Unassigned
-2275	Missouri	US	11/22/2020			12287	0	0	Unassigned
-2275	Missouri	US	11/23/2020			12743	0	0	Unassigned
-2276	Missouri	US	11/24/2020			13156	0	0	Unassigned
-2276	Missouri	US	11/25/2020			13766	0	0	Unassigned
-2276	Missouri	US	11/26/2020			13948	0	0	Unassigned
-2276	Missouri	US	11/27/2020			14200	0	0	Unassigned
-2276	Missouri	US	11/28/2020			14462	0	0	Unassigned
-2276	Missouri	US	11/29/2020			14611	0	0	Unassigned
-2276	Missouri	US	11/30/2020			15063	0	0	Unassigned
-2276	Missouri	US	12/01/2020			15847	0	0	Unassigned
-2276	Missouri	US	12/02/2020			16429	0	0	Unassigned
-2276	Missouri	US	12/03/2020			17241	0	0	Unassigned
-2276	Missouri	US	12/04/2020			17809	0	0	Unassigned
-2276	Missouri	US	12/05/2020			18139	0	0	Unassigned
-2276	Missouri	US	12/06/2020			18312	0	0	Unassigned
-2276	Missouri	US	12/07/2020			18909	0	0	Unassigned
-2276	Missouri	US	12/08/2020			19532	0	0	Unassigned
-2276	Missouri	US	12/09/2020			20421	0	0	Unassigned
-2276	Missouri	US	12/10/2020			21269	0	0	Unassigned
-2276	Missouri	US	12/11/2020			22716	0	0	Unassigned
-2276	Missouri	US	12/12/2020			23634	0	0	Unassigned
-2276	Missouri	US	12/13/2020			24134	0	0	Unassigned
-2276	Missouri	US	12/14/2020			24775	0	0	Unassigned
-2276	Missouri	US	12/15/2020			25586	0	0	Unassigned
-2276	Missouri	US	12/16/2020			26582	0	0	Unassigned
-2276	Missouri	US	12/17/2020			27240	0	0	Unassigned
-2276	Missouri	US	12/18/2020			28010	0	0	Unassigned
-2276	Missouri	US	12/19/2020			28287	0	0	Unassigned
-2276	Missouri	US	12/20/2020			28683	0	0	Unassigned
-2276	Missouri	US	12/21/2020			29401	0	0	Unassigned
-2276	Missouri	US	12/22/2020			30278	0	0	Unassigned
-2276	Missouri	US	12/23/2020			30994	0	0	Unassigned
-2276	Missouri	US	12/24/2020			31246	0	0	Unassigned
-2276	Missouri	US	12/25/2020			31363	0	0	Unassigned
-2276	Missouri	US	12/26/2020			31506	0	0	Unassigned
-2276	Missouri	US	12/27/2020			31823	0	0	Unassigned
-2276	Missouri	US	12/28/2020			32577	0	0	Unassigned
-2276	Missouri	US	12/29/2020			34198	0	0	Unassigned
-2276	Missouri	US	12/30/2020			35414	0	0	Unassigned
-2276	Missouri	US	12/31/2020			36845	0	0	Unassigned
-2276	Missouri	US	01/01/2021			36960	0	0	Unassigned
-2276	Missouri	US	01/02/2021			37590	0	0	Unassigned
-2277	Missouri	US	01/03/2021			38258	0	0	Unassigned
-2277	Missouri	US	01/04/2021			39150	0	0	Unassigned
-2277	Missouri	US	01/05/2021			40544	0	0	Unassigned
-2277	Missouri	US	01/06/2021			41939	0	0	Unassigned
-2277	Missouri	US	01/07/2021			42935	0	0	Unassigned
-2277	Missouri	US	01/08/2021			44077	0	0	Unassigned
-2277	Missouri	US	01/09/2021			44396	0	0	Unassigned
-2277	Missouri	US	01/10/2021			44502	0	0	Unassigned
-2277	Missouri	US	01/11/2021			45294	0	0	Unassigned
-2277	Missouri	US	01/12/2021			46248	0	0	Unassigned
-2277	Missouri	US	01/13/2021			46839	0	0	Unassigned
-2277	Missouri	US	01/14/2021			47553	0	0	Unassigned
-2278	Missouri	US	01/15/2021			49358	0	0	Unassigned
-2278	Missouri	US	01/16/2021			49989	0	0	Unassigned
-2278	Missouri	US	01/17/2021			50673	0	0	Unassigned
-2278	Missouri	US	01/18/2021			50977	0	0	Unassigned
-2278	Missouri	US	01/19/2021			52056	0	0	Unassigned
-2278	Missouri	US	01/20/2021			52747	0	0	Unassigned
-2279	Missouri	US	01/21/2021			53597	0	0	Unassigned
-2279	Missouri	US	01/22/2021			54277	0	0	Unassigned
-2279	Missouri	US	01/23/2021			54588	0	0	Unassigned
-2279	Missouri	US	01/24/2021			54789	0	0	Unassigned
-2279	Missouri	US	01/25/2021			55628	0	0	Unassigned
-2279	Missouri	US	01/26/2021			56480	0	0	Unassigned
-2279	Missouri	US	01/27/2021			57117	0	0	Unassigned
-2279	Missouri	US	01/28/2021			57691	0	0	Unassigned
-2279	Missouri	US	01/29/2021			58157	0	0	Unassigned
-2279	Missouri	US	01/30/2021			58424	0	0	Unassigned
-2279	Missouri	US	01/31/2021			58586	0	0	Unassigned
-2279	Missouri	US	02/01/2021			59382	0	0	Unassigned
-2279	Missouri	US	02/02/2021			59969	0	0	Unassigned
-2279	Missouri	US	02/03/2021			60385	0	0	Unassigned
-2279	Missouri	US	02/04/2021			61106	0	0	Unassigned
-2279	Missouri	US	02/05/2021			61964	0	0	Unassigned
-2279	Missouri	US	02/06/2021			62094	0	0	Unassigned
-2279	Missouri	US	02/07/2021			62171	0	0	Unassigned
-2279	Missouri	US	02/08/2021			62600	0	0	Unassigned
-2279	Missouri	US	02/09/2021			63036	0	0	Unassigned
-2279	Missouri	US	02/10/2021			63363	0	0	Unassigned
-2279	Missouri	US	02/11/2021			63681	0	0	Unassigned
-2279	Missouri	US	02/12/2021			63864	0	0	Unassigned
-2279	Missouri	US	02/13/2021			64016	0	0	Unassigned
-2279	Missouri	US	02/14/2021			64084	0	0	Unassigned
-2279	Missouri	US	02/15/2021			64299	0	0	Unassigned
-2279	Missouri	US	02/16/2021			64566	0	0	Unassigned
-2279	Missouri	US	02/17/2021			64839	0	0	Unassigned
-2279	Missouri	US	02/18/2021			65127	0	0	Unassigned
-2280	Missouri	US	02/19/2021			65396	0	0	Unassigned
-2280	Missouri	US	02/20/2021			65554	0	0	Unassigned
-2280	Missouri	US	02/21/2021			65688	0	0	Unassigned
-2280	Missouri	US	02/22/2021			66250	0	0	Unassigned
-2280	Missouri	US	02/23/2021			66884	0	0	Unassigned
-2280	Missouri	US	02/24/2021			67117	0	0	Unassigned
-2280	Missouri	US	02/25/2021			67356	0	0	Unassigned
-2280	Missouri	US	02/26/2021			67536	0	0	Unassigned
-2280	Missouri	US	02/27/2021			67706	0	0	Unassigned
-2280	Missouri	US	02/28/2021			67779	0	0	Unassigned
-2280	Missouri	US	03/01/2021			67981	0	0	Unassigned
-2280	Missouri	US	03/02/2021			68235	0	0	Unassigned
-2280	Missouri	US	03/03/2021			68473	0	0	Unassigned
-2280	Missouri	US	03/04/2021			68661	0	0	Unassigned
-2280	Missouri	US	03/05/2021			68879	0	0	Unassigned
-2280	Missouri	US	03/06/2021			68981	0	0	Unassigned
-2280	Missouri	US	03/07/2021			69028	0		Unassigned
-2280	Missouri	US	03/08/2021			69258	0		Unassigned
-2280	Missouri	US	03/09/2021			69520	0		Unassigned
-2280	Missouri	US	03/10/2021			69028	0		Unassigned
-2280	Missouri	US	03/11/2021			0	0		Unassigned
-2280	Missouri	US	03/12/2021			0	0		Unassigned
-2280	Missouri	US	03/13/2021			0	0		Unassigned
-2280	Missouri	US	03/14/2021			0	0		Unassigned
-2280	Missouri	US	03/15/2021			0	0		Unassigned
-2280	Missouri	US	03/16/2021			0	0		Unassigned
-2280	Missouri	US	03/17/2021			0	0		Unassigned
-2280	Missouri	US	03/18/2021			0	0		Unassigned
-2280	Missouri	US	03/19/2021			0	0		Unassigned
-2280	Missouri	US	03/20/2021			0	0		Unassigned
-2280	Missouri	US	03/21/2021			0	0		Unassigned
-2280	Missouri	US	03/22/2021			0	0		Unassigned
-2280	Missouri	US	03/23/2021			0	0		Unassigned
-2280	Missouri	US	03/24/2021			0	0		Unassigned
-2280	Missouri	US	03/25/2021			0	0		Unassigned
-2280	Missouri	US	03/26/2021			0	0		Unassigned
-2280	Missouri	US	03/27/2021			0	0		Unassigned
-2280	Missouri	US	03/28/2021			0	0		Unassigned
-2280	Missouri	US	03/29/2021			0	0		Unassigned
-2280	Missouri	US	03/30/2021			0	0		Unassigned
-2280	Missouri	US	03/31/2021			0	0		Unassigned
-2280	Missouri	US	04/01/2021			0	0		Unassigned
-2282	Missouri	US	04/02/2021			0	0		Unassigned
-2282	Missouri	US	04/03/2021			0	0		Unassigned
-2282	Missouri	US	04/04/2021			0	0		Unassigned
-2282	Missouri	US	04/05/2021			0	0		Unassigned
-2282	Missouri	US	04/06/2021			0	0		Unassigned
-2282	Missouri	US	04/07/2021			0	0		Unassigned
-2282	Missouri	US	04/08/2021			0	0		Unassigned
-2282	Missouri	US	04/09/2021			0	0		Unassigned
-2282	Missouri	US	04/10/2021			0	0		Unassigned
-2282	Missouri	US	04/11/2021			0	0		Unassigned
-2282	Missouri	US	04/12/2021			0	0		Unassigned
-2282	Missouri	US	04/13/2021			0	0		Unassigned
-2282	Missouri	US	04/14/2021			0	0		Unassigned
-2282	Missouri	US	04/15/2021			0	0		Unassigned
-2282	Missouri	US	04/16/2021			0	0		Unassigned
-2282	Missouri	US	04/17/2021			0	0		Unassigned
-2282	Missouri	US	04/18/2021			0	0		Unassigned
-2282	Missouri	US	04/19/2021			0	0		Unassigned
-2282	Missouri	US	04/20/2021			0	0		Unassigned
-2282	Missouri	US	04/21/2021			0	0		Unassigned
-2282	Missouri	US	04/22/2021			0	0		Unassigned
-2282	Missouri	US	04/23/2021			0	0		Unassigned
-2282	Missouri	US	04/24/2021			0	0		Unassigned
-2282	Missouri	US	04/25/2021			0	0		Unassigned
-2282	Missouri	US	04/26/2021			0	0		Unassigned
-2282	Missouri	US	04/27/2021			0	0		Unassigned
-2282	Missouri	US	04/28/2021			0	0		Unassigned
-2282	Missouri	US	04/29/2021			0	0		Unassigned
-2282	Missouri	US	04/30/2021			0	0		Unassigned
-2282	Missouri	US	05/01/2021			0	0		Unassigned
-2282	Missouri	US	05/02/2021			0	0		Unassigned
-2282	Missouri	US	05/03/2021			0	0		Unassigned
-2282	Missouri	US	05/04/2021			0	0		Unassigned
-2282	Missouri	US	05/05/2021			0	0		Unassigned
-2282	Missouri	US	05/06/2021			0	0		Unassigned
-2282	Missouri	US	05/07/2021			0	0		Unassigned
-2282	Missouri	US	05/08/2021			0	0		Unassigned
-2282	Missouri	US	05/09/2021			0	0		Unassigned
-2282	Missouri	US	05/10/2021			0	0		Unassigned
-2282	Missouri	US	05/11/2021			0	0		Unassigned
-2282	Missouri	US	05/12/2021			0	0		Unassigned
-2282	Missouri	US	05/13/2021			0	0		Unassigned
-2282	Missouri	US	05/14/2021			0	0		Unassigned
-2282	Missouri	US	05/15/2021			0	0		Unassigned
-2282	Missouri	US	05/16/2021			0	0		Unassigned
-2282	Missouri	US	05/17/2021			0	0		Unassigned
-2282	Missouri	US	05/18/2021			0	0		Unassigned
-2282	Missouri	US	05/19/2021			0	0		Unassigned
-2282	Missouri	US	05/20/2021			0	0		Unassigned
-2282	Missouri	US	05/21/2021			0	0		Unassigned
-2282	Missouri	US	05/22/2021			0	0		Unassigned
-2282	Missouri	US	05/23/2021			0	0		Unassigned
-2282	Missouri	US	05/24/2021			0	0		Unassigned
-2282	Missouri	US	05/25/2021			0	0		Unassigned
-2282	Missouri	US	05/26/2021			0	0		Unassigned
-2283	Missouri	US	05/27/2021			0	0		Unassigned
-2283	Missouri	US	05/28/2021			0	0		Unassigned
-2283	Missouri	US	05/29/2021			0	0		Unassigned
-2283	Missouri	US	05/30/2021			0	0		Unassigned
-2283	Missouri	US	05/31/2021			0	0		Unassigned
-2283	Missouri	US	06/01/2021			0	0		Unassigned
-2283	Missouri	US	06/02/2021			0	0		Unassigned
-2283	Missouri	US	06/03/2021			0	0		Unassigned
-2283	Missouri	US	06/04/2021			0	0		Unassigned
-2283	Missouri	US	06/05/2021			0	0		Unassigned
-2283	Missouri	US	06/06/2021			0	0		Unassigned
-2283	Missouri	US	06/07/2021			0	0		Unassigned
-2283	Missouri	US	06/08/2021			0	0		Unassigned
-2283	Missouri	US	06/09/2021			0	0		Unassigned
-2283	Missouri	US	06/10/2021			0	0		Unassigned
-2283	Missouri	US	06/11/2021			0	0		Unassigned
-2283	Missouri	US	06/12/2021			0	0		Unassigned
-2283	Missouri	US	06/13/2021			0	0		Unassigned
-2283	Missouri	US	06/14/2021			0	0		Unassigned
-2283	Missouri	US	06/15/2021			0	0		Unassigned
-2283	Missouri	US	06/16/2021			0	0		Unassigned
-2285	Missouri	US	06/17/2021			0	0		Unassigned
-2285	Missouri	US	06/18/2021			0	0		Unassigned
-2285	Missouri	US	06/19/2021			0	0		Unassigned
-2285	Missouri	US	06/20/2021			0	0		Unassigned
-2285	Missouri	US	06/21/2021			0	0		Unassigned
-2285	Missouri	US	06/22/2021			0	0		Unassigned
-2285	Missouri	US	06/23/2021			0	0		Unassigned
-2286	Missouri	US	06/24/2021			0	0		Unassigned
-2286	Missouri	US	06/25/2021			0	0		Unassigned
-2286	Missouri	US	06/26/2021			0	0		Unassigned
-2286	Missouri	US	06/27/2021			0	0		Unassigned
-2286	Missouri	US	06/28/2021			0	0		Unassigned
-2286	Missouri	US	06/29/2021			0	0		Unassigned
-2286	Missouri	US	06/30/2021			0	0		Unassigned
-2286	Missouri	US	07/01/2021			0	0		Unassigned
-2286	Missouri	US	07/02/2021			0	0		Unassigned
-2286	Missouri	US	07/03/2021			0	0		Unassigned
-2286	Missouri	US	07/04/2021			0	0		Unassigned
-2286	Missouri	US	07/05/2021			0	0		Unassigned
-2286	Missouri	US	07/06/2021			0	0		Unassigned
-2286	Missouri	US	07/07/2021			0	0		Unassigned
-2286	Missouri	US	07/08/2021			0	0		Unassigned
-2286	Missouri	US	07/09/2021			0	0		Unassigned
-2286	Missouri	US	07/10/2021			0	0		Unassigned
-2286	Missouri	US	07/11/2021			0	0		Unassigned
-2286	Missouri	US	07/12/2021			0	0		Unassigned
-2286	Missouri	US	07/13/2021			0	0		Unassigned
-2286	Missouri	US	07/14/2021			0	0		Unassigned
-2286	Missouri	US	07/15/2021			0	0		Unassigned
-2286	Missouri	US	07/16/2021			0	0		Unassigned
-2286	Missouri	US	07/17/2021			0	0		Unassigned
-2286	Missouri	US	07/18/2021			0	0		Unassigned
-2286	Missouri	US	07/19/2021			0	0		Unassigned
-2286	Missouri	US	07/20/2021			0	0		Unassigned
-2286	Missouri	US	07/21/2021			0	0		Unassigned
-2286	Missouri	US	07/22/2021			0	0		Unassigned
-2286	Missouri	US	07/23/2021			0	0		Unassigned
-2286	Missouri	US	07/24/2021			0	0		Unassigned
-2286	Missouri	US	07/25/2021			0	0		Unassigned
-2286	Missouri	US	07/26/2021			0	0		Unassigned
-2286	Missouri	US	07/27/2021			0	0		Unassigned
-2286	Missouri	US	07/28/2021			0	0		Unassigned
-2286	Missouri	US	07/29/2021			0	0		Unassigned
-2286	Missouri	US	07/30/2021			0	0		Unassigned
-2286	Missouri	US	07/31/2021			0	0		Unassigned
-2286	Missouri	US	08/01/2021			0	0		Unassigned
-2286	Missouri	US	08/02/2021			0	0		Unassigned
-2286	Missouri	US	08/03/2021			0	0		Unassigned
-2286	Missouri	US	08/04/2021			0	0		Unassigned
-2286	Missouri	US	08/05/2021			0	0		Unassigned
-2286	Missouri	US	08/06/2021			0	0		Unassigned
-2286	Missouri	US	08/07/2021			0	0		Unassigned
-2286	Missouri	US	08/08/2021			0	0		Unassigned
-2286	Missouri	US	08/09/2021			0	0		Unassigned
-2286	Missouri	US	08/10/2021			0	0		Unassigned
-2286	Missouri	US	08/11/2021			0	0		Unassigned
-2286	Missouri	US	08/12/2021			0	0		Unassigned
-2286	Missouri	US	08/13/2021			0	0		Unassigned
-2286	Missouri	US	08/14/2021			0	0		Unassigned
-2286	Missouri	US	08/15/2021			0	0		Unassigned
-2286	Missouri	US	08/16/2021			0	0		Unassigned
-2286	Missouri	US	08/17/2021			0	0		Unassigned
-2286	Missouri	US	08/18/2021			0	0		Unassigned
-2286	Missouri	US	08/19/2021			0	0		Unassigned
-2286	Missouri	US	08/20/2021			0	0		Unassigned
-2286	Missouri	US	08/21/2021			0	0		Unassigned
-2286	Missouri	US	08/22/2021			0	0		Unassigned
-2286	Missouri	US	08/23/2021			0	0		Unassigned
-2286	Missouri	US	08/24/2021			0	0		Unassigned
-2286	Missouri	US	08/25/2021			0	0		Unassigned
-2286	Missouri	US	08/26/2021			0	0		Unassigned
-2286	Missouri	US	08/27/2021			0	0		Unassigned
-2286	Missouri	US	08/28/2021			0	0		Unassigned
-2286	Missouri	US	08/29/2021			0	0		Unassigned
-2286	Missouri	US	08/30/2021			0	0		Unassigned
-2286	Missouri	US	08/31/2021			0	0		Unassigned
-2286	Missouri	US	09/01/2021			0	0		Unassigned
-2286	Missouri	US	09/02/2021			0	0		Unassigned
-2286	Missouri	US	09/03/2021			0	0		Unassigned
-2286	Missouri	US	09/04/2021			0	0		Unassigned
-2286	Missouri	US	09/05/2021			0	0		Unassigned
-2286	Missouri	US	09/06/2021			0	0		Unassigned
-2286	Missouri	US	09/07/2021			0	0		Unassigned
-2286	Missouri	US	09/08/2021			0	0		Unassigned
-2286	Missouri	US	09/09/2021			0	0		Unassigned
-2286	Missouri	US	09/10/2021			0	0		Unassigned
-2286	Missouri	US	09/11/2021			0	0		Unassigned
-2286	Missouri	US	09/12/2021			0	0		Unassigned
-2286	Missouri	US	09/13/2021			0	0		Unassigned
-2286	Missouri	US	09/14/2021			0	0		Unassigned
-2286	Missouri	US	09/15/2021			0	0		Unassigned
-2287	Missouri	US	09/16/2021			0	0		Unassigned
-2287	Missouri	US	09/17/2021			0	0		Unassigned
-2287	Missouri	US	09/18/2021			0	0		Unassigned
-2287	Missouri	US	09/19/2021			0	0		Unassigned
-2287	Missouri	US	09/20/2021			0	0		Unassigned
-2287	Missouri	US	09/21/2021			0	0		Unassigned
+2298	Missouri	US	08/11/2020			646	0	0	Unassigned
+2252	Missouri	US	08/12/2020			718	0	0	Unassigned
+2253	Missouri	US	08/13/2020			755	0	0	Unassigned
+2253	Missouri	US	08/14/2020			772	0	0	Unassigned
+2253	Missouri	US	08/15/2020			788	0	0	Unassigned
+2253	Missouri	US	08/16/2020			794	0	0	Unassigned
+2255	Missouri	US	08/17/2020			815	0	0	Unassigned
+2255	Missouri	US	08/18/2020			851	0	0	Unassigned
+2255	Missouri	US	08/19/2020			863	0	0	Unassigned
+2255	Missouri	US	08/20/2020			918	0	0	Unassigned
+2255	Missouri	US	08/21/2020			959	0	0	Unassigned
+2256	Missouri	US	08/22/2020			981	0	0	Unassigned
+2256	Missouri	US	08/23/2020			984	0	0	Unassigned
+2256	Missouri	US	08/24/2020			1038	0	0	Unassigned
+2256	Missouri	US	08/25/2020			1090	0	0	Unassigned
+2256	Missouri	US	08/26/2020			1159	0	0	Unassigned
+2256	Missouri	US	08/27/2020			1204	0	0	Unassigned
+2256	Missouri	US	08/28/2020			1234	0	0	Unassigned
+2256	Missouri	US	08/29/2020			1253	0	0	Unassigned
+2256	Missouri	US	08/30/2020			1257	0	0	Unassigned
+2256	Missouri	US	08/31/2020			1295	0	0	Unassigned
+2256	Missouri	US	09/01/2020			1357	0	0	Unassigned
+2256	Missouri	US	09/02/2020			1422	0	0	Unassigned
+2256	Missouri	US	09/03/2020			1529	0	0	Unassigned
+2256	Missouri	US	09/04/2020			1574	0	0	Unassigned
+2256	Missouri	US	09/05/2020			1593	0	0	Unassigned
+2256	Missouri	US	09/06/2020			1605	0	0	Unassigned
+2256	Missouri	US	09/07/2020			1645	0	0	Unassigned
+2256	Missouri	US	09/08/2020			1679	0	0	Unassigned
+2256	Missouri	US	09/09/2020			1836	0	0	Unassigned
+2256	Missouri	US	09/10/2020			1889	0	0	Unassigned
+2256	Missouri	US	09/11/2020			1964	0	0	Unassigned
+2256	Missouri	US	09/12/2020			2013	0	0	Unassigned
+2256	Missouri	US	09/13/2020			2044	0	0	Unassigned
+2256	Missouri	US	09/14/2020			2093	0	0	Unassigned
+2256	Missouri	US	09/15/2020			2222	0	0	Unassigned
+2256	Missouri	US	09/16/2020			2311	0	0	Unassigned
+2256	Missouri	US	09/17/2020			2346	0	0	Unassigned
+2256	Missouri	US	09/18/2020			2443	0	0	Unassigned
+2256	Missouri	US	09/19/2020			2475	0	0	Unassigned
+2256	Missouri	US	09/20/2020			2579	0	0	Unassigned
+2257	Missouri	US	09/21/2020			2703	0	0	Unassigned
+2257	Missouri	US	09/22/2020			2891	0	0	Unassigned
+2257	Missouri	US	09/23/2020			2955	0	0	Unassigned
+2257	Missouri	US	09/24/2020			3029	0	0	Unassigned
+2257	Missouri	US	09/25/2020			3120	0	0	Unassigned
+2257	Missouri	US	09/26/2020			3151	0	0	Unassigned
+2257	Missouri	US	09/27/2020			3179	0	0	Unassigned
+2257	Missouri	US	09/28/2020			3231	0	0	Unassigned
+2257	Missouri	US	09/29/2020			3434	0	0	Unassigned
+2257	Missouri	US	09/30/2020			3531	0	0	Unassigned
+2257	Missouri	US	10/01/2020			3599	0	0	Unassigned
+2257	Missouri	US	10/02/2020			3637	0	0	Unassigned
+2257	Missouri	US	10/03/2020			3673	0	0	Unassigned
+2257	Missouri	US	10/04/2020			3698	0	0	Unassigned
+2257	Missouri	US	10/05/2020			3741	0	0	Unassigned
+2257	Missouri	US	10/06/2020			3894	0	0	Unassigned
+2257	Missouri	US	10/07/2020			4035	0	0	Unassigned
+2257	Missouri	US	10/08/2020			4126	0	0	Unassigned
+2257	Missouri	US	10/09/2020			4219	0	0	Unassigned
+2257	Missouri	US	10/10/2020			4272	0	0	Unassigned
+2257	Missouri	US	10/11/2020			4296	0	0	Unassigned
+2258	Missouri	US	10/12/2020			4307	0	0	Unassigned
+2258	Missouri	US	10/13/2020			4435	0	0	Unassigned
+2258	Missouri	US	10/14/2020			4592	0	0	Unassigned
+2258	Missouri	US	10/15/2020			4677	0	0	Unassigned
+2259	Missouri	US	10/16/2020			4803	0	0	Unassigned
+2259	Missouri	US	10/17/2020			4858	0	0	Unassigned
+2259	Missouri	US	10/18/2020			4902	0	0	Unassigned
+2260	Missouri	US	10/19/2020			4962	0	0	Unassigned
+2260	Missouri	US	10/20/2020			5105	0	0	Unassigned
+2260	Missouri	US	10/21/2020			5189	0	0	Unassigned
+2260	Missouri	US	10/22/2020			5320	0	0	Unassigned
+2260	Missouri	US	10/23/2020			5479	0	0	Unassigned
+2260	Missouri	US	10/24/2020			5569	0	0	Unassigned
+2260	Missouri	US	10/25/2020			5661	9	0	Unassigned
+2260	Missouri	US	10/26/2020			5768	0	0	Unassigned
+2260	Missouri	US	10/27/2020			5978	0	0	Unassigned
+2261	Missouri	US	10/28/2020			6204	0.0	0	Unassigned
+2261	Missouri	US	10/29/2020			6500	0	0	Unassigned
+2261	Missouri	US	10/30/2020			6652	0	0	Unassigned
+2261	Missouri	US	10/31/2020			6758	0	0	Unassigned
+2261	Missouri	US	11/01/2020			6914	0	0	Unassigned
+2261	Missouri	US	11/02/2020			7118	0	0	Unassigned
+2262	Missouri	US	11/03/2020			7312	0	0	Unassigned
+2262	Missouri	US	11/04/2020			7526	0	0	Unassigned
+2262	Missouri	US	11/05/2020			7778	0	0	Unassigned
+2262	Missouri	US	11/06/2020			8025	0	0	Unassigned
+2262	Missouri	US	11/07/2020			8134	0	0	Unassigned
+2262	Missouri	US	11/08/2020			8272	0	0	Unassigned
+2262	Missouri	US	11/09/2020			8387	0	0.0	Unassigned
+2262	Missouri	US	11/10/2020			8658	0	0.0	Unassigned
+2262	Missouri	US	11/11/2020			8919	0	0.0	Unassigned
+2274	Missouri	US	11/12/2020			9377	0	0	Unassigned
+2274	Missouri	US	11/13/2020			9603	0	0	Unassigned
+2274	Missouri	US	11/14/2020			9851	0	0	Unassigned
+2274	Missouri	US	11/15/2020			9943	0	0	Unassigned
+2274	Missouri	US	11/16/2020			10385	0	0	Unassigned
+2274	Missouri	US	11/17/2020			10883	0	0	Unassigned
+2274	Missouri	US	11/18/2020			11212	0	0	Unassigned
+2274	Missouri	US	11/19/2020			11615	0	0	Unassigned
+2274	Missouri	US	11/20/2020			11984	0	0	Unassigned
+2274	Missouri	US	11/21/2020			12148	0	0	Unassigned
+2274	Missouri	US	11/22/2020			12287	0	0	Unassigned
+2274	Missouri	US	11/23/2020			12743	0	0	Unassigned
+2275	Missouri	US	11/24/2020			13156	0	0	Unassigned
+2275	Missouri	US	11/25/2020			13766	0	0	Unassigned
+2275	Missouri	US	11/26/2020			13948	0	0	Unassigned
+2275	Missouri	US	11/27/2020			14200	0	0	Unassigned
+2275	Missouri	US	11/28/2020			14462	0	0	Unassigned
+2275	Missouri	US	11/29/2020			14611	0	0	Unassigned
+2275	Missouri	US	11/30/2020			15063	0	0	Unassigned
+2275	Missouri	US	12/01/2020			15847	0	0	Unassigned
+2275	Missouri	US	12/02/2020			16429	0	0	Unassigned
+2275	Missouri	US	12/03/2020			17241	0	0	Unassigned
+2275	Missouri	US	12/04/2020			17809	0	0	Unassigned
+2275	Missouri	US	12/05/2020			18139	0	0	Unassigned
+2275	Missouri	US	12/06/2020			18312	0	0	Unassigned
+2275	Missouri	US	12/07/2020			18909	0	0	Unassigned
+2275	Missouri	US	12/08/2020			19532	0	0	Unassigned
+2275	Missouri	US	12/09/2020			20421	0	0	Unassigned
+2275	Missouri	US	12/10/2020			21269	0	0	Unassigned
+2275	Missouri	US	12/11/2020			22716	0	0	Unassigned
+2275	Missouri	US	12/12/2020			23634	0	0	Unassigned
+2275	Missouri	US	12/13/2020			24134	0	0	Unassigned
+2275	Missouri	US	12/14/2020			24775	0	0	Unassigned
+2275	Missouri	US	12/15/2020			25586	0	0	Unassigned
+2275	Missouri	US	12/16/2020			26582	0	0	Unassigned
+2275	Missouri	US	12/17/2020			27240	0	0	Unassigned
+2275	Missouri	US	12/18/2020			28010	0	0	Unassigned
+2275	Missouri	US	12/19/2020			28287	0	0	Unassigned
+2275	Missouri	US	12/20/2020			28683	0	0	Unassigned
+2275	Missouri	US	12/21/2020			29401	0	0	Unassigned
+2275	Missouri	US	12/22/2020			30278	0	0	Unassigned
+2275	Missouri	US	12/23/2020			30994	0	0	Unassigned
+2275	Missouri	US	12/24/2020			31246	0	0	Unassigned
+2275	Missouri	US	12/25/2020			31363	0	0	Unassigned
+2275	Missouri	US	12/26/2020			31506	0	0	Unassigned
+2275	Missouri	US	12/27/2020			31823	0	0	Unassigned
+2275	Missouri	US	12/28/2020			32577	0	0	Unassigned
+2275	Missouri	US	12/29/2020			34198	0	0	Unassigned
+2275	Missouri	US	12/30/2020			35414	0	0	Unassigned
+2275	Missouri	US	12/31/2020			36845	0	0	Unassigned
+2275	Missouri	US	01/01/2021			36960	0	0	Unassigned
+2275	Missouri	US	01/02/2021			37590	0	0	Unassigned
+2276	Missouri	US	01/03/2021			38258	0	0	Unassigned
+2276	Missouri	US	01/04/2021			39150	0	0	Unassigned
+2276	Missouri	US	01/05/2021			40544	0	0	Unassigned
+2276	Missouri	US	01/06/2021			41939	0	0	Unassigned
+2276	Missouri	US	01/07/2021			42935	0	0	Unassigned
+2276	Missouri	US	01/08/2021			44077	0	0	Unassigned
+2276	Missouri	US	01/09/2021			44396	0	0	Unassigned
+2276	Missouri	US	01/10/2021			44502	0	0	Unassigned
+2276	Missouri	US	01/11/2021			45294	0	0	Unassigned
+2276	Missouri	US	01/12/2021			46248	0	0	Unassigned
+2276	Missouri	US	01/13/2021			46839	0	0	Unassigned
+2276	Missouri	US	01/14/2021			47553	0	0	Unassigned
+2277	Missouri	US	01/15/2021			49358	0	0	Unassigned
+2277	Missouri	US	01/16/2021			49989	0	0	Unassigned
+2277	Missouri	US	01/17/2021			50673	0	0	Unassigned
+2277	Missouri	US	01/18/2021			50977	0	0	Unassigned
+2277	Missouri	US	01/19/2021			52056	0	0	Unassigned
+2277	Missouri	US	01/20/2021			52747	0	0	Unassigned
+2278	Missouri	US	01/21/2021			53597	0	0	Unassigned
+2278	Missouri	US	01/22/2021			54277	0	0	Unassigned
+2278	Missouri	US	01/23/2021			54588	0	0	Unassigned
+2278	Missouri	US	01/24/2021			54789	0	0	Unassigned
+2278	Missouri	US	01/25/2021			55628	0	0	Unassigned
+2278	Missouri	US	01/26/2021			56480	0	0	Unassigned
+2278	Missouri	US	01/27/2021			57117	0	0	Unassigned
+2278	Missouri	US	01/28/2021			57691	0	0	Unassigned
+2278	Missouri	US	01/29/2021			58157	0	0	Unassigned
+2278	Missouri	US	01/30/2021			58424	0	0	Unassigned
+2278	Missouri	US	01/31/2021			58586	0	0	Unassigned
+2278	Missouri	US	02/01/2021			59382	0	0	Unassigned
+2278	Missouri	US	02/02/2021			59969	0	0	Unassigned
+2278	Missouri	US	02/03/2021			60385	0	0	Unassigned
+2278	Missouri	US	02/04/2021			61106	0	0	Unassigned
+2278	Missouri	US	02/05/2021			61964	0	0	Unassigned
+2278	Missouri	US	02/06/2021			62094	0	0	Unassigned
+2278	Missouri	US	02/07/2021			62171	0	0	Unassigned
+2278	Missouri	US	02/08/2021			62600	0	0	Unassigned
+2278	Missouri	US	02/09/2021			63036	0	0	Unassigned
+2278	Missouri	US	02/10/2021			63363	0	0	Unassigned
+2278	Missouri	US	02/11/2021			63681	0	0	Unassigned
+2278	Missouri	US	02/12/2021			63864	0	0	Unassigned
+2278	Missouri	US	02/13/2021			64016	0	0	Unassigned
+2278	Missouri	US	02/14/2021			64084	0	0	Unassigned
+2278	Missouri	US	02/15/2021			64299	0	0	Unassigned
+2278	Missouri	US	02/16/2021			64566	0	0	Unassigned
+2278	Missouri	US	02/17/2021			64839	0	0	Unassigned
+2278	Missouri	US	02/18/2021			65127	0	0	Unassigned
+2279	Missouri	US	02/19/2021			65396	0	0	Unassigned
+2279	Missouri	US	02/20/2021			65554	0	0	Unassigned
+2279	Missouri	US	02/21/2021			65688	0	0	Unassigned
+2279	Missouri	US	02/22/2021			66250	0	0	Unassigned
+2279	Missouri	US	02/23/2021			66884	0	0	Unassigned
+2279	Missouri	US	02/24/2021			67117	0	0	Unassigned
+2279	Missouri	US	02/25/2021			67356	0	0	Unassigned
+2279	Missouri	US	02/26/2021			67536	0	0	Unassigned
+2279	Missouri	US	02/27/2021			67706	0	0	Unassigned
+2279	Missouri	US	02/28/2021			67779	0	0	Unassigned
+2279	Missouri	US	03/01/2021			67981	0	0	Unassigned
+2279	Missouri	US	03/02/2021			68235	0	0	Unassigned
+2279	Missouri	US	03/03/2021			68473	0	0	Unassigned
+2279	Missouri	US	03/04/2021			68661	0	0	Unassigned
+2279	Missouri	US	03/05/2021			68879	0	0	Unassigned
+2279	Missouri	US	03/06/2021			68981	0	0	Unassigned
+2279	Missouri	US	03/07/2021			69028	0		Unassigned
+2279	Missouri	US	03/08/2021			69258	0		Unassigned
+2279	Missouri	US	03/09/2021			69520	0		Unassigned
+2279	Missouri	US	03/10/2021			69028	0		Unassigned
+2279	Missouri	US	03/11/2021			0	0		Unassigned
+2279	Missouri	US	03/12/2021			0	0		Unassigned
+2279	Missouri	US	03/13/2021			0	0		Unassigned
+2279	Missouri	US	03/14/2021			0	0		Unassigned
+2279	Missouri	US	03/15/2021			0	0		Unassigned
+2279	Missouri	US	03/16/2021			0	0		Unassigned
+2279	Missouri	US	03/17/2021			0	0		Unassigned
+2279	Missouri	US	03/18/2021			0	0		Unassigned
+2279	Missouri	US	03/19/2021			0	0		Unassigned
+2279	Missouri	US	03/20/2021			0	0		Unassigned
+2279	Missouri	US	03/21/2021			0	0		Unassigned
+2279	Missouri	US	03/22/2021			0	0		Unassigned
+2279	Missouri	US	03/23/2021			0	0		Unassigned
+2279	Missouri	US	03/24/2021			0	0		Unassigned
+2279	Missouri	US	03/25/2021			0	0		Unassigned
+2279	Missouri	US	03/26/2021			0	0		Unassigned
+2279	Missouri	US	03/27/2021			0	0		Unassigned
+2279	Missouri	US	03/28/2021			0	0		Unassigned
+2279	Missouri	US	03/29/2021			0	0		Unassigned
+2279	Missouri	US	03/30/2021			0	0		Unassigned
+2279	Missouri	US	03/31/2021			0	0		Unassigned
+2279	Missouri	US	04/01/2021			0	0		Unassigned
+2281	Missouri	US	04/02/2021			0	0		Unassigned
+2281	Missouri	US	04/03/2021			0	0		Unassigned
+2281	Missouri	US	04/04/2021			0	0		Unassigned
+2281	Missouri	US	04/05/2021			0	0		Unassigned
+2281	Missouri	US	04/06/2021			0	0		Unassigned
+2281	Missouri	US	04/07/2021			0	0		Unassigned
+2281	Missouri	US	04/08/2021			0	0		Unassigned
+2281	Missouri	US	04/09/2021			0	0		Unassigned
+2281	Missouri	US	04/10/2021			0	0		Unassigned
+2281	Missouri	US	04/11/2021			0	0		Unassigned
+2281	Missouri	US	04/12/2021			0	0		Unassigned
+2281	Missouri	US	04/13/2021			0	0		Unassigned
+2281	Missouri	US	04/14/2021			0	0		Unassigned
+2281	Missouri	US	04/15/2021			0	0		Unassigned
+2281	Missouri	US	04/16/2021			0	0		Unassigned
+2281	Missouri	US	04/17/2021			0	0		Unassigned
+2281	Missouri	US	04/18/2021			0	0		Unassigned
+2281	Missouri	US	04/19/2021			0	0		Unassigned
+2281	Missouri	US	04/20/2021			0	0		Unassigned
+2281	Missouri	US	04/21/2021			0	0		Unassigned
+2281	Missouri	US	04/22/2021			0	0		Unassigned
+2281	Missouri	US	04/23/2021			0	0		Unassigned
+2281	Missouri	US	04/24/2021			0	0		Unassigned
+2281	Missouri	US	04/25/2021			0	0		Unassigned
+2281	Missouri	US	04/26/2021			0	0		Unassigned
+2281	Missouri	US	04/27/2021			0	0		Unassigned
+2281	Missouri	US	04/28/2021			0	0		Unassigned
+2281	Missouri	US	04/29/2021			0	0		Unassigned
+2281	Missouri	US	04/30/2021			0	0		Unassigned
+2281	Missouri	US	05/01/2021			0	0		Unassigned
+2281	Missouri	US	05/02/2021			0	0		Unassigned
+2281	Missouri	US	05/03/2021			0	0		Unassigned
+2281	Missouri	US	05/04/2021			0	0		Unassigned
+2281	Missouri	US	05/05/2021			0	0		Unassigned
+2281	Missouri	US	05/06/2021			0	0		Unassigned
+2281	Missouri	US	05/07/2021			0	0		Unassigned
+2281	Missouri	US	05/08/2021			0	0		Unassigned
+2281	Missouri	US	05/09/2021			0	0		Unassigned
+2281	Missouri	US	05/10/2021			0	0		Unassigned
+2281	Missouri	US	05/11/2021			0	0		Unassigned
+2281	Missouri	US	05/12/2021			0	0		Unassigned
+2281	Missouri	US	05/13/2021			0	0		Unassigned
+2281	Missouri	US	05/14/2021			0	0		Unassigned
+2281	Missouri	US	05/15/2021			0	0		Unassigned
+2281	Missouri	US	05/16/2021			0	0		Unassigned
+2281	Missouri	US	05/17/2021			0	0		Unassigned
+2281	Missouri	US	05/18/2021			0	0		Unassigned
+2281	Missouri	US	05/19/2021			0	0		Unassigned
+2281	Missouri	US	05/20/2021			0	0		Unassigned
+2281	Missouri	US	05/21/2021			0	0		Unassigned
+2281	Missouri	US	05/22/2021			0	0		Unassigned
+2281	Missouri	US	05/23/2021			0	0		Unassigned
+2281	Missouri	US	05/24/2021			0	0		Unassigned
+2281	Missouri	US	05/25/2021			0	0		Unassigned
+2281	Missouri	US	05/26/2021			0	0		Unassigned
+2282	Missouri	US	05/27/2021			0	0		Unassigned
+2282	Missouri	US	05/28/2021			0	0		Unassigned
+2282	Missouri	US	05/29/2021			0	0		Unassigned
+2282	Missouri	US	05/30/2021			0	0		Unassigned
+2282	Missouri	US	05/31/2021			0	0		Unassigned
+2282	Missouri	US	06/01/2021			0	0		Unassigned
+2282	Missouri	US	06/02/2021			0	0		Unassigned
+2282	Missouri	US	06/03/2021			0	0		Unassigned
+2282	Missouri	US	06/04/2021			0	0		Unassigned
+2282	Missouri	US	06/05/2021			0	0		Unassigned
+2282	Missouri	US	06/06/2021			0	0		Unassigned
+2282	Missouri	US	06/07/2021			0	0		Unassigned
+2282	Missouri	US	06/08/2021			0	0		Unassigned
+2282	Missouri	US	06/09/2021			0	0		Unassigned
+2282	Missouri	US	06/10/2021			0	0		Unassigned
+2282	Missouri	US	06/11/2021			0	0		Unassigned
+2282	Missouri	US	06/12/2021			0	0		Unassigned
+2282	Missouri	US	06/13/2021			0	0		Unassigned
+2282	Missouri	US	06/14/2021			0	0		Unassigned
+2282	Missouri	US	06/15/2021			0	0		Unassigned
+2282	Missouri	US	06/16/2021			0	0		Unassigned
+2284	Missouri	US	06/17/2021			0	0		Unassigned
+2284	Missouri	US	06/18/2021			0	0		Unassigned
+2284	Missouri	US	06/19/2021			0	0		Unassigned
+2284	Missouri	US	06/20/2021			0	0		Unassigned
+2284	Missouri	US	06/21/2021			0	0		Unassigned
+2284	Missouri	US	06/22/2021			0	0		Unassigned
+2284	Missouri	US	06/23/2021			0	0		Unassigned
+2285	Missouri	US	06/24/2021			0	0		Unassigned
+2285	Missouri	US	06/25/2021			0	0		Unassigned
+2285	Missouri	US	06/26/2021			0	0		Unassigned
+2285	Missouri	US	06/27/2021			0	0		Unassigned
+2285	Missouri	US	06/28/2021			0	0		Unassigned
+2285	Missouri	US	06/29/2021			0	0		Unassigned
+2285	Missouri	US	06/30/2021			0	0		Unassigned
+2285	Missouri	US	07/01/2021			0	0		Unassigned
+2285	Missouri	US	07/02/2021			0	0		Unassigned
+2285	Missouri	US	07/03/2021			0	0		Unassigned
+2285	Missouri	US	07/04/2021			0	0		Unassigned
+2285	Missouri	US	07/05/2021			0	0		Unassigned
+2285	Missouri	US	07/06/2021			0	0		Unassigned
+2285	Missouri	US	07/07/2021			0	0		Unassigned
+2285	Missouri	US	07/08/2021			0	0		Unassigned
+2285	Missouri	US	07/09/2021			0	0		Unassigned
+2285	Missouri	US	07/10/2021			0	0		Unassigned
+2285	Missouri	US	07/11/2021			0	0		Unassigned
+2285	Missouri	US	07/12/2021			0	0		Unassigned
+2285	Missouri	US	07/13/2021			0	0		Unassigned
+2285	Missouri	US	07/14/2021			0	0		Unassigned
+2285	Missouri	US	07/15/2021			0	0		Unassigned
+2285	Missouri	US	07/16/2021			0	0		Unassigned
+2285	Missouri	US	07/17/2021			0	0		Unassigned
+2285	Missouri	US	07/18/2021			0	0		Unassigned
+2285	Missouri	US	07/19/2021			0	0		Unassigned
+2285	Missouri	US	07/20/2021			0	0		Unassigned
+2285	Missouri	US	07/21/2021			0	0		Unassigned
+2285	Missouri	US	07/22/2021			0	0		Unassigned
+2285	Missouri	US	07/23/2021			0	0		Unassigned
+2285	Missouri	US	07/24/2021			0	0		Unassigned
+2285	Missouri	US	07/25/2021			0	0		Unassigned
+2285	Missouri	US	07/26/2021			0	0		Unassigned
+2285	Missouri	US	07/27/2021			0	0		Unassigned
+2285	Missouri	US	07/28/2021			0	0		Unassigned
+2285	Missouri	US	07/29/2021			0	0		Unassigned
+2285	Missouri	US	07/30/2021			0	0		Unassigned
+2285	Missouri	US	07/31/2021			0	0		Unassigned
+2285	Missouri	US	08/01/2021			0	0		Unassigned
+2285	Missouri	US	08/02/2021			0	0		Unassigned
+2285	Missouri	US	08/03/2021			0	0		Unassigned
+2285	Missouri	US	08/04/2021			0	0		Unassigned
+2285	Missouri	US	08/05/2021			0	0		Unassigned
+2285	Missouri	US	08/06/2021			0	0		Unassigned
+2285	Missouri	US	08/07/2021			0	0		Unassigned
+2285	Missouri	US	08/08/2021			0	0		Unassigned
+2285	Missouri	US	08/09/2021			0	0		Unassigned
+2285	Missouri	US	08/10/2021			0	0		Unassigned
+2285	Missouri	US	08/11/2021			0	0		Unassigned
+2285	Missouri	US	08/12/2021			0	0		Unassigned
+2285	Missouri	US	08/13/2021			0	0		Unassigned
+2285	Missouri	US	08/14/2021			0	0		Unassigned
+2285	Missouri	US	08/15/2021			0	0		Unassigned
+2285	Missouri	US	08/16/2021			0	0		Unassigned
+2285	Missouri	US	08/17/2021			0	0		Unassigned
+2285	Missouri	US	08/18/2021			0	0		Unassigned
+2285	Missouri	US	08/19/2021			0	0		Unassigned
+2285	Missouri	US	08/20/2021			0	0		Unassigned
+2285	Missouri	US	08/21/2021			0	0		Unassigned
+2285	Missouri	US	08/22/2021			0	0		Unassigned
+2285	Missouri	US	08/23/2021			0	0		Unassigned
+2285	Missouri	US	08/24/2021			0	0		Unassigned
+2285	Missouri	US	08/25/2021			0	0		Unassigned
+2285	Missouri	US	08/26/2021			0	0		Unassigned
+2285	Missouri	US	08/27/2021			0	0		Unassigned
+2285	Missouri	US	08/28/2021			0	0		Unassigned
+2285	Missouri	US	08/29/2021			0	0		Unassigned
+2285	Missouri	US	08/30/2021			0	0		Unassigned
+2285	Missouri	US	08/31/2021			0	0		Unassigned
+2285	Missouri	US	09/01/2021			0	0		Unassigned
+2285	Missouri	US	09/02/2021			0	0		Unassigned
+2285	Missouri	US	09/03/2021			0	0		Unassigned
+2285	Missouri	US	09/04/2021			0	0		Unassigned
+2285	Missouri	US	09/05/2021			0	0		Unassigned
+2285	Missouri	US	09/06/2021			0	0		Unassigned
+2285	Missouri	US	09/07/2021			0	0		Unassigned
+2285	Missouri	US	09/08/2021			0	0		Unassigned
+2285	Missouri	US	09/09/2021			0	0		Unassigned
+2285	Missouri	US	09/10/2021			0	0		Unassigned
+2285	Missouri	US	09/11/2021			0	0		Unassigned
+2285	Missouri	US	09/12/2021			0	0		Unassigned
+2285	Missouri	US	09/13/2021			0	0		Unassigned
+2285	Missouri	US	09/14/2021			0	0		Unassigned
+2285	Missouri	US	09/15/2021			0	0		Unassigned
+2286	Missouri	US	09/16/2021			0	0		Unassigned
+2286	Missouri	US	09/17/2021			0	0		Unassigned
+2286	Missouri	US	09/18/2021			0	0		Unassigned
+2286	Missouri	US	09/19/2021			0	0		Unassigned
+2286	Missouri	US	09/20/2021			0	0		Unassigned
+2286	Missouri	US	09/21/2021			0	0		Unassigned
+2286	Missouri	US	09/22/2021			0	0		Unassigned
+2303	Missouri	US	09/23/2021			0	0		Unassigned
