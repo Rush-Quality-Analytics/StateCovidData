@@ -549,3 +549,9 @@
 1876	Maine	US	09/21/2021			4	0		Unassigned
 1876	Maine	US	09/22/2021			6	0		Unassigned
 1893	Maine	US	09/23/2021			1	0		Unassigned
+1893	Maine	US	09/24/2021			3	0		Unassigned
+1893	Maine	US	09/25/2021			3	0		Unassigned
+1893	Maine	US	09/26/2021			3	0		Unassigned
+1893	Maine	US	09/27/2021			3	0		Unassigned
+1893	Maine	US	09/28/2021			6	0		Unassigned
+1893	Maine	US	09/29/2021			3	0		Unassigned

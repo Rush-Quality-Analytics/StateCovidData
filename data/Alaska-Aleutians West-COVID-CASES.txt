@@ -451,3 +451,9 @@
 725	Alaska	US	09/21/2021	52.3233	-174.1596	865	1		Aleutians West
 725	Alaska	US	09/22/2021	52.3233	-174.1596	864	1		Aleutians West
 742	Alaska	US	09/23/2021	52.3233	-174.1596	880	1		Aleutians West
+742	Alaska	US	09/24/2021	52.3233	-174.1596	881	1		Aleutians West
+742	Alaska	US	09/25/2021	52.3233	-174.1596	881	1		Aleutians West
+742	Alaska	US	09/26/2021	52.3233	-174.1596	881	1		Aleutians West
+742	Alaska	US	09/27/2021	52.3233	-174.1596	892	1		Aleutians West
+742	Alaska	US	09/28/2021	52.3233	-174.1596	898	1		Aleutians West
+742	Alaska	US	09/29/2021	52.3233	-174.1596	902	1		Aleutians West

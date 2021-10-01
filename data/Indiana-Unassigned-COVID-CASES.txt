@@ -536,3 +536,9 @@
 1455	Indiana	US	09/21/2021			0	474		Unassigned
 1455	Indiana	US	09/22/2021			0	479		Unassigned
 1472	Indiana	US	09/23/2021			0	479		Unassigned
+1472	Indiana	US	09/24/2021			0	482		Unassigned
+1472	Indiana	US	09/25/2021			0	482		Unassigned
+1472	Indiana	US	09/26/2021			0	482		Unassigned
+1472	Indiana	US	09/27/2021			0	494		Unassigned
+1472	Indiana	US	09/28/2021			0	492		Unassigned
+1472	Indiana	US	09/29/2021			0	493		Unassigned

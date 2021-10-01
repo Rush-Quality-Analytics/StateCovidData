@@ -549,3 +549,9 @@
 3290	Tennessee	US	09/21/2021			27419	115		Out of TN
 3290	Tennessee	US	09/22/2021			27360	116		Out of TN
 3307	Tennessee	US	09/23/2021			27530	116		Out of TN
+3307	Tennessee	US	09/24/2021			27877	117		Out of TN
+3307	Tennessee	US	09/25/2021			27877	117		Out of TN
+3307	Tennessee	US	09/26/2021			27877	117		Out of TN
+3307	Tennessee	US	09/27/2021			27965	117		Out of TN
+3307	Tennessee	US	09/28/2021			28048	120		Out of TN
+3307	Tennessee	US	09/29/2021			28095	121		Out of TN

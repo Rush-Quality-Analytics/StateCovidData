@@ -542,3 +542,9 @@
 981	Connecticut	US	09/21/2021			1312	3		Unassigned
 981	Connecticut	US	09/22/2021			1314	3		Unassigned
 998	Connecticut	US	09/23/2021			1313	3		Unassigned
+998	Connecticut	US	09/24/2021			1313	3		Unassigned
+998	Connecticut	US	09/25/2021			1313	3		Unassigned
+998	Connecticut	US	09/26/2021			1313	3		Unassigned
+998	Connecticut	US	09/27/2021			1326	11		Unassigned
+998	Connecticut	US	09/28/2021			1325	10		Unassigned
+998	Connecticut	US	09/29/2021			1328	10		Unassigned

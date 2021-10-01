@@ -543,3 +543,9 @@
 904	California	US	09/21/2021			212	0		Unassigned
 904	California	US	09/22/2021			114	0		Unassigned
 921	California	US	09/23/2021			88	0		Unassigned
+921	California	US	09/24/2021			137	0		Unassigned
+921	California	US	09/25/2021			137	0		Unassigned
+921	California	US	09/26/2021			137	0		Unassigned
+921	California	US	09/27/2021			143	0		Unassigned
+921	California	US	09/28/2021			165	0		Unassigned
+921	California	US	09/29/2021			95	0		Unassigned

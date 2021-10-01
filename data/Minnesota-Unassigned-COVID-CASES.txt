@@ -545,3 +545,9 @@
 2084	Minnesota	US	09/21/2021			517	93		Unassigned
 2084	Minnesota	US	09/22/2021			509	93		Unassigned
 2101	Minnesota	US	09/23/2021			511	93		Unassigned
+2101	Minnesota	US	09/24/2021			528	93		Unassigned
+2101	Minnesota	US	09/25/2021			528	93		Unassigned
+2101	Minnesota	US	09/26/2021			528	93		Unassigned
+2101	Minnesota	US	09/27/2021			545	93		Unassigned
+2101	Minnesota	US	09/28/2021			538	103		Unassigned
+2101	Minnesota	US	09/29/2021			516	103		Unassigned

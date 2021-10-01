@@ -550,3 +550,9 @@
 1201	Georgia	US	09/21/2021			4537	14		Unassigned
 1201	Georgia	US	09/22/2021			4590	8		Unassigned
 1218	Georgia	US	09/23/2021			4640	7		Unassigned
+1218	Georgia	US	09/24/2021			4679	7		Unassigned
+1218	Georgia	US	09/25/2021			4679	7		Unassigned
+1218	Georgia	US	09/26/2021			4679	7		Unassigned
+1218	Georgia	US	09/27/2021			4617	6		Unassigned
+1218	Georgia	US	09/28/2021			4527	6		Unassigned
+1218	Georgia	US	09/29/2021			4578	7		Unassigned
