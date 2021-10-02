@@ -542,3 +542,4 @@
 1241	Hawaii	US	09/27/2021			2398	5		Out of HI
 1241	Hawaii	US	09/28/2021			2401	5		Out of HI
 1241	Hawaii	US	09/29/2021			2417	5		Out of HI
+1241	Hawaii	US	09/30/2021			2422	5		Out of HI

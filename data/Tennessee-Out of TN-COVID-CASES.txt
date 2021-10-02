@@ -555,3 +555,4 @@
 3307	Tennessee	US	09/27/2021			27965	117		Out of TN
 3307	Tennessee	US	09/28/2021			28048	120		Out of TN
 3307	Tennessee	US	09/29/2021			28095	121		Out of TN
+3307	Tennessee	US	09/30/2021			28256	122		Out of TN

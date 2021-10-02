@@ -553,3 +553,4 @@
 767	Alaska	US	09/27/2021			464	0		Unassigned
 767	Alaska	US	09/28/2021			464	0		Unassigned
 767	Alaska	US	09/29/2021			474	0		Unassigned
+767	Alaska	US	09/30/2021			479	0		Unassigned
