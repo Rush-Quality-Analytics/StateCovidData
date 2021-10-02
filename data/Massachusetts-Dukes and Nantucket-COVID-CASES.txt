@@ -557,3 +557,4 @@
 1925	Massachusetts	US	09/28/2021	41.40674725	-70.68763497	3680	7		Dukes and Nantucket
 1925	Massachusetts	US	09/29/2021	41.40674725	-70.68763497	3683	7		Dukes and Nantucket
 1925	Massachusetts	US	09/30/2021	41.40674725	-70.68763497	3683	7		Dukes and Nantucket
+1925	Massachusetts	US	10/01/2021	41.40674725	-70.68763497	3686	7		Dukes and Nantucket

@@ -534,3 +534,4 @@
 1183	Georgia	US	09/28/2021			41195	855		Out of GA
 1183	Georgia	US	09/29/2021			41489	857		Out of GA
 1183	Georgia	US	09/30/2021			41871	860		Out of GA
+1183	Georgia	US	10/01/2021			41941	871		Out of GA

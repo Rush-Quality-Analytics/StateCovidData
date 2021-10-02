@@ -549,3 +549,4 @@
 998	Connecticut	US	09/28/2021			1325	10		Unassigned
 998	Connecticut	US	09/29/2021			1328	10		Unassigned
 998	Connecticut	US	09/30/2021			1329	10		Unassigned
+998	Connecticut	US	10/01/2021			1329	11		Unassigned

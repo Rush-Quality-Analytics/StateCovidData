@@ -557,3 +557,4 @@
 1869	Louisiana	US	09/28/2021			550	0		Unassigned
 1869	Louisiana	US	09/29/2021			560	0		Unassigned
 1869	Louisiana	US	09/30/2021			561	0		Unassigned
+1869	Louisiana	US	10/01/2021			561	0		Unassigned
