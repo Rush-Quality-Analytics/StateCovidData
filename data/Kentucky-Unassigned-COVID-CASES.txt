@@ -558,3 +558,5 @@
 1804	Kentucky	US	09/29/2021			9	0		Unassigned
 1804	Kentucky	US	09/30/2021			9	0		Unassigned
 1804	Kentucky	US	10/01/2021			9	0		Unassigned
+1804	Kentucky	US	10/02/2021			9	0		Unassigned
+1804	Kentucky	US	10/03/2021			9	0		Unassigned

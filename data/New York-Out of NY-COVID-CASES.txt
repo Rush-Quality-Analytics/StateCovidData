@@ -375,3 +375,5 @@
 2586	New York	US	09/29/2021			0	297		Out of NY
 2586	New York	US	09/30/2021			0	299		Out of NY
 2586	New York	US	10/01/2021			0	299		Out of NY
+2586	New York	US	10/02/2021			0	300		Out of NY
+2586	New York	US	10/03/2021			0	301		Out of NY

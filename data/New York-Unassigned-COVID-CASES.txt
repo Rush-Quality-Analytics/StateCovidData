@@ -558,3 +558,5 @@
 2604	New York	US	09/29/2021			132	31		Unassigned
 2604	New York	US	09/30/2021			128	30		Unassigned
 2604	New York	US	10/01/2021			137	28		Unassigned
+2604	New York	US	10/02/2021			137	28		Unassigned
+2604	New York	US	10/03/2021			137	28		Unassigned

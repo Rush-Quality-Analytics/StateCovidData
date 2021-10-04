@@ -547,3 +547,5 @@
 2544	New Mexico	US	09/29/2021			4859	0		Unassigned
 2544	New Mexico	US	09/30/2021			4859	0		Unassigned
 2544	New Mexico	US	10/01/2021			4872	0		Unassigned
+2544	New Mexico	US	10/02/2021			4872	0		Unassigned
+2544	New Mexico	US	10/03/2021			4872	0		Unassigned

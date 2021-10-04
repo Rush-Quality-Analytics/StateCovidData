@@ -440,3 +440,5 @@
 3112	Puerto Rico	US	09/29/2021			3663	3148		Unassigned
 3112	Puerto Rico	US	09/30/2021			3658	3149		Unassigned
 3112	Puerto Rico	US	10/01/2021			3658	3155		Unassigned
+3112	Puerto Rico	US	10/02/2021			3672	3163		Unassigned
+3112	Puerto Rico	US	10/03/2021			3680	3164		Unassigned

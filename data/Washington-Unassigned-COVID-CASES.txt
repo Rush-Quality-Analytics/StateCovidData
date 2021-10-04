@@ -558,3 +558,5 @@
 3791	Washington	US	09/29/2021			1652	3		Unassigned
 3791	Washington	US	09/30/2021			1602	3		Unassigned
 3791	Washington	US	10/01/2021			1628	3		Unassigned
+3791	Washington	US	10/02/2021			1628	3		Unassigned
+3791	Washington	US	10/03/2021			1628	3		Unassigned

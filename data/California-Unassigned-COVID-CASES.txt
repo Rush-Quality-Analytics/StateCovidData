@@ -551,3 +551,5 @@
 921	California	US	09/29/2021			95	0		Unassigned
 921	California	US	09/30/2021			124	0		Unassigned
 921	California	US	10/01/2021			116	0		Unassigned
+921	California	US	10/02/2021			116	0		Unassigned
+921	California	US	10/03/2021			116	0		Unassigned

@@ -558,3 +558,5 @@
 858	Arkansas	US	09/29/2021			5537	0		Unassigned
 858	Arkansas	US	09/30/2021			5506	0		Unassigned
 858	Arkansas	US	10/01/2021			6363	27		Unassigned
+858	Arkansas	US	10/02/2021			5116	0		Unassigned
+858	Arkansas	US	10/03/2021			5123	0		Unassigned

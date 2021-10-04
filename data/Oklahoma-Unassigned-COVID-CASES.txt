@@ -548,3 +548,5 @@
 2929	Oklahoma	US	09/29/2021			2394	0		Unassigned
 2929	Oklahoma	US	09/30/2021			4274	0		Unassigned
 2929	Oklahoma	US	10/01/2021			5726	0		Unassigned
+2929	Oklahoma	US	10/02/2021			5726	0		Unassigned
+2929	Oklahoma	US	10/03/2021			5726	0		Unassigned

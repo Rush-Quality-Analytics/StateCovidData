@@ -557,3 +557,5 @@
 1893	Maine	US	09/29/2021			3	0		Unassigned
 1893	Maine	US	09/30/2021			3	0		Unassigned
 1893	Maine	US	10/01/2021			2	0		Unassigned
+1893	Maine	US	10/02/2021			3	0		Unassigned
+1893	Maine	US	10/03/2021			3	0		Unassigned

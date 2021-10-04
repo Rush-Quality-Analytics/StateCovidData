@@ -557,3 +557,5 @@
 1379	Illinois	US	09/29/2021			201	2432		Unassigned
 1379	Illinois	US	09/30/2021			210	2432		Unassigned
 1379	Illinois	US	10/01/2021			238	2432		Unassigned
+1379	Illinois	US	10/02/2021			238	2432		Unassigned
+1379	Illinois	US	10/03/2021			238	2432		Unassigned

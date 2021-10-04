@@ -545,3 +545,5 @@
 1684	Kansas	US	09/29/2021			0	0		Unassigned
 1684	Kansas	US	09/30/2021			0	0		Unassigned
 1684	Kansas	US	10/01/2021			0	0		Unassigned
+1684	Kansas	US	10/02/2021			0	0		Unassigned
+1684	Kansas	US	10/03/2021			0	0		Unassigned
