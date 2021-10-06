@@ -162,13 +162,11 @@
 2054	Minnesota	US	09/03/2020			207	52	0	Unassigned
 2054	Minnesota	US	09/04/2020			166	52	0	Unassigned
 2054	Minnesota	US	09/05/2020			167	52	0	Unassigned
-2054	Minnesota	US	09/06/2020			180	52	0	Unassigned
 2054	Minnesota	US	09/07/2020			200	52	0	Unassigned
 2054	Minnesota	US	09/08/2020			198	52	0	Unassigned
 2054	Minnesota	US	09/09/2020			183	52	0	Unassigned
 2054	Minnesota	US	09/10/2020			192	52	0	Unassigned
 2054	Minnesota	US	09/11/2020			196	52	0	Unassigned
-2054	Minnesota	US	09/12/2020			159	52	0	Unassigned
 2054	Minnesota	US	09/13/2020			147	52	0	Unassigned
 2054	Minnesota	US	09/14/2020			156	52	0	Unassigned
 2054	Minnesota	US	09/15/2020			153	52	0	Unassigned
@@ -176,7 +174,6 @@
 2054	Minnesota	US	09/17/2020			157	52	0	Unassigned
 2054	Minnesota	US	09/18/2020			165	52	0	Unassigned
 2054	Minnesota	US	09/19/2020			187	52	0	Unassigned
-2054	Minnesota	US	09/20/2020			209	52	0	Unassigned
 2055	Minnesota	US	09/21/2020			212	52	0	Unassigned
 2055	Minnesota	US	09/22/2020			220	52	0	Unassigned
 2055	Minnesota	US	09/23/2020			218	52	0	Unassigned
@@ -216,7 +213,6 @@
 2058	Minnesota	US	10/27/2020			193	53	0	Unassigned
 2059	Minnesota	US	10/28/2020			195	53.0	0	Unassigned
 2059	Minnesota	US	10/29/2020			238	53	0	Unassigned
-2059	Minnesota	US	10/30/2020			203	54	0	Unassigned
 2059	Minnesota	US	10/31/2020			287	54	0	Unassigned
 2059	Minnesota	US	11/01/2020			236	54	0	Unassigned
 2059	Minnesota	US	11/02/2020			233	54	0	Unassigned
@@ -232,10 +228,8 @@
 2072	Minnesota	US	11/12/2020			327	56	0	Unassigned
 2072	Minnesota	US	11/13/2020			396	56	0	Unassigned
 2072	Minnesota	US	11/14/2020			323	56	0	Unassigned
-2072	Minnesota	US	11/15/2020			392	56	0	Unassigned
 2072	Minnesota	US	11/16/2020			340	56	0	Unassigned
 2072	Minnesota	US	11/17/2020			319	56	0	Unassigned
-2072	Minnesota	US	11/18/2020			320	56	0	Unassigned
 2072	Minnesota	US	11/19/2020			373	56	0	Unassigned
 2072	Minnesota	US	11/20/2020			329	57	0	Unassigned
 2072	Minnesota	US	11/21/2020			363	56	0	Unassigned
@@ -243,7 +237,6 @@
 2072	Minnesota	US	11/23/2020			343	56	0	Unassigned
 2073	Minnesota	US	11/24/2020			358	56	0	Unassigned
 2073	Minnesota	US	11/25/2020			387	59	0	Unassigned
-2073	Minnesota	US	11/26/2020			387	59	0	Unassigned
 2073	Minnesota	US	11/27/2020			386	59	0	Unassigned
 2073	Minnesota	US	11/28/2020			367	59	0	Unassigned
 2073	Minnesota	US	11/29/2020			493	59	0	Unassigned
@@ -265,34 +258,25 @@
 2073	Minnesota	US	12/15/2020			408	59	0	Unassigned
 2073	Minnesota	US	12/16/2020			405	59	0	Unassigned
 2073	Minnesota	US	12/17/2020			453	59	0	Unassigned
-2073	Minnesota	US	12/18/2020			475	59	0	Unassigned
 2073	Minnesota	US	12/19/2020			411	59	0	Unassigned
 2073	Minnesota	US	12/20/2020			442	60	0	Unassigned
-2073	Minnesota	US	12/21/2020			420	60	0	Unassigned
-2073	Minnesota	US	12/22/2020			421	60	0	Unassigned
-2073	Minnesota	US	12/23/2020			423	60	0	Unassigned
 2073	Minnesota	US	12/24/2020			441	60	0	Unassigned
-2073	Minnesota	US	12/25/2020			441	60	0	Unassigned
 2073	Minnesota	US	12/26/2020			443	60	0	Unassigned
 2073	Minnesota	US	12/27/2020			434	60	0	Unassigned
 2073	Minnesota	US	12/28/2020			442	60	0	Unassigned
 2073	Minnesota	US	12/29/2020			422	59	0	Unassigned
-2073	Minnesota	US	12/30/2020			422	59	0	Unassigned
 2073	Minnesota	US	12/31/2020			444	59	0	Unassigned
 2073	Minnesota	US	01/01/2021			444	59	0	Unassigned
 2073	Minnesota	US	01/02/2021			429	59	0	Unassigned
 2074	Minnesota	US	01/03/2021			441	59	0	Unassigned
 2074	Minnesota	US	01/04/2021			477	59	0	Unassigned
 2074	Minnesota	US	01/05/2021			429	59	0	Unassigned
-2074	Minnesota	US	01/06/2021			437	68	0	Unassigned
 2074	Minnesota	US	01/07/2021			443	68	0	Unassigned
-2074	Minnesota	US	01/08/2021			458	68	0	Unassigned
 2074	Minnesota	US	01/09/2021			432	68	0	Unassigned
 2074	Minnesota	US	01/10/2021			446	68	0	Unassigned
 2074	Minnesota	US	01/11/2021			464	68	0	Unassigned
 2074	Minnesota	US	01/12/2021			478	68	0	Unassigned
 2074	Minnesota	US	01/13/2021			429	68	0	Unassigned
-2074	Minnesota	US	01/14/2021			435	68	0	Unassigned
 2075	Minnesota	US	01/15/2021			494	68	0	Unassigned
 2075	Minnesota	US	01/16/2021			434	68	0	Unassigned
 2075	Minnesota	US	01/17/2021			436	68	0	Unassigned
@@ -302,22 +286,18 @@
 2076	Minnesota	US	01/21/2021			439	68	0	Unassigned
 2076	Minnesota	US	01/22/2021			437	68	0	Unassigned
 2076	Minnesota	US	01/23/2021			445	68	0	Unassigned
-2076	Minnesota	US	01/24/2021			473	69	0	Unassigned
 2076	Minnesota	US	01/25/2021			439	68	0	Unassigned
 2076	Minnesota	US	01/26/2021			435	68	0	Unassigned
 2076	Minnesota	US	01/27/2021			436	68	0	Unassigned
 2076	Minnesota	US	01/28/2021			455	68	0	Unassigned
 2076	Minnesota	US	01/29/2021			398	68	0	Unassigned
-2076	Minnesota	US	01/30/2021			398	68	0	Unassigned
 2076	Minnesota	US	01/31/2021			411	68	0	Unassigned
 2076	Minnesota	US	02/01/2021			403	68	0	Unassigned
 2076	Minnesota	US	02/02/2021			401	68	0	Unassigned
 2076	Minnesota	US	02/03/2021			402	68	0	Unassigned
-2076	Minnesota	US	02/04/2021			412	68	0	Unassigned
 2076	Minnesota	US	02/05/2021			439	68	0	Unassigned
 2076	Minnesota	US	02/06/2021			402	68	0	Unassigned
 2076	Minnesota	US	02/07/2021			401	68	0	Unassigned
-2076	Minnesota	US	02/08/2021			414	68	0	Unassigned
 2076	Minnesota	US	02/09/2021			404	68	0	Unassigned
 2076	Minnesota	US	02/10/2021			401	68	0	Unassigned
 2076	Minnesota	US	02/11/2021			418	68	0	Unassigned
@@ -333,23 +313,17 @@
 2077	Minnesota	US	02/21/2021			429	68	0	Unassigned
 2077	Minnesota	US	02/22/2021			433	68	0	Unassigned
 2077	Minnesota	US	02/23/2021			435	68	0	Unassigned
-2077	Minnesota	US	02/24/2021			436	68	0	Unassigned
-2077	Minnesota	US	02/25/2021			454	68	0	Unassigned
 2077	Minnesota	US	02/26/2021			456	68	0	Unassigned
-2077	Minnesota	US	02/27/2021			445	68	0	Unassigned
 2077	Minnesota	US	02/28/2021			484	68	0	Unassigned
 2077	Minnesota	US	03/01/2021			479	68	0	Unassigned
 2077	Minnesota	US	03/02/2021			467	68	0	Unassigned
 2077	Minnesota	US	03/03/2021			445	68	0	Unassigned
 2077	Minnesota	US	03/04/2021			444	68	0	Unassigned
 2077	Minnesota	US	03/05/2021			447	68	0	Unassigned
-2077	Minnesota	US	03/06/2021			447	68	0	Unassigned
-2077	Minnesota	US	03/07/2021			453	68		Unassigned
 2077	Minnesota	US	03/08/2021			458	68		Unassigned
 2077	Minnesota	US	03/09/2021			469	68		Unassigned
 2077	Minnesota	US	03/10/2021			474	68		Unassigned
 2077	Minnesota	US	03/11/2021			480	68		Unassigned
-2077	Minnesota	US	03/12/2021			480	68		Unassigned
 2077	Minnesota	US	03/13/2021			482	68		Unassigned
 2077	Minnesota	US	03/14/2021			476	68		Unassigned
 2077	Minnesota	US	03/15/2021			480	68		Unassigned
@@ -361,7 +335,6 @@
 2077	Minnesota	US	03/21/2021			494	68		Unassigned
 2077	Minnesota	US	03/22/2021			504	68		Unassigned
 2077	Minnesota	US	03/23/2021			478	68		Unassigned
-2077	Minnesota	US	03/24/2021			480	68		Unassigned
 2077	Minnesota	US	03/25/2021			483	78		Unassigned
 2077	Minnesota	US	03/26/2021			476	78		Unassigned
 2077	Minnesota	US	03/27/2021			484	78		Unassigned
@@ -385,11 +358,9 @@
 2079	Minnesota	US	04/14/2021			482	78		Unassigned
 2079	Minnesota	US	04/15/2021			482	78		Unassigned
 2079	Minnesota	US	04/16/2021			485	78		Unassigned
-2079	Minnesota	US	04/17/2021			495	78		Unassigned
 2079	Minnesota	US	04/18/2021			503	78		Unassigned
 2079	Minnesota	US	04/19/2021			485	78		Unassigned
 2079	Minnesota	US	04/20/2021			494	78		Unassigned
-2079	Minnesota	US	04/21/2021			486	78		Unassigned
 2079	Minnesota	US	04/22/2021			484	78		Unassigned
 2079	Minnesota	US	04/23/2021			502	78		Unassigned
 2079	Minnesota	US	04/24/2021			493	78		Unassigned
@@ -547,11 +518,10 @@
 2101	Minnesota	US	09/23/2021			511	93		Unassigned
 2101	Minnesota	US	09/24/2021			528	93		Unassigned
 2101	Minnesota	US	09/25/2021			528	93		Unassigned
-2101	Minnesota	US	09/26/2021			528	93		Unassigned
 2101	Minnesota	US	09/27/2021			545	93		Unassigned
 2101	Minnesota	US	09/28/2021			538	103		Unassigned
 2101	Minnesota	US	09/29/2021			516	103		Unassigned
-2101	Minnesota	US	09/30/2021			531	103		Unassigned
 2101	Minnesota	US	10/01/2021			529	103		Unassigned
 2101	Minnesota	US	10/02/2021			529	103		Unassigned
 2101	Minnesota	US	10/03/2021			529	103		Unassigned
+2101	Minnesota	US	10/04/2021			540	103		Unassigned

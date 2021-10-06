@@ -159,13 +159,11 @@
 952	Connecticut	US	09/03/2020			97	0	0	Unassigned
 952	Connecticut	US	09/04/2020			100	0	0	Unassigned
 952	Connecticut	US	09/05/2020			100	0	0	Unassigned
-952	Connecticut	US	09/06/2020			100	0	0	Unassigned
 952	Connecticut	US	09/07/2020			100	0	0	Unassigned
 952	Connecticut	US	09/08/2020			112	0	0	Unassigned
 952	Connecticut	US	09/09/2020			111	0	0	Unassigned
 952	Connecticut	US	09/10/2020			103	0	0	Unassigned
 952	Connecticut	US	09/11/2020			107	0	0	Unassigned
-952	Connecticut	US	09/12/2020			107	0	0	Unassigned
 952	Connecticut	US	09/13/2020			107	0	0	Unassigned
 952	Connecticut	US	09/14/2020			126	0	0	Unassigned
 952	Connecticut	US	09/15/2020			126	0	0	Unassigned
@@ -173,7 +171,6 @@
 952	Connecticut	US	09/17/2020			122	0	0	Unassigned
 952	Connecticut	US	09/18/2020			121	0	0	Unassigned
 952	Connecticut	US	09/19/2020			121	0	0	Unassigned
-952	Connecticut	US	09/20/2020			121	0	0	Unassigned
 953	Connecticut	US	09/21/2020			142	1	0	Unassigned
 953	Connecticut	US	09/22/2020			137	0	0	Unassigned
 953	Connecticut	US	09/23/2020			135	0	0	Unassigned
@@ -213,7 +210,6 @@
 956	Connecticut	US	10/27/2020			153	0	0	Unassigned
 957	Connecticut	US	10/28/2020			150	0.0	0	Unassigned
 957	Connecticut	US	10/29/2020			155	0	0	Unassigned
-957	Connecticut	US	10/30/2020			141	0	0	Unassigned
 957	Connecticut	US	10/31/2020			141	0	0	Unassigned
 957	Connecticut	US	11/01/2020			141	0	0	Unassigned
 957	Connecticut	US	11/02/2020			219	1	0	Unassigned
@@ -229,10 +225,8 @@
 970	Connecticut	US	11/12/2020			319	0	0	Unassigned
 970	Connecticut	US	11/13/2020			379	0	0	Unassigned
 970	Connecticut	US	11/14/2020			379	0	0	Unassigned
-970	Connecticut	US	11/15/2020			379	0	0	Unassigned
 970	Connecticut	US	11/16/2020			421	0	0	Unassigned
 970	Connecticut	US	11/17/2020			436	0	0	Unassigned
-970	Connecticut	US	11/18/2020			408	0	0	Unassigned
 970	Connecticut	US	11/19/2020			403	0	0	Unassigned
 970	Connecticut	US	11/20/2020			466	0	0	Unassigned
 970	Connecticut	US	11/21/2020			466	0	0	Unassigned
@@ -240,7 +234,6 @@
 970	Connecticut	US	11/23/2020			573	0	0	Unassigned
 971	Connecticut	US	11/24/2020			465	0	0	Unassigned
 971	Connecticut	US	11/25/2020			495	0	0	Unassigned
-971	Connecticut	US	11/26/2020			495	0	0	Unassigned
 971	Connecticut	US	11/27/2020			631	0	0	Unassigned
 971	Connecticut	US	11/28/2020			631	0	0	Unassigned
 971	Connecticut	US	11/29/2020			631	0	0	Unassigned
@@ -262,34 +255,25 @@
 971	Connecticut	US	12/15/2020			812	1	0	Unassigned
 971	Connecticut	US	12/16/2020			713	0	0	Unassigned
 971	Connecticut	US	12/17/2020			647	0	0	Unassigned
-971	Connecticut	US	12/18/2020			662	0	0	Unassigned
 971	Connecticut	US	12/19/2020			662	0	0	Unassigned
 971	Connecticut	US	12/20/2020			662	0	0	Unassigned
-971	Connecticut	US	12/21/2020			690	2	0	Unassigned
-971	Connecticut	US	12/22/2020			673	0	0	Unassigned
-971	Connecticut	US	12/23/2020			674	0	0	Unassigned
 971	Connecticut	US	12/24/2020			644	0	0	Unassigned
-971	Connecticut	US	12/25/2020			644	0	0	Unassigned
 971	Connecticut	US	12/26/2020			644	0	0	Unassigned
 971	Connecticut	US	12/27/2020			644	0	0	Unassigned
 971	Connecticut	US	12/28/2020			671	1	0	Unassigned
 971	Connecticut	US	12/29/2020			650	0	0	Unassigned
-971	Connecticut	US	12/30/2020			647	0	0	Unassigned
 971	Connecticut	US	12/31/2020			665	0	0	Unassigned
 971	Connecticut	US	01/01/2021			665	0	0	Unassigned
 971	Connecticut	US	01/02/2021			684	0	0	Unassigned
 972	Connecticut	US	01/03/2021			684	0	0	Unassigned
 972	Connecticut	US	01/04/2021			703	0	0	Unassigned
 972	Connecticut	US	01/05/2021			710	0	0	Unassigned
-972	Connecticut	US	01/06/2021			723	0	0	Unassigned
 972	Connecticut	US	01/07/2021			755	1	0	Unassigned
-972	Connecticut	US	01/08/2021			770	1	0	Unassigned
 972	Connecticut	US	01/09/2021			770	1	0	Unassigned
 972	Connecticut	US	01/10/2021			770	1	0	Unassigned
 972	Connecticut	US	01/11/2021			779	1	0	Unassigned
 972	Connecticut	US	01/12/2021			803	2	0	Unassigned
 972	Connecticut	US	01/13/2021			829	3	0	Unassigned
-972	Connecticut	US	01/14/2021			822	4	0	Unassigned
 972	Connecticut	US	01/15/2021			819	4	0	Unassigned
 972	Connecticut	US	01/16/2021			819	4	0	Unassigned
 972	Connecticut	US	01/17/2021			819	4	0	Unassigned
@@ -299,22 +283,18 @@
 973	Connecticut	US	01/21/2021			804	6	0	Unassigned
 973	Connecticut	US	01/22/2021			787	5	0	Unassigned
 973	Connecticut	US	01/23/2021			787	5	0	Unassigned
-973	Connecticut	US	01/24/2021			787	5	0	Unassigned
 973	Connecticut	US	01/25/2021			892	9	0	Unassigned
 973	Connecticut	US	01/26/2021			815	6	0	Unassigned
 973	Connecticut	US	01/27/2021			821	7	0	Unassigned
 973	Connecticut	US	01/28/2021			830	7	0	Unassigned
 973	Connecticut	US	01/29/2021			822	7	0	Unassigned
-973	Connecticut	US	01/30/2021			822	7	0	Unassigned
 973	Connecticut	US	01/31/2021			822	7	0	Unassigned
 973	Connecticut	US	02/01/2021			832	8	0	Unassigned
 973	Connecticut	US	02/02/2021			843	8	0	Unassigned
 973	Connecticut	US	02/03/2021			845	8	0	Unassigned
-973	Connecticut	US	02/04/2021			853	8	0	Unassigned
 973	Connecticut	US	02/05/2021			858	8	0	Unassigned
 973	Connecticut	US	02/06/2021			858	8	0	Unassigned
 973	Connecticut	US	02/07/2021			858	8	0	Unassigned
-973	Connecticut	US	02/08/2021			885	8	0	Unassigned
 973	Connecticut	US	02/09/2021			894	8	0	Unassigned
 973	Connecticut	US	02/10/2021			900	8	0	Unassigned
 973	Connecticut	US	02/11/2021			898	8	0	Unassigned
@@ -330,23 +310,17 @@
 974	Connecticut	US	02/21/2021			937	9	0	Unassigned
 974	Connecticut	US	02/22/2021			947	9	0	Unassigned
 974	Connecticut	US	02/23/2021			949	9	0	Unassigned
-974	Connecticut	US	02/24/2021			961	9	0	Unassigned
-974	Connecticut	US	02/25/2021			970	9	0	Unassigned
 974	Connecticut	US	02/26/2021			973	10	0	Unassigned
-974	Connecticut	US	02/27/2021			973	10	0	Unassigned
 974	Connecticut	US	02/28/2021			973	10	0	Unassigned
 974	Connecticut	US	03/01/2021			973	10	0	Unassigned
 974	Connecticut	US	03/02/2021			974	10	0	Unassigned
 974	Connecticut	US	03/03/2021			978	10	0	Unassigned
 974	Connecticut	US	03/04/2021			979	10	0	Unassigned
 974	Connecticut	US	03/05/2021			982	10	0	Unassigned
-974	Connecticut	US	03/06/2021			982	10	0	Unassigned
-974	Connecticut	US	03/07/2021			982	10		Unassigned
 974	Connecticut	US	03/08/2021			992	10		Unassigned
 974	Connecticut	US	03/09/2021			994	10		Unassigned
 974	Connecticut	US	03/10/2021			995	10		Unassigned
 974	Connecticut	US	03/11/2021			1003	10		Unassigned
-974	Connecticut	US	03/12/2021			1006	10		Unassigned
 974	Connecticut	US	03/13/2021			1006	10		Unassigned
 974	Connecticut	US	03/14/2021			1006	10		Unassigned
 974	Connecticut	US	03/15/2021			1023	10		Unassigned
@@ -358,7 +332,6 @@
 974	Connecticut	US	03/21/2021			1043	9		Unassigned
 974	Connecticut	US	03/22/2021			1050	10		Unassigned
 974	Connecticut	US	03/23/2021			1052	10		Unassigned
-974	Connecticut	US	03/24/2021			1054	10		Unassigned
 974	Connecticut	US	03/25/2021			1057	11		Unassigned
 974	Connecticut	US	03/26/2021			1073	11		Unassigned
 974	Connecticut	US	03/27/2021			1073	11		Unassigned
@@ -382,11 +355,9 @@
 976	Connecticut	US	04/14/2021			1098	12		Unassigned
 976	Connecticut	US	04/15/2021			1099	12		Unassigned
 976	Connecticut	US	04/16/2021			1106	12		Unassigned
-976	Connecticut	US	04/17/2021			1106	12		Unassigned
 976	Connecticut	US	04/18/2021			1106	12		Unassigned
 976	Connecticut	US	04/19/2021			1128	12		Unassigned
 976	Connecticut	US	04/20/2021			1133	12		Unassigned
-976	Connecticut	US	04/21/2021			1146	12		Unassigned
 976	Connecticut	US	04/22/2021			1149	12		Unassigned
 976	Connecticut	US	04/23/2021			1152	12		Unassigned
 976	Connecticut	US	04/24/2021			1152	12		Unassigned
@@ -544,11 +515,10 @@
 998	Connecticut	US	09/23/2021			1313	3		Unassigned
 998	Connecticut	US	09/24/2021			1313	3		Unassigned
 998	Connecticut	US	09/25/2021			1313	3		Unassigned
-998	Connecticut	US	09/26/2021			1313	3		Unassigned
 998	Connecticut	US	09/27/2021			1326	11		Unassigned
 998	Connecticut	US	09/28/2021			1325	10		Unassigned
 998	Connecticut	US	09/29/2021			1328	10		Unassigned
-998	Connecticut	US	09/30/2021			1329	10		Unassigned
 998	Connecticut	US	10/01/2021			1329	11		Unassigned
 998	Connecticut	US	10/02/2021			1329	11		Unassigned
 998	Connecticut	US	10/03/2021			1329	11		Unassigned
+998	Connecticut	US	10/04/2021			1331	11		Unassigned

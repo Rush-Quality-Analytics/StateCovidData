@@ -167,13 +167,11 @@
 3743	Washington	US	09/03/2020			239	1	0	Unassigned
 3743	Washington	US	09/04/2020			247	1	0	Unassigned
 3743	Washington	US	09/05/2020			253	1	0	Unassigned
-3743	Washington	US	09/06/2020			253	1	0	Unassigned
 3743	Washington	US	09/07/2020			253	1	0	Unassigned
 3743	Washington	US	09/08/2020			254	1	0	Unassigned
 3743	Washington	US	09/09/2020			255	1	0	Unassigned
 3743	Washington	US	09/10/2020			258	1	0	Unassigned
 3743	Washington	US	09/11/2020			259	1	0	Unassigned
-3743	Washington	US	09/12/2020			262	1	0	Unassigned
 3743	Washington	US	09/13/2020			264	1	0	Unassigned
 3743	Washington	US	09/14/2020			264	1	0	Unassigned
 3743	Washington	US	09/15/2020			264	1	0	Unassigned
@@ -181,7 +179,6 @@
 3743	Washington	US	09/17/2020			272	2	0	Unassigned
 3743	Washington	US	09/18/2020			273	2	0	Unassigned
 3743	Washington	US	09/19/2020			275	2	0	Unassigned
-3743	Washington	US	09/20/2020			277	2	0	Unassigned
 3745	Washington	US	09/21/2020			277	2	0	Unassigned
 3745	Washington	US	09/22/2020			277	2	0	Unassigned
 3745	Washington	US	09/23/2020			277	2	0	Unassigned
@@ -221,7 +218,6 @@
 3748	Washington	US	10/27/2020			352	3	0	Unassigned
 3749	Washington	US	10/28/2020			354	3.0	0	Unassigned
 3749	Washington	US	10/29/2020			356	3	0	Unassigned
-3749	Washington	US	10/30/2020			357	3	0	Unassigned
 3749	Washington	US	10/31/2020			357	3	0	Unassigned
 3749	Washington	US	11/01/2020			357	3	0	Unassigned
 3749	Washington	US	11/02/2020			360	3	0	Unassigned
@@ -237,10 +233,8 @@
 3762	Washington	US	11/12/2020			385	3	0	Unassigned
 3762	Washington	US	11/13/2020			392	3	0	Unassigned
 3762	Washington	US	11/14/2020			394	3	0	Unassigned
-3762	Washington	US	11/15/2020			394	3	0	Unassigned
 3762	Washington	US	11/16/2020			400	3	0	Unassigned
 3762	Washington	US	11/17/2020			404	3	0	Unassigned
-3762	Washington	US	11/18/2020			412	3	0	Unassigned
 3762	Washington	US	11/19/2020			418	3	0	Unassigned
 3762	Washington	US	11/20/2020			427	3	0	Unassigned
 3762	Washington	US	11/21/2020			430	3	0	Unassigned
@@ -248,7 +242,6 @@
 3762	Washington	US	11/23/2020			435	3	0	Unassigned
 3763	Washington	US	11/24/2020			436	3	0	Unassigned
 3763	Washington	US	11/25/2020			441	3	0	Unassigned
-3763	Washington	US	11/26/2020			441	3	0	Unassigned
 3763	Washington	US	11/27/2020			443	3	0	Unassigned
 3763	Washington	US	11/28/2020			445	3	0	Unassigned
 3763	Washington	US	11/29/2020			447	3	0	Unassigned
@@ -270,34 +263,25 @@
 3763	Washington	US	12/15/2020			1322	3	0	Unassigned
 3763	Washington	US	12/16/2020			1322	3	0	Unassigned
 3763	Washington	US	12/17/2020			1487	3	0	Unassigned
-3763	Washington	US	12/18/2020			1344	3	0	Unassigned
 3763	Washington	US	12/19/2020			1342	3	0	Unassigned
 3763	Washington	US	12/20/2020			1342	3	0	Unassigned
-3763	Washington	US	12/21/2020			1577	3	0	Unassigned
-3763	Washington	US	12/22/2020			1387	3	0	Unassigned
-3763	Washington	US	12/23/2020			1405	3	0	Unassigned
 3763	Washington	US	12/24/2020			1468	3	0	Unassigned
-3763	Washington	US	12/25/2020			1468	3	0	Unassigned
 3763	Washington	US	12/26/2020			1394	3	0	Unassigned
 3763	Washington	US	12/27/2020			1394	3	0	Unassigned
 3763	Washington	US	12/28/2020			1396	4	0	Unassigned
 3763	Washington	US	12/29/2020			1415	4	0	Unassigned
-3763	Washington	US	12/30/2020			1420	4	0	Unassigned
 3763	Washington	US	12/31/2020			1489	5	0	Unassigned
 3763	Washington	US	01/01/2021			1489	5	0	Unassigned
 3763	Washington	US	01/02/2021			1489	5	0	Unassigned
 3764	Washington	US	01/03/2021			1404	4	0	Unassigned
 3764	Washington	US	01/04/2021			1404	4	0	Unassigned
 3764	Washington	US	01/05/2021			1416	4	0	Unassigned
-3764	Washington	US	01/06/2021			1407	4	0	Unassigned
 3764	Washington	US	01/07/2021			1431	4	0	Unassigned
-3764	Washington	US	01/08/2021			1562	4	0	Unassigned
 3764	Washington	US	01/09/2021			1465	4	0	Unassigned
 3764	Washington	US	01/10/2021			1465	4	0	Unassigned
 3764	Washington	US	01/11/2021			1476	4	0	Unassigned
 3764	Washington	US	01/12/2021			1428	4	0	Unassigned
 3764	Washington	US	01/13/2021			1458	4	0	Unassigned
-3764	Washington	US	01/14/2021			1422	4	0	Unassigned
 3765	Washington	US	01/15/2021			1439	4	0	Unassigned
 3765	Washington	US	01/16/2021			1439	4	0	Unassigned
 3765	Washington	US	01/17/2021			1549	4	0	Unassigned
@@ -307,22 +291,18 @@
 3766	Washington	US	01/21/2021			1436	4	0	Unassigned
 3766	Washington	US	01/22/2021			1434	4	0	Unassigned
 3766	Washington	US	01/23/2021			1442	4	0	Unassigned
-3766	Washington	US	01/24/2021			1442	4	0	Unassigned
 3766	Washington	US	01/25/2021			1435	4	0	Unassigned
 3766	Washington	US	01/26/2021			1442	4	0	Unassigned
 3766	Washington	US	01/27/2021			1449	4	0	Unassigned
 3766	Washington	US	01/28/2021			1431	4	0	Unassigned
 3766	Washington	US	01/29/2021			1431	4	0	Unassigned
-3766	Washington	US	01/30/2021			1442	4	0	Unassigned
 3766	Washington	US	01/31/2021			1442	4	0	Unassigned
 3766	Washington	US	02/01/2021			1436	4	0	Unassigned
 3766	Washington	US	02/02/2021			1447	4	0	Unassigned
 3766	Washington	US	02/03/2021			1443	4	0	Unassigned
-3766	Washington	US	02/04/2021			1446	4	0	Unassigned
 3766	Washington	US	02/05/2021			1445	4	0	Unassigned
 3766	Washington	US	02/06/2021			1448	4	0	Unassigned
 3766	Washington	US	02/07/2021			1448	4	0	Unassigned
-3766	Washington	US	02/08/2021			1458	5	0	Unassigned
 3766	Washington	US	02/09/2021			1442	4	0	Unassigned
 3766	Washington	US	02/10/2021			1457	4	0	Unassigned
 3766	Washington	US	02/11/2021			1536	3	0	Unassigned
@@ -338,23 +318,17 @@
 3767	Washington	US	02/21/2021			1462	4	0	Unassigned
 3767	Washington	US	02/22/2021			1468	4	0	Unassigned
 3767	Washington	US	02/23/2021			1475	4	0	Unassigned
-3767	Washington	US	02/24/2021			1483	4	0	Unassigned
-3767	Washington	US	02/25/2021			1484	4	0	Unassigned
 3767	Washington	US	02/26/2021			1486	4	0	Unassigned
-3767	Washington	US	02/27/2021			1488	4	0	Unassigned
 3767	Washington	US	02/28/2021			1488	4	0	Unassigned
 3767	Washington	US	03/01/2021			1493	4	0	Unassigned
 3767	Washington	US	03/02/2021			1491	4	0	Unassigned
 3767	Washington	US	03/03/2021			1500	5	0	Unassigned
 3767	Washington	US	03/04/2021			1480	5	0	Unassigned
 3767	Washington	US	03/05/2021			1459	5	0	Unassigned
-3767	Washington	US	03/06/2021			1461	5	0	Unassigned
-3767	Washington	US	03/07/2021			1461	5		Unassigned
 3767	Washington	US	03/08/2021			1460	5		Unassigned
 3767	Washington	US	03/09/2021			1461	5		Unassigned
 3767	Washington	US	03/10/2021			1464	4		Unassigned
 3767	Washington	US	03/11/2021			1465	4		Unassigned
-3767	Washington	US	03/12/2021			1463	4		Unassigned
 3767	Washington	US	03/13/2021			1501	4		Unassigned
 3767	Washington	US	03/14/2021			1501	4		Unassigned
 3767	Washington	US	03/15/2021			1530	4		Unassigned
@@ -366,7 +340,6 @@
 3767	Washington	US	03/21/2021			1492	4		Unassigned
 3767	Washington	US	03/22/2021			1480	4		Unassigned
 3767	Washington	US	03/23/2021			1480	4		Unassigned
-3767	Washington	US	03/24/2021			1487	4		Unassigned
 3767	Washington	US	03/25/2021			1501	4		Unassigned
 3767	Washington	US	03/26/2021			1546	5		Unassigned
 3767	Washington	US	03/27/2021			1574	4		Unassigned
@@ -390,11 +363,9 @@
 3769	Washington	US	04/14/2021			1534	4		Unassigned
 3769	Washington	US	04/15/2021			1516	4		Unassigned
 3769	Washington	US	04/16/2021			1709	4		Unassigned
-3769	Washington	US	04/17/2021			1584	4		Unassigned
 3769	Washington	US	04/18/2021			1584	4		Unassigned
 3769	Washington	US	04/19/2021			1516	4		Unassigned
 3769	Washington	US	04/20/2021			1543	4		Unassigned
-3769	Washington	US	04/21/2021			1538	3		Unassigned
 3769	Washington	US	04/22/2021			1555	3		Unassigned
 3769	Washington	US	04/23/2021			1539	3		Unassigned
 3769	Washington	US	04/24/2021			1712	3		Unassigned
@@ -552,11 +523,10 @@
 3791	Washington	US	09/23/2021			1680	3		Unassigned
 3791	Washington	US	09/24/2021			1684	3		Unassigned
 3791	Washington	US	09/25/2021			1684	3		Unassigned
-3791	Washington	US	09/26/2021			1684	3		Unassigned
 3791	Washington	US	09/27/2021			1688	3		Unassigned
 3791	Washington	US	09/28/2021			1713	3		Unassigned
 3791	Washington	US	09/29/2021			1652	3		Unassigned
-3791	Washington	US	09/30/2021			1602	3		Unassigned
 3791	Washington	US	10/01/2021			1628	3		Unassigned
 3791	Washington	US	10/02/2021			1628	3		Unassigned
 3791	Washington	US	10/03/2021			1628	3		Unassigned
+3791	Washington	US	10/04/2021			1610	3		Unassigned

@@ -161,13 +161,11 @@
 2408	Nebraska	US	09/03/2020			156	1	0	Unassigned
 2408	Nebraska	US	09/04/2020			141	1	0	Unassigned
 2408	Nebraska	US	09/05/2020			141	1	0	Unassigned
-2408	Nebraska	US	09/06/2020			145	1	0	Unassigned
 2408	Nebraska	US	09/07/2020			143	1	0	Unassigned
 2408	Nebraska	US	09/08/2020			143	1	0	Unassigned
 2408	Nebraska	US	09/09/2020			149	0	0	Unassigned
 2408	Nebraska	US	09/10/2020			157	3	0	Unassigned
 2408	Nebraska	US	09/11/2020			157	3	0	Unassigned
-2408	Nebraska	US	09/12/2020			157	3	0	Unassigned
 2408	Nebraska	US	09/13/2020			146	0	0	Unassigned
 2408	Nebraska	US	09/14/2020			160	0	0	Unassigned
 2408	Nebraska	US	09/15/2020			160	0	0	Unassigned
@@ -175,7 +173,6 @@
 2408	Nebraska	US	09/17/2020			184	0	0	Unassigned
 2408	Nebraska	US	09/18/2020			192	0	0	Unassigned
 2408	Nebraska	US	09/19/2020			194	0	0	Unassigned
-2408	Nebraska	US	09/20/2020			196	0	0	Unassigned
 2409	Nebraska	US	09/21/2020			223	2	0	Unassigned
 2409	Nebraska	US	09/22/2020			249	2	0	Unassigned
 2409	Nebraska	US	09/23/2020			246	0	0	Unassigned
@@ -215,7 +212,6 @@
 2412	Nebraska	US	10/27/2020			461	3	0	Unassigned
 2413	Nebraska	US	10/28/2020			475	4.0	0	Unassigned
 2413	Nebraska	US	10/29/2020			495	5	0	Unassigned
-2413	Nebraska	US	10/30/2020			535	5	0	Unassigned
 2413	Nebraska	US	10/31/2020			528	8	0	Unassigned
 2413	Nebraska	US	11/01/2020			531	0	0	Unassigned
 2413	Nebraska	US	11/02/2020			532	1	0	Unassigned
@@ -231,10 +227,8 @@
 2426	Nebraska	US	11/12/2020			725	1	0	Unassigned
 2426	Nebraska	US	11/13/2020			769	1	0	Unassigned
 2426	Nebraska	US	11/14/2020			784	1	0	Unassigned
-2426	Nebraska	US	11/15/2020			797	1	0	Unassigned
 2426	Nebraska	US	11/16/2020			819	3	0	Unassigned
 2426	Nebraska	US	11/17/2020			839	2	0	Unassigned
-2426	Nebraska	US	11/18/2020			871	2	0	Unassigned
 2426	Nebraska	US	11/19/2020			917	4	0	Unassigned
 2426	Nebraska	US	11/20/2020			922	0	0	Unassigned
 2426	Nebraska	US	11/21/2020			930	0	0	Unassigned
@@ -242,7 +236,6 @@
 2426	Nebraska	US	11/23/2020			961	6	0	Unassigned
 2427	Nebraska	US	11/24/2020			961	6	0	Unassigned
 2427	Nebraska	US	11/25/2020			966	9	0	Unassigned
-2427	Nebraska	US	11/26/2020			1003	1	0	Unassigned
 2427	Nebraska	US	11/27/2020			996	1	0	Unassigned
 2427	Nebraska	US	11/28/2020			1007	2	0	Unassigned
 2427	Nebraska	US	11/29/2020			1027	2	0	Unassigned
@@ -264,34 +257,25 @@
 2427	Nebraska	US	12/15/2020			1171	2	0	Unassigned
 2427	Nebraska	US	12/16/2020			1175	2	0	Unassigned
 2427	Nebraska	US	12/17/2020			1186	2	0	Unassigned
-2427	Nebraska	US	12/18/2020			1184	3	0	Unassigned
 2427	Nebraska	US	12/19/2020			1185	3	0	Unassigned
 2427	Nebraska	US	12/20/2020			1187	1	0	Unassigned
-2427	Nebraska	US	12/21/2020			1188	2	0	Unassigned
-2427	Nebraska	US	12/22/2020			1202	2	0	Unassigned
-2427	Nebraska	US	12/23/2020			1199	3	0	Unassigned
 2427	Nebraska	US	12/24/2020			1208	4	0	Unassigned
-2427	Nebraska	US	12/25/2020			1212	4	0	Unassigned
 2427	Nebraska	US	12/26/2020			1210	4	0	Unassigned
 2427	Nebraska	US	12/27/2020			1218	4	0	Unassigned
 2427	Nebraska	US	12/28/2020			1229	5	0	Unassigned
 2427	Nebraska	US	12/29/2020			1241	6	0	Unassigned
-2427	Nebraska	US	12/30/2020			1253	6	0	Unassigned
 2427	Nebraska	US	12/31/2020			1251	2	0	Unassigned
 2427	Nebraska	US	01/01/2021			1257	5	0	Unassigned
 2427	Nebraska	US	01/02/2021			1261	5	0	Unassigned
 2428	Nebraska	US	01/03/2021			1264	5	0	Unassigned
 2428	Nebraska	US	01/04/2021			1263	5	0	Unassigned
 2428	Nebraska	US	01/05/2021			1266	0	0	Unassigned
-2428	Nebraska	US	01/06/2021			1271	2	0	Unassigned
 2428	Nebraska	US	01/07/2021			1260	2	0	Unassigned
-2428	Nebraska	US	01/08/2021			1287	2	0	Unassigned
 2428	Nebraska	US	01/09/2021			1294	2	0	Unassigned
 2428	Nebraska	US	01/10/2021			1295	6	0	Unassigned
 2428	Nebraska	US	01/11/2021			1293	6	0	Unassigned
 2428	Nebraska	US	01/12/2021			1289	7	0	Unassigned
 2428	Nebraska	US	01/13/2021			1308	7	0	Unassigned
-2428	Nebraska	US	01/14/2021			1309	7	0	Unassigned
 2429	Nebraska	US	01/15/2021			1306	7	0	Unassigned
 2429	Nebraska	US	01/16/2021			1306	7	0	Unassigned
 2429	Nebraska	US	01/17/2021			1302	7	0	Unassigned
@@ -301,22 +285,18 @@
 2430	Nebraska	US	01/21/2021			1346	3	0	Unassigned
 2430	Nebraska	US	01/22/2021			1357	3	0	Unassigned
 2430	Nebraska	US	01/23/2021			1364	3	0	Unassigned
-2430	Nebraska	US	01/24/2021			1375	3	0	Unassigned
 2430	Nebraska	US	01/25/2021			1382	3	0	Unassigned
 2430	Nebraska	US	01/26/2021			1373	5	0	Unassigned
 2430	Nebraska	US	01/27/2021			1371	5	0	Unassigned
 2430	Nebraska	US	01/28/2021			1378	8	0	Unassigned
 2430	Nebraska	US	01/29/2021			1378	8	0	Unassigned
-2430	Nebraska	US	01/30/2021			1386	8	0	Unassigned
 2430	Nebraska	US	01/31/2021			1387	8	0	Unassigned
 2430	Nebraska	US	02/01/2021			1386	8	0	Unassigned
 2430	Nebraska	US	02/02/2021			1386	8	0	Unassigned
 2430	Nebraska	US	02/03/2021			1398	8	0	Unassigned
-2430	Nebraska	US	02/04/2021			1401	8	0	Unassigned
 2430	Nebraska	US	02/05/2021			1401	8	0	Unassigned
 2430	Nebraska	US	02/06/2021			1410	9	0	Unassigned
 2430	Nebraska	US	02/07/2021			1407	9	0	Unassigned
-2430	Nebraska	US	02/08/2021			1405	0	0	Unassigned
 2430	Nebraska	US	02/09/2021			1414	0	0	Unassigned
 2430	Nebraska	US	02/10/2021			1409	0	0	Unassigned
 2430	Nebraska	US	02/11/2021			1415	1	0	Unassigned
@@ -332,23 +312,17 @@
 2431	Nebraska	US	02/21/2021			1734	2	0	Unassigned
 2431	Nebraska	US	02/22/2021			1736	2	0	Unassigned
 2431	Nebraska	US	02/23/2021			1739	2	0	Unassigned
-2431	Nebraska	US	02/24/2021			1736	2	0	Unassigned
-2431	Nebraska	US	02/25/2021			1730	4	0	Unassigned
 2431	Nebraska	US	02/26/2021			1728	6	0	Unassigned
-2431	Nebraska	US	02/27/2021			1726	6	0	Unassigned
 2431	Nebraska	US	02/28/2021			1726	6	0	Unassigned
 2431	Nebraska	US	03/01/2021			1716	6	0	Unassigned
 2431	Nebraska	US	03/02/2021			1727	7	0	Unassigned
 2431	Nebraska	US	03/03/2021			1721	7	0	Unassigned
 2431	Nebraska	US	03/04/2021			1726	7	0	Unassigned
 2431	Nebraska	US	03/05/2021			1734	7	0	Unassigned
-2431	Nebraska	US	03/06/2021			1740	7	0	Unassigned
-2431	Nebraska	US	03/07/2021			1782	7		Unassigned
 2431	Nebraska	US	03/08/2021			1739	7		Unassigned
 2431	Nebraska	US	03/09/2021			1752	7		Unassigned
 2431	Nebraska	US	03/10/2021			1749	7		Unassigned
 2431	Nebraska	US	03/11/2021			1764	7		Unassigned
-2431	Nebraska	US	03/12/2021			1769	7		Unassigned
 2431	Nebraska	US	03/13/2021			1772	7		Unassigned
 2431	Nebraska	US	03/14/2021			1775	7		Unassigned
 2431	Nebraska	US	03/15/2021			1775	7		Unassigned
@@ -360,7 +334,6 @@
 2431	Nebraska	US	03/21/2021			1805	7		Unassigned
 2431	Nebraska	US	03/22/2021			1805	7		Unassigned
 2431	Nebraska	US	03/23/2021			1768	7		Unassigned
-2431	Nebraska	US	03/24/2021			1766	7		Unassigned
 2431	Nebraska	US	03/25/2021			1761	7		Unassigned
 2431	Nebraska	US	03/26/2021			1808	7		Unassigned
 2431	Nebraska	US	03/27/2021			1768	7		Unassigned
@@ -384,11 +357,9 @@
 2433	Nebraska	US	04/14/2021			1833	28		Unassigned
 2433	Nebraska	US	04/15/2021			1838	7		Unassigned
 2433	Nebraska	US	04/16/2021			1842	7		Unassigned
-2433	Nebraska	US	04/17/2021			1855	7		Unassigned
 2433	Nebraska	US	04/18/2021			1856	7		Unassigned
 2433	Nebraska	US	04/19/2021			1857	7		Unassigned
 2433	Nebraska	US	04/20/2021			1861	7		Unassigned
-2433	Nebraska	US	04/21/2021			1855	7		Unassigned
 2433	Nebraska	US	04/22/2021			1857	7		Unassigned
 2433	Nebraska	US	04/23/2021			1860	7		Unassigned
 2433	Nebraska	US	04/24/2021			1868	7		Unassigned
@@ -546,11 +517,10 @@
 2455	Nebraska	US	09/23/2021			39845	152		Unassigned
 2455	Nebraska	US	09/24/2021			39845	152		Unassigned
 2455	Nebraska	US	09/25/2021			2084	175		Unassigned
-2455	Nebraska	US	09/26/2021			2084	175		Unassigned
 2455	Nebraska	US	09/27/2021			2084	175		Unassigned
 2455	Nebraska	US	09/28/2021			2787	197		Unassigned
 2455	Nebraska	US	09/29/2021			2127	197		Unassigned
-2455	Nebraska	US	09/30/2021			2130	197		Unassigned
 2455	Nebraska	US	10/01/2021			2135	197		Unassigned
 2455	Nebraska	US	10/02/2021			2135	197		Unassigned
 2455	Nebraska	US	10/03/2021			2135	197		Unassigned
+2455	Nebraska	US	10/04/2021			2151	197		Unassigned

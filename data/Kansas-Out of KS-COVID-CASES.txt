@@ -8,22 +8,18 @@
 1632	Kansas	US	01/21/2021			0	0	0	Out of KS
 1632	Kansas	US	01/22/2021			0	0	0	Out of KS
 1632	Kansas	US	01/23/2021			0	0	0	Out of KS
-1632	Kansas	US	01/24/2021			0	0	0	Out of KS
 1632	Kansas	US	01/25/2021			0	0	0	Out of KS
 1632	Kansas	US	01/26/2021			0	0	0	Out of KS
 1632	Kansas	US	01/27/2021			0	0	0	Out of KS
 1632	Kansas	US	01/28/2021			0	0	0	Out of KS
 1632	Kansas	US	01/29/2021			0	0	0	Out of KS
-1632	Kansas	US	01/30/2021			0	0	0	Out of KS
 1632	Kansas	US	01/31/2021			0	0	0	Out of KS
 1632	Kansas	US	02/01/2021			0	0	0	Out of KS
 1632	Kansas	US	02/02/2021			0	0	0	Out of KS
 1632	Kansas	US	02/03/2021			0	0	0	Out of KS
-1632	Kansas	US	02/04/2021			0	0	0	Out of KS
 1632	Kansas	US	02/05/2021			0	0	0	Out of KS
 1632	Kansas	US	02/06/2021			0	0	0	Out of KS
 1632	Kansas	US	02/07/2021			0	0	0	Out of KS
-1632	Kansas	US	02/08/2021			0	0	0	Out of KS
 1632	Kansas	US	02/09/2021			0	0	0	Out of KS
 1632	Kansas	US	02/10/2021			0	0	0	Out of KS
 1632	Kansas	US	02/11/2021			0	0	0	Out of KS
@@ -39,23 +35,17 @@
 1633	Kansas	US	02/21/2021			0	0	0	Out of KS
 1633	Kansas	US	02/22/2021			0	0	0	Out of KS
 1633	Kansas	US	02/23/2021			0	0	0	Out of KS
-1633	Kansas	US	02/24/2021			0	0	0	Out of KS
-1633	Kansas	US	02/25/2021			0	0	0	Out of KS
 1633	Kansas	US	02/26/2021			0	0	0	Out of KS
-1633	Kansas	US	02/27/2021			0	0	0	Out of KS
 1633	Kansas	US	02/28/2021			0	0	0	Out of KS
 1633	Kansas	US	03/01/2021			0	0	0	Out of KS
 1633	Kansas	US	03/02/2021			0	0	0	Out of KS
 1633	Kansas	US	03/03/2021			0	0	0	Out of KS
 1633	Kansas	US	03/04/2021			0	0	0	Out of KS
 1633	Kansas	US	03/05/2021			0	0	0	Out of KS
-1633	Kansas	US	03/06/2021			0	0	0	Out of KS
-1633	Kansas	US	03/07/2021			0	0		Out of KS
 1633	Kansas	US	03/08/2021			0	0		Out of KS
 1633	Kansas	US	03/09/2021			0	0		Out of KS
 1633	Kansas	US	03/10/2021			0	0		Out of KS
 1633	Kansas	US	03/11/2021			0	0		Out of KS
-1633	Kansas	US	03/12/2021			0	0		Out of KS
 1633	Kansas	US	03/13/2021			0	0		Out of KS
 1633	Kansas	US	03/14/2021			0	0		Out of KS
 1633	Kansas	US	03/15/2021			0	0		Out of KS
@@ -67,7 +57,6 @@
 1633	Kansas	US	03/21/2021			0	0		Out of KS
 1633	Kansas	US	03/22/2021			0	0		Out of KS
 1633	Kansas	US	03/23/2021			0	0		Out of KS
-1633	Kansas	US	03/24/2021			0	0		Out of KS
 1633	Kansas	US	03/25/2021			0	0		Out of KS
 1633	Kansas	US	03/26/2021			0	0		Out of KS
 1633	Kansas	US	03/27/2021			0	0		Out of KS
@@ -91,11 +80,9 @@
 1635	Kansas	US	04/14/2021			0	0		Out of KS
 1635	Kansas	US	04/15/2021			0	0		Out of KS
 1635	Kansas	US	04/16/2021			0	0		Out of KS
-1635	Kansas	US	04/17/2021			0	0		Out of KS
 1635	Kansas	US	04/18/2021			0	0		Out of KS
 1635	Kansas	US	04/19/2021			0	0		Out of KS
 1635	Kansas	US	04/20/2021			0	0		Out of KS
-1635	Kansas	US	04/21/2021			0	0		Out of KS
 1635	Kansas	US	04/22/2021			0	0		Out of KS
 1635	Kansas	US	04/23/2021			0	0		Out of KS
 1635	Kansas	US	04/24/2021			0	0		Out of KS
@@ -253,11 +240,10 @@
 1657	Kansas	US	09/23/2021			0	0		Out of KS
 1657	Kansas	US	09/24/2021			0	0		Out of KS
 1657	Kansas	US	09/25/2021			0	0		Out of KS
-1657	Kansas	US	09/26/2021			0	0		Out of KS
 1657	Kansas	US	09/27/2021			0	0		Out of KS
 1657	Kansas	US	09/28/2021			0	0		Out of KS
 1657	Kansas	US	09/29/2021			0	0		Out of KS
-1657	Kansas	US	09/30/2021			0	0		Out of KS
 1657	Kansas	US	10/01/2021			0	0		Out of KS
 1657	Kansas	US	10/02/2021			0	0		Out of KS
 1657	Kansas	US	10/03/2021			0	0		Out of KS
+1657	Kansas	US	10/04/2021			0	0		Out of KS

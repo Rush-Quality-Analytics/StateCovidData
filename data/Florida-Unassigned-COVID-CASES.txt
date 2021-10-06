@@ -164,13 +164,11 @@
 1022	Florida	US	09/03/2020			1083	0	0	Unassigned
 1022	Florida	US	09/04/2020			1089	0	0	Unassigned
 1022	Florida	US	09/05/2020			1095	0	0	Unassigned
-1022	Florida	US	09/06/2020			1103	0	0	Unassigned
 1022	Florida	US	09/07/2020			1105	0	0	Unassigned
 1022	Florida	US	09/08/2020			1112	0	0	Unassigned
 1022	Florida	US	09/09/2020			1123	0	0	Unassigned
 1022	Florida	US	09/10/2020			1124	0	0	Unassigned
 1022	Florida	US	09/11/2020			1027	0	0	Unassigned
-1022	Florida	US	09/12/2020			1033	0	0	Unassigned
 1022	Florida	US	09/13/2020			1035	0	0	Unassigned
 1022	Florida	US	09/14/2020			1038	0	0	Unassigned
 1022	Florida	US	09/15/2020			1556	0	0	Unassigned
@@ -178,7 +176,6 @@
 1022	Florida	US	09/17/2020			1569	0	0	Unassigned
 1022	Florida	US	09/18/2020			1575	0	0	Unassigned
 1022	Florida	US	09/19/2020			1592	0	0	Unassigned
-1022	Florida	US	09/20/2020			1598	0	0	Unassigned
 1023	Florida	US	09/21/2020			1600	0	0	Unassigned
 1023	Florida	US	09/22/2020			1613	0	0	Unassigned
 1023	Florida	US	09/23/2020			1623	0	0	Unassigned
@@ -218,7 +215,6 @@
 1026	Florida	US	10/27/2020			1856	0	0	Unassigned
 1027	Florida	US	10/28/2020			1835	0.0	0	Unassigned
 1027	Florida	US	10/29/2020			1827	0	0	Unassigned
-1027	Florida	US	10/30/2020			1786	0	0	Unassigned
 1027	Florida	US	10/31/2020			1940	0	0	Unassigned
 1027	Florida	US	11/01/2020			1925	0	0	Unassigned
 1027	Florida	US	11/02/2020			1915	0	0	Unassigned
@@ -234,10 +230,8 @@
 1040	Florida	US	11/12/2020			2057	0	0	Unassigned
 1040	Florida	US	11/13/2020			2056	0	0	Unassigned
 1040	Florida	US	11/14/2020			2076	0	0	Unassigned
-1040	Florida	US	11/15/2020			2096	0	0	Unassigned
 1040	Florida	US	11/16/2020			2113	0	0	Unassigned
 1040	Florida	US	11/17/2020			2141	0	0	Unassigned
-1040	Florida	US	11/18/2020			2160	0	0	Unassigned
 1040	Florida	US	11/19/2020			2184	0	0	Unassigned
 1040	Florida	US	11/20/2020			2209	0	0	Unassigned
 1040	Florida	US	11/21/2020			2232	0	0	Unassigned
@@ -245,7 +239,6 @@
 1040	Florida	US	11/23/2020			2397	0	0	Unassigned
 1041	Florida	US	11/24/2020			2564	0	0	Unassigned
 1041	Florida	US	11/25/2020			2603	0	0	Unassigned
-1041	Florida	US	11/26/2020			2603	0	0	Unassigned
 1041	Florida	US	11/27/2020			2645	0	0	Unassigned
 1041	Florida	US	11/28/2020			2722	0	0	Unassigned
 1041	Florida	US	11/29/2020			2756	0	0	Unassigned
@@ -267,34 +260,25 @@
 1041	Florida	US	12/15/2020			3151	0	0	Unassigned
 1041	Florida	US	12/16/2020			3179	0	0	Unassigned
 1041	Florida	US	12/17/2020			2925	0	0	Unassigned
-1041	Florida	US	12/18/2020			2937	0	0	Unassigned
 1041	Florida	US	12/19/2020			2949	0	0	Unassigned
 1041	Florida	US	12/20/2020			2952	0	0	Unassigned
-1041	Florida	US	12/21/2020			2964	0	0	Unassigned
-1041	Florida	US	12/22/2020			2975	0	0	Unassigned
-1041	Florida	US	12/23/2020			3023	0	0	Unassigned
 1041	Florida	US	12/24/2020			3036	0	0	Unassigned
-1041	Florida	US	12/25/2020			3036	0	0	Unassigned
 1041	Florida	US	12/26/2020			3067	0	0	Unassigned
 1041	Florida	US	12/27/2020			3080	0	0	Unassigned
 1041	Florida	US	12/28/2020			3088	0	0	Unassigned
 1041	Florida	US	12/29/2020			3082	0	0	Unassigned
-1041	Florida	US	12/30/2020			3062	0	0	Unassigned
 1041	Florida	US	12/31/2020			3010	0	0	Unassigned
 1041	Florida	US	01/01/2021			3010	0	0	Unassigned
 1041	Florida	US	01/02/2021			3045	0	0	Unassigned
 1042	Florida	US	01/03/2021			3065	0	0	Unassigned
 1042	Florida	US	01/04/2021			3078	0	0	Unassigned
 1042	Florida	US	01/05/2021			3082	0	0	Unassigned
-1042	Florida	US	01/06/2021			3156	0	0	Unassigned
 1042	Florida	US	01/07/2021			3147	0	0	Unassigned
-1042	Florida	US	01/08/2021			3157	0	0	Unassigned
 1042	Florida	US	01/09/2021			3166	0	0	Unassigned
 1042	Florida	US	01/10/2021			3170	0	0	Unassigned
 1042	Florida	US	01/11/2021			3176	0	0	Unassigned
 1042	Florida	US	01/12/2021			3184	0	0	Unassigned
 1042	Florida	US	01/13/2021			3241	0	0	Unassigned
-1042	Florida	US	01/14/2021			3258	0	0	Unassigned
 1042	Florida	US	01/15/2021			3279	0	0	Unassigned
 1042	Florida	US	01/16/2021			3287	0	0	Unassigned
 1042	Florida	US	01/17/2021			3293	0	0	Unassigned
@@ -304,22 +288,18 @@
 1043	Florida	US	01/21/2021			3288	0	0	Unassigned
 1043	Florida	US	01/22/2021			3291	0	0	Unassigned
 1043	Florida	US	01/23/2021			3293	0	0	Unassigned
-1043	Florida	US	01/24/2021			3311	0	0	Unassigned
 1043	Florida	US	01/25/2021			3318	0	0	Unassigned
 1043	Florida	US	01/26/2021			3314	0	0	Unassigned
 1043	Florida	US	01/27/2021			3321	0	0	Unassigned
 1043	Florida	US	01/28/2021			3327	0	0	Unassigned
 1043	Florida	US	01/29/2021			3324	0	0	Unassigned
-1043	Florida	US	01/30/2021			3331	0	0	Unassigned
 1043	Florida	US	01/31/2021			3334	0	0	Unassigned
 1043	Florida	US	02/01/2021			3338	0	0	Unassigned
 1043	Florida	US	02/02/2021			3335	0	0	Unassigned
 1043	Florida	US	02/03/2021			3340	0	0	Unassigned
-1043	Florida	US	02/04/2021			3348	0	0	Unassigned
 1043	Florida	US	02/05/2021			3363	0	0	Unassigned
 1043	Florida	US	02/06/2021			3364	0	0	Unassigned
 1043	Florida	US	02/07/2021			3367	0	0	Unassigned
-1043	Florida	US	02/08/2021			3375	0	0	Unassigned
 1043	Florida	US	02/09/2021			3375	0	0	Unassigned
 1043	Florida	US	02/10/2021			3379	0	0	Unassigned
 1043	Florida	US	02/11/2021			3384	0	0	Unassigned
@@ -335,23 +315,17 @@
 1044	Florida	US	02/21/2021			3418	0	0	Unassigned
 1044	Florida	US	02/22/2021			3422	0	0	Unassigned
 1044	Florida	US	02/23/2021			3426	0	0	Unassigned
-1044	Florida	US	02/24/2021			3440	0	0	Unassigned
-1044	Florida	US	02/25/2021			3446	0	0	Unassigned
 1044	Florida	US	02/26/2021			3454	0	0	Unassigned
-1044	Florida	US	02/27/2021			3464	0	0	Unassigned
 1044	Florida	US	02/28/2021			3469	0	0	Unassigned
 1044	Florida	US	03/01/2021			3469	0	0	Unassigned
 1044	Florida	US	03/02/2021			3481	0	0	Unassigned
 1044	Florida	US	03/03/2021			3493	0	0	Unassigned
 1044	Florida	US	03/04/2021			3493	0	0	Unassigned
 1044	Florida	US	03/05/2021			3491	0	0	Unassigned
-1044	Florida	US	03/06/2021			3494	0	0	Unassigned
-1044	Florida	US	03/07/2021			3499	0		Unassigned
 1044	Florida	US	03/08/2021			3498	0		Unassigned
 1044	Florida	US	03/09/2021			3500	0		Unassigned
 1044	Florida	US	03/10/2021			3498	0		Unassigned
 1044	Florida	US	03/11/2021			3503	0		Unassigned
-1044	Florida	US	03/12/2021			3507	0		Unassigned
 1044	Florida	US	03/13/2021			3508	0		Unassigned
 1044	Florida	US	03/14/2021			3512	0		Unassigned
 1044	Florida	US	03/15/2021			3513	0		Unassigned
@@ -363,7 +337,6 @@
 1044	Florida	US	03/21/2021			3509	0		Unassigned
 1044	Florida	US	03/22/2021			3512	0		Unassigned
 1044	Florida	US	03/23/2021			3518	0		Unassigned
-1044	Florida	US	03/24/2021			3523	0		Unassigned
 1044	Florida	US	03/25/2021			3525	0		Unassigned
 1044	Florida	US	03/26/2021			3533	0		Unassigned
 1044	Florida	US	03/27/2021			3540	0		Unassigned
@@ -387,11 +360,9 @@
 1046	Florida	US	04/14/2021			3505	0		Unassigned
 1046	Florida	US	04/15/2021			3505	0		Unassigned
 1046	Florida	US	04/16/2021			3506	0		Unassigned
-1046	Florida	US	04/17/2021			3491	0		Unassigned
 1046	Florida	US	04/18/2021			3499	0		Unassigned
 1046	Florida	US	04/19/2021			3500	0		Unassigned
 1046	Florida	US	04/20/2021			3495	0		Unassigned
-1046	Florida	US	04/21/2021			3497	0		Unassigned
 1046	Florida	US	04/22/2021			3502	0		Unassigned
 1046	Florida	US	04/23/2021			3505	0		Unassigned
 1046	Florida	US	04/24/2021			3506	0		Unassigned
@@ -549,11 +520,10 @@
 1068	Florida	US	09/23/2021			5730	16132		Unassigned
 1068	Florida	US	09/24/2021			2964	16607		Unassigned
 1068	Florida	US	09/25/2021			2964	16607		Unassigned
-1068	Florida	US	09/26/2021			2964	16607		Unassigned
 1068	Florida	US	09/27/2021			2964	17090		Unassigned
 1068	Florida	US	09/28/2021			2964	17094		Unassigned
 1068	Florida	US	09/29/2021			2964	17098		Unassigned
-1068	Florida	US	09/30/2021			2964	18036		Unassigned
 1068	Florida	US	10/01/2021			2961	18326		Unassigned
 1068	Florida	US	10/02/2021			2961	18326		Unassigned
 1068	Florida	US	10/03/2021			2961	18326		Unassigned
+1068	Florida	US	10/04/2021			2961	18646		Unassigned

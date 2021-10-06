@@ -167,13 +167,11 @@
 2556	New York	US	09/03/2020			0	20	0	Unassigned
 2556	New York	US	09/04/2020			0	21	0	Unassigned
 2556	New York	US	09/05/2020			0	19	0	Unassigned
-2556	New York	US	09/06/2020			0	19	0	Unassigned
 2556	New York	US	09/07/2020			0	23	0	Unassigned
 2556	New York	US	09/08/2020			0	24	0	Unassigned
 2556	New York	US	09/09/2020			0	21	0	Unassigned
 2556	New York	US	09/10/2020			0	18	0	Unassigned
 2556	New York	US	09/11/2020			0	15	0	Unassigned
-2556	New York	US	09/12/2020			0	15	0	Unassigned
 2556	New York	US	09/13/2020			0	15	0	Unassigned
 2556	New York	US	09/14/2020			0	16	0	Unassigned
 2556	New York	US	09/15/2020			0	17	0	Unassigned
@@ -181,7 +179,6 @@
 2556	New York	US	09/17/2020			0	17	0	Unassigned
 2556	New York	US	09/18/2020			0	19	0	Unassigned
 2556	New York	US	09/19/2020			0	16	0	Unassigned
-2556	New York	US	09/20/2020			0	16	0	Unassigned
 2558	New York	US	09/21/2020			0	19	0	Unassigned
 2558	New York	US	09/22/2020			0	16	0	Unassigned
 2558	New York	US	09/23/2020			0	16	0	Unassigned
@@ -221,7 +218,6 @@
 2561	New York	US	10/27/2020			0	21	0	Unassigned
 2562	New York	US	10/28/2020			0	19.0	0	Unassigned
 2562	New York	US	10/29/2020			0	17	0	Unassigned
-2562	New York	US	10/30/2020			0	17	0	Unassigned
 2562	New York	US	10/31/2020			0	18	0	Unassigned
 2562	New York	US	11/01/2020			0	21	0	Unassigned
 2562	New York	US	11/02/2020			0	20	0	Unassigned
@@ -237,10 +233,8 @@
 2575	New York	US	11/12/2020			0	19	0	Unassigned
 2575	New York	US	11/13/2020			0	22	0	Unassigned
 2575	New York	US	11/14/2020			0	19	0	Unassigned
-2575	New York	US	11/15/2020			0	15	0	Unassigned
 2575	New York	US	11/16/2020			0	22	0	Unassigned
 2575	New York	US	11/17/2020			0	27	0	Unassigned
-2575	New York	US	11/18/2020			0	33	0	Unassigned
 2575	New York	US	11/19/2020			0	35	0	Unassigned
 2575	New York	US	11/20/2020			0	31	0	Unassigned
 2575	New York	US	11/21/2020			0	20	0	Unassigned
@@ -248,7 +242,6 @@
 2575	New York	US	11/23/2020			0	18	0	Unassigned
 2576	New York	US	11/24/2020			0	17	0	Unassigned
 2576	New York	US	11/25/2020			0	17	0	Unassigned
-2576	New York	US	11/26/2020			0	24	0	Unassigned
 2576	New York	US	11/27/2020			0	27	0	Unassigned
 2576	New York	US	11/28/2020			0	24	0	Unassigned
 2576	New York	US	11/29/2020			0	26	0	Unassigned
@@ -270,34 +263,25 @@
 2576	New York	US	12/15/2020			0	64	0	Unassigned
 2576	New York	US	12/16/2020			0	54	0	Unassigned
 2576	New York	US	12/17/2020			0	63	0	Unassigned
-2576	New York	US	12/18/2020			0	53	0	Unassigned
 2576	New York	US	12/19/2020			0	53	0	Unassigned
 2576	New York	US	12/20/2020			0	60	0	Unassigned
-2576	New York	US	12/21/2020			0	62	0	Unassigned
-2576	New York	US	12/22/2020			0	68	0	Unassigned
-2576	New York	US	12/23/2020			0	58	0	Unassigned
 2576	New York	US	12/24/2020			0	66	0	Unassigned
-2576	New York	US	12/25/2020			0	70	0	Unassigned
 2576	New York	US	12/26/2020			0	82	0	Unassigned
 2576	New York	US	12/27/2020			0	93	0	Unassigned
 2576	New York	US	12/28/2020			0	93	0	Unassigned
 2576	New York	US	12/29/2020			29	99	0	Unassigned
-2576	New York	US	12/30/2020			27	98	0	Unassigned
 2576	New York	US	12/31/2020			32	102	0	Unassigned
 2576	New York	US	01/01/2021			32	87	0	Unassigned
 2576	New York	US	01/02/2021			35	87	0	Unassigned
 2577	New York	US	01/03/2021			35	92	0	Unassigned
 2577	New York	US	01/04/2021			35	105	0	Unassigned
 2577	New York	US	01/05/2021			37	102	0	Unassigned
-2577	New York	US	01/06/2021			27	111	0	Unassigned
 2577	New York	US	01/07/2021			29	111	0	Unassigned
-2577	New York	US	01/08/2021			31	98	0	Unassigned
 2577	New York	US	01/09/2021			31	103	0	Unassigned
 2577	New York	US	01/10/2021			32	99	0	Unassigned
 2577	New York	US	01/11/2021			34	113	0	Unassigned
 2577	New York	US	01/12/2021			30	117	0	Unassigned
 2577	New York	US	01/13/2021			31	89	0	Unassigned
-2577	New York	US	01/14/2021			35	95	0	Unassigned
 2578	New York	US	01/15/2021			37	108	0	Unassigned
 2578	New York	US	01/16/2021			39	92	0	Unassigned
 2578	New York	US	01/17/2021			39	101	0	Unassigned
@@ -307,22 +291,18 @@
 2579	New York	US	01/21/2021			55	117	0	Unassigned
 2579	New York	US	01/22/2021			62	117	0	Unassigned
 2579	New York	US	01/23/2021			71	110	0	Unassigned
-2579	New York	US	01/24/2021			78	128	0	Unassigned
 2579	New York	US	01/25/2021			80	149	0	Unassigned
 2579	New York	US	01/26/2021			82	169	0	Unassigned
 2579	New York	US	01/27/2021			86	124	0	Unassigned
 2579	New York	US	01/28/2021			88	146	0	Unassigned
 2579	New York	US	01/29/2021			90	144	0	Unassigned
-2579	New York	US	01/30/2021			93	144	0	Unassigned
 2579	New York	US	01/31/2021			96	148	0	Unassigned
 2579	New York	US	02/01/2021			98	151	0	Unassigned
 2579	New York	US	02/02/2021			99	158	0	Unassigned
 2579	New York	US	02/03/2021			104	160	0	Unassigned
-2579	New York	US	02/04/2021			105	157	0	Unassigned
 2579	New York	US	02/05/2021			109	155	0	Unassigned
 2579	New York	US	02/06/2021			116	160	0	Unassigned
 2579	New York	US	02/07/2021			121	157	0	Unassigned
-2579	New York	US	02/08/2021			124	149	0	Unassigned
 2579	New York	US	02/09/2021			277	168	0	Unassigned
 2579	New York	US	02/10/2021			299	155	0	Unassigned
 2579	New York	US	02/11/2021			284	152	0	Unassigned
@@ -338,23 +318,17 @@
 2580	New York	US	02/21/2021			218	130	0	Unassigned
 2580	New York	US	02/22/2021			223	139	0	Unassigned
 2580	New York	US	02/23/2021			216	142	0	Unassigned
-2580	New York	US	02/24/2021			217	137	0	Unassigned
-2580	New York	US	02/25/2021			219	119	0	Unassigned
 2580	New York	US	02/26/2021			224	117	0	Unassigned
-2580	New York	US	02/27/2021			220	117	0	Unassigned
 2580	New York	US	02/28/2021			219	130	0	Unassigned
 2580	New York	US	03/01/2021			221	140	0	Unassigned
 2580	New York	US	03/02/2021			197	131	0	Unassigned
 2580	New York	US	03/03/2021			191	128	0	Unassigned
 2580	New York	US	03/04/2021			182	118	0	Unassigned
 2580	New York	US	03/05/2021			171	107	0	Unassigned
-2580	New York	US	03/06/2021			160	99	0	Unassigned
-2580	New York	US	03/07/2021			161	99		Unassigned
 2580	New York	US	03/08/2021			158	94		Unassigned
 2580	New York	US	03/09/2021			161	99		Unassigned
 2580	New York	US	03/10/2021			175	113		Unassigned
 2580	New York	US	03/11/2021			180	110		Unassigned
-2580	New York	US	03/12/2021			164	96		Unassigned
 2580	New York	US	03/13/2021			158	94		Unassigned
 2580	New York	US	03/14/2021			174	106		Unassigned
 2580	New York	US	03/15/2021			171	95		Unassigned
@@ -366,7 +340,6 @@
 2580	New York	US	03/21/2021			150	82		Unassigned
 2580	New York	US	03/22/2021			150	82		Unassigned
 2580	New York	US	03/23/2021			150	82		Unassigned
-2580	New York	US	03/24/2021			156	90		Unassigned
 2580	New York	US	03/25/2021			157	90		Unassigned
 2580	New York	US	03/26/2021			156	88		Unassigned
 2580	New York	US	03/27/2021			150	82		Unassigned
@@ -390,11 +363,9 @@
 2582	New York	US	04/14/2021			184	111		Unassigned
 2582	New York	US	04/15/2021			172	100		Unassigned
 2582	New York	US	04/16/2021			155	82		Unassigned
-2582	New York	US	04/17/2021			149	72		Unassigned
 2582	New York	US	04/18/2021			143	67		Unassigned
 2582	New York	US	04/19/2021			141	64		Unassigned
 2582	New York	US	04/20/2021			138	64		Unassigned
-2582	New York	US	04/21/2021			138	64		Unassigned
 2582	New York	US	04/22/2021			145	71		Unassigned
 2582	New York	US	04/23/2021			143	69		Unassigned
 2582	New York	US	04/24/2021			147	70		Unassigned
@@ -552,11 +523,10 @@
 2604	New York	US	09/23/2021			135	33		Unassigned
 2604	New York	US	09/24/2021			138	35		Unassigned
 2604	New York	US	09/25/2021			138	35		Unassigned
-2604	New York	US	09/26/2021			129	29		Unassigned
 2604	New York	US	09/27/2021			129	29		Unassigned
 2604	New York	US	09/28/2021			132	27		Unassigned
 2604	New York	US	09/29/2021			132	31		Unassigned
-2604	New York	US	09/30/2021			128	30		Unassigned
 2604	New York	US	10/01/2021			137	28		Unassigned
 2604	New York	US	10/02/2021			137	28		Unassigned
 2604	New York	US	10/03/2021			137	28		Unassigned
+2604	New York	US	10/04/2021			134	28		Unassigned

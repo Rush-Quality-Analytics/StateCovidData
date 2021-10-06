@@ -156,13 +156,11 @@
 2497	New Mexico	US	09/03/2020			1321	0	0	Unassigned
 2497	New Mexico	US	09/04/2020			1321	0	0	Unassigned
 2497	New Mexico	US	09/05/2020			1321	0	0	Unassigned
-2497	New Mexico	US	09/06/2020			1321	0	0	Unassigned
 2497	New Mexico	US	09/07/2020			1321	0	0	Unassigned
 2497	New Mexico	US	09/08/2020			1321	0	0	Unassigned
 2497	New Mexico	US	09/09/2020			1323	0	0	Unassigned
 2497	New Mexico	US	09/10/2020			1323	0	0	Unassigned
 2497	New Mexico	US	09/11/2020			1325	0	0	Unassigned
-2497	New Mexico	US	09/12/2020			1325	0	0	Unassigned
 2497	New Mexico	US	09/13/2020			1327	0	0	Unassigned
 2497	New Mexico	US	09/14/2020			1337	0	0	Unassigned
 2497	New Mexico	US	09/15/2020			1341	0	0	Unassigned
@@ -170,7 +168,6 @@
 2497	New Mexico	US	09/17/2020			1342	0	0	Unassigned
 2497	New Mexico	US	09/18/2020			1343	0	0	Unassigned
 2497	New Mexico	US	09/19/2020			1361	0	0	Unassigned
-2497	New Mexico	US	09/20/2020			1361	0	0	Unassigned
 2498	New Mexico	US	09/21/2020			1361	0	0	Unassigned
 2498	New Mexico	US	09/22/2020			1361	0	0	Unassigned
 2498	New Mexico	US	09/23/2020			1373	0	0	Unassigned
@@ -210,7 +207,6 @@
 2501	New Mexico	US	10/27/2020			1705	0	0	Unassigned
 2502	New Mexico	US	10/28/2020			1707	0.0	0	Unassigned
 2502	New Mexico	US	10/29/2020			1712	0	0	Unassigned
-2502	New Mexico	US	10/30/2020			1713	0	0	Unassigned
 2502	New Mexico	US	10/31/2020			1718	0	0	Unassigned
 2502	New Mexico	US	11/01/2020			1784	0	0	Unassigned
 2502	New Mexico	US	11/02/2020			1789	0	0	Unassigned
@@ -226,10 +222,8 @@
 2515	New Mexico	US	11/12/2020			2189	0	0	Unassigned
 2515	New Mexico	US	11/13/2020			2197	0	0	Unassigned
 2515	New Mexico	US	11/14/2020			2238	0	0	Unassigned
-2515	New Mexico	US	11/15/2020			2262	0	0	Unassigned
 2515	New Mexico	US	11/16/2020			2268	0	0	Unassigned
 2515	New Mexico	US	11/17/2020			2299	0	0	Unassigned
-2515	New Mexico	US	11/18/2020			2338	2	0	Unassigned
 2515	New Mexico	US	11/19/2020			2416	2	0	Unassigned
 2515	New Mexico	US	11/20/2020			2438	0	0	Unassigned
 2515	New Mexico	US	11/21/2020			2438	0	0	Unassigned
@@ -237,7 +231,6 @@
 2515	New Mexico	US	11/23/2020			2521	0	0	Unassigned
 2516	New Mexico	US	11/24/2020			2542	0	0	Unassigned
 2516	New Mexico	US	11/25/2020			2561	0	0	Unassigned
-2516	New Mexico	US	11/26/2020			2573	0	0	Unassigned
 2516	New Mexico	US	11/27/2020			2592	0	0	Unassigned
 2516	New Mexico	US	11/28/2020			2599	0	0	Unassigned
 2516	New Mexico	US	11/29/2020			2616	0	0	Unassigned
@@ -259,34 +252,25 @@
 2516	New Mexico	US	12/15/2020			3093	0	0	Unassigned
 2516	New Mexico	US	12/16/2020			3128	0	0	Unassigned
 2516	New Mexico	US	12/17/2020			3204	0	0	Unassigned
-2516	New Mexico	US	12/18/2020			3237	0	0	Unassigned
 2516	New Mexico	US	12/19/2020			3249	0	0	Unassigned
 2516	New Mexico	US	12/20/2020			3262	0	0	Unassigned
-2516	New Mexico	US	12/21/2020			3271	0	0	Unassigned
-2516	New Mexico	US	12/22/2020			3294	0	0	Unassigned
-2516	New Mexico	US	12/23/2020			3304	0	0	Unassigned
 2516	New Mexico	US	12/24/2020			3315	2	0	Unassigned
-2516	New Mexico	US	12/25/2020			3319	0	0	Unassigned
 2516	New Mexico	US	12/26/2020			3318	0	0	Unassigned
 2516	New Mexico	US	12/27/2020			3325	0	0	Unassigned
 2516	New Mexico	US	12/28/2020			3325	0	0	Unassigned
 2516	New Mexico	US	12/29/2020			3360	0	0	Unassigned
-2516	New Mexico	US	12/30/2020			3360	0	0	Unassigned
 2516	New Mexico	US	12/31/2020			3360	0	0	Unassigned
 2516	New Mexico	US	01/01/2021			3368	0	0	Unassigned
 2516	New Mexico	US	01/02/2021			3372	0	0	Unassigned
 2517	New Mexico	US	01/03/2021			3380	0	0	Unassigned
 2517	New Mexico	US	01/04/2021			3381	0	0	Unassigned
 2517	New Mexico	US	01/05/2021			3382	0	0	Unassigned
-2517	New Mexico	US	01/06/2021			3383	0	0	Unassigned
 2517	New Mexico	US	01/07/2021			3400	0	0	Unassigned
-2517	New Mexico	US	01/08/2021			3402	0	0	Unassigned
 2517	New Mexico	US	01/09/2021			3410	0	0	Unassigned
 2517	New Mexico	US	01/10/2021			3431	0	0	Unassigned
 2517	New Mexico	US	01/11/2021			3438	0	0	Unassigned
 2517	New Mexico	US	01/12/2021			3461	0	0	Unassigned
 2517	New Mexico	US	01/13/2021			3517	0	0	Unassigned
-2517	New Mexico	US	01/14/2021			3523	0	0	Unassigned
 2518	New Mexico	US	01/15/2021			3536	0	0	Unassigned
 2518	New Mexico	US	01/16/2021			3536	0	0	Unassigned
 2518	New Mexico	US	01/17/2021			3536	0	0	Unassigned
@@ -296,22 +280,18 @@
 2519	New Mexico	US	01/21/2021			3553	0	0	Unassigned
 2519	New Mexico	US	01/22/2021			3586	0	0	Unassigned
 2519	New Mexico	US	01/23/2021			3590	0	0	Unassigned
-2519	New Mexico	US	01/24/2021			3592	0	0	Unassigned
 2519	New Mexico	US	01/25/2021			3592	0	0	Unassigned
 2519	New Mexico	US	01/26/2021			3592	0	0	Unassigned
 2519	New Mexico	US	01/27/2021			3599	0	0	Unassigned
 2519	New Mexico	US	01/28/2021			3621	0	0	Unassigned
 2519	New Mexico	US	01/29/2021			3644	0	0	Unassigned
-2519	New Mexico	US	01/30/2021			3651	0	0	Unassigned
 2519	New Mexico	US	01/31/2021			3654	0	0	Unassigned
 2519	New Mexico	US	02/01/2021			3655	0	0	Unassigned
 2519	New Mexico	US	02/02/2021			3656	0	0	Unassigned
 2519	New Mexico	US	02/03/2021			3657	0	0	Unassigned
-2519	New Mexico	US	02/04/2021			3666	0	0	Unassigned
 2519	New Mexico	US	02/05/2021			3681	0	0	Unassigned
 2519	New Mexico	US	02/06/2021			3688	0	0	Unassigned
 2519	New Mexico	US	02/07/2021			3688	0	0	Unassigned
-2519	New Mexico	US	02/08/2021			3688	0	0	Unassigned
 2519	New Mexico	US	02/09/2021			3689	0	0	Unassigned
 2519	New Mexico	US	02/10/2021			3689	0	0	Unassigned
 2519	New Mexico	US	02/11/2021			3721	0	0	Unassigned
@@ -327,23 +307,17 @@
 2520	New Mexico	US	02/21/2021			3775	0	0	Unassigned
 2520	New Mexico	US	02/22/2021			3779	0	0	Unassigned
 2520	New Mexico	US	02/23/2021			3789	0	0	Unassigned
-2520	New Mexico	US	02/24/2021			3791	0	0	Unassigned
-2520	New Mexico	US	02/25/2021			3798	0	0	Unassigned
 2520	New Mexico	US	02/26/2021			3990	0	0	Unassigned
-2520	New Mexico	US	02/27/2021			3995	0	0	Unassigned
 2520	New Mexico	US	02/28/2021			3996	16	0	Unassigned
 2520	New Mexico	US	03/01/2021			3996	0	0	Unassigned
 2520	New Mexico	US	03/02/2021			3997	0	0	Unassigned
 2520	New Mexico	US	03/03/2021			4034	0	0	Unassigned
 2520	New Mexico	US	03/04/2021			4046	0	0	Unassigned
 2520	New Mexico	US	03/05/2021			4049	0	0	Unassigned
-2520	New Mexico	US	03/06/2021			4049	0	0	Unassigned
-2520	New Mexico	US	03/07/2021			4229	12		Unassigned
 2520	New Mexico	US	03/08/2021			4061	0		Unassigned
 2520	New Mexico	US	03/09/2021			4061	0		Unassigned
 2520	New Mexico	US	03/10/2021			4061	0		Unassigned
 2520	New Mexico	US	03/11/2021			4078	0		Unassigned
-2520	New Mexico	US	03/12/2021			4080	0		Unassigned
 2520	New Mexico	US	03/13/2021			4085	0		Unassigned
 2520	New Mexico	US	03/14/2021			4086	0		Unassigned
 2520	New Mexico	US	03/15/2021			4087	0		Unassigned
@@ -355,7 +329,6 @@
 2520	New Mexico	US	03/21/2021			4099	0		Unassigned
 2520	New Mexico	US	03/22/2021			4099	0		Unassigned
 2520	New Mexico	US	03/23/2021			4099	0		Unassigned
-2520	New Mexico	US	03/24/2021			4099	0		Unassigned
 2520	New Mexico	US	03/25/2021			4100	0		Unassigned
 2520	New Mexico	US	03/26/2021			4100	0		Unassigned
 2520	New Mexico	US	03/27/2021			4101	0		Unassigned
@@ -379,11 +352,9 @@
 2522	New Mexico	US	04/14/2021			4110	0		Unassigned
 2522	New Mexico	US	04/15/2021			4110	0		Unassigned
 2522	New Mexico	US	04/16/2021			4110	0		Unassigned
-2522	New Mexico	US	04/17/2021			4110	0		Unassigned
 2522	New Mexico	US	04/18/2021			4110	0		Unassigned
 2522	New Mexico	US	04/19/2021			4110	0		Unassigned
 2522	New Mexico	US	04/20/2021			4111	0		Unassigned
-2522	New Mexico	US	04/21/2021			4111	0		Unassigned
 2522	New Mexico	US	04/22/2021			4112	0		Unassigned
 2522	New Mexico	US	04/23/2021			4113	0		Unassigned
 2522	New Mexico	US	04/24/2021			4113	0		Unassigned
@@ -541,11 +512,10 @@
 2544	New Mexico	US	09/23/2021			4829	0		Unassigned
 2544	New Mexico	US	09/24/2021			4832	0		Unassigned
 2544	New Mexico	US	09/25/2021			4832	0		Unassigned
-2544	New Mexico	US	09/26/2021			4832	0		Unassigned
 2544	New Mexico	US	09/27/2021			4858	0		Unassigned
 2544	New Mexico	US	09/28/2021			4859	0		Unassigned
 2544	New Mexico	US	09/29/2021			4859	0		Unassigned
-2544	New Mexico	US	09/30/2021			4859	0		Unassigned
 2544	New Mexico	US	10/01/2021			4872	0		Unassigned
 2544	New Mexico	US	10/02/2021			4872	0		Unassigned
 2544	New Mexico	US	10/03/2021			4872	0		Unassigned
+2544	New Mexico	US	10/04/2021			4889	0		Unassigned

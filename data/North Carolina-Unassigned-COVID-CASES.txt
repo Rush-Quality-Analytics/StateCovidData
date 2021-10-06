@@ -142,13 +142,11 @@
 2652	North Carolina	US	09/03/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/04/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/05/2020			0	0	0	Unassigned
-2652	North Carolina	US	09/06/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/07/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/08/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/09/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/10/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/11/2020			0	0	0	Unassigned
-2652	North Carolina	US	09/12/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/13/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/14/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/15/2020			0	0	0	Unassigned
@@ -156,7 +154,6 @@
 2652	North Carolina	US	09/17/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/18/2020			0	0	0	Unassigned
 2652	North Carolina	US	09/19/2020			0	0	0	Unassigned
-2652	North Carolina	US	09/20/2020			0	0	0	Unassigned
 2654	North Carolina	US	09/21/2020			0	0	0	Unassigned
 2654	North Carolina	US	09/22/2020			0	0	0	Unassigned
 2654	North Carolina	US	09/23/2020			0	0	0	Unassigned
@@ -196,7 +193,6 @@
 2657	North Carolina	US	10/27/2020			0	0	0	Unassigned
 2658	North Carolina	US	10/28/2020			0	0.0	0	Unassigned
 2658	North Carolina	US	10/29/2020			1	0	0	Unassigned
-2658	North Carolina	US	10/30/2020			1	0	0	Unassigned
 2658	North Carolina	US	10/31/2020			2	0	0	Unassigned
 2658	North Carolina	US	11/01/2020			2	0	0	Unassigned
 2658	North Carolina	US	11/02/2020			4	0	0	Unassigned
@@ -212,10 +208,8 @@
 2671	North Carolina	US	11/12/2020			0	0	0	Unassigned
 2671	North Carolina	US	11/13/2020			1	0	0	Unassigned
 2671	North Carolina	US	11/14/2020			2	0	0	Unassigned
-2671	North Carolina	US	11/15/2020			1	0	0	Unassigned
 2671	North Carolina	US	11/16/2020			1	0	0	Unassigned
 2671	North Carolina	US	11/17/2020			5	0	0	Unassigned
-2671	North Carolina	US	11/18/2020			6	0	0	Unassigned
 2671	North Carolina	US	11/19/2020			490	0	0	Unassigned
 2671	North Carolina	US	11/20/2020			106	0	0	Unassigned
 2671	North Carolina	US	11/21/2020			388	0	0	Unassigned
@@ -223,7 +217,6 @@
 2671	North Carolina	US	11/23/2020			4	0	0	Unassigned
 2672	North Carolina	US	11/24/2020			7	0	0	Unassigned
 2672	North Carolina	US	11/25/2020			0	0	0	Unassigned
-2672	North Carolina	US	11/26/2020			0	0	0	Unassigned
 2672	North Carolina	US	11/27/2020			2	0	0	Unassigned
 2672	North Carolina	US	11/28/2020			4	0	0	Unassigned
 2672	North Carolina	US	11/29/2020			2	0	0	Unassigned
@@ -245,34 +238,25 @@
 2672	North Carolina	US	12/15/2020			2	0	0	Unassigned
 2672	North Carolina	US	12/16/2020			6	0	0	Unassigned
 2672	North Carolina	US	12/17/2020			939	0	0	Unassigned
-2672	North Carolina	US	12/18/2020			410	0	0	Unassigned
 2672	North Carolina	US	12/19/2020			1	0	0	Unassigned
 2672	North Carolina	US	12/20/2020			0	0	0	Unassigned
-2672	North Carolina	US	12/21/2020			1	0	0	Unassigned
-2672	North Carolina	US	12/22/2020			0	0	0	Unassigned
-2672	North Carolina	US	12/23/2020			0	0	0	Unassigned
 2672	North Carolina	US	12/24/2020			0	0	0	Unassigned
-2672	North Carolina	US	12/25/2020			0	0	0	Unassigned
 2672	North Carolina	US	12/26/2020			3	0	0	Unassigned
 2672	North Carolina	US	12/27/2020			205	0	0	Unassigned
 2672	North Carolina	US	12/28/2020			2	0	0	Unassigned
 2672	North Carolina	US	12/29/2020			1	0	0	Unassigned
-2672	North Carolina	US	12/30/2020			38	0	0	Unassigned
 2672	North Carolina	US	12/31/2020			82	0	0	Unassigned
 2672	North Carolina	US	01/01/2021			82	0	0	Unassigned
 2672	North Carolina	US	01/02/2021			34	0	0	Unassigned
 2673	North Carolina	US	01/03/2021			307	0	0	Unassigned
 2673	North Carolina	US	01/04/2021			10	0	0	Unassigned
 2673	North Carolina	US	01/05/2021			3	0	0	Unassigned
-2673	North Carolina	US	01/06/2021			1	0	0	Unassigned
 2673	North Carolina	US	01/07/2021			446	0	0	Unassigned
-2673	North Carolina	US	01/08/2021			121	0	0	Unassigned
 2673	North Carolina	US	01/09/2021			519	0	0	Unassigned
 2673	North Carolina	US	01/10/2021			23	0	0	Unassigned
 2673	North Carolina	US	01/11/2021			0	0	0	Unassigned
 2673	North Carolina	US	01/12/2021			0	0	0	Unassigned
 2673	North Carolina	US	01/13/2021			4	0	0	Unassigned
-2673	North Carolina	US	01/14/2021			674	0	0	Unassigned
 2674	North Carolina	US	01/15/2021			305	0	0	Unassigned
 2674	North Carolina	US	01/16/2021			149	0	0	Unassigned
 2674	North Carolina	US	01/17/2021			1	0	0	Unassigned
@@ -282,22 +266,18 @@
 2675	North Carolina	US	01/21/2021			1154	0	0	Unassigned
 2675	North Carolina	US	01/22/2021			377	0	0	Unassigned
 2675	North Carolina	US	01/23/2021			24	0	0	Unassigned
-2675	North Carolina	US	01/24/2021			93	0	0	Unassigned
 2675	North Carolina	US	01/25/2021			15	0	0	Unassigned
 2675	North Carolina	US	01/26/2021			0	0	0	Unassigned
 2675	North Carolina	US	01/27/2021			13	0	0	Unassigned
 2675	North Carolina	US	01/28/2021			35	0	0	Unassigned
 2675	North Carolina	US	01/29/2021			891	0	0	Unassigned
-2675	North Carolina	US	01/30/2021			7059	130	0	Unassigned
 2675	North Carolina	US	01/31/2021			0	0	0	Unassigned
 2675	North Carolina	US	02/01/2021			1	0	0	Unassigned
 2675	North Carolina	US	02/02/2021			11	0	0	Unassigned
 2675	North Carolina	US	02/03/2021			0	0	0	Unassigned
-2675	North Carolina	US	02/04/2021			60	0	0	Unassigned
 2675	North Carolina	US	02/05/2021			688	0	0	Unassigned
 2675	North Carolina	US	02/06/2021			82	0	0	Unassigned
 2675	North Carolina	US	02/07/2021			30	0	0	Unassigned
-2675	North Carolina	US	02/08/2021			104	0	0	Unassigned
 2675	North Carolina	US	02/09/2021			7	0	0	Unassigned
 2675	North Carolina	US	02/10/2021			9	0	0	Unassigned
 2675	North Carolina	US	02/11/2021			38	0	0	Unassigned
@@ -313,23 +293,17 @@
 2676	North Carolina	US	02/21/2021			0	0	0	Unassigned
 2676	North Carolina	US	02/22/2021			10	0	0	Unassigned
 2676	North Carolina	US	02/23/2021			3	0	0	Unassigned
-2676	North Carolina	US	02/24/2021			0	0	0	Unassigned
-2676	North Carolina	US	02/25/2021			3	0	0	Unassigned
 2676	North Carolina	US	02/26/2021			1	0	0	Unassigned
-2676	North Carolina	US	02/27/2021			1	0	0	Unassigned
 2676	North Carolina	US	02/28/2021			1	0	0	Unassigned
 2676	North Carolina	US	03/01/2021			7	0	0	Unassigned
 2676	North Carolina	US	03/02/2021			0	0	0	Unassigned
 2676	North Carolina	US	03/03/2021			0	0	0	Unassigned
 2676	North Carolina	US	03/04/2021			44	0	0	Unassigned
 2676	North Carolina	US	03/05/2021			1	0	0	Unassigned
-2676	North Carolina	US	03/06/2021			0	0	0	Unassigned
-2676	North Carolina	US	03/07/2021			0	0		Unassigned
 2676	North Carolina	US	03/08/2021			5	0		Unassigned
 2676	North Carolina	US	03/09/2021			2	0		Unassigned
 2676	North Carolina	US	03/10/2021			0	0		Unassigned
 2676	North Carolina	US	03/11/2021			0	0		Unassigned
-2676	North Carolina	US	03/12/2021			0	0		Unassigned
 2676	North Carolina	US	03/13/2021			1	0		Unassigned
 2676	North Carolina	US	03/14/2021			1	0		Unassigned
 2676	North Carolina	US	03/15/2021			0	0		Unassigned
@@ -341,7 +315,6 @@
 2676	North Carolina	US	03/21/2021			1	0		Unassigned
 2676	North Carolina	US	03/22/2021			1	0		Unassigned
 2676	North Carolina	US	03/23/2021			5	0		Unassigned
-2676	North Carolina	US	03/24/2021			111	0		Unassigned
 2676	North Carolina	US	03/25/2021			0	0		Unassigned
 2676	North Carolina	US	03/26/2021			19	0		Unassigned
 2676	North Carolina	US	03/27/2021			19	0		Unassigned
@@ -365,11 +338,9 @@
 2678	North Carolina	US	04/14/2021			0	0		Unassigned
 2678	North Carolina	US	04/15/2021			4	0		Unassigned
 2678	North Carolina	US	04/16/2021			0	0		Unassigned
-2678	North Carolina	US	04/17/2021			0	0		Unassigned
 2678	North Carolina	US	04/18/2021			0	0		Unassigned
 2678	North Carolina	US	04/19/2021			1	0		Unassigned
 2678	North Carolina	US	04/20/2021			0	0		Unassigned
-2678	North Carolina	US	04/21/2021			0	0		Unassigned
 2678	North Carolina	US	04/22/2021			2	0		Unassigned
 2678	North Carolina	US	04/23/2021			1	0		Unassigned
 2678	North Carolina	US	04/24/2021			1	0		Unassigned
@@ -527,11 +498,10 @@
 2700	North Carolina	US	09/23/2021			21	0		Unassigned
 2700	North Carolina	US	09/24/2021			55	0		Unassigned
 2700	North Carolina	US	09/25/2021			55	0		Unassigned
-2700	North Carolina	US	09/26/2021			55	0		Unassigned
 2700	North Carolina	US	09/27/2021			1	0		Unassigned
 2700	North Carolina	US	09/28/2021			149	0		Unassigned
 2700	North Carolina	US	09/29/2021			0	0		Unassigned
-2700	North Carolina	US	09/30/2021			72	0		Unassigned
 2700	North Carolina	US	10/01/2021			678	0		Unassigned
 2700	North Carolina	US	10/02/2021			678	0		Unassigned
 2700	North Carolina	US	10/03/2021			678	0		Unassigned
+2700	North Carolina	US	10/04/2021			0	0		Unassigned

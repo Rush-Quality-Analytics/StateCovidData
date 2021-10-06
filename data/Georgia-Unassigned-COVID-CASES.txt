@@ -167,13 +167,11 @@
 1172	Georgia	US	09/03/2020			2419	3	0	Unassigned
 1172	Georgia	US	09/04/2020			2505	3	0	Unassigned
 1172	Georgia	US	09/05/2020			2468	3	0	Unassigned
-1172	Georgia	US	09/06/2020			2538	4	0	Unassigned
 1172	Georgia	US	09/07/2020			2492	4	0	Unassigned
 1172	Georgia	US	09/08/2020			2386	3	0	Unassigned
 1172	Georgia	US	09/09/2020			2409	3	0	Unassigned
 1172	Georgia	US	09/10/2020			2440	3	0	Unassigned
 1172	Georgia	US	09/11/2020			2426	3	0	Unassigned
-1172	Georgia	US	09/12/2020			2467	3	0	Unassigned
 1172	Georgia	US	09/13/2020			2459	3	0	Unassigned
 1172	Georgia	US	09/14/2020			2414	3	0	Unassigned
 1172	Georgia	US	09/15/2020			2415	3	0	Unassigned
@@ -181,7 +179,6 @@
 1172	Georgia	US	09/17/2020			2456	4	0	Unassigned
 1172	Georgia	US	09/18/2020			2465	4	0	Unassigned
 1172	Georgia	US	09/19/2020			2399	5	0	Unassigned
-1172	Georgia	US	09/20/2020			2386	5	0	Unassigned
 1173	Georgia	US	09/21/2020			2386	5	0	Unassigned
 1173	Georgia	US	09/22/2020			2342	5	0	Unassigned
 1173	Georgia	US	09/23/2020			2263	6	0	Unassigned
@@ -221,7 +218,6 @@
 1176	Georgia	US	10/27/2020			1873	5	0	Unassigned
 1177	Georgia	US	10/28/2020			1888	6.0	0	Unassigned
 1177	Georgia	US	10/29/2020			1887	7	0	Unassigned
-1177	Georgia	US	10/30/2020			1827	6	0	Unassigned
 1177	Georgia	US	10/31/2020			1871	6	0	Unassigned
 1177	Georgia	US	11/01/2020			1901	6	0	Unassigned
 1177	Georgia	US	11/02/2020			1920	6	0	Unassigned
@@ -237,10 +233,8 @@
 1190	Georgia	US	11/12/2020			2349	6	0	Unassigned
 1190	Georgia	US	11/13/2020			2381	6	0	Unassigned
 1190	Georgia	US	11/14/2020			2444	6	0	Unassigned
-1190	Georgia	US	11/15/2020			2475	6	0	Unassigned
 1190	Georgia	US	11/16/2020			2526	6	0	Unassigned
 1190	Georgia	US	11/17/2020			2443	6	0	Unassigned
-1190	Georgia	US	11/18/2020			2497	3	0	Unassigned
 1190	Georgia	US	11/19/2020			2458	2	0	Unassigned
 1190	Georgia	US	11/20/2020			2445	2	0	Unassigned
 1190	Georgia	US	11/21/2020			2441	2	0	Unassigned
@@ -248,7 +242,6 @@
 1190	Georgia	US	11/23/2020			2498	3	0	Unassigned
 1191	Georgia	US	11/24/2020			2573	2	0	Unassigned
 1191	Georgia	US	11/25/2020			2466	2	0	Unassigned
-1191	Georgia	US	11/26/2020			2479	2	0	Unassigned
 1191	Georgia	US	11/27/2020			2516	2	0	Unassigned
 1191	Georgia	US	11/28/2020			2497	1	0	Unassigned
 1191	Georgia	US	11/29/2020			2536	1	0	Unassigned
@@ -270,34 +263,25 @@
 1191	Georgia	US	12/15/2020			3081	3	0	Unassigned
 1191	Georgia	US	12/16/2020			3173	3	0	Unassigned
 1191	Georgia	US	12/17/2020			3195	3	0	Unassigned
-1191	Georgia	US	12/18/2020			3259	3	0	Unassigned
 1191	Georgia	US	12/19/2020			3272	3	0	Unassigned
 1191	Georgia	US	12/20/2020			3367	3	0	Unassigned
-1191	Georgia	US	12/21/2020			3394	3	0	Unassigned
-1191	Georgia	US	12/22/2020			3418	3	0	Unassigned
-1191	Georgia	US	12/23/2020			3467	4	0	Unassigned
 1191	Georgia	US	12/24/2020			3342	3	0	Unassigned
-1191	Georgia	US	12/25/2020			3431	3	0	Unassigned
 1191	Georgia	US	12/26/2020			3495	3	0	Unassigned
 1191	Georgia	US	12/27/2020			3532	3	0	Unassigned
 1191	Georgia	US	12/28/2020			3496	3	0	Unassigned
 1191	Georgia	US	12/29/2020			3433	3	0	Unassigned
-1191	Georgia	US	12/30/2020			3491	6	0	Unassigned
 1191	Georgia	US	12/31/2020			3612	6	0	Unassigned
 1191	Georgia	US	01/01/2021			3676	6	0	Unassigned
 1191	Georgia	US	01/02/2021			3775	6	0	Unassigned
 1192	Georgia	US	01/03/2021			3844	6	0	Unassigned
 1192	Georgia	US	01/04/2021			3775	6	0	Unassigned
 1192	Georgia	US	01/05/2021			3728	6	0	Unassigned
-1192	Georgia	US	01/06/2021			3978	6	0	Unassigned
 1192	Georgia	US	01/07/2021			3983	6	0	Unassigned
-1192	Georgia	US	01/08/2021			4090	7	0	Unassigned
 1192	Georgia	US	01/09/2021			4254	9	0	Unassigned
 1192	Georgia	US	01/10/2021			4362	9	0	Unassigned
 1192	Georgia	US	01/11/2021			4362	8	0	Unassigned
 1192	Georgia	US	01/12/2021			4040	9	0	Unassigned
 1192	Georgia	US	01/13/2021			4089	9	0	Unassigned
-1192	Georgia	US	01/14/2021			4008	11	0	Unassigned
 1192	Georgia	US	01/15/2021			4048	12	0	Unassigned
 1192	Georgia	US	01/16/2021			4109	13	0	Unassigned
 1192	Georgia	US	01/17/2021			4219	14	0	Unassigned
@@ -307,22 +291,18 @@
 1193	Georgia	US	01/21/2021			4080	14	0	Unassigned
 1193	Georgia	US	01/22/2021			4094	14	0	Unassigned
 1193	Georgia	US	01/23/2021			4145	14	0	Unassigned
-1193	Georgia	US	01/24/2021			4116	14	0	Unassigned
 1193	Georgia	US	01/25/2021			4102	14	0	Unassigned
 1193	Georgia	US	01/26/2021			4172	15	0	Unassigned
 1193	Georgia	US	01/27/2021			4185	17	0	Unassigned
 1193	Georgia	US	01/28/2021			4248	15	0	Unassigned
 1193	Georgia	US	01/29/2021			4155	14	0	Unassigned
-1193	Georgia	US	01/30/2021			4125	10	0	Unassigned
 1193	Georgia	US	01/31/2021			4207	10	0	Unassigned
 1193	Georgia	US	02/01/2021			4250	10	0	Unassigned
 1193	Georgia	US	02/02/2021			4024	10	0	Unassigned
 1193	Georgia	US	02/03/2021			4005	9	0	Unassigned
-1193	Georgia	US	02/04/2021			3927	9	0	Unassigned
 1193	Georgia	US	02/05/2021			3932	10	0	Unassigned
 1193	Georgia	US	02/06/2021			3960	9	0	Unassigned
 1193	Georgia	US	02/07/2021			3986	9	0	Unassigned
-1193	Georgia	US	02/08/2021			4007	9	0	Unassigned
 1193	Georgia	US	02/09/2021			3945	15	0	Unassigned
 1193	Georgia	US	02/10/2021			3997	16	0	Unassigned
 1193	Georgia	US	02/11/2021			3970	10	0	Unassigned
@@ -338,23 +318,17 @@
 1194	Georgia	US	02/21/2021			3941	10	0	Unassigned
 1194	Georgia	US	02/22/2021			3928	10	0	Unassigned
 1194	Georgia	US	02/23/2021			3937	11	0	Unassigned
-1194	Georgia	US	02/24/2021			3750	11	0	Unassigned
-1194	Georgia	US	02/25/2021			3660	12	0	Unassigned
 1194	Georgia	US	02/26/2021			3594	12	0	Unassigned
-1194	Georgia	US	02/27/2021			3599	12	0	Unassigned
 1194	Georgia	US	02/28/2021			3602	12	0	Unassigned
 1194	Georgia	US	03/01/2021			3586	12	0	Unassigned
 1194	Georgia	US	03/02/2021			3562	12	0	Unassigned
 1194	Georgia	US	03/03/2021			3534	11	0	Unassigned
 1194	Georgia	US	03/04/2021			3520	11	0	Unassigned
 1194	Georgia	US	03/05/2021			3521	11	0	Unassigned
-1194	Georgia	US	03/06/2021			3505	11	0	Unassigned
-1194	Georgia	US	03/07/2021			3512	11		Unassigned
 1194	Georgia	US	03/08/2021			3511	11		Unassigned
 1194	Georgia	US	03/09/2021			3465	11		Unassigned
 1194	Georgia	US	03/10/2021			3470	10		Unassigned
 1194	Georgia	US	03/11/2021			3463	10		Unassigned
-1194	Georgia	US	03/12/2021			3500	10		Unassigned
 1194	Georgia	US	03/13/2021			3485	11		Unassigned
 1194	Georgia	US	03/14/2021			3485	11		Unassigned
 1194	Georgia	US	03/15/2021			3474	11		Unassigned
@@ -366,7 +340,6 @@
 1194	Georgia	US	03/21/2021			3377	11		Unassigned
 1194	Georgia	US	03/22/2021			3363	11		Unassigned
 1194	Georgia	US	03/23/2021			3369	11		Unassigned
-1194	Georgia	US	03/24/2021			3336	11		Unassigned
 1194	Georgia	US	03/25/2021			3329	13		Unassigned
 1194	Georgia	US	03/26/2021			3320	12		Unassigned
 1194	Georgia	US	03/27/2021			3304	13		Unassigned
@@ -390,11 +363,9 @@
 1196	Georgia	US	04/14/2021			3182	12		Unassigned
 1196	Georgia	US	04/15/2021			3161	13		Unassigned
 1196	Georgia	US	04/16/2021			3167	13		Unassigned
-1196	Georgia	US	04/17/2021			3173	13		Unassigned
 1196	Georgia	US	04/18/2021			3181	13		Unassigned
 1196	Georgia	US	04/19/2021			3194	13		Unassigned
 1196	Georgia	US	04/20/2021			3190	12		Unassigned
-1196	Georgia	US	04/21/2021			3172	12		Unassigned
 1196	Georgia	US	04/22/2021			3179	12		Unassigned
 1196	Georgia	US	04/23/2021			3189	12		Unassigned
 1196	Georgia	US	04/24/2021			3198	13		Unassigned
@@ -552,11 +523,10 @@
 1218	Georgia	US	09/23/2021			4640	7		Unassigned
 1218	Georgia	US	09/24/2021			4679	7		Unassigned
 1218	Georgia	US	09/25/2021			4679	7		Unassigned
-1218	Georgia	US	09/26/2021			4679	7		Unassigned
 1218	Georgia	US	09/27/2021			4617	6		Unassigned
 1218	Georgia	US	09/28/2021			4527	6		Unassigned
 1218	Georgia	US	09/29/2021			4578	7		Unassigned
-1218	Georgia	US	09/30/2021			4609	6		Unassigned
 1218	Georgia	US	10/01/2021			4656	6		Unassigned
 1218	Georgia	US	10/02/2021			4656	6		Unassigned
 1218	Georgia	US	10/03/2021			4656	6		Unassigned
+1218	Georgia	US	10/04/2021			4639	6		Unassigned
