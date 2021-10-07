@@ -167,11 +167,13 @@
 813	Arkansas	US	09/03/2020			1029	0	0	Unassigned
 813	Arkansas	US	09/04/2020			1230	0	0	Unassigned
 813	Arkansas	US	09/05/2020			1214	0	0	Unassigned
+813	Arkansas	US	09/06/2020			1227	0	0	Unassigned
 813	Arkansas	US	09/07/2020			1227	0	0	Unassigned
 813	Arkansas	US	09/08/2020			1209	0	0	Unassigned
 813	Arkansas	US	09/09/2020			1157	0	0	Unassigned
 813	Arkansas	US	09/10/2020			1117	0	0	Unassigned
 813	Arkansas	US	09/11/2020			1287	0	0	Unassigned
+813	Arkansas	US	09/12/2020			1544	0	0	Unassigned
 813	Arkansas	US	09/13/2020			1641	0	0	Unassigned
 813	Arkansas	US	09/14/2020			1628	0	0	Unassigned
 813	Arkansas	US	09/15/2020			1595	0	0	Unassigned
@@ -179,6 +181,7 @@
 813	Arkansas	US	09/17/2020			1535	0	0	Unassigned
 813	Arkansas	US	09/18/2020			1621	0	0	Unassigned
 813	Arkansas	US	09/19/2020			1649	0	0	Unassigned
+813	Arkansas	US	09/20/2020			1691	0	0	Unassigned
 814	Arkansas	US	09/21/2020			1686	0	0	Unassigned
 814	Arkansas	US	09/22/2020			1592	0	0	Unassigned
 814	Arkansas	US	09/23/2020			1624	0	0	Unassigned
@@ -218,6 +221,7 @@
 817	Arkansas	US	10/27/2020			2098	0	0	Unassigned
 818	Arkansas	US	10/28/2020			2095	0.0	0	Unassigned
 818	Arkansas	US	10/29/2020			2085	0	0	Unassigned
+818	Arkansas	US	10/30/2020			2115	0	0	Unassigned
 818	Arkansas	US	10/31/2020			2111	0	0	Unassigned
 818	Arkansas	US	11/01/2020			1640	0	0	Unassigned
 818	Arkansas	US	11/02/2020			1675	0	0	Unassigned
@@ -233,8 +237,10 @@
 831	Arkansas	US	11/12/2020			2013	0	0	Unassigned
 831	Arkansas	US	11/13/2020			2138	0	0	Unassigned
 831	Arkansas	US	11/14/2020			2106	0	0	Unassigned
+831	Arkansas	US	11/15/2020			2166	0	0	Unassigned
 831	Arkansas	US	11/16/2020			2179	0	0	Unassigned
 831	Arkansas	US	11/17/2020			2208	0	0	Unassigned
+831	Arkansas	US	11/18/2020			2379	0	0	Unassigned
 831	Arkansas	US	11/19/2020			2383	0	0	Unassigned
 831	Arkansas	US	11/20/2020			2404	0	0	Unassigned
 831	Arkansas	US	11/21/2020			2603	0	0	Unassigned
@@ -242,6 +248,7 @@
 831	Arkansas	US	11/23/2020			2358	0	0	Unassigned
 832	Arkansas	US	11/24/2020			2433	0	0	Unassigned
 832	Arkansas	US	11/25/2020			2401	0	0	Unassigned
+832	Arkansas	US	11/26/2020			2566	0	0	Unassigned
 832	Arkansas	US	11/27/2020			2694	0	0	Unassigned
 832	Arkansas	US	11/28/2020			2799	0	0	Unassigned
 832	Arkansas	US	11/29/2020			2834	0	0	Unassigned
@@ -263,25 +270,34 @@
 832	Arkansas	US	12/15/2020			3081	0	0	Unassigned
 832	Arkansas	US	12/16/2020			2822	0	0	Unassigned
 832	Arkansas	US	12/17/2020			2786	0	0	Unassigned
+832	Arkansas	US	12/18/2020			2814	0	0	Unassigned
 832	Arkansas	US	12/19/2020			2825	0	0	Unassigned
 832	Arkansas	US	12/20/2020			2852	0	0	Unassigned
+832	Arkansas	US	12/21/2020			2805	0	0	Unassigned
+832	Arkansas	US	12/22/2020			2772	0	0	Unassigned
+832	Arkansas	US	12/23/2020			2841	0	0	Unassigned
 832	Arkansas	US	12/24/2020			2731	0	0	Unassigned
+832	Arkansas	US	12/25/2020			2765	0	0	Unassigned
 832	Arkansas	US	12/26/2020			2720	0	0	Unassigned
 832	Arkansas	US	12/27/2020			2711	0	0	Unassigned
 832	Arkansas	US	12/28/2020			2732	0	0	Unassigned
 832	Arkansas	US	12/29/2020			2712	0	0	Unassigned
+832	Arkansas	US	12/30/2020			2716	0	0	Unassigned
 832	Arkansas	US	12/31/2020			2819	0	0	Unassigned
 832	Arkansas	US	01/01/2021			2828	0	0	Unassigned
 832	Arkansas	US	01/02/2021			2633	0	0	Unassigned
 833	Arkansas	US	01/03/2021			2649	0	0	Unassigned
 833	Arkansas	US	01/04/2021			2761	0	0	Unassigned
 833	Arkansas	US	01/05/2021			2779	0	0	Unassigned
+833	Arkansas	US	01/06/2021			2688	0	0	Unassigned
 833	Arkansas	US	01/07/2021			2763	0	0	Unassigned
+833	Arkansas	US	01/08/2021			2743	0	0	Unassigned
 833	Arkansas	US	01/09/2021			2765	0	0	Unassigned
 833	Arkansas	US	01/10/2021			2766	0	0	Unassigned
 833	Arkansas	US	01/11/2021			2829	0	0	Unassigned
 833	Arkansas	US	01/12/2021			2705	0	0	Unassigned
 833	Arkansas	US	01/13/2021			2681	0	0	Unassigned
+833	Arkansas	US	01/14/2021			2806	0	0	Unassigned
 833	Arkansas	US	01/15/2021			2846	0	0	Unassigned
 833	Arkansas	US	01/16/2021			2824	0	0	Unassigned
 833	Arkansas	US	01/17/2021			2792	0	0	Unassigned
@@ -291,18 +307,22 @@
 834	Arkansas	US	01/21/2021			3088	0	0	Unassigned
 834	Arkansas	US	01/22/2021			3187	0	0	Unassigned
 834	Arkansas	US	01/23/2021			2947	0	0	Unassigned
+834	Arkansas	US	01/24/2021			2917	0	0	Unassigned
 834	Arkansas	US	01/25/2021			2906	0	0	Unassigned
 834	Arkansas	US	01/26/2021			2856	0	0	Unassigned
 834	Arkansas	US	01/27/2021			2823	0	0	Unassigned
 834	Arkansas	US	01/28/2021			2847	0	0	Unassigned
 834	Arkansas	US	01/29/2021			2858	0	0	Unassigned
+834	Arkansas	US	01/30/2021			2885	0	0	Unassigned
 834	Arkansas	US	01/31/2021			2907	0	0	Unassigned
 834	Arkansas	US	02/01/2021			2913	0	0	Unassigned
 834	Arkansas	US	02/02/2021			2845	0	0	Unassigned
 834	Arkansas	US	02/03/2021			2853	0	0	Unassigned
+834	Arkansas	US	02/04/2021			2892	0	0	Unassigned
 834	Arkansas	US	02/05/2021			2925	0	0	Unassigned
 834	Arkansas	US	02/06/2021			2938	0	0	Unassigned
 834	Arkansas	US	02/07/2021			2903	0	0	Unassigned
+834	Arkansas	US	02/08/2021			2883	0	0	Unassigned
 834	Arkansas	US	02/09/2021			2910	0	0	Unassigned
 834	Arkansas	US	02/10/2021			2920	0	0	Unassigned
 834	Arkansas	US	02/11/2021			2914	0	0	Unassigned
@@ -318,17 +338,23 @@
 835	Arkansas	US	02/21/2021			2807	0	0	Unassigned
 835	Arkansas	US	02/22/2021			2777	0	0	Unassigned
 835	Arkansas	US	02/23/2021			2723	0	0	Unassigned
+835	Arkansas	US	02/24/2021			2750	0	0	Unassigned
+835	Arkansas	US	02/25/2021			2744	0	0	Unassigned
 835	Arkansas	US	02/26/2021			2740	0	0	Unassigned
+835	Arkansas	US	02/27/2021			2761	0	0	Unassigned
 835	Arkansas	US	02/28/2021			3416	0	0	Unassigned
 835	Arkansas	US	03/01/2021			3290	0	0	Unassigned
 835	Arkansas	US	03/02/2021			3296	0	0	Unassigned
 835	Arkansas	US	03/03/2021			3310	0	0	Unassigned
 835	Arkansas	US	03/04/2021			3300	0	0	Unassigned
 835	Arkansas	US	03/05/2021			3303	0	0	Unassigned
+835	Arkansas	US	03/06/2021			3285	0	0	Unassigned
+835	Arkansas	US	03/07/2021			3284	0		Unassigned
 835	Arkansas	US	03/08/2021			3273	0		Unassigned
 835	Arkansas	US	03/09/2021			3259	0		Unassigned
 835	Arkansas	US	03/10/2021			3226	0		Unassigned
 835	Arkansas	US	03/11/2021			3229	0		Unassigned
+835	Arkansas	US	03/12/2021			3225	0		Unassigned
 835	Arkansas	US	03/13/2021			3203	0		Unassigned
 835	Arkansas	US	03/14/2021			3192	0		Unassigned
 835	Arkansas	US	03/15/2021			3190	0		Unassigned
@@ -340,6 +366,7 @@
 835	Arkansas	US	03/21/2021			3197	0		Unassigned
 835	Arkansas	US	03/22/2021			3194	0		Unassigned
 835	Arkansas	US	03/23/2021			3190	0		Unassigned
+835	Arkansas	US	03/24/2021			2937	0		Unassigned
 835	Arkansas	US	03/25/2021			2949	0		Unassigned
 835	Arkansas	US	03/26/2021			2956	0		Unassigned
 835	Arkansas	US	03/27/2021			2953	0		Unassigned
@@ -363,9 +390,11 @@
 837	Arkansas	US	04/14/2021			2806	0		Unassigned
 837	Arkansas	US	04/15/2021			2815	0		Unassigned
 837	Arkansas	US	04/16/2021			2819	0		Unassigned
+837	Arkansas	US	04/17/2021			2824	0		Unassigned
 837	Arkansas	US	04/18/2021			2817	0		Unassigned
 837	Arkansas	US	04/19/2021			2810	0		Unassigned
 837	Arkansas	US	04/20/2021			2811	0		Unassigned
+837	Arkansas	US	04/21/2021			2810	0		Unassigned
 837	Arkansas	US	04/22/2021			2812	0		Unassigned
 837	Arkansas	US	04/23/2021			2816	0		Unassigned
 837	Arkansas	US	04/24/2021			2830	0		Unassigned
@@ -523,10 +552,14 @@
 858	Arkansas	US	09/23/2021			5430	0		Unassigned
 858	Arkansas	US	09/24/2021			5514	0		Unassigned
 858	Arkansas	US	09/25/2021			5622	0		Unassigned
+858	Arkansas	US	09/26/2021			5620	0		Unassigned
 858	Arkansas	US	09/27/2021			5647	0		Unassigned
 858	Arkansas	US	09/28/2021			5640	0		Unassigned
 858	Arkansas	US	09/29/2021			5537	0		Unassigned
+858	Arkansas	US	09/30/2021			5506	0		Unassigned
 858	Arkansas	US	10/01/2021			6363	27		Unassigned
 858	Arkansas	US	10/02/2021			5116	0		Unassigned
 858	Arkansas	US	10/03/2021			5123	0		Unassigned
 858	Arkansas	US	10/04/2021			5119	0		Unassigned
+858	Arkansas	US	10/05/2021			5097	0		Unassigned
+859	Arkansas	US	10/06/2021			5111	0		Unassigned

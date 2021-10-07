@@ -167,11 +167,13 @@
 1878	Massachusetts	US	09/03/2020	41.40674725	-70.68763497	99	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/04/2020	41.40674725	-70.68763497	98	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/05/2020	41.40674725	-70.68763497	99	1	0	Dukes and Nantucket
+1878	Massachusetts	US	09/06/2020	41.40674725	-70.68763497	99	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/07/2020	41.40674725	-70.68763497	101	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/08/2020	41.40674725	-70.68763497	103	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/09/2020	41.40674725	-70.68763497	104	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/10/2020	41.40674725	-70.68763497	111	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/11/2020	41.40674725	-70.68763497	117	1	0	Dukes and Nantucket
+1878	Massachusetts	US	09/12/2020	41.40674725	-70.68763497	122	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/13/2020	41.40674725	-70.68763497	129	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/14/2020	41.40674725	-70.68763497	132	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/15/2020	41.40674725	-70.68763497	134	1	0	Dukes and Nantucket
@@ -179,6 +181,7 @@
 1878	Massachusetts	US	09/17/2020	41.40674725	-70.68763497	142	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/18/2020	41.40674725	-70.68763497	146	1	0	Dukes and Nantucket
 1878	Massachusetts	US	09/19/2020	41.40674725	-70.68763497	150	1	0	Dukes and Nantucket
+1878	Massachusetts	US	09/20/2020	41.40674725	-70.68763497	150	1	0	Dukes and Nantucket
 1879	Massachusetts	US	09/21/2020	41.40674725	-70.68763497	150	1	0	Dukes and Nantucket
 1879	Massachusetts	US	09/22/2020	41.40674725	-70.68763497	150	1	0	Dukes and Nantucket
 1879	Massachusetts	US	09/23/2020	41.40674725	-70.68763497	151	1	0	Dukes and Nantucket
@@ -218,6 +221,7 @@
 1882	Massachusetts	US	10/27/2020	41.40674725	-70.68763497	230	2	0	Dukes and Nantucket
 1883	Massachusetts	US	10/28/2020	41.40674725	-70.68763497	241	2.0	0	Dukes and Nantucket
 1883	Massachusetts	US	10/29/2020	41.40674725	-70.68763497	244	2	0	Dukes and Nantucket
+1883	Massachusetts	US	10/30/2020	41.40674725	-70.68763497	253	2	0	Dukes and Nantucket
 1883	Massachusetts	US	10/31/2020	41.40674725	-70.68763497	258	2	0	Dukes and Nantucket
 1883	Massachusetts	US	11/01/2020	41.40674725	-70.68763497	262	2	0	Dukes and Nantucket
 1883	Massachusetts	US	11/02/2020	41.40674725	-70.68763497	262	2	0	Dukes and Nantucket
@@ -233,8 +237,10 @@
 1896	Massachusetts	US	11/12/2020	41.40674725	-70.68763497	375	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/13/2020	41.40674725	-70.68763497	389	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/14/2020	41.40674725	-70.68763497	408	2	0	Dukes and Nantucket
+1896	Massachusetts	US	11/15/2020	41.40674725	-70.68763497	426	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/16/2020	41.40674725	-70.68763497	433	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/17/2020	41.40674725	-70.68763497	446	2	0	Dukes and Nantucket
+1896	Massachusetts	US	11/18/2020	41.40674725	-70.68763497	465	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/19/2020	41.40674725	-70.68763497	475	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/20/2020	41.40674725	-70.68763497	486	2	0	Dukes and Nantucket
 1896	Massachusetts	US	11/21/2020	41.40674725	-70.68763497	496	2	0	Dukes and Nantucket
@@ -242,6 +248,7 @@
 1896	Massachusetts	US	11/23/2020	41.40674725	-70.68763497	519	2	0	Dukes and Nantucket
 1897	Massachusetts	US	11/24/2020	41.40674725	-70.68763497	524	2	0	Dukes and Nantucket
 1897	Massachusetts	US	11/25/2020	41.40674725	-70.68763497	528	2	0	Dukes and Nantucket
+1897	Massachusetts	US	11/26/2020	41.40674725	-70.68763497	528	2	0	Dukes and Nantucket
 1897	Massachusetts	US	11/27/2020	41.40674725	-70.68763497	550	2	0	Dukes and Nantucket
 1897	Massachusetts	US	11/28/2020	41.40674725	-70.68763497	561	2	0	Dukes and Nantucket
 1897	Massachusetts	US	11/29/2020	41.40674725	-70.68763497	570	2	0	Dukes and Nantucket
@@ -263,25 +270,34 @@
 1897	Massachusetts	US	12/15/2020	41.40674725	-70.68763497	993	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/16/2020	41.40674725	-70.68763497	1025	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/17/2020	41.40674725	-70.68763497	1050	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/18/2020	41.40674725	-70.68763497	1059	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/19/2020	41.40674725	-70.68763497	1065	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/20/2020	41.40674725	-70.68763497	1085	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/21/2020	41.40674725	-70.68763497	1099	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/22/2020	41.40674725	-70.68763497	1103	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/23/2020	41.40674725	-70.68763497	1118	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/24/2020	41.40674725	-70.68763497	1140	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/25/2020	41.40674725	-70.68763497	1140	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/26/2020	41.40674725	-70.68763497	1157	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/27/2020	41.40674725	-70.68763497	1163	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/28/2020	41.40674725	-70.68763497	1176	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/29/2020	41.40674725	-70.68763497	1180	2	0	Dukes and Nantucket
+1897	Massachusetts	US	12/30/2020	41.40674725	-70.68763497	1201	2	0	Dukes and Nantucket
 1897	Massachusetts	US	12/31/2020	41.40674725	-70.68763497	1231	2	0	Dukes and Nantucket
 1897	Massachusetts	US	01/01/2021	41.40674725	-70.68763497	1231	2	0	Dukes and Nantucket
 1897	Massachusetts	US	01/02/2021	41.40674725	-70.68763497	1273	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/03/2021	41.40674725	-70.68763497	1285	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/04/2021	41.40674725	-70.68763497	1328	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/05/2021	41.40674725	-70.68763497	1335	2	0	Dukes and Nantucket
+1898	Massachusetts	US	01/06/2021	41.40674725	-70.68763497	1379	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/07/2021	41.40674725	-70.68763497	1434	2	0	Dukes and Nantucket
+1898	Massachusetts	US	01/08/2021	41.40674725	-70.68763497	1468	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/09/2021	41.40674725	-70.68763497	1508	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/10/2021	41.40674725	-70.68763497	1539	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/11/2021	41.40674725	-70.68763497	1549	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/12/2021	41.40674725	-70.68763497	1555	2	0	Dukes and Nantucket
 1898	Massachusetts	US	01/13/2021	41.40674725	-70.68763497	1576	2	0	Dukes and Nantucket
+1898	Massachusetts	US	01/14/2021	41.40674725	-70.68763497	1589	2	0	Dukes and Nantucket
 1899	Massachusetts	US	01/15/2021	41.40674725	-70.68763497	1608	2	0	Dukes and Nantucket
 1899	Massachusetts	US	01/16/2021	41.40674725	-70.68763497	1630	2	0	Dukes and Nantucket
 1899	Massachusetts	US	01/17/2021	41.40674725	-70.68763497	1655	2	0	Dukes and Nantucket
@@ -291,18 +307,22 @@
 1900	Massachusetts	US	01/21/2021	41.40674725	-70.68763497	1719	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/22/2021	41.40674725	-70.68763497	1745	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/23/2021	41.40674725	-70.68763497	1762	2	0	Dukes and Nantucket
+1900	Massachusetts	US	01/24/2021	41.40674725	-70.68763497	1772	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/25/2021	41.40674725	-70.68763497	1779	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/26/2021	41.40674725	-70.68763497	1783	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/27/2021	41.40674725	-70.68763497	1805	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/28/2021	41.40674725	-70.68763497	1817	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/29/2021	41.40674725	-70.68763497	1843	2	0	Dukes and Nantucket
+1900	Massachusetts	US	01/30/2021	41.40674725	-70.68763497	1854	2	0	Dukes and Nantucket
 1900	Massachusetts	US	01/31/2021	41.40674725	-70.68763497	1857	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/01/2021	41.40674725	-70.68763497	1863	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/02/2021	41.40674725	-70.68763497	1879	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/03/2021	41.40674725	-70.68763497	1881	2	0	Dukes and Nantucket
+1900	Massachusetts	US	02/04/2021	41.40674725	-70.68763497	1890	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/05/2021	41.40674725	-70.68763497	1898	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/06/2021	41.40674725	-70.68763497	1905	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/07/2021	41.40674725	-70.68763497	1913	2	0	Dukes and Nantucket
+1900	Massachusetts	US	02/08/2021	41.40674725	-70.68763497	1925	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/09/2021	41.40674725	-70.68763497	1928	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/10/2021	41.40674725	-70.68763497	1942	2	0	Dukes and Nantucket
 1900	Massachusetts	US	02/11/2021	41.40674725	-70.68763497	1954	2	0	Dukes and Nantucket
@@ -318,17 +338,23 @@
 1901	Massachusetts	US	02/21/2021	41.40674725	-70.68763497	1999	2	0	Dukes and Nantucket
 1901	Massachusetts	US	02/22/2021	41.40674725	-70.68763497	2002	2	0	Dukes and Nantucket
 1901	Massachusetts	US	02/23/2021	41.40674725	-70.68763497	2001	2	0	Dukes and Nantucket
+1901	Massachusetts	US	02/24/2021	41.40674725	-70.68763497	2010	2	0	Dukes and Nantucket
+1901	Massachusetts	US	02/25/2021	41.40674725	-70.68763497	2011	2	0	Dukes and Nantucket
 1901	Massachusetts	US	02/26/2021	41.40674725	-70.68763497	2014	2	0	Dukes and Nantucket
+1901	Massachusetts	US	02/27/2021	41.40674725	-70.68763497	2020	2	0	Dukes and Nantucket
 1901	Massachusetts	US	02/28/2021	41.40674725	-70.68763497	2023	2	0	Dukes and Nantucket
 1901	Massachusetts	US	03/01/2021	41.40674725	-70.68763497	2024	2	0	Dukes and Nantucket
 1901	Massachusetts	US	03/02/2021	41.40674725	-70.68763497	2024	2	0	Dukes and Nantucket
 1901	Massachusetts	US	03/03/2021	41.40674725	-70.68763497	2039	2	0	Dukes and Nantucket
 1901	Massachusetts	US	03/04/2021	41.40674725	-70.68763497	2041	3	0	Dukes and Nantucket
 1901	Massachusetts	US	03/05/2021	41.40674725	-70.68763497	2049	3	0	Dukes and Nantucket
+1901	Massachusetts	US	03/06/2021	41.40674725	-70.68763497	2053	3	0	Dukes and Nantucket
+1901	Massachusetts	US	03/07/2021	41.40674725	-70.68763497	2057	3		Dukes and Nantucket
 1901	Massachusetts	US	03/08/2021	41.40674725	-70.68763497	2058	3		Dukes and Nantucket
 1901	Massachusetts	US	03/09/2021	41.40674725	-70.68763497	2058	3		Dukes and Nantucket
 1901	Massachusetts	US	03/10/2021	41.40674725	-70.68763497	2066	3		Dukes and Nantucket
 1901	Massachusetts	US	03/11/2021	41.40674725	-70.68763497	2071	3		Dukes and Nantucket
+1901	Massachusetts	US	03/12/2021	41.40674725	-70.68763497	2080	3		Dukes and Nantucket
 1901	Massachusetts	US	03/13/2021	41.40674725	-70.68763497	2091	3		Dukes and Nantucket
 1901	Massachusetts	US	03/14/2021	41.40674725	-70.68763497	2098	3		Dukes and Nantucket
 1901	Massachusetts	US	03/15/2021	41.40674725	-70.68763497	2100	3		Dukes and Nantucket
@@ -340,6 +366,7 @@
 1901	Massachusetts	US	03/21/2021	41.40674725	-70.68763497	2128	4		Dukes and Nantucket
 1901	Massachusetts	US	03/22/2021	41.40674725	-70.68763497	2133	4		Dukes and Nantucket
 1901	Massachusetts	US	03/23/2021	41.40674725	-70.68763497	2137	4		Dukes and Nantucket
+1901	Massachusetts	US	03/24/2021	41.40674725	-70.68763497	2157	4		Dukes and Nantucket
 1901	Massachusetts	US	03/25/2021	41.40674725	-70.68763497	2167	4		Dukes and Nantucket
 1901	Massachusetts	US	03/26/2021	41.40674725	-70.68763497	2187	4		Dukes and Nantucket
 1901	Massachusetts	US	03/27/2021	41.40674725	-70.68763497	2208	4		Dukes and Nantucket
@@ -363,9 +390,11 @@
 1903	Massachusetts	US	04/14/2021	41.40674725	-70.68763497	2531	4		Dukes and Nantucket
 1903	Massachusetts	US	04/15/2021	41.40674725	-70.68763497	2552	4		Dukes and Nantucket
 1903	Massachusetts	US	04/16/2021	41.40674725	-70.68763497	2575	4		Dukes and Nantucket
+1903	Massachusetts	US	04/17/2021	41.40674725	-70.68763497	2591	4		Dukes and Nantucket
 1903	Massachusetts	US	04/18/2021	41.40674725	-70.68763497	2608	4		Dukes and Nantucket
 1903	Massachusetts	US	04/19/2021	41.40674725	-70.68763497	2621	4		Dukes and Nantucket
 1903	Massachusetts	US	04/20/2021	41.40674725	-70.68763497	2625	4		Dukes and Nantucket
+1903	Massachusetts	US	04/21/2021	41.40674725	-70.68763497	2634	4		Dukes and Nantucket
 1903	Massachusetts	US	04/22/2021	41.40674725	-70.68763497	2664	4		Dukes and Nantucket
 1903	Massachusetts	US	04/23/2021	41.40674725	-70.68763497	2685	4		Dukes and Nantucket
 1903	Massachusetts	US	04/24/2021	41.40674725	-70.68763497	2698	5		Dukes and Nantucket
@@ -523,10 +552,14 @@
 1925	Massachusetts	US	09/23/2021	41.40674725	-70.68763497	3671	6		Dukes and Nantucket
 1925	Massachusetts	US	09/24/2021	41.40674725	-70.68763497	3672	7		Dukes and Nantucket
 1925	Massachusetts	US	09/25/2021	41.40674725	-70.68763497	3672	7		Dukes and Nantucket
+1925	Massachusetts	US	09/26/2021	41.40674725	-70.68763497	3672	7		Dukes and Nantucket
 1925	Massachusetts	US	09/27/2021	41.40674725	-70.68763497	3677	7		Dukes and Nantucket
 1925	Massachusetts	US	09/28/2021	41.40674725	-70.68763497	3680	7		Dukes and Nantucket
 1925	Massachusetts	US	09/29/2021	41.40674725	-70.68763497	3683	7		Dukes and Nantucket
+1925	Massachusetts	US	09/30/2021	41.40674725	-70.68763497	3683	7		Dukes and Nantucket
 1925	Massachusetts	US	10/01/2021	41.40674725	-70.68763497	3686	7		Dukes and Nantucket
 1925	Massachusetts	US	10/02/2021	41.40674725	-70.68763497	3686	7		Dukes and Nantucket
 1925	Massachusetts	US	10/03/2021	41.40674725	-70.68763497	3686	7		Dukes and Nantucket
 1925	Massachusetts	US	10/04/2021	41.40674725	-70.68763497	3689	7		Dukes and Nantucket
+1925	Massachusetts	US	10/05/2021	41.40674725	-70.68763497	3691	7		Dukes and Nantucket
+1926	Massachusetts	US	10/06/2021	41.40674725	-70.68763497	3695	7		Dukes and Nantucket

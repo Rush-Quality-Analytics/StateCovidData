@@ -153,11 +153,13 @@
 1195	Hawaii	US	09/03/2020			25	1	0	Out of HI
 1195	Hawaii	US	09/04/2020			25	1	0	Out of HI
 1195	Hawaii	US	09/05/2020			26	1	0	Out of HI
+1195	Hawaii	US	09/06/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/07/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/08/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/09/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/10/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/11/2020			26	1	0	Out of HI
+1195	Hawaii	US	09/12/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/13/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/14/2020			26	1	0	Out of HI
 1195	Hawaii	US	09/15/2020			27	1	0	Out of HI
@@ -165,6 +167,7 @@
 1195	Hawaii	US	09/17/2020			28	1	0	Out of HI
 1195	Hawaii	US	09/18/2020			28	1	0	Out of HI
 1195	Hawaii	US	09/19/2020			28	1	0	Out of HI
+1195	Hawaii	US	09/20/2020			28	1	0	Out of HI
 1196	Hawaii	US	09/21/2020			28	1	0	Out of HI
 1196	Hawaii	US	09/22/2020			28	1	0	Out of HI
 1196	Hawaii	US	09/23/2020			28	1	0	Out of HI
@@ -204,6 +207,7 @@
 1199	Hawaii	US	10/27/2020			58	1	0	Out of HI
 1200	Hawaii	US	10/28/2020			64	1.0	0	Out of HI
 1200	Hawaii	US	10/29/2020			70	1	0	Out of HI
+1200	Hawaii	US	10/30/2020			70	1	0	Out of HI
 1200	Hawaii	US	10/31/2020			76	1	0	Out of HI
 1200	Hawaii	US	11/01/2020			79	1	0	Out of HI
 1200	Hawaii	US	11/02/2020			84	1	0	Out of HI
@@ -219,8 +223,10 @@
 1213	Hawaii	US	11/12/2020			131	1	0	Out of HI
 1213	Hawaii	US	11/13/2020			138	1	0	Out of HI
 1213	Hawaii	US	11/14/2020			140	1	0	Out of HI
+1213	Hawaii	US	11/15/2020			140	1	0	Out of HI
 1213	Hawaii	US	11/16/2020			142	1	0	Out of HI
 1213	Hawaii	US	11/17/2020			150	1	0	Out of HI
+1213	Hawaii	US	11/18/2020			157	1	0	Out of HI
 1213	Hawaii	US	11/19/2020			164	1	0	Out of HI
 1213	Hawaii	US	11/20/2020			170	2	0	Out of HI
 1213	Hawaii	US	11/21/2020			179	2	0	Out of HI
@@ -228,6 +234,7 @@
 1213	Hawaii	US	11/23/2020			191	2	0	Out of HI
 1214	Hawaii	US	11/24/2020			195	2	0	Out of HI
 1214	Hawaii	US	11/25/2020			203	2	0	Out of HI
+1214	Hawaii	US	11/26/2020			203	2	0	Out of HI
 1214	Hawaii	US	11/27/2020			210	2	0	Out of HI
 1214	Hawaii	US	11/28/2020			211	2	0	Out of HI
 1214	Hawaii	US	11/29/2020			213	2	0	Out of HI
@@ -249,25 +256,34 @@
 1214	Hawaii	US	12/15/2020			355	2	0	Out of HI
 1214	Hawaii	US	12/16/2020			413	2	0	Out of HI
 1214	Hawaii	US	12/17/2020			450	2	0	Out of HI
+1214	Hawaii	US	12/18/2020			476	2	0	Out of HI
 1214	Hawaii	US	12/19/2020			476	2	0	Out of HI
 1214	Hawaii	US	12/20/2020			526	2	0	Out of HI
+1214	Hawaii	US	12/21/2020			458	2	0	Out of HI
+1214	Hawaii	US	12/22/2020			392	2	0	Out of HI
+1214	Hawaii	US	12/23/2020			433	2	0	Out of HI
 1214	Hawaii	US	12/24/2020			466	2	0	Out of HI
+1214	Hawaii	US	12/25/2020			497	2	0	Out of HI
 1214	Hawaii	US	12/26/2020			462	2	0	Out of HI
 1214	Hawaii	US	12/27/2020			448	2	0	Out of HI
 1214	Hawaii	US	12/28/2020			399	2	0	Out of HI
 1214	Hawaii	US	12/29/2020			429	2	0	Out of HI
+1214	Hawaii	US	12/30/2020			464	2	0	Out of HI
 1214	Hawaii	US	12/31/2020			548	2	0	Out of HI
 1214	Hawaii	US	01/01/2021			661	2	0	Out of HI
 1214	Hawaii	US	01/02/2021			553	2	0	Out of HI
 1215	Hawaii	US	01/03/2021			543	2	0	Out of HI
 1215	Hawaii	US	01/04/2021			510	2	0	Out of HI
 1215	Hawaii	US	01/05/2021			558	2	0	Out of HI
+1215	Hawaii	US	01/06/2021			593	2	0	Out of HI
 1215	Hawaii	US	01/07/2021			789	2	0	Out of HI
+1215	Hawaii	US	01/08/2021			810	2	0	Out of HI
 1215	Hawaii	US	01/09/2021			775	3	0	Out of HI
 1215	Hawaii	US	01/10/2021			745	3	0	Out of HI
 1215	Hawaii	US	01/11/2021			739	3	0	Out of HI
 1215	Hawaii	US	01/12/2021			691	3	0	Out of HI
 1215	Hawaii	US	01/13/2021			689	3	0	Out of HI
+1215	Hawaii	US	01/14/2021			771	3	0	Out of HI
 1215	Hawaii	US	01/15/2021			757	3	0	Out of HI
 1215	Hawaii	US	01/16/2021			781	3	0	Out of HI
 1215	Hawaii	US	01/17/2021			755	3	0	Out of HI
@@ -277,18 +293,22 @@
 1216	Hawaii	US	01/21/2021			778	3	0	Out of HI
 1216	Hawaii	US	01/22/2021			835	3	0	Out of HI
 1216	Hawaii	US	01/23/2021			808	3	0	Out of HI
+1216	Hawaii	US	01/24/2021			832	3	0	Out of HI
 1216	Hawaii	US	01/25/2021			810	3	0	Out of HI
 1216	Hawaii	US	01/26/2021			758	3	0	Out of HI
 1216	Hawaii	US	01/27/2021			798	3	0	Out of HI
 1216	Hawaii	US	01/28/2021			803	3	0	Out of HI
 1216	Hawaii	US	01/29/2021			861	3	0	Out of HI
+1216	Hawaii	US	01/30/2021			837	3	0	Out of HI
 1216	Hawaii	US	01/31/2021			810	3	0	Out of HI
 1216	Hawaii	US	02/01/2021			822	3	0	Out of HI
 1216	Hawaii	US	02/02/2021			802	3	0	Out of HI
 1216	Hawaii	US	02/03/2021			814	3	0	Out of HI
+1216	Hawaii	US	02/04/2021			852	3	0	Out of HI
 1216	Hawaii	US	02/05/2021			880	3	0	Out of HI
 1216	Hawaii	US	02/06/2021			867	3	0	Out of HI
 1216	Hawaii	US	02/07/2021			838	3	0	Out of HI
+1216	Hawaii	US	02/08/2021			797	3	0	Out of HI
 1216	Hawaii	US	02/09/2021			798	3	0	Out of HI
 1216	Hawaii	US	02/10/2021			823	3	0	Out of HI
 1216	Hawaii	US	02/11/2021			863	3	0	Out of HI
@@ -304,17 +324,23 @@
 1217	Hawaii	US	02/21/2021			893	3	0	Out of HI
 1217	Hawaii	US	02/22/2021			878	3	0	Out of HI
 1217	Hawaii	US	02/23/2021			876	3	0	Out of HI
+1217	Hawaii	US	02/24/2021			882	3	0	Out of HI
+1217	Hawaii	US	02/25/2021			877	3	0	Out of HI
 1217	Hawaii	US	02/26/2021			919	3	0	Out of HI
+1217	Hawaii	US	02/27/2021			950	3	0	Out of HI
 1217	Hawaii	US	02/28/2021			907	3	0	Out of HI
 1217	Hawaii	US	03/01/2021			882	3	0	Out of HI
 1217	Hawaii	US	03/02/2021			891	3	0	Out of HI
 1217	Hawaii	US	03/03/2021			875	3	0	Out of HI
 1217	Hawaii	US	03/04/2021			917	3	0	Out of HI
 1217	Hawaii	US	03/05/2021			957	3	0	Out of HI
+1217	Hawaii	US	03/06/2021			953	3	0	Out of HI
+1217	Hawaii	US	03/07/2021			925	3		Out of HI
 1217	Hawaii	US	03/08/2021			922	3		Out of HI
 1217	Hawaii	US	03/09/2021			924	3		Out of HI
 1217	Hawaii	US	03/10/2021			887	3		Out of HI
 1217	Hawaii	US	03/11/2021			945	3		Out of HI
+1217	Hawaii	US	03/12/2021			1057	3		Out of HI
 1217	Hawaii	US	03/13/2021			962	3		Out of HI
 1217	Hawaii	US	03/14/2021			951	3		Out of HI
 1217	Hawaii	US	03/15/2021			947	3		Out of HI
@@ -326,6 +352,7 @@
 1217	Hawaii	US	03/21/2021			996	3		Out of HI
 1217	Hawaii	US	03/22/2021			1003	3		Out of HI
 1217	Hawaii	US	03/23/2021			966	3		Out of HI
+1217	Hawaii	US	03/24/2021			969	3		Out of HI
 1217	Hawaii	US	03/25/2021			975	3		Out of HI
 1217	Hawaii	US	03/26/2021			943	3		Out of HI
 1217	Hawaii	US	03/27/2021			951	3		Out of HI
@@ -349,9 +376,11 @@
 1219	Hawaii	US	04/14/2021			1025	3		Out of HI
 1219	Hawaii	US	04/15/2021			1025	3		Out of HI
 1219	Hawaii	US	04/16/2021			1036	3		Out of HI
+1219	Hawaii	US	04/17/2021			1039	3		Out of HI
 1219	Hawaii	US	04/18/2021			1041	3		Out of HI
 1219	Hawaii	US	04/19/2021			1042	3		Out of HI
 1219	Hawaii	US	04/20/2021			1048	3		Out of HI
+1219	Hawaii	US	04/21/2021			1051	3		Out of HI
 1219	Hawaii	US	04/22/2021			1056	3		Out of HI
 1219	Hawaii	US	04/23/2021			1063	3		Out of HI
 1219	Hawaii	US	04/24/2021			1063	3		Out of HI
@@ -509,10 +538,14 @@
 1241	Hawaii	US	09/23/2021			2360	5		Out of HI
 1241	Hawaii	US	09/24/2021			2372	5		Out of HI
 1241	Hawaii	US	09/25/2021			2386	5		Out of HI
+1241	Hawaii	US	09/26/2021			2391	5		Out of HI
 1241	Hawaii	US	09/27/2021			2398	5		Out of HI
 1241	Hawaii	US	09/28/2021			2401	5		Out of HI
 1241	Hawaii	US	09/29/2021			2417	5		Out of HI
+1241	Hawaii	US	09/30/2021			2422	5		Out of HI
 1241	Hawaii	US	10/01/2021			2429	5		Out of HI
 1241	Hawaii	US	10/02/2021			2439	5		Out of HI
 1241	Hawaii	US	10/03/2021			2440	5		Out of HI
 1241	Hawaii	US	10/04/2021			2447	5		Out of HI
+1241	Hawaii	US	10/05/2021			2451	5		Out of HI
+1242	Hawaii	US	10/06/2021			2455	5		Out of HI

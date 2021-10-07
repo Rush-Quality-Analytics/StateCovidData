@@ -167,11 +167,13 @@
 2463	New Jersey	US	09/03/2020			305	0	0	Unassigned
 2463	New Jersey	US	09/04/2020			307	0	0	Unassigned
 2463	New Jersey	US	09/05/2020			307	0	0	Unassigned
+2463	New Jersey	US	09/06/2020			308	0	0	Unassigned
 2463	New Jersey	US	09/07/2020			304	0	0	Unassigned
 2463	New Jersey	US	09/08/2020			307	0	0	Unassigned
 2463	New Jersey	US	09/09/2020			303	0	0	Unassigned
 2463	New Jersey	US	09/10/2020			308	0	0	Unassigned
 2463	New Jersey	US	09/11/2020			313	0	0	Unassigned
+2463	New Jersey	US	09/12/2020			306	0	0	Unassigned
 2463	New Jersey	US	09/13/2020			311	0	0	Unassigned
 2463	New Jersey	US	09/14/2020			313	0	0	Unassigned
 2463	New Jersey	US	09/15/2020			301	0	0	Unassigned
@@ -179,6 +181,7 @@
 2463	New Jersey	US	09/17/2020			324	0	0	Unassigned
 2463	New Jersey	US	09/18/2020			314	0	0	Unassigned
 2463	New Jersey	US	09/19/2020			316	0	0	Unassigned
+2463	New Jersey	US	09/20/2020			330	0	0	Unassigned
 2464	New Jersey	US	09/21/2020			340	0	0	Unassigned
 2464	New Jersey	US	09/22/2020			326	0	0	Unassigned
 2464	New Jersey	US	09/23/2020			346	0	0	Unassigned
@@ -218,6 +221,7 @@
 2467	New Jersey	US	10/27/2020			480	0	0	Unassigned
 2468	New Jersey	US	10/28/2020			537	0.0	0	Unassigned
 2468	New Jersey	US	10/29/2020			524	0	0	Unassigned
+2468	New Jersey	US	10/30/2020			522	0	0	Unassigned
 2468	New Jersey	US	10/31/2020			563	0	0	Unassigned
 2468	New Jersey	US	11/01/2020			611	0	0	Unassigned
 2468	New Jersey	US	11/02/2020			624	0	0	Unassigned
@@ -233,8 +237,10 @@
 2481	New Jersey	US	11/12/2020			642	0	0	Unassigned
 2481	New Jersey	US	11/13/2020			639	0	0	Unassigned
 2481	New Jersey	US	11/14/2020			652	0	0	Unassigned
+2481	New Jersey	US	11/15/2020			684	0	0	Unassigned
 2481	New Jersey	US	11/16/2020			669	0	0	Unassigned
 2481	New Jersey	US	11/17/2020			706	0	0	Unassigned
+2481	New Jersey	US	11/18/2020			734	0	0	Unassigned
 2481	New Jersey	US	11/19/2020			696	0	0	Unassigned
 2481	New Jersey	US	11/20/2020			640	0	0	Unassigned
 2481	New Jersey	US	11/21/2020			650	0	0	Unassigned
@@ -242,6 +248,7 @@
 2481	New Jersey	US	11/23/2020			724	0	0	Unassigned
 2482	New Jersey	US	11/24/2020			711	0	0	Unassigned
 2482	New Jersey	US	11/25/2020			720	0	0	Unassigned
+2482	New Jersey	US	11/26/2020			711	0	0	Unassigned
 2482	New Jersey	US	11/27/2020			747	0	0	Unassigned
 2482	New Jersey	US	11/28/2020			1861	0	0	Unassigned
 2482	New Jersey	US	11/29/2020			890	0	0	Unassigned
@@ -263,25 +270,34 @@
 2482	New Jersey	US	12/15/2020			975	0	0	Unassigned
 2482	New Jersey	US	12/16/2020			961	0	0	Unassigned
 2482	New Jersey	US	12/17/2020			972	0	0	Unassigned
+2482	New Jersey	US	12/18/2020			1006	0	0	Unassigned
 2482	New Jersey	US	12/19/2020			1024	0	0	Unassigned
 2482	New Jersey	US	12/20/2020			1080	0	0	Unassigned
+2482	New Jersey	US	12/21/2020			1079	0	0	Unassigned
+2482	New Jersey	US	12/22/2020			1083	0	0	Unassigned
+2482	New Jersey	US	12/23/2020			1077	0	0	Unassigned
 2482	New Jersey	US	12/24/2020			1105	0	0	Unassigned
+2482	New Jersey	US	12/25/2020			1107	0	0	Unassigned
 2482	New Jersey	US	12/26/2020			1116	0	0	Unassigned
 2482	New Jersey	US	12/27/2020			1129	0	0	Unassigned
 2482	New Jersey	US	12/28/2020			1128	0	0	Unassigned
 2482	New Jersey	US	12/29/2020			1082	0	0	Unassigned
+2482	New Jersey	US	12/30/2020			1042	0	0	Unassigned
 2482	New Jersey	US	12/31/2020			1057	0	0	Unassigned
 2482	New Jersey	US	01/01/2021			1075	0	0	Unassigned
 2482	New Jersey	US	01/02/2021			1140	0	0	Unassigned
 2483	New Jersey	US	01/03/2021			1151	0	0	Unassigned
 2483	New Jersey	US	01/04/2021			1133	0	0	Unassigned
 2483	New Jersey	US	01/05/2021			1118	0	0	Unassigned
+2483	New Jersey	US	01/06/2021			1158	0	0	Unassigned
 2483	New Jersey	US	01/07/2021			1245	0	0	Unassigned
+2483	New Jersey	US	01/08/2021			1268	0	0	Unassigned
 2483	New Jersey	US	01/09/2021			1354	0	0	Unassigned
 2483	New Jersey	US	01/10/2021			1485	0	0	Unassigned
 2483	New Jersey	US	01/11/2021			1511	0	0	Unassigned
 2483	New Jersey	US	01/12/2021			1419	0	0	Unassigned
 2483	New Jersey	US	01/13/2021			1413	0	0	Unassigned
+2483	New Jersey	US	01/14/2021			1368	0	0	Unassigned
 2484	New Jersey	US	01/15/2021			1298	0	0	Unassigned
 2484	New Jersey	US	01/16/2021			1333	0	0	Unassigned
 2484	New Jersey	US	01/17/2021			1376	0	0	Unassigned
@@ -291,18 +307,22 @@
 2485	New Jersey	US	01/21/2021			1251	0	0	Unassigned
 2485	New Jersey	US	01/22/2021			1218	0	0	Unassigned
 2485	New Jersey	US	01/23/2021			1266	0	0	Unassigned
+2485	New Jersey	US	01/24/2021			1279	0	0	Unassigned
 2485	New Jersey	US	01/25/2021			1293	0	0	Unassigned
 2485	New Jersey	US	01/26/2021			1327	0	0	Unassigned
 2485	New Jersey	US	01/27/2021			1209	0	0	Unassigned
 2485	New Jersey	US	01/28/2021			1172	0	0	Unassigned
 2485	New Jersey	US	01/29/2021			1172	0	0	Unassigned
+2485	New Jersey	US	01/30/2021			1173	0	0	Unassigned
 2485	New Jersey	US	01/31/2021			1201	0	0	Unassigned
 2485	New Jersey	US	02/01/2021			1253	0	0	Unassigned
 2485	New Jersey	US	02/02/2021			1140	0	0	Unassigned
 2485	New Jersey	US	02/03/2021			1096	0	0	Unassigned
+2485	New Jersey	US	02/04/2021			1074	0	0	Unassigned
 2485	New Jersey	US	02/05/2021			1045	0	0	Unassigned
 2485	New Jersey	US	02/06/2021			1055	0	0	Unassigned
 2485	New Jersey	US	02/07/2021			1056	0	0	Unassigned
+2485	New Jersey	US	02/08/2021			1082	0	0	Unassigned
 2485	New Jersey	US	02/09/2021			1058	0	0	Unassigned
 2485	New Jersey	US	02/10/2021			1036	88	0	Unassigned
 2485	New Jersey	US	02/11/2021			1023	0	0	Unassigned
@@ -318,17 +338,23 @@
 2486	New Jersey	US	02/21/2021			1088	0	0	Unassigned
 2486	New Jersey	US	02/22/2021			875	0	0	Unassigned
 2486	New Jersey	US	02/23/2021			902	0	0	Unassigned
+2486	New Jersey	US	02/24/2021			892	0	0	Unassigned
+2486	New Jersey	US	02/25/2021			892	0	0	Unassigned
 2486	New Jersey	US	02/26/2021			1056	0	0	Unassigned
+2486	New Jersey	US	02/27/2021			1107	0	0	Unassigned
 2486	New Jersey	US	02/28/2021			1134	0	0	Unassigned
 2486	New Jersey	US	03/01/2021			1026	0	0	Unassigned
 2486	New Jersey	US	03/02/2021			1037	0	0	Unassigned
 2486	New Jersey	US	03/03/2021			1123	0	0	Unassigned
 2486	New Jersey	US	03/04/2021			1194	0	0	Unassigned
 2486	New Jersey	US	03/05/2021			1210	0	0	Unassigned
+2486	New Jersey	US	03/06/2021			1220	0	0	Unassigned
+2486	New Jersey	US	03/07/2021			1187	0		Unassigned
 2486	New Jersey	US	03/08/2021			1139	0		Unassigned
 2486	New Jersey	US	03/09/2021			1102	0		Unassigned
 2486	New Jersey	US	03/10/2021			1141	0		Unassigned
 2486	New Jersey	US	03/11/2021			1240	0		Unassigned
+2486	New Jersey	US	03/12/2021			1069	0		Unassigned
 2486	New Jersey	US	03/13/2021			1058	0		Unassigned
 2486	New Jersey	US	03/14/2021			1026	0		Unassigned
 2486	New Jersey	US	03/15/2021			1029	0		Unassigned
@@ -340,6 +366,7 @@
 2486	New Jersey	US	03/21/2021			1238	0		Unassigned
 2486	New Jersey	US	03/22/2021			1233	0		Unassigned
 2486	New Jersey	US	03/23/2021			1267	0		Unassigned
+2486	New Jersey	US	03/24/2021			1280	0		Unassigned
 2486	New Jersey	US	03/25/2021			1244	0		Unassigned
 2486	New Jersey	US	03/26/2021			1221	0		Unassigned
 2486	New Jersey	US	03/27/2021			1127	0		Unassigned
@@ -363,9 +390,11 @@
 2488	New Jersey	US	04/14/2021			866	0		Unassigned
 2488	New Jersey	US	04/15/2021			866	0		Unassigned
 2488	New Jersey	US	04/16/2021			814	0		Unassigned
+2488	New Jersey	US	04/17/2021			816	0		Unassigned
 2488	New Jersey	US	04/18/2021			824	0		Unassigned
 2488	New Jersey	US	04/19/2021			832	0		Unassigned
 2488	New Jersey	US	04/20/2021			848	0		Unassigned
+2488	New Jersey	US	04/21/2021			820	0		Unassigned
 2488	New Jersey	US	04/22/2021			842	0		Unassigned
 2488	New Jersey	US	04/23/2021			841	0		Unassigned
 2488	New Jersey	US	04/24/2021			847	0		Unassigned
@@ -523,10 +552,14 @@
 2510	New Jersey	US	09/23/2021			689	0		Unassigned
 2510	New Jersey	US	09/24/2021			696	0		Unassigned
 2510	New Jersey	US	09/25/2021			722	0		Unassigned
+2510	New Jersey	US	09/26/2021			717	0		Unassigned
 2510	New Jersey	US	09/27/2021			717	0		Unassigned
 2510	New Jersey	US	09/28/2021			728	0		Unassigned
 2510	New Jersey	US	09/29/2021			669	0		Unassigned
+2510	New Jersey	US	09/30/2021			671	0		Unassigned
 2510	New Jersey	US	10/01/2021			656	0		Unassigned
 2510	New Jersey	US	10/02/2021			659	0		Unassigned
 2510	New Jersey	US	10/03/2021			675	0		Unassigned
 2510	New Jersey	US	10/04/2021			680	0		Unassigned
+2510	New Jersey	US	10/05/2021			652	0		Unassigned
+2511	New Jersey	US	10/06/2021			639	0		Unassigned

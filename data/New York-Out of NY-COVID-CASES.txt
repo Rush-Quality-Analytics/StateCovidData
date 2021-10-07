@@ -38,6 +38,7 @@
 2543	New York	US	10/27/2020			0	112	0	Out of NY
 2544	New York	US	10/28/2020			0	112.0	0	Out of NY
 2544	New York	US	10/29/2020			0	112	0	Out of NY
+2544	New York	US	10/30/2020			0	112	0	Out of NY
 2544	New York	US	10/31/2020			0	112	0	Out of NY
 2544	New York	US	11/01/2020			0	112	0	Out of NY
 2544	New York	US	11/02/2020			0	112	0	Out of NY
@@ -53,8 +54,10 @@
 2557	New York	US	11/12/2020			0	113	0	Out of NY
 2557	New York	US	11/13/2020			0	113	0	Out of NY
 2557	New York	US	11/14/2020			0	113	0	Out of NY
+2557	New York	US	11/15/2020			0	113	0	Out of NY
 2557	New York	US	11/16/2020			0	114	0	Out of NY
 2557	New York	US	11/17/2020			0	114	0	Out of NY
+2557	New York	US	11/18/2020			0	115	0	Out of NY
 2557	New York	US	11/19/2020			0	115	0	Out of NY
 2557	New York	US	11/20/2020			0	117	0	Out of NY
 2557	New York	US	11/21/2020			0	117	0	Out of NY
@@ -62,6 +65,7 @@
 2557	New York	US	11/23/2020			0	118	0	Out of NY
 2558	New York	US	11/24/2020			0	120	0	Out of NY
 2558	New York	US	11/25/2020			0	120	0	Out of NY
+2558	New York	US	11/26/2020			0	120	0	Out of NY
 2558	New York	US	11/27/2020			0	120	0	Out of NY
 2558	New York	US	11/28/2020			0	122	0	Out of NY
 2558	New York	US	11/29/2020			0	124	0	Out of NY
@@ -83,25 +87,34 @@
 2558	New York	US	12/15/2020			0	140	0	Out of NY
 2558	New York	US	12/16/2020			0	141	0	Out of NY
 2558	New York	US	12/17/2020			0	142	0	Out of NY
+2558	New York	US	12/18/2020			0	144	0	Out of NY
 2558	New York	US	12/19/2020			0	146	0	Out of NY
 2558	New York	US	12/20/2020			0	147	0	Out of NY
+2558	New York	US	12/21/2020			0	147	0	Out of NY
+2558	New York	US	12/22/2020			0	147	0	Out of NY
+2558	New York	US	12/23/2020			0	148	0	Out of NY
 2558	New York	US	12/24/2020			0	150	0	Out of NY
+2558	New York	US	12/25/2020			0	150	0	Out of NY
 2558	New York	US	12/26/2020			0	152	0	Out of NY
 2558	New York	US	12/27/2020			0	152	0	Out of NY
 2558	New York	US	12/28/2020			0	153	0	Out of NY
 2558	New York	US	12/29/2020			0	153	0	Out of NY
+2558	New York	US	12/30/2020			0	153	0	Out of NY
 2558	New York	US	12/31/2020			0	153	0	Out of NY
 2558	New York	US	01/01/2021			0	154	0	Out of NY
 2558	New York	US	01/02/2021			0	155	0	Out of NY
 2559	New York	US	01/03/2021			0	155	0	Out of NY
 2559	New York	US	01/04/2021			0	156	0	Out of NY
 2559	New York	US	01/05/2021			0	157	0	Out of NY
+2559	New York	US	01/06/2021			0	157	0	Out of NY
 2559	New York	US	01/07/2021			0	158	0	Out of NY
+2559	New York	US	01/08/2021			0	158	0	Out of NY
 2559	New York	US	01/09/2021			0	158	0	Out of NY
 2559	New York	US	01/10/2021			0	159	0	Out of NY
 2559	New York	US	01/11/2021			0	159	0	Out of NY
 2559	New York	US	01/12/2021			0	160	0	Out of NY
 2559	New York	US	01/13/2021			0	161	0	Out of NY
+2559	New York	US	01/14/2021			0	162	0	Out of NY
 2560	New York	US	01/15/2021			0	163	0	Out of NY
 2560	New York	US	01/16/2021			0	164	0	Out of NY
 2560	New York	US	01/17/2021			0	164	0	Out of NY
@@ -111,18 +124,22 @@
 2561	New York	US	01/21/2021			0	167	0	Out of NY
 2561	New York	US	01/22/2021			0	168	0	Out of NY
 2561	New York	US	01/23/2021			0	168	0	Out of NY
+2561	New York	US	01/24/2021			0	170	0	Out of NY
 2561	New York	US	01/25/2021			0	176	0	Out of NY
 2561	New York	US	01/26/2021			0	176	0	Out of NY
 2561	New York	US	01/27/2021			0	176	0	Out of NY
 2561	New York	US	01/28/2021			0	176	0	Out of NY
 2561	New York	US	01/29/2021			0	176	0	Out of NY
+2561	New York	US	01/30/2021			0	177	0	Out of NY
 2561	New York	US	01/31/2021			0	180	0	Out of NY
 2561	New York	US	02/01/2021			0	180	0	Out of NY
 2561	New York	US	02/02/2021			0	180	0	Out of NY
 2561	New York	US	02/03/2021			0	180	0	Out of NY
+2561	New York	US	02/04/2021			0	180	0	Out of NY
 2561	New York	US	02/05/2021			0	180	0	Out of NY
 2561	New York	US	02/06/2021			0	180	0	Out of NY
 2561	New York	US	02/07/2021			0	181	0	Out of NY
+2561	New York	US	02/08/2021			0	181	0	Out of NY
 2561	New York	US	02/09/2021			0	182	0	Out of NY
 2561	New York	US	02/10/2021			0	182	0	Out of NY
 2561	New York	US	02/11/2021			0	182	0	Out of NY
@@ -138,17 +155,23 @@
 2562	New York	US	02/21/2021			0	189	0	Out of NY
 2562	New York	US	02/22/2021			0	189	0	Out of NY
 2562	New York	US	02/23/2021			0	190	0	Out of NY
+2562	New York	US	02/24/2021			0	191	0	Out of NY
+2562	New York	US	02/25/2021			0	191	0	Out of NY
 2562	New York	US	02/26/2021			0	192	0	Out of NY
+2562	New York	US	02/27/2021			0	192	0	Out of NY
 2562	New York	US	02/28/2021			0	192	0	Out of NY
 2562	New York	US	03/01/2021			0	192	0	Out of NY
 2562	New York	US	03/02/2021			0	192	0	Out of NY
 2562	New York	US	03/03/2021			0	192	0	Out of NY
 2562	New York	US	03/04/2021			0	193	0	Out of NY
 2562	New York	US	03/05/2021			0	194	0	Out of NY
+2562	New York	US	03/06/2021			0	194	0	Out of NY
+2562	New York	US	03/07/2021			0	194		Out of NY
 2562	New York	US	03/08/2021			0	194		Out of NY
 2562	New York	US	03/09/2021			0	194		Out of NY
 2562	New York	US	03/10/2021			0	194		Out of NY
 2562	New York	US	03/11/2021			0	195		Out of NY
+2562	New York	US	03/12/2021			0	195		Out of NY
 2562	New York	US	03/13/2021			0	196		Out of NY
 2562	New York	US	03/14/2021			0	197		Out of NY
 2562	New York	US	03/15/2021			0	197		Out of NY
@@ -160,6 +183,7 @@
 2562	New York	US	03/21/2021			0	199		Out of NY
 2562	New York	US	03/22/2021			0	199		Out of NY
 2562	New York	US	03/23/2021			0	199		Out of NY
+2562	New York	US	03/24/2021			0	200		Out of NY
 2562	New York	US	03/25/2021			0	200		Out of NY
 2562	New York	US	03/26/2021			0	200		Out of NY
 2562	New York	US	03/27/2021			0	200		Out of NY
@@ -183,9 +207,11 @@
 2564	New York	US	04/14/2021			0	216		Out of NY
 2564	New York	US	04/15/2021			0	216		Out of NY
 2564	New York	US	04/16/2021			0	216		Out of NY
+2564	New York	US	04/17/2021			0	216		Out of NY
 2564	New York	US	04/18/2021			0	216		Out of NY
 2564	New York	US	04/19/2021			0	217		Out of NY
 2564	New York	US	04/20/2021			0	217		Out of NY
+2564	New York	US	04/21/2021			0	218		Out of NY
 2564	New York	US	04/22/2021			0	222		Out of NY
 2564	New York	US	04/23/2021			0	222		Out of NY
 2564	New York	US	04/24/2021			0	223		Out of NY
@@ -343,10 +369,14 @@
 2586	New York	US	09/23/2021			0	291		Out of NY
 2586	New York	US	09/24/2021			0	291		Out of NY
 2586	New York	US	09/25/2021			0	292		Out of NY
+2586	New York	US	09/26/2021			0	296		Out of NY
 2586	New York	US	09/27/2021			0	296		Out of NY
 2586	New York	US	09/28/2021			0	297		Out of NY
 2586	New York	US	09/29/2021			0	297		Out of NY
+2586	New York	US	09/30/2021			0	299		Out of NY
 2586	New York	US	10/01/2021			0	299		Out of NY
 2586	New York	US	10/02/2021			0	300		Out of NY
 2586	New York	US	10/03/2021			0	301		Out of NY
 2586	New York	US	10/04/2021			0	301		Out of NY
+2586	New York	US	10/05/2021			0	301		Out of NY
+2587	New York	US	10/06/2021			0	301		Out of NY

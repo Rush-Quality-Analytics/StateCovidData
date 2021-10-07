@@ -157,11 +157,13 @@
 2881	Oklahoma	US	09/03/2020			40	0	0	Unassigned
 2881	Oklahoma	US	09/04/2020			54	0	0	Unassigned
 2881	Oklahoma	US	09/05/2020			45	0	0	Unassigned
+2881	Oklahoma	US	09/06/2020			41	0	0	Unassigned
 2881	Oklahoma	US	09/07/2020			40	0	0	Unassigned
 2881	Oklahoma	US	09/08/2020			45	0	0	Unassigned
 2881	Oklahoma	US	09/09/2020			55	0	0	Unassigned
 2881	Oklahoma	US	09/10/2020			16	0	0	Unassigned
 2881	Oklahoma	US	09/11/2020			17	0	0	Unassigned
+2881	Oklahoma	US	09/12/2020			45	0	0	Unassigned
 2881	Oklahoma	US	09/13/2020			47	0	0	Unassigned
 2881	Oklahoma	US	09/14/2020			47	0	0	Unassigned
 2881	Oklahoma	US	09/15/2020			56	0	0	Unassigned
@@ -169,6 +171,7 @@
 2881	Oklahoma	US	09/17/2020			61	0	0	Unassigned
 2881	Oklahoma	US	09/18/2020			51	0	0	Unassigned
 2881	Oklahoma	US	09/19/2020			70	0	0	Unassigned
+2881	Oklahoma	US	09/20/2020			70	0	0	Unassigned
 2883	Oklahoma	US	09/21/2020			75	0	0	Unassigned
 2883	Oklahoma	US	09/22/2020			58	0	0	Unassigned
 2883	Oklahoma	US	09/23/2020			54	0	0	Unassigned
@@ -208,6 +211,7 @@
 2886	Oklahoma	US	10/27/2020			6	0	0	Unassigned
 2887	Oklahoma	US	10/28/2020			9	0.0	0	Unassigned
 2887	Oklahoma	US	10/29/2020			3	0	0	Unassigned
+2887	Oklahoma	US	10/30/2020			5	0	0	Unassigned
 2887	Oklahoma	US	10/31/2020			5	0	0	Unassigned
 2887	Oklahoma	US	11/01/2020			3	0	0	Unassigned
 2887	Oklahoma	US	11/02/2020			9	0	0	Unassigned
@@ -223,8 +227,10 @@
 2900	Oklahoma	US	11/12/2020			25	0	0	Unassigned
 2900	Oklahoma	US	11/13/2020			32	0	0	Unassigned
 2900	Oklahoma	US	11/14/2020			39	0	0	Unassigned
+2900	Oklahoma	US	11/15/2020			57	0	0	Unassigned
 2900	Oklahoma	US	11/16/2020			75	0	0	Unassigned
 2900	Oklahoma	US	11/17/2020			78	0	0	Unassigned
+2900	Oklahoma	US	11/18/2020			103	0	0	Unassigned
 2900	Oklahoma	US	11/19/2020			127	0	0	Unassigned
 2900	Oklahoma	US	11/20/2020			87	0	0	Unassigned
 2900	Oklahoma	US	11/21/2020			89	0	0	Unassigned
@@ -232,6 +238,7 @@
 2900	Oklahoma	US	11/23/2020			65	0	0	Unassigned
 2901	Oklahoma	US	11/24/2020			57	0	0	Unassigned
 2901	Oklahoma	US	11/25/2020			71	0	0	Unassigned
+2901	Oklahoma	US	11/26/2020			71	0	0	Unassigned
 2901	Oklahoma	US	11/27/2020			76	0	0	Unassigned
 2901	Oklahoma	US	11/28/2020			72	0	0	Unassigned
 2901	Oklahoma	US	11/29/2020			44	0	0	Unassigned
@@ -253,25 +260,34 @@
 2901	Oklahoma	US	12/15/2020			115	0	0	Unassigned
 2901	Oklahoma	US	12/16/2020			113	0	0	Unassigned
 2901	Oklahoma	US	12/17/2020			137	0	0	Unassigned
+2901	Oklahoma	US	12/18/2020			135	0	0	Unassigned
 2901	Oklahoma	US	12/19/2020			140	0	0	Unassigned
 2901	Oklahoma	US	12/20/2020			186	0	0	Unassigned
+2901	Oklahoma	US	12/21/2020			204	0	0	Unassigned
+2901	Oklahoma	US	12/22/2020			224	0	0	Unassigned
+2901	Oklahoma	US	12/23/2020			246	0	0	Unassigned
 2901	Oklahoma	US	12/24/2020			276	0	0	Unassigned
+2901	Oklahoma	US	12/25/2020			276	0	0	Unassigned
 2901	Oklahoma	US	12/26/2020			309	0	0	Unassigned
 2901	Oklahoma	US	12/27/2020			339	0	0	Unassigned
 2901	Oklahoma	US	12/28/2020			400	0	0	Unassigned
 2901	Oklahoma	US	12/29/2020			446	0	0	Unassigned
+2901	Oklahoma	US	12/30/2020			484	0	0	Unassigned
 2901	Oklahoma	US	12/31/2020			509	0	0	Unassigned
 2901	Oklahoma	US	01/01/2021			509	0	0	Unassigned
 2901	Oklahoma	US	01/02/2021			584	0	0	Unassigned
 2902	Oklahoma	US	01/03/2021			763	0	0	Unassigned
 2902	Oklahoma	US	01/04/2021			776	0	0	Unassigned
 2902	Oklahoma	US	01/05/2021			788	0	0	Unassigned
+2902	Oklahoma	US	01/06/2021			812	0	0	Unassigned
 2902	Oklahoma	US	01/07/2021			799	0	0	Unassigned
+2902	Oklahoma	US	01/08/2021			570	0	0	Unassigned
 2902	Oklahoma	US	01/09/2021			503	0	0	Unassigned
 2902	Oklahoma	US	01/10/2021			513	0	0	Unassigned
 2902	Oklahoma	US	01/11/2021			531	0	0	Unassigned
 2902	Oklahoma	US	01/12/2021			542	0	0	Unassigned
 2902	Oklahoma	US	01/13/2021			571	0	0	Unassigned
+2902	Oklahoma	US	01/14/2021			580	0	0	Unassigned
 2903	Oklahoma	US	01/15/2021			602	0	0	Unassigned
 2903	Oklahoma	US	01/16/2021			623	0	0	Unassigned
 2903	Oklahoma	US	01/17/2021			643	0	0	Unassigned
@@ -281,18 +297,22 @@
 2904	Oklahoma	US	01/21/2021			711	0	0	Unassigned
 2904	Oklahoma	US	01/22/2021			728	0	0	Unassigned
 2904	Oklahoma	US	01/23/2021			725	0	0	Unassigned
+2904	Oklahoma	US	01/24/2021			702	0	0	Unassigned
 2904	Oklahoma	US	01/25/2021			724	0	0	Unassigned
 2904	Oklahoma	US	01/26/2021			745	0	0	Unassigned
 2904	Oklahoma	US	01/27/2021			773	0	0	Unassigned
 2904	Oklahoma	US	01/28/2021			779	0	0	Unassigned
 2904	Oklahoma	US	01/29/2021			793	0	0	Unassigned
+2904	Oklahoma	US	01/30/2021			850	0	0	Unassigned
 2904	Oklahoma	US	01/31/2021			859	0	0	Unassigned
 2904	Oklahoma	US	02/01/2021			880	0	0	Unassigned
 2904	Oklahoma	US	02/02/2021			894	0	0	Unassigned
 2904	Oklahoma	US	02/03/2021			918	0	0	Unassigned
+2904	Oklahoma	US	02/04/2021			908	0	0	Unassigned
 2904	Oklahoma	US	02/05/2021			855	0	0	Unassigned
 2904	Oklahoma	US	02/06/2021			842	0	0	Unassigned
 2904	Oklahoma	US	02/07/2021			849	0	0	Unassigned
+2904	Oklahoma	US	02/08/2021			879	0	0	Unassigned
 2904	Oklahoma	US	02/09/2021			892	0	0	Unassigned
 2904	Oklahoma	US	02/10/2021			894	0	0	Unassigned
 2904	Oklahoma	US	02/11/2021			900	0	0	Unassigned
@@ -308,17 +328,23 @@
 2905	Oklahoma	US	02/21/2021			992	0	0	Unassigned
 2905	Oklahoma	US	02/22/2021			1004	0	0	Unassigned
 2905	Oklahoma	US	02/23/2021			1013	0	0	Unassigned
+2905	Oklahoma	US	02/24/2021			1028	0	0	Unassigned
+2905	Oklahoma	US	02/25/2021			1036	0	0	Unassigned
 2905	Oklahoma	US	02/26/2021			1042	0	0	Unassigned
+2905	Oklahoma	US	02/27/2021			1043	0	0	Unassigned
 2905	Oklahoma	US	02/28/2021			1050	0	0	Unassigned
 2905	Oklahoma	US	03/01/2021			1060	0	0	Unassigned
 2905	Oklahoma	US	03/02/2021			1068	0	0	Unassigned
 2905	Oklahoma	US	03/03/2021			1077	0	0	Unassigned
 2905	Oklahoma	US	03/04/2021			1084	0	0	Unassigned
 2905	Oklahoma	US	03/05/2021			1091	0	0	Unassigned
+2905	Oklahoma	US	03/06/2021			1107	0	0	Unassigned
+2905	Oklahoma	US	03/07/2021			1111	0		Unassigned
 2905	Oklahoma	US	03/08/2021			1131	0		Unassigned
 2905	Oklahoma	US	03/09/2021			1140	0		Unassigned
 2905	Oklahoma	US	03/10/2021			1151	0		Unassigned
 2905	Oklahoma	US	03/11/2021			1167	0		Unassigned
+2905	Oklahoma	US	03/12/2021			1183	0		Unassigned
 2905	Oklahoma	US	03/13/2021			1184	0		Unassigned
 2905	Oklahoma	US	03/14/2021			1196	0		Unassigned
 2905	Oklahoma	US	03/15/2021			1215	0		Unassigned
@@ -330,6 +356,7 @@
 2905	Oklahoma	US	03/21/2021			2974	0		Unassigned
 2905	Oklahoma	US	03/22/2021			3949	0		Unassigned
 2905	Oklahoma	US	03/23/2021			4148	0		Unassigned
+2905	Oklahoma	US	03/24/2021			1995	0		Unassigned
 2905	Oklahoma	US	03/25/2021			2377	0		Unassigned
 2905	Oklahoma	US	03/26/2021			2851	0		Unassigned
 2905	Oklahoma	US	03/27/2021			2862	0		Unassigned
@@ -353,9 +380,11 @@
 2907	Oklahoma	US	04/14/2021			474	0		Unassigned
 2907	Oklahoma	US	04/15/2021			836	0		Unassigned
 2907	Oklahoma	US	04/16/2021			1109	0		Unassigned
+2907	Oklahoma	US	04/17/2021			1109	0		Unassigned
 2907	Oklahoma	US	04/18/2021			1109	0		Unassigned
 2907	Oklahoma	US	04/19/2021			1896	0		Unassigned
 2907	Oklahoma	US	04/20/2021			1971	0		Unassigned
+2907	Oklahoma	US	04/21/2021			334	0		Unassigned
 2907	Oklahoma	US	04/22/2021			617	0		Unassigned
 2907	Oklahoma	US	04/23/2021			921	0		Unassigned
 2907	Oklahoma	US	04/24/2021			921	0		Unassigned
@@ -513,10 +542,14 @@
 2929	Oklahoma	US	09/23/2021			5328	0		Unassigned
 2929	Oklahoma	US	09/24/2021			6558	0		Unassigned
 2929	Oklahoma	US	09/25/2021			6558	0		Unassigned
+2929	Oklahoma	US	09/26/2021			6558	0		Unassigned
 2929	Oklahoma	US	09/27/2021			11904	0		Unassigned
 2929	Oklahoma	US	09/28/2021			12552	0		Unassigned
 2929	Oklahoma	US	09/29/2021			2394	0		Unassigned
+2929	Oklahoma	US	09/30/2021			4274	0		Unassigned
 2929	Oklahoma	US	10/01/2021			5726	0		Unassigned
 2929	Oklahoma	US	10/02/2021			5726	0		Unassigned
 2929	Oklahoma	US	10/03/2021			5726	0		Unassigned
 2929	Oklahoma	US	10/04/2021			9565	0		Unassigned
+2929	Oklahoma	US	10/05/2021			10247	0		Unassigned
+2930	Oklahoma	US	10/06/2021			2045	0		Unassigned

@@ -49,11 +49,13 @@
 3064	Puerto Rico	US	09/03/2020			543	448	0	Unassigned
 3064	Puerto Rico	US	09/04/2020			530	455	0	Unassigned
 3064	Puerto Rico	US	09/05/2020			538	464	0	Unassigned
+3064	Puerto Rico	US	09/06/2020			502	477	0	Unassigned
 3064	Puerto Rico	US	09/07/2020			545	477	0	Unassigned
 3064	Puerto Rico	US	09/08/2020			546	482	0	Unassigned
 3064	Puerto Rico	US	09/09/2020			546	500	0	Unassigned
 3064	Puerto Rico	US	09/10/2020			570	512	0	Unassigned
 3064	Puerto Rico	US	09/11/2020			513	523	0	Unassigned
+3064	Puerto Rico	US	09/12/2020			516	535	0	Unassigned
 3064	Puerto Rico	US	09/13/2020			499	539	0	Unassigned
 3064	Puerto Rico	US	09/14/2020			503	542	0	Unassigned
 3064	Puerto Rico	US	09/15/2020			511	551	0	Unassigned
@@ -61,6 +63,7 @@
 3064	Puerto Rico	US	09/17/2020			474	588	0	Unassigned
 3064	Puerto Rico	US	09/18/2020			533	599	0	Unassigned
 3064	Puerto Rico	US	09/19/2020			556	605	0	Unassigned
+3064	Puerto Rico	US	09/20/2020			552	608	0	Unassigned
 3066	Puerto Rico	US	09/21/2020			570	609	0	Unassigned
 3066	Puerto Rico	US	09/22/2020			570	613	0	Unassigned
 3066	Puerto Rico	US	09/23/2020			525	617	0	Unassigned
@@ -100,6 +103,7 @@
 3069	Puerto Rico	US	10/27/2020			1141	808	0	Unassigned
 3070	Puerto Rico	US	10/28/2020			1160	813.0	0	Unassigned
 3070	Puerto Rico	US	10/29/2020			1248	814	0	Unassigned
+3070	Puerto Rico	US	10/30/2020			1285	820	0	Unassigned
 3070	Puerto Rico	US	10/31/2020			1293	822	0	Unassigned
 3070	Puerto Rico	US	11/01/2020			1311	832	0	Unassigned
 3070	Puerto Rico	US	11/02/2020			1360	839	0	Unassigned
@@ -115,8 +119,10 @@
 3083	Puerto Rico	US	11/12/2020			975	909	0	Unassigned
 3083	Puerto Rico	US	11/13/2020			993	914	0	Unassigned
 3083	Puerto Rico	US	11/14/2020			1008	921	0	Unassigned
+3083	Puerto Rico	US	11/15/2020			1031	935	0	Unassigned
 3083	Puerto Rico	US	11/16/2020			1043	942	0	Unassigned
 3083	Puerto Rico	US	11/17/2020			1060	951	0	Unassigned
+3083	Puerto Rico	US	11/18/2020			1067	971	0	Unassigned
 3083	Puerto Rico	US	11/19/2020			1073	982	0	Unassigned
 3083	Puerto Rico	US	11/20/2020			1109	991	0	Unassigned
 3083	Puerto Rico	US	11/21/2020			1149	1012	0	Unassigned
@@ -124,6 +130,7 @@
 3083	Puerto Rico	US	11/23/2020			1230	1032	0	Unassigned
 3084	Puerto Rico	US	11/24/2020			1231	1038	0	Unassigned
 3084	Puerto Rico	US	11/25/2020			1240	1052	0	Unassigned
+3084	Puerto Rico	US	11/26/2020			1265	1069	0	Unassigned
 3084	Puerto Rico	US	11/27/2020			1338	1076	0	Unassigned
 3084	Puerto Rico	US	11/28/2020			1371	1083	0	Unassigned
 3084	Puerto Rico	US	11/29/2020			1369	1094	0	Unassigned
@@ -145,25 +152,34 @@
 3084	Puerto Rico	US	12/15/2020			1802	1294	0	Unassigned
 3084	Puerto Rico	US	12/16/2020			1802	1312	0	Unassigned
 3084	Puerto Rico	US	12/17/2020			1857	1323	0	Unassigned
+3084	Puerto Rico	US	12/18/2020			1912	1333	0	Unassigned
 3084	Puerto Rico	US	12/19/2020			1959	1342	0	Unassigned
 3084	Puerto Rico	US	12/20/2020			2061	1368	0	Unassigned
+3084	Puerto Rico	US	12/21/2020			2066	1382	0	Unassigned
+3084	Puerto Rico	US	12/22/2020			2138	1391	0	Unassigned
+3084	Puerto Rico	US	12/23/2020			2157	1408	0	Unassigned
 3084	Puerto Rico	US	12/24/2020			2180	1423	0	Unassigned
+3084	Puerto Rico	US	12/25/2020			2209	1432	0	Unassigned
 3084	Puerto Rico	US	12/26/2020			2238	1432	0	Unassigned
 3084	Puerto Rico	US	12/27/2020			2266	1445	0	Unassigned
 3084	Puerto Rico	US	12/28/2020			2262	1456	0	Unassigned
 3084	Puerto Rico	US	12/29/2020			2388	1460	0	Unassigned
+3084	Puerto Rico	US	12/30/2020			2390	1484	0	Unassigned
 3084	Puerto Rico	US	12/31/2020			2395	1503	0	Unassigned
 3084	Puerto Rico	US	01/01/2021			2377	1521	0	Unassigned
 3084	Puerto Rico	US	01/02/2021			2414	1526	0	Unassigned
 3085	Puerto Rico	US	01/03/2021			2412	1545	0	Unassigned
 3085	Puerto Rico	US	01/04/2021			2444	1555	0	Unassigned
 3085	Puerto Rico	US	01/05/2021			2497	1562	0	Unassigned
+3085	Puerto Rico	US	01/06/2021			2479	1570	0	Unassigned
 3085	Puerto Rico	US	01/07/2021			2449	1588	0	Unassigned
+3085	Puerto Rico	US	01/08/2021			2522	1592	0	Unassigned
 3085	Puerto Rico	US	01/09/2021			2534	1616	0	Unassigned
 3085	Puerto Rico	US	01/10/2021			2531	1630	0	Unassigned
 3085	Puerto Rico	US	01/11/2021			2530	1642	0	Unassigned
 3085	Puerto Rico	US	01/12/2021			2568	1645	0	Unassigned
 3085	Puerto Rico	US	01/13/2021			2568	1659	0	Unassigned
+3085	Puerto Rico	US	01/14/2021			2564	1679	0	Unassigned
 3086	Puerto Rico	US	01/15/2021			2605	1692	0	Unassigned
 3086	Puerto Rico	US	01/16/2021			2607	1703	0	Unassigned
 3086	Puerto Rico	US	01/17/2021			2645	1703	0	Unassigned
@@ -173,18 +189,22 @@
 3087	Puerto Rico	US	01/21/2021			2670	1732	0	Unassigned
 3087	Puerto Rico	US	01/22/2021			2677	1761	0	Unassigned
 3087	Puerto Rico	US	01/23/2021			2719	1771	0	Unassigned
+3087	Puerto Rico	US	01/24/2021			2728	1773	0	Unassigned
 3087	Puerto Rico	US	01/25/2021			2737	1778	0	Unassigned
 3087	Puerto Rico	US	01/26/2021			2757	1783	0	Unassigned
 3087	Puerto Rico	US	01/27/2021			2757	1794	0	Unassigned
 3087	Puerto Rico	US	01/28/2021			2760	1801	0	Unassigned
 3087	Puerto Rico	US	01/29/2021			2761	1812	0	Unassigned
+3087	Puerto Rico	US	01/30/2021			2788	1823	0	Unassigned
 3087	Puerto Rico	US	01/31/2021			2795	1829	0	Unassigned
 3087	Puerto Rico	US	02/01/2021			2819	1836	0	Unassigned
 3087	Puerto Rico	US	02/02/2021			2821	1846	0	Unassigned
 3087	Puerto Rico	US	02/03/2021			2823	1853	0	Unassigned
+3087	Puerto Rico	US	02/04/2021			2829	1861	0	Unassigned
 3087	Puerto Rico	US	02/05/2021			2810	1867	0	Unassigned
 3087	Puerto Rico	US	02/06/2021			2815	1872	0	Unassigned
 3087	Puerto Rico	US	02/07/2021			2835	1883	0	Unassigned
+3087	Puerto Rico	US	02/08/2021			2836	1888	0	Unassigned
 3087	Puerto Rico	US	02/09/2021			2837	1893	0	Unassigned
 3087	Puerto Rico	US	02/10/2021			2838	1897	0	Unassigned
 3087	Puerto Rico	US	02/11/2021			2835	1902	0	Unassigned
@@ -200,17 +220,23 @@
 3088	Puerto Rico	US	02/21/2021			2901	1979	0	Unassigned
 3088	Puerto Rico	US	02/22/2021			2908	1983	0	Unassigned
 3088	Puerto Rico	US	02/23/2021			2909	1986	0	Unassigned
+3088	Puerto Rico	US	02/24/2021			2906	2007	0	Unassigned
+3088	Puerto Rico	US	02/25/2021			2907	2016	0	Unassigned
 3088	Puerto Rico	US	02/26/2021			2909	2023	0	Unassigned
+3088	Puerto Rico	US	02/27/2021			2910	2032	0	Unassigned
 3088	Puerto Rico	US	02/28/2021			2912	2036	0	Unassigned
 3088	Puerto Rico	US	03/01/2021			2909	2037	0	Unassigned
 3088	Puerto Rico	US	03/02/2021			2905	2040	0	Unassigned
 3088	Puerto Rico	US	03/03/2021			2904	2048	0	Unassigned
 3088	Puerto Rico	US	03/04/2021			2904	2053	0	Unassigned
 3088	Puerto Rico	US	03/05/2021			2929	2056	0	Unassigned
+3088	Puerto Rico	US	03/06/2021			2941	2059	0	Unassigned
+3088	Puerto Rico	US	03/07/2021			2941	2059		Unassigned
 3088	Puerto Rico	US	03/08/2021			2941	2059		Unassigned
 3088	Puerto Rico	US	03/09/2021			2946	2066		Unassigned
 3088	Puerto Rico	US	03/10/2021			2947	2066		Unassigned
 3088	Puerto Rico	US	03/11/2021			2947	2073		Unassigned
+3088	Puerto Rico	US	03/12/2021			2952	2077		Unassigned
 3088	Puerto Rico	US	03/13/2021			2959	2077		Unassigned
 3088	Puerto Rico	US	03/14/2021			2961	2080		Unassigned
 3088	Puerto Rico	US	03/15/2021			2965	2081		Unassigned
@@ -222,6 +248,7 @@
 3088	Puerto Rico	US	03/21/2021			3015	2096		Unassigned
 3088	Puerto Rico	US	03/22/2021			3020	2098		Unassigned
 3088	Puerto Rico	US	03/23/2021			3036	2100		Unassigned
+3088	Puerto Rico	US	03/24/2021			3034	2103		Unassigned
 3088	Puerto Rico	US	03/25/2021			3035	2106		Unassigned
 3088	Puerto Rico	US	03/26/2021			3049	2109		Unassigned
 3088	Puerto Rico	US	03/27/2021			3057	2112		Unassigned
@@ -245,9 +272,11 @@
 3090	Puerto Rico	US	04/14/2021			3498	2182		Unassigned
 3090	Puerto Rico	US	04/15/2021			3554	2185		Unassigned
 3090	Puerto Rico	US	04/16/2021			3621	2194		Unassigned
+3090	Puerto Rico	US	04/17/2021			3635	2200		Unassigned
 3090	Puerto Rico	US	04/18/2021			3649	2207		Unassigned
 3090	Puerto Rico	US	04/19/2021			3689	2213		Unassigned
 3090	Puerto Rico	US	04/20/2021			3698	2224		Unassigned
+3090	Puerto Rico	US	04/21/2021			3709	2238		Unassigned
 3090	Puerto Rico	US	04/22/2021			3747	2246		Unassigned
 3090	Puerto Rico	US	04/23/2021			3764	2263		Unassigned
 3090	Puerto Rico	US	04/24/2021			3770	2264		Unassigned
@@ -405,10 +434,14 @@
 3112	Puerto Rico	US	09/23/2021			3629	3109		Unassigned
 3112	Puerto Rico	US	09/24/2021			3637	3117		Unassigned
 3112	Puerto Rico	US	09/25/2021			3642	3127		Unassigned
+3112	Puerto Rico	US	09/26/2021			3652	3132		Unassigned
 3112	Puerto Rico	US	09/27/2021			3658	3133		Unassigned
 3112	Puerto Rico	US	09/28/2021			3664	3142		Unassigned
 3112	Puerto Rico	US	09/29/2021			3663	3148		Unassigned
+3112	Puerto Rico	US	09/30/2021			3658	3149		Unassigned
 3112	Puerto Rico	US	10/01/2021			3658	3155		Unassigned
 3112	Puerto Rico	US	10/02/2021			3672	3163		Unassigned
 3112	Puerto Rico	US	10/03/2021			3680	3164		Unassigned
 3112	Puerto Rico	US	10/04/2021			3680	3165		Unassigned
+3112	Puerto Rico	US	10/05/2021			3680	3172		Unassigned
+3113	Puerto Rico	US	10/06/2021			4116	3175		Unassigned
