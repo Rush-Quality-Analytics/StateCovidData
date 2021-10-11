@@ -562,3 +562,7 @@
 2008	Michigan	US	10/04/2021			2217	19		Out of MI
 2008	Michigan	US	10/05/2021			2217	19		Out of MI
 2009	Michigan	US	10/06/2021			2219	19		Out of MI
+2009	Michigan	US	10/07/2021			2219	19		Out of MI
+2009	Michigan	US	10/08/2021			2230	19		Out of MI
+2009	Michigan	US	10/09/2021			2230	19		Out of MI
+2009	Michigan	US	10/10/2021			2230	19		Out of MI

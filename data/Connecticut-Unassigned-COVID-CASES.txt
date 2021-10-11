@@ -555,3 +555,7 @@
 998	Connecticut	US	10/04/2021			1331	11		Unassigned
 998	Connecticut	US	10/05/2021			1335	11		Unassigned
 999	Connecticut	US	10/06/2021			1333	11		Unassigned
+999	Connecticut	US	10/07/2021			1335	11		Unassigned
+999	Connecticut	US	10/08/2021			1340	11		Unassigned
+999	Connecticut	US	10/09/2021			1340	11		Unassigned
+999	Connecticut	US	10/10/2021			1340	11		Unassigned

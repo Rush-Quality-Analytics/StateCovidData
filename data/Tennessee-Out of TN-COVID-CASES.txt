@@ -562,3 +562,7 @@
 3307	Tennessee	US	10/04/2021			28403	122		Out of TN
 3307	Tennessee	US	10/05/2021			28475	126		Out of TN
 3308	Tennessee	US	10/06/2021			28546	128		Out of TN
+3308	Tennessee	US	10/07/2021			28625	128		Out of TN
+3308	Tennessee	US	10/08/2021			28721	129		Out of TN
+3308	Tennessee	US	10/09/2021			28721	129		Out of TN
+3308	Tennessee	US	10/10/2021			28721	129		Out of TN

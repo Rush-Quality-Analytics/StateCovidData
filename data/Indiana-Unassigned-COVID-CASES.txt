@@ -549,3 +549,7 @@
 1472	Indiana	US	10/04/2021			0	500		Unassigned
 1472	Indiana	US	10/05/2021			0	502		Unassigned
 1473	Indiana	US	10/06/2021			0	508		Unassigned
+1473	Indiana	US	10/07/2021			0	511		Unassigned
+1473	Indiana	US	10/08/2021			0	513		Unassigned
+1473	Indiana	US	10/09/2021			0	513		Unassigned
+1473	Indiana	US	10/10/2021			0	513		Unassigned
