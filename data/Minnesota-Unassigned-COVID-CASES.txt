@@ -563,3 +563,4 @@
 2102	Minnesota	US	10/09/2021			535	113		Unassigned
 2102	Minnesota	US	10/10/2021			535	113		Unassigned
 2102	Minnesota	US	10/11/2021			539	113		Unassigned
+2102	Minnesota	US	10/12/2021			545	124		Unassigned

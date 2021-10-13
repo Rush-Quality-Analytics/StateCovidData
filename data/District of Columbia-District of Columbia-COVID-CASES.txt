@@ -569,3 +569,4 @@
 1006	District of Columbia	US	10/09/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
 1006	District of Columbia	US	10/10/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
 1006	District of Columbia	US	10/11/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
+1006	District of Columbia	US	10/12/2021	38.90417773	-77.01655992	62266	1182		District of Columbia

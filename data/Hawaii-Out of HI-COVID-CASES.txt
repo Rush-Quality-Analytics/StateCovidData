@@ -554,3 +554,4 @@
 1242	Hawaii	US	10/09/2021			2497	5		Out of HI
 1242	Hawaii	US	10/10/2021			2515	5		Out of HI
 1242	Hawaii	US	10/11/2021			2521	5		Out of HI
+1242	Hawaii	US	10/12/2021			2521	5		Out of HI
