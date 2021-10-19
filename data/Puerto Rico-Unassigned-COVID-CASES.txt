@@ -451,3 +451,9 @@
 3113	Puerto Rico	US	10/10/2021			4129	3191		Unassigned
 3113	Puerto Rico	US	10/11/2021			4129	3192		Unassigned
 3113	Puerto Rico	US	10/12/2021			4131	3193		Unassigned
+3113	Puerto Rico	US	10/13/2021			4123	3199		Unassigned
+3113	Puerto Rico	US	10/14/2021			4113	3201		Unassigned
+3113	Puerto Rico	US	10/15/2021			4110	3205		Unassigned
+3113	Puerto Rico	US	10/16/2021			4108	3207		Unassigned
+3113	Puerto Rico	US	10/17/2021			4110	3207		Unassigned
+3113	Puerto Rico	US	10/18/2021			4103	3207		Unassigned

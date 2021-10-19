@@ -563,3 +563,9 @@
 2456	Nebraska	US	10/10/2021			2181	197		Unassigned
 2456	Nebraska	US	10/11/2021			2181	197		Unassigned
 2456	Nebraska	US	10/12/2021			2193	197		Unassigned
+2456	Nebraska	US	10/13/2021			2205	201		Unassigned
+2456	Nebraska	US	10/14/2021			2211	209		Unassigned
+2456	Nebraska	US	10/15/2021			2212	215		Unassigned
+2456	Nebraska	US	10/16/2021			2212	215		Unassigned
+2456	Nebraska	US	10/17/2021			2212	215		Unassigned
+2456	Nebraska	US	10/18/2021			2217	215		Unassigned

@@ -566,7 +566,13 @@
 1006	District of Columbia	US	10/06/2021	38.90417773	-77.01655992	61978	1180		District of Columbia
 1006	District of Columbia	US	10/07/2021	38.90417773	-77.01655992	62098	1181		District of Columbia
 1006	District of Columbia	US	10/08/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
-1006	District of Columbia	US	10/09/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
-1006	District of Columbia	US	10/10/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
-1006	District of Columbia	US	10/11/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
-1006	District of Columbia	US	10/12/2021	38.90417773	-77.01655992	62266	1182		District of Columbia
+1006	District of Columbia	US	10/09/2021	38.90417773	-77.01655992	62702	1182		District of Columbia
+1006	District of Columbia	US	10/10/2021	38.90417773	-77.01655992	62702	1182		District of Columbia
+1006	District of Columbia	US	10/11/2021	38.90417773	-77.01655992	62702	1182		District of Columbia
+1006	District of Columbia	US	10/12/2021	38.90417773	-77.01655992	62702	1182		District of Columbia
+1006	District of Columbia	US	10/13/2021	38.90417773	-77.01655992	62750	1183		District of Columbia
+1006	District of Columbia	US	10/14/2021	38.90417773	-77.01655992	62852	1183		District of Columbia
+1006	District of Columbia	US	10/15/2021	38.90417773	-77.01655992	62976	1183		District of Columbia
+1006	District of Columbia	US	10/16/2021	38.90417773	-77.01655992	62976	1183		District of Columbia
+1006	District of Columbia	US	10/17/2021	38.90417773	-77.01655992	62976	1183		District of Columbia
+1006	District of Columbia	US	10/18/2021	38.90417773	-77.01655992	63305	1184		District of Columbia

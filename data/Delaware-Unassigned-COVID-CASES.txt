@@ -560,3 +560,9 @@
 1004	Delaware	US	10/10/2021			368	0		Unassigned
 1004	Delaware	US	10/11/2021			371	0		Unassigned
 1004	Delaware	US	10/12/2021			369	0		Unassigned
+1004	Delaware	US	10/13/2021			370	0		Unassigned
+1004	Delaware	US	10/14/2021			373	0		Unassigned
+1004	Delaware	US	10/15/2021			374	0		Unassigned
+1004	Delaware	US	10/16/2021			378	0		Unassigned
+1004	Delaware	US	10/17/2021			378	0		Unassigned
+1004	Delaware	US	10/18/2021			385	0		Unassigned
