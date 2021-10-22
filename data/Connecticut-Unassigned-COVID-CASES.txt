@@ -567,3 +567,6 @@
 999	Connecticut	US	10/16/2021			1347	9		Unassigned
 999	Connecticut	US	10/17/2021			1347	9		Unassigned
 999	Connecticut	US	10/18/2021			1347	9		Unassigned
+999	Connecticut	US	10/19/2021			1346	9		Unassigned
+999	Connecticut	US	10/20/2021			1348	9		Unassigned
+999	Connecticut	US	10/21/2021			1347	9		Unassigned

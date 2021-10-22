@@ -572,3 +572,6 @@
 1069	Florida	US	10/16/2021			2961	20886		Unassigned
 1069	Florida	US	10/17/2021			2961	20886		Unassigned
 1069	Florida	US	10/18/2021			2961	21169		Unassigned
+1069	Florida	US	10/19/2021			2961	21170		Unassigned
+1069	Florida	US	10/20/2021			2961	21170		Unassigned
+1069	Florida	US	10/21/2021			2961	21635		Unassigned

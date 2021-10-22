@@ -574,3 +574,6 @@
 3328	Tennessee	US	10/16/2021			21571	117		Unassigned
 3328	Tennessee	US	10/17/2021			21571	117		Unassigned
 3328	Tennessee	US	10/18/2021			21525	117		Unassigned
+3328	Tennessee	US	10/19/2021			21619	120		Unassigned
+3328	Tennessee	US	10/20/2021			21659	120		Unassigned
+3328	Tennessee	US	10/21/2021			21632	121		Unassigned

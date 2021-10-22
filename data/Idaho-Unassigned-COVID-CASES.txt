@@ -562,3 +562,6 @@
 1286	Idaho	US	10/16/2021			1	0		Unassigned
 1286	Idaho	US	10/17/2021			2	0		Unassigned
 1286	Idaho	US	10/18/2021			3	0		Unassigned
+1286	Idaho	US	10/19/2021			1	0		Unassigned
+1286	Idaho	US	10/20/2021			2	0		Unassigned
+1286	Idaho	US	10/21/2021			2	0		Unassigned

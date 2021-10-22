@@ -575,3 +575,6 @@
 2605	New York	US	10/16/2021			144	24		Unassigned
 2605	New York	US	10/17/2021			144	24		Unassigned
 2605	New York	US	10/18/2021			148	26		Unassigned
+2605	New York	US	10/19/2021			148	26		Unassigned
+2605	New York	US	10/20/2021			146	28		Unassigned
+2605	New York	US	10/21/2021			144	26		Unassigned

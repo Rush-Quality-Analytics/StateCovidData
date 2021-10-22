@@ -364,3 +364,6 @@
 746	Alaska	US	10/16/2021	58.62403337	-156.21405890000003	432	0		Bristol Bay plus Lake and Peninsula
 746	Alaska	US	10/17/2021	58.62403337	-156.21405890000003	432	0		Bristol Bay plus Lake and Peninsula
 746	Alaska	US	10/18/2021	58.62403337	-156.21405890000003	432	0		Bristol Bay plus Lake and Peninsula
+746	Alaska	US	10/19/2021	58.62403337	-156.21405890000003	443	0		Bristol Bay plus Lake and Peninsula
+746	Alaska	US	10/20/2021	58.62403337	-156.21405890000003	443	0		Bristol Bay plus Lake and Peninsula
+746	Alaska	US	10/21/2021	58.62403337	-156.21405890000003	459	0		Bristol Bay plus Lake and Peninsula

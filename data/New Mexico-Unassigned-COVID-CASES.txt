@@ -564,3 +564,6 @@
 2545	New Mexico	US	10/16/2021			4929	0		Unassigned
 2545	New Mexico	US	10/17/2021			4929	0		Unassigned
 2545	New Mexico	US	10/18/2021			4939	0		Unassigned
+2545	New Mexico	US	10/19/2021			4942	0		Unassigned
+2545	New Mexico	US	10/20/2021			4946	0		Unassigned
+2545	New Mexico	US	10/21/2021			4952	0		Unassigned
