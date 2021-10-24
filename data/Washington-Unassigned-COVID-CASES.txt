@@ -578,3 +578,5 @@
 3792	Washington	US	10/19/2021			1536	3		Unassigned
 3792	Washington	US	10/20/2021			1511	4		Unassigned
 3792	Washington	US	10/21/2021			1494	4		Unassigned
+3792	Washington	US	10/22/2021			1496	4		Unassigned
+3792	Washington	US	10/23/2021			1496	4		Unassigned

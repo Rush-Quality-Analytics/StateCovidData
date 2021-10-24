@@ -577,3 +577,5 @@
 1380	Illinois	US	10/19/2021			167	2433		Unassigned
 1380	Illinois	US	10/20/2021			170	2433		Unassigned
 1380	Illinois	US	10/21/2021			162	2433		Unassigned
+1380	Illinois	US	10/22/2021			134	2433		Unassigned
+1380	Illinois	US	10/23/2021			134	2433		Unassigned

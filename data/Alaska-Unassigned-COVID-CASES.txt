@@ -575,3 +575,5 @@
 767	Alaska	US	10/19/2021			508	1		Unassigned
 767	Alaska	US	10/20/2021			507	1		Unassigned
 767	Alaska	US	10/21/2021			516	1		Unassigned
+767	Alaska	US	10/22/2021			516	1		Unassigned
+767	Alaska	US	10/23/2021			516	1		Unassigned
