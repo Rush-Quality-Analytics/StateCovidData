@@ -580,3 +580,7 @@
 3126	Rhode Island	US	10/21/2021			12822	21		Unassigned
 3126	Rhode Island	US	10/22/2021			13016	22		Unassigned
 3126	Rhode Island	US	10/23/2021			13016	22		Unassigned
+3126	Rhode Island	US	10/24/2021			13016	22		Unassigned
+3126	Rhode Island	US	10/25/2021			13479	24		Unassigned
+3126	Rhode Island	US	10/26/2021			13664	26		Unassigned
+3126	Rhode Island	US	10/27/2021			12255	15		Unassigned

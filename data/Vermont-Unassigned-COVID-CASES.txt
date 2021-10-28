@@ -579,3 +579,7 @@
 3619	Vermont	US	10/21/2021			27	0		Unassigned
 3619	Vermont	US	10/22/2021			35	0		Unassigned
 3619	Vermont	US	10/23/2021			31	0		Unassigned
+3619	Vermont	US	10/24/2021			88	0		Unassigned
+3619	Vermont	US	10/25/2021			28	0		Unassigned
+3619	Vermont	US	10/26/2021			38	0		Unassigned
+3619	Vermont	US	10/27/2021			80	0		Unassigned

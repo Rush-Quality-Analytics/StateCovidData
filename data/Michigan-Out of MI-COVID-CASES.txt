@@ -579,3 +579,7 @@
 2009	Michigan	US	10/21/2021			2339	22		Out of MI
 2009	Michigan	US	10/22/2021			2353	23		Out of MI
 2009	Michigan	US	10/23/2021			2353	23		Out of MI
+2009	Michigan	US	10/24/2021			2353	23		Out of MI
+2009	Michigan	US	10/25/2021			2368	24		Out of MI
+2009	Michigan	US	10/26/2021			2368	24		Out of MI
+2009	Michigan	US	10/27/2021			2381	24		Out of MI

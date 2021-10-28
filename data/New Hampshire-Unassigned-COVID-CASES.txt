@@ -574,3 +574,7 @@
 2491	New Hampshire	US	10/21/2021			892	1		Unassigned
 2491	New Hampshire	US	10/22/2021			717	1		Unassigned
 2491	New Hampshire	US	10/23/2021			717	1		Unassigned
+2491	New Hampshire	US	10/24/2021			717	1		Unassigned
+2491	New Hampshire	US	10/25/2021			717	1		Unassigned
+2491	New Hampshire	US	10/26/2021			717	1		Unassigned
+2491	New Hampshire	US	10/27/2021			653	1		Unassigned

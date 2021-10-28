@@ -580,3 +580,7 @@
 1926	Massachusetts	US	10/21/2021	41.40674725	-70.68763497	3774	7		Dukes and Nantucket
 1926	Massachusetts	US	10/22/2021	41.40674725	-70.68763497	3776	7		Dukes and Nantucket
 1926	Massachusetts	US	10/23/2021	41.40674725	-70.68763497	3776	7		Dukes and Nantucket
+1926	Massachusetts	US	10/24/2021	41.40674725	-70.68763497	3776	7		Dukes and Nantucket
+1926	Massachusetts	US	10/25/2021	41.40674725	-70.68763497	3783	7		Dukes and Nantucket
+1926	Massachusetts	US	10/26/2021	41.40674725	-70.68763497	3786	7		Dukes and Nantucket
+1926	Massachusetts	US	10/27/2021	41.40674725	-70.68763497	3788	7		Dukes and Nantucket
