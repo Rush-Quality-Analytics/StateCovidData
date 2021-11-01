@@ -574,3 +574,7 @@
 2930	Oklahoma	US	10/25/2021			5805	7		Unassigned
 2930	Oklahoma	US	10/26/2021			6251	7		Unassigned
 2930	Oklahoma	US	10/27/2021			1484	0		Unassigned
+2930	Oklahoma	US	10/28/2021			2180	0		Unassigned
+2930	Oklahoma	US	10/29/2021			3100	0		Unassigned
+2930	Oklahoma	US	10/30/2021			3100	0		Unassigned
+2930	Oklahoma	US	10/31/2021			3100	0		Unassigned

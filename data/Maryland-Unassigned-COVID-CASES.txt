@@ -568,3 +568,7 @@
 1919	Maryland	US	10/25/2021			0	67		Unassigned
 1919	Maryland	US	10/26/2021			0	61		Unassigned
 1919	Maryland	US	10/27/2021			0	55		Unassigned
+1919	Maryland	US	10/28/2021			0	46		Unassigned
+1919	Maryland	US	10/29/2021			0	47		Unassigned
+1919	Maryland	US	10/30/2021			0	53		Unassigned
+1919	Maryland	US	10/31/2021			0	61		Unassigned

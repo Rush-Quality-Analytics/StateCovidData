@@ -584,3 +584,7 @@
 859	Arkansas	US	10/25/2021			5145	0		Unassigned
 859	Arkansas	US	10/26/2021			5140	0		Unassigned
 859	Arkansas	US	10/27/2021			5150	0		Unassigned
+859	Arkansas	US	10/28/2021			5130	0		Unassigned
+859	Arkansas	US	10/29/2021			5137	0		Unassigned
+859	Arkansas	US	10/30/2021			5138	0		Unassigned
+859	Arkansas	US	10/31/2021			5137	0		Unassigned

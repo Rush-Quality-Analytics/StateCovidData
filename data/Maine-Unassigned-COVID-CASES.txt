@@ -583,3 +583,7 @@
 1894	Maine	US	10/25/2021			2	0		Unassigned
 1894	Maine	US	10/26/2021			6	0		Unassigned
 1894	Maine	US	10/27/2021			2	0		Unassigned
+1894	Maine	US	10/28/2021			3	0		Unassigned
+1894	Maine	US	10/29/2021			1	0		Unassigned
+1894	Maine	US	10/30/2021			22	0		Unassigned
+1894	Maine	US	10/31/2021			22	0		Unassigned

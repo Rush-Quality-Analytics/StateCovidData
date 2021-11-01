@@ -466,3 +466,7 @@
 3096	Puerto Rico	US	10/25/2021			434	0		Out of PR
 3096	Puerto Rico	US	10/26/2021			434	0		Out of PR
 3096	Puerto Rico	US	10/27/2021			434	0		Out of PR
+3096	Puerto Rico	US	10/28/2021			434	0		Out of PR
+3096	Puerto Rico	US	10/29/2021			434	0		Out of PR
+3096	Puerto Rico	US	10/30/2021			434	0		Out of PR
+3096	Puerto Rico	US	10/31/2021			434	0		Out of PR

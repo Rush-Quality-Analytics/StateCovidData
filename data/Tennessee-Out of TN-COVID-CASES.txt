@@ -583,3 +583,7 @@
 3308	Tennessee	US	10/25/2021			29125	132		Out of TN
 3308	Tennessee	US	10/26/2021			29065	133		Out of TN
 3308	Tennessee	US	10/27/2021			29124	133		Out of TN
+3308	Tennessee	US	10/28/2021			29104	134		Out of TN
+3308	Tennessee	US	10/29/2021			29154	134		Out of TN
+3308	Tennessee	US	10/30/2021			29154	134		Out of TN
+3308	Tennessee	US	10/31/2021			29154	134		Out of TN

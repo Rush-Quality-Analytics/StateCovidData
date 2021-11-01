@@ -584,3 +584,7 @@
 988	Colorado	US	10/25/2021			100	0		Unassigned
 988	Colorado	US	10/26/2021			100	0		Unassigned
 988	Colorado	US	10/27/2021			100	0		Unassigned
+988	Colorado	US	10/28/2021			98	0		Unassigned
+988	Colorado	US	10/29/2021			98	0		Unassigned
+988	Colorado	US	10/30/2021			98	0		Unassigned
+988	Colorado	US	10/31/2021			98	0		Unassigned

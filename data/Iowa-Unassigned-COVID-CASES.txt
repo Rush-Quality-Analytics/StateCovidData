@@ -576,3 +576,7 @@
 1573	Iowa	US	10/25/2021			38	0		Unassigned
 1573	Iowa	US	10/26/2021			38	0		Unassigned
 1573	Iowa	US	10/27/2021			72	0		Unassigned
+1573	Iowa	US	10/28/2021			399	0		Unassigned
+1573	Iowa	US	10/29/2021			399	0		Unassigned
+1573	Iowa	US	10/30/2021			2795	0		Unassigned
+1573	Iowa	US	10/31/2021			2795	0		Unassigned

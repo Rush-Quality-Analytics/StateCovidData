@@ -584,3 +584,7 @@
 2511	New Jersey	US	10/25/2021			627	0		Unassigned
 2511	New Jersey	US	10/26/2021			643	0		Unassigned
 2511	New Jersey	US	10/27/2021			597	0		Unassigned
+2511	New Jersey	US	10/28/2021			587	0		Unassigned
+2511	New Jersey	US	10/29/2021			580	0		Unassigned
+2511	New Jersey	US	10/30/2021			587	0		Unassigned
+2511	New Jersey	US	10/31/2021			596	0		Unassigned

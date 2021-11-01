@@ -584,3 +584,7 @@
 1219	Georgia	US	10/25/2021			4711	9		Unassigned
 1219	Georgia	US	10/26/2021			4733	8		Unassigned
 1219	Georgia	US	10/27/2021			4658	9		Unassigned
+1219	Georgia	US	10/28/2021			4625	9		Unassigned
+1219	Georgia	US	10/29/2021			4600	9		Unassigned
+1219	Georgia	US	10/30/2021			4600	9		Unassigned
+1219	Georgia	US	10/31/2021			4600	9		Unassigned
