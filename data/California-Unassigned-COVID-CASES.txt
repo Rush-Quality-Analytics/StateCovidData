@@ -581,3 +581,4 @@
 922	California	US	10/29/2021			316	0		Unassigned
 922	California	US	10/30/2021			316	0		Unassigned
 922	California	US	10/31/2021			316	0		Unassigned
+923	California	US	11/01/2021			490	0		Unassigned

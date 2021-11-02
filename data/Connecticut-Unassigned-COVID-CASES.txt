@@ -580,3 +580,4 @@
 999	Connecticut	US	10/29/2021			1356	5		Unassigned
 999	Connecticut	US	10/30/2021			1356	5		Unassigned
 999	Connecticut	US	10/31/2021			1356	5		Unassigned
+1000	Connecticut	US	11/01/2021			1358	5		Unassigned

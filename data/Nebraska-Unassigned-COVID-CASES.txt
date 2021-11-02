@@ -582,3 +582,4 @@
 2456	Nebraska	US	10/29/2021			3092	724		Unassigned
 2456	Nebraska	US	10/30/2021			4705	745		Unassigned
 2456	Nebraska	US	10/31/2021			4705	745		Unassigned
+2457	Nebraska	US	11/01/2021			4705	745		Unassigned
