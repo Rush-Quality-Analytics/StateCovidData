@@ -589,3 +589,4 @@
 1219	Georgia	US	10/30/2021			4600	9		Unassigned
 1219	Georgia	US	10/31/2021			4600	9		Unassigned
 1220	Georgia	US	11/01/2021			4516	9		Unassigned
+1220	Georgia	US	11/02/2021			4479	7		Unassigned

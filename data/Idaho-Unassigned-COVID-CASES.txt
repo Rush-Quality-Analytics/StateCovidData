@@ -576,3 +576,4 @@
 1286	Idaho	US	10/30/2021			2	0		Unassigned
 1286	Idaho	US	10/31/2021			2	0		Unassigned
 1287	Idaho	US	11/01/2021			3	0		Unassigned
+1287	Idaho	US	11/02/2021			2	0		Unassigned
