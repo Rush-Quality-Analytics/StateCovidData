@@ -587,3 +587,8 @@
 1069	Florida	US	10/31/2021			2962	22697		Unassigned
 1070	Florida	US	11/01/2021			2962	22697		Unassigned
 1070	Florida	US	11/02/2021			2962	22697		Unassigned
+1070	Florida	US	11/03/2021			2962	22697		Unassigned
+1070	Florida	US	11/04/2021			2962	22697		Unassigned
+1070	Florida	US	11/05/2021			2961	23361		Unassigned
+1070	Florida	US	11/06/2021			2961	23361		Unassigned
+1070	Florida	US	11/07/2021			2961	23361		Unassigned

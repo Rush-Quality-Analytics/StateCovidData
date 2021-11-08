@@ -590,3 +590,8 @@
 1935	Massachusetts	US	10/31/2021			58493	6		Unassigned
 1936	Massachusetts	US	11/01/2021			58560	6		Unassigned
 1936	Massachusetts	US	11/02/2021			58756	6		Unassigned
+1936	Massachusetts	US	11/03/2021			58920	6		Unassigned
+1936	Massachusetts	US	11/04/2021			59088	6		Unassigned
+1936	Massachusetts	US	11/05/2021			59255	6		Unassigned
+1936	Massachusetts	US	11/06/2021			59255	6		Unassigned
+1936	Massachusetts	US	11/07/2021			59255	6		Unassigned
