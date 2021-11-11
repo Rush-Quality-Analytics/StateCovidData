@@ -412,3 +412,6 @@
 2588	New York	US	11/05/2021			0	326		Out of NY
 2588	New York	US	11/06/2021			0	326		Out of NY
 2588	New York	US	11/07/2021			0	326		Out of NY
+2588	New York	US	11/08/2021			0	328		Out of NY
+2588	New York	US	11/09/2021			0	329		Out of NY
+2588	New York	US	11/10/2021			0	329		Out of NY

@@ -579,3 +579,6 @@
 1920	Maryland	US	11/05/2021			0	53		Unassigned
 1920	Maryland	US	11/06/2021			0	38		Unassigned
 1920	Maryland	US	11/07/2021			0	45		Unassigned
+1920	Maryland	US	11/08/2021			0	59		Unassigned
+1920	Maryland	US	11/09/2021			0	55		Unassigned
+1920	Maryland	US	11/10/2021			0	52		Unassigned

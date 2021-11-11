@@ -384,3 +384,6 @@
 747	Alaska	US	11/05/2021	58.62403337	-156.21405890000003	510	0		Bristol Bay plus Lake and Peninsula
 747	Alaska	US	11/06/2021	58.62403337	-156.21405890000003	510	0		Bristol Bay plus Lake and Peninsula
 747	Alaska	US	11/07/2021	58.62403337	-156.21405890000003	510	0		Bristol Bay plus Lake and Peninsula
+747	Alaska	US	11/08/2021	58.62403337	-156.21405890000003	517	0		Bristol Bay plus Lake and Peninsula
+747	Alaska	US	11/09/2021	58.62403337	-156.21405890000003	517	0		Bristol Bay plus Lake and Peninsula
+747	Alaska	US	11/10/2021	58.62403337	-156.21405890000003	518	0		Bristol Bay plus Lake and Peninsula

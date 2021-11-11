@@ -592,3 +592,6 @@
 768	Alaska	US	11/05/2021			522	1		Unassigned
 768	Alaska	US	11/06/2021			522	1		Unassigned
 768	Alaska	US	11/07/2021			522	1		Unassigned
+768	Alaska	US	11/08/2021			525	1		Unassigned
+768	Alaska	US	11/09/2021			526	1		Unassigned
+768	Alaska	US	11/10/2021			529	1		Unassigned

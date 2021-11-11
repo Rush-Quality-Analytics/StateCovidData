@@ -550,3 +550,6 @@
 1361	Illinois	US	11/05/2021			10	0		Out of IL
 1361	Illinois	US	11/06/2021			10	0		Out of IL
 1361	Illinois	US	11/07/2021			10	0		Out of IL
+1361	Illinois	US	11/08/2021			5	0		Out of IL
+1361	Illinois	US	11/09/2021			6	0		Out of IL
+1361	Illinois	US	11/10/2021			7	0		Out of IL

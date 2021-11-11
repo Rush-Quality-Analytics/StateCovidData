@@ -573,3 +573,6 @@
 1962	Michigan	US	11/05/2021			321	5		Federal Correctional Institution (FCI)
 1962	Michigan	US	11/06/2021			321	5		Federal Correctional Institution (FCI)
 1962	Michigan	US	11/07/2021			321	5		Federal Correctional Institution (FCI)
+1962	Michigan	US	11/08/2021			321	5		Federal Correctional Institution (FCI)
+1962	Michigan	US	11/09/2021			321	5		Federal Correctional Institution (FCI)
+1962	Michigan	US	11/10/2021			321	5		Federal Correctional Institution (FCI)
