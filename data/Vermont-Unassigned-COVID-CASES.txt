@@ -597,3 +597,11 @@
 3620	Vermont	US	11/08/2021			29	0		Unassigned
 3620	Vermont	US	11/09/2021			44	0		Unassigned
 3620	Vermont	US	11/10/2021			36	0		Unassigned
+3620	Vermont	US	11/11/2021			59	0		Unassigned
+3620	Vermont	US	11/12/2021			158	0		Unassigned
+3620	Vermont	US	11/13/2021			75	0		Unassigned
+3620	Vermont	US	11/14/2021			35	0		Unassigned
+3620	Vermont	US	11/15/2021			53	0		Unassigned
+3620	Vermont	US	11/16/2021			31	0		Unassigned
+3620	Vermont	US	11/17/2021			34	0		Unassigned
+3620	Vermont	US	11/18/2021			54	0		Unassigned

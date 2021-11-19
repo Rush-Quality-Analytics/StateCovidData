@@ -592,3 +592,11 @@
 2492	New Hampshire	US	11/08/2021			816	4		Unassigned
 2492	New Hampshire	US	11/09/2021			844	4		Unassigned
 2492	New Hampshire	US	11/10/2021			837	4		Unassigned
+2492	New Hampshire	US	11/11/2021			837	4		Unassigned
+2492	New Hampshire	US	11/12/2021			904	4		Unassigned
+2492	New Hampshire	US	11/13/2021			904	4		Unassigned
+2492	New Hampshire	US	11/14/2021			904	4		Unassigned
+2492	New Hampshire	US	11/15/2021			960	4		Unassigned
+2492	New Hampshire	US	11/16/2021			1005	5		Unassigned
+2492	New Hampshire	US	11/17/2021			1025	6		Unassigned
+2492	New Hampshire	US	11/18/2021			1052	6		Unassigned

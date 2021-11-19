@@ -595,3 +595,11 @@
 1070	Florida	US	11/08/2021			2961	23445		Unassigned
 1070	Florida	US	11/09/2021			2961	23445		Unassigned
 1070	Florida	US	11/10/2021			2961	23445		Unassigned
+1070	Florida	US	11/11/2021			2961	23445		Unassigned
+1070	Florida	US	11/12/2021			2961	23724		Unassigned
+1070	Florida	US	11/13/2021			2961	23725		Unassigned
+1070	Florida	US	11/14/2021			2961	23725		Unassigned
+1070	Florida	US	11/15/2021			2961	23872		Unassigned
+1070	Florida	US	11/16/2021			2961	23873		Unassigned
+1070	Florida	US	11/17/2021			2961	23873		Unassigned
+1070	Florida	US	11/18/2021			2961	23873		Unassigned

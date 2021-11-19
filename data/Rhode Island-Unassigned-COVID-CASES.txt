@@ -598,3 +598,11 @@
 3127	Rhode Island	US	11/08/2021			13800	15		Unassigned
 3127	Rhode Island	US	11/09/2021			14140	17		Unassigned
 3127	Rhode Island	US	11/10/2021			12755	17		Unassigned
+3127	Rhode Island	US	11/11/2021			12755	17		Unassigned
+3127	Rhode Island	US	11/12/2021			13526	20		Unassigned
+3127	Rhode Island	US	11/13/2021			13526	20		Unassigned
+3127	Rhode Island	US	11/14/2021			13526	20		Unassigned
+3127	Rhode Island	US	11/15/2021			14489	26		Unassigned
+3127	Rhode Island	US	11/16/2021			15046	31		Unassigned
+3127	Rhode Island	US	11/17/2021			12473	19		Unassigned
+3127	Rhode Island	US	11/18/2021			13018	20		Unassigned
