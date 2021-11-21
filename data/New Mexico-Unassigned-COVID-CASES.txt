@@ -595,3 +595,5 @@
 2546	New Mexico	US	11/16/2021			5047	0		Unassigned
 2546	New Mexico	US	11/17/2021			5051	0		Unassigned
 2546	New Mexico	US	11/18/2021			5052	0		Unassigned
+2546	New Mexico	US	11/19/2021			5064	0		Unassigned
+2546	New Mexico	US	11/20/2021			5064	0		Unassigned

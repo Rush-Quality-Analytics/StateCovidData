@@ -587,3 +587,5 @@
 737	Alabama	US	11/16/2021			0	0		Unassigned
 737	Alabama	US	11/17/2021			0	0		Unassigned
 737	Alabama	US	11/18/2021			0	0		Unassigned
+737	Alabama	US	11/19/2021			0	0		Unassigned
+737	Alabama	US	11/20/2021			0	0		Unassigned

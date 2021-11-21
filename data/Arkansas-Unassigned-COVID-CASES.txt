@@ -606,3 +606,5 @@
 860	Arkansas	US	11/16/2021			5196	0		Unassigned
 860	Arkansas	US	11/17/2021			5233	0		Unassigned
 860	Arkansas	US	11/18/2021			5275	0		Unassigned
+860	Arkansas	US	11/19/2021			5319	0		Unassigned
+860	Arkansas	US	11/20/2021			5356	0		Unassigned

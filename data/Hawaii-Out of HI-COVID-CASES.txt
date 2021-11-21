@@ -592,3 +592,5 @@
 1243	Hawaii	US	11/16/2021			2811	10		Out of HI
 1243	Hawaii	US	11/17/2021			2820	11		Out of HI
 1243	Hawaii	US	11/18/2021			2830	11		Out of HI
+1243	Hawaii	US	11/19/2021			2838	11		Out of HI
+1243	Hawaii	US	11/20/2021			2844	11		Out of HI

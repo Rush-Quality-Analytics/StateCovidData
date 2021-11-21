@@ -606,3 +606,5 @@
 1936	Massachusetts	US	11/16/2021			61127	6		Unassigned
 1936	Massachusetts	US	11/17/2021			61469	6		Unassigned
 1936	Massachusetts	US	11/18/2021			61858	6		Unassigned
+1936	Massachusetts	US	11/19/2021			62123	6		Unassigned
+1936	Massachusetts	US	11/20/2021			62123	6		Unassigned

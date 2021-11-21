@@ -592,3 +592,5 @@
 1474	Indiana	US	11/16/2021			0	570		Unassigned
 1474	Indiana	US	11/17/2021			0	573		Unassigned
 1474	Indiana	US	11/18/2021			0	573		Unassigned
+1474	Indiana	US	11/19/2021			0	574		Unassigned
+1474	Indiana	US	11/20/2021			0	574		Unassigned
