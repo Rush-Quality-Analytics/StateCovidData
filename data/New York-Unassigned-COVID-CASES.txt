@@ -608,3 +608,6 @@
 2606	New York	US	11/18/2021			135	2		Unassigned
 2606	New York	US	11/19/2021			138	2		Unassigned
 2606	New York	US	11/20/2021			138	2		Unassigned
+2606	New York	US	11/21/2021			136	2		Unassigned
+2606	New York	US	11/22/2021			136	2		Unassigned
+2606	New York	US	11/23/2021			136	2		Unassigned

@@ -608,3 +608,6 @@
 3793	Washington	US	11/18/2021			1532	4		Unassigned
 3793	Washington	US	11/19/2021			1533	4		Unassigned
 3793	Washington	US	11/20/2021			1533	4		Unassigned
+3793	Washington	US	11/21/2021			1533	4		Unassigned
+3793	Washington	US	11/22/2021			1536	4		Unassigned
+3793	Washington	US	11/23/2021			1528	4		Unassigned

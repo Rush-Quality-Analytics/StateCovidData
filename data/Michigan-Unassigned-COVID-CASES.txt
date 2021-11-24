@@ -602,3 +602,6 @@
 2020	Michigan	US	11/18/2021			53	1		Unassigned
 2020	Michigan	US	11/19/2021			50	1		Unassigned
 2020	Michigan	US	11/20/2021			50	1		Unassigned
+2020	Michigan	US	11/21/2021			50	1		Unassigned
+2020	Michigan	US	11/22/2021			50	1		Unassigned
+2020	Michigan	US	11/23/2021			50	1		Unassigned

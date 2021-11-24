@@ -603,3 +603,6 @@
 2103	Minnesota	US	11/18/2021			539	124		Unassigned
 2103	Minnesota	US	11/19/2021			546	124		Unassigned
 2103	Minnesota	US	11/20/2021			546	124		Unassigned
+2103	Minnesota	US	11/21/2021			546	124		Unassigned
+2103	Minnesota	US	11/22/2021			548	124		Unassigned
+2103	Minnesota	US	11/23/2021			587	124		Unassigned
