@@ -603,3 +603,4 @@
 1000	Connecticut	US	11/21/2021			1391	3		Unassigned
 1000	Connecticut	US	11/22/2021			1401	3		Unassigned
 1000	Connecticut	US	11/23/2021			1400	3		Unassigned
+1000	Connecticut	US	11/24/2021			1402	3		Unassigned
