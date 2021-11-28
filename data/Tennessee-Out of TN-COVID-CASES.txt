@@ -611,3 +611,5 @@
 3309	Tennessee	US	11/22/2021			29441	140		Out of TN
 3309	Tennessee	US	11/23/2021			29396	140		Out of TN
 3309	Tennessee	US	11/24/2021			29456	140		Out of TN
+3309	Tennessee	US	11/25/2021			29456	140		Out of TN
+3309	Tennessee	US	11/26/2021			29456	140		Out of TN
