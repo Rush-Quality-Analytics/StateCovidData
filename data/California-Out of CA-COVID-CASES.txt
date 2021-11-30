@@ -71,3 +71,5 @@
 897	California	US	11/24/2021			0	0		Out of CA
 897	California	US	11/25/2021			0	0		Out of CA
 897	California	US	11/26/2021			0	0		Out of CA
+897	California	US	11/27/2021			0	0		Out of CA
+897	California	US	11/28/2021			0	0		Out of CA
