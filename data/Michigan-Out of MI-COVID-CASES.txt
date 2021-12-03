@@ -616,3 +616,6 @@
 2010	Michigan	US	11/27/2021			2676	31		Out of MI
 2010	Michigan	US	11/28/2021			2676	31		Out of MI
 2010	Michigan	US	11/29/2021			2765	30		Out of MI
+2010	Michigan	US	11/30/2021			2765	30		Out of MI
+2010	Michigan	US	12/01/2021			2805	32		Out of MI
+2010	Michigan	US	12/02/2021			2805	32		Out of MI

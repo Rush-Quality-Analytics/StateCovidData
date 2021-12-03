@@ -499,3 +499,6 @@
 3097	Puerto Rico	US	11/27/2021			434	0		Out of PR
 3097	Puerto Rico	US	11/28/2021			434	0		Out of PR
 3097	Puerto Rico	US	11/29/2021			434	0		Out of PR
+3097	Puerto Rico	US	11/30/2021			434	0		Out of PR
+3097	Puerto Rico	US	12/01/2021			434	0		Out of PR
+3097	Puerto Rico	US	12/02/2021			434	0		Out of PR

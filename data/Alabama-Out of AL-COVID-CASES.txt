@@ -524,3 +524,6 @@
 725	Alabama	US	11/27/2021			0	0		Out of AL
 725	Alabama	US	11/28/2021			0	0		Out of AL
 725	Alabama	US	11/29/2021			0	0		Out of AL
+725	Alabama	US	11/30/2021			0	0		Out of AL
+725	Alabama	US	12/01/2021			0	0		Out of AL
+725	Alabama	US	12/02/2021			0	0		Out of AL
