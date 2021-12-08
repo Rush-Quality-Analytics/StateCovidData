@@ -614,3 +614,8 @@
 2457	Nebraska	US	11/30/2021			2399	925		Unassigned
 2457	Nebraska	US	12/01/2021			2406	928		Unassigned
 2457	Nebraska	US	12/02/2021			2415	938		Unassigned
+2457	Nebraska	US	12/03/2021			2421	950		Unassigned
+2457	Nebraska	US	12/04/2021			2421	950		Unassigned
+2457	Nebraska	US	12/05/2021			2421	950		Unassigned
+2457	Nebraska	US	12/06/2021			2436	950		Unassigned
+2457	Nebraska	US	12/07/2021			2452	972		Unassigned

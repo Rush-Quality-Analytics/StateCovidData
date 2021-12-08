@@ -502,3 +502,8 @@
 3114	Puerto Rico	US	11/30/2021			4436	3270		Unassigned
 3114	Puerto Rico	US	12/01/2021			4437	3270		Unassigned
 3114	Puerto Rico	US	12/02/2021			4473	3271		Unassigned
+3114	Puerto Rico	US	12/03/2021			4487	3272		Unassigned
+3114	Puerto Rico	US	12/04/2021			4492	3272		Unassigned
+3114	Puerto Rico	US	12/05/2021			4496	3273		Unassigned
+3114	Puerto Rico	US	12/06/2021			4497	3273		Unassigned
+3114	Puerto Rico	US	12/07/2021			4497	3274		Unassigned

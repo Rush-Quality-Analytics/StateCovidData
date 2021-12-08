@@ -619,3 +619,8 @@
 1895	Maine	US	11/30/2021			1	0		Unassigned
 1895	Maine	US	12/01/2021			5	0		Unassigned
 1895	Maine	US	12/02/2021			5	0		Unassigned
+1895	Maine	US	12/03/2021			2	0		Unassigned
+1895	Maine	US	12/04/2021			1	0		Unassigned
+1895	Maine	US	12/05/2021			1	0		Unassigned
+1895	Maine	US	12/06/2021			1	0		Unassigned
+1895	Maine	US	12/07/2021			3	0		Unassigned

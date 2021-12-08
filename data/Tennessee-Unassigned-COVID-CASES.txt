@@ -619,3 +619,8 @@
 3329	Tennessee	US	11/30/2021			22171	130		Unassigned
 3329	Tennessee	US	12/01/2021			22191	133		Unassigned
 3329	Tennessee	US	12/02/2021			22231	134		Unassigned
+3329	Tennessee	US	12/03/2021			22297	135		Unassigned
+3329	Tennessee	US	12/04/2021			22297	135		Unassigned
+3329	Tennessee	US	12/05/2021			22297	135		Unassigned
+3329	Tennessee	US	12/06/2021			22345	137		Unassigned
+3329	Tennessee	US	12/07/2021			22460	143		Unassigned

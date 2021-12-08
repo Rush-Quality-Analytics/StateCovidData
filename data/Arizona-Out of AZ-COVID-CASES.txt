@@ -394,3 +394,8 @@
 784	Arizona	US	11/30/2021			0	0		Out of AZ
 784	Arizona	US	12/01/2021			0	0		Out of AZ
 784	Arizona	US	12/02/2021			0	0		Out of AZ
+784	Arizona	US	12/03/2021			0	0		Out of AZ
+784	Arizona	US	12/04/2021			0	0		Out of AZ
+784	Arizona	US	12/05/2021			0	0		Out of AZ
+784	Arizona	US	12/06/2021			0	0		Out of AZ
+784	Arizona	US	12/07/2021			0	0		Out of AZ
