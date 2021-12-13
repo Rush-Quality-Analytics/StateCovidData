@@ -602,3 +602,8 @@
 2763	North Dakota	US	12/05/2021			0	38		Unassigned
 2763	North Dakota	US	12/06/2021			0	39		Unassigned
 2763	North Dakota	US	12/07/2021			0	39		Unassigned
+2763	North Dakota	US	12/08/2021			0	39		Unassigned
+2763	North Dakota	US	12/09/2021			0	39		Unassigned
+2763	North Dakota	US	12/10/2021			0	41		Unassigned
+2763	North Dakota	US	12/11/2021			0	41		Unassigned
+2763	North Dakota	US	12/12/2021			0	41		Unassigned

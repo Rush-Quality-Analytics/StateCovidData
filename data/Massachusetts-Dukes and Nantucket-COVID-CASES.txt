@@ -625,3 +625,8 @@
 1927	Massachusetts	US	12/05/2021	41.40674725	-70.68763497	3951	7		Dukes and Nantucket
 1927	Massachusetts	US	12/06/2021	41.40674725	-70.68763497	3993	7		Dukes and Nantucket
 1927	Massachusetts	US	12/07/2021	41.40674725	-70.68763497	4000	7		Dukes and Nantucket
+1927	Massachusetts	US	12/08/2021	41.40674725	-70.68763497	4020	7		Dukes and Nantucket
+1927	Massachusetts	US	12/09/2021	41.40674725	-70.68763497	4051	7		Dukes and Nantucket
+1927	Massachusetts	US	12/10/2021	41.40674725	-70.68763497	4076	7		Dukes and Nantucket
+1927	Massachusetts	US	12/11/2021	41.40674725	-70.68763497	4076	7		Dukes and Nantucket
+1927	Massachusetts	US	12/12/2021	41.40674725	-70.68763497	4076	7		Dukes and Nantucket

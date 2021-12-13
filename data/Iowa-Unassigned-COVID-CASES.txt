@@ -617,3 +617,8 @@
 1574	Iowa	US	12/05/2021			6452	0		Unassigned
 1574	Iowa	US	12/06/2021			6452	0		Unassigned
 1574	Iowa	US	12/07/2021			10567	0		Unassigned
+1574	Iowa	US	12/08/2021			48	0		Unassigned
+1574	Iowa	US	12/09/2021			1448	105		Unassigned
+1574	Iowa	US	12/10/2021			36	0		Unassigned
+1574	Iowa	US	12/11/2021			519	0		Unassigned
+1574	Iowa	US	12/12/2021			519	0		Unassigned

@@ -615,3 +615,8 @@
 2931	Oklahoma	US	12/05/2021			4448	1120		Unassigned
 2931	Oklahoma	US	12/06/2021			8786	1148		Unassigned
 2931	Oklahoma	US	12/07/2021			9761	1149		Unassigned
+2931	Oklahoma	US	12/08/2021			2211	1180		Unassigned
+2931	Oklahoma	US	12/09/2021			3664	1180		Unassigned
+2931	Oklahoma	US	12/10/2021			5375	1191		Unassigned
+2931	Oklahoma	US	12/11/2021			5375	1191		Unassigned
+2931	Oklahoma	US	12/12/2021			5375	1191		Unassigned

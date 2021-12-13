@@ -625,3 +625,8 @@
 989	Colorado	US	12/05/2021			107	0		Unassigned
 989	Colorado	US	12/06/2021			107	0		Unassigned
 989	Colorado	US	12/07/2021			107	0		Unassigned
+989	Colorado	US	12/08/2021			107	0		Unassigned
+989	Colorado	US	12/09/2021			108	0		Unassigned
+989	Colorado	US	12/10/2021			109	0		Unassigned
+989	Colorado	US	12/11/2021			109	0		Unassigned
+989	Colorado	US	12/12/2021			109	0		Unassigned

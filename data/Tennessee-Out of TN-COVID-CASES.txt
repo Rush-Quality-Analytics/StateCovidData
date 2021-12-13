@@ -624,3 +624,8 @@
 3309	Tennessee	US	12/05/2021			29796	144		Out of TN
 3309	Tennessee	US	12/06/2021			29908	145		Out of TN
 3309	Tennessee	US	12/07/2021			29955	154		Out of TN
+3309	Tennessee	US	12/08/2021			30030	156		Out of TN
+3309	Tennessee	US	12/09/2021			30030	156		Out of TN
+3309	Tennessee	US	12/10/2021			29887	154		Out of TN
+3309	Tennessee	US	12/11/2021			29887	154		Out of TN
+3309	Tennessee	US	12/12/2021			29887	154		Out of TN
