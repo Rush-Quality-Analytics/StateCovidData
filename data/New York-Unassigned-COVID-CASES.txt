@@ -630,3 +630,4 @@
 2606	New York	US	12/10/2021			145	1		Unassigned
 2606	New York	US	12/11/2021			145	1		Unassigned
 2606	New York	US	12/12/2021			145	1		Unassigned
+2606	New York	US	12/13/2021			148	1		Unassigned

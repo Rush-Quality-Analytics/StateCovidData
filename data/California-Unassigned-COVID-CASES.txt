@@ -623,3 +623,4 @@
 923	California	US	12/10/2021			146	0		Unassigned
 923	California	US	12/11/2021			146	0		Unassigned
 923	California	US	12/12/2021			146	0		Unassigned
+923	California	US	12/13/2021			236	0		Unassigned

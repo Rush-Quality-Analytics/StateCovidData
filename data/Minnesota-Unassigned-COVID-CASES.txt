@@ -625,3 +625,4 @@
 2103	Minnesota	US	12/10/2021			555	124		Unassigned
 2103	Minnesota	US	12/11/2021			555	124		Unassigned
 2103	Minnesota	US	12/12/2021			555	124		Unassigned
+2103	Minnesota	US	12/13/2021			561	124		Unassigned

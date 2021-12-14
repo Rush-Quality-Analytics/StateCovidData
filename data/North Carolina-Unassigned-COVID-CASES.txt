@@ -605,3 +605,4 @@
 2702	North Carolina	US	12/10/2021			9	0		Unassigned
 2702	North Carolina	US	12/11/2021			9	0		Unassigned
 2702	North Carolina	US	12/12/2021			9	0		Unassigned
+2702	North Carolina	US	12/13/2021			168	0		Unassigned
