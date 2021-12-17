@@ -449,3 +449,5 @@
 2588	New York	US	12/12/2021			0	347		Out of NY
 2588	New York	US	12/13/2021			0	349		Out of NY
 2588	New York	US	12/14/2021			0	351		Out of NY
+2588	New York	US	12/15/2021			0	353		Out of NY
+2588	New York	US	12/16/2021			0	353		Out of NY
