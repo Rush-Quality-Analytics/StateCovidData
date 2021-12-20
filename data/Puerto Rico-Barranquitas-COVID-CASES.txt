@@ -518,3 +518,4 @@
 3051	Puerto Rico	US	12/16/2021	18.201592	-66.30963	1572	0		Barranquitas
 3051	Puerto Rico	US	12/17/2021	18.201592	-66.30963	1585	0		Barranquitas
 3051	Puerto Rico	US	12/18/2021	18.201592	-66.30963	1617	0		Barranquitas
+3051	Puerto Rico	US	12/19/2021	18.201592	-66.30963	1634	0		Barranquitas

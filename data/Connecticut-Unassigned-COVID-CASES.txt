@@ -628,3 +628,4 @@
 1000	Connecticut	US	12/16/2021			1608	0		Unassigned
 1000	Connecticut	US	12/17/2021			1613	0		Unassigned
 1000	Connecticut	US	12/18/2021			1613	0		Unassigned
+1000	Connecticut	US	12/19/2021			1613	0		Unassigned
