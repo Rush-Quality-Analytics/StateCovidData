@@ -1,2 +1,2 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1149	Sterling	1	US	0			Alaska	0	03/22/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1149	Alaska	US	03/22/2020			1	0	0	Sterling

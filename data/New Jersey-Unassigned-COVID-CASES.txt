@@ -1,509 +1,641 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-76	Unassigned	221	US	4	0.0	0.0	New Jersey	0	03/22/2020
-2871	Unassigned	419	US	9	0.0	0.0	New Jersey	0	03/23/2020
-2870	Unassigned	645	US	26	0.0	0.0	New Jersey	0	03/24/2020
-2869	Unassigned	930	US	44	0.0	0.0	New Jersey	0	03/25/2020
-2867	Unassigned	1478	US	63	0.0	0.0	New Jersey	0	03/26/2020
-2873	Unassigned	1984	US	82	0.0	0.0	New Jersey	0	03/27/2020
-2870	Unassigned	2478	US	86	0.0	0.0	New Jersey	0	03/28/2020
-2873	Unassigned	3020	US	56	0.0	0.0	New Jersey	0	03/29/2020
-2876	Unassigned	3847	US	91	0.0	0.0	New Jersey	0	03/30/2020
-1949	Unassigned	3686	US	247	0.0	0.0	New Jersey	0	03/31/2020
-1995	Unassigned	4512	US	0	0.0	0.0	New Jersey	0	04/01/2020
-2068	Unassigned	4866	US	4			New Jersey	0	04/02/2020
-2113	Unassigned	4808	US	4			New Jersey	0	04/03/2020
-2167	Unassigned	3935	US	14			New Jersey	0	04/04/2020
-2241	Unassigned	3821	US	13			New Jersey	0	04/05/2020
-2279	Unassigned	3521	US	14			New Jersey	0	04/06/2020
-2326	Unassigned	2207	US	5			New Jersey	0	04/07/2020
-2350	Unassigned	1391	US	4			New Jersey	0	04/08/2020
-2376	Unassigned	996	US	4			New Jersey	0	04/09/2020
-2400	Unassigned	649	US	2			New Jersey	0	04/10/2020
-2425	Unassigned	924	US	2			New Jersey	0	04/11/2020
-2447	Unassigned	1274	US	2			New Jersey	0	04/12/2020
-2461	Unassigned	1203	US	2			New Jersey	0	04/13/2020
-2471	Unassigned	1702	US	2			New Jersey	0	04/14/2020
-2483	Unassigned	1189	US	2			New Jersey	0	04/15/2020
-2497	Unassigned	1048	US	3			New Jersey	0	04/16/2020
-2499	Unassigned	719	US	3			New Jersey	0	04/17/2020
-2506	Unassigned	748	US	2			New Jersey	0	04/18/2020
-2523	Unassigned	585	US	0			New Jersey	0	04/19/2020
-2532	Unassigned	585	US	0			New Jersey	0	04/20/2020
-2541	Unassigned	3073	US	233			New Jersey	0	04/21/2020
-2548	Unassigned	1045	US	0			New Jersey	0	04/22/2020
-2565	Unassigned	1108	US	0			New Jersey	0	04/23/2020
-2571	Unassigned	532	US	0			New Jersey	0	04/24/2020
-2576	Unassigned	532	US	0			New Jersey	0	04/25/2020
-2584	Unassigned	681	US	0			New Jersey	0	04/26/2020
-2591	Unassigned	818	US	0			New Jersey	0	04/27/2020
-2600	Unassigned	718	US	0			New Jersey	0	04/28/2020
-2605	Unassigned	718	US	0			New Jersey	0	04/29/2020
-2611	Unassigned	478	US	0			New Jersey	0	04/30/2020
-2621	Unassigned	583	US	0			New Jersey	0	05/01/2020
-2625	Unassigned	676	US	0			New Jersey	0	05/02/2020
-2630	Unassigned	641	US	0			New Jersey	0	05/03/2020
-2633	Unassigned	647	US	0			New Jersey	0	05/04/2020
-2641	Unassigned	550	US	0			New Jersey	0	05/05/2020
-2647	Unassigned	594	US	0			New Jersey	0	05/06/2020
-2654	Unassigned	0	US	0			New Jersey	0	05/07/2020
-2661	Unassigned	0	US	0			New Jersey	0	05/08/2020
-2663	Unassigned	0	US	0			New Jersey	0	05/09/2020
-2665	Unassigned	0	US	0			New Jersey	0	05/10/2020
-2665	Unassigned	0	US	0			New Jersey	0	05/11/2020
-2668	Unassigned	0	US	0			New Jersey	0	05/12/2020
-2669	Unassigned	89	US	0			New Jersey	0	05/13/2020
-2671	Unassigned	253	US	0			New Jersey	0	05/14/2020
-2676	Unassigned	0	US	0			New Jersey	0	05/15/2020
-2680	Unassigned	155	US	0			New Jersey	0	05/16/2020
-2683	Unassigned	0	US	0			New Jersey	0	05/17/2020
-2685	Unassigned	0	US	0			New Jersey	0	05/18/2020
-2689	Unassigned	0	US	0			New Jersey	0	05/19/2020
-2695	Unassigned	0	US	0			New Jersey	0	05/20/2020
-2697	Unassigned	0	US	0			New Jersey	0	05/21/2020
-2704	Unassigned	0	US	0			New Jersey	0	05/22/2020
-2706	Unassigned	0	US	0			New Jersey	0	05/23/2020
-2709	Unassigned	226	US	0			New Jersey	0	05/24/2020
-2710	Unassigned	226	US	0			New Jersey	0	05/25/2020
-2711	Unassigned	228	US	0			New Jersey	0	05/26/2020
-2714	Unassigned	698	US	0			New Jersey	0	05/27/2020
-2717	Unassigned	32	US	0			New Jersey	0	05/28/2020
-2720	Unassigned	448	US	0			New Jersey	0	05/29/2020
-2722	Unassigned	394	US	0			New Jersey	0	05/30/2020
-2723	Unassigned	502	US	0			New Jersey	0	05/31/2020
-2725	Unassigned	452	US	0			New Jersey	0	06/01/2020
-2730	Unassigned	570	US	0			New Jersey	0	06/02/2020
-2732	Unassigned	460	US	0			New Jersey	0	06/03/2020
-2733	Unassigned	426	US	0			New Jersey	0	06/04/2020
-2737	Unassigned	403	US	0			New Jersey	0	06/05/2020
-2739	Unassigned	390	US	0			New Jersey	0	06/06/2020
-2739	Unassigned	373	US	0			New Jersey	0	06/07/2020
-2739	Unassigned	285	US	0			New Jersey	0	06/08/2020
-2741	Unassigned	255	US	0			New Jersey	0	06/09/2020
-2743	Unassigned	211	US	0			New Jersey	0	06/10/2020
-2745	Unassigned	232	US	0			New Jersey	0	06/11/2020
-2759	Unassigned	192	US	0			New Jersey	0	06/12/2020
-2762	Unassigned	198	US	0			New Jersey	0	06/13/2020
-2762	Unassigned	196	US	0			New Jersey	0	06/14/2020
-2766	Unassigned	186	US	0			New Jersey	0	06/15/2020
-2764	Unassigned	141	US	0			New Jersey	0	06/16/2020
-2766	Unassigned	124	US	0			New Jersey	0	06/17/2020
-2766	Unassigned	149	US	0			New Jersey	0	06/18/2020
-2767	Unassigned	160	US	0			New Jersey	0	06/19/2020
-2771	Unassigned	149	US	0			New Jersey	0	06/20/2020
-2771	Unassigned	83	US	0			New Jersey	0	06/21/2020
-2774	Unassigned	53	US	0			New Jersey	0	06/22/2020
-2779	Unassigned	112	US	0			New Jersey	0	06/23/2020
-2791	Unassigned	92	US	0			New Jersey	0	06/24/2020
-2796	Unassigned	706	US	0			New Jersey	0	06/25/2020
-2797	Unassigned	701	US	0			New Jersey	0	06/26/2020
-2798	Unassigned	697	US	0			New Jersey	0	06/27/2020
-2798	Unassigned	651	US	0			New Jersey	0	06/28/2020
-2800	Unassigned	636	US	0			New Jersey	0	06/29/2020
-2802	Unassigned	642	US	0			New Jersey	0	06/30/2020
-2804	Unassigned	643	US	0			New Jersey	0	07/01/2020
-2807	Unassigned	672	US	0			New Jersey	0	07/02/2020
-2812	Unassigned	658	US	0			New Jersey	0	07/03/2020
-2813	Unassigned	679	US	0			New Jersey	0	07/04/2020
-2814	Unassigned	685	US	0			New Jersey	0	07/05/2020
-2817	Unassigned	695	US	0			New Jersey	0	07/06/2020
-2818	Unassigned	682	US	0			New Jersey	0	07/07/2020
-2821	Unassigned	656	US	0			New Jersey	0	07/08/2020
-2820	Unassigned	665	US	0			New Jersey	0	07/09/2020
-2824	Unassigned	667	US	0			New Jersey	0	07/10/2020
-2825	Unassigned	647	US	0			New Jersey	0	07/11/2020
-2827	Unassigned	665	US	0			New Jersey	0	07/12/2020
-2828	Unassigned	656	US	0			New Jersey	0	07/13/2020
-2834	Unassigned	644	US	0			New Jersey	0	07/14/2020
-2835	Unassigned	645	US	0			New Jersey	0	07/15/2020
-2837	Unassigned	636	US	0			New Jersey	0	07/16/2020
-2837	Unassigned	630	US	0			New Jersey	0	07/17/2020
-2910	Unassigned	666	US	0			New Jersey	0	07/18/2020
-2910	Unassigned	674	US	0			New Jersey	0	07/19/2020
-2833	Unassigned	650	US	0			New Jersey	0	07/20/2020
-2914	Unassigned	688	US	0			New Jersey	0	07/21/2020
-2915	Unassigned	682	US	0			New Jersey	0	07/22/2020
-2918	Unassigned	671	US	0			New Jersey	0	07/23/2020
-2917	Unassigned	675	US	0			New Jersey	0	07/24/2020
-2918	Unassigned	680	US	0			New Jersey	0	07/25/2020
-2919	Unassigned	707	US	0			New Jersey	0	07/26/2020
-2919	Unassigned	701	US	0			New Jersey	0	07/27/2020
-2919	Unassigned	680	US	0			New Jersey	0	07/28/2020
-2923	Unassigned	489	US	0			New Jersey	0	07/29/2020
-2923	Unassigned	646	US	0			New Jersey	0	07/30/2020
-2925	Unassigned	648	US	0			New Jersey	0	07/31/2020
-2925	Unassigned	656	US	0			New Jersey	0	08/01/2020
-2925	Unassigned	674	US	0			New Jersey	0	08/02/2020
-2925	Unassigned	672	US	0			New Jersey	0	08/03/2020
-2925	Unassigned	644	US	0			New Jersey	0	08/04/2020
-2929	Unassigned	640	US	0			New Jersey	0	08/05/2020
-2929	Unassigned	642	US	0			New Jersey	0	08/06/2020
-2929	Unassigned	653	US	0			New Jersey	0	08/07/2020
-2929	Unassigned	642	US	0			New Jersey	0	08/08/2020
-2929	Unassigned	646	US	0			New Jersey	0	08/09/2020
-2929	Unassigned	645	US	0			New Jersey	0	08/10/2020
-2504	Unassigned	660	US	0			New Jersey	0	08/11/2020
-2458	Unassigned	740	US	0			New Jersey	0	08/12/2020
-2459	Unassigned	939	US	0			New Jersey	0	08/13/2020
-2459	Unassigned	1001	US	0			New Jersey	0	08/14/2020
-2459	Unassigned	773	US	0			New Jersey	0	08/15/2020
-2459	Unassigned	442	US	0			New Jersey	0	08/16/2020
-2461	Unassigned	426	US	0			New Jersey	0	08/17/2020
-2461	Unassigned	402	US	0			New Jersey	0	08/18/2020
-2463	Unassigned	378	US	0			New Jersey	0	08/19/2020
-2463	Unassigned	324	US	0			New Jersey	0	08/20/2020
-2463	Unassigned	328	US	0			New Jersey	0	08/21/2020
-2464	Unassigned	427	US	0			New Jersey	0	08/22/2020
-2464	Unassigned	319	US	0			New Jersey	0	08/23/2020
-2464	Unassigned	318	US	0			New Jersey	0	08/24/2020
-2464	Unassigned	310	US	0			New Jersey	0	08/25/2020
-2464	Unassigned	297	US	0			New Jersey	0	08/26/2020
-2464	Unassigned	301	US	0			New Jersey	0	08/27/2020
-2464	Unassigned	328	US	0			New Jersey	0	08/28/2020
-2464	Unassigned	337	US	0			New Jersey	0	08/29/2020
-2464	Unassigned	364	US	0			New Jersey	0	08/30/2020
-2464	Unassigned	368	US	0			New Jersey	0	08/31/2020
-2464	Unassigned	316	US	0			New Jersey	0	09/01/2020
-2464	Unassigned	304	US	0			New Jersey	0	09/02/2020
-2464	Unassigned	305	US	0			New Jersey	0	09/03/2020
-2464	Unassigned	307	US	0			New Jersey	0	09/04/2020
-2464	Unassigned	307	US	0			New Jersey	0	09/05/2020
-2464	Unassigned	308	US	0			New Jersey	0	09/06/2020
-2464	Unassigned	304	US	0			New Jersey	0	09/07/2020
-2464	Unassigned	307	US	0			New Jersey	0	09/08/2020
-2464	Unassigned	303	US	0			New Jersey	0	09/09/2020
-2464	Unassigned	308	US	0			New Jersey	0	09/10/2020
-2464	Unassigned	313	US	0			New Jersey	0	09/11/2020
-2464	Unassigned	306	US	0			New Jersey	0	09/12/2020
-2464	Unassigned	311	US	0			New Jersey	0	09/13/2020
-2464	Unassigned	313	US	0			New Jersey	0	09/14/2020
-2464	Unassigned	301	US	0			New Jersey	0	09/15/2020
-2464	Unassigned	320	US	0			New Jersey	0	09/16/2020
-2464	Unassigned	324	US	0			New Jersey	0	09/17/2020
-2464	Unassigned	314	US	0			New Jersey	0	09/18/2020
-2464	Unassigned	316	US	0			New Jersey	0	09/19/2020
-2464	Unassigned	330	US	0			New Jersey	0	09/20/2020
-2465	Unassigned	340	US	0			New Jersey	0	09/21/2020
-2465	Unassigned	326	US	0			New Jersey	0	09/22/2020
-2465	Unassigned	346	US	0			New Jersey	0	09/23/2020
-2465	Unassigned	9	US	0			New Jersey	0	09/24/2020
-2465	Unassigned	340	US	0			New Jersey	0	09/25/2020
-2465	Unassigned	336	US	0			New Jersey	0	09/26/2020
-2465	Unassigned	336	US	0			New Jersey	0	09/27/2020
-2465	Unassigned	339	US	0			New Jersey	0	09/28/2020
-2465	Unassigned	339	US	0			New Jersey	0	09/29/2020
-2465	Unassigned	329	US	0			New Jersey	0	09/30/2020
-2465	Unassigned	338	US	13			New Jersey	0	10/01/2020
-2465	Unassigned	342	US	0			New Jersey	0	10/02/2020
-2465	Unassigned	354	US	0			New Jersey	0	10/03/2020
-2465	Unassigned	374	US	0			New Jersey	0	10/04/2020
-2465	Unassigned	382	US	0			New Jersey	0	10/05/2020
-2465	Unassigned	353	US	0			New Jersey	0	10/06/2020
-2465	Unassigned	357	US	0			New Jersey	0	10/07/2020
-2465	Unassigned	358	US	0			New Jersey	0	10/08/2020
-2465	Unassigned	363	US	0			New Jersey	0	10/09/2020
-2465	Unassigned	362	US	0			New Jersey	0	10/10/2020
-2465	Unassigned	375	US	0			New Jersey	0	10/11/2020
-2466	Unassigned	373	US	0			New Jersey	0	10/12/2020
-2466	Unassigned	392	US	0			New Jersey	0	10/13/2020
-2466	Unassigned	383	US	0			New Jersey	0	10/14/2020
-2466	Unassigned	385	US	0			New Jersey	0	10/15/2020
-2467	Unassigned	380	US	0			New Jersey	0	10/16/2020
-2467	Unassigned	368	US	0			New Jersey	0	10/17/2020
-2467	Unassigned	28	US	0			New Jersey	0	10/18/2020
-2468	Unassigned	397	US	0			New Jersey	0	10/19/2020
-2468	Unassigned	416	US	0			New Jersey	0	10/20/2020
-2468	Unassigned	404	US	0			New Jersey	0	10/21/2020
-2468	Unassigned	428	US	0			New Jersey	0	10/22/2020
-2468	Unassigned	432	US	0			New Jersey	0	10/23/2020
-2468	Unassigned	512	US	0			New Jersey	0	10/24/2020
-2468	Unassigned	504	US	0			New Jersey	0	10/25/2020
-2468	Unassigned	505	US	0			New Jersey	0	10/26/2020
-2468	Unassigned	480	US	0			New Jersey	0	10/27/2020
-2469	Unassigned	537	US	0.0			New Jersey	0	10/28/2020
-2469	Unassigned	524	US	0			New Jersey	0	10/29/2020
-2469	Unassigned	522	US	0			New Jersey	0	10/30/2020
-2469	Unassigned	563	US	0			New Jersey	0	10/31/2020
-2469	Unassigned	611	US	0			New Jersey	0	11/01/2020
-2469	Unassigned	624	US	0			New Jersey	0	11/02/2020
-2470	Unassigned	550	US	0			New Jersey	0	11/03/2020
-2470	Unassigned	569	US	0			New Jersey	0	11/04/2020
-2470	Unassigned	573	US	0			New Jersey	0	11/05/2020
-2470	Unassigned	563	US	0			New Jersey	0	11/06/2020
-2470	Unassigned	564	US	0			New Jersey	0	11/07/2020
-2470	Unassigned	569	US	0			New Jersey	0	11/08/2020
-2470	Unassigned	596	US	0			New Jersey	0.0	11/09/2020
-2470	Unassigned	598	US	0			New Jersey	0.0	11/10/2020
-2470	Unassigned	639	US	0			New Jersey	0.0	11/11/2020
-2482	Unassigned	642	US	0			New Jersey	0	11/12/2020
-2482	Unassigned	639	US	0			New Jersey	0	11/13/2020
-2482	Unassigned	652	US	0			New Jersey	0	11/14/2020
-2482	Unassigned	684	US	0			New Jersey	0	11/15/2020
-2482	Unassigned	669	US	0			New Jersey	0	11/16/2020
-2482	Unassigned	706	US	0			New Jersey	0	11/17/2020
-2482	Unassigned	734	US	0			New Jersey	0	11/18/2020
-2482	Unassigned	696	US	0			New Jersey	0	11/19/2020
-2482	Unassigned	640	US	0			New Jersey	0	11/20/2020
-2482	Unassigned	650	US	0			New Jersey	0	11/21/2020
-2482	Unassigned	697	US	0			New Jersey	0	11/22/2020
-2482	Unassigned	724	US	0			New Jersey	0	11/23/2020
-2483	Unassigned	711	US	0			New Jersey	0	11/24/2020
-2483	Unassigned	720	US	0			New Jersey	0	11/25/2020
-2483	Unassigned	711	US	0			New Jersey	0	11/26/2020
-2483	Unassigned	747	US	0			New Jersey	0	11/27/2020
-2483	Unassigned	1861	US	0			New Jersey	0	11/28/2020
-2483	Unassigned	890	US	0			New Jersey	0	11/29/2020
-2483	Unassigned	886	US	0			New Jersey	0	11/30/2020
-2483	Unassigned	873	US	0			New Jersey	0	12/01/2020
-2483	Unassigned	830	US	0			New Jersey	0	12/02/2020
-2483	Unassigned	821	US	0			New Jersey	0	12/03/2020
-2483	Unassigned	806	US	0			New Jersey	0	12/04/2020
-2483	Unassigned	787	US	0			New Jersey	0	12/05/2020
-2483	Unassigned	843	US	0			New Jersey	0	12/06/2020
-2483	Unassigned	869	US	0			New Jersey	0	12/07/2020
-2483	Unassigned	862	US	0			New Jersey	0	12/08/2020
-2483	Unassigned	893	US	0			New Jersey	0	12/09/2020
-2483	Unassigned	945	US	0			New Jersey	0	12/10/2020
-2483	Unassigned	917	US	0			New Jersey	0	12/11/2020
-2483	Unassigned	935	US	0			New Jersey	0	12/12/2020
-2483	Unassigned	1019	US	0			New Jersey	0	12/13/2020
-2483	Unassigned	1028	US	0			New Jersey	0	12/14/2020
-2483	Unassigned	975	US	0			New Jersey	0	12/15/2020
-2483	Unassigned	961	US	0			New Jersey	0	12/16/2020
-2483	Unassigned	972	US	0			New Jersey	0	12/17/2020
-2483	Unassigned	1006	US	0			New Jersey	0	12/18/2020
-2483	Unassigned	1024	US	0			New Jersey	0	12/19/2020
-2483	Unassigned	1080	US	0			New Jersey	0	12/20/2020
-2483	Unassigned	1079	US	0			New Jersey	0	12/21/2020
-2483	Unassigned	1083	US	0			New Jersey	0	12/22/2020
-2483	Unassigned	1077	US	0			New Jersey	0	12/23/2020
-2483	Unassigned	1105	US	0			New Jersey	0	12/24/2020
-2483	Unassigned	1107	US	0			New Jersey	0	12/25/2020
-2483	Unassigned	1116	US	0			New Jersey	0	12/26/2020
-2483	Unassigned	1129	US	0			New Jersey	0	12/27/2020
-2483	Unassigned	1128	US	0			New Jersey	0	12/28/2020
-2483	Unassigned	1082	US	0			New Jersey	0	12/29/2020
-2483	Unassigned	1042	US	0			New Jersey	0	12/30/2020
-2483	Unassigned	1057	US	0			New Jersey	0	12/31/2020
-2483	Unassigned	1075	US	0			New Jersey	0	01/01/2021
-2483	Unassigned	1140	US	0			New Jersey	0	01/02/2021
-2484	Unassigned	1151	US	0			New Jersey	0	01/03/2021
-2484	Unassigned	1133	US	0			New Jersey	0	01/04/2021
-2484	Unassigned	1118	US	0			New Jersey	0	01/05/2021
-2484	Unassigned	1158	US	0			New Jersey	0	01/06/2021
-2484	Unassigned	1245	US	0			New Jersey	0	01/07/2021
-2484	Unassigned	1268	US	0			New Jersey	0	01/08/2021
-2484	Unassigned	1354	US	0			New Jersey	0	01/09/2021
-2484	Unassigned	1485	US	0			New Jersey	0	01/10/2021
-2484	Unassigned	1511	US	0			New Jersey	0	01/11/2021
-2484	Unassigned	1419	US	0			New Jersey	0	01/12/2021
-2484	Unassigned	1413	US	0			New Jersey	0	01/13/2021
-2484	Unassigned	1368	US	0			New Jersey	0	01/14/2021
-2485	Unassigned	1298	US	0			New Jersey	0	01/15/2021
-2485	Unassigned	1333	US	0			New Jersey	0	01/16/2021
-2485	Unassigned	1376	US	0			New Jersey	0	01/17/2021
-2485	Unassigned	1409	US	0			New Jersey	0	01/18/2021
-2485	Unassigned	1329	US	0			New Jersey	0	01/19/2021
-2485	Unassigned	1271	US	0			New Jersey	0	01/20/2021
-2486	Unassigned	1251	US	0			New Jersey	0	01/21/2021
-2486	Unassigned	1218	US	0			New Jersey	0	01/22/2021
-2486	Unassigned	1266	US	0			New Jersey	0	01/23/2021
-2486	Unassigned	1279	US	0			New Jersey	0	01/24/2021
-2486	Unassigned	1293	US	0			New Jersey	0	01/25/2021
-2486	Unassigned	1327	US	0			New Jersey	0	01/26/2021
-2486	Unassigned	1209	US	0			New Jersey	0	01/27/2021
-2486	Unassigned	1172	US	0			New Jersey	0	01/28/2021
-2486	Unassigned	1172	US	0			New Jersey	0	01/29/2021
-2486	Unassigned	1173	US	0			New Jersey	0	01/30/2021
-2486	Unassigned	1201	US	0			New Jersey	0	01/31/2021
-2486	Unassigned	1253	US	0			New Jersey	0	02/01/2021
-2486	Unassigned	1140	US	0			New Jersey	0	02/02/2021
-2486	Unassigned	1096	US	0			New Jersey	0	02/03/2021
-2486	Unassigned	1074	US	0			New Jersey	0	02/04/2021
-2486	Unassigned	1045	US	0			New Jersey	0	02/05/2021
-2486	Unassigned	1055	US	0			New Jersey	0	02/06/2021
-2486	Unassigned	1056	US	0			New Jersey	0	02/07/2021
-2486	Unassigned	1082	US	0			New Jersey	0	02/08/2021
-2486	Unassigned	1058	US	0			New Jersey	0	02/09/2021
-2486	Unassigned	1036	US	88			New Jersey	0	02/10/2021
-2486	Unassigned	1023	US	0			New Jersey	0	02/11/2021
-2486	Unassigned	1015	US	0			New Jersey	0	02/12/2021
-2486	Unassigned	979	US	0			New Jersey	0	02/13/2021
-2486	Unassigned	982	US	0			New Jersey	0	02/14/2021
-2486	Unassigned	998	US	0			New Jersey	0	02/15/2021
-2486	Unassigned	939	US	0			New Jersey	0	02/16/2021
-2486	Unassigned	928	US	0			New Jersey	0	02/17/2021
-2486	Unassigned	909	US	0			New Jersey	0	02/18/2021
-2487	Unassigned	851	US	0			New Jersey	0	02/19/2021
-2487	Unassigned	852	US	0			New Jersey	0	02/20/2021
-2487	Unassigned	1088	US	0			New Jersey	0	02/21/2021
-2487	Unassigned	875	US	0			New Jersey	0	02/22/2021
-2487	Unassigned	902	US	0			New Jersey	0	02/23/2021
-2487	Unassigned	892	US	0			New Jersey	0	02/24/2021
-2487	Unassigned	892	US	0			New Jersey	0	02/25/2021
-2487	Unassigned	1056	US	0			New Jersey	0	02/26/2021
-2487	Unassigned	1107	US	0			New Jersey	0	02/27/2021
-2487	Unassigned	1134	US	0			New Jersey	0	02/28/2021
-2487	Unassigned	1026	US	0			New Jersey	0	03/01/2021
-2487	Unassigned	1037	US	0			New Jersey	0	03/02/2021
-2487	Unassigned	1123	US	0			New Jersey	0	03/03/2021
-2487	Unassigned	1194	US	0			New Jersey	0	03/04/2021
-2487	Unassigned	1210	US	0			New Jersey	0	03/05/2021
-2487	Unassigned	1220	US	0			New Jersey	0	03/06/2021
-2487	Unassigned	1187	US	0			New Jersey		03/07/2021
-2487	Unassigned	1139	US	0			New Jersey		03/08/2021
-2487	Unassigned	1102	US	0			New Jersey		03/09/2021
-2487	Unassigned	1141	US	0			New Jersey		03/10/2021
-2487	Unassigned	1240	US	0			New Jersey		03/11/2021
-2487	Unassigned	1069	US	0			New Jersey		03/12/2021
-2487	Unassigned	1058	US	0			New Jersey		03/13/2021
-2487	Unassigned	1026	US	0			New Jersey		03/14/2021
-2487	Unassigned	1029	US	0			New Jersey		03/15/2021
-2487	Unassigned	1048	US	0			New Jersey		03/16/2021
-2487	Unassigned	1048	US	0			New Jersey		03/17/2021
-2487	Unassigned	1048	US	0			New Jersey		03/18/2021
-2487	Unassigned	1225	US	0			New Jersey		03/19/2021
-2487	Unassigned	1254	US	0			New Jersey		03/20/2021
-2487	Unassigned	1238	US	0			New Jersey		03/21/2021
-2487	Unassigned	1233	US	0			New Jersey		03/22/2021
-2487	Unassigned	1267	US	0			New Jersey		03/23/2021
-2487	Unassigned	1280	US	0			New Jersey		03/24/2021
-2487	Unassigned	1244	US	0			New Jersey		03/25/2021
-2487	Unassigned	1221	US	0			New Jersey		03/26/2021
-2487	Unassigned	1127	US	0			New Jersey		03/27/2021
-2487	Unassigned	1140	US	0			New Jersey		03/28/2021
-2487	Unassigned	1145	US	0			New Jersey		03/29/2021
-2487	Unassigned	1050	US	0			New Jersey		03/30/2021
-2487	Unassigned	1055	US	0			New Jersey		03/31/2021
-2487	Unassigned	1101	US	0			New Jersey		04/01/2021
-2489	Unassigned	1083	US	0			New Jersey		04/02/2021
-2489	Unassigned	1073	US	0			New Jersey		04/03/2021
-2489	Unassigned	1073	US	0			New Jersey		04/04/2021
-2489	Unassigned	1076	US	0			New Jersey		04/05/2021
-2489	Unassigned	1028	US	0			New Jersey		04/06/2021
-2489	Unassigned	997	US	0			New Jersey		04/07/2021
-2489	Unassigned	939	US	0			New Jersey		04/08/2021
-2489	Unassigned	917	US	0			New Jersey		04/09/2021
-2489	Unassigned	871	US	0			New Jersey		04/10/2021
-2489	Unassigned	885	US	0			New Jersey		04/11/2021
-2489	Unassigned	885	US	0			New Jersey		04/12/2021
-2489	Unassigned	842	US	0			New Jersey		04/13/2021
-2489	Unassigned	866	US	0			New Jersey		04/14/2021
-2489	Unassigned	866	US	0			New Jersey		04/15/2021
-2489	Unassigned	814	US	0			New Jersey		04/16/2021
-2489	Unassigned	816	US	0			New Jersey		04/17/2021
-2489	Unassigned	824	US	0			New Jersey		04/18/2021
-2489	Unassigned	832	US	0			New Jersey		04/19/2021
-2489	Unassigned	848	US	0			New Jersey		04/20/2021
-2489	Unassigned	820	US	0			New Jersey		04/21/2021
-2489	Unassigned	842	US	0			New Jersey		04/22/2021
-2489	Unassigned	841	US	0			New Jersey		04/23/2021
-2489	Unassigned	847	US	0			New Jersey		04/24/2021
-2489	Unassigned	851	US	0			New Jersey		04/25/2021
-2489	Unassigned	865	US	0			New Jersey		04/26/2021
-2489	Unassigned	849	US	0			New Jersey		04/27/2021
-2489	Unassigned	850	US	0			New Jersey		04/28/2021
-2489	Unassigned	849	US	0			New Jersey		04/29/2021
-2489	Unassigned	850	US	0			New Jersey		04/30/2021
-2489	Unassigned	842	US	0			New Jersey		05/01/2021
-2489	Unassigned	852	US	0			New Jersey		05/02/2021
-2489	Unassigned	856	US	0			New Jersey		05/03/2021
-2489	Unassigned	839	US	0			New Jersey		05/04/2021
-2489	Unassigned	845	US	0			New Jersey		05/05/2021
-2489	Unassigned	833	US	0			New Jersey		05/06/2021
-2489	Unassigned	1727	US	0			New Jersey		05/07/2021
-2489	Unassigned	828	US	0			New Jersey		05/08/2021
-2489	Unassigned	831	US	0			New Jersey		05/09/2021
-2489	Unassigned	835	US	0			New Jersey		05/10/2021
-2489	Unassigned	828	US	0			New Jersey		05/11/2021
-2489	Unassigned	832	US	0			New Jersey		05/12/2021
-2489	Unassigned	845	US	0			New Jersey		05/13/2021
-2489	Unassigned	855	US	0			New Jersey		05/14/2021
-2489	Unassigned	863	US	0			New Jersey		05/15/2021
-2489	Unassigned	866	US	0			New Jersey		05/16/2021
-2489	Unassigned	863	US	0			New Jersey		05/17/2021
-2489	Unassigned	863	US	0			New Jersey		05/18/2021
-2489	Unassigned	856	US	0			New Jersey		05/19/2021
-2489	Unassigned	862	US	0			New Jersey		05/20/2021
-2489	Unassigned	859	US	0			New Jersey		05/21/2021
-2489	Unassigned	864	US	0			New Jersey		05/22/2021
-2489	Unassigned	864	US	0			New Jersey		05/23/2021
-2489	Unassigned	865	US	0			New Jersey		05/24/2021
-2489	Unassigned	854	US	0			New Jersey		05/25/2021
-2489	Unassigned	857	US	0			New Jersey		05/26/2021
-2490	Unassigned	852	US	0			New Jersey		05/27/2021
-2490	Unassigned	825	US	0			New Jersey		05/28/2021
-2490	Unassigned	821	US	0			New Jersey		05/29/2021
-2490	Unassigned	823	US	0			New Jersey		05/30/2021
-2490	Unassigned	824	US	0			New Jersey		05/31/2021
-2490	Unassigned	825	US	0			New Jersey		06/01/2021
-2490	Unassigned	822	US	0			New Jersey		06/02/2021
-2490	Unassigned	825	US	0			New Jersey		06/03/2021
-2490	Unassigned	826	US	0			New Jersey		06/04/2021
-2490	Unassigned	832	US	0			New Jersey		06/05/2021
-2490	Unassigned	832	US	0			New Jersey		06/06/2021
-2490	Unassigned	830	US	0			New Jersey		06/07/2021
-2490	Unassigned	811	US	0			New Jersey		06/08/2021
-2490	Unassigned	815	US	0			New Jersey		06/09/2021
-2490	Unassigned	814	US	0			New Jersey		06/10/2021
-2490	Unassigned	815	US	0			New Jersey		06/11/2021
-2490	Unassigned	815	US	0			New Jersey		06/12/2021
-2490	Unassigned	812	US	0			New Jersey		06/13/2021
-2490	Unassigned	812	US	0			New Jersey		06/14/2021
-2490	Unassigned	811	US	0			New Jersey		06/15/2021
-2490	Unassigned	813	US	0			New Jersey		06/16/2021
-2492	Unassigned	814	US	0			New Jersey		06/17/2021
-2492	Unassigned	815	US	0			New Jersey		06/18/2021
-2492	Unassigned	812	US	0			New Jersey		06/19/2021
-2492	Unassigned	813	US	0			New Jersey		06/20/2021
-2492	Unassigned	813	US	0			New Jersey		06/21/2021
-2492	Unassigned	813	US	0			New Jersey		06/22/2021
-2492	Unassigned	811	US	0			New Jersey		06/23/2021
-2493	Unassigned	809	US	0			New Jersey		06/24/2021
-2493	Unassigned	814	US	0			New Jersey		06/25/2021
-2493	Unassigned	819	US	0			New Jersey		06/26/2021
-2493	Unassigned	822	US	0			New Jersey		06/27/2021
-2493	Unassigned	817	US	0			New Jersey		06/28/2021
-2493	Unassigned	808	US	0			New Jersey		06/29/2021
-2493	Unassigned	812	US	0			New Jersey		06/30/2021
-2493	Unassigned	817	US	0			New Jersey		07/01/2021
-2493	Unassigned	816	US	0			New Jersey		07/02/2021
-2493	Unassigned	822	US	0			New Jersey		07/03/2021
-2493	Unassigned	821	US	0			New Jersey		07/04/2021
-2493	Unassigned	823	US	0			New Jersey		07/05/2021
-2493	Unassigned	825	US	0			New Jersey		07/06/2021
-2493	Unassigned	826	US	0			New Jersey		07/07/2021
-2493	Unassigned	823	US	0			New Jersey		07/08/2021
-2493	Unassigned	820	US	0			New Jersey		07/09/2021
-2493	Unassigned	826	US	0			New Jersey		07/10/2021
-2493	Unassigned	830	US	0			New Jersey		07/11/2021
-2493	Unassigned	832	US	0			New Jersey		07/12/2021
-2493	Unassigned	821	US	0			New Jersey		07/13/2021
-2493	Unassigned	820	US	0			New Jersey		07/14/2021
-2493	Unassigned	829	US	0			New Jersey		07/15/2021
-2493	Unassigned	828	US	0			New Jersey		07/16/2021
-2493	Unassigned	820	US	0			New Jersey		07/17/2021
-2493	Unassigned	826	US	0			New Jersey		07/18/2021
-2493	Unassigned	828	US	0			New Jersey		07/19/2021
-2493	Unassigned	826	US	0			New Jersey		07/20/2021
-2493	Unassigned	823	US	0			New Jersey		07/21/2021
-2493	Unassigned	823	US	0			New Jersey		07/22/2021
-2493	Unassigned	819	US	0			New Jersey		07/23/2021
-2493	Unassigned	816	US	0			New Jersey		07/24/2021
-2493	Unassigned	819	US	0			New Jersey		07/25/2021
-2493	Unassigned	820	US	0			New Jersey		07/26/2021
-2493	Unassigned	823	US	0			New Jersey		07/27/2021
-2493	Unassigned	825	US	0			New Jersey		07/28/2021
-2493	Unassigned	813	US	0			New Jersey		07/29/2021
-2493	Unassigned	814	US	0			New Jersey		07/30/2021
-2493	Unassigned	816	US	0			New Jersey		07/31/2021
-2493	Unassigned	824	US	0			New Jersey		08/01/2021
-2493	Unassigned	832	US	0			New Jersey		08/02/2021
-2493	Unassigned	830	US	0			New Jersey		08/03/2021
-2493	Unassigned	825	US	0			New Jersey		08/04/2021
-2493	Unassigned	822	US	0			New Jersey		08/05/2021
-2493	Unassigned	825	US	0			New Jersey		08/06/2021
-2493	Unassigned	818	US	0			New Jersey		08/07/2021
-2493	Unassigned	825	US	0			New Jersey		08/08/2021
-2493	Unassigned	832	US	0			New Jersey		08/09/2021
-2493	Unassigned	814	US	0			New Jersey		08/10/2021
-2493	Unassigned	831	US	0			New Jersey		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+76	New Jersey	US	03/22/2020	0.0	0.0	221	4	0	Unassigned
+2871	New Jersey	US	03/23/2020	0.0	0.0	419	9	0	Unassigned
+2870	New Jersey	US	03/24/2020	0.0	0.0	645	26	0	Unassigned
+2869	New Jersey	US	03/25/2020	0.0	0.0	930	44	0	Unassigned
+2867	New Jersey	US	03/26/2020	0.0	0.0	1478	63	0	Unassigned
+2873	New Jersey	US	03/27/2020	0.0	0.0	1984	82	0	Unassigned
+2870	New Jersey	US	03/28/2020	0.0	0.0	2478	86	0	Unassigned
+2873	New Jersey	US	03/29/2020	0.0	0.0	3020	56	0	Unassigned
+2876	New Jersey	US	03/30/2020	0.0	0.0	3847	91	0	Unassigned
+1949	New Jersey	US	03/31/2020	0.0	0.0	3686	247	0	Unassigned
+1995	New Jersey	US	04/01/2020	0.0	0.0	4512	0	0	Unassigned
+2068	New Jersey	US	04/02/2020			4866	4	0	Unassigned
+2113	New Jersey	US	04/03/2020			4808	4	0	Unassigned
+2167	New Jersey	US	04/04/2020			3935	14	0	Unassigned
+2241	New Jersey	US	04/05/2020			3821	13	0	Unassigned
+2279	New Jersey	US	04/06/2020			3521	14	0	Unassigned
+2326	New Jersey	US	04/07/2020			2207	5	0	Unassigned
+2350	New Jersey	US	04/08/2020			1391	4	0	Unassigned
+2376	New Jersey	US	04/09/2020			996	4	0	Unassigned
+2400	New Jersey	US	04/10/2020			649	2	0	Unassigned
+2425	New Jersey	US	04/11/2020			924	2	0	Unassigned
+2447	New Jersey	US	04/12/2020			1274	2	0	Unassigned
+2461	New Jersey	US	04/13/2020			1203	2	0	Unassigned
+2471	New Jersey	US	04/14/2020			1702	2	0	Unassigned
+2483	New Jersey	US	04/15/2020			1189	2	0	Unassigned
+2497	New Jersey	US	04/16/2020			1048	3	0	Unassigned
+2499	New Jersey	US	04/17/2020			719	3	0	Unassigned
+2506	New Jersey	US	04/18/2020			748	2	0	Unassigned
+2523	New Jersey	US	04/19/2020			585	0	0	Unassigned
+2532	New Jersey	US	04/20/2020			585	0	0	Unassigned
+2541	New Jersey	US	04/21/2020			3073	233	0	Unassigned
+2548	New Jersey	US	04/22/2020			1045	0	0	Unassigned
+2565	New Jersey	US	04/23/2020			1108	0	0	Unassigned
+2571	New Jersey	US	04/24/2020			532	0	0	Unassigned
+2576	New Jersey	US	04/25/2020			532	0	0	Unassigned
+2584	New Jersey	US	04/26/2020			681	0	0	Unassigned
+2591	New Jersey	US	04/27/2020			818	0	0	Unassigned
+2600	New Jersey	US	04/28/2020			718	0	0	Unassigned
+2605	New Jersey	US	04/29/2020			718	0	0	Unassigned
+2611	New Jersey	US	04/30/2020			478	0	0	Unassigned
+2621	New Jersey	US	05/01/2020			583	0	0	Unassigned
+2625	New Jersey	US	05/02/2020			676	0	0	Unassigned
+2630	New Jersey	US	05/03/2020			641	0	0	Unassigned
+2633	New Jersey	US	05/04/2020			647	0	0	Unassigned
+2641	New Jersey	US	05/05/2020			550	0	0	Unassigned
+2647	New Jersey	US	05/06/2020			594	0	0	Unassigned
+2654	New Jersey	US	05/07/2020			0	0	0	Unassigned
+2661	New Jersey	US	05/08/2020			0	0	0	Unassigned
+2663	New Jersey	US	05/09/2020			0	0	0	Unassigned
+2665	New Jersey	US	05/10/2020			0	0	0	Unassigned
+2665	New Jersey	US	05/11/2020			0	0	0	Unassigned
+2668	New Jersey	US	05/12/2020			0	0	0	Unassigned
+2669	New Jersey	US	05/13/2020			89	0	0	Unassigned
+2671	New Jersey	US	05/14/2020			253	0	0	Unassigned
+2676	New Jersey	US	05/15/2020			0	0	0	Unassigned
+2680	New Jersey	US	05/16/2020			155	0	0	Unassigned
+2683	New Jersey	US	05/17/2020			0	0	0	Unassigned
+2685	New Jersey	US	05/18/2020			0	0	0	Unassigned
+2689	New Jersey	US	05/19/2020			0	0	0	Unassigned
+2695	New Jersey	US	05/20/2020			0	0	0	Unassigned
+2697	New Jersey	US	05/21/2020			0	0	0	Unassigned
+2704	New Jersey	US	05/22/2020			0	0	0	Unassigned
+2706	New Jersey	US	05/23/2020			0	0	0	Unassigned
+2709	New Jersey	US	05/24/2020			226	0	0	Unassigned
+2710	New Jersey	US	05/25/2020			226	0	0	Unassigned
+2711	New Jersey	US	05/26/2020			228	0	0	Unassigned
+2714	New Jersey	US	05/27/2020			698	0	0	Unassigned
+2717	New Jersey	US	05/28/2020			32	0	0	Unassigned
+2720	New Jersey	US	05/29/2020			448	0	0	Unassigned
+2722	New Jersey	US	05/30/2020			394	0	0	Unassigned
+2723	New Jersey	US	05/31/2020			502	0	0	Unassigned
+2725	New Jersey	US	06/01/2020			452	0	0	Unassigned
+2730	New Jersey	US	06/02/2020			570	0	0	Unassigned
+2732	New Jersey	US	06/03/2020			460	0	0	Unassigned
+2733	New Jersey	US	06/04/2020			426	0	0	Unassigned
+2737	New Jersey	US	06/05/2020			403	0	0	Unassigned
+2739	New Jersey	US	06/06/2020			390	0	0	Unassigned
+2739	New Jersey	US	06/07/2020			373	0	0	Unassigned
+2739	New Jersey	US	06/08/2020			285	0	0	Unassigned
+2741	New Jersey	US	06/09/2020			255	0	0	Unassigned
+2743	New Jersey	US	06/10/2020			211	0	0	Unassigned
+2745	New Jersey	US	06/11/2020			232	0	0	Unassigned
+2759	New Jersey	US	06/12/2020			192	0	0	Unassigned
+2762	New Jersey	US	06/13/2020			198	0	0	Unassigned
+2762	New Jersey	US	06/14/2020			196	0	0	Unassigned
+2766	New Jersey	US	06/15/2020			186	0	0	Unassigned
+2764	New Jersey	US	06/16/2020			141	0	0	Unassigned
+2766	New Jersey	US	06/17/2020			124	0	0	Unassigned
+2766	New Jersey	US	06/18/2020			149	0	0	Unassigned
+2767	New Jersey	US	06/19/2020			160	0	0	Unassigned
+2771	New Jersey	US	06/20/2020			149	0	0	Unassigned
+2771	New Jersey	US	06/21/2020			83	0	0	Unassigned
+2774	New Jersey	US	06/22/2020			53	0	0	Unassigned
+2779	New Jersey	US	06/23/2020			112	0	0	Unassigned
+2791	New Jersey	US	06/24/2020			92	0	0	Unassigned
+2796	New Jersey	US	06/25/2020			706	0	0	Unassigned
+2797	New Jersey	US	06/26/2020			701	0	0	Unassigned
+2798	New Jersey	US	06/27/2020			697	0	0	Unassigned
+2798	New Jersey	US	06/28/2020			651	0	0	Unassigned
+2800	New Jersey	US	06/29/2020			636	0	0	Unassigned
+2802	New Jersey	US	06/30/2020			642	0	0	Unassigned
+2804	New Jersey	US	07/01/2020			643	0	0	Unassigned
+2807	New Jersey	US	07/02/2020			672	0	0	Unassigned
+2812	New Jersey	US	07/03/2020			658	0	0	Unassigned
+2813	New Jersey	US	07/04/2020			679	0	0	Unassigned
+2814	New Jersey	US	07/05/2020			685	0	0	Unassigned
+2817	New Jersey	US	07/06/2020			695	0	0	Unassigned
+2818	New Jersey	US	07/07/2020			682	0	0	Unassigned
+2821	New Jersey	US	07/08/2020			656	0	0	Unassigned
+2820	New Jersey	US	07/09/2020			665	0	0	Unassigned
+2824	New Jersey	US	07/10/2020			667	0	0	Unassigned
+2825	New Jersey	US	07/11/2020			647	0	0	Unassigned
+2827	New Jersey	US	07/12/2020			665	0	0	Unassigned
+2828	New Jersey	US	07/13/2020			656	0	0	Unassigned
+2834	New Jersey	US	07/14/2020			644	0	0	Unassigned
+2835	New Jersey	US	07/15/2020			645	0	0	Unassigned
+2837	New Jersey	US	07/16/2020			636	0	0	Unassigned
+2837	New Jersey	US	07/17/2020			630	0	0	Unassigned
+2910	New Jersey	US	07/18/2020			666	0	0	Unassigned
+2910	New Jersey	US	07/19/2020			674	0	0	Unassigned
+2833	New Jersey	US	07/20/2020			650	0	0	Unassigned
+2914	New Jersey	US	07/21/2020			688	0	0	Unassigned
+2915	New Jersey	US	07/22/2020			682	0	0	Unassigned
+2918	New Jersey	US	07/23/2020			671	0	0	Unassigned
+2917	New Jersey	US	07/24/2020			675	0	0	Unassigned
+2918	New Jersey	US	07/25/2020			680	0	0	Unassigned
+2919	New Jersey	US	07/26/2020			707	0	0	Unassigned
+2919	New Jersey	US	07/27/2020			701	0	0	Unassigned
+2919	New Jersey	US	07/28/2020			680	0	0	Unassigned
+2923	New Jersey	US	07/29/2020			489	0	0	Unassigned
+2923	New Jersey	US	07/30/2020			646	0	0	Unassigned
+2925	New Jersey	US	07/31/2020			648	0	0	Unassigned
+2925	New Jersey	US	08/01/2020			656	0	0	Unassigned
+2925	New Jersey	US	08/02/2020			674	0	0	Unassigned
+2925	New Jersey	US	08/03/2020			672	0	0	Unassigned
+2925	New Jersey	US	08/04/2020			644	0	0	Unassigned
+2929	New Jersey	US	08/05/2020			640	0	0	Unassigned
+2929	New Jersey	US	08/06/2020			642	0	0	Unassigned
+2929	New Jersey	US	08/07/2020			653	0	0	Unassigned
+2929	New Jersey	US	08/08/2020			642	0	0	Unassigned
+2929	New Jersey	US	08/09/2020			646	0	0	Unassigned
+2929	New Jersey	US	08/10/2020			645	0	0	Unassigned
+2503	New Jersey	US	08/11/2020			660	0	0	Unassigned
+2457	New Jersey	US	08/12/2020			740	0	0	Unassigned
+2458	New Jersey	US	08/13/2020			939	0	0	Unassigned
+2458	New Jersey	US	08/14/2020			1001	0	0	Unassigned
+2458	New Jersey	US	08/15/2020			773	0	0	Unassigned
+2458	New Jersey	US	08/16/2020			442	0	0	Unassigned
+2460	New Jersey	US	08/17/2020			426	0	0	Unassigned
+2460	New Jersey	US	08/18/2020			402	0	0	Unassigned
+2462	New Jersey	US	08/19/2020			378	0	0	Unassigned
+2462	New Jersey	US	08/20/2020			324	0	0	Unassigned
+2462	New Jersey	US	08/21/2020			328	0	0	Unassigned
+2463	New Jersey	US	08/22/2020			427	0	0	Unassigned
+2463	New Jersey	US	08/23/2020			319	0	0	Unassigned
+2463	New Jersey	US	08/24/2020			318	0	0	Unassigned
+2463	New Jersey	US	08/25/2020			310	0	0	Unassigned
+2463	New Jersey	US	08/26/2020			297	0	0	Unassigned
+2463	New Jersey	US	08/27/2020			301	0	0	Unassigned
+2463	New Jersey	US	08/28/2020			328	0	0	Unassigned
+2463	New Jersey	US	08/29/2020			337	0	0	Unassigned
+2463	New Jersey	US	08/30/2020			364	0	0	Unassigned
+2463	New Jersey	US	08/31/2020			368	0	0	Unassigned
+2463	New Jersey	US	09/01/2020			316	0	0	Unassigned
+2463	New Jersey	US	09/02/2020			304	0	0	Unassigned
+2463	New Jersey	US	09/03/2020			305	0	0	Unassigned
+2463	New Jersey	US	09/04/2020			307	0	0	Unassigned
+2463	New Jersey	US	09/05/2020			307	0	0	Unassigned
+2463	New Jersey	US	09/06/2020			308	0	0	Unassigned
+2463	New Jersey	US	09/07/2020			304	0	0	Unassigned
+2463	New Jersey	US	09/08/2020			307	0	0	Unassigned
+2463	New Jersey	US	09/09/2020			303	0	0	Unassigned
+2463	New Jersey	US	09/10/2020			308	0	0	Unassigned
+2463	New Jersey	US	09/11/2020			313	0	0	Unassigned
+2463	New Jersey	US	09/12/2020			306	0	0	Unassigned
+2463	New Jersey	US	09/13/2020			311	0	0	Unassigned
+2463	New Jersey	US	09/14/2020			313	0	0	Unassigned
+2463	New Jersey	US	09/15/2020			301	0	0	Unassigned
+2463	New Jersey	US	09/16/2020			320	0	0	Unassigned
+2463	New Jersey	US	09/17/2020			324	0	0	Unassigned
+2463	New Jersey	US	09/18/2020			314	0	0	Unassigned
+2463	New Jersey	US	09/19/2020			316	0	0	Unassigned
+2463	New Jersey	US	09/20/2020			330	0	0	Unassigned
+2464	New Jersey	US	09/21/2020			340	0	0	Unassigned
+2464	New Jersey	US	09/22/2020			326	0	0	Unassigned
+2464	New Jersey	US	09/23/2020			346	0	0	Unassigned
+2464	New Jersey	US	09/24/2020			9	0	0	Unassigned
+2464	New Jersey	US	09/25/2020			340	0	0	Unassigned
+2464	New Jersey	US	09/26/2020			336	0	0	Unassigned
+2464	New Jersey	US	09/27/2020			336	0	0	Unassigned
+2464	New Jersey	US	09/28/2020			339	0	0	Unassigned
+2464	New Jersey	US	09/29/2020			339	0	0	Unassigned
+2464	New Jersey	US	09/30/2020			329	0	0	Unassigned
+2464	New Jersey	US	10/01/2020			338	13	0	Unassigned
+2464	New Jersey	US	10/02/2020			342	0	0	Unassigned
+2464	New Jersey	US	10/03/2020			354	0	0	Unassigned
+2464	New Jersey	US	10/04/2020			374	0	0	Unassigned
+2464	New Jersey	US	10/05/2020			382	0	0	Unassigned
+2464	New Jersey	US	10/06/2020			353	0	0	Unassigned
+2464	New Jersey	US	10/07/2020			357	0	0	Unassigned
+2464	New Jersey	US	10/08/2020			358	0	0	Unassigned
+2464	New Jersey	US	10/09/2020			363	0	0	Unassigned
+2464	New Jersey	US	10/10/2020			362	0	0	Unassigned
+2464	New Jersey	US	10/11/2020			375	0	0	Unassigned
+2465	New Jersey	US	10/12/2020			373	0	0	Unassigned
+2465	New Jersey	US	10/13/2020			392	0	0	Unassigned
+2465	New Jersey	US	10/14/2020			383	0	0	Unassigned
+2465	New Jersey	US	10/15/2020			385	0	0	Unassigned
+2466	New Jersey	US	10/16/2020			380	0	0	Unassigned
+2466	New Jersey	US	10/17/2020			368	0	0	Unassigned
+2466	New Jersey	US	10/18/2020			28	0	0	Unassigned
+2467	New Jersey	US	10/19/2020			397	0	0	Unassigned
+2467	New Jersey	US	10/20/2020			416	0	0	Unassigned
+2467	New Jersey	US	10/21/2020			404	0	0	Unassigned
+2467	New Jersey	US	10/22/2020			428	0	0	Unassigned
+2467	New Jersey	US	10/23/2020			432	0	0	Unassigned
+2467	New Jersey	US	10/24/2020			512	0	0	Unassigned
+2467	New Jersey	US	10/25/2020			504	0	0	Unassigned
+2467	New Jersey	US	10/26/2020			505	0	0	Unassigned
+2467	New Jersey	US	10/27/2020			480	0	0	Unassigned
+2468	New Jersey	US	10/28/2020			537	0.0	0	Unassigned
+2468	New Jersey	US	10/29/2020			524	0	0	Unassigned
+2468	New Jersey	US	10/30/2020			522	0	0	Unassigned
+2468	New Jersey	US	10/31/2020			563	0	0	Unassigned
+2468	New Jersey	US	11/01/2020			611	0	0	Unassigned
+2468	New Jersey	US	11/02/2020			624	0	0	Unassigned
+2469	New Jersey	US	11/03/2020			550	0	0	Unassigned
+2469	New Jersey	US	11/04/2020			569	0	0	Unassigned
+2469	New Jersey	US	11/05/2020			573	0	0	Unassigned
+2469	New Jersey	US	11/06/2020			563	0	0	Unassigned
+2469	New Jersey	US	11/07/2020			564	0	0	Unassigned
+2469	New Jersey	US	11/08/2020			569	0	0	Unassigned
+2469	New Jersey	US	11/09/2020			596	0	0.0	Unassigned
+2469	New Jersey	US	11/10/2020			598	0	0.0	Unassigned
+2469	New Jersey	US	11/11/2020			639	0	0.0	Unassigned
+2481	New Jersey	US	11/12/2020			642	0	0	Unassigned
+2481	New Jersey	US	11/13/2020			639	0	0	Unassigned
+2481	New Jersey	US	11/14/2020			652	0	0	Unassigned
+2481	New Jersey	US	11/15/2020			684	0	0	Unassigned
+2481	New Jersey	US	11/16/2020			669	0	0	Unassigned
+2481	New Jersey	US	11/17/2020			706	0	0	Unassigned
+2481	New Jersey	US	11/18/2020			734	0	0	Unassigned
+2481	New Jersey	US	11/19/2020			696	0	0	Unassigned
+2481	New Jersey	US	11/20/2020			640	0	0	Unassigned
+2481	New Jersey	US	11/21/2020			650	0	0	Unassigned
+2481	New Jersey	US	11/22/2020			697	0	0	Unassigned
+2481	New Jersey	US	11/23/2020			724	0	0	Unassigned
+2482	New Jersey	US	11/24/2020			711	0	0	Unassigned
+2482	New Jersey	US	11/25/2020			720	0	0	Unassigned
+2482	New Jersey	US	11/26/2020			711	0	0	Unassigned
+2482	New Jersey	US	11/27/2020			747	0	0	Unassigned
+2482	New Jersey	US	11/28/2020			1861	0	0	Unassigned
+2482	New Jersey	US	11/29/2020			890	0	0	Unassigned
+2482	New Jersey	US	11/30/2020			886	0	0	Unassigned
+2482	New Jersey	US	12/01/2020			873	0	0	Unassigned
+2482	New Jersey	US	12/02/2020			830	0	0	Unassigned
+2482	New Jersey	US	12/03/2020			821	0	0	Unassigned
+2482	New Jersey	US	12/04/2020			806	0	0	Unassigned
+2482	New Jersey	US	12/05/2020			787	0	0	Unassigned
+2482	New Jersey	US	12/06/2020			843	0	0	Unassigned
+2482	New Jersey	US	12/07/2020			869	0	0	Unassigned
+2482	New Jersey	US	12/08/2020			862	0	0	Unassigned
+2482	New Jersey	US	12/09/2020			893	0	0	Unassigned
+2482	New Jersey	US	12/10/2020			945	0	0	Unassigned
+2482	New Jersey	US	12/11/2020			917	0	0	Unassigned
+2482	New Jersey	US	12/12/2020			935	0	0	Unassigned
+2482	New Jersey	US	12/13/2020			1019	0	0	Unassigned
+2482	New Jersey	US	12/14/2020			1028	0	0	Unassigned
+2482	New Jersey	US	12/15/2020			975	0	0	Unassigned
+2482	New Jersey	US	12/16/2020			961	0	0	Unassigned
+2482	New Jersey	US	12/17/2020			972	0	0	Unassigned
+2482	New Jersey	US	12/18/2020			1006	0	0	Unassigned
+2482	New Jersey	US	12/19/2020			1024	0	0	Unassigned
+2482	New Jersey	US	12/20/2020			1080	0	0	Unassigned
+2482	New Jersey	US	12/21/2020			1079	0	0	Unassigned
+2482	New Jersey	US	12/22/2020			1083	0	0	Unassigned
+2482	New Jersey	US	12/23/2020			1077	0	0	Unassigned
+2482	New Jersey	US	12/24/2020			1105	0	0	Unassigned
+2482	New Jersey	US	12/25/2020			1107	0	0	Unassigned
+2482	New Jersey	US	12/26/2020			1116	0	0	Unassigned
+2482	New Jersey	US	12/27/2020			1129	0	0	Unassigned
+2482	New Jersey	US	12/28/2020			1128	0	0	Unassigned
+2482	New Jersey	US	12/29/2020			1082	0	0	Unassigned
+2482	New Jersey	US	12/30/2020			1042	0	0	Unassigned
+2482	New Jersey	US	12/31/2020			1057	0	0	Unassigned
+2482	New Jersey	US	01/01/2021			1075	0	0	Unassigned
+2482	New Jersey	US	01/02/2021			1140	0	0	Unassigned
+2483	New Jersey	US	01/03/2021			1151	0	0	Unassigned
+2483	New Jersey	US	01/04/2021			1133	0	0	Unassigned
+2483	New Jersey	US	01/05/2021			1118	0	0	Unassigned
+2483	New Jersey	US	01/06/2021			1158	0	0	Unassigned
+2483	New Jersey	US	01/07/2021			1245	0	0	Unassigned
+2483	New Jersey	US	01/08/2021			1268	0	0	Unassigned
+2483	New Jersey	US	01/09/2021			1354	0	0	Unassigned
+2483	New Jersey	US	01/10/2021			1485	0	0	Unassigned
+2483	New Jersey	US	01/11/2021			1511	0	0	Unassigned
+2483	New Jersey	US	01/12/2021			1419	0	0	Unassigned
+2483	New Jersey	US	01/13/2021			1413	0	0	Unassigned
+2483	New Jersey	US	01/14/2021			1368	0	0	Unassigned
+2484	New Jersey	US	01/15/2021			1298	0	0	Unassigned
+2484	New Jersey	US	01/16/2021			1333	0	0	Unassigned
+2484	New Jersey	US	01/17/2021			1376	0	0	Unassigned
+2484	New Jersey	US	01/18/2021			1409	0	0	Unassigned
+2484	New Jersey	US	01/19/2021			1329	0	0	Unassigned
+2484	New Jersey	US	01/20/2021			1271	0	0	Unassigned
+2485	New Jersey	US	01/21/2021			1251	0	0	Unassigned
+2485	New Jersey	US	01/22/2021			1218	0	0	Unassigned
+2485	New Jersey	US	01/23/2021			1266	0	0	Unassigned
+2485	New Jersey	US	01/24/2021			1279	0	0	Unassigned
+2485	New Jersey	US	01/25/2021			1293	0	0	Unassigned
+2485	New Jersey	US	01/26/2021			1327	0	0	Unassigned
+2485	New Jersey	US	01/27/2021			1209	0	0	Unassigned
+2485	New Jersey	US	01/28/2021			1172	0	0	Unassigned
+2485	New Jersey	US	01/29/2021			1172	0	0	Unassigned
+2485	New Jersey	US	01/30/2021			1173	0	0	Unassigned
+2485	New Jersey	US	01/31/2021			1201	0	0	Unassigned
+2485	New Jersey	US	02/01/2021			1253	0	0	Unassigned
+2485	New Jersey	US	02/02/2021			1140	0	0	Unassigned
+2485	New Jersey	US	02/03/2021			1096	0	0	Unassigned
+2485	New Jersey	US	02/04/2021			1074	0	0	Unassigned
+2485	New Jersey	US	02/05/2021			1045	0	0	Unassigned
+2485	New Jersey	US	02/06/2021			1055	0	0	Unassigned
+2485	New Jersey	US	02/07/2021			1056	0	0	Unassigned
+2485	New Jersey	US	02/08/2021			1082	0	0	Unassigned
+2485	New Jersey	US	02/09/2021			1058	0	0	Unassigned
+2485	New Jersey	US	02/10/2021			1036	88	0	Unassigned
+2485	New Jersey	US	02/11/2021			1023	0	0	Unassigned
+2485	New Jersey	US	02/12/2021			1015	0	0	Unassigned
+2485	New Jersey	US	02/13/2021			979	0	0	Unassigned
+2485	New Jersey	US	02/14/2021			982	0	0	Unassigned
+2485	New Jersey	US	02/15/2021			998	0	0	Unassigned
+2485	New Jersey	US	02/16/2021			939	0	0	Unassigned
+2485	New Jersey	US	02/17/2021			928	0	0	Unassigned
+2485	New Jersey	US	02/18/2021			909	0	0	Unassigned
+2486	New Jersey	US	02/19/2021			851	0	0	Unassigned
+2486	New Jersey	US	02/20/2021			852	0	0	Unassigned
+2486	New Jersey	US	02/21/2021			1088	0	0	Unassigned
+2486	New Jersey	US	02/22/2021			875	0	0	Unassigned
+2486	New Jersey	US	02/23/2021			902	0	0	Unassigned
+2486	New Jersey	US	02/24/2021			892	0	0	Unassigned
+2486	New Jersey	US	02/25/2021			892	0	0	Unassigned
+2486	New Jersey	US	02/26/2021			1056	0	0	Unassigned
+2486	New Jersey	US	02/27/2021			1107	0	0	Unassigned
+2486	New Jersey	US	02/28/2021			1134	0	0	Unassigned
+2486	New Jersey	US	03/01/2021			1026	0	0	Unassigned
+2486	New Jersey	US	03/02/2021			1037	0	0	Unassigned
+2486	New Jersey	US	03/03/2021			1123	0	0	Unassigned
+2486	New Jersey	US	03/04/2021			1194	0	0	Unassigned
+2486	New Jersey	US	03/05/2021			1210	0	0	Unassigned
+2486	New Jersey	US	03/06/2021			1220	0	0	Unassigned
+2486	New Jersey	US	03/07/2021			1187	0		Unassigned
+2486	New Jersey	US	03/08/2021			1139	0		Unassigned
+2486	New Jersey	US	03/09/2021			1102	0		Unassigned
+2486	New Jersey	US	03/10/2021			1141	0		Unassigned
+2486	New Jersey	US	03/11/2021			1240	0		Unassigned
+2486	New Jersey	US	03/12/2021			1069	0		Unassigned
+2486	New Jersey	US	03/13/2021			1058	0		Unassigned
+2486	New Jersey	US	03/14/2021			1026	0		Unassigned
+2486	New Jersey	US	03/15/2021			1029	0		Unassigned
+2486	New Jersey	US	03/16/2021			1048	0		Unassigned
+2486	New Jersey	US	03/17/2021			1048	0		Unassigned
+2486	New Jersey	US	03/18/2021			1048	0		Unassigned
+2486	New Jersey	US	03/19/2021			1225	0		Unassigned
+2486	New Jersey	US	03/20/2021			1254	0		Unassigned
+2486	New Jersey	US	03/21/2021			1238	0		Unassigned
+2486	New Jersey	US	03/22/2021			1233	0		Unassigned
+2486	New Jersey	US	03/23/2021			1267	0		Unassigned
+2486	New Jersey	US	03/24/2021			1280	0		Unassigned
+2486	New Jersey	US	03/25/2021			1244	0		Unassigned
+2486	New Jersey	US	03/26/2021			1221	0		Unassigned
+2486	New Jersey	US	03/27/2021			1127	0		Unassigned
+2486	New Jersey	US	03/28/2021			1140	0		Unassigned
+2486	New Jersey	US	03/29/2021			1145	0		Unassigned
+2486	New Jersey	US	03/30/2021			1050	0		Unassigned
+2486	New Jersey	US	03/31/2021			1055	0		Unassigned
+2486	New Jersey	US	04/01/2021			1101	0		Unassigned
+2488	New Jersey	US	04/02/2021			1083	0		Unassigned
+2488	New Jersey	US	04/03/2021			1073	0		Unassigned
+2488	New Jersey	US	04/04/2021			1073	0		Unassigned
+2488	New Jersey	US	04/05/2021			1076	0		Unassigned
+2488	New Jersey	US	04/06/2021			1028	0		Unassigned
+2488	New Jersey	US	04/07/2021			997	0		Unassigned
+2488	New Jersey	US	04/08/2021			939	0		Unassigned
+2488	New Jersey	US	04/09/2021			917	0		Unassigned
+2488	New Jersey	US	04/10/2021			871	0		Unassigned
+2488	New Jersey	US	04/11/2021			885	0		Unassigned
+2488	New Jersey	US	04/12/2021			885	0		Unassigned
+2488	New Jersey	US	04/13/2021			842	0		Unassigned
+2488	New Jersey	US	04/14/2021			866	0		Unassigned
+2488	New Jersey	US	04/15/2021			866	0		Unassigned
+2488	New Jersey	US	04/16/2021			814	0		Unassigned
+2488	New Jersey	US	04/17/2021			816	0		Unassigned
+2488	New Jersey	US	04/18/2021			824	0		Unassigned
+2488	New Jersey	US	04/19/2021			832	0		Unassigned
+2488	New Jersey	US	04/20/2021			848	0		Unassigned
+2488	New Jersey	US	04/21/2021			820	0		Unassigned
+2488	New Jersey	US	04/22/2021			842	0		Unassigned
+2488	New Jersey	US	04/23/2021			841	0		Unassigned
+2488	New Jersey	US	04/24/2021			847	0		Unassigned
+2488	New Jersey	US	04/25/2021			851	0		Unassigned
+2488	New Jersey	US	04/26/2021			865	0		Unassigned
+2488	New Jersey	US	04/27/2021			849	0		Unassigned
+2488	New Jersey	US	04/28/2021			850	0		Unassigned
+2488	New Jersey	US	04/29/2021			849	0		Unassigned
+2488	New Jersey	US	04/30/2021			850	0		Unassigned
+2488	New Jersey	US	05/01/2021			842	0		Unassigned
+2488	New Jersey	US	05/02/2021			852	0		Unassigned
+2488	New Jersey	US	05/03/2021			856	0		Unassigned
+2488	New Jersey	US	05/04/2021			839	0		Unassigned
+2488	New Jersey	US	05/05/2021			845	0		Unassigned
+2488	New Jersey	US	05/06/2021			833	0		Unassigned
+2488	New Jersey	US	05/07/2021			1727	0		Unassigned
+2488	New Jersey	US	05/08/2021			828	0		Unassigned
+2488	New Jersey	US	05/09/2021			831	0		Unassigned
+2488	New Jersey	US	05/10/2021			835	0		Unassigned
+2488	New Jersey	US	05/11/2021			828	0		Unassigned
+2488	New Jersey	US	05/12/2021			832	0		Unassigned
+2488	New Jersey	US	05/13/2021			845	0		Unassigned
+2488	New Jersey	US	05/14/2021			855	0		Unassigned
+2488	New Jersey	US	05/15/2021			863	0		Unassigned
+2488	New Jersey	US	05/16/2021			866	0		Unassigned
+2488	New Jersey	US	05/17/2021			863	0		Unassigned
+2488	New Jersey	US	05/18/2021			863	0		Unassigned
+2488	New Jersey	US	05/19/2021			856	0		Unassigned
+2488	New Jersey	US	05/20/2021			862	0		Unassigned
+2488	New Jersey	US	05/21/2021			859	0		Unassigned
+2488	New Jersey	US	05/22/2021			864	0		Unassigned
+2488	New Jersey	US	05/23/2021			864	0		Unassigned
+2488	New Jersey	US	05/24/2021			865	0		Unassigned
+2488	New Jersey	US	05/25/2021			854	0		Unassigned
+2488	New Jersey	US	05/26/2021			857	0		Unassigned
+2489	New Jersey	US	05/27/2021			852	0		Unassigned
+2489	New Jersey	US	05/28/2021			825	0		Unassigned
+2489	New Jersey	US	05/29/2021			821	0		Unassigned
+2489	New Jersey	US	05/30/2021			823	0		Unassigned
+2489	New Jersey	US	05/31/2021			824	0		Unassigned
+2489	New Jersey	US	06/01/2021			825	0		Unassigned
+2489	New Jersey	US	06/02/2021			822	0		Unassigned
+2489	New Jersey	US	06/03/2021			825	0		Unassigned
+2489	New Jersey	US	06/04/2021			826	0		Unassigned
+2489	New Jersey	US	06/05/2021			832	0		Unassigned
+2489	New Jersey	US	06/06/2021			832	0		Unassigned
+2489	New Jersey	US	06/07/2021			830	0		Unassigned
+2489	New Jersey	US	06/08/2021			811	0		Unassigned
+2489	New Jersey	US	06/09/2021			815	0		Unassigned
+2489	New Jersey	US	06/10/2021			814	0		Unassigned
+2489	New Jersey	US	06/11/2021			815	0		Unassigned
+2489	New Jersey	US	06/12/2021			815	0		Unassigned
+2489	New Jersey	US	06/13/2021			812	0		Unassigned
+2489	New Jersey	US	06/14/2021			812	0		Unassigned
+2489	New Jersey	US	06/15/2021			811	0		Unassigned
+2489	New Jersey	US	06/16/2021			813	0		Unassigned
+2491	New Jersey	US	06/17/2021			814	0		Unassigned
+2491	New Jersey	US	06/18/2021			815	0		Unassigned
+2491	New Jersey	US	06/19/2021			812	0		Unassigned
+2491	New Jersey	US	06/20/2021			813	0		Unassigned
+2491	New Jersey	US	06/21/2021			813	0		Unassigned
+2491	New Jersey	US	06/22/2021			813	0		Unassigned
+2491	New Jersey	US	06/23/2021			811	0		Unassigned
+2492	New Jersey	US	06/24/2021			809	0		Unassigned
+2492	New Jersey	US	06/25/2021			814	0		Unassigned
+2492	New Jersey	US	06/26/2021			819	0		Unassigned
+2492	New Jersey	US	06/27/2021			822	0		Unassigned
+2492	New Jersey	US	06/28/2021			817	0		Unassigned
+2492	New Jersey	US	06/29/2021			808	0		Unassigned
+2492	New Jersey	US	06/30/2021			812	0		Unassigned
+2492	New Jersey	US	07/01/2021			817	0		Unassigned
+2492	New Jersey	US	07/02/2021			816	0		Unassigned
+2492	New Jersey	US	07/03/2021			822	0		Unassigned
+2492	New Jersey	US	07/04/2021			821	0		Unassigned
+2492	New Jersey	US	07/05/2021			823	0		Unassigned
+2492	New Jersey	US	07/06/2021			825	0		Unassigned
+2492	New Jersey	US	07/07/2021			826	0		Unassigned
+2492	New Jersey	US	07/08/2021			823	0		Unassigned
+2492	New Jersey	US	07/09/2021			820	0		Unassigned
+2492	New Jersey	US	07/10/2021			826	0		Unassigned
+2492	New Jersey	US	07/11/2021			830	0		Unassigned
+2492	New Jersey	US	07/12/2021			832	0		Unassigned
+2492	New Jersey	US	07/13/2021			821	0		Unassigned
+2492	New Jersey	US	07/14/2021			820	0		Unassigned
+2492	New Jersey	US	07/15/2021			829	0		Unassigned
+2492	New Jersey	US	07/16/2021			828	0		Unassigned
+2492	New Jersey	US	07/17/2021			820	0		Unassigned
+2492	New Jersey	US	07/18/2021			826	0		Unassigned
+2492	New Jersey	US	07/19/2021			828	0		Unassigned
+2492	New Jersey	US	07/20/2021			826	0		Unassigned
+2492	New Jersey	US	07/21/2021			823	0		Unassigned
+2492	New Jersey	US	07/22/2021			823	0		Unassigned
+2492	New Jersey	US	07/23/2021			819	0		Unassigned
+2492	New Jersey	US	07/24/2021			816	0		Unassigned
+2492	New Jersey	US	07/25/2021			819	0		Unassigned
+2492	New Jersey	US	07/26/2021			820	0		Unassigned
+2492	New Jersey	US	07/27/2021			823	0		Unassigned
+2492	New Jersey	US	07/28/2021			825	0		Unassigned
+2492	New Jersey	US	07/29/2021			813	0		Unassigned
+2492	New Jersey	US	07/30/2021			814	0		Unassigned
+2492	New Jersey	US	07/31/2021			816	0		Unassigned
+2492	New Jersey	US	08/01/2021			824	0		Unassigned
+2492	New Jersey	US	08/02/2021			832	0		Unassigned
+2492	New Jersey	US	08/03/2021			830	0		Unassigned
+2492	New Jersey	US	08/04/2021			825	0		Unassigned
+2492	New Jersey	US	08/05/2021			822	0		Unassigned
+2492	New Jersey	US	08/06/2021			825	0		Unassigned
+2492	New Jersey	US	08/07/2021			818	0		Unassigned
+2492	New Jersey	US	08/08/2021			825	0		Unassigned
+2492	New Jersey	US	08/09/2021			832	0		Unassigned
+2492	New Jersey	US	08/10/2021			814	0		Unassigned
+2492	New Jersey	US	08/11/2021			831	0		Unassigned
+2492	New Jersey	US	08/12/2021			811	0		Unassigned
+2492	New Jersey	US	08/13/2021			826	0		Unassigned
+2492	New Jersey	US	08/14/2021			822	0		Unassigned
+2492	New Jersey	US	08/15/2021			846	0		Unassigned
+2492	New Jersey	US	08/16/2021			872	0		Unassigned
+2492	New Jersey	US	08/17/2021			835	0		Unassigned
+2492	New Jersey	US	08/18/2021			824	0		Unassigned
+2492	New Jersey	US	08/19/2021			828	0		Unassigned
+2492	New Jersey	US	08/20/2021			822	0		Unassigned
+2492	New Jersey	US	08/21/2021			833	0		Unassigned
+2492	New Jersey	US	08/22/2021			858	0		Unassigned
+2492	New Jersey	US	08/23/2021			869	0		Unassigned
+2492	New Jersey	US	08/24/2021			869	0		Unassigned
+2492	New Jersey	US	08/25/2021			819	0		Unassigned
+2492	New Jersey	US	08/26/2021			811	0		Unassigned
+2492	New Jersey	US	08/27/2021			818	0		Unassigned
+2492	New Jersey	US	08/28/2021			798	0		Unassigned
+2492	New Jersey	US	08/29/2021			817	0		Unassigned
+2492	New Jersey	US	08/30/2021			832	0		Unassigned
+2492	New Jersey	US	08/31/2021			821	0		Unassigned
+2492	New Jersey	US	09/01/2021			800	0		Unassigned
+2492	New Jersey	US	09/02/2021			802	0		Unassigned
+2492	New Jersey	US	09/03/2021			812	0		Unassigned
+2492	New Jersey	US	09/04/2021			827	0		Unassigned
+2492	New Jersey	US	09/05/2021			841	0		Unassigned
+2492	New Jersey	US	09/06/2021			825	0		Unassigned
+2492	New Jersey	US	09/07/2021			823	0		Unassigned
+2492	New Jersey	US	09/08/2021			782	0		Unassigned
+2492	New Jersey	US	09/09/2021			762	0		Unassigned
+2492	New Jersey	US	09/10/2021			740	0		Unassigned
+2492	New Jersey	US	09/11/2021			738	0		Unassigned
+2492	New Jersey	US	09/12/2021			747	0		Unassigned
+2492	New Jersey	US	09/13/2021			752	0		Unassigned
+2492	New Jersey	US	09/14/2021			750	0		Unassigned
+2492	New Jersey	US	09/15/2021			736	0		Unassigned
+2493	New Jersey	US	09/16/2021			741	0		Unassigned
+2493	New Jersey	US	09/17/2021			742	0		Unassigned
+2493	New Jersey	US	09/18/2021			742	0		Unassigned
+2493	New Jersey	US	09/19/2021			751	0		Unassigned
+2493	New Jersey	US	09/20/2021			763	0		Unassigned
+2493	New Jersey	US	09/21/2021			727	0		Unassigned
+2493	New Jersey	US	09/22/2021			717	0		Unassigned
+2510	New Jersey	US	09/23/2021			689	0		Unassigned
+2510	New Jersey	US	09/24/2021			696	0		Unassigned
+2510	New Jersey	US	09/25/2021			722	0		Unassigned
+2510	New Jersey	US	09/26/2021			717	0		Unassigned
+2510	New Jersey	US	09/27/2021			717	0		Unassigned
+2510	New Jersey	US	09/28/2021			728	0		Unassigned
+2510	New Jersey	US	09/29/2021			669	0		Unassigned
+2510	New Jersey	US	09/30/2021			671	0		Unassigned
+2510	New Jersey	US	10/01/2021			656	0		Unassigned
+2510	New Jersey	US	10/02/2021			659	0		Unassigned
+2510	New Jersey	US	10/03/2021			675	0		Unassigned
+2510	New Jersey	US	10/04/2021			680	0		Unassigned
+2510	New Jersey	US	10/05/2021			652	0		Unassigned
+2511	New Jersey	US	10/06/2021			639	0		Unassigned
+2511	New Jersey	US	10/07/2021			640	0		Unassigned
+2511	New Jersey	US	10/08/2021			625	0		Unassigned
+2511	New Jersey	US	10/09/2021			624	0		Unassigned
+2511	New Jersey	US	10/10/2021			631	0		Unassigned
+2511	New Jersey	US	10/11/2021			632	0		Unassigned
+2511	New Jersey	US	10/12/2021			654	0		Unassigned
+2511	New Jersey	US	10/13/2021			648	0		Unassigned
+2511	New Jersey	US	10/14/2021			638	0		Unassigned
+2511	New Jersey	US	10/15/2021			616	0		Unassigned
+2511	New Jersey	US	10/16/2021			608	0		Unassigned
+2511	New Jersey	US	10/17/2021			630	0		Unassigned
+2511	New Jersey	US	10/18/2021			632	0		Unassigned
+2511	New Jersey	US	10/19/2021			624	0		Unassigned
+2511	New Jersey	US	10/20/2021			620	0		Unassigned
+2511	New Jersey	US	10/21/2021			621	0		Unassigned
+2511	New Jersey	US	10/22/2021			611	0		Unassigned
+2511	New Jersey	US	10/23/2021			623	0		Unassigned
+2511	New Jersey	US	10/24/2021			624	0		Unassigned
+2511	New Jersey	US	10/25/2021			627	0		Unassigned
+2511	New Jersey	US	10/26/2021			643	0		Unassigned
+2511	New Jersey	US	10/27/2021			597	0		Unassigned
+2511	New Jersey	US	10/28/2021			587	0		Unassigned
+2511	New Jersey	US	10/29/2021			580	0		Unassigned
+2511	New Jersey	US	10/30/2021			587	0		Unassigned
+2511	New Jersey	US	10/31/2021			596	0		Unassigned
+2512	New Jersey	US	11/01/2021			600	0		Unassigned
+2512	New Jersey	US	11/02/2021			589	0		Unassigned
+2512	New Jersey	US	11/03/2021			570	0		Unassigned
+2512	New Jersey	US	11/04/2021			575	0		Unassigned
+2512	New Jersey	US	11/05/2021			563	0		Unassigned
+2512	New Jersey	US	11/06/2021			563	0		Unassigned
+2512	New Jersey	US	11/07/2021			579	0		Unassigned
+2512	New Jersey	US	11/08/2021			593	0		Unassigned
+2512	New Jersey	US	11/09/2021			599	0		Unassigned
+2512	New Jersey	US	11/10/2021			597	0		Unassigned
+2512	New Jersey	US	11/11/2021			600	0		Unassigned
+2512	New Jersey	US	11/12/2021			622	0		Unassigned
+2512	New Jersey	US	11/13/2021			606	0		Unassigned
+2512	New Jersey	US	11/14/2021			615	0		Unassigned
+2512	New Jersey	US	11/15/2021			624	0		Unassigned
+2512	New Jersey	US	11/16/2021			567	0		Unassigned
+2512	New Jersey	US	11/17/2021			549	0		Unassigned
+2512	New Jersey	US	11/18/2021			557	0		Unassigned
+2512	New Jersey	US	11/19/2021			556	0		Unassigned
+2512	New Jersey	US	11/20/2021			552	0		Unassigned
+2512	New Jersey	US	11/21/2021			556	0		Unassigned
+2512	New Jersey	US	11/22/2021			578	0		Unassigned
+2512	New Jersey	US	11/23/2021			559	0		Unassigned
+2512	New Jersey	US	11/24/2021			543	0		Unassigned
+2512	New Jersey	US	11/25/2021			540	0		Unassigned
+2512	New Jersey	US	11/26/2021			549	0		Unassigned
+2512	New Jersey	US	11/27/2021			556	0		Unassigned
+2512	New Jersey	US	11/28/2021			559	0		Unassigned
+2512	New Jersey	US	11/29/2021			560	0		Unassigned
+2512	New Jersey	US	11/30/2021			541	0		Unassigned
+2512	New Jersey	US	12/01/2021			533	0		Unassigned
+2512	New Jersey	US	12/02/2021			551	0		Unassigned
+2512	New Jersey	US	12/03/2021			557	0		Unassigned
+2512	New Jersey	US	12/04/2021			574	0		Unassigned
+2512	New Jersey	US	12/05/2021			592	0		Unassigned
+2512	New Jersey	US	12/06/2021			615	0		Unassigned
+2512	New Jersey	US	12/07/2021			572	0		Unassigned
+2512	New Jersey	US	12/08/2021			555	0		Unassigned
+2512	New Jersey	US	12/09/2021			568	0		Unassigned
+2512	New Jersey	US	12/10/2021			585	0		Unassigned
+2512	New Jersey	US	12/11/2021			562	0		Unassigned
+2512	New Jersey	US	12/12/2021			577	0		Unassigned
+2512	New Jersey	US	12/13/2021			584	0		Unassigned
+2512	New Jersey	US	12/14/2021			578	0		Unassigned
+2512	New Jersey	US	12/15/2021			562	0		Unassigned
+2512	New Jersey	US	12/16/2021			595	0		Unassigned
+2512	New Jersey	US	12/17/2021			612	0		Unassigned
+2512	New Jersey	US	12/18/2021			664	0		Unassigned
+2512	New Jersey	US	12/19/2021			679	0		Unassigned
+2512	New Jersey	US	12/20/2021			677	0		Unassigned
+2512	New Jersey	US	12/21/2021			674	0		Unassigned

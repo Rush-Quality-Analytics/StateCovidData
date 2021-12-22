@@ -1,477 +1,609 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2575	Unassigned	0	US	0			South Carolina	0	04/23/2020
-2581	Unassigned	0	US	0			South Carolina	0	04/24/2020
-2586	Unassigned	0	US	0			South Carolina	0	04/25/2020
-2594	Unassigned	0	US	0			South Carolina	0	04/26/2020
-2601	Unassigned	0	US	0			South Carolina	0	04/27/2020
-2610	Unassigned	0	US	0			South Carolina	0	04/28/2020
-2615	Unassigned	0	US	0			South Carolina	0	04/29/2020
-2621	Unassigned	0	US	0			South Carolina	0	04/30/2020
-2631	Unassigned	0	US	0			South Carolina	0	05/01/2020
-2635	Unassigned	0	US	0			South Carolina	0	05/02/2020
-2640	Unassigned	0	US	0			South Carolina	0	05/03/2020
-2643	Unassigned	0	US	0			South Carolina	0	05/04/2020
-2651	Unassigned	0	US	0			South Carolina	0	05/05/2020
-2657	Unassigned	0	US	0			South Carolina	0	05/06/2020
-2664	Unassigned	0	US	0			South Carolina	0	05/07/2020
-2671	Unassigned	0	US	0			South Carolina	0	05/08/2020
-2673	Unassigned	0	US	0			South Carolina	0	05/09/2020
-2675	Unassigned	0	US	0			South Carolina	0	05/10/2020
-2675	Unassigned	0	US	0			South Carolina	0	05/11/2020
-2678	Unassigned	0	US	0			South Carolina	0	05/12/2020
-2679	Unassigned	0	US	0			South Carolina	0	05/13/2020
-2681	Unassigned	0	US	0			South Carolina	0	05/14/2020
-2686	Unassigned	0	US	0			South Carolina	0	05/15/2020
-2690	Unassigned	0	US	0			South Carolina	0	05/16/2020
-2693	Unassigned	0	US	0			South Carolina	0	05/17/2020
-2695	Unassigned	0	US	0			South Carolina	0	05/18/2020
-2699	Unassigned	0	US	0			South Carolina	0	05/19/2020
-2705	Unassigned	0	US	0			South Carolina	0	05/20/2020
-2707	Unassigned	0	US	0			South Carolina	0	05/21/2020
-2714	Unassigned	0	US	0			South Carolina	0	05/22/2020
-2716	Unassigned	0	US	0			South Carolina	0	05/23/2020
-2719	Unassigned	0	US	0			South Carolina	0	05/24/2020
-2720	Unassigned	0	US	0			South Carolina	0	05/25/2020
-2721	Unassigned	0	US	0			South Carolina	0	05/26/2020
-2724	Unassigned	0	US	0			South Carolina	0	05/27/2020
-2727	Unassigned	0	US	0			South Carolina	0	05/28/2020
-2730	Unassigned	0	US	0			South Carolina	0	05/29/2020
-2732	Unassigned	0	US	0			South Carolina	0	05/30/2020
-2733	Unassigned	0	US	0			South Carolina	0	05/31/2020
-2735	Unassigned	0	US	0			South Carolina	0	06/01/2020
-2740	Unassigned	0	US	0			South Carolina	0	06/02/2020
-2742	Unassigned	0	US	0			South Carolina	0	06/03/2020
-2743	Unassigned	0	US	0			South Carolina	0	06/04/2020
-2747	Unassigned	0	US	0			South Carolina	0	06/05/2020
-2749	Unassigned	0	US	0			South Carolina	0	06/06/2020
-2749	Unassigned	0	US	0			South Carolina	0	06/07/2020
-2749	Unassigned	0	US	0			South Carolina	0	06/08/2020
-2751	Unassigned	0	US	0			South Carolina	0	06/09/2020
-2753	Unassigned	0	US	0			South Carolina	0	06/10/2020
-2755	Unassigned	0	US	0			South Carolina	0	06/11/2020
-2769	Unassigned	0	US	0			South Carolina	0	06/12/2020
-2772	Unassigned	0	US	0			South Carolina	0	06/13/2020
-2772	Unassigned	0	US	0			South Carolina	0	06/14/2020
-2776	Unassigned	0	US	0			South Carolina	0	06/15/2020
-2774	Unassigned	0	US	0			South Carolina	0	06/16/2020
-2776	Unassigned	5	US	0			South Carolina	0	06/17/2020
-2776	Unassigned	0	US	0			South Carolina	0	06/18/2020
-2777	Unassigned	0	US	0			South Carolina	0	06/19/2020
-2781	Unassigned	0	US	0			South Carolina	0	06/20/2020
-2781	Unassigned	0	US	0			South Carolina	0	06/21/2020
-2784	Unassigned	0	US	0			South Carolina	0	06/22/2020
-2789	Unassigned	0	US	0			South Carolina	0	06/23/2020
-2801	Unassigned	0	US	0			South Carolina	0	06/24/2020
-2806	Unassigned	0	US	0			South Carolina	0	06/25/2020
-2807	Unassigned	0	US	0			South Carolina	0	06/26/2020
-2808	Unassigned	0	US	0			South Carolina	0	06/27/2020
-2808	Unassigned	0	US	0			South Carolina	0	06/28/2020
-2810	Unassigned	0	US	0			South Carolina	0	06/29/2020
-2812	Unassigned	0	US	0			South Carolina	0	06/30/2020
-2814	Unassigned	0	US	0			South Carolina	0	07/01/2020
-2817	Unassigned	0	US	0			South Carolina	0	07/02/2020
-2822	Unassigned	0	US	0			South Carolina	0	07/03/2020
-2823	Unassigned	0	US	0			South Carolina	0	07/04/2020
-2824	Unassigned	0	US	0			South Carolina	0	07/05/2020
-2827	Unassigned	0	US	0			South Carolina	0	07/06/2020
-2828	Unassigned	0	US	0			South Carolina	0	07/07/2020
-2831	Unassigned	0	US	0			South Carolina	0	07/08/2020
-2830	Unassigned	0	US	0			South Carolina	0	07/09/2020
-2834	Unassigned	0	US	0			South Carolina	0	07/10/2020
-2835	Unassigned	0	US	0			South Carolina	0	07/11/2020
-2837	Unassigned	0	US	0			South Carolina	0	07/12/2020
-2838	Unassigned	0	US	0			South Carolina	0	07/13/2020
-2844	Unassigned	0	US	0			South Carolina	0	07/14/2020
-2845	Unassigned	0	US	0			South Carolina	0	07/15/2020
-2847	Unassigned	0	US	0			South Carolina	0	07/16/2020
-2847	Unassigned	0	US	0			South Carolina	0	07/17/2020
-2921	Unassigned	0	US	0			South Carolina	0	07/18/2020
-2921	Unassigned	0	US	0			South Carolina	0	07/19/2020
-2844	Unassigned	0	US	0			South Carolina	0	07/20/2020
-2925	Unassigned	0	US	0			South Carolina	0	07/21/2020
-2926	Unassigned	0	US	0			South Carolina	0	07/22/2020
-2929	Unassigned	0	US	0			South Carolina	0	07/23/2020
-2928	Unassigned	0	US	0			South Carolina	0	07/24/2020
-2929	Unassigned	0	US	0			South Carolina	0	07/25/2020
-2930	Unassigned	0	US	0			South Carolina	0	07/26/2020
-2930	Unassigned	0	US	0			South Carolina	0	07/27/2020
-2930	Unassigned	0	US	0			South Carolina	0	07/28/2020
-2934	Unassigned	0	US	0			South Carolina	0	07/29/2020
-2934	Unassigned	0	US	0			South Carolina	0	07/30/2020
-2936	Unassigned	0	US	0			South Carolina	0	07/31/2020
-2936	Unassigned	0	US	0			South Carolina	0	08/01/2020
-2936	Unassigned	0	US	0			South Carolina	0	08/02/2020
-2936	Unassigned	0	US	0			South Carolina	0	08/03/2020
-2936	Unassigned	0	US	0			South Carolina	0	08/04/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/05/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/06/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/07/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/08/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/09/2020
-2940	Unassigned	0	US	0			South Carolina	0	08/10/2020
-3159	Unassigned	0	US	0			South Carolina	0	08/11/2020
-3113	Unassigned	0	US	0			South Carolina	0	08/12/2020
-3114	Unassigned	0	US	0			South Carolina	0	08/13/2020
-3114	Unassigned	0	US	0			South Carolina	0	08/14/2020
-3114	Unassigned	0	US	0			South Carolina	0	08/15/2020
-3114	Unassigned	0	US	0			South Carolina	0	08/16/2020
-3116	Unassigned	0	US	0			South Carolina	0	08/17/2020
-3116	Unassigned	0	US	0			South Carolina	0	08/18/2020
-3118	Unassigned	0	US	0			South Carolina	0	08/19/2020
-3118	Unassigned	0	US	0			South Carolina	0	08/20/2020
-3118	Unassigned	0	US	0			South Carolina	0	08/21/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/22/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/23/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/24/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/25/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/26/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/27/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/28/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/29/2020
-3119	Unassigned	0	US	0			South Carolina	0	08/30/2020
-3123	Unassigned	0	US	0			South Carolina	0	08/31/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/01/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/02/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/03/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/04/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/05/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/06/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/07/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/08/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/09/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/10/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/11/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/12/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/13/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/14/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/15/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/16/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/17/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/18/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/19/2020
-3123	Unassigned	0	US	0			South Carolina	0	09/20/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/21/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/22/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/23/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/24/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/25/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/26/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/27/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/28/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/29/2020
-3125	Unassigned	0	US	0			South Carolina	0	09/30/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/01/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/02/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/03/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/04/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/05/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/06/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/07/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/08/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/09/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/10/2020
-3125	Unassigned	0	US	0			South Carolina	0	10/11/2020
-3126	Unassigned	0	US	0			South Carolina	0	10/12/2020
-3126	Unassigned	0	US	0			South Carolina	0	10/13/2020
-3126	Unassigned	0	US	0			South Carolina	0	10/14/2020
-3126	Unassigned	0	US	0			South Carolina	0	10/15/2020
-3127	Unassigned	0	US	0			South Carolina	0	10/16/2020
-3127	Unassigned	0	US	0			South Carolina	0	10/17/2020
-3127	Unassigned	0	US	0			South Carolina	0	10/18/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/19/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/20/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/21/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/22/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/23/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/24/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/25/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/26/2020
-3128	Unassigned	0	US	0			South Carolina	0	10/27/2020
-3129	Unassigned	0	US	0.0			South Carolina	0	10/28/2020
-3129	Unassigned	0	US	0			South Carolina	0	10/29/2020
-3129	Unassigned	0	US	0			South Carolina	0	10/30/2020
-3129	Unassigned	0	US	0			South Carolina	0	10/31/2020
-3129	Unassigned	0	US	0			South Carolina	0	11/01/2020
-3129	Unassigned	0	US	0			South Carolina	0	11/02/2020
-3129	Unassigned	0	US	0			South Carolina	0	11/03/2020
-3130	Unassigned	0	US	0			South Carolina	0	11/04/2020
-3130	Unassigned	0	US	0			South Carolina	0	11/05/2020
-3130	Unassigned	0	US	0			South Carolina	0	11/06/2020
-3130	Unassigned	0	US	0			South Carolina	0	11/07/2020
-3130	Unassigned	0	US	0			South Carolina	0	11/08/2020
-3130	Unassigned	0	US	0			South Carolina	0.0	11/09/2020
-3130	Unassigned	0	US	0			South Carolina	0.0	11/10/2020
-3130	Unassigned	0	US	0			South Carolina	0.0	11/11/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/12/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/13/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/14/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/15/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/16/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/17/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/18/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/19/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/20/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/21/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/22/2020
-3142	Unassigned	0	US	0			South Carolina	0	11/23/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/24/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/25/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/26/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/27/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/28/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/29/2020
-3143	Unassigned	0	US	0			South Carolina	0	11/30/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/01/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/02/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/03/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/04/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/05/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/06/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/07/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/08/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/09/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/10/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/11/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/12/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/13/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/14/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/15/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/16/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/17/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/18/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/19/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/20/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/21/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/22/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/23/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/24/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/25/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/26/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/27/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/28/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/29/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/30/2020
-3143	Unassigned	0	US	0			South Carolina	0	12/31/2020
-3143	Unassigned	0	US	0			South Carolina	0	01/01/2021
-3143	Unassigned	0	US	0			South Carolina	0	01/02/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/03/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/04/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/05/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/06/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/07/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/08/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/09/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/10/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/11/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/12/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/13/2021
-3144	Unassigned	0	US	0			South Carolina	0	01/14/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/15/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/16/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/17/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/18/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/19/2021
-3145	Unassigned	0	US	0			South Carolina	0	01/20/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/21/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/22/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/23/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/24/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/25/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/26/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/27/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/28/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/29/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/30/2021
-3146	Unassigned	0	US	0			South Carolina	0	01/31/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/01/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/02/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/03/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/04/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/05/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/06/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/07/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/08/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/09/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/10/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/11/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/12/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/13/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/14/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/15/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/16/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/17/2021
-3146	Unassigned	0	US	0			South Carolina	0	02/18/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/19/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/20/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/21/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/22/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/23/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/24/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/25/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/26/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/27/2021
-3147	Unassigned	0	US	0			South Carolina	0	02/28/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/01/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/02/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/03/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/04/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/05/2021
-3147	Unassigned	0	US	0			South Carolina	0	03/06/2021
-3147	Unassigned	0	US	0			South Carolina		03/07/2021
-3147	Unassigned	0	US	0			South Carolina		03/08/2021
-3147	Unassigned	0	US	0			South Carolina		03/09/2021
-3147	Unassigned	0	US	0			South Carolina		03/10/2021
-3147	Unassigned	0	US	0			South Carolina		03/11/2021
-3147	Unassigned	0	US	0			South Carolina		03/12/2021
-3147	Unassigned	0	US	0			South Carolina		03/13/2021
-3147	Unassigned	0	US	0			South Carolina		03/14/2021
-3147	Unassigned	0	US	0			South Carolina		03/15/2021
-3147	Unassigned	0	US	0			South Carolina		03/16/2021
-3147	Unassigned	0	US	0			South Carolina		03/17/2021
-3147	Unassigned	0	US	0			South Carolina		03/18/2021
-3147	Unassigned	0	US	0			South Carolina		03/19/2021
-3147	Unassigned	0	US	0			South Carolina		03/20/2021
-3147	Unassigned	0	US	0			South Carolina		03/21/2021
-3147	Unassigned	0	US	0			South Carolina		03/22/2021
-3147	Unassigned	0	US	0			South Carolina		03/23/2021
-3147	Unassigned	0	US	0			South Carolina		03/24/2021
-3147	Unassigned	0	US	0			South Carolina		03/25/2021
-3147	Unassigned	0	US	0			South Carolina		03/26/2021
-3147	Unassigned	0	US	0			South Carolina		03/27/2021
-3147	Unassigned	0	US	0			South Carolina		03/28/2021
-3147	Unassigned	0	US	0			South Carolina		03/29/2021
-3147	Unassigned	0	US	0			South Carolina		03/30/2021
-3147	Unassigned	0	US	0			South Carolina		03/31/2021
-3147	Unassigned	0	US	0			South Carolina		04/01/2021
-3149	Unassigned	0	US	0			South Carolina		04/02/2021
-3149	Unassigned	0	US	0			South Carolina		04/03/2021
-3149	Unassigned	0	US	0			South Carolina		04/04/2021
-3149	Unassigned	0	US	0			South Carolina		04/05/2021
-3149	Unassigned	0	US	0			South Carolina		04/06/2021
-3149	Unassigned	0	US	0			South Carolina		04/07/2021
-3149	Unassigned	0	US	0			South Carolina		04/08/2021
-3149	Unassigned	0	US	0			South Carolina		04/09/2021
-3149	Unassigned	0	US	0			South Carolina		04/10/2021
-3149	Unassigned	0	US	0			South Carolina		04/11/2021
-3149	Unassigned	0	US	0			South Carolina		04/12/2021
-3149	Unassigned	0	US	0			South Carolina		04/13/2021
-3149	Unassigned	0	US	0			South Carolina		04/14/2021
-3149	Unassigned	0	US	0			South Carolina		04/15/2021
-3149	Unassigned	0	US	0			South Carolina		04/16/2021
-3149	Unassigned	0	US	0			South Carolina		04/17/2021
-3149	Unassigned	0	US	0			South Carolina		04/18/2021
-3149	Unassigned	0	US	0			South Carolina		04/19/2021
-3149	Unassigned	0	US	0			South Carolina		04/20/2021
-3149	Unassigned	0	US	0			South Carolina		04/21/2021
-3149	Unassigned	0	US	0			South Carolina		04/22/2021
-3149	Unassigned	0	US	0			South Carolina		04/23/2021
-3149	Unassigned	0	US	0			South Carolina		04/24/2021
-3149	Unassigned	0	US	0			South Carolina		04/25/2021
-3149	Unassigned	0	US	0			South Carolina		04/26/2021
-3149	Unassigned	0	US	0			South Carolina		04/27/2021
-3149	Unassigned	0	US	0			South Carolina		04/28/2021
-3149	Unassigned	0	US	0			South Carolina		04/29/2021
-3149	Unassigned	0	US	0			South Carolina		04/30/2021
-3149	Unassigned	0	US	0			South Carolina		05/01/2021
-3149	Unassigned	0	US	0			South Carolina		05/02/2021
-3149	Unassigned	0	US	0			South Carolina		05/03/2021
-3149	Unassigned	0	US	0			South Carolina		05/04/2021
-3149	Unassigned	0	US	0			South Carolina		05/05/2021
-3149	Unassigned	0	US	0			South Carolina		05/06/2021
-3149	Unassigned	0	US	0			South Carolina		05/07/2021
-3149	Unassigned	0	US	0			South Carolina		05/08/2021
-3149	Unassigned	0	US	0			South Carolina		05/09/2021
-3149	Unassigned	0	US	0			South Carolina		05/10/2021
-3149	Unassigned	0	US	0			South Carolina		05/11/2021
-3149	Unassigned	0	US	0			South Carolina		05/12/2021
-3149	Unassigned	0	US	0			South Carolina		05/13/2021
-3149	Unassigned	0	US	0			South Carolina		05/14/2021
-3149	Unassigned	0	US	0			South Carolina		05/15/2021
-3149	Unassigned	0	US	0			South Carolina		05/16/2021
-3149	Unassigned	0	US	0			South Carolina		05/17/2021
-3149	Unassigned	0	US	0			South Carolina		05/18/2021
-3149	Unassigned	0	US	0			South Carolina		05/19/2021
-3149	Unassigned	0	US	0			South Carolina		05/20/2021
-3149	Unassigned	0	US	0			South Carolina		05/21/2021
-3149	Unassigned	0	US	0			South Carolina		05/22/2021
-3149	Unassigned	0	US	0			South Carolina		05/23/2021
-3149	Unassigned	0	US	0			South Carolina		05/24/2021
-3149	Unassigned	0	US	0			South Carolina		05/25/2021
-3149	Unassigned	0	US	0			South Carolina		05/26/2021
-3150	Unassigned	0	US	0			South Carolina		05/27/2021
-3150	Unassigned	0	US	0			South Carolina		05/28/2021
-3150	Unassigned	0	US	0			South Carolina		05/29/2021
-3150	Unassigned	0	US	0			South Carolina		05/30/2021
-3150	Unassigned	0	US	0			South Carolina		05/31/2021
-3150	Unassigned	0	US	0			South Carolina		06/01/2021
-3150	Unassigned	0	US	0			South Carolina		06/02/2021
-3150	Unassigned	0	US	0			South Carolina		06/03/2021
-3150	Unassigned	0	US	0			South Carolina		06/04/2021
-3150	Unassigned	0	US	0			South Carolina		06/05/2021
-3150	Unassigned	0	US	0			South Carolina		06/06/2021
-3150	Unassigned	0	US	0			South Carolina		06/07/2021
-3150	Unassigned	0	US	0			South Carolina		06/08/2021
-3150	Unassigned	0	US	0			South Carolina		06/09/2021
-3150	Unassigned	0	US	0			South Carolina		06/10/2021
-3150	Unassigned	0	US	0			South Carolina		06/11/2021
-3150	Unassigned	0	US	0			South Carolina		06/12/2021
-3150	Unassigned	0	US	0			South Carolina		06/13/2021
-3150	Unassigned	0	US	0			South Carolina		06/14/2021
-3150	Unassigned	0	US	0			South Carolina		06/15/2021
-3150	Unassigned	0	US	0			South Carolina		06/16/2021
-3152	Unassigned	0	US	0			South Carolina		06/17/2021
-3152	Unassigned	0	US	0			South Carolina		06/18/2021
-3152	Unassigned	0	US	0			South Carolina		06/19/2021
-3152	Unassigned	0	US	0			South Carolina		06/20/2021
-3152	Unassigned	0	US	0			South Carolina		06/21/2021
-3152	Unassigned	0	US	0			South Carolina		06/22/2021
-3152	Unassigned	0	US	0			South Carolina		06/23/2021
-3153	Unassigned	0	US	0			South Carolina		06/24/2021
-3153	Unassigned	0	US	0			South Carolina		06/25/2021
-3153	Unassigned	0	US	0			South Carolina		06/26/2021
-3153	Unassigned	0	US	0			South Carolina		06/27/2021
-3153	Unassigned	0	US	0			South Carolina		06/28/2021
-3153	Unassigned	0	US	0			South Carolina		06/29/2021
-3153	Unassigned	0	US	0			South Carolina		06/30/2021
-3153	Unassigned	0	US	0			South Carolina		07/01/2021
-3153	Unassigned	0	US	0			South Carolina		07/02/2021
-3153	Unassigned	0	US	0			South Carolina		07/03/2021
-3153	Unassigned	0	US	0			South Carolina		07/04/2021
-3153	Unassigned	0	US	0			South Carolina		07/05/2021
-3153	Unassigned	0	US	0			South Carolina		07/06/2021
-3153	Unassigned	0	US	0			South Carolina		07/07/2021
-3153	Unassigned	0	US	0			South Carolina		07/08/2021
-3153	Unassigned	0	US	0			South Carolina		07/09/2021
-3153	Unassigned	0	US	0			South Carolina		07/10/2021
-3153	Unassigned	0	US	0			South Carolina		07/11/2021
-3153	Unassigned	0	US	0			South Carolina		07/12/2021
-3153	Unassigned	0	US	0			South Carolina		07/13/2021
-3153	Unassigned	0	US	0			South Carolina		07/14/2021
-3153	Unassigned	0	US	0			South Carolina		07/15/2021
-3153	Unassigned	0	US	0			South Carolina		07/16/2021
-3153	Unassigned	0	US	0			South Carolina		07/17/2021
-3153	Unassigned	0	US	0			South Carolina		07/18/2021
-3153	Unassigned	0	US	0			South Carolina		07/19/2021
-3153	Unassigned	0	US	0			South Carolina		07/20/2021
-3153	Unassigned	0	US	0			South Carolina		07/21/2021
-3153	Unassigned	0	US	0			South Carolina		07/22/2021
-3153	Unassigned	0	US	0			South Carolina		07/23/2021
-3153	Unassigned	0	US	0			South Carolina		07/24/2021
-3153	Unassigned	0	US	0			South Carolina		07/25/2021
-3153	Unassigned	0	US	0			South Carolina		07/26/2021
-3153	Unassigned	0	US	0			South Carolina		07/27/2021
-3153	Unassigned	0	US	0			South Carolina		07/28/2021
-3153	Unassigned	0	US	0			South Carolina		07/29/2021
-3153	Unassigned	0	US	0			South Carolina		07/30/2021
-3153	Unassigned	0	US	0			South Carolina		07/31/2021
-3153	Unassigned	0	US	0			South Carolina		08/01/2021
-3153	Unassigned	0	US	0			South Carolina		08/02/2021
-3153	Unassigned	0	US	0			South Carolina		08/03/2021
-3153	Unassigned	0	US	0			South Carolina		08/04/2021
-3153	Unassigned	0	US	0			South Carolina		08/05/2021
-3153	Unassigned	0	US	0			South Carolina		08/06/2021
-3153	Unassigned	0	US	0			South Carolina		08/07/2021
-3153	Unassigned	0	US	0			South Carolina		08/08/2021
-3153	Unassigned	0	US	0			South Carolina		08/09/2021
-3153	Unassigned	0	US	0			South Carolina		08/10/2021
-3153	Unassigned	0	US	0			South Carolina		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2575	South Carolina	US	04/23/2020			0	0	0	Unassigned
+2581	South Carolina	US	04/24/2020			0	0	0	Unassigned
+2586	South Carolina	US	04/25/2020			0	0	0	Unassigned
+2594	South Carolina	US	04/26/2020			0	0	0	Unassigned
+2601	South Carolina	US	04/27/2020			0	0	0	Unassigned
+2610	South Carolina	US	04/28/2020			0	0	0	Unassigned
+2615	South Carolina	US	04/29/2020			0	0	0	Unassigned
+2621	South Carolina	US	04/30/2020			0	0	0	Unassigned
+2631	South Carolina	US	05/01/2020			0	0	0	Unassigned
+2635	South Carolina	US	05/02/2020			0	0	0	Unassigned
+2640	South Carolina	US	05/03/2020			0	0	0	Unassigned
+2643	South Carolina	US	05/04/2020			0	0	0	Unassigned
+2651	South Carolina	US	05/05/2020			0	0	0	Unassigned
+2657	South Carolina	US	05/06/2020			0	0	0	Unassigned
+2664	South Carolina	US	05/07/2020			0	0	0	Unassigned
+2671	South Carolina	US	05/08/2020			0	0	0	Unassigned
+2673	South Carolina	US	05/09/2020			0	0	0	Unassigned
+2675	South Carolina	US	05/10/2020			0	0	0	Unassigned
+2675	South Carolina	US	05/11/2020			0	0	0	Unassigned
+2678	South Carolina	US	05/12/2020			0	0	0	Unassigned
+2679	South Carolina	US	05/13/2020			0	0	0	Unassigned
+2681	South Carolina	US	05/14/2020			0	0	0	Unassigned
+2686	South Carolina	US	05/15/2020			0	0	0	Unassigned
+2690	South Carolina	US	05/16/2020			0	0	0	Unassigned
+2693	South Carolina	US	05/17/2020			0	0	0	Unassigned
+2695	South Carolina	US	05/18/2020			0	0	0	Unassigned
+2699	South Carolina	US	05/19/2020			0	0	0	Unassigned
+2705	South Carolina	US	05/20/2020			0	0	0	Unassigned
+2707	South Carolina	US	05/21/2020			0	0	0	Unassigned
+2714	South Carolina	US	05/22/2020			0	0	0	Unassigned
+2716	South Carolina	US	05/23/2020			0	0	0	Unassigned
+2719	South Carolina	US	05/24/2020			0	0	0	Unassigned
+2720	South Carolina	US	05/25/2020			0	0	0	Unassigned
+2721	South Carolina	US	05/26/2020			0	0	0	Unassigned
+2724	South Carolina	US	05/27/2020			0	0	0	Unassigned
+2727	South Carolina	US	05/28/2020			0	0	0	Unassigned
+2730	South Carolina	US	05/29/2020			0	0	0	Unassigned
+2732	South Carolina	US	05/30/2020			0	0	0	Unassigned
+2733	South Carolina	US	05/31/2020			0	0	0	Unassigned
+2735	South Carolina	US	06/01/2020			0	0	0	Unassigned
+2740	South Carolina	US	06/02/2020			0	0	0	Unassigned
+2742	South Carolina	US	06/03/2020			0	0	0	Unassigned
+2743	South Carolina	US	06/04/2020			0	0	0	Unassigned
+2747	South Carolina	US	06/05/2020			0	0	0	Unassigned
+2749	South Carolina	US	06/06/2020			0	0	0	Unassigned
+2749	South Carolina	US	06/07/2020			0	0	0	Unassigned
+2749	South Carolina	US	06/08/2020			0	0	0	Unassigned
+2751	South Carolina	US	06/09/2020			0	0	0	Unassigned
+2753	South Carolina	US	06/10/2020			0	0	0	Unassigned
+2755	South Carolina	US	06/11/2020			0	0	0	Unassigned
+2769	South Carolina	US	06/12/2020			0	0	0	Unassigned
+2772	South Carolina	US	06/13/2020			0	0	0	Unassigned
+2772	South Carolina	US	06/14/2020			0	0	0	Unassigned
+2776	South Carolina	US	06/15/2020			0	0	0	Unassigned
+2774	South Carolina	US	06/16/2020			0	0	0	Unassigned
+2776	South Carolina	US	06/17/2020			5	0	0	Unassigned
+2776	South Carolina	US	06/18/2020			0	0	0	Unassigned
+2777	South Carolina	US	06/19/2020			0	0	0	Unassigned
+2781	South Carolina	US	06/20/2020			0	0	0	Unassigned
+2781	South Carolina	US	06/21/2020			0	0	0	Unassigned
+2784	South Carolina	US	06/22/2020			0	0	0	Unassigned
+2789	South Carolina	US	06/23/2020			0	0	0	Unassigned
+2801	South Carolina	US	06/24/2020			0	0	0	Unassigned
+2806	South Carolina	US	06/25/2020			0	0	0	Unassigned
+2807	South Carolina	US	06/26/2020			0	0	0	Unassigned
+2808	South Carolina	US	06/27/2020			0	0	0	Unassigned
+2808	South Carolina	US	06/28/2020			0	0	0	Unassigned
+2810	South Carolina	US	06/29/2020			0	0	0	Unassigned
+2812	South Carolina	US	06/30/2020			0	0	0	Unassigned
+2814	South Carolina	US	07/01/2020			0	0	0	Unassigned
+2817	South Carolina	US	07/02/2020			0	0	0	Unassigned
+2822	South Carolina	US	07/03/2020			0	0	0	Unassigned
+2823	South Carolina	US	07/04/2020			0	0	0	Unassigned
+2824	South Carolina	US	07/05/2020			0	0	0	Unassigned
+2827	South Carolina	US	07/06/2020			0	0	0	Unassigned
+2828	South Carolina	US	07/07/2020			0	0	0	Unassigned
+2831	South Carolina	US	07/08/2020			0	0	0	Unassigned
+2830	South Carolina	US	07/09/2020			0	0	0	Unassigned
+2834	South Carolina	US	07/10/2020			0	0	0	Unassigned
+2835	South Carolina	US	07/11/2020			0	0	0	Unassigned
+2837	South Carolina	US	07/12/2020			0	0	0	Unassigned
+2838	South Carolina	US	07/13/2020			0	0	0	Unassigned
+2844	South Carolina	US	07/14/2020			0	0	0	Unassigned
+2845	South Carolina	US	07/15/2020			0	0	0	Unassigned
+2847	South Carolina	US	07/16/2020			0	0	0	Unassigned
+2847	South Carolina	US	07/17/2020			0	0	0	Unassigned
+2921	South Carolina	US	07/18/2020			0	0	0	Unassigned
+2921	South Carolina	US	07/19/2020			0	0	0	Unassigned
+2844	South Carolina	US	07/20/2020			0	0	0	Unassigned
+2925	South Carolina	US	07/21/2020			0	0	0	Unassigned
+2926	South Carolina	US	07/22/2020			0	0	0	Unassigned
+2929	South Carolina	US	07/23/2020			0	0	0	Unassigned
+2928	South Carolina	US	07/24/2020			0	0	0	Unassigned
+2929	South Carolina	US	07/25/2020			0	0	0	Unassigned
+2930	South Carolina	US	07/26/2020			0	0	0	Unassigned
+2930	South Carolina	US	07/27/2020			0	0	0	Unassigned
+2930	South Carolina	US	07/28/2020			0	0	0	Unassigned
+2934	South Carolina	US	07/29/2020			0	0	0	Unassigned
+2934	South Carolina	US	07/30/2020			0	0	0	Unassigned
+2936	South Carolina	US	07/31/2020			0	0	0	Unassigned
+2936	South Carolina	US	08/01/2020			0	0	0	Unassigned
+2936	South Carolina	US	08/02/2020			0	0	0	Unassigned
+2936	South Carolina	US	08/03/2020			0	0	0	Unassigned
+2936	South Carolina	US	08/04/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/05/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/06/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/07/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/08/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/09/2020			0	0	0	Unassigned
+2940	South Carolina	US	08/10/2020			0	0	0	Unassigned
+3158	South Carolina	US	08/11/2020			0	0	0	Unassigned
+3112	South Carolina	US	08/12/2020			0	0	0	Unassigned
+3113	South Carolina	US	08/13/2020			0	0	0	Unassigned
+3113	South Carolina	US	08/14/2020			0	0	0	Unassigned
+3113	South Carolina	US	08/15/2020			0	0	0	Unassigned
+3113	South Carolina	US	08/16/2020			0	0	0	Unassigned
+3115	South Carolina	US	08/17/2020			0	0	0	Unassigned
+3115	South Carolina	US	08/18/2020			0	0	0	Unassigned
+3117	South Carolina	US	08/19/2020			0	0	0	Unassigned
+3117	South Carolina	US	08/20/2020			0	0	0	Unassigned
+3117	South Carolina	US	08/21/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/22/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/23/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/24/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/25/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/26/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/27/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/28/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/29/2020			0	0	0	Unassigned
+3118	South Carolina	US	08/30/2020			0	0	0	Unassigned
+3122	South Carolina	US	08/31/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/01/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/02/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/03/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/04/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/05/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/06/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/07/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/08/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/09/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/10/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/11/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/12/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/13/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/14/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/15/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/16/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/17/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/18/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/19/2020			0	0	0	Unassigned
+3122	South Carolina	US	09/20/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/21/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/22/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/23/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/24/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/25/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/26/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/27/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/28/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/29/2020			0	0	0	Unassigned
+3124	South Carolina	US	09/30/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/01/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/02/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/03/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/04/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/05/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/06/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/07/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/08/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/09/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/10/2020			0	0	0	Unassigned
+3124	South Carolina	US	10/11/2020			0	0	0	Unassigned
+3125	South Carolina	US	10/12/2020			0	0	0	Unassigned
+3125	South Carolina	US	10/13/2020			0	0	0	Unassigned
+3125	South Carolina	US	10/14/2020			0	0	0	Unassigned
+3125	South Carolina	US	10/15/2020			0	0	0	Unassigned
+3126	South Carolina	US	10/16/2020			0	0	0	Unassigned
+3126	South Carolina	US	10/17/2020			0	0	0	Unassigned
+3126	South Carolina	US	10/18/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/19/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/20/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/21/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/22/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/23/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/24/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/25/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/26/2020			0	0	0	Unassigned
+3127	South Carolina	US	10/27/2020			0	0	0	Unassigned
+3128	South Carolina	US	10/28/2020			0	0.0	0	Unassigned
+3128	South Carolina	US	10/29/2020			0	0	0	Unassigned
+3128	South Carolina	US	10/30/2020			0	0	0	Unassigned
+3128	South Carolina	US	10/31/2020			0	0	0	Unassigned
+3128	South Carolina	US	11/01/2020			0	0	0	Unassigned
+3128	South Carolina	US	11/02/2020			0	0	0	Unassigned
+3128	South Carolina	US	11/03/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/04/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/05/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/06/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/07/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/08/2020			0	0	0	Unassigned
+3129	South Carolina	US	11/09/2020			0	0	0.0	Unassigned
+3129	South Carolina	US	11/10/2020			0	0	0.0	Unassigned
+3129	South Carolina	US	11/11/2020			0	0	0.0	Unassigned
+3141	South Carolina	US	11/12/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/13/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/14/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/15/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/16/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/17/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/18/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/19/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/20/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/21/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/22/2020			0	0	0	Unassigned
+3141	South Carolina	US	11/23/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/24/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/25/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/26/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/27/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/28/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/29/2020			0	0	0	Unassigned
+3142	South Carolina	US	11/30/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/01/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/02/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/03/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/04/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/05/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/06/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/07/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/08/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/09/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/10/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/11/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/12/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/13/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/14/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/15/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/16/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/17/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/18/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/19/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/20/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/21/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/22/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/23/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/24/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/25/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/26/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/27/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/28/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/29/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/30/2020			0	0	0	Unassigned
+3142	South Carolina	US	12/31/2020			0	0	0	Unassigned
+3142	South Carolina	US	01/01/2021			0	0	0	Unassigned
+3142	South Carolina	US	01/02/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/03/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/04/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/05/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/06/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/07/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/08/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/09/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/10/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/11/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/12/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/13/2021			0	0	0	Unassigned
+3143	South Carolina	US	01/14/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/15/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/16/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/17/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/18/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/19/2021			0	0	0	Unassigned
+3144	South Carolina	US	01/20/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/21/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/22/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/23/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/24/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/25/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/26/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/27/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/28/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/29/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/30/2021			0	0	0	Unassigned
+3145	South Carolina	US	01/31/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/01/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/02/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/03/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/04/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/05/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/06/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/07/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/08/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/09/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/10/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/11/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/12/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/13/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/14/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/15/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/16/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/17/2021			0	0	0	Unassigned
+3145	South Carolina	US	02/18/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/19/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/20/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/21/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/22/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/23/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/24/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/25/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/26/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/27/2021			0	0	0	Unassigned
+3146	South Carolina	US	02/28/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/01/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/02/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/03/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/04/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/05/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/06/2021			0	0	0	Unassigned
+3146	South Carolina	US	03/07/2021			0	0		Unassigned
+3146	South Carolina	US	03/08/2021			0	0		Unassigned
+3146	South Carolina	US	03/09/2021			0	0		Unassigned
+3146	South Carolina	US	03/10/2021			0	0		Unassigned
+3146	South Carolina	US	03/11/2021			0	0		Unassigned
+3146	South Carolina	US	03/12/2021			0	0		Unassigned
+3146	South Carolina	US	03/13/2021			0	0		Unassigned
+3146	South Carolina	US	03/14/2021			0	0		Unassigned
+3146	South Carolina	US	03/15/2021			0	0		Unassigned
+3146	South Carolina	US	03/16/2021			0	0		Unassigned
+3146	South Carolina	US	03/17/2021			0	0		Unassigned
+3146	South Carolina	US	03/18/2021			0	0		Unassigned
+3146	South Carolina	US	03/19/2021			0	0		Unassigned
+3146	South Carolina	US	03/20/2021			0	0		Unassigned
+3146	South Carolina	US	03/21/2021			0	0		Unassigned
+3146	South Carolina	US	03/22/2021			0	0		Unassigned
+3146	South Carolina	US	03/23/2021			0	0		Unassigned
+3146	South Carolina	US	03/24/2021			0	0		Unassigned
+3146	South Carolina	US	03/25/2021			0	0		Unassigned
+3146	South Carolina	US	03/26/2021			0	0		Unassigned
+3146	South Carolina	US	03/27/2021			0	0		Unassigned
+3146	South Carolina	US	03/28/2021			0	0		Unassigned
+3146	South Carolina	US	03/29/2021			0	0		Unassigned
+3146	South Carolina	US	03/30/2021			0	0		Unassigned
+3146	South Carolina	US	03/31/2021			0	0		Unassigned
+3146	South Carolina	US	04/01/2021			0	0		Unassigned
+3148	South Carolina	US	04/02/2021			0	0		Unassigned
+3148	South Carolina	US	04/03/2021			0	0		Unassigned
+3148	South Carolina	US	04/04/2021			0	0		Unassigned
+3148	South Carolina	US	04/05/2021			0	0		Unassigned
+3148	South Carolina	US	04/06/2021			0	0		Unassigned
+3148	South Carolina	US	04/07/2021			0	0		Unassigned
+3148	South Carolina	US	04/08/2021			0	0		Unassigned
+3148	South Carolina	US	04/09/2021			0	0		Unassigned
+3148	South Carolina	US	04/10/2021			0	0		Unassigned
+3148	South Carolina	US	04/11/2021			0	0		Unassigned
+3148	South Carolina	US	04/12/2021			0	0		Unassigned
+3148	South Carolina	US	04/13/2021			0	0		Unassigned
+3148	South Carolina	US	04/14/2021			0	0		Unassigned
+3148	South Carolina	US	04/15/2021			0	0		Unassigned
+3148	South Carolina	US	04/16/2021			0	0		Unassigned
+3148	South Carolina	US	04/17/2021			0	0		Unassigned
+3148	South Carolina	US	04/18/2021			0	0		Unassigned
+3148	South Carolina	US	04/19/2021			0	0		Unassigned
+3148	South Carolina	US	04/20/2021			0	0		Unassigned
+3148	South Carolina	US	04/21/2021			0	0		Unassigned
+3148	South Carolina	US	04/22/2021			0	0		Unassigned
+3148	South Carolina	US	04/23/2021			0	0		Unassigned
+3148	South Carolina	US	04/24/2021			0	0		Unassigned
+3148	South Carolina	US	04/25/2021			0	0		Unassigned
+3148	South Carolina	US	04/26/2021			0	0		Unassigned
+3148	South Carolina	US	04/27/2021			0	0		Unassigned
+3148	South Carolina	US	04/28/2021			0	0		Unassigned
+3148	South Carolina	US	04/29/2021			0	0		Unassigned
+3148	South Carolina	US	04/30/2021			0	0		Unassigned
+3148	South Carolina	US	05/01/2021			0	0		Unassigned
+3148	South Carolina	US	05/02/2021			0	0		Unassigned
+3148	South Carolina	US	05/03/2021			0	0		Unassigned
+3148	South Carolina	US	05/04/2021			0	0		Unassigned
+3148	South Carolina	US	05/05/2021			0	0		Unassigned
+3148	South Carolina	US	05/06/2021			0	0		Unassigned
+3148	South Carolina	US	05/07/2021			0	0		Unassigned
+3148	South Carolina	US	05/08/2021			0	0		Unassigned
+3148	South Carolina	US	05/09/2021			0	0		Unassigned
+3148	South Carolina	US	05/10/2021			0	0		Unassigned
+3148	South Carolina	US	05/11/2021			0	0		Unassigned
+3148	South Carolina	US	05/12/2021			0	0		Unassigned
+3148	South Carolina	US	05/13/2021			0	0		Unassigned
+3148	South Carolina	US	05/14/2021			0	0		Unassigned
+3148	South Carolina	US	05/15/2021			0	0		Unassigned
+3148	South Carolina	US	05/16/2021			0	0		Unassigned
+3148	South Carolina	US	05/17/2021			0	0		Unassigned
+3148	South Carolina	US	05/18/2021			0	0		Unassigned
+3148	South Carolina	US	05/19/2021			0	0		Unassigned
+3148	South Carolina	US	05/20/2021			0	0		Unassigned
+3148	South Carolina	US	05/21/2021			0	0		Unassigned
+3148	South Carolina	US	05/22/2021			0	0		Unassigned
+3148	South Carolina	US	05/23/2021			0	0		Unassigned
+3148	South Carolina	US	05/24/2021			0	0		Unassigned
+3148	South Carolina	US	05/25/2021			0	0		Unassigned
+3148	South Carolina	US	05/26/2021			0	0		Unassigned
+3149	South Carolina	US	05/27/2021			0	0		Unassigned
+3149	South Carolina	US	05/28/2021			0	0		Unassigned
+3149	South Carolina	US	05/29/2021			0	0		Unassigned
+3149	South Carolina	US	05/30/2021			0	0		Unassigned
+3149	South Carolina	US	05/31/2021			0	0		Unassigned
+3149	South Carolina	US	06/01/2021			0	0		Unassigned
+3149	South Carolina	US	06/02/2021			0	0		Unassigned
+3149	South Carolina	US	06/03/2021			0	0		Unassigned
+3149	South Carolina	US	06/04/2021			0	0		Unassigned
+3149	South Carolina	US	06/05/2021			0	0		Unassigned
+3149	South Carolina	US	06/06/2021			0	0		Unassigned
+3149	South Carolina	US	06/07/2021			0	0		Unassigned
+3149	South Carolina	US	06/08/2021			0	0		Unassigned
+3149	South Carolina	US	06/09/2021			0	0		Unassigned
+3149	South Carolina	US	06/10/2021			0	0		Unassigned
+3149	South Carolina	US	06/11/2021			0	0		Unassigned
+3149	South Carolina	US	06/12/2021			0	0		Unassigned
+3149	South Carolina	US	06/13/2021			0	0		Unassigned
+3149	South Carolina	US	06/14/2021			0	0		Unassigned
+3149	South Carolina	US	06/15/2021			0	0		Unassigned
+3149	South Carolina	US	06/16/2021			0	0		Unassigned
+3151	South Carolina	US	06/17/2021			0	0		Unassigned
+3151	South Carolina	US	06/18/2021			0	0		Unassigned
+3151	South Carolina	US	06/19/2021			0	0		Unassigned
+3151	South Carolina	US	06/20/2021			0	0		Unassigned
+3151	South Carolina	US	06/21/2021			0	0		Unassigned
+3151	South Carolina	US	06/22/2021			0	0		Unassigned
+3151	South Carolina	US	06/23/2021			0	0		Unassigned
+3152	South Carolina	US	06/24/2021			0	0		Unassigned
+3152	South Carolina	US	06/25/2021			0	0		Unassigned
+3152	South Carolina	US	06/26/2021			0	0		Unassigned
+3152	South Carolina	US	06/27/2021			0	0		Unassigned
+3152	South Carolina	US	06/28/2021			0	0		Unassigned
+3152	South Carolina	US	06/29/2021			0	0		Unassigned
+3152	South Carolina	US	06/30/2021			0	0		Unassigned
+3152	South Carolina	US	07/01/2021			0	0		Unassigned
+3152	South Carolina	US	07/02/2021			0	0		Unassigned
+3152	South Carolina	US	07/03/2021			0	0		Unassigned
+3152	South Carolina	US	07/04/2021			0	0		Unassigned
+3152	South Carolina	US	07/05/2021			0	0		Unassigned
+3152	South Carolina	US	07/06/2021			0	0		Unassigned
+3152	South Carolina	US	07/07/2021			0	0		Unassigned
+3152	South Carolina	US	07/08/2021			0	0		Unassigned
+3152	South Carolina	US	07/09/2021			0	0		Unassigned
+3152	South Carolina	US	07/10/2021			0	0		Unassigned
+3152	South Carolina	US	07/11/2021			0	0		Unassigned
+3152	South Carolina	US	07/12/2021			0	0		Unassigned
+3152	South Carolina	US	07/13/2021			0	0		Unassigned
+3152	South Carolina	US	07/14/2021			0	0		Unassigned
+3152	South Carolina	US	07/15/2021			0	0		Unassigned
+3152	South Carolina	US	07/16/2021			0	0		Unassigned
+3152	South Carolina	US	07/17/2021			0	0		Unassigned
+3152	South Carolina	US	07/18/2021			0	0		Unassigned
+3152	South Carolina	US	07/19/2021			0	0		Unassigned
+3152	South Carolina	US	07/20/2021			0	0		Unassigned
+3152	South Carolina	US	07/21/2021			0	0		Unassigned
+3152	South Carolina	US	07/22/2021			0	0		Unassigned
+3152	South Carolina	US	07/23/2021			0	0		Unassigned
+3152	South Carolina	US	07/24/2021			0	0		Unassigned
+3152	South Carolina	US	07/25/2021			0	0		Unassigned
+3152	South Carolina	US	07/26/2021			0	0		Unassigned
+3152	South Carolina	US	07/27/2021			0	0		Unassigned
+3152	South Carolina	US	07/28/2021			0	0		Unassigned
+3152	South Carolina	US	07/29/2021			0	0		Unassigned
+3152	South Carolina	US	07/30/2021			0	0		Unassigned
+3152	South Carolina	US	07/31/2021			0	0		Unassigned
+3152	South Carolina	US	08/01/2021			0	0		Unassigned
+3152	South Carolina	US	08/02/2021			0	0		Unassigned
+3152	South Carolina	US	08/03/2021			0	0		Unassigned
+3152	South Carolina	US	08/04/2021			0	0		Unassigned
+3152	South Carolina	US	08/05/2021			0	0		Unassigned
+3152	South Carolina	US	08/06/2021			0	0		Unassigned
+3152	South Carolina	US	08/07/2021			0	0		Unassigned
+3152	South Carolina	US	08/08/2021			0	0		Unassigned
+3152	South Carolina	US	08/09/2021			0	0		Unassigned
+3152	South Carolina	US	08/10/2021			0	0		Unassigned
+3152	South Carolina	US	08/11/2021			0	0		Unassigned
+3152	South Carolina	US	08/12/2021			0	0		Unassigned
+3152	South Carolina	US	08/13/2021			0	0		Unassigned
+3152	South Carolina	US	08/14/2021			0	0		Unassigned
+3152	South Carolina	US	08/15/2021			0	0		Unassigned
+3152	South Carolina	US	08/16/2021			0	0		Unassigned
+3152	South Carolina	US	08/17/2021			0	0		Unassigned
+3152	South Carolina	US	08/18/2021			0	0		Unassigned
+3152	South Carolina	US	08/19/2021			0	0		Unassigned
+3152	South Carolina	US	08/20/2021			0	0		Unassigned
+3152	South Carolina	US	08/21/2021			0	0		Unassigned
+3152	South Carolina	US	08/22/2021			0	0		Unassigned
+3152	South Carolina	US	08/23/2021			0	0		Unassigned
+3152	South Carolina	US	08/24/2021			0	0		Unassigned
+3152	South Carolina	US	08/25/2021			0	0		Unassigned
+3152	South Carolina	US	08/26/2021			0	0		Unassigned
+3152	South Carolina	US	08/27/2021			0	0		Unassigned
+3152	South Carolina	US	08/28/2021			0	0		Unassigned
+3152	South Carolina	US	08/29/2021			0	0		Unassigned
+3152	South Carolina	US	08/30/2021			0	0		Unassigned
+3152	South Carolina	US	08/31/2021			0	0		Unassigned
+3152	South Carolina	US	09/01/2021			0	0		Unassigned
+3152	South Carolina	US	09/02/2021			0	0		Unassigned
+3152	South Carolina	US	09/03/2021			0	0		Unassigned
+3152	South Carolina	US	09/04/2021			0	0		Unassigned
+3152	South Carolina	US	09/05/2021			0	0		Unassigned
+3152	South Carolina	US	09/06/2021			0	0		Unassigned
+3152	South Carolina	US	09/07/2021			0	0		Unassigned
+3152	South Carolina	US	09/08/2021			0	0		Unassigned
+3152	South Carolina	US	09/09/2021			0	0		Unassigned
+3152	South Carolina	US	09/10/2021			0	0		Unassigned
+3152	South Carolina	US	09/11/2021			0	0		Unassigned
+3152	South Carolina	US	09/12/2021			0	0		Unassigned
+3152	South Carolina	US	09/13/2021			0	0		Unassigned
+3152	South Carolina	US	09/14/2021			0	0		Unassigned
+3152	South Carolina	US	09/15/2021			0	0		Unassigned
+3153	South Carolina	US	09/16/2021			0	0		Unassigned
+3153	South Carolina	US	09/17/2021			0	0		Unassigned
+3153	South Carolina	US	09/18/2021			0	0		Unassigned
+3153	South Carolina	US	09/19/2021			0	0		Unassigned
+3153	South Carolina	US	09/20/2021			0	0		Unassigned
+3153	South Carolina	US	09/21/2021			0	0		Unassigned
+3153	South Carolina	US	09/22/2021			0	0		Unassigned
+3170	South Carolina	US	09/23/2021			0	0		Unassigned
+3170	South Carolina	US	09/24/2021			0	0		Unassigned
+3170	South Carolina	US	09/25/2021			0	0		Unassigned
+3170	South Carolina	US	09/26/2021			0	0		Unassigned
+3170	South Carolina	US	09/27/2021			0	0		Unassigned
+3170	South Carolina	US	09/28/2021			0	0		Unassigned
+3170	South Carolina	US	09/29/2021			0	0		Unassigned
+3170	South Carolina	US	09/30/2021			0	0		Unassigned
+3170	South Carolina	US	10/01/2021			0	0		Unassigned
+3170	South Carolina	US	10/02/2021			0	0		Unassigned
+3170	South Carolina	US	10/03/2021			0	0		Unassigned
+3170	South Carolina	US	10/04/2021			0	0		Unassigned
+3170	South Carolina	US	10/05/2021			0	0		Unassigned
+3171	South Carolina	US	10/06/2021			0	0		Unassigned
+3171	South Carolina	US	10/07/2021			0	0		Unassigned
+3171	South Carolina	US	10/08/2021			0	0		Unassigned
+3171	South Carolina	US	10/09/2021			0	0		Unassigned
+3171	South Carolina	US	10/10/2021			0	0		Unassigned
+3171	South Carolina	US	10/11/2021			0	0		Unassigned
+3171	South Carolina	US	10/12/2021			0	0		Unassigned
+3171	South Carolina	US	10/13/2021			0	0		Unassigned
+3171	South Carolina	US	10/14/2021			0	0		Unassigned
+3171	South Carolina	US	10/15/2021			0	0		Unassigned
+3171	South Carolina	US	10/16/2021			0	0		Unassigned
+3171	South Carolina	US	10/17/2021			0	0		Unassigned
+3171	South Carolina	US	10/18/2021			0	0		Unassigned
+3171	South Carolina	US	10/19/2021			0	0		Unassigned
+3171	South Carolina	US	10/20/2021			0	0		Unassigned
+3171	South Carolina	US	10/21/2021			0	0		Unassigned
+3171	South Carolina	US	10/22/2021			0	0		Unassigned
+3171	South Carolina	US	10/23/2021			0	0		Unassigned
+3171	South Carolina	US	10/24/2021			0	0		Unassigned
+3171	South Carolina	US	10/25/2021			0	0		Unassigned
+3171	South Carolina	US	10/26/2021			0	0		Unassigned
+3171	South Carolina	US	10/27/2021			0	0		Unassigned
+3171	South Carolina	US	10/28/2021			0	0		Unassigned
+3171	South Carolina	US	10/29/2021			0	0		Unassigned
+3171	South Carolina	US	10/30/2021			0	0		Unassigned
+3171	South Carolina	US	10/31/2021			0	0		Unassigned
+3172	South Carolina	US	11/01/2021			0	0		Unassigned
+3172	South Carolina	US	11/02/2021			0	0		Unassigned
+3172	South Carolina	US	11/03/2021			0	0		Unassigned
+3172	South Carolina	US	11/04/2021			0	0		Unassigned
+3172	South Carolina	US	11/05/2021			0	0		Unassigned
+3172	South Carolina	US	11/06/2021			0	0		Unassigned
+3172	South Carolina	US	11/07/2021			0	0		Unassigned
+3172	South Carolina	US	11/08/2021			0	0		Unassigned
+3172	South Carolina	US	11/09/2021			0	0		Unassigned
+3172	South Carolina	US	11/10/2021			0	0		Unassigned
+3172	South Carolina	US	11/11/2021			0	0		Unassigned
+3172	South Carolina	US	11/12/2021			0	0		Unassigned
+3172	South Carolina	US	11/13/2021			0	0		Unassigned
+3172	South Carolina	US	11/14/2021			0	0		Unassigned
+3172	South Carolina	US	11/15/2021			0	0		Unassigned
+3172	South Carolina	US	11/16/2021			0	0		Unassigned
+3172	South Carolina	US	11/17/2021			0	0		Unassigned
+3172	South Carolina	US	11/18/2021			0	0		Unassigned
+3172	South Carolina	US	11/19/2021			0	0		Unassigned
+3172	South Carolina	US	11/20/2021			0	0		Unassigned
+3172	South Carolina	US	11/21/2021			0	0		Unassigned
+3172	South Carolina	US	11/22/2021			0	0		Unassigned
+3172	South Carolina	US	11/23/2021			0	0		Unassigned
+3172	South Carolina	US	11/24/2021			0	0		Unassigned
+3172	South Carolina	US	11/25/2021			0	0		Unassigned
+3172	South Carolina	US	11/26/2021			0	0		Unassigned
+3172	South Carolina	US	11/27/2021			0	0		Unassigned
+3172	South Carolina	US	11/28/2021			0	0		Unassigned
+3172	South Carolina	US	11/29/2021			0	0		Unassigned
+3172	South Carolina	US	11/30/2021			0	0		Unassigned
+3172	South Carolina	US	12/01/2021			0	0		Unassigned
+3172	South Carolina	US	12/02/2021			0	0		Unassigned
+3172	South Carolina	US	12/03/2021			0	0		Unassigned
+3172	South Carolina	US	12/04/2021			0	0		Unassigned
+3172	South Carolina	US	12/05/2021			0	0		Unassigned
+3172	South Carolina	US	12/06/2021			0	3		Unassigned
+3172	South Carolina	US	12/07/2021			0	0		Unassigned
+3172	South Carolina	US	12/08/2021			0	0		Unassigned
+3172	South Carolina	US	12/09/2021			0	0		Unassigned
+3172	South Carolina	US	12/10/2021			0	0		Unassigned
+3172	South Carolina	US	12/11/2021			0	0		Unassigned
+3172	South Carolina	US	12/12/2021			0	0		Unassigned
+3172	South Carolina	US	12/13/2021			0	0		Unassigned
+3172	South Carolina	US	12/14/2021			0	0		Unassigned
+3172	South Carolina	US	12/15/2021			0	0		Unassigned
+3172	South Carolina	US	12/16/2021			0	0		Unassigned
+3172	South Carolina	US	12/17/2021			0	0		Unassigned
+3172	South Carolina	US	12/18/2021			0	0		Unassigned
+3172	South Carolina	US	12/19/2021			0	0		Unassigned
+3172	South Carolina	US	12/20/2021			0	0		Unassigned
+3172	South Carolina	US	12/21/2021			0	0		Unassigned

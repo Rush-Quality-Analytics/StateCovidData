@@ -1,490 +1,622 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1926	Unassigned	0	US	8	0.0	0.0	Alabama	0	03/31/2020
-1972	Unassigned	0	US	0	0.0	0.0	Alabama	0	04/01/2020
-2042	Unassigned	0	US	5			Alabama	0	04/02/2020
-2397	Unassigned	0	US	0			Alabama	0	04/11/2020
-2419	Unassigned	0	US	0			Alabama	0	04/12/2020
-2433	Unassigned	0	US	0			Alabama	0	04/13/2020
-2469	Unassigned	0	US	0			Alabama	0	04/16/2020
-2471	Unassigned	0	US	0			Alabama	0	04/17/2020
-2478	Unassigned	0	US	0			Alabama	0	04/18/2020
-2495	Unassigned	0	US	0			Alabama	0	04/19/2020
-2503	Unassigned	0	US	0			Alabama	0	04/20/2020
-2512	Unassigned	0	US	0			Alabama	0	04/21/2020
-2519	Unassigned	0	US	0			Alabama	0	04/22/2020
-2536	Unassigned	0	US	0			Alabama	0	04/23/2020
-2542	Unassigned	0	US	0			Alabama	0	04/24/2020
-2547	Unassigned	0	US	0			Alabama	0	04/25/2020
-2555	Unassigned	0	US	0			Alabama	0	04/26/2020
-2562	Unassigned	0	US	0			Alabama	0	04/27/2020
-2571	Unassigned	0	US	0			Alabama	0	04/28/2020
-2576	Unassigned	0	US	0			Alabama	0	04/29/2020
-2582	Unassigned	0	US	0			Alabama	0	04/30/2020
-2593	Unassigned	0	US	0			Alabama	0	05/01/2020
-2596	Unassigned	0	US	0			Alabama	0	05/02/2020
-2601	Unassigned	0	US	0			Alabama	0	05/03/2020
-2604	Unassigned	0	US	0			Alabama	0	05/04/2020
-2612	Unassigned	0	US	0			Alabama	0	05/05/2020
-2618	Unassigned	0	US	0			Alabama	0	05/06/2020
-2625	Unassigned	0	US	0			Alabama	0	05/07/2020
-2632	Unassigned	0	US	0			Alabama	0	05/08/2020
-2634	Unassigned	0	US	0			Alabama	0	05/09/2020
-2636	Unassigned	0	US	0			Alabama	0	05/10/2020
-2636	Unassigned	0	US	0			Alabama	0	05/11/2020
-2639	Unassigned	0	US	0			Alabama	0	05/12/2020
-2640	Unassigned	0	US	0			Alabama	0	05/13/2020
-2642	Unassigned	0	US	0			Alabama	0	05/14/2020
-2647	Unassigned	0	US	0			Alabama	0	05/15/2020
-2651	Unassigned	0	US	0			Alabama	0	05/16/2020
-2654	Unassigned	0	US	0			Alabama	0	05/17/2020
-2656	Unassigned	0	US	0			Alabama	0	05/18/2020
-2660	Unassigned	0	US	0			Alabama	0	05/19/2020
-2666	Unassigned	0	US	0			Alabama	0	05/20/2020
-2668	Unassigned	0	US	0			Alabama	0	05/21/2020
-2675	Unassigned	0	US	0			Alabama	0	05/22/2020
-2677	Unassigned	0	US	0			Alabama	0	05/23/2020
-2680	Unassigned	0	US	0			Alabama	0	05/24/2020
-2681	Unassigned	0	US	0			Alabama	0	05/25/2020
-2682	Unassigned	0	US	0			Alabama	0	05/26/2020
-2685	Unassigned	0	US	0			Alabama	0	05/27/2020
-2688	Unassigned	0	US	0			Alabama	0	05/28/2020
-2691	Unassigned	0	US	0			Alabama	0	05/29/2020
-2693	Unassigned	0	US	0			Alabama	0	05/30/2020
-2694	Unassigned	0	US	0			Alabama	0	05/31/2020
-2696	Unassigned	0	US	2			Alabama	0	06/01/2020
-2701	Unassigned	0	US	2			Alabama	0	06/02/2020
-2703	Unassigned	0	US	2			Alabama	0	06/03/2020
-2704	Unassigned	0	US	2			Alabama	0	06/04/2020
-2708	Unassigned	0	US	4			Alabama	0	06/05/2020
-2710	Unassigned	0	US	4			Alabama	0	06/06/2020
-2710	Unassigned	0	US	4			Alabama	0	06/07/2020
-2710	Unassigned	0	US	4			Alabama	0	06/08/2020
-2712	Unassigned	0	US	4			Alabama	0	06/09/2020
-2714	Unassigned	0	US	5			Alabama	0	06/10/2020
-2716	Unassigned	0	US	5			Alabama	0	06/11/2020
-2730	Unassigned	0	US	5			Alabama	0	06/12/2020
-2733	Unassigned	0	US	5			Alabama	0	06/13/2020
-2733	Unassigned	0	US	5			Alabama	0	06/14/2020
-2737	Unassigned	0	US	5			Alabama	0	06/15/2020
-2735	Unassigned	0	US	6			Alabama	0	06/16/2020
-2737	Unassigned	0	US	6			Alabama	0	06/17/2020
-2737	Unassigned	0	US	9			Alabama	0	06/18/2020
-2738	Unassigned	0	US	10			Alabama	0	06/19/2020
-2742	Unassigned	0	US	10			Alabama	0	06/20/2020
-2742	Unassigned	0	US	10			Alabama	0	06/21/2020
-2745	Unassigned	0	US	10			Alabama	0	06/22/2020
-2750	Unassigned	0	US	10			Alabama	0	06/23/2020
-2762	Unassigned	0	US	12			Alabama	0	06/24/2020
-2767	Unassigned	0	US	16			Alabama	0	06/25/2020
-2768	Unassigned	0	US	20			Alabama	0	06/26/2020
-2769	Unassigned	0	US	21			Alabama	0	06/27/2020
-2769	Unassigned	0	US	21			Alabama	0	06/28/2020
-2771	Unassigned	0	US	24			Alabama	0	06/29/2020
-2773	Unassigned	0	US	24			Alabama	0	06/30/2020
-2775	Unassigned	0	US	25			Alabama	0	07/01/2020
-2778	Unassigned	0	US	24			Alabama	0	07/02/2020
-2783	Unassigned	0	US	23			Alabama	0	07/03/2020
-2784	Unassigned	0	US	23			Alabama	0	07/04/2020
-2785	Unassigned	0	US	23			Alabama	0	07/05/2020
-2788	Unassigned	0	US	23			Alabama	0	07/06/2020
-2789	Unassigned	0	US	26			Alabama	0	07/07/2020
-2792	Unassigned	0	US	26			Alabama	0	07/08/2020
-2791	Unassigned	0	US	26			Alabama	0	07/09/2020
-2795	Unassigned	0	US	27			Alabama	0	07/10/2020
-2796	Unassigned	0	US	28			Alabama	0	07/11/2020
-2798	Unassigned	0	US	28			Alabama	0	07/12/2020
-2800	Unassigned	0	US	28			Alabama	0	07/13/2020
-2805	Unassigned	0	US	28			Alabama	0	07/14/2020
-2806	Unassigned	0	US	28			Alabama	0	07/15/2020
-2808	Unassigned	0	US	30			Alabama	0	07/16/2020
-2808	Unassigned	0	US	33			Alabama	0	07/17/2020
-2881	Unassigned	0	US	33			Alabama	0	07/18/2020
-2881	Unassigned	0	US	33			Alabama	0	07/19/2020
-2805	Unassigned	0	US	34			Alabama	0	07/20/2020
-2885	Unassigned	0	US	35			Alabama	0	07/21/2020
-2886	Unassigned	0	US	39			Alabama	0	07/22/2020
-2889	Unassigned	0	US	40			Alabama	0	07/23/2020
-2888	Unassigned	0	US	43			Alabama	0	07/24/2020
-2889	Unassigned	0	US	43			Alabama	0	07/25/2020
-2890	Unassigned	0	US	45			Alabama	0	07/26/2020
-2890	Unassigned	0	US	45			Alabama	0	07/27/2020
-2890	Unassigned	0	US	45			Alabama	0	07/28/2020
-2894	Unassigned	0	US	49			Alabama	0	07/29/2020
-2894	Unassigned	0	US	49			Alabama	0	07/30/2020
-2896	Unassigned	0	US	49			Alabama	0	07/31/2020
-2896	Unassigned	0	US	50			Alabama	0	08/01/2020
-2896	Unassigned	0	US	51			Alabama	0	08/02/2020
-2896	Unassigned	0	US	53			Alabama	0	08/03/2020
-2897	Unassigned	0	US	55			Alabama	0	08/04/2020
-2901	Unassigned	0	US	56			Alabama	0	08/05/2020
-2901	Unassigned	0	US	60			Alabama	0	08/06/2020
-2901	Unassigned	0	US	61			Alabama	0	08/07/2020
-2901	Unassigned	0	US	61			Alabama	0	08/08/2020
-2901	Unassigned	0	US	61			Alabama	0	08/09/2020
-2901	Unassigned	0	US	64			Alabama	0	08/10/2020
-743	Unassigned	0	US	66			Alabama	0	08/11/2020
-697	Unassigned	0	US	68			Alabama	0	08/12/2020
-697	Unassigned	0	US	69			Alabama	0	08/13/2020
-697	Unassigned	0	US	68			Alabama	0	08/14/2020
-697	Unassigned	0	US	68			Alabama	0	08/15/2020
-697	Unassigned	0	US	68			Alabama	0	08/16/2020
-697	Unassigned	0	US	70			Alabama	0	08/17/2020
-697	Unassigned	0	US	69			Alabama	0	08/18/2020
-697	Unassigned	0	US	68			Alabama	0	08/19/2020
-697	Unassigned	0	US	69			Alabama	0	08/20/2020
-697	Unassigned	0	US	69			Alabama	0	08/21/2020
-697	Unassigned	0	US	69			Alabama	0	08/22/2020
-697	Unassigned	0	US	69			Alabama	0	08/23/2020
-697	Unassigned	0	US	74			Alabama	0	08/24/2020
-697	Unassigned	0	US	78			Alabama	0	08/25/2020
-697	Unassigned	0	US	80			Alabama	0	08/26/2020
-697	Unassigned	0	US	86			Alabama	0	08/27/2020
-697	Unassigned	0	US	90			Alabama	0	08/28/2020
-697	Unassigned	0	US	93			Alabama	0	08/29/2020
-697	Unassigned	0	US	95			Alabama	0	08/30/2020
-697	Unassigned	0	US	99			Alabama	0	08/31/2020
-697	Unassigned	0	US	98			Alabama	0	09/01/2020
-697	Unassigned	0	US	103			Alabama	0	09/02/2020
-697	Unassigned	0	US	113			Alabama	0	09/03/2020
-697	Unassigned	0	US	122			Alabama	0	09/04/2020
-697	Unassigned	0	US	124			Alabama	0	09/05/2020
-697	Unassigned	0	US	124			Alabama	0	09/06/2020
-697	Unassigned	0	US	124			Alabama	0	09/07/2020
-697	Unassigned	0	US	124			Alabama	0	09/08/2020
-697	Unassigned	0	US	124			Alabama	0	09/09/2020
-697	Unassigned	0	US	125			Alabama	0	09/10/2020
-697	Unassigned	0	US	129			Alabama	0	09/11/2020
-697	Unassigned	0	US	133			Alabama	0	09/12/2020
-697	Unassigned	0	US	133			Alabama	0	09/13/2020
-697	Unassigned	0	US	134			Alabama	0	09/14/2020
-697	Unassigned	0	US	134			Alabama	0	09/15/2020
-697	Unassigned	0	US	0			Alabama	0	09/16/2020
-697	Unassigned	0	US	0			Alabama	0	09/17/2020
-697	Unassigned	0	US	0			Alabama	0	09/18/2020
-697	Unassigned	0	US	0			Alabama	0	09/19/2020
-697	Unassigned	0	US	0			Alabama	0	09/20/2020
-698	Unassigned	0	US	0			Alabama	0	09/21/2020
-698	Unassigned	0	US	0			Alabama	0	09/22/2020
-698	Unassigned	0	US	0			Alabama	0	09/23/2020
-698	Unassigned	0	US	0			Alabama	0	09/24/2020
-698	Unassigned	0	US	0			Alabama	0	09/25/2020
-698	Unassigned	0	US	0			Alabama	0	09/26/2020
-698	Unassigned	0	US	0			Alabama	0	09/27/2020
-698	Unassigned	0	US	0			Alabama	0	09/28/2020
-698	Unassigned	0	US	0			Alabama	0	09/29/2020
-698	Unassigned	0	US	0			Alabama	0	09/30/2020
-698	Unassigned	0	US	0			Alabama	0	10/01/2020
-698	Unassigned	0	US	0			Alabama	0	10/02/2020
-698	Unassigned	0	US	0			Alabama	0	10/03/2020
-698	Unassigned	0	US	0			Alabama	0	10/04/2020
-698	Unassigned	0	US	0			Alabama	0	10/05/2020
-698	Unassigned	0	US	0			Alabama	0	10/06/2020
-698	Unassigned	0	US	0			Alabama	0	10/07/2020
-698	Unassigned	0	US	0			Alabama	0	10/08/2020
-698	Unassigned	0	US	0			Alabama	0	10/09/2020
-698	Unassigned	0	US	0			Alabama	0	10/10/2020
-698	Unassigned	0	US	0			Alabama	0	10/11/2020
-699	Unassigned	0	US	0			Alabama	0	10/12/2020
-699	Unassigned	0	US	0			Alabama	0	10/13/2020
-699	Unassigned	0	US	0			Alabama	0	10/14/2020
-699	Unassigned	0	US	0			Alabama	0	10/15/2020
-699	Unassigned	0	US	0			Alabama	0	10/16/2020
-699	Unassigned	0	US	0			Alabama	0	10/17/2020
-699	Unassigned	0	US	0			Alabama	0	10/18/2020
-699	Unassigned	0	US	0			Alabama	0	10/19/2020
-699	Unassigned	0	US	0			Alabama	0	10/20/2020
-699	Unassigned	0	US	0			Alabama	0	10/21/2020
-699	Unassigned	0	US	0			Alabama	0	10/22/2020
-699	Unassigned	0	US	0			Alabama	0	10/23/2020
-699	Unassigned	0	US	0			Alabama	0	10/24/2020
-699	Unassigned	0	US	0			Alabama	0	10/25/2020
-699	Unassigned	0	US	0			Alabama	0	10/26/2020
-699	Unassigned	0	US	0			Alabama	0	10/27/2020
-700	Unassigned	0	US	0.0			Alabama	0	10/28/2020
-700	Unassigned	0	US	0			Alabama	0	10/29/2020
-700	Unassigned	0	US	0			Alabama	0	10/30/2020
-700	Unassigned	0	US	0			Alabama	0	10/31/2020
-700	Unassigned	0	US	0			Alabama	0	11/01/2020
-700	Unassigned	0	US	0			Alabama	0	11/02/2020
-700	Unassigned	0	US	0			Alabama	0	11/03/2020
-700	Unassigned	0	US	0			Alabama	0	11/04/2020
-700	Unassigned	0	US	0			Alabama	0	11/05/2020
-700	Unassigned	0	US	0			Alabama	0	11/06/2020
-700	Unassigned	0	US	0			Alabama	0	11/07/2020
-700	Unassigned	0	US	0			Alabama	0	11/08/2020
-700	Unassigned	0	US	0			Alabama	0.0	11/09/2020
-700	Unassigned	0	US	0			Alabama	0.0	11/10/2020
-700	Unassigned	0	US	0			Alabama	0.0	11/11/2020
-712	Unassigned	0	US	0			Alabama	0	11/12/2020
-712	Unassigned	0	US	0			Alabama	0	11/13/2020
-712	Unassigned	0	US	0			Alabama	0	11/14/2020
-712	Unassigned	0	US	0			Alabama	0	11/15/2020
-712	Unassigned	0	US	0			Alabama	0	11/16/2020
-712	Unassigned	0	US	0			Alabama	0	11/17/2020
-712	Unassigned	0	US	0			Alabama	0	11/18/2020
-712	Unassigned	0	US	0			Alabama	0	11/19/2020
-712	Unassigned	0	US	0			Alabama	0	11/20/2020
-712	Unassigned	0	US	0			Alabama	0	11/21/2020
-712	Unassigned	0	US	0			Alabama	0	11/22/2020
-712	Unassigned	0	US	0			Alabama	0	11/23/2020
-713	Unassigned	0	US	0			Alabama	0	11/24/2020
-713	Unassigned	0	US	0			Alabama	0	11/25/2020
-713	Unassigned	0	US	0			Alabama	0	11/26/2020
-713	Unassigned	0	US	0			Alabama	0	11/27/2020
-713	Unassigned	0	US	0			Alabama	0	11/28/2020
-713	Unassigned	0	US	0			Alabama	0	11/29/2020
-713	Unassigned	0	US	0			Alabama	0	11/30/2020
-713	Unassigned	0	US	0			Alabama	0	12/01/2020
-713	Unassigned	0	US	0			Alabama	0	12/02/2020
-713	Unassigned	0	US	0			Alabama	0	12/03/2020
-713	Unassigned	0	US	0			Alabama	0	12/04/2020
-713	Unassigned	0	US	0			Alabama	0	12/05/2020
-713	Unassigned	0	US	0			Alabama	0	12/06/2020
-713	Unassigned	0	US	0			Alabama	0	12/07/2020
-713	Unassigned	0	US	0			Alabama	0	12/08/2020
-713	Unassigned	0	US	0			Alabama	0	12/09/2020
-713	Unassigned	0	US	0			Alabama	0	12/10/2020
-713	Unassigned	0	US	0			Alabama	0	12/11/2020
-713	Unassigned	0	US	0			Alabama	0	12/12/2020
-713	Unassigned	0	US	0			Alabama	0	12/13/2020
-713	Unassigned	0	US	0			Alabama	0	12/14/2020
-713	Unassigned	0	US	0			Alabama	0	12/15/2020
-713	Unassigned	0	US	0			Alabama	0	12/16/2020
-713	Unassigned	0	US	0			Alabama	0	12/17/2020
-713	Unassigned	0	US	0			Alabama	0	12/18/2020
-713	Unassigned	0	US	0			Alabama	0	12/19/2020
-713	Unassigned	0	US	0			Alabama	0	12/20/2020
-713	Unassigned	0	US	0			Alabama	0	12/21/2020
-713	Unassigned	0	US	0			Alabama	0	12/22/2020
-713	Unassigned	0	US	0			Alabama	0	12/23/2020
-713	Unassigned	0	US	0			Alabama	0	12/24/2020
-713	Unassigned	0	US	0			Alabama	0	12/25/2020
-713	Unassigned	0	US	0			Alabama	0	12/26/2020
-713	Unassigned	0	US	0			Alabama	0	12/27/2020
-713	Unassigned	0	US	0			Alabama	0	12/28/2020
-713	Unassigned	0	US	0			Alabama	0	12/29/2020
-713	Unassigned	0	US	0			Alabama	0	12/30/2020
-713	Unassigned	0	US	0			Alabama	0	12/31/2020
-713	Unassigned	0	US	0			Alabama	0	01/01/2021
-713	Unassigned	0	US	0			Alabama	0	01/02/2021
-714	Unassigned	0	US	0			Alabama	0	01/03/2021
-714	Unassigned	0	US	0			Alabama	0	01/04/2021
-714	Unassigned	0	US	0			Alabama	0	01/05/2021
-714	Unassigned	0	US	0			Alabama	0	01/06/2021
-714	Unassigned	0	US	0			Alabama	0	01/07/2021
-714	Unassigned	0	US	0			Alabama	0	01/08/2021
-714	Unassigned	0	US	0			Alabama	0	01/09/2021
-714	Unassigned	0	US	0			Alabama	0	01/10/2021
-714	Unassigned	0	US	0			Alabama	0	01/11/2021
-714	Unassigned	0	US	0			Alabama	0	01/12/2021
-714	Unassigned	0	US	0			Alabama	0	01/13/2021
-714	Unassigned	0	US	0			Alabama	0	01/14/2021
-714	Unassigned	0	US	0			Alabama	0	01/15/2021
-714	Unassigned	0	US	0			Alabama	0	01/16/2021
-714	Unassigned	0	US	0			Alabama	0	01/17/2021
-714	Unassigned	0	US	0			Alabama	0	01/18/2021
-714	Unassigned	0	US	0			Alabama	0	01/19/2021
-714	Unassigned	0	US	0			Alabama	0	01/20/2021
-715	Unassigned	0	US	0			Alabama	0	01/21/2021
-715	Unassigned	0	US	0			Alabama	0	01/22/2021
-715	Unassigned	0	US	0			Alabama	0	01/23/2021
-715	Unassigned	0	US	0			Alabama	0	01/24/2021
-715	Unassigned	0	US	0			Alabama	0	01/25/2021
-715	Unassigned	0	US	0			Alabama	0	01/26/2021
-715	Unassigned	0	US	0			Alabama	0	01/27/2021
-715	Unassigned	0	US	0			Alabama	0	01/28/2021
-715	Unassigned	0	US	0			Alabama	0	01/29/2021
-715	Unassigned	0	US	0			Alabama	0	01/30/2021
-715	Unassigned	0	US	0			Alabama	0	01/31/2021
-715	Unassigned	0	US	0			Alabama	0	02/01/2021
-715	Unassigned	0	US	0			Alabama	0	02/02/2021
-715	Unassigned	0	US	0			Alabama	0	02/03/2021
-715	Unassigned	0	US	0			Alabama	0	02/04/2021
-715	Unassigned	0	US	0			Alabama	0	02/05/2021
-715	Unassigned	0	US	0			Alabama	0	02/06/2021
-715	Unassigned	0	US	0			Alabama	0	02/07/2021
-715	Unassigned	0	US	0			Alabama	0	02/08/2021
-715	Unassigned	0	US	0			Alabama	0	02/09/2021
-715	Unassigned	0	US	0			Alabama	0	02/10/2021
-715	Unassigned	0	US	0			Alabama	0	02/11/2021
-715	Unassigned	0	US	0			Alabama	0	02/12/2021
-715	Unassigned	0	US	0			Alabama	0	02/13/2021
-715	Unassigned	0	US	0			Alabama	0	02/14/2021
-715	Unassigned	0	US	0			Alabama	0	02/15/2021
-715	Unassigned	0	US	0			Alabama	0	02/16/2021
-715	Unassigned	0	US	0			Alabama	0	02/17/2021
-715	Unassigned	0	US	0			Alabama	0	02/18/2021
-716	Unassigned	0	US	0			Alabama	0	02/19/2021
-716	Unassigned	0	US	0			Alabama	0	02/20/2021
-716	Unassigned	0	US	0			Alabama	0	02/21/2021
-716	Unassigned	0	US	0			Alabama	0	02/22/2021
-716	Unassigned	0	US	0			Alabama	0	02/23/2021
-716	Unassigned	0	US	0			Alabama	0	02/24/2021
-716	Unassigned	0	US	0			Alabama	0	02/25/2021
-716	Unassigned	0	US	0			Alabama	0	02/26/2021
-716	Unassigned	0	US	0			Alabama	0	02/27/2021
-716	Unassigned	0	US	0			Alabama	0	02/28/2021
-716	Unassigned	0	US	0			Alabama	0	03/01/2021
-716	Unassigned	0	US	0			Alabama	0	03/02/2021
-716	Unassigned	0	US	0			Alabama	0	03/03/2021
-716	Unassigned	0	US	0			Alabama	0	03/04/2021
-716	Unassigned	0	US	0			Alabama	0	03/05/2021
-716	Unassigned	0	US	0			Alabama	0	03/06/2021
-716	Unassigned	0	US	0			Alabama		03/07/2021
-716	Unassigned	0	US	0			Alabama		03/08/2021
-716	Unassigned	0	US	0			Alabama		03/09/2021
-716	Unassigned	0	US	0			Alabama		03/10/2021
-716	Unassigned	0	US	0			Alabama		03/11/2021
-716	Unassigned	0	US	0			Alabama		03/12/2021
-716	Unassigned	0	US	0			Alabama		03/13/2021
-716	Unassigned	0	US	0			Alabama		03/14/2021
-716	Unassigned	0	US	0			Alabama		03/15/2021
-716	Unassigned	0	US	0			Alabama		03/16/2021
-716	Unassigned	0	US	0			Alabama		03/17/2021
-716	Unassigned	0	US	0			Alabama		03/18/2021
-716	Unassigned	0	US	0			Alabama		03/19/2021
-716	Unassigned	0	US	0			Alabama		03/20/2021
-716	Unassigned	0	US	0			Alabama		03/21/2021
-716	Unassigned	0	US	0			Alabama		03/22/2021
-716	Unassigned	0	US	0			Alabama		03/23/2021
-716	Unassigned	0	US	0			Alabama		03/24/2021
-716	Unassigned	0	US	0			Alabama		03/25/2021
-716	Unassigned	0	US	0			Alabama		03/26/2021
-716	Unassigned	0	US	0			Alabama		03/27/2021
-716	Unassigned	0	US	0			Alabama		03/28/2021
-716	Unassigned	0	US	0			Alabama		03/29/2021
-716	Unassigned	0	US	0			Alabama		03/30/2021
-716	Unassigned	0	US	0			Alabama		03/31/2021
-716	Unassigned	0	US	0			Alabama		04/01/2021
-716	Unassigned	0	US	0			Alabama		04/02/2021
-716	Unassigned	0	US	0			Alabama		04/03/2021
-716	Unassigned	0	US	0			Alabama		04/04/2021
-716	Unassigned	0	US	0			Alabama		04/05/2021
-716	Unassigned	0	US	0			Alabama		04/06/2021
-716	Unassigned	0	US	0			Alabama		04/07/2021
-716	Unassigned	0	US	0			Alabama		04/08/2021
-716	Unassigned	0	US	0			Alabama		04/09/2021
-716	Unassigned	0	US	0			Alabama		04/10/2021
-716	Unassigned	0	US	0			Alabama		04/11/2021
-716	Unassigned	0	US	0			Alabama		04/12/2021
-716	Unassigned	0	US	0			Alabama		04/13/2021
-716	Unassigned	0	US	0			Alabama		04/14/2021
-716	Unassigned	0	US	0			Alabama		04/15/2021
-716	Unassigned	0	US	0			Alabama		04/16/2021
-716	Unassigned	0	US	0			Alabama		04/17/2021
-716	Unassigned	0	US	0			Alabama		04/18/2021
-716	Unassigned	0	US	0			Alabama		04/19/2021
-716	Unassigned	0	US	0			Alabama		04/20/2021
-716	Unassigned	0	US	0			Alabama		04/21/2021
-716	Unassigned	0	US	0			Alabama		04/22/2021
-716	Unassigned	0	US	0			Alabama		04/23/2021
-716	Unassigned	0	US	0			Alabama		04/24/2021
-716	Unassigned	0	US	0			Alabama		04/25/2021
-716	Unassigned	0	US	0			Alabama		04/26/2021
-716	Unassigned	0	US	0			Alabama		04/27/2021
-716	Unassigned	0	US	0			Alabama		04/28/2021
-716	Unassigned	0	US	0			Alabama		04/29/2021
-716	Unassigned	0	US	0			Alabama		04/30/2021
-716	Unassigned	0	US	0			Alabama		05/01/2021
-716	Unassigned	0	US	0			Alabama		05/02/2021
-716	Unassigned	0	US	0			Alabama		05/03/2021
-716	Unassigned	0	US	0			Alabama		05/04/2021
-716	Unassigned	0	US	0			Alabama		05/05/2021
-716	Unassigned	0	US	0			Alabama		05/06/2021
-716	Unassigned	0	US	0			Alabama		05/07/2021
-716	Unassigned	0	US	0			Alabama		05/08/2021
-716	Unassigned	0	US	0			Alabama		05/09/2021
-716	Unassigned	0	US	0			Alabama		05/10/2021
-716	Unassigned	0	US	0			Alabama		05/11/2021
-716	Unassigned	0	US	0			Alabama		05/12/2021
-716	Unassigned	0	US	0			Alabama		05/13/2021
-716	Unassigned	0	US	0			Alabama		05/14/2021
-716	Unassigned	0	US	0			Alabama		05/15/2021
-716	Unassigned	0	US	0			Alabama		05/16/2021
-716	Unassigned	0	US	0			Alabama		05/17/2021
-716	Unassigned	0	US	0			Alabama		05/18/2021
-716	Unassigned	0	US	0			Alabama		05/19/2021
-716	Unassigned	0	US	0			Alabama		05/20/2021
-716	Unassigned	0	US	0			Alabama		05/21/2021
-716	Unassigned	0	US	0			Alabama		05/22/2021
-716	Unassigned	0	US	0			Alabama		05/23/2021
-716	Unassigned	0	US	0			Alabama		05/24/2021
-716	Unassigned	0	US	0			Alabama		05/25/2021
-716	Unassigned	0	US	0			Alabama		05/26/2021
-717	Unassigned	0	US	0			Alabama		05/27/2021
-717	Unassigned	0	US	0			Alabama		05/28/2021
-717	Unassigned	0	US	0			Alabama		05/29/2021
-717	Unassigned	0	US	0			Alabama		05/30/2021
-717	Unassigned	0	US	0			Alabama		05/31/2021
-717	Unassigned	0	US	0			Alabama		06/01/2021
-717	Unassigned	0	US	0			Alabama		06/02/2021
-717	Unassigned	0	US	0			Alabama		06/03/2021
-717	Unassigned	0	US	0			Alabama		06/04/2021
-717	Unassigned	0	US	0			Alabama		06/05/2021
-717	Unassigned	0	US	0			Alabama		06/06/2021
-717	Unassigned	0	US	0			Alabama		06/07/2021
-717	Unassigned	0	US	0			Alabama		06/08/2021
-717	Unassigned	0	US	0			Alabama		06/09/2021
-717	Unassigned	0	US	0			Alabama		06/10/2021
-717	Unassigned	0	US	0			Alabama		06/11/2021
-717	Unassigned	0	US	0			Alabama		06/12/2021
-717	Unassigned	0	US	0			Alabama		06/13/2021
-717	Unassigned	0	US	0			Alabama		06/14/2021
-717	Unassigned	0	US	0			Alabama		06/15/2021
-717	Unassigned	0	US	0			Alabama		06/16/2021
-719	Unassigned	0	US	0			Alabama		06/17/2021
-719	Unassigned	0	US	0			Alabama		06/18/2021
-719	Unassigned	0	US	0			Alabama		06/19/2021
-719	Unassigned	0	US	0			Alabama		06/20/2021
-719	Unassigned	0	US	0			Alabama		06/21/2021
-719	Unassigned	0	US	0			Alabama		06/22/2021
-719	Unassigned	0	US	0			Alabama		06/23/2021
-720	Unassigned	0	US	0			Alabama		06/24/2021
-720	Unassigned	0	US	0			Alabama		06/25/2021
-720	Unassigned	0	US	0			Alabama		06/26/2021
-720	Unassigned	0	US	0			Alabama		06/27/2021
-720	Unassigned	0	US	0			Alabama		06/28/2021
-720	Unassigned	0	US	0			Alabama		06/29/2021
-720	Unassigned	0	US	0			Alabama		06/30/2021
-720	Unassigned	0	US	0			Alabama		07/01/2021
-720	Unassigned	0	US	0			Alabama		07/02/2021
-720	Unassigned	0	US	0			Alabama		07/03/2021
-720	Unassigned	0	US	0			Alabama		07/04/2021
-720	Unassigned	0	US	0			Alabama		07/05/2021
-720	Unassigned	0	US	0			Alabama		07/06/2021
-720	Unassigned	0	US	0			Alabama		07/07/2021
-720	Unassigned	0	US	0			Alabama		07/08/2021
-720	Unassigned	0	US	0			Alabama		07/09/2021
-720	Unassigned	0	US	0			Alabama		07/10/2021
-720	Unassigned	0	US	0			Alabama		07/11/2021
-720	Unassigned	0	US	0			Alabama		07/12/2021
-720	Unassigned	0	US	0			Alabama		07/13/2021
-720	Unassigned	0	US	0			Alabama		07/14/2021
-720	Unassigned	0	US	0			Alabama		07/15/2021
-720	Unassigned	0	US	0			Alabama		07/16/2021
-720	Unassigned	0	US	0			Alabama		07/17/2021
-720	Unassigned	0	US	0			Alabama		07/18/2021
-720	Unassigned	0	US	0			Alabama		07/19/2021
-720	Unassigned	0	US	0			Alabama		07/20/2021
-720	Unassigned	0	US	0			Alabama		07/21/2021
-720	Unassigned	0	US	0			Alabama		07/22/2021
-720	Unassigned	0	US	0			Alabama		07/23/2021
-720	Unassigned	0	US	0			Alabama		07/24/2021
-720	Unassigned	0	US	0			Alabama		07/25/2021
-720	Unassigned	0	US	0			Alabama		07/26/2021
-720	Unassigned	0	US	0			Alabama		07/27/2021
-720	Unassigned	0	US	0			Alabama		07/28/2021
-720	Unassigned	0	US	0			Alabama		07/29/2021
-720	Unassigned	0	US	0			Alabama		07/30/2021
-720	Unassigned	0	US	0			Alabama		07/31/2021
-720	Unassigned	0	US	0			Alabama		08/01/2021
-720	Unassigned	0	US	0			Alabama		08/02/2021
-720	Unassigned	0	US	0			Alabama		08/03/2021
-720	Unassigned	0	US	0			Alabama		08/04/2021
-720	Unassigned	0	US	0			Alabama		08/05/2021
-720	Unassigned	0	US	0			Alabama		08/06/2021
-720	Unassigned	0	US	0			Alabama		08/07/2021
-720	Unassigned	0	US	0			Alabama		08/08/2021
-720	Unassigned	0	US	0			Alabama		08/09/2021
-720	Unassigned	0	US	0			Alabama		08/10/2021
-720	Unassigned	0	US	0			Alabama		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1926	Alabama	US	03/31/2020	0.0	0.0	0	8	0	Unassigned
+1972	Alabama	US	04/01/2020	0.0	0.0	0	0	0	Unassigned
+2042	Alabama	US	04/02/2020			0	5	0	Unassigned
+2397	Alabama	US	04/11/2020			0	0	0	Unassigned
+2419	Alabama	US	04/12/2020			0	0	0	Unassigned
+2433	Alabama	US	04/13/2020			0	0	0	Unassigned
+2469	Alabama	US	04/16/2020			0	0	0	Unassigned
+2471	Alabama	US	04/17/2020			0	0	0	Unassigned
+2478	Alabama	US	04/18/2020			0	0	0	Unassigned
+2495	Alabama	US	04/19/2020			0	0	0	Unassigned
+2503	Alabama	US	04/20/2020			0	0	0	Unassigned
+2512	Alabama	US	04/21/2020			0	0	0	Unassigned
+2519	Alabama	US	04/22/2020			0	0	0	Unassigned
+2536	Alabama	US	04/23/2020			0	0	0	Unassigned
+2542	Alabama	US	04/24/2020			0	0	0	Unassigned
+2547	Alabama	US	04/25/2020			0	0	0	Unassigned
+2555	Alabama	US	04/26/2020			0	0	0	Unassigned
+2562	Alabama	US	04/27/2020			0	0	0	Unassigned
+2571	Alabama	US	04/28/2020			0	0	0	Unassigned
+2576	Alabama	US	04/29/2020			0	0	0	Unassigned
+2582	Alabama	US	04/30/2020			0	0	0	Unassigned
+2593	Alabama	US	05/01/2020			0	0	0	Unassigned
+2596	Alabama	US	05/02/2020			0	0	0	Unassigned
+2601	Alabama	US	05/03/2020			0	0	0	Unassigned
+2604	Alabama	US	05/04/2020			0	0	0	Unassigned
+2612	Alabama	US	05/05/2020			0	0	0	Unassigned
+2618	Alabama	US	05/06/2020			0	0	0	Unassigned
+2625	Alabama	US	05/07/2020			0	0	0	Unassigned
+2632	Alabama	US	05/08/2020			0	0	0	Unassigned
+2634	Alabama	US	05/09/2020			0	0	0	Unassigned
+2636	Alabama	US	05/10/2020			0	0	0	Unassigned
+2636	Alabama	US	05/11/2020			0	0	0	Unassigned
+2639	Alabama	US	05/12/2020			0	0	0	Unassigned
+2640	Alabama	US	05/13/2020			0	0	0	Unassigned
+2642	Alabama	US	05/14/2020			0	0	0	Unassigned
+2647	Alabama	US	05/15/2020			0	0	0	Unassigned
+2651	Alabama	US	05/16/2020			0	0	0	Unassigned
+2654	Alabama	US	05/17/2020			0	0	0	Unassigned
+2656	Alabama	US	05/18/2020			0	0	0	Unassigned
+2660	Alabama	US	05/19/2020			0	0	0	Unassigned
+2666	Alabama	US	05/20/2020			0	0	0	Unassigned
+2668	Alabama	US	05/21/2020			0	0	0	Unassigned
+2675	Alabama	US	05/22/2020			0	0	0	Unassigned
+2677	Alabama	US	05/23/2020			0	0	0	Unassigned
+2680	Alabama	US	05/24/2020			0	0	0	Unassigned
+2681	Alabama	US	05/25/2020			0	0	0	Unassigned
+2682	Alabama	US	05/26/2020			0	0	0	Unassigned
+2685	Alabama	US	05/27/2020			0	0	0	Unassigned
+2688	Alabama	US	05/28/2020			0	0	0	Unassigned
+2691	Alabama	US	05/29/2020			0	0	0	Unassigned
+2693	Alabama	US	05/30/2020			0	0	0	Unassigned
+2694	Alabama	US	05/31/2020			0	0	0	Unassigned
+2696	Alabama	US	06/01/2020			0	2	0	Unassigned
+2701	Alabama	US	06/02/2020			0	2	0	Unassigned
+2703	Alabama	US	06/03/2020			0	2	0	Unassigned
+2704	Alabama	US	06/04/2020			0	2	0	Unassigned
+2708	Alabama	US	06/05/2020			0	4	0	Unassigned
+2710	Alabama	US	06/06/2020			0	4	0	Unassigned
+2710	Alabama	US	06/07/2020			0	4	0	Unassigned
+2710	Alabama	US	06/08/2020			0	4	0	Unassigned
+2712	Alabama	US	06/09/2020			0	4	0	Unassigned
+2714	Alabama	US	06/10/2020			0	5	0	Unassigned
+2716	Alabama	US	06/11/2020			0	5	0	Unassigned
+2730	Alabama	US	06/12/2020			0	5	0	Unassigned
+2733	Alabama	US	06/13/2020			0	5	0	Unassigned
+2733	Alabama	US	06/14/2020			0	5	0	Unassigned
+2737	Alabama	US	06/15/2020			0	5	0	Unassigned
+2735	Alabama	US	06/16/2020			0	6	0	Unassigned
+2737	Alabama	US	06/17/2020			0	6	0	Unassigned
+2737	Alabama	US	06/18/2020			0	9	0	Unassigned
+2738	Alabama	US	06/19/2020			0	10	0	Unassigned
+2742	Alabama	US	06/20/2020			0	10	0	Unassigned
+2742	Alabama	US	06/21/2020			0	10	0	Unassigned
+2745	Alabama	US	06/22/2020			0	10	0	Unassigned
+2750	Alabama	US	06/23/2020			0	10	0	Unassigned
+2762	Alabama	US	06/24/2020			0	12	0	Unassigned
+2767	Alabama	US	06/25/2020			0	16	0	Unassigned
+2768	Alabama	US	06/26/2020			0	20	0	Unassigned
+2769	Alabama	US	06/27/2020			0	21	0	Unassigned
+2769	Alabama	US	06/28/2020			0	21	0	Unassigned
+2771	Alabama	US	06/29/2020			0	24	0	Unassigned
+2773	Alabama	US	06/30/2020			0	24	0	Unassigned
+2775	Alabama	US	07/01/2020			0	25	0	Unassigned
+2778	Alabama	US	07/02/2020			0	24	0	Unassigned
+2783	Alabama	US	07/03/2020			0	23	0	Unassigned
+2784	Alabama	US	07/04/2020			0	23	0	Unassigned
+2785	Alabama	US	07/05/2020			0	23	0	Unassigned
+2788	Alabama	US	07/06/2020			0	23	0	Unassigned
+2789	Alabama	US	07/07/2020			0	26	0	Unassigned
+2792	Alabama	US	07/08/2020			0	26	0	Unassigned
+2791	Alabama	US	07/09/2020			0	26	0	Unassigned
+2795	Alabama	US	07/10/2020			0	27	0	Unassigned
+2796	Alabama	US	07/11/2020			0	28	0	Unassigned
+2798	Alabama	US	07/12/2020			0	28	0	Unassigned
+2800	Alabama	US	07/13/2020			0	28	0	Unassigned
+2805	Alabama	US	07/14/2020			0	28	0	Unassigned
+2806	Alabama	US	07/15/2020			0	28	0	Unassigned
+2808	Alabama	US	07/16/2020			0	30	0	Unassigned
+2808	Alabama	US	07/17/2020			0	33	0	Unassigned
+2881	Alabama	US	07/18/2020			0	33	0	Unassigned
+2881	Alabama	US	07/19/2020			0	33	0	Unassigned
+2805	Alabama	US	07/20/2020			0	34	0	Unassigned
+2885	Alabama	US	07/21/2020			0	35	0	Unassigned
+2886	Alabama	US	07/22/2020			0	39	0	Unassigned
+2889	Alabama	US	07/23/2020			0	40	0	Unassigned
+2888	Alabama	US	07/24/2020			0	43	0	Unassigned
+2889	Alabama	US	07/25/2020			0	43	0	Unassigned
+2890	Alabama	US	07/26/2020			0	45	0	Unassigned
+2890	Alabama	US	07/27/2020			0	45	0	Unassigned
+2890	Alabama	US	07/28/2020			0	45	0	Unassigned
+2894	Alabama	US	07/29/2020			0	49	0	Unassigned
+2894	Alabama	US	07/30/2020			0	49	0	Unassigned
+2896	Alabama	US	07/31/2020			0	49	0	Unassigned
+2896	Alabama	US	08/01/2020			0	50	0	Unassigned
+2896	Alabama	US	08/02/2020			0	51	0	Unassigned
+2896	Alabama	US	08/03/2020			0	53	0	Unassigned
+2897	Alabama	US	08/04/2020			0	55	0	Unassigned
+2901	Alabama	US	08/05/2020			0	56	0	Unassigned
+2901	Alabama	US	08/06/2020			0	60	0	Unassigned
+2901	Alabama	US	08/07/2020			0	61	0	Unassigned
+2901	Alabama	US	08/08/2020			0	61	0	Unassigned
+2901	Alabama	US	08/09/2020			0	61	0	Unassigned
+2901	Alabama	US	08/10/2020			0	64	0	Unassigned
+742	Alabama	US	08/11/2020			0	66	0	Unassigned
+696	Alabama	US	08/12/2020			0	68	0	Unassigned
+696	Alabama	US	08/13/2020			0	69	0	Unassigned
+696	Alabama	US	08/14/2020			0	68	0	Unassigned
+696	Alabama	US	08/15/2020			0	68	0	Unassigned
+696	Alabama	US	08/16/2020			0	68	0	Unassigned
+696	Alabama	US	08/17/2020			0	70	0	Unassigned
+696	Alabama	US	08/18/2020			0	69	0	Unassigned
+696	Alabama	US	08/19/2020			0	68	0	Unassigned
+696	Alabama	US	08/20/2020			0	69	0	Unassigned
+696	Alabama	US	08/21/2020			0	69	0	Unassigned
+696	Alabama	US	08/22/2020			0	69	0	Unassigned
+696	Alabama	US	08/23/2020			0	69	0	Unassigned
+696	Alabama	US	08/24/2020			0	74	0	Unassigned
+696	Alabama	US	08/25/2020			0	78	0	Unassigned
+696	Alabama	US	08/26/2020			0	80	0	Unassigned
+696	Alabama	US	08/27/2020			0	86	0	Unassigned
+696	Alabama	US	08/28/2020			0	90	0	Unassigned
+696	Alabama	US	08/29/2020			0	93	0	Unassigned
+696	Alabama	US	08/30/2020			0	95	0	Unassigned
+696	Alabama	US	08/31/2020			0	99	0	Unassigned
+696	Alabama	US	09/01/2020			0	98	0	Unassigned
+696	Alabama	US	09/02/2020			0	103	0	Unassigned
+696	Alabama	US	09/03/2020			0	113	0	Unassigned
+696	Alabama	US	09/04/2020			0	122	0	Unassigned
+696	Alabama	US	09/05/2020			0	124	0	Unassigned
+696	Alabama	US	09/06/2020			0	124	0	Unassigned
+696	Alabama	US	09/07/2020			0	124	0	Unassigned
+696	Alabama	US	09/08/2020			0	124	0	Unassigned
+696	Alabama	US	09/09/2020			0	124	0	Unassigned
+696	Alabama	US	09/10/2020			0	125	0	Unassigned
+696	Alabama	US	09/11/2020			0	129	0	Unassigned
+696	Alabama	US	09/12/2020			0	133	0	Unassigned
+696	Alabama	US	09/13/2020			0	133	0	Unassigned
+696	Alabama	US	09/14/2020			0	134	0	Unassigned
+696	Alabama	US	09/15/2020			0	134	0	Unassigned
+696	Alabama	US	09/16/2020			0	0	0	Unassigned
+696	Alabama	US	09/17/2020			0	0	0	Unassigned
+696	Alabama	US	09/18/2020			0	0	0	Unassigned
+696	Alabama	US	09/19/2020			0	0	0	Unassigned
+696	Alabama	US	09/20/2020			0	0	0	Unassigned
+697	Alabama	US	09/21/2020			0	0	0	Unassigned
+697	Alabama	US	09/22/2020			0	0	0	Unassigned
+697	Alabama	US	09/23/2020			0	0	0	Unassigned
+697	Alabama	US	09/24/2020			0	0	0	Unassigned
+697	Alabama	US	09/25/2020			0	0	0	Unassigned
+697	Alabama	US	09/26/2020			0	0	0	Unassigned
+697	Alabama	US	09/27/2020			0	0	0	Unassigned
+697	Alabama	US	09/28/2020			0	0	0	Unassigned
+697	Alabama	US	09/29/2020			0	0	0	Unassigned
+697	Alabama	US	09/30/2020			0	0	0	Unassigned
+697	Alabama	US	10/01/2020			0	0	0	Unassigned
+697	Alabama	US	10/02/2020			0	0	0	Unassigned
+697	Alabama	US	10/03/2020			0	0	0	Unassigned
+697	Alabama	US	10/04/2020			0	0	0	Unassigned
+697	Alabama	US	10/05/2020			0	0	0	Unassigned
+697	Alabama	US	10/06/2020			0	0	0	Unassigned
+697	Alabama	US	10/07/2020			0	0	0	Unassigned
+697	Alabama	US	10/08/2020			0	0	0	Unassigned
+697	Alabama	US	10/09/2020			0	0	0	Unassigned
+697	Alabama	US	10/10/2020			0	0	0	Unassigned
+697	Alabama	US	10/11/2020			0	0	0	Unassigned
+698	Alabama	US	10/12/2020			0	0	0	Unassigned
+698	Alabama	US	10/13/2020			0	0	0	Unassigned
+698	Alabama	US	10/14/2020			0	0	0	Unassigned
+698	Alabama	US	10/15/2020			0	0	0	Unassigned
+698	Alabama	US	10/16/2020			0	0	0	Unassigned
+698	Alabama	US	10/17/2020			0	0	0	Unassigned
+698	Alabama	US	10/18/2020			0	0	0	Unassigned
+698	Alabama	US	10/19/2020			0	0	0	Unassigned
+698	Alabama	US	10/20/2020			0	0	0	Unassigned
+698	Alabama	US	10/21/2020			0	0	0	Unassigned
+698	Alabama	US	10/22/2020			0	0	0	Unassigned
+698	Alabama	US	10/23/2020			0	0	0	Unassigned
+698	Alabama	US	10/24/2020			0	0	0	Unassigned
+698	Alabama	US	10/25/2020			0	0	0	Unassigned
+698	Alabama	US	10/26/2020			0	0	0	Unassigned
+698	Alabama	US	10/27/2020			0	0	0	Unassigned
+699	Alabama	US	10/28/2020			0	0.0	0	Unassigned
+699	Alabama	US	10/29/2020			0	0	0	Unassigned
+699	Alabama	US	10/30/2020			0	0	0	Unassigned
+699	Alabama	US	10/31/2020			0	0	0	Unassigned
+699	Alabama	US	11/01/2020			0	0	0	Unassigned
+699	Alabama	US	11/02/2020			0	0	0	Unassigned
+699	Alabama	US	11/03/2020			0	0	0	Unassigned
+699	Alabama	US	11/04/2020			0	0	0	Unassigned
+699	Alabama	US	11/05/2020			0	0	0	Unassigned
+699	Alabama	US	11/06/2020			0	0	0	Unassigned
+699	Alabama	US	11/07/2020			0	0	0	Unassigned
+699	Alabama	US	11/08/2020			0	0	0	Unassigned
+699	Alabama	US	11/09/2020			0	0	0.0	Unassigned
+699	Alabama	US	11/10/2020			0	0	0.0	Unassigned
+699	Alabama	US	11/11/2020			0	0	0.0	Unassigned
+711	Alabama	US	11/12/2020			0	0	0	Unassigned
+711	Alabama	US	11/13/2020			0	0	0	Unassigned
+711	Alabama	US	11/14/2020			0	0	0	Unassigned
+711	Alabama	US	11/15/2020			0	0	0	Unassigned
+711	Alabama	US	11/16/2020			0	0	0	Unassigned
+711	Alabama	US	11/17/2020			0	0	0	Unassigned
+711	Alabama	US	11/18/2020			0	0	0	Unassigned
+711	Alabama	US	11/19/2020			0	0	0	Unassigned
+711	Alabama	US	11/20/2020			0	0	0	Unassigned
+711	Alabama	US	11/21/2020			0	0	0	Unassigned
+711	Alabama	US	11/22/2020			0	0	0	Unassigned
+711	Alabama	US	11/23/2020			0	0	0	Unassigned
+712	Alabama	US	11/24/2020			0	0	0	Unassigned
+712	Alabama	US	11/25/2020			0	0	0	Unassigned
+712	Alabama	US	11/26/2020			0	0	0	Unassigned
+712	Alabama	US	11/27/2020			0	0	0	Unassigned
+712	Alabama	US	11/28/2020			0	0	0	Unassigned
+712	Alabama	US	11/29/2020			0	0	0	Unassigned
+712	Alabama	US	11/30/2020			0	0	0	Unassigned
+712	Alabama	US	12/01/2020			0	0	0	Unassigned
+712	Alabama	US	12/02/2020			0	0	0	Unassigned
+712	Alabama	US	12/03/2020			0	0	0	Unassigned
+712	Alabama	US	12/04/2020			0	0	0	Unassigned
+712	Alabama	US	12/05/2020			0	0	0	Unassigned
+712	Alabama	US	12/06/2020			0	0	0	Unassigned
+712	Alabama	US	12/07/2020			0	0	0	Unassigned
+712	Alabama	US	12/08/2020			0	0	0	Unassigned
+712	Alabama	US	12/09/2020			0	0	0	Unassigned
+712	Alabama	US	12/10/2020			0	0	0	Unassigned
+712	Alabama	US	12/11/2020			0	0	0	Unassigned
+712	Alabama	US	12/12/2020			0	0	0	Unassigned
+712	Alabama	US	12/13/2020			0	0	0	Unassigned
+712	Alabama	US	12/14/2020			0	0	0	Unassigned
+712	Alabama	US	12/15/2020			0	0	0	Unassigned
+712	Alabama	US	12/16/2020			0	0	0	Unassigned
+712	Alabama	US	12/17/2020			0	0	0	Unassigned
+712	Alabama	US	12/18/2020			0	0	0	Unassigned
+712	Alabama	US	12/19/2020			0	0	0	Unassigned
+712	Alabama	US	12/20/2020			0	0	0	Unassigned
+712	Alabama	US	12/21/2020			0	0	0	Unassigned
+712	Alabama	US	12/22/2020			0	0	0	Unassigned
+712	Alabama	US	12/23/2020			0	0	0	Unassigned
+712	Alabama	US	12/24/2020			0	0	0	Unassigned
+712	Alabama	US	12/25/2020			0	0	0	Unassigned
+712	Alabama	US	12/26/2020			0	0	0	Unassigned
+712	Alabama	US	12/27/2020			0	0	0	Unassigned
+712	Alabama	US	12/28/2020			0	0	0	Unassigned
+712	Alabama	US	12/29/2020			0	0	0	Unassigned
+712	Alabama	US	12/30/2020			0	0	0	Unassigned
+712	Alabama	US	12/31/2020			0	0	0	Unassigned
+712	Alabama	US	01/01/2021			0	0	0	Unassigned
+712	Alabama	US	01/02/2021			0	0	0	Unassigned
+713	Alabama	US	01/03/2021			0	0	0	Unassigned
+713	Alabama	US	01/04/2021			0	0	0	Unassigned
+713	Alabama	US	01/05/2021			0	0	0	Unassigned
+713	Alabama	US	01/06/2021			0	0	0	Unassigned
+713	Alabama	US	01/07/2021			0	0	0	Unassigned
+713	Alabama	US	01/08/2021			0	0	0	Unassigned
+713	Alabama	US	01/09/2021			0	0	0	Unassigned
+713	Alabama	US	01/10/2021			0	0	0	Unassigned
+713	Alabama	US	01/11/2021			0	0	0	Unassigned
+713	Alabama	US	01/12/2021			0	0	0	Unassigned
+713	Alabama	US	01/13/2021			0	0	0	Unassigned
+713	Alabama	US	01/14/2021			0	0	0	Unassigned
+713	Alabama	US	01/15/2021			0	0	0	Unassigned
+713	Alabama	US	01/16/2021			0	0	0	Unassigned
+713	Alabama	US	01/17/2021			0	0	0	Unassigned
+713	Alabama	US	01/18/2021			0	0	0	Unassigned
+713	Alabama	US	01/19/2021			0	0	0	Unassigned
+713	Alabama	US	01/20/2021			0	0	0	Unassigned
+714	Alabama	US	01/21/2021			0	0	0	Unassigned
+714	Alabama	US	01/22/2021			0	0	0	Unassigned
+714	Alabama	US	01/23/2021			0	0	0	Unassigned
+714	Alabama	US	01/24/2021			0	0	0	Unassigned
+714	Alabama	US	01/25/2021			0	0	0	Unassigned
+714	Alabama	US	01/26/2021			0	0	0	Unassigned
+714	Alabama	US	01/27/2021			0	0	0	Unassigned
+714	Alabama	US	01/28/2021			0	0	0	Unassigned
+714	Alabama	US	01/29/2021			0	0	0	Unassigned
+714	Alabama	US	01/30/2021			0	0	0	Unassigned
+714	Alabama	US	01/31/2021			0	0	0	Unassigned
+714	Alabama	US	02/01/2021			0	0	0	Unassigned
+714	Alabama	US	02/02/2021			0	0	0	Unassigned
+714	Alabama	US	02/03/2021			0	0	0	Unassigned
+714	Alabama	US	02/04/2021			0	0	0	Unassigned
+714	Alabama	US	02/05/2021			0	0	0	Unassigned
+714	Alabama	US	02/06/2021			0	0	0	Unassigned
+714	Alabama	US	02/07/2021			0	0	0	Unassigned
+714	Alabama	US	02/08/2021			0	0	0	Unassigned
+714	Alabama	US	02/09/2021			0	0	0	Unassigned
+714	Alabama	US	02/10/2021			0	0	0	Unassigned
+714	Alabama	US	02/11/2021			0	0	0	Unassigned
+714	Alabama	US	02/12/2021			0	0	0	Unassigned
+714	Alabama	US	02/13/2021			0	0	0	Unassigned
+714	Alabama	US	02/14/2021			0	0	0	Unassigned
+714	Alabama	US	02/15/2021			0	0	0	Unassigned
+714	Alabama	US	02/16/2021			0	0	0	Unassigned
+714	Alabama	US	02/17/2021			0	0	0	Unassigned
+714	Alabama	US	02/18/2021			0	0	0	Unassigned
+715	Alabama	US	02/19/2021			0	0	0	Unassigned
+715	Alabama	US	02/20/2021			0	0	0	Unassigned
+715	Alabama	US	02/21/2021			0	0	0	Unassigned
+715	Alabama	US	02/22/2021			0	0	0	Unassigned
+715	Alabama	US	02/23/2021			0	0	0	Unassigned
+715	Alabama	US	02/24/2021			0	0	0	Unassigned
+715	Alabama	US	02/25/2021			0	0	0	Unassigned
+715	Alabama	US	02/26/2021			0	0	0	Unassigned
+715	Alabama	US	02/27/2021			0	0	0	Unassigned
+715	Alabama	US	02/28/2021			0	0	0	Unassigned
+715	Alabama	US	03/01/2021			0	0	0	Unassigned
+715	Alabama	US	03/02/2021			0	0	0	Unassigned
+715	Alabama	US	03/03/2021			0	0	0	Unassigned
+715	Alabama	US	03/04/2021			0	0	0	Unassigned
+715	Alabama	US	03/05/2021			0	0	0	Unassigned
+715	Alabama	US	03/06/2021			0	0	0	Unassigned
+715	Alabama	US	03/07/2021			0	0		Unassigned
+715	Alabama	US	03/08/2021			0	0		Unassigned
+715	Alabama	US	03/09/2021			0	0		Unassigned
+715	Alabama	US	03/10/2021			0	0		Unassigned
+715	Alabama	US	03/11/2021			0	0		Unassigned
+715	Alabama	US	03/12/2021			0	0		Unassigned
+715	Alabama	US	03/13/2021			0	0		Unassigned
+715	Alabama	US	03/14/2021			0	0		Unassigned
+715	Alabama	US	03/15/2021			0	0		Unassigned
+715	Alabama	US	03/16/2021			0	0		Unassigned
+715	Alabama	US	03/17/2021			0	0		Unassigned
+715	Alabama	US	03/18/2021			0	0		Unassigned
+715	Alabama	US	03/19/2021			0	0		Unassigned
+715	Alabama	US	03/20/2021			0	0		Unassigned
+715	Alabama	US	03/21/2021			0	0		Unassigned
+715	Alabama	US	03/22/2021			0	0		Unassigned
+715	Alabama	US	03/23/2021			0	0		Unassigned
+715	Alabama	US	03/24/2021			0	0		Unassigned
+715	Alabama	US	03/25/2021			0	0		Unassigned
+715	Alabama	US	03/26/2021			0	0		Unassigned
+715	Alabama	US	03/27/2021			0	0		Unassigned
+715	Alabama	US	03/28/2021			0	0		Unassigned
+715	Alabama	US	03/29/2021			0	0		Unassigned
+715	Alabama	US	03/30/2021			0	0		Unassigned
+715	Alabama	US	03/31/2021			0	0		Unassigned
+715	Alabama	US	04/01/2021			0	0		Unassigned
+715	Alabama	US	04/02/2021			0	0		Unassigned
+715	Alabama	US	04/03/2021			0	0		Unassigned
+715	Alabama	US	04/04/2021			0	0		Unassigned
+715	Alabama	US	04/05/2021			0	0		Unassigned
+715	Alabama	US	04/06/2021			0	0		Unassigned
+715	Alabama	US	04/07/2021			0	0		Unassigned
+715	Alabama	US	04/08/2021			0	0		Unassigned
+715	Alabama	US	04/09/2021			0	0		Unassigned
+715	Alabama	US	04/10/2021			0	0		Unassigned
+715	Alabama	US	04/11/2021			0	0		Unassigned
+715	Alabama	US	04/12/2021			0	0		Unassigned
+715	Alabama	US	04/13/2021			0	0		Unassigned
+715	Alabama	US	04/14/2021			0	0		Unassigned
+715	Alabama	US	04/15/2021			0	0		Unassigned
+715	Alabama	US	04/16/2021			0	0		Unassigned
+715	Alabama	US	04/17/2021			0	0		Unassigned
+715	Alabama	US	04/18/2021			0	0		Unassigned
+715	Alabama	US	04/19/2021			0	0		Unassigned
+715	Alabama	US	04/20/2021			0	0		Unassigned
+715	Alabama	US	04/21/2021			0	0		Unassigned
+715	Alabama	US	04/22/2021			0	0		Unassigned
+715	Alabama	US	04/23/2021			0	0		Unassigned
+715	Alabama	US	04/24/2021			0	0		Unassigned
+715	Alabama	US	04/25/2021			0	0		Unassigned
+715	Alabama	US	04/26/2021			0	0		Unassigned
+715	Alabama	US	04/27/2021			0	0		Unassigned
+715	Alabama	US	04/28/2021			0	0		Unassigned
+715	Alabama	US	04/29/2021			0	0		Unassigned
+715	Alabama	US	04/30/2021			0	0		Unassigned
+715	Alabama	US	05/01/2021			0	0		Unassigned
+715	Alabama	US	05/02/2021			0	0		Unassigned
+715	Alabama	US	05/03/2021			0	0		Unassigned
+715	Alabama	US	05/04/2021			0	0		Unassigned
+715	Alabama	US	05/05/2021			0	0		Unassigned
+715	Alabama	US	05/06/2021			0	0		Unassigned
+715	Alabama	US	05/07/2021			0	0		Unassigned
+715	Alabama	US	05/08/2021			0	0		Unassigned
+715	Alabama	US	05/09/2021			0	0		Unassigned
+715	Alabama	US	05/10/2021			0	0		Unassigned
+715	Alabama	US	05/11/2021			0	0		Unassigned
+715	Alabama	US	05/12/2021			0	0		Unassigned
+715	Alabama	US	05/13/2021			0	0		Unassigned
+715	Alabama	US	05/14/2021			0	0		Unassigned
+715	Alabama	US	05/15/2021			0	0		Unassigned
+715	Alabama	US	05/16/2021			0	0		Unassigned
+715	Alabama	US	05/17/2021			0	0		Unassigned
+715	Alabama	US	05/18/2021			0	0		Unassigned
+715	Alabama	US	05/19/2021			0	0		Unassigned
+715	Alabama	US	05/20/2021			0	0		Unassigned
+715	Alabama	US	05/21/2021			0	0		Unassigned
+715	Alabama	US	05/22/2021			0	0		Unassigned
+715	Alabama	US	05/23/2021			0	0		Unassigned
+715	Alabama	US	05/24/2021			0	0		Unassigned
+715	Alabama	US	05/25/2021			0	0		Unassigned
+715	Alabama	US	05/26/2021			0	0		Unassigned
+716	Alabama	US	05/27/2021			0	0		Unassigned
+716	Alabama	US	05/28/2021			0	0		Unassigned
+716	Alabama	US	05/29/2021			0	0		Unassigned
+716	Alabama	US	05/30/2021			0	0		Unassigned
+716	Alabama	US	05/31/2021			0	0		Unassigned
+716	Alabama	US	06/01/2021			0	0		Unassigned
+716	Alabama	US	06/02/2021			0	0		Unassigned
+716	Alabama	US	06/03/2021			0	0		Unassigned
+716	Alabama	US	06/04/2021			0	0		Unassigned
+716	Alabama	US	06/05/2021			0	0		Unassigned
+716	Alabama	US	06/06/2021			0	0		Unassigned
+716	Alabama	US	06/07/2021			0	0		Unassigned
+716	Alabama	US	06/08/2021			0	0		Unassigned
+716	Alabama	US	06/09/2021			0	0		Unassigned
+716	Alabama	US	06/10/2021			0	0		Unassigned
+716	Alabama	US	06/11/2021			0	0		Unassigned
+716	Alabama	US	06/12/2021			0	0		Unassigned
+716	Alabama	US	06/13/2021			0	0		Unassigned
+716	Alabama	US	06/14/2021			0	0		Unassigned
+716	Alabama	US	06/15/2021			0	0		Unassigned
+716	Alabama	US	06/16/2021			0	0		Unassigned
+718	Alabama	US	06/17/2021			0	0		Unassigned
+718	Alabama	US	06/18/2021			0	0		Unassigned
+718	Alabama	US	06/19/2021			0	0		Unassigned
+718	Alabama	US	06/20/2021			0	0		Unassigned
+718	Alabama	US	06/21/2021			0	0		Unassigned
+718	Alabama	US	06/22/2021			0	0		Unassigned
+718	Alabama	US	06/23/2021			0	0		Unassigned
+719	Alabama	US	06/24/2021			0	0		Unassigned
+719	Alabama	US	06/25/2021			0	0		Unassigned
+719	Alabama	US	06/26/2021			0	0		Unassigned
+719	Alabama	US	06/27/2021			0	0		Unassigned
+719	Alabama	US	06/28/2021			0	0		Unassigned
+719	Alabama	US	06/29/2021			0	0		Unassigned
+719	Alabama	US	06/30/2021			0	0		Unassigned
+719	Alabama	US	07/01/2021			0	0		Unassigned
+719	Alabama	US	07/02/2021			0	0		Unassigned
+719	Alabama	US	07/03/2021			0	0		Unassigned
+719	Alabama	US	07/04/2021			0	0		Unassigned
+719	Alabama	US	07/05/2021			0	0		Unassigned
+719	Alabama	US	07/06/2021			0	0		Unassigned
+719	Alabama	US	07/07/2021			0	0		Unassigned
+719	Alabama	US	07/08/2021			0	0		Unassigned
+719	Alabama	US	07/09/2021			0	0		Unassigned
+719	Alabama	US	07/10/2021			0	0		Unassigned
+719	Alabama	US	07/11/2021			0	0		Unassigned
+719	Alabama	US	07/12/2021			0	0		Unassigned
+719	Alabama	US	07/13/2021			0	0		Unassigned
+719	Alabama	US	07/14/2021			0	0		Unassigned
+719	Alabama	US	07/15/2021			0	0		Unassigned
+719	Alabama	US	07/16/2021			0	0		Unassigned
+719	Alabama	US	07/17/2021			0	0		Unassigned
+719	Alabama	US	07/18/2021			0	0		Unassigned
+719	Alabama	US	07/19/2021			0	0		Unassigned
+719	Alabama	US	07/20/2021			0	0		Unassigned
+719	Alabama	US	07/21/2021			0	0		Unassigned
+719	Alabama	US	07/22/2021			0	0		Unassigned
+719	Alabama	US	07/23/2021			0	0		Unassigned
+719	Alabama	US	07/24/2021			0	0		Unassigned
+719	Alabama	US	07/25/2021			0	0		Unassigned
+719	Alabama	US	07/26/2021			0	0		Unassigned
+719	Alabama	US	07/27/2021			0	0		Unassigned
+719	Alabama	US	07/28/2021			0	0		Unassigned
+719	Alabama	US	07/29/2021			0	0		Unassigned
+719	Alabama	US	07/30/2021			0	0		Unassigned
+719	Alabama	US	07/31/2021			0	0		Unassigned
+719	Alabama	US	08/01/2021			0	0		Unassigned
+719	Alabama	US	08/02/2021			0	0		Unassigned
+719	Alabama	US	08/03/2021			0	0		Unassigned
+719	Alabama	US	08/04/2021			0	0		Unassigned
+719	Alabama	US	08/05/2021			0	0		Unassigned
+719	Alabama	US	08/06/2021			0	0		Unassigned
+719	Alabama	US	08/07/2021			0	0		Unassigned
+719	Alabama	US	08/08/2021			0	0		Unassigned
+719	Alabama	US	08/09/2021			0	0		Unassigned
+719	Alabama	US	08/10/2021			0	0		Unassigned
+719	Alabama	US	08/11/2021			0	0		Unassigned
+719	Alabama	US	08/12/2021			0	0		Unassigned
+719	Alabama	US	08/13/2021			0	0		Unassigned
+719	Alabama	US	08/14/2021			0	0		Unassigned
+719	Alabama	US	08/15/2021			0	0		Unassigned
+719	Alabama	US	08/16/2021			0	0		Unassigned
+719	Alabama	US	08/17/2021			0	0		Unassigned
+719	Alabama	US	08/18/2021			0	0		Unassigned
+719	Alabama	US	08/19/2021			0	0		Unassigned
+719	Alabama	US	08/20/2021			0	0		Unassigned
+719	Alabama	US	08/21/2021			0	0		Unassigned
+719	Alabama	US	08/22/2021			0	0		Unassigned
+719	Alabama	US	08/23/2021			0	0		Unassigned
+719	Alabama	US	08/24/2021			0	0		Unassigned
+719	Alabama	US	08/25/2021			0	0		Unassigned
+719	Alabama	US	08/26/2021			0	0		Unassigned
+719	Alabama	US	08/27/2021			0	0		Unassigned
+719	Alabama	US	08/28/2021			0	0		Unassigned
+719	Alabama	US	08/29/2021			0	0		Unassigned
+719	Alabama	US	08/30/2021			0	0		Unassigned
+719	Alabama	US	08/31/2021			0	0		Unassigned
+719	Alabama	US	09/01/2021			0	0		Unassigned
+719	Alabama	US	09/02/2021			0	0		Unassigned
+719	Alabama	US	09/03/2021			0	0		Unassigned
+719	Alabama	US	09/04/2021			0	0		Unassigned
+719	Alabama	US	09/05/2021			0	0		Unassigned
+719	Alabama	US	09/06/2021			0	0		Unassigned
+719	Alabama	US	09/07/2021			0	0		Unassigned
+719	Alabama	US	09/08/2021			0	0		Unassigned
+719	Alabama	US	09/09/2021			0	0		Unassigned
+719	Alabama	US	09/10/2021			0	0		Unassigned
+719	Alabama	US	09/11/2021			0	0		Unassigned
+719	Alabama	US	09/12/2021			0	0		Unassigned
+719	Alabama	US	09/13/2021			0	0		Unassigned
+719	Alabama	US	09/14/2021			0	0		Unassigned
+719	Alabama	US	09/15/2021			0	0		Unassigned
+719	Alabama	US	09/16/2021			0	0		Unassigned
+719	Alabama	US	09/17/2021			0	0		Unassigned
+719	Alabama	US	09/18/2021			0	0		Unassigned
+719	Alabama	US	09/19/2021			0	0		Unassigned
+719	Alabama	US	09/20/2021			0	0		Unassigned
+719	Alabama	US	09/21/2021			0	0		Unassigned
+719	Alabama	US	09/22/2021			0	0		Unassigned
+736	Alabama	US	09/23/2021			0	0		Unassigned
+736	Alabama	US	09/24/2021			0	0		Unassigned
+736	Alabama	US	09/25/2021			0	0		Unassigned
+736	Alabama	US	09/26/2021			0	0		Unassigned
+736	Alabama	US	09/27/2021			0	0		Unassigned
+736	Alabama	US	09/28/2021			0	0		Unassigned
+736	Alabama	US	09/29/2021			0	0		Unassigned
+736	Alabama	US	09/30/2021			0	0		Unassigned
+736	Alabama	US	10/01/2021			0	0		Unassigned
+736	Alabama	US	10/02/2021			0	0		Unassigned
+736	Alabama	US	10/03/2021			0	0		Unassigned
+736	Alabama	US	10/04/2021			0	0		Unassigned
+736	Alabama	US	10/05/2021			0	0		Unassigned
+736	Alabama	US	10/06/2021			0	0		Unassigned
+736	Alabama	US	10/07/2021			0	0		Unassigned
+736	Alabama	US	10/08/2021			0	0		Unassigned
+736	Alabama	US	10/09/2021			0	0		Unassigned
+736	Alabama	US	10/10/2021			0	0		Unassigned
+736	Alabama	US	10/11/2021			0	0		Unassigned
+736	Alabama	US	10/12/2021			0	0		Unassigned
+736	Alabama	US	10/13/2021			0	0		Unassigned
+736	Alabama	US	10/14/2021			0	0		Unassigned
+736	Alabama	US	10/15/2021			0	0		Unassigned
+736	Alabama	US	10/16/2021			0	0		Unassigned
+736	Alabama	US	10/17/2021			0	0		Unassigned
+736	Alabama	US	10/18/2021			0	0		Unassigned
+736	Alabama	US	10/19/2021			0	0		Unassigned
+736	Alabama	US	10/20/2021			0	0		Unassigned
+736	Alabama	US	10/21/2021			0	0		Unassigned
+736	Alabama	US	10/22/2021			0	0		Unassigned
+736	Alabama	US	10/23/2021			0	0		Unassigned
+736	Alabama	US	10/24/2021			0	0		Unassigned
+736	Alabama	US	10/25/2021			0	0		Unassigned
+736	Alabama	US	10/26/2021			0	0		Unassigned
+736	Alabama	US	10/27/2021			0	0		Unassigned
+736	Alabama	US	10/28/2021			0	0		Unassigned
+736	Alabama	US	10/29/2021			0	0		Unassigned
+736	Alabama	US	10/30/2021			0	0		Unassigned
+736	Alabama	US	10/31/2021			0	0		Unassigned
+737	Alabama	US	11/01/2021			0	0		Unassigned
+737	Alabama	US	11/02/2021			0	0		Unassigned
+737	Alabama	US	11/03/2021			0	0		Unassigned
+737	Alabama	US	11/04/2021			0	0		Unassigned
+737	Alabama	US	11/05/2021			0	0		Unassigned
+737	Alabama	US	11/06/2021			0	0		Unassigned
+737	Alabama	US	11/07/2021			0	0		Unassigned
+737	Alabama	US	11/08/2021			0	0		Unassigned
+737	Alabama	US	11/09/2021			0	0		Unassigned
+737	Alabama	US	11/10/2021			0	0		Unassigned
+737	Alabama	US	11/11/2021			0	0		Unassigned
+737	Alabama	US	11/12/2021			0	0		Unassigned
+737	Alabama	US	11/13/2021			0	0		Unassigned
+737	Alabama	US	11/14/2021			0	0		Unassigned
+737	Alabama	US	11/15/2021			0	0		Unassigned
+737	Alabama	US	11/16/2021			0	0		Unassigned
+737	Alabama	US	11/17/2021			0	0		Unassigned
+737	Alabama	US	11/18/2021			0	0		Unassigned
+737	Alabama	US	11/19/2021			0	0		Unassigned
+737	Alabama	US	11/20/2021			0	0		Unassigned
+737	Alabama	US	11/21/2021			0	0		Unassigned
+737	Alabama	US	11/22/2021			0	0		Unassigned
+737	Alabama	US	11/23/2021			0	0		Unassigned
+737	Alabama	US	11/24/2021			0	0		Unassigned
+737	Alabama	US	11/25/2021			0	0		Unassigned
+737	Alabama	US	11/26/2021			0	0		Unassigned
+737	Alabama	US	11/27/2021			0	0		Unassigned
+737	Alabama	US	11/28/2021			0	0		Unassigned
+737	Alabama	US	11/29/2021			0	0		Unassigned
+737	Alabama	US	11/30/2021			0	0		Unassigned
+737	Alabama	US	12/01/2021			0	0		Unassigned
+737	Alabama	US	12/02/2021			0	0		Unassigned
+737	Alabama	US	12/03/2021			0	0		Unassigned
+737	Alabama	US	12/04/2021			0	0		Unassigned
+737	Alabama	US	12/05/2021			0	0		Unassigned
+737	Alabama	US	12/06/2021			0	0		Unassigned
+737	Alabama	US	12/07/2021			0	0		Unassigned
+737	Alabama	US	12/08/2021			0	0		Unassigned
+737	Alabama	US	12/09/2021			0	0		Unassigned
+737	Alabama	US	12/10/2021			0	0		Unassigned
+737	Alabama	US	12/11/2021			0	0		Unassigned
+737	Alabama	US	12/12/2021			0	0		Unassigned
+737	Alabama	US	12/13/2021			0	0		Unassigned
+737	Alabama	US	12/14/2021			0	0		Unassigned
+737	Alabama	US	12/15/2021			0	0		Unassigned
+737	Alabama	US	12/16/2021			0	0		Unassigned
+737	Alabama	US	12/17/2021			0	0		Unassigned
+737	Alabama	US	12/18/2021			0	0		Unassigned
+737	Alabama	US	12/19/2021			0	0		Unassigned
+737	Alabama	US	12/20/2021			0	0		Unassigned
+737	Alabama	US	12/21/2021			0	0		Unassigned

@@ -1,2 +1,2 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1159	Unassigned	4	US	0	0.0	0.0	Wuhan Evacuee	0	03/22/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1159	Wuhan Evacuee	US	03/22/2020	0.0	0.0	4	0	0	Unassigned

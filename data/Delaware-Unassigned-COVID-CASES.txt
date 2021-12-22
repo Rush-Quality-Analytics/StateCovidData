@@ -1,500 +1,632 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2860	Unassigned	0	US	1	0.0	0.0	Delaware	0	03/27/2020
-1933	Unassigned	0	US	3	0.0	0.0	Delaware	0	03/31/2020
-2049	Unassigned	0	US	16			Delaware	0	04/02/2020
-2096	Unassigned	0	US	17			Delaware	0	04/03/2020
-2148	Unassigned	0	US	17			Delaware	0	04/04/2020
-2221	Unassigned	0	US	7			Delaware	0	04/05/2020
-2258	Unassigned	0	US	9			Delaware	0	04/06/2020
-2305	Unassigned	0	US	10			Delaware	0	04/07/2020
-2328	Unassigned	0	US	13			Delaware	0	04/08/2020
-2354	Unassigned	0	US	3			Delaware	0	04/09/2020
-2378	Unassigned	9	US	3			Delaware	0	04/10/2020
-2404	Unassigned	13	US	4			Delaware	0	04/11/2020
-2426	Unassigned	0	US	5			Delaware	0	04/12/2020
-2440	Unassigned	0	US	7			Delaware	0	04/13/2020
-2450	Unassigned	11	US	8			Delaware	0	04/14/2020
-2462	Unassigned	17	US	9			Delaware	0	04/15/2020
-2476	Unassigned	17	US	10			Delaware	0	04/16/2020
-2478	Unassigned	22	US	0			Delaware	0	04/17/2020
-2485	Unassigned	30	US	0			Delaware	0	04/18/2020
-2502	Unassigned	30	US	0			Delaware	0	04/19/2020
-2510	Unassigned	31	US	0			Delaware	0	04/20/2020
-2519	Unassigned	30	US	0			Delaware	0	04/21/2020
-2526	Unassigned	28	US	0			Delaware	0	04/22/2020
-2543	Unassigned	3	US	0			Delaware	0	04/23/2020
-2549	Unassigned	4	US	0			Delaware	0	04/24/2020
-2554	Unassigned	3	US	0			Delaware	0	04/25/2020
-2562	Unassigned	9	US	0			Delaware	0	04/26/2020
-2569	Unassigned	11	US	0			Delaware	0	04/27/2020
-2578	Unassigned	32	US	0			Delaware	0	04/28/2020
-2583	Unassigned	26	US	0			Delaware	0	04/29/2020
-2589	Unassigned	25	US	0			Delaware	0	04/30/2020
-2600	Unassigned	24	US	0			Delaware	0	05/01/2020
-2603	Unassigned	22	US	0			Delaware	0	05/02/2020
-2608	Unassigned	23	US	0			Delaware	0	05/03/2020
-2611	Unassigned	24	US	0			Delaware	0	05/04/2020
-2619	Unassigned	25	US	0			Delaware	0	05/05/2020
-2625	Unassigned	36	US	0			Delaware	0	05/06/2020
-2632	Unassigned	30	US	0			Delaware	0	05/07/2020
-2639	Unassigned	28	US	0			Delaware	0	05/08/2020
-2641	Unassigned	27	US	0			Delaware	0	05/09/2020
-2643	Unassigned	27	US	0			Delaware	0	05/10/2020
-2643	Unassigned	40	US	0			Delaware	0	05/11/2020
-2646	Unassigned	36	US	0			Delaware	0	05/12/2020
-2647	Unassigned	36	US	0			Delaware	0	05/13/2020
-2649	Unassigned	45	US	0			Delaware	0	05/14/2020
-2654	Unassigned	43	US	0			Delaware	0	05/15/2020
-2658	Unassigned	46	US	0			Delaware	0	05/16/2020
-2661	Unassigned	52	US	0			Delaware	0	05/17/2020
-2663	Unassigned	51	US	0			Delaware	0	05/18/2020
-2667	Unassigned	50	US	0			Delaware	0	05/19/2020
-2673	Unassigned	48	US	0			Delaware	0	05/20/2020
-2675	Unassigned	46	US	0			Delaware	0	05/21/2020
-2682	Unassigned	53	US	0			Delaware	0	05/22/2020
-2684	Unassigned	53	US	0			Delaware	0	05/23/2020
-2687	Unassigned	57	US	0			Delaware	0	05/24/2020
-2688	Unassigned	55	US	0			Delaware	0	05/25/2020
-2689	Unassigned	58	US	0			Delaware	0	05/26/2020
-2692	Unassigned	54	US	0			Delaware	0	05/27/2020
-2695	Unassigned	53	US	0			Delaware	0	05/28/2020
-2698	Unassigned	51	US	0			Delaware	0	05/29/2020
-2700	Unassigned	52	US	0			Delaware	0	05/30/2020
-2701	Unassigned	51	US	0			Delaware	0	05/31/2020
-2703	Unassigned	55	US	0			Delaware	0	06/01/2020
-2708	Unassigned	53	US	0			Delaware	0	06/02/2020
-2710	Unassigned	53	US	0			Delaware	0	06/03/2020
-2711	Unassigned	53	US	0			Delaware	0	06/04/2020
-2715	Unassigned	49	US	0			Delaware	0	06/05/2020
-2717	Unassigned	12	US	0			Delaware	0	06/06/2020
-2717	Unassigned	15	US	0			Delaware	0	06/07/2020
-2717	Unassigned	11	US	0			Delaware	0	06/08/2020
-2719	Unassigned	12	US	0			Delaware	0	06/09/2020
-2721	Unassigned	14	US	0			Delaware	0	06/10/2020
-2723	Unassigned	13	US	0			Delaware	0	06/11/2020
-2737	Unassigned	16	US	0			Delaware	0	06/12/2020
-2740	Unassigned	15	US	0			Delaware	0	06/13/2020
-2740	Unassigned	14	US	0			Delaware	0	06/14/2020
-2744	Unassigned	14	US	0			Delaware	0	06/15/2020
-2742	Unassigned	16	US	0			Delaware	0	06/16/2020
-2744	Unassigned	14	US	0			Delaware	0	06/17/2020
-2744	Unassigned	14	US	0			Delaware	0	06/18/2020
-2745	Unassigned	17	US	0			Delaware	0	06/19/2020
-2749	Unassigned	19	US	0			Delaware	0	06/20/2020
-2749	Unassigned	20	US	0			Delaware	0	06/21/2020
-2752	Unassigned	17	US	0			Delaware	0	06/22/2020
-2757	Unassigned	17	US	0			Delaware	0	06/23/2020
-2769	Unassigned	19	US	0			Delaware	0	06/24/2020
-2774	Unassigned	21	US	0			Delaware	0	06/25/2020
-2775	Unassigned	23	US	0			Delaware	0	06/26/2020
-2776	Unassigned	26	US	0			Delaware	0	06/27/2020
-2776	Unassigned	30	US	0			Delaware	0	06/28/2020
-2778	Unassigned	36	US	0			Delaware	0	06/29/2020
-2780	Unassigned	38	US	0			Delaware	0	06/30/2020
-2782	Unassigned	42	US	0			Delaware	0	07/01/2020
-2785	Unassigned	53	US	0			Delaware	0	07/02/2020
-2790	Unassigned	69	US	0			Delaware	0	07/03/2020
-2791	Unassigned	73	US	0			Delaware	0	07/04/2020
-2792	Unassigned	81	US	0			Delaware	0	07/05/2020
-2795	Unassigned	91	US	0			Delaware	0	07/06/2020
-2796	Unassigned	98	US	0			Delaware	0	07/07/2020
-2799	Unassigned	101	US	0			Delaware	0	07/08/2020
-2798	Unassigned	102	US	0			Delaware	0	07/09/2020
-2802	Unassigned	104	US	0			Delaware	0	07/10/2020
-2803	Unassigned	106	US	0			Delaware	0	07/11/2020
-2805	Unassigned	104	US	0			Delaware	0	07/12/2020
-2806	Unassigned	106	US	0			Delaware	0	07/13/2020
-2812	Unassigned	114	US	0			Delaware	0	07/14/2020
-2813	Unassigned	117	US	0			Delaware	0	07/15/2020
-2815	Unassigned	121	US	0			Delaware	0	07/16/2020
-2815	Unassigned	134	US	0			Delaware	0	07/17/2020
-2888	Unassigned	142	US	0			Delaware	0	07/18/2020
-2888	Unassigned	145	US	0			Delaware	0	07/19/2020
-2812	Unassigned	153	US	0			Delaware	0	07/20/2020
-2892	Unassigned	158	US	0			Delaware	0	07/21/2020
-2893	Unassigned	161	US	0			Delaware	0	07/22/2020
-2896	Unassigned	163	US	0			Delaware	0	07/23/2020
-2895	Unassigned	184	US	0			Delaware	0	07/24/2020
-2896	Unassigned	182	US	0			Delaware	0	07/25/2020
-2897	Unassigned	187	US	0			Delaware	0	07/26/2020
-2897	Unassigned	192	US	0			Delaware	0	07/27/2020
-2897	Unassigned	192	US	0			Delaware	0	07/28/2020
-2901	Unassigned	203	US	0			Delaware	0	07/29/2020
-2901	Unassigned	212	US	0			Delaware	0	07/30/2020
-2903	Unassigned	219	US	0			Delaware	0	07/31/2020
-2903	Unassigned	221	US	0			Delaware	0	08/01/2020
-2903	Unassigned	226	US	0			Delaware	0	08/02/2020
-2903	Unassigned	229	US	0			Delaware	0	08/03/2020
-2904	Unassigned	232	US	0			Delaware	0	08/04/2020
-2908	Unassigned	238	US	0			Delaware	0	08/05/2020
-2908	Unassigned	240	US	0			Delaware	0	08/06/2020
-2908	Unassigned	244	US	0			Delaware	0	08/07/2020
-2908	Unassigned	243	US	0			Delaware	0	08/08/2020
-2908	Unassigned	243	US	0			Delaware	0	08/09/2020
-2908	Unassigned	249	US	0			Delaware	0	08/10/2020
-1003	Unassigned	250	US	0			Delaware	0	08/11/2020
-957	Unassigned	256	US	0			Delaware	0	08/12/2020
-957	Unassigned	258	US	0			Delaware	0	08/13/2020
-957	Unassigned	260	US	0			Delaware	0	08/14/2020
-957	Unassigned	259	US	0			Delaware	0	08/15/2020
-957	Unassigned	261	US	0			Delaware	0	08/16/2020
-957	Unassigned	263	US	0			Delaware	0	08/17/2020
-957	Unassigned	264	US	0			Delaware	0	08/18/2020
-957	Unassigned	264	US	0			Delaware	0	08/19/2020
-957	Unassigned	267	US	0			Delaware	0	08/20/2020
-957	Unassigned	269	US	0			Delaware	0	08/21/2020
-958	Unassigned	272	US	0			Delaware	0	08/22/2020
-958	Unassigned	273	US	0			Delaware	0	08/23/2020
-958	Unassigned	275	US	0			Delaware	0	08/24/2020
-958	Unassigned	277	US	0			Delaware	0	08/25/2020
-958	Unassigned	276	US	0			Delaware	0	08/26/2020
-958	Unassigned	275	US	0			Delaware	0	08/27/2020
-958	Unassigned	279	US	0			Delaware	0	08/28/2020
-958	Unassigned	278	US	0			Delaware	0	08/29/2020
-958	Unassigned	279	US	0			Delaware	0	08/30/2020
-958	Unassigned	285	US	0			Delaware	0	08/31/2020
-958	Unassigned	289	US	0			Delaware	0	09/01/2020
-958	Unassigned	290	US	0			Delaware	0	09/02/2020
-958	Unassigned	292	US	0			Delaware	0	09/03/2020
-958	Unassigned	294	US	0			Delaware	0	09/04/2020
-958	Unassigned	303	US	0			Delaware	0	09/05/2020
-958	Unassigned	334	US	0			Delaware	0	09/06/2020
-958	Unassigned	453	US	0			Delaware	0	09/07/2020
-958	Unassigned	455	US	0			Delaware	0	09/08/2020
-958	Unassigned	455	US	0			Delaware	0	09/09/2020
-958	Unassigned	461	US	0			Delaware	0	09/10/2020
-958	Unassigned	461	US	0			Delaware	0	09/11/2020
-958	Unassigned	464	US	0			Delaware	0	09/12/2020
-958	Unassigned	465	US	0			Delaware	0	09/13/2020
-958	Unassigned	470	US	0			Delaware	0	09/14/2020
-958	Unassigned	493	US	0			Delaware	0	09/15/2020
-958	Unassigned	478	US	0			Delaware	0	09/16/2020
-958	Unassigned	479	US	0			Delaware	0	09/17/2020
-958	Unassigned	477	US	0			Delaware	0	09/18/2020
-958	Unassigned	476	US	0			Delaware	0	09/19/2020
-958	Unassigned	480	US	0			Delaware	0	09/20/2020
-959	Unassigned	480	US	0			Delaware	0	09/21/2020
-959	Unassigned	482	US	0			Delaware	0	09/22/2020
-959	Unassigned	482	US	0			Delaware	0	09/23/2020
-959	Unassigned	488	US	0			Delaware	0	09/24/2020
-959	Unassigned	487	US	0			Delaware	0	09/25/2020
-959	Unassigned	489	US	0			Delaware	0	09/26/2020
-959	Unassigned	489	US	0			Delaware	0	09/27/2020
-959	Unassigned	493	US	0			Delaware	0	09/28/2020
-959	Unassigned	491	US	0			Delaware	0	09/29/2020
-959	Unassigned	491	US	0			Delaware	0	09/30/2020
-959	Unassigned	491	US	0			Delaware	0	10/01/2020
-959	Unassigned	90	US	0			Delaware	0	10/02/2020
-959	Unassigned	90	US	0			Delaware	0	10/03/2020
-959	Unassigned	90	US	0			Delaware	0	10/04/2020
-959	Unassigned	90	US	0			Delaware	0	10/05/2020
-959	Unassigned	90	US	0			Delaware	0	10/06/2020
-959	Unassigned	90	US	0			Delaware	0	10/07/2020
-959	Unassigned	90	US	0			Delaware	0	10/08/2020
-959	Unassigned	90	US	0			Delaware	0	10/09/2020
-959	Unassigned	91	US	0			Delaware	0	10/10/2020
-959	Unassigned	91	US	0			Delaware	0	10/11/2020
-960	Unassigned	91	US	0			Delaware	0	10/12/2020
-960	Unassigned	91	US	0			Delaware	0	10/13/2020
-960	Unassigned	91	US	0			Delaware	0	10/14/2020
-960	Unassigned	91	US	0			Delaware	0	10/15/2020
-961	Unassigned	91	US	0			Delaware	0	10/16/2020
-961	Unassigned	91	US	0			Delaware	0	10/17/2020
-961	Unassigned	91	US	0			Delaware	0	10/18/2020
-962	Unassigned	91	US	0			Delaware	0	10/19/2020
-962	Unassigned	91	US	0			Delaware	0	10/20/2020
-962	Unassigned	91	US	0			Delaware	0	10/21/2020
-962	Unassigned	91	US	0			Delaware	0	10/22/2020
-962	Unassigned	91	US	0			Delaware	0	10/23/2020
-962	Unassigned	91	US	0			Delaware	0	10/24/2020
-962	Unassigned	91	US	0			Delaware	0	10/25/2020
-962	Unassigned	91	US	0			Delaware	0	10/26/2020
-962	Unassigned	91	US	0			Delaware	0	10/27/2020
-963	Unassigned	91	US	0.0			Delaware	0	10/28/2020
-963	Unassigned	91	US	0			Delaware	0	10/29/2020
-963	Unassigned	91	US	0			Delaware	0	10/30/2020
-963	Unassigned	91	US	0			Delaware	0	10/31/2020
-963	Unassigned	91	US	0			Delaware	0	11/01/2020
-963	Unassigned	91	US	0			Delaware	0	11/02/2020
-964	Unassigned	91	US	0			Delaware	0	11/03/2020
-964	Unassigned	92	US	0			Delaware	0	11/04/2020
-964	Unassigned	91	US	0			Delaware	0	11/05/2020
-964	Unassigned	92	US	0			Delaware	0	11/06/2020
-964	Unassigned	92	US	0			Delaware	0	11/07/2020
-964	Unassigned	93	US	0			Delaware	0	11/08/2020
-964	Unassigned	93	US	0			Delaware	0.0	11/09/2020
-964	Unassigned	93	US	0			Delaware	0.0	11/10/2020
-964	Unassigned	93	US	0			Delaware	0.0	11/11/2020
-976	Unassigned	93	US	0			Delaware	0	11/12/2020
-976	Unassigned	93	US	0			Delaware	0	11/13/2020
-976	Unassigned	95	US	0			Delaware	0	11/14/2020
-976	Unassigned	95	US	0			Delaware	0	11/15/2020
-976	Unassigned	95	US	0			Delaware	0	11/16/2020
-976	Unassigned	95	US	0			Delaware	0	11/17/2020
-976	Unassigned	96	US	0			Delaware	0	11/18/2020
-976	Unassigned	97	US	0			Delaware	0	11/19/2020
-976	Unassigned	99	US	0			Delaware	0	11/20/2020
-976	Unassigned	99	US	0			Delaware	0	11/21/2020
-976	Unassigned	100	US	0			Delaware	0	11/22/2020
-976	Unassigned	100	US	0			Delaware	0	11/23/2020
-977	Unassigned	105	US	0			Delaware	0	11/24/2020
-977	Unassigned	105	US	0			Delaware	0	11/25/2020
-977	Unassigned	108	US	0			Delaware	0	11/26/2020
-977	Unassigned	109	US	0			Delaware	0	11/27/2020
-977	Unassigned	109	US	0			Delaware	0	11/28/2020
-977	Unassigned	111	US	0			Delaware	0	11/29/2020
-977	Unassigned	111	US	0			Delaware	0	11/30/2020
-977	Unassigned	94	US	0			Delaware	0	12/01/2020
-977	Unassigned	95	US	0			Delaware	0	12/02/2020
-977	Unassigned	94	US	0			Delaware	0	12/03/2020
-977	Unassigned	95	US	0			Delaware	0	12/04/2020
-977	Unassigned	96	US	0			Delaware	0	12/05/2020
-977	Unassigned	97	US	0			Delaware	0	12/06/2020
-977	Unassigned	97	US	0			Delaware	0	12/07/2020
-977	Unassigned	97	US	0			Delaware	0	12/08/2020
-977	Unassigned	94	US	0			Delaware	0	12/09/2020
-977	Unassigned	93	US	0			Delaware	0	12/10/2020
-977	Unassigned	93	US	0			Delaware	0	12/11/2020
-977	Unassigned	94	US	0			Delaware	0	12/12/2020
-977	Unassigned	96	US	0			Delaware	0	12/13/2020
-977	Unassigned	98	US	0			Delaware	0	12/14/2020
-977	Unassigned	103	US	0			Delaware	0	12/15/2020
-977	Unassigned	105	US	0			Delaware	0	12/16/2020
-977	Unassigned	118	US	0			Delaware	0	12/17/2020
-977	Unassigned	119	US	0			Delaware	0	12/18/2020
-977	Unassigned	120	US	0			Delaware	0	12/19/2020
-977	Unassigned	120	US	0			Delaware	0	12/20/2020
-977	Unassigned	119	US	0			Delaware	0	12/21/2020
-977	Unassigned	122	US	0			Delaware	0	12/22/2020
-977	Unassigned	121	US	0			Delaware	0	12/23/2020
-977	Unassigned	122	US	0			Delaware	0	12/24/2020
-977	Unassigned	123	US	0			Delaware	0	12/25/2020
-977	Unassigned	124	US	0			Delaware	0	12/26/2020
-977	Unassigned	131	US	0			Delaware	0	12/27/2020
-977	Unassigned	132	US	0			Delaware	0	12/28/2020
-977	Unassigned	135	US	0			Delaware	0	12/29/2020
-977	Unassigned	133	US	0			Delaware	0	12/30/2020
-977	Unassigned	136	US	0			Delaware	0	12/31/2020
-977	Unassigned	136	US	0			Delaware	0	01/01/2021
-977	Unassigned	136	US	0			Delaware	0	01/02/2021
-978	Unassigned	139	US	0			Delaware	0	01/03/2021
-978	Unassigned	140	US	0			Delaware	0	01/04/2021
-978	Unassigned	140	US	0			Delaware	0	01/05/2021
-978	Unassigned	144	US	0			Delaware	0	01/06/2021
-978	Unassigned	149	US	0			Delaware	0	01/07/2021
-978	Unassigned	148	US	0			Delaware	0	01/08/2021
-978	Unassigned	151	US	0			Delaware	0	01/09/2021
-978	Unassigned	154	US	0			Delaware	0	01/10/2021
-978	Unassigned	154	US	0			Delaware	0	01/11/2021
-978	Unassigned	154	US	0			Delaware	0	01/12/2021
-978	Unassigned	155	US	0			Delaware	0	01/13/2021
-978	Unassigned	157	US	0			Delaware	0	01/14/2021
-978	Unassigned	158	US	0			Delaware	0	01/15/2021
-978	Unassigned	160	US	0			Delaware	0	01/16/2021
-978	Unassigned	162	US	0			Delaware	0	01/17/2021
-978	Unassigned	164	US	0			Delaware	0	01/18/2021
-978	Unassigned	166	US	0			Delaware	0	01/19/2021
-978	Unassigned	166	US	0			Delaware	0	01/20/2021
-979	Unassigned	166	US	0			Delaware	0	01/21/2021
-979	Unassigned	172	US	0			Delaware	0	01/22/2021
-979	Unassigned	173	US	0			Delaware	0	01/23/2021
-979	Unassigned	174	US	0			Delaware	0	01/24/2021
-979	Unassigned	175	US	0			Delaware	0	01/25/2021
-979	Unassigned	174	US	0			Delaware	0	01/26/2021
-979	Unassigned	175	US	0			Delaware	0	01/27/2021
-979	Unassigned	177	US	0			Delaware	0	01/28/2021
-979	Unassigned	177	US	0			Delaware	0	01/29/2021
-979	Unassigned	182	US	0			Delaware	0	01/30/2021
-979	Unassigned	182	US	0			Delaware	0	01/31/2021
-979	Unassigned	183	US	0			Delaware	0	02/01/2021
-979	Unassigned	182	US	0			Delaware	0	02/02/2021
-979	Unassigned	178	US	0			Delaware	0	02/03/2021
-979	Unassigned	179	US	0			Delaware	0	02/04/2021
-979	Unassigned	180	US	0			Delaware	0	02/05/2021
-979	Unassigned	181	US	0			Delaware	0	02/06/2021
-979	Unassigned	183	US	0			Delaware	0	02/07/2021
-979	Unassigned	183	US	0			Delaware	0	02/08/2021
-979	Unassigned	184	US	0			Delaware	0	02/09/2021
-979	Unassigned	184	US	0			Delaware	0	02/10/2021
-979	Unassigned	185	US	0			Delaware	0	02/11/2021
-979	Unassigned	186	US	0			Delaware	0	02/12/2021
-979	Unassigned	187	US	0			Delaware	0	02/13/2021
-979	Unassigned	188	US	0			Delaware	0	02/14/2021
-979	Unassigned	188	US	0			Delaware	0	02/15/2021
-979	Unassigned	188	US	0			Delaware	0	02/16/2021
-979	Unassigned	189	US	0			Delaware	0	02/17/2021
-979	Unassigned	190	US	0			Delaware	0	02/18/2021
-980	Unassigned	188	US	0			Delaware	0	02/19/2021
-980	Unassigned	189	US	0			Delaware	0	02/20/2021
-980	Unassigned	190	US	0			Delaware	0	02/21/2021
-980	Unassigned	190	US	0			Delaware	0	02/22/2021
-980	Unassigned	190	US	0			Delaware	0	02/23/2021
-980	Unassigned	193	US	0			Delaware	0	02/24/2021
-980	Unassigned	194	US	0			Delaware	0	02/25/2021
-980	Unassigned	194	US	0			Delaware	0	02/26/2021
-980	Unassigned	194	US	0			Delaware	0	02/27/2021
-980	Unassigned	194	US	0			Delaware	0	02/28/2021
-980	Unassigned	194	US	0			Delaware	0	03/01/2021
-980	Unassigned	195	US	0			Delaware	0	03/02/2021
-980	Unassigned	195	US	0			Delaware	0	03/03/2021
-980	Unassigned	195	US	0			Delaware	0	03/04/2021
-980	Unassigned	195	US	0			Delaware	0	03/05/2021
-980	Unassigned	195	US	0			Delaware	0	03/06/2021
-980	Unassigned	195	US	0			Delaware		03/07/2021
-980	Unassigned	195	US	0			Delaware		03/08/2021
-980	Unassigned	195	US	0			Delaware		03/09/2021
-980	Unassigned	197	US	0			Delaware		03/10/2021
-980	Unassigned	199	US	0			Delaware		03/11/2021
-980	Unassigned	199	US	0			Delaware		03/12/2021
-980	Unassigned	199	US	0			Delaware		03/13/2021
-980	Unassigned	199	US	0			Delaware		03/14/2021
-980	Unassigned	199	US	0			Delaware		03/15/2021
-980	Unassigned	200	US	0			Delaware		03/16/2021
-980	Unassigned	199	US	0			Delaware		03/17/2021
-980	Unassigned	199	US	0			Delaware		03/18/2021
-980	Unassigned	200	US	0			Delaware		03/19/2021
-980	Unassigned	201	US	0			Delaware		03/20/2021
-980	Unassigned	201	US	0			Delaware		03/21/2021
-980	Unassigned	201	US	0			Delaware		03/22/2021
-980	Unassigned	201	US	0			Delaware		03/23/2021
-980	Unassigned	201	US	0			Delaware		03/24/2021
-980	Unassigned	201	US	0			Delaware		03/25/2021
-980	Unassigned	203	US	0			Delaware		03/26/2021
-980	Unassigned	203	US	0			Delaware		03/27/2021
-980	Unassigned	203	US	0			Delaware		03/28/2021
-980	Unassigned	203	US	0			Delaware		03/29/2021
-980	Unassigned	203	US	0			Delaware		03/30/2021
-980	Unassigned	204	US	0			Delaware		03/31/2021
-980	Unassigned	206	US	0			Delaware		04/01/2021
-982	Unassigned	205	US	0			Delaware		04/02/2021
-982	Unassigned	204	US	0			Delaware		04/03/2021
-982	Unassigned	204	US	0			Delaware		04/04/2021
-982	Unassigned	204	US	0			Delaware		04/05/2021
-982	Unassigned	203	US	0			Delaware		04/06/2021
-982	Unassigned	204	US	0			Delaware		04/07/2021
-982	Unassigned	204	US	0			Delaware		04/08/2021
-982	Unassigned	204	US	0			Delaware		04/09/2021
-982	Unassigned	205	US	0			Delaware		04/10/2021
-982	Unassigned	205	US	0			Delaware		04/11/2021
-982	Unassigned	205	US	0			Delaware		04/12/2021
-982	Unassigned	205	US	0			Delaware		04/13/2021
-982	Unassigned	208	US	0			Delaware		04/14/2021
-982	Unassigned	208	US	0			Delaware		04/15/2021
-982	Unassigned	207	US	0			Delaware		04/16/2021
-982	Unassigned	209	US	0			Delaware		04/17/2021
-982	Unassigned	210	US	0			Delaware		04/18/2021
-982	Unassigned	210	US	0			Delaware		04/19/2021
-982	Unassigned	213	US	0			Delaware		04/20/2021
-982	Unassigned	214	US	0			Delaware		04/21/2021
-982	Unassigned	212	US	0			Delaware		04/22/2021
-982	Unassigned	213	US	0			Delaware		04/23/2021
-982	Unassigned	215	US	0			Delaware		04/24/2021
-982	Unassigned	214	US	0			Delaware		04/25/2021
-982	Unassigned	215	US	0			Delaware		04/26/2021
-982	Unassigned	214	US	0			Delaware		04/27/2021
-982	Unassigned	216	US	0			Delaware		04/28/2021
-982	Unassigned	213	US	0			Delaware		04/29/2021
-982	Unassigned	215	US	0			Delaware		04/30/2021
-982	Unassigned	216	US	0			Delaware		05/01/2021
-982	Unassigned	218	US	0			Delaware		05/02/2021
-982	Unassigned	216	US	0			Delaware		05/03/2021
-982	Unassigned	218	US	0			Delaware		05/04/2021
-982	Unassigned	219	US	0			Delaware		05/05/2021
-982	Unassigned	221	US	0			Delaware		05/06/2021
-982	Unassigned	219	US	0			Delaware		05/07/2021
-982	Unassigned	220	US	0			Delaware		05/08/2021
-982	Unassigned	220	US	0			Delaware		05/09/2021
-982	Unassigned	220	US	0			Delaware		05/10/2021
-982	Unassigned	220	US	0			Delaware		05/11/2021
-982	Unassigned	221	US	0			Delaware		05/12/2021
-982	Unassigned	220	US	0			Delaware		05/13/2021
-982	Unassigned	220	US	0			Delaware		05/14/2021
-982	Unassigned	221	US	0			Delaware		05/15/2021
-982	Unassigned	221	US	0			Delaware		05/16/2021
-982	Unassigned	221	US	0			Delaware		05/17/2021
-982	Unassigned	221	US	0			Delaware		05/18/2021
-982	Unassigned	222	US	0			Delaware		05/19/2021
-982	Unassigned	222	US	0			Delaware		05/20/2021
-982	Unassigned	223	US	0			Delaware		05/21/2021
-982	Unassigned	223	US	0			Delaware		05/22/2021
-982	Unassigned	223	US	0			Delaware		05/23/2021
-982	Unassigned	223	US	0			Delaware		05/24/2021
-982	Unassigned	223	US	0			Delaware		05/25/2021
-982	Unassigned	223	US	0			Delaware		05/26/2021
-983	Unassigned	224	US	0			Delaware		05/27/2021
-983	Unassigned	224	US	0			Delaware		05/28/2021
-983	Unassigned	226	US	0			Delaware		05/29/2021
-983	Unassigned	226	US	0			Delaware		05/30/2021
-983	Unassigned	226	US	0			Delaware		05/31/2021
-983	Unassigned	226	US	0			Delaware		06/01/2021
-983	Unassigned	226	US	0			Delaware		06/02/2021
-983	Unassigned	226	US	0			Delaware		06/03/2021
-983	Unassigned	226	US	0			Delaware		06/04/2021
-983	Unassigned	226	US	0			Delaware		06/05/2021
-983	Unassigned	226	US	0			Delaware		06/06/2021
-983	Unassigned	226	US	0			Delaware		06/07/2021
-983	Unassigned	226	US	0			Delaware		06/08/2021
-983	Unassigned	227	US	0			Delaware		06/09/2021
-983	Unassigned	227	US	0			Delaware		06/10/2021
-983	Unassigned	227	US	0			Delaware		06/11/2021
-983	Unassigned	227	US	0			Delaware		06/12/2021
-983	Unassigned	227	US	0			Delaware		06/13/2021
-983	Unassigned	227	US	0			Delaware		06/14/2021
-983	Unassigned	227	US	0			Delaware		06/15/2021
-983	Unassigned	227	US	0			Delaware		06/16/2021
-985	Unassigned	227	US	0			Delaware		06/17/2021
-985	Unassigned	227	US	0			Delaware		06/18/2021
-985	Unassigned	227	US	0			Delaware		06/19/2021
-985	Unassigned	227	US	0			Delaware		06/20/2021
-985	Unassigned	227	US	0			Delaware		06/21/2021
-985	Unassigned	227	US	0			Delaware		06/22/2021
-985	Unassigned	227	US	0			Delaware		06/23/2021
-986	Unassigned	227	US	0			Delaware		06/24/2021
-986	Unassigned	227	US	0			Delaware		06/25/2021
-986	Unassigned	227	US	0			Delaware		06/26/2021
-986	Unassigned	227	US	0			Delaware		06/27/2021
-986	Unassigned	227	US	0			Delaware		06/28/2021
-986	Unassigned	227	US	0			Delaware		06/29/2021
-986	Unassigned	227	US	0			Delaware		06/30/2021
-986	Unassigned	227	US	0			Delaware		07/01/2021
-986	Unassigned	227	US	0			Delaware		07/02/2021
-986	Unassigned	227	US	0			Delaware		07/03/2021
-986	Unassigned	227	US	0			Delaware		07/04/2021
-986	Unassigned	227	US	0			Delaware		07/05/2021
-986	Unassigned	227	US	0			Delaware		07/06/2021
-986	Unassigned	227	US	0			Delaware		07/07/2021
-986	Unassigned	227	US	0			Delaware		07/08/2021
-986	Unassigned	227	US	0			Delaware		07/09/2021
-986	Unassigned	227	US	0			Delaware		07/10/2021
-986	Unassigned	227	US	0			Delaware		07/11/2021
-986	Unassigned	227	US	0			Delaware		07/12/2021
-986	Unassigned	226	US	0			Delaware		07/13/2021
-986	Unassigned	226	US	0			Delaware		07/14/2021
-986	Unassigned	226	US	0			Delaware		07/15/2021
-986	Unassigned	226	US	0			Delaware		07/16/2021
-986	Unassigned	227	US	0			Delaware		07/17/2021
-986	Unassigned	227	US	0			Delaware		07/18/2021
-986	Unassigned	227	US	0			Delaware		07/19/2021
-986	Unassigned	227	US	0			Delaware		07/20/2021
-986	Unassigned	228	US	0			Delaware		07/21/2021
-986	Unassigned	228	US	0			Delaware		07/22/2021
-986	Unassigned	228	US	0			Delaware		07/23/2021
-986	Unassigned	228	US	0			Delaware		07/24/2021
-986	Unassigned	228	US	0			Delaware		07/25/2021
-986	Unassigned	228	US	0			Delaware		07/26/2021
-986	Unassigned	229	US	0			Delaware		07/27/2021
-986	Unassigned	231	US	0			Delaware		07/28/2021
-986	Unassigned	229	US	0			Delaware		07/29/2021
-986	Unassigned	229	US	0			Delaware		07/30/2021
-986	Unassigned	229	US	0			Delaware		07/31/2021
-986	Unassigned	228	US	0			Delaware		08/01/2021
-986	Unassigned	228	US	0			Delaware		08/02/2021
-986	Unassigned	228	US	0			Delaware		08/03/2021
-986	Unassigned	229	US	0			Delaware		08/04/2021
-986	Unassigned	229	US	0			Delaware		08/05/2021
-986	Unassigned	229	US	0			Delaware		08/06/2021
-986	Unassigned	229	US	0			Delaware		08/07/2021
-986	Unassigned	230	US	0			Delaware		08/08/2021
-986	Unassigned	231	US	0			Delaware		08/09/2021
-986	Unassigned	231	US	0			Delaware		08/10/2021
-986	Unassigned	231	US	0			Delaware		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2860	Delaware	US	03/27/2020	0.0	0.0	0	1	0	Unassigned
+1933	Delaware	US	03/31/2020	0.0	0.0	0	3	0	Unassigned
+2049	Delaware	US	04/02/2020			0	16	0	Unassigned
+2096	Delaware	US	04/03/2020			0	17	0	Unassigned
+2148	Delaware	US	04/04/2020			0	17	0	Unassigned
+2221	Delaware	US	04/05/2020			0	7	0	Unassigned
+2258	Delaware	US	04/06/2020			0	9	0	Unassigned
+2305	Delaware	US	04/07/2020			0	10	0	Unassigned
+2328	Delaware	US	04/08/2020			0	13	0	Unassigned
+2354	Delaware	US	04/09/2020			0	3	0	Unassigned
+2378	Delaware	US	04/10/2020			9	3	0	Unassigned
+2404	Delaware	US	04/11/2020			13	4	0	Unassigned
+2426	Delaware	US	04/12/2020			0	5	0	Unassigned
+2440	Delaware	US	04/13/2020			0	7	0	Unassigned
+2450	Delaware	US	04/14/2020			11	8	0	Unassigned
+2462	Delaware	US	04/15/2020			17	9	0	Unassigned
+2476	Delaware	US	04/16/2020			17	10	0	Unassigned
+2478	Delaware	US	04/17/2020			22	0	0	Unassigned
+2485	Delaware	US	04/18/2020			30	0	0	Unassigned
+2502	Delaware	US	04/19/2020			30	0	0	Unassigned
+2510	Delaware	US	04/20/2020			31	0	0	Unassigned
+2519	Delaware	US	04/21/2020			30	0	0	Unassigned
+2526	Delaware	US	04/22/2020			28	0	0	Unassigned
+2543	Delaware	US	04/23/2020			3	0	0	Unassigned
+2549	Delaware	US	04/24/2020			4	0	0	Unassigned
+2554	Delaware	US	04/25/2020			3	0	0	Unassigned
+2562	Delaware	US	04/26/2020			9	0	0	Unassigned
+2569	Delaware	US	04/27/2020			11	0	0	Unassigned
+2578	Delaware	US	04/28/2020			32	0	0	Unassigned
+2583	Delaware	US	04/29/2020			26	0	0	Unassigned
+2589	Delaware	US	04/30/2020			25	0	0	Unassigned
+2600	Delaware	US	05/01/2020			24	0	0	Unassigned
+2603	Delaware	US	05/02/2020			22	0	0	Unassigned
+2608	Delaware	US	05/03/2020			23	0	0	Unassigned
+2611	Delaware	US	05/04/2020			24	0	0	Unassigned
+2619	Delaware	US	05/05/2020			25	0	0	Unassigned
+2625	Delaware	US	05/06/2020			36	0	0	Unassigned
+2632	Delaware	US	05/07/2020			30	0	0	Unassigned
+2639	Delaware	US	05/08/2020			28	0	0	Unassigned
+2641	Delaware	US	05/09/2020			27	0	0	Unassigned
+2643	Delaware	US	05/10/2020			27	0	0	Unassigned
+2643	Delaware	US	05/11/2020			40	0	0	Unassigned
+2646	Delaware	US	05/12/2020			36	0	0	Unassigned
+2647	Delaware	US	05/13/2020			36	0	0	Unassigned
+2649	Delaware	US	05/14/2020			45	0	0	Unassigned
+2654	Delaware	US	05/15/2020			43	0	0	Unassigned
+2658	Delaware	US	05/16/2020			46	0	0	Unassigned
+2661	Delaware	US	05/17/2020			52	0	0	Unassigned
+2663	Delaware	US	05/18/2020			51	0	0	Unassigned
+2667	Delaware	US	05/19/2020			50	0	0	Unassigned
+2673	Delaware	US	05/20/2020			48	0	0	Unassigned
+2675	Delaware	US	05/21/2020			46	0	0	Unassigned
+2682	Delaware	US	05/22/2020			53	0	0	Unassigned
+2684	Delaware	US	05/23/2020			53	0	0	Unassigned
+2687	Delaware	US	05/24/2020			57	0	0	Unassigned
+2688	Delaware	US	05/25/2020			55	0	0	Unassigned
+2689	Delaware	US	05/26/2020			58	0	0	Unassigned
+2692	Delaware	US	05/27/2020			54	0	0	Unassigned
+2695	Delaware	US	05/28/2020			53	0	0	Unassigned
+2698	Delaware	US	05/29/2020			51	0	0	Unassigned
+2700	Delaware	US	05/30/2020			52	0	0	Unassigned
+2701	Delaware	US	05/31/2020			51	0	0	Unassigned
+2703	Delaware	US	06/01/2020			55	0	0	Unassigned
+2708	Delaware	US	06/02/2020			53	0	0	Unassigned
+2710	Delaware	US	06/03/2020			53	0	0	Unassigned
+2711	Delaware	US	06/04/2020			53	0	0	Unassigned
+2715	Delaware	US	06/05/2020			49	0	0	Unassigned
+2717	Delaware	US	06/06/2020			12	0	0	Unassigned
+2717	Delaware	US	06/07/2020			15	0	0	Unassigned
+2717	Delaware	US	06/08/2020			11	0	0	Unassigned
+2719	Delaware	US	06/09/2020			12	0	0	Unassigned
+2721	Delaware	US	06/10/2020			14	0	0	Unassigned
+2723	Delaware	US	06/11/2020			13	0	0	Unassigned
+2737	Delaware	US	06/12/2020			16	0	0	Unassigned
+2740	Delaware	US	06/13/2020			15	0	0	Unassigned
+2740	Delaware	US	06/14/2020			14	0	0	Unassigned
+2744	Delaware	US	06/15/2020			14	0	0	Unassigned
+2742	Delaware	US	06/16/2020			16	0	0	Unassigned
+2744	Delaware	US	06/17/2020			14	0	0	Unassigned
+2744	Delaware	US	06/18/2020			14	0	0	Unassigned
+2745	Delaware	US	06/19/2020			17	0	0	Unassigned
+2749	Delaware	US	06/20/2020			19	0	0	Unassigned
+2749	Delaware	US	06/21/2020			20	0	0	Unassigned
+2752	Delaware	US	06/22/2020			17	0	0	Unassigned
+2757	Delaware	US	06/23/2020			17	0	0	Unassigned
+2769	Delaware	US	06/24/2020			19	0	0	Unassigned
+2774	Delaware	US	06/25/2020			21	0	0	Unassigned
+2775	Delaware	US	06/26/2020			23	0	0	Unassigned
+2776	Delaware	US	06/27/2020			26	0	0	Unassigned
+2776	Delaware	US	06/28/2020			30	0	0	Unassigned
+2778	Delaware	US	06/29/2020			36	0	0	Unassigned
+2780	Delaware	US	06/30/2020			38	0	0	Unassigned
+2782	Delaware	US	07/01/2020			42	0	0	Unassigned
+2785	Delaware	US	07/02/2020			53	0	0	Unassigned
+2790	Delaware	US	07/03/2020			69	0	0	Unassigned
+2791	Delaware	US	07/04/2020			73	0	0	Unassigned
+2792	Delaware	US	07/05/2020			81	0	0	Unassigned
+2795	Delaware	US	07/06/2020			91	0	0	Unassigned
+2796	Delaware	US	07/07/2020			98	0	0	Unassigned
+2799	Delaware	US	07/08/2020			101	0	0	Unassigned
+2798	Delaware	US	07/09/2020			102	0	0	Unassigned
+2802	Delaware	US	07/10/2020			104	0	0	Unassigned
+2803	Delaware	US	07/11/2020			106	0	0	Unassigned
+2805	Delaware	US	07/12/2020			104	0	0	Unassigned
+2806	Delaware	US	07/13/2020			106	0	0	Unassigned
+2812	Delaware	US	07/14/2020			114	0	0	Unassigned
+2813	Delaware	US	07/15/2020			117	0	0	Unassigned
+2815	Delaware	US	07/16/2020			121	0	0	Unassigned
+2815	Delaware	US	07/17/2020			134	0	0	Unassigned
+2888	Delaware	US	07/18/2020			142	0	0	Unassigned
+2888	Delaware	US	07/19/2020			145	0	0	Unassigned
+2812	Delaware	US	07/20/2020			153	0	0	Unassigned
+2892	Delaware	US	07/21/2020			158	0	0	Unassigned
+2893	Delaware	US	07/22/2020			161	0	0	Unassigned
+2896	Delaware	US	07/23/2020			163	0	0	Unassigned
+2895	Delaware	US	07/24/2020			184	0	0	Unassigned
+2896	Delaware	US	07/25/2020			182	0	0	Unassigned
+2897	Delaware	US	07/26/2020			187	0	0	Unassigned
+2897	Delaware	US	07/27/2020			192	0	0	Unassigned
+2897	Delaware	US	07/28/2020			192	0	0	Unassigned
+2901	Delaware	US	07/29/2020			203	0	0	Unassigned
+2901	Delaware	US	07/30/2020			212	0	0	Unassigned
+2903	Delaware	US	07/31/2020			219	0	0	Unassigned
+2903	Delaware	US	08/01/2020			221	0	0	Unassigned
+2903	Delaware	US	08/02/2020			226	0	0	Unassigned
+2903	Delaware	US	08/03/2020			229	0	0	Unassigned
+2904	Delaware	US	08/04/2020			232	0	0	Unassigned
+2908	Delaware	US	08/05/2020			238	0	0	Unassigned
+2908	Delaware	US	08/06/2020			240	0	0	Unassigned
+2908	Delaware	US	08/07/2020			244	0	0	Unassigned
+2908	Delaware	US	08/08/2020			243	0	0	Unassigned
+2908	Delaware	US	08/09/2020			243	0	0	Unassigned
+2908	Delaware	US	08/10/2020			249	0	0	Unassigned
+1002	Delaware	US	08/11/2020			250	0	0	Unassigned
+956	Delaware	US	08/12/2020			256	0	0	Unassigned
+956	Delaware	US	08/13/2020			258	0	0	Unassigned
+956	Delaware	US	08/14/2020			260	0	0	Unassigned
+956	Delaware	US	08/15/2020			259	0	0	Unassigned
+956	Delaware	US	08/16/2020			261	0	0	Unassigned
+956	Delaware	US	08/17/2020			263	0	0	Unassigned
+956	Delaware	US	08/18/2020			264	0	0	Unassigned
+956	Delaware	US	08/19/2020			264	0	0	Unassigned
+956	Delaware	US	08/20/2020			267	0	0	Unassigned
+956	Delaware	US	08/21/2020			269	0	0	Unassigned
+957	Delaware	US	08/22/2020			272	0	0	Unassigned
+957	Delaware	US	08/23/2020			273	0	0	Unassigned
+957	Delaware	US	08/24/2020			275	0	0	Unassigned
+957	Delaware	US	08/25/2020			277	0	0	Unassigned
+957	Delaware	US	08/26/2020			276	0	0	Unassigned
+957	Delaware	US	08/27/2020			275	0	0	Unassigned
+957	Delaware	US	08/28/2020			279	0	0	Unassigned
+957	Delaware	US	08/29/2020			278	0	0	Unassigned
+957	Delaware	US	08/30/2020			279	0	0	Unassigned
+957	Delaware	US	08/31/2020			285	0	0	Unassigned
+957	Delaware	US	09/01/2020			289	0	0	Unassigned
+957	Delaware	US	09/02/2020			290	0	0	Unassigned
+957	Delaware	US	09/03/2020			292	0	0	Unassigned
+957	Delaware	US	09/04/2020			294	0	0	Unassigned
+957	Delaware	US	09/05/2020			303	0	0	Unassigned
+957	Delaware	US	09/06/2020			334	0	0	Unassigned
+957	Delaware	US	09/07/2020			453	0	0	Unassigned
+957	Delaware	US	09/08/2020			455	0	0	Unassigned
+957	Delaware	US	09/09/2020			455	0	0	Unassigned
+957	Delaware	US	09/10/2020			461	0	0	Unassigned
+957	Delaware	US	09/11/2020			461	0	0	Unassigned
+957	Delaware	US	09/12/2020			464	0	0	Unassigned
+957	Delaware	US	09/13/2020			465	0	0	Unassigned
+957	Delaware	US	09/14/2020			470	0	0	Unassigned
+957	Delaware	US	09/15/2020			493	0	0	Unassigned
+957	Delaware	US	09/16/2020			478	0	0	Unassigned
+957	Delaware	US	09/17/2020			479	0	0	Unassigned
+957	Delaware	US	09/18/2020			477	0	0	Unassigned
+957	Delaware	US	09/19/2020			476	0	0	Unassigned
+957	Delaware	US	09/20/2020			480	0	0	Unassigned
+958	Delaware	US	09/21/2020			480	0	0	Unassigned
+958	Delaware	US	09/22/2020			482	0	0	Unassigned
+958	Delaware	US	09/23/2020			482	0	0	Unassigned
+958	Delaware	US	09/24/2020			488	0	0	Unassigned
+958	Delaware	US	09/25/2020			487	0	0	Unassigned
+958	Delaware	US	09/26/2020			489	0	0	Unassigned
+958	Delaware	US	09/27/2020			489	0	0	Unassigned
+958	Delaware	US	09/28/2020			493	0	0	Unassigned
+958	Delaware	US	09/29/2020			491	0	0	Unassigned
+958	Delaware	US	09/30/2020			491	0	0	Unassigned
+958	Delaware	US	10/01/2020			491	0	0	Unassigned
+958	Delaware	US	10/02/2020			90	0	0	Unassigned
+958	Delaware	US	10/03/2020			90	0	0	Unassigned
+958	Delaware	US	10/04/2020			90	0	0	Unassigned
+958	Delaware	US	10/05/2020			90	0	0	Unassigned
+958	Delaware	US	10/06/2020			90	0	0	Unassigned
+958	Delaware	US	10/07/2020			90	0	0	Unassigned
+958	Delaware	US	10/08/2020			90	0	0	Unassigned
+958	Delaware	US	10/09/2020			90	0	0	Unassigned
+958	Delaware	US	10/10/2020			91	0	0	Unassigned
+958	Delaware	US	10/11/2020			91	0	0	Unassigned
+959	Delaware	US	10/12/2020			91	0	0	Unassigned
+959	Delaware	US	10/13/2020			91	0	0	Unassigned
+959	Delaware	US	10/14/2020			91	0	0	Unassigned
+959	Delaware	US	10/15/2020			91	0	0	Unassigned
+960	Delaware	US	10/16/2020			91	0	0	Unassigned
+960	Delaware	US	10/17/2020			91	0	0	Unassigned
+960	Delaware	US	10/18/2020			91	0	0	Unassigned
+961	Delaware	US	10/19/2020			91	0	0	Unassigned
+961	Delaware	US	10/20/2020			91	0	0	Unassigned
+961	Delaware	US	10/21/2020			91	0	0	Unassigned
+961	Delaware	US	10/22/2020			91	0	0	Unassigned
+961	Delaware	US	10/23/2020			91	0	0	Unassigned
+961	Delaware	US	10/24/2020			91	0	0	Unassigned
+961	Delaware	US	10/25/2020			91	0	0	Unassigned
+961	Delaware	US	10/26/2020			91	0	0	Unassigned
+961	Delaware	US	10/27/2020			91	0	0	Unassigned
+962	Delaware	US	10/28/2020			91	0.0	0	Unassigned
+962	Delaware	US	10/29/2020			91	0	0	Unassigned
+962	Delaware	US	10/30/2020			91	0	0	Unassigned
+962	Delaware	US	10/31/2020			91	0	0	Unassigned
+962	Delaware	US	11/01/2020			91	0	0	Unassigned
+962	Delaware	US	11/02/2020			91	0	0	Unassigned
+963	Delaware	US	11/03/2020			91	0	0	Unassigned
+963	Delaware	US	11/04/2020			92	0	0	Unassigned
+963	Delaware	US	11/05/2020			91	0	0	Unassigned
+963	Delaware	US	11/06/2020			92	0	0	Unassigned
+963	Delaware	US	11/07/2020			92	0	0	Unassigned
+963	Delaware	US	11/08/2020			93	0	0	Unassigned
+963	Delaware	US	11/09/2020			93	0	0.0	Unassigned
+963	Delaware	US	11/10/2020			93	0	0.0	Unassigned
+963	Delaware	US	11/11/2020			93	0	0.0	Unassigned
+975	Delaware	US	11/12/2020			93	0	0	Unassigned
+975	Delaware	US	11/13/2020			93	0	0	Unassigned
+975	Delaware	US	11/14/2020			95	0	0	Unassigned
+975	Delaware	US	11/15/2020			95	0	0	Unassigned
+975	Delaware	US	11/16/2020			95	0	0	Unassigned
+975	Delaware	US	11/17/2020			95	0	0	Unassigned
+975	Delaware	US	11/18/2020			96	0	0	Unassigned
+975	Delaware	US	11/19/2020			97	0	0	Unassigned
+975	Delaware	US	11/20/2020			99	0	0	Unassigned
+975	Delaware	US	11/21/2020			99	0	0	Unassigned
+975	Delaware	US	11/22/2020			100	0	0	Unassigned
+975	Delaware	US	11/23/2020			100	0	0	Unassigned
+976	Delaware	US	11/24/2020			105	0	0	Unassigned
+976	Delaware	US	11/25/2020			105	0	0	Unassigned
+976	Delaware	US	11/26/2020			108	0	0	Unassigned
+976	Delaware	US	11/27/2020			109	0	0	Unassigned
+976	Delaware	US	11/28/2020			109	0	0	Unassigned
+976	Delaware	US	11/29/2020			111	0	0	Unassigned
+976	Delaware	US	11/30/2020			111	0	0	Unassigned
+976	Delaware	US	12/01/2020			94	0	0	Unassigned
+976	Delaware	US	12/02/2020			95	0	0	Unassigned
+976	Delaware	US	12/03/2020			94	0	0	Unassigned
+976	Delaware	US	12/04/2020			95	0	0	Unassigned
+976	Delaware	US	12/05/2020			96	0	0	Unassigned
+976	Delaware	US	12/06/2020			97	0	0	Unassigned
+976	Delaware	US	12/07/2020			97	0	0	Unassigned
+976	Delaware	US	12/08/2020			97	0	0	Unassigned
+976	Delaware	US	12/09/2020			94	0	0	Unassigned
+976	Delaware	US	12/10/2020			93	0	0	Unassigned
+976	Delaware	US	12/11/2020			93	0	0	Unassigned
+976	Delaware	US	12/12/2020			94	0	0	Unassigned
+976	Delaware	US	12/13/2020			96	0	0	Unassigned
+976	Delaware	US	12/14/2020			98	0	0	Unassigned
+976	Delaware	US	12/15/2020			103	0	0	Unassigned
+976	Delaware	US	12/16/2020			105	0	0	Unassigned
+976	Delaware	US	12/17/2020			118	0	0	Unassigned
+976	Delaware	US	12/18/2020			119	0	0	Unassigned
+976	Delaware	US	12/19/2020			120	0	0	Unassigned
+976	Delaware	US	12/20/2020			120	0	0	Unassigned
+976	Delaware	US	12/21/2020			119	0	0	Unassigned
+976	Delaware	US	12/22/2020			122	0	0	Unassigned
+976	Delaware	US	12/23/2020			121	0	0	Unassigned
+976	Delaware	US	12/24/2020			122	0	0	Unassigned
+976	Delaware	US	12/25/2020			123	0	0	Unassigned
+976	Delaware	US	12/26/2020			124	0	0	Unassigned
+976	Delaware	US	12/27/2020			131	0	0	Unassigned
+976	Delaware	US	12/28/2020			132	0	0	Unassigned
+976	Delaware	US	12/29/2020			135	0	0	Unassigned
+976	Delaware	US	12/30/2020			133	0	0	Unassigned
+976	Delaware	US	12/31/2020			136	0	0	Unassigned
+976	Delaware	US	01/01/2021			136	0	0	Unassigned
+976	Delaware	US	01/02/2021			136	0	0	Unassigned
+977	Delaware	US	01/03/2021			139	0	0	Unassigned
+977	Delaware	US	01/04/2021			140	0	0	Unassigned
+977	Delaware	US	01/05/2021			140	0	0	Unassigned
+977	Delaware	US	01/06/2021			144	0	0	Unassigned
+977	Delaware	US	01/07/2021			149	0	0	Unassigned
+977	Delaware	US	01/08/2021			148	0	0	Unassigned
+977	Delaware	US	01/09/2021			151	0	0	Unassigned
+977	Delaware	US	01/10/2021			154	0	0	Unassigned
+977	Delaware	US	01/11/2021			154	0	0	Unassigned
+977	Delaware	US	01/12/2021			154	0	0	Unassigned
+977	Delaware	US	01/13/2021			155	0	0	Unassigned
+977	Delaware	US	01/14/2021			157	0	0	Unassigned
+977	Delaware	US	01/15/2021			158	0	0	Unassigned
+977	Delaware	US	01/16/2021			160	0	0	Unassigned
+977	Delaware	US	01/17/2021			162	0	0	Unassigned
+977	Delaware	US	01/18/2021			164	0	0	Unassigned
+977	Delaware	US	01/19/2021			166	0	0	Unassigned
+977	Delaware	US	01/20/2021			166	0	0	Unassigned
+978	Delaware	US	01/21/2021			166	0	0	Unassigned
+978	Delaware	US	01/22/2021			172	0	0	Unassigned
+978	Delaware	US	01/23/2021			173	0	0	Unassigned
+978	Delaware	US	01/24/2021			174	0	0	Unassigned
+978	Delaware	US	01/25/2021			175	0	0	Unassigned
+978	Delaware	US	01/26/2021			174	0	0	Unassigned
+978	Delaware	US	01/27/2021			175	0	0	Unassigned
+978	Delaware	US	01/28/2021			177	0	0	Unassigned
+978	Delaware	US	01/29/2021			177	0	0	Unassigned
+978	Delaware	US	01/30/2021			182	0	0	Unassigned
+978	Delaware	US	01/31/2021			182	0	0	Unassigned
+978	Delaware	US	02/01/2021			183	0	0	Unassigned
+978	Delaware	US	02/02/2021			182	0	0	Unassigned
+978	Delaware	US	02/03/2021			178	0	0	Unassigned
+978	Delaware	US	02/04/2021			179	0	0	Unassigned
+978	Delaware	US	02/05/2021			180	0	0	Unassigned
+978	Delaware	US	02/06/2021			181	0	0	Unassigned
+978	Delaware	US	02/07/2021			183	0	0	Unassigned
+978	Delaware	US	02/08/2021			183	0	0	Unassigned
+978	Delaware	US	02/09/2021			184	0	0	Unassigned
+978	Delaware	US	02/10/2021			184	0	0	Unassigned
+978	Delaware	US	02/11/2021			185	0	0	Unassigned
+978	Delaware	US	02/12/2021			186	0	0	Unassigned
+978	Delaware	US	02/13/2021			187	0	0	Unassigned
+978	Delaware	US	02/14/2021			188	0	0	Unassigned
+978	Delaware	US	02/15/2021			188	0	0	Unassigned
+978	Delaware	US	02/16/2021			188	0	0	Unassigned
+978	Delaware	US	02/17/2021			189	0	0	Unassigned
+978	Delaware	US	02/18/2021			190	0	0	Unassigned
+979	Delaware	US	02/19/2021			188	0	0	Unassigned
+979	Delaware	US	02/20/2021			189	0	0	Unassigned
+979	Delaware	US	02/21/2021			190	0	0	Unassigned
+979	Delaware	US	02/22/2021			190	0	0	Unassigned
+979	Delaware	US	02/23/2021			190	0	0	Unassigned
+979	Delaware	US	02/24/2021			193	0	0	Unassigned
+979	Delaware	US	02/25/2021			194	0	0	Unassigned
+979	Delaware	US	02/26/2021			194	0	0	Unassigned
+979	Delaware	US	02/27/2021			194	0	0	Unassigned
+979	Delaware	US	02/28/2021			194	0	0	Unassigned
+979	Delaware	US	03/01/2021			194	0	0	Unassigned
+979	Delaware	US	03/02/2021			195	0	0	Unassigned
+979	Delaware	US	03/03/2021			195	0	0	Unassigned
+979	Delaware	US	03/04/2021			195	0	0	Unassigned
+979	Delaware	US	03/05/2021			195	0	0	Unassigned
+979	Delaware	US	03/06/2021			195	0	0	Unassigned
+979	Delaware	US	03/07/2021			195	0		Unassigned
+979	Delaware	US	03/08/2021			195	0		Unassigned
+979	Delaware	US	03/09/2021			195	0		Unassigned
+979	Delaware	US	03/10/2021			197	0		Unassigned
+979	Delaware	US	03/11/2021			199	0		Unassigned
+979	Delaware	US	03/12/2021			199	0		Unassigned
+979	Delaware	US	03/13/2021			199	0		Unassigned
+979	Delaware	US	03/14/2021			199	0		Unassigned
+979	Delaware	US	03/15/2021			199	0		Unassigned
+979	Delaware	US	03/16/2021			200	0		Unassigned
+979	Delaware	US	03/17/2021			199	0		Unassigned
+979	Delaware	US	03/18/2021			199	0		Unassigned
+979	Delaware	US	03/19/2021			200	0		Unassigned
+979	Delaware	US	03/20/2021			201	0		Unassigned
+979	Delaware	US	03/21/2021			201	0		Unassigned
+979	Delaware	US	03/22/2021			201	0		Unassigned
+979	Delaware	US	03/23/2021			201	0		Unassigned
+979	Delaware	US	03/24/2021			201	0		Unassigned
+979	Delaware	US	03/25/2021			201	0		Unassigned
+979	Delaware	US	03/26/2021			203	0		Unassigned
+979	Delaware	US	03/27/2021			203	0		Unassigned
+979	Delaware	US	03/28/2021			203	0		Unassigned
+979	Delaware	US	03/29/2021			203	0		Unassigned
+979	Delaware	US	03/30/2021			203	0		Unassigned
+979	Delaware	US	03/31/2021			204	0		Unassigned
+979	Delaware	US	04/01/2021			206	0		Unassigned
+981	Delaware	US	04/02/2021			205	0		Unassigned
+981	Delaware	US	04/03/2021			204	0		Unassigned
+981	Delaware	US	04/04/2021			204	0		Unassigned
+981	Delaware	US	04/05/2021			204	0		Unassigned
+981	Delaware	US	04/06/2021			203	0		Unassigned
+981	Delaware	US	04/07/2021			204	0		Unassigned
+981	Delaware	US	04/08/2021			204	0		Unassigned
+981	Delaware	US	04/09/2021			204	0		Unassigned
+981	Delaware	US	04/10/2021			205	0		Unassigned
+981	Delaware	US	04/11/2021			205	0		Unassigned
+981	Delaware	US	04/12/2021			205	0		Unassigned
+981	Delaware	US	04/13/2021			205	0		Unassigned
+981	Delaware	US	04/14/2021			208	0		Unassigned
+981	Delaware	US	04/15/2021			208	0		Unassigned
+981	Delaware	US	04/16/2021			207	0		Unassigned
+981	Delaware	US	04/17/2021			209	0		Unassigned
+981	Delaware	US	04/18/2021			210	0		Unassigned
+981	Delaware	US	04/19/2021			210	0		Unassigned
+981	Delaware	US	04/20/2021			213	0		Unassigned
+981	Delaware	US	04/21/2021			214	0		Unassigned
+981	Delaware	US	04/22/2021			212	0		Unassigned
+981	Delaware	US	04/23/2021			213	0		Unassigned
+981	Delaware	US	04/24/2021			215	0		Unassigned
+981	Delaware	US	04/25/2021			214	0		Unassigned
+981	Delaware	US	04/26/2021			215	0		Unassigned
+981	Delaware	US	04/27/2021			214	0		Unassigned
+981	Delaware	US	04/28/2021			216	0		Unassigned
+981	Delaware	US	04/29/2021			213	0		Unassigned
+981	Delaware	US	04/30/2021			215	0		Unassigned
+981	Delaware	US	05/01/2021			216	0		Unassigned
+981	Delaware	US	05/02/2021			218	0		Unassigned
+981	Delaware	US	05/03/2021			216	0		Unassigned
+981	Delaware	US	05/04/2021			218	0		Unassigned
+981	Delaware	US	05/05/2021			219	0		Unassigned
+981	Delaware	US	05/06/2021			221	0		Unassigned
+981	Delaware	US	05/07/2021			219	0		Unassigned
+981	Delaware	US	05/08/2021			220	0		Unassigned
+981	Delaware	US	05/09/2021			220	0		Unassigned
+981	Delaware	US	05/10/2021			220	0		Unassigned
+981	Delaware	US	05/11/2021			220	0		Unassigned
+981	Delaware	US	05/12/2021			221	0		Unassigned
+981	Delaware	US	05/13/2021			220	0		Unassigned
+981	Delaware	US	05/14/2021			220	0		Unassigned
+981	Delaware	US	05/15/2021			221	0		Unassigned
+981	Delaware	US	05/16/2021			221	0		Unassigned
+981	Delaware	US	05/17/2021			221	0		Unassigned
+981	Delaware	US	05/18/2021			221	0		Unassigned
+981	Delaware	US	05/19/2021			222	0		Unassigned
+981	Delaware	US	05/20/2021			222	0		Unassigned
+981	Delaware	US	05/21/2021			223	0		Unassigned
+981	Delaware	US	05/22/2021			223	0		Unassigned
+981	Delaware	US	05/23/2021			223	0		Unassigned
+981	Delaware	US	05/24/2021			223	0		Unassigned
+981	Delaware	US	05/25/2021			223	0		Unassigned
+981	Delaware	US	05/26/2021			223	0		Unassigned
+982	Delaware	US	05/27/2021			224	0		Unassigned
+982	Delaware	US	05/28/2021			224	0		Unassigned
+982	Delaware	US	05/29/2021			226	0		Unassigned
+982	Delaware	US	05/30/2021			226	0		Unassigned
+982	Delaware	US	05/31/2021			226	0		Unassigned
+982	Delaware	US	06/01/2021			226	0		Unassigned
+982	Delaware	US	06/02/2021			226	0		Unassigned
+982	Delaware	US	06/03/2021			226	0		Unassigned
+982	Delaware	US	06/04/2021			226	0		Unassigned
+982	Delaware	US	06/05/2021			226	0		Unassigned
+982	Delaware	US	06/06/2021			226	0		Unassigned
+982	Delaware	US	06/07/2021			226	0		Unassigned
+982	Delaware	US	06/08/2021			226	0		Unassigned
+982	Delaware	US	06/09/2021			227	0		Unassigned
+982	Delaware	US	06/10/2021			227	0		Unassigned
+982	Delaware	US	06/11/2021			227	0		Unassigned
+982	Delaware	US	06/12/2021			227	0		Unassigned
+982	Delaware	US	06/13/2021			227	0		Unassigned
+982	Delaware	US	06/14/2021			227	0		Unassigned
+982	Delaware	US	06/15/2021			227	0		Unassigned
+982	Delaware	US	06/16/2021			227	0		Unassigned
+984	Delaware	US	06/17/2021			227	0		Unassigned
+984	Delaware	US	06/18/2021			227	0		Unassigned
+984	Delaware	US	06/19/2021			227	0		Unassigned
+984	Delaware	US	06/20/2021			227	0		Unassigned
+984	Delaware	US	06/21/2021			227	0		Unassigned
+984	Delaware	US	06/22/2021			227	0		Unassigned
+984	Delaware	US	06/23/2021			227	0		Unassigned
+985	Delaware	US	06/24/2021			227	0		Unassigned
+985	Delaware	US	06/25/2021			227	0		Unassigned
+985	Delaware	US	06/26/2021			227	0		Unassigned
+985	Delaware	US	06/27/2021			227	0		Unassigned
+985	Delaware	US	06/28/2021			227	0		Unassigned
+985	Delaware	US	06/29/2021			227	0		Unassigned
+985	Delaware	US	06/30/2021			227	0		Unassigned
+985	Delaware	US	07/01/2021			227	0		Unassigned
+985	Delaware	US	07/02/2021			227	0		Unassigned
+985	Delaware	US	07/03/2021			227	0		Unassigned
+985	Delaware	US	07/04/2021			227	0		Unassigned
+985	Delaware	US	07/05/2021			227	0		Unassigned
+985	Delaware	US	07/06/2021			227	0		Unassigned
+985	Delaware	US	07/07/2021			227	0		Unassigned
+985	Delaware	US	07/08/2021			227	0		Unassigned
+985	Delaware	US	07/09/2021			227	0		Unassigned
+985	Delaware	US	07/10/2021			227	0		Unassigned
+985	Delaware	US	07/11/2021			227	0		Unassigned
+985	Delaware	US	07/12/2021			227	0		Unassigned
+985	Delaware	US	07/13/2021			226	0		Unassigned
+985	Delaware	US	07/14/2021			226	0		Unassigned
+985	Delaware	US	07/15/2021			226	0		Unassigned
+985	Delaware	US	07/16/2021			226	0		Unassigned
+985	Delaware	US	07/17/2021			227	0		Unassigned
+985	Delaware	US	07/18/2021			227	0		Unassigned
+985	Delaware	US	07/19/2021			227	0		Unassigned
+985	Delaware	US	07/20/2021			227	0		Unassigned
+985	Delaware	US	07/21/2021			228	0		Unassigned
+985	Delaware	US	07/22/2021			228	0		Unassigned
+985	Delaware	US	07/23/2021			228	0		Unassigned
+985	Delaware	US	07/24/2021			228	0		Unassigned
+985	Delaware	US	07/25/2021			228	0		Unassigned
+985	Delaware	US	07/26/2021			228	0		Unassigned
+985	Delaware	US	07/27/2021			229	0		Unassigned
+985	Delaware	US	07/28/2021			231	0		Unassigned
+985	Delaware	US	07/29/2021			229	0		Unassigned
+985	Delaware	US	07/30/2021			229	0		Unassigned
+985	Delaware	US	07/31/2021			229	0		Unassigned
+985	Delaware	US	08/01/2021			228	0		Unassigned
+985	Delaware	US	08/02/2021			228	0		Unassigned
+985	Delaware	US	08/03/2021			228	0		Unassigned
+985	Delaware	US	08/04/2021			229	0		Unassigned
+985	Delaware	US	08/05/2021			229	0		Unassigned
+985	Delaware	US	08/06/2021			229	0		Unassigned
+985	Delaware	US	08/07/2021			229	0		Unassigned
+985	Delaware	US	08/08/2021			230	0		Unassigned
+985	Delaware	US	08/09/2021			231	0		Unassigned
+985	Delaware	US	08/10/2021			231	0		Unassigned
+985	Delaware	US	08/11/2021			231	0		Unassigned
+985	Delaware	US	08/12/2021			231	0		Unassigned
+985	Delaware	US	08/13/2021			233	0		Unassigned
+985	Delaware	US	08/14/2021			232	0		Unassigned
+985	Delaware	US	08/15/2021			232	0		Unassigned
+985	Delaware	US	08/16/2021			231	0		Unassigned
+985	Delaware	US	08/17/2021			232	0		Unassigned
+985	Delaware	US	08/18/2021			233	0		Unassigned
+985	Delaware	US	08/19/2021			233	0		Unassigned
+985	Delaware	US	08/20/2021			232	0		Unassigned
+985	Delaware	US	08/21/2021			233	0		Unassigned
+985	Delaware	US	08/22/2021			234	0		Unassigned
+985	Delaware	US	08/23/2021			234	0		Unassigned
+985	Delaware	US	08/24/2021			233	0		Unassigned
+985	Delaware	US	08/25/2021			233	0		Unassigned
+985	Delaware	US	08/26/2021			233	0		Unassigned
+985	Delaware	US	08/27/2021			235	0		Unassigned
+985	Delaware	US	08/28/2021			236	0		Unassigned
+985	Delaware	US	08/29/2021			237	0		Unassigned
+985	Delaware	US	08/30/2021			237	0		Unassigned
+985	Delaware	US	08/31/2021			238	0		Unassigned
+985	Delaware	US	09/01/2021			238	0		Unassigned
+985	Delaware	US	09/02/2021			240	0		Unassigned
+985	Delaware	US	09/03/2021			239	0		Unassigned
+985	Delaware	US	09/04/2021			241	0		Unassigned
+985	Delaware	US	09/05/2021			240	0		Unassigned
+985	Delaware	US	09/06/2021			241	0		Unassigned
+985	Delaware	US	09/07/2021			242	0		Unassigned
+985	Delaware	US	09/08/2021			241	0		Unassigned
+985	Delaware	US	09/09/2021			241	0		Unassigned
+985	Delaware	US	09/10/2021			243	0		Unassigned
+985	Delaware	US	09/11/2021			242	0		Unassigned
+985	Delaware	US	09/12/2021			241	0		Unassigned
+985	Delaware	US	09/13/2021			243	0		Unassigned
+985	Delaware	US	09/14/2021			242	0		Unassigned
+985	Delaware	US	09/15/2021			243	0		Unassigned
+986	Delaware	US	09/16/2021			256	0		Unassigned
+986	Delaware	US	09/17/2021			258	0		Unassigned
+986	Delaware	US	09/18/2021			258	0		Unassigned
+986	Delaware	US	09/19/2021			257	0		Unassigned
+986	Delaware	US	09/20/2021			257	0		Unassigned
+986	Delaware	US	09/21/2021			257	0		Unassigned
+986	Delaware	US	09/22/2021			265	0		Unassigned
+1003	Delaware	US	09/23/2021			277	0		Unassigned
+1003	Delaware	US	09/24/2021			287	0		Unassigned
+1003	Delaware	US	09/25/2021			289	0		Unassigned
+1003	Delaware	US	09/26/2021			297	0		Unassigned
+1003	Delaware	US	09/27/2021			300	0		Unassigned
+1003	Delaware	US	09/28/2021			307	0		Unassigned
+1003	Delaware	US	09/29/2021			311	0		Unassigned
+1003	Delaware	US	09/30/2021			319	0		Unassigned
+1003	Delaware	US	10/01/2021			329	0		Unassigned
+1003	Delaware	US	10/02/2021			334	0		Unassigned
+1003	Delaware	US	10/03/2021			335	0		Unassigned
+1003	Delaware	US	10/04/2021			340	0		Unassigned
+1003	Delaware	US	10/05/2021			337	0		Unassigned
+1004	Delaware	US	10/06/2021			339	0		Unassigned
+1004	Delaware	US	10/07/2021			351	0		Unassigned
+1004	Delaware	US	10/08/2021			359	0		Unassigned
+1004	Delaware	US	10/09/2021			364	0		Unassigned
+1004	Delaware	US	10/10/2021			368	0		Unassigned
+1004	Delaware	US	10/11/2021			371	0		Unassigned
+1004	Delaware	US	10/12/2021			369	0		Unassigned
+1004	Delaware	US	10/13/2021			370	0		Unassigned
+1004	Delaware	US	10/14/2021			373	0		Unassigned
+1004	Delaware	US	10/15/2021			374	0		Unassigned
+1004	Delaware	US	10/16/2021			378	0		Unassigned
+1004	Delaware	US	10/17/2021			378	0		Unassigned
+1004	Delaware	US	10/18/2021			385	0		Unassigned
+1004	Delaware	US	10/19/2021			389	0		Unassigned
+1004	Delaware	US	10/20/2021			392	0		Unassigned
+1004	Delaware	US	10/21/2021			396	0		Unassigned
+1004	Delaware	US	10/22/2021			399	0		Unassigned
+1004	Delaware	US	10/23/2021			405	0		Unassigned
+1004	Delaware	US	10/24/2021			410	0		Unassigned
+1004	Delaware	US	10/25/2021			413	0		Unassigned
+1004	Delaware	US	10/26/2021			413	0		Unassigned
+1004	Delaware	US	10/27/2021			414	0		Unassigned
+1004	Delaware	US	10/28/2021			418	0		Unassigned
+1004	Delaware	US	10/29/2021			421	0		Unassigned
+1004	Delaware	US	10/30/2021			423	0		Unassigned
+1004	Delaware	US	10/31/2021			426	0		Unassigned
+1005	Delaware	US	11/01/2021			427	0		Unassigned
+1005	Delaware	US	11/02/2021			431	0		Unassigned
+1005	Delaware	US	11/03/2021			434	0		Unassigned
+1005	Delaware	US	11/04/2021			440	0		Unassigned
+1005	Delaware	US	11/05/2021			444	0		Unassigned
+1005	Delaware	US	11/06/2021			445	0		Unassigned
+1005	Delaware	US	11/07/2021			450	0		Unassigned
+1005	Delaware	US	11/08/2021			454	0		Unassigned
+1005	Delaware	US	11/09/2021			458	0		Unassigned
+1005	Delaware	US	11/10/2021			460	0		Unassigned
+1005	Delaware	US	11/11/2021			465	0		Unassigned
+1005	Delaware	US	11/12/2021			470	0		Unassigned
+1005	Delaware	US	11/13/2021			482	0		Unassigned
+1005	Delaware	US	11/14/2021			484	0		Unassigned
+1005	Delaware	US	11/15/2021			613	0		Unassigned
+1005	Delaware	US	11/16/2021			741	0		Unassigned
+1005	Delaware	US	11/17/2021			984	0		Unassigned
+1005	Delaware	US	11/18/2021			1278	0		Unassigned
+1005	Delaware	US	11/19/2021			1508	0		Unassigned
+1005	Delaware	US	11/20/2021			411	0		Unassigned
+1005	Delaware	US	11/21/2021			421	0		Unassigned
+1005	Delaware	US	11/22/2021			424	0		Unassigned
+1005	Delaware	US	11/23/2021			423	0		Unassigned
+1005	Delaware	US	11/24/2021			422	0		Unassigned
+1005	Delaware	US	11/25/2021			420	0		Unassigned
+1005	Delaware	US	11/26/2021			423	0		Unassigned
+1005	Delaware	US	11/27/2021			424	0		Unassigned
+1005	Delaware	US	11/28/2021			423	0		Unassigned
+1005	Delaware	US	11/29/2021			422	0		Unassigned
+1005	Delaware	US	11/30/2021			420	0		Unassigned
+1005	Delaware	US	12/01/2021			421	0		Unassigned
+1005	Delaware	US	12/02/2021			424	0		Unassigned
+1005	Delaware	US	12/03/2021			424	0		Unassigned
+1005	Delaware	US	12/04/2021			424	0		Unassigned
+1005	Delaware	US	12/05/2021			425	0		Unassigned
+1005	Delaware	US	12/06/2021			425	0		Unassigned
+1005	Delaware	US	12/07/2021			424	0		Unassigned
+1005	Delaware	US	12/08/2021			427	0		Unassigned
+1005	Delaware	US	12/09/2021			455	0		Unassigned
+1005	Delaware	US	12/10/2021			478	0		Unassigned
+1005	Delaware	US	12/11/2021			504	0		Unassigned
+1005	Delaware	US	12/12/2021			518	0		Unassigned
+1005	Delaware	US	12/13/2021			526	0		Unassigned
+1005	Delaware	US	12/14/2021			533	0		Unassigned
+1005	Delaware	US	12/15/2021			567	0		Unassigned
+1005	Delaware	US	12/16/2021			566	0		Unassigned
+1005	Delaware	US	12/17/2021			573	0		Unassigned
+1005	Delaware	US	12/18/2021			576	0		Unassigned
+1005	Delaware	US	12/19/2021			578	0		Unassigned
+1005	Delaware	US	12/20/2021			580	0		Unassigned
+1005	Delaware	US	12/21/2021			577	0		Unassigned

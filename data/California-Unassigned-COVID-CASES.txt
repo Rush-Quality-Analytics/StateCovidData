@@ -1,502 +1,634 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2858	Unassigned	12	US	0	0.0	0.0	California	0	03/27/2020
-2858	Unassigned	0	US	1	0.0	0.0	California	0	03/29/2020
-2858	Unassigned	0	US	0	0.0	0.0	California	0	03/30/2020
-1930	Unassigned	0	US	0	0.0	0.0	California	0	03/31/2020
-1976	Unassigned	0	US	1	0.0	0.0	California	0	04/01/2020
-2046	Unassigned	0	US	0			California	0	04/02/2020
-2093	Unassigned	0	US	2			California	0	04/03/2020
-2218	Unassigned	0	US	0			California	0	04/05/2020
-2255	Unassigned	43	US	0			California	0	04/06/2020
-2302	Unassigned	42	US	0			California	0	04/07/2020
-2325	Unassigned	167	US	2			California	0	04/08/2020
-2351	Unassigned	4	US	2			California	0	04/09/2020
-2375	Unassigned	4	US	0			California	0	04/10/2020
-2401	Unassigned	4	US	0			California	0	04/11/2020
-2423	Unassigned	8	US	0			California	0	04/12/2020
-2437	Unassigned	0	US	0			California	0	04/13/2020
-2447	Unassigned	0	US	0			California	0	04/14/2020
-2459	Unassigned	0	US	0			California	0	04/15/2020
-2473	Unassigned	0	US	0			California	0	04/16/2020
-2475	Unassigned	0	US	0			California	0	04/17/2020
-2482	Unassigned	0	US	0			California	0	04/18/2020
-2499	Unassigned	0	US	2			California	0	04/19/2020
-2507	Unassigned	0	US	2			California	0	04/20/2020
-2516	Unassigned	0	US	2			California	0	04/21/2020
-2523	Unassigned	0	US	2			California	0	04/22/2020
-2540	Unassigned	0	US	2			California	0	04/23/2020
-2546	Unassigned	0	US	2			California	0	04/24/2020
-2551	Unassigned	0	US	2			California	0	04/25/2020
-2559	Unassigned	0	US	2			California	0	04/26/2020
-2566	Unassigned	0	US	2			California	0	04/27/2020
-2575	Unassigned	0	US	2			California	0	04/28/2020
-2580	Unassigned	0	US	2			California	0	04/29/2020
-2586	Unassigned	0	US	2			California	0	04/30/2020
-2597	Unassigned	0	US	2			California	0	05/01/2020
-2600	Unassigned	0	US	2			California	0	05/02/2020
-2605	Unassigned	0	US	2			California	0	05/03/2020
-2608	Unassigned	0	US	2			California	0	05/04/2020
-2616	Unassigned	0	US	2			California	0	05/05/2020
-2622	Unassigned	0	US	2			California	0	05/06/2020
-2629	Unassigned	0	US	2			California	0	05/07/2020
-2636	Unassigned	0	US	0			California	0	05/08/2020
-2638	Unassigned	0	US	0			California	0	05/09/2020
-2640	Unassigned	0	US	0			California	0	05/10/2020
-2640	Unassigned	0	US	0			California	0	05/11/2020
-2643	Unassigned	0	US	0			California	0	05/12/2020
-2644	Unassigned	0	US	0			California	0	05/13/2020
-2646	Unassigned	0	US	0			California	0	05/14/2020
-2651	Unassigned	0	US	0			California	0	05/15/2020
-2655	Unassigned	0	US	0			California	0	05/16/2020
-2658	Unassigned	0	US	0			California	0	05/17/2020
-2660	Unassigned	0	US	0			California	0	05/18/2020
-2664	Unassigned	0	US	0			California	0	05/19/2020
-2670	Unassigned	0	US	0			California	0	05/20/2020
-2672	Unassigned	0	US	0			California	0	05/21/2020
-2679	Unassigned	0	US	0			California	0	05/22/2020
-2681	Unassigned	0	US	0			California	0	05/23/2020
-2684	Unassigned	0	US	0			California	0	05/24/2020
-2685	Unassigned	0	US	0			California	0	05/25/2020
-2686	Unassigned	0	US	0			California	0	05/26/2020
-2689	Unassigned	0	US	0			California	0	05/27/2020
-2692	Unassigned	0	US	0			California	0	05/28/2020
-2695	Unassigned	0	US	0			California	0	05/29/2020
-2697	Unassigned	0	US	0			California	0	05/30/2020
-2698	Unassigned	0	US	0			California	0	05/31/2020
-2700	Unassigned	0	US	0			California	0	06/01/2020
-2705	Unassigned	0	US	0			California	0	06/02/2020
-2707	Unassigned	0	US	0			California	0	06/03/2020
-2708	Unassigned	0	US	0			California	0	06/04/2020
-2712	Unassigned	0	US	0			California	0	06/05/2020
-2714	Unassigned	0	US	0			California	0	06/06/2020
-2714	Unassigned	0	US	0			California	0	06/07/2020
-2714	Unassigned	0	US	0			California	0	06/08/2020
-2716	Unassigned	0	US	0			California	0	06/09/2020
-2718	Unassigned	0	US	0			California	0	06/10/2020
-2720	Unassigned	0	US	0			California	0	06/11/2020
-2734	Unassigned	0	US	0			California	0	06/12/2020
-2737	Unassigned	0	US	0			California	0	06/13/2020
-2737	Unassigned	0	US	0			California	0	06/14/2020
-2741	Unassigned	0	US	0			California	0	06/15/2020
-2739	Unassigned	0	US	0			California	0	06/16/2020
-2741	Unassigned	0	US	0			California	0	06/17/2020
-2741	Unassigned	0	US	0			California	0	06/18/2020
-2742	Unassigned	0	US	0			California	0	06/19/2020
-2746	Unassigned	0	US	0			California	0	06/20/2020
-2746	Unassigned	0	US	0			California	0	06/21/2020
-2749	Unassigned	0	US	0			California	0	06/22/2020
-2754	Unassigned	0	US	0			California	0	06/23/2020
-2766	Unassigned	0	US	0			California	0	06/24/2020
-2771	Unassigned	0	US	0			California	0	06/25/2020
-2772	Unassigned	0	US	0			California	0	06/26/2020
-2773	Unassigned	0	US	0			California	0	06/27/2020
-2773	Unassigned	0	US	0			California	0	06/28/2020
-2775	Unassigned	0	US	0			California	0	06/29/2020
-2777	Unassigned	0	US	0			California	0	06/30/2020
-2779	Unassigned	0	US	0			California	0	07/01/2020
-2782	Unassigned	0	US	0			California	0	07/02/2020
-2787	Unassigned	0	US	0			California	0	07/03/2020
-2788	Unassigned	0	US	0			California	0	07/04/2020
-2789	Unassigned	0	US	0			California	0	07/05/2020
-2792	Unassigned	0	US	0			California	0	07/06/2020
-2793	Unassigned	0	US	0			California	0	07/07/2020
-2796	Unassigned	0	US	0			California	0	07/08/2020
-2795	Unassigned	0	US	0			California	0	07/09/2020
-2799	Unassigned	0	US	0			California	0	07/10/2020
-2800	Unassigned	0	US	0			California	0	07/11/2020
-2802	Unassigned	0	US	0			California	0	07/12/2020
-2803	Unassigned	0	US	0			California	0	07/13/2020
-2809	Unassigned	0	US	0			California	0	07/14/2020
-2810	Unassigned	0	US	0			California	0	07/15/2020
-2812	Unassigned	0	US	0			California	0	07/16/2020
-2812	Unassigned	0	US	0			California	0	07/17/2020
-2885	Unassigned	0	US	0			California	0	07/18/2020
-2885	Unassigned	0	US	0			California	0	07/19/2020
-2809	Unassigned	0	US	0			California	0	07/20/2020
-2889	Unassigned	0	US	0			California	0	07/21/2020
-2890	Unassigned	0	US	0			California	0	07/22/2020
-2893	Unassigned	0	US	0			California	0	07/23/2020
-2892	Unassigned	0	US	0			California	0	07/24/2020
-2893	Unassigned	0	US	0			California	0	07/25/2020
-2894	Unassigned	0	US	0			California	0	07/26/2020
-2894	Unassigned	0	US	0			California	0	07/27/2020
-2894	Unassigned	0	US	0			California	0	07/28/2020
-2898	Unassigned	0	US	0			California	0	07/29/2020
-2898	Unassigned	0	US	0			California	0	07/30/2020
-2900	Unassigned	0	US	0			California	0	07/31/2020
-2900	Unassigned	0	US	0			California	0	08/01/2020
-2900	Unassigned	0	US	0			California	0	08/02/2020
-2900	Unassigned	0	US	0			California	0	08/03/2020
-2901	Unassigned	0	US	0			California	0	08/04/2020
-2905	Unassigned	0	US	0			California	0	08/05/2020
-2905	Unassigned	0	US	0			California	0	08/06/2020
-2905	Unassigned	0	US	0			California	0	08/07/2020
-2905	Unassigned	0	US	0			California	0	08/08/2020
-2905	Unassigned	0	US	0			California	0	08/09/2020
-2905	Unassigned	0	US	0			California	0	08/10/2020
-922	Unassigned	0	US	0			California	0	08/11/2020
-876	Unassigned	0	US	0			California	0	08/12/2020
-876	Unassigned	0	US	0			California	0	08/13/2020
-876	Unassigned	0	US	0			California	0	08/14/2020
-876	Unassigned	0	US	0			California	0	08/15/2020
-876	Unassigned	0	US	0			California	0	08/16/2020
-876	Unassigned	0	US	0			California	0	08/17/2020
-876	Unassigned	0	US	0			California	0	08/18/2020
-876	Unassigned	0	US	0			California	0	08/19/2020
-876	Unassigned	0	US	0			California	0	08/20/2020
-876	Unassigned	0	US	0			California	0	08/21/2020
-876	Unassigned	0	US	0			California	0	08/22/2020
-876	Unassigned	0	US	0			California	0	08/23/2020
-876	Unassigned	0	US	0			California	0	08/24/2020
-876	Unassigned	0	US	0			California	0	08/25/2020
-876	Unassigned	0	US	0			California	0	08/26/2020
-876	Unassigned	0	US	0			California	0	08/27/2020
-876	Unassigned	0	US	0			California	0	08/28/2020
-876	Unassigned	0	US	0			California	0	08/29/2020
-876	Unassigned	0	US	0			California	0	08/30/2020
-876	Unassigned	0	US	0			California	0	08/31/2020
-876	Unassigned	0	US	0			California	0	09/01/2020
-876	Unassigned	0	US	0			California	0	09/02/2020
-876	Unassigned	0	US	0			California	0	09/03/2020
-876	Unassigned	0	US	0			California	0	09/04/2020
-876	Unassigned	0	US	0			California	0	09/05/2020
-876	Unassigned	0	US	0			California	0	09/06/2020
-876	Unassigned	0	US	0			California	0	09/07/2020
-876	Unassigned	0	US	0			California	0	09/08/2020
-876	Unassigned	0	US	0			California	0	09/09/2020
-876	Unassigned	0	US	0			California	0	09/10/2020
-876	Unassigned	0	US	0			California	0	09/11/2020
-876	Unassigned	0	US	0			California	0	09/12/2020
-876	Unassigned	0	US	0			California	0	09/13/2020
-876	Unassigned	0	US	0			California	0	09/14/2020
-876	Unassigned	0	US	0			California	0	09/15/2020
-876	Unassigned	0	US	0			California	0	09/16/2020
-876	Unassigned	0	US	0			California	0	09/17/2020
-876	Unassigned	0	US	0			California	0	09/18/2020
-876	Unassigned	0	US	0			California	0	09/19/2020
-876	Unassigned	0	US	0			California	0	09/20/2020
-877	Unassigned	0	US	0			California	0	09/21/2020
-877	Unassigned	0	US	0			California	0	09/22/2020
-877	Unassigned	0	US	0			California	0	09/23/2020
-877	Unassigned	0	US	0			California	0	09/24/2020
-877	Unassigned	0	US	0			California	0	09/25/2020
-877	Unassigned	0	US	0			California	0	09/26/2020
-877	Unassigned	0	US	0			California	0	09/27/2020
-877	Unassigned	0	US	0			California	0	09/28/2020
-877	Unassigned	0	US	0			California	0	09/29/2020
-877	Unassigned	0	US	0			California	0	09/30/2020
-877	Unassigned	0	US	0			California	0	10/01/2020
-877	Unassigned	0	US	0			California	0	10/02/2020
-877	Unassigned	0	US	0			California	0	10/03/2020
-877	Unassigned	0	US	0			California	0	10/04/2020
-877	Unassigned	0	US	0			California	0	10/05/2020
-877	Unassigned	0	US	0			California	0	10/06/2020
-877	Unassigned	0	US	0			California	0	10/07/2020
-877	Unassigned	0	US	0			California	0	10/08/2020
-877	Unassigned	0	US	0			California	0	10/09/2020
-877	Unassigned	0	US	0			California	0	10/10/2020
-877	Unassigned	0	US	0			California	0	10/11/2020
-878	Unassigned	0	US	0			California	0	10/12/2020
-878	Unassigned	0	US	0			California	0	10/13/2020
-878	Unassigned	0	US	0			California	0	10/14/2020
-878	Unassigned	0	US	0			California	0	10/15/2020
-879	Unassigned	0	US	0			California	0	10/16/2020
-879	Unassigned	0	US	0			California	0	10/17/2020
-879	Unassigned	0	US	0			California	0	10/18/2020
-880	Unassigned	0	US	0			California	0	10/19/2020
-880	Unassigned	0	US	0			California	0	10/20/2020
-880	Unassigned	0	US	0			California	0	10/21/2020
-880	Unassigned	0	US	0			California	0	10/22/2020
-880	Unassigned	0	US	0			California	0	10/23/2020
-880	Unassigned	0	US	0			California	0	10/24/2020
-880	Unassigned	0	US	0			California	0	10/25/2020
-880	Unassigned	0	US	0			California	0	10/26/2020
-880	Unassigned	0	US	0			California	0	10/27/2020
-881	Unassigned	0	US	0.0			California	0	10/28/2020
-881	Unassigned	0	US	0			California	0	10/29/2020
-881	Unassigned	0	US	0			California	0	10/30/2020
-881	Unassigned	0	US	0			California	0	10/31/2020
-881	Unassigned	0	US	0			California	0	11/01/2020
-881	Unassigned	0	US	0			California	0	11/02/2020
-882	Unassigned	0	US	0			California	0	11/03/2020
-882	Unassigned	0	US	0			California	0	11/04/2020
-882	Unassigned	0	US	0			California	0	11/05/2020
-882	Unassigned	0	US	0			California	0	11/06/2020
-882	Unassigned	0	US	0			California	0	11/07/2020
-882	Unassigned	0	US	0			California	0	11/08/2020
-882	Unassigned	0	US	0			California	0.0	11/09/2020
-882	Unassigned	0	US	0			California	0.0	11/10/2020
-882	Unassigned	0	US	0			California	0.0	11/11/2020
-894	Unassigned	0	US	0			California	0	11/12/2020
-894	Unassigned	0	US	0			California	0	11/13/2020
-894	Unassigned	0	US	0			California	0	11/14/2020
-894	Unassigned	0	US	0			California	0	11/15/2020
-894	Unassigned	0	US	0			California	0	11/16/2020
-894	Unassigned	0	US	0			California	0	11/17/2020
-894	Unassigned	0	US	0			California	0	11/18/2020
-894	Unassigned	0	US	0			California	0	11/19/2020
-894	Unassigned	0	US	0			California	0	11/20/2020
-894	Unassigned	0	US	0			California	0	11/21/2020
-894	Unassigned	0	US	0			California	0	11/22/2020
-894	Unassigned	0	US	0			California	0	11/23/2020
-895	Unassigned	0	US	0			California	0	11/24/2020
-895	Unassigned	0	US	0			California	0	11/25/2020
-895	Unassigned	0	US	0			California	0	11/26/2020
-895	Unassigned	0	US	0			California	0	11/27/2020
-895	Unassigned	0	US	0			California	0	11/28/2020
-895	Unassigned	0	US	0			California	0	11/29/2020
-895	Unassigned	0	US	0			California	0	11/30/2020
-895	Unassigned	0	US	0			California	0	12/01/2020
-895	Unassigned	0	US	0			California	0	12/02/2020
-895	Unassigned	0	US	0			California	0	12/03/2020
-895	Unassigned	0	US	0			California	0	12/04/2020
-895	Unassigned	0	US	0			California	0	12/05/2020
-895	Unassigned	0	US	0			California	0	12/06/2020
-895	Unassigned	0	US	0			California	0	12/07/2020
-895	Unassigned	0	US	0			California	0	12/08/2020
-895	Unassigned	0	US	0			California	0	12/09/2020
-895	Unassigned	0	US	0			California	0	12/10/2020
-895	Unassigned	0	US	0			California	0	12/11/2020
-895	Unassigned	0	US	0			California	0	12/12/2020
-895	Unassigned	0	US	0			California	0	12/13/2020
-895	Unassigned	0	US	0			California	0	12/14/2020
-895	Unassigned	0	US	0			California	0	12/15/2020
-895	Unassigned	0	US	0			California	0	12/16/2020
-895	Unassigned	0	US	0			California	0	12/17/2020
-895	Unassigned	0	US	0			California	0	12/18/2020
-895	Unassigned	0	US	0			California	0	12/19/2020
-895	Unassigned	0	US	0			California	0	12/20/2020
-895	Unassigned	0	US	0			California	0	12/21/2020
-895	Unassigned	0	US	0			California	0	12/22/2020
-895	Unassigned	0	US	0			California	0	12/23/2020
-895	Unassigned	0	US	0			California	0	12/24/2020
-895	Unassigned	0	US	0			California	0	12/25/2020
-895	Unassigned	0	US	0			California	0	12/26/2020
-895	Unassigned	0	US	0			California	0	12/27/2020
-895	Unassigned	0	US	0			California	0	12/28/2020
-895	Unassigned	0	US	0			California	0	12/29/2020
-895	Unassigned	0	US	0			California	0	12/30/2020
-895	Unassigned	0	US	0			California	0	12/31/2020
-895	Unassigned	0	US	0			California	0	01/01/2021
-895	Unassigned	0	US	0			California	0	01/02/2021
-896	Unassigned	0	US	0			California	0	01/03/2021
-896	Unassigned	0	US	0			California	0	01/04/2021
-896	Unassigned	0	US	0			California	0	01/05/2021
-896	Unassigned	0	US	0			California	0	01/06/2021
-896	Unassigned	0	US	0			California	0	01/07/2021
-896	Unassigned	0	US	0			California	0	01/08/2021
-896	Unassigned	0	US	0			California	0	01/09/2021
-896	Unassigned	0	US	0			California	0	01/10/2021
-896	Unassigned	0	US	0			California	0	01/11/2021
-896	Unassigned	0	US	0			California	0	01/12/2021
-896	Unassigned	0	US	0			California	0	01/13/2021
-896	Unassigned	0	US	0			California	0	01/14/2021
-896	Unassigned	0	US	0			California	0	01/15/2021
-896	Unassigned	0	US	0			California	0	01/16/2021
-896	Unassigned	0	US	0			California	0	01/17/2021
-896	Unassigned	0	US	0			California	0	01/18/2021
-896	Unassigned	0	US	0			California	0	01/19/2021
-896	Unassigned	0	US	0			California	0	01/20/2021
-897	Unassigned	0	US	0			California	0	01/21/2021
-897	Unassigned	0	US	0			California	0	01/22/2021
-897	Unassigned	0	US	0			California	0	01/23/2021
-897	Unassigned	0	US	0			California	0	01/24/2021
-897	Unassigned	0	US	0			California	0	01/25/2021
-897	Unassigned	0	US	0			California	0	01/26/2021
-897	Unassigned	0	US	0			California	0	01/27/2021
-897	Unassigned	0	US	0			California	0	01/28/2021
-897	Unassigned	0	US	0			California	0	01/29/2021
-897	Unassigned	0	US	0			California	0	01/30/2021
-897	Unassigned	0	US	0			California	0	01/31/2021
-897	Unassigned	0	US	0			California	0	02/01/2021
-897	Unassigned	0	US	0			California	0	02/02/2021
-897	Unassigned	0	US	0			California	0	02/03/2021
-897	Unassigned	0	US	0			California	0	02/04/2021
-897	Unassigned	0	US	0			California	0	02/05/2021
-897	Unassigned	0	US	0			California	0	02/06/2021
-897	Unassigned	0	US	0			California	0	02/07/2021
-897	Unassigned	0	US	0			California	0	02/08/2021
-897	Unassigned	0	US	0			California	0	02/09/2021
-897	Unassigned	0	US	0			California	0	02/10/2021
-897	Unassigned	0	US	0			California	0	02/11/2021
-897	Unassigned	0	US	0			California	0	02/12/2021
-897	Unassigned	0	US	0			California	0	02/13/2021
-897	Unassigned	0	US	0			California	0	02/14/2021
-897	Unassigned	0	US	0			California	0	02/15/2021
-897	Unassigned	0	US	0			California	0	02/16/2021
-897	Unassigned	0	US	0			California	0	02/17/2021
-897	Unassigned	0	US	0			California	0	02/18/2021
-898	Unassigned	0	US	0			California	0	02/19/2021
-898	Unassigned	0	US	0			California	0	02/20/2021
-898	Unassigned	0	US	0			California	0	02/21/2021
-898	Unassigned	0	US	0			California	0	02/22/2021
-898	Unassigned	0	US	0			California	0	02/23/2021
-898	Unassigned	0	US	0			California	0	02/24/2021
-898	Unassigned	0	US	0			California	0	02/25/2021
-898	Unassigned	0	US	0			California	0	02/26/2021
-898	Unassigned	0	US	0			California	0	02/27/2021
-898	Unassigned	0	US	0			California	0	02/28/2021
-898	Unassigned	0	US	0			California	0	03/01/2021
-898	Unassigned	0	US	0			California	0	03/02/2021
-898	Unassigned	0	US	0			California	0	03/03/2021
-898	Unassigned	0	US	0			California	0	03/04/2021
-898	Unassigned	0	US	0			California	0	03/05/2021
-898	Unassigned	0	US	0			California	0	03/06/2021
-898	Unassigned	0	US	0			California		03/07/2021
-898	Unassigned	0	US	0			California		03/08/2021
-898	Unassigned	0	US	0			California		03/09/2021
-898	Unassigned	0	US	0			California		03/10/2021
-898	Unassigned	0	US	0			California		03/11/2021
-898	Unassigned	0	US	0			California		03/12/2021
-898	Unassigned	0	US	0			California		03/13/2021
-898	Unassigned	0	US	0			California		03/14/2021
-898	Unassigned	0	US	0			California		03/15/2021
-898	Unassigned	0	US	0			California		03/16/2021
-898	Unassigned	0	US	0			California		03/17/2021
-898	Unassigned	0	US	0			California		03/18/2021
-898	Unassigned	0	US	0			California		03/19/2021
-898	Unassigned	0	US	0			California		03/20/2021
-898	Unassigned	0	US	0			California		03/21/2021
-898	Unassigned	0	US	0			California		03/22/2021
-898	Unassigned	0	US	0			California		03/23/2021
-898	Unassigned	0	US	0			California		03/24/2021
-898	Unassigned	0	US	0			California		03/25/2021
-898	Unassigned	0	US	0			California		03/26/2021
-898	Unassigned	0	US	0			California		03/27/2021
-898	Unassigned	0	US	0			California		03/28/2021
-898	Unassigned	0	US	0			California		03/29/2021
-898	Unassigned	0	US	0			California		03/30/2021
-898	Unassigned	0	US	0			California		03/31/2021
-898	Unassigned	0	US	0			California		04/01/2021
-900	Unassigned	0	US	0			California		04/02/2021
-900	Unassigned	0	US	0			California		04/03/2021
-900	Unassigned	0	US	0			California		04/04/2021
-900	Unassigned	0	US	0			California		04/05/2021
-900	Unassigned	0	US	0			California		04/06/2021
-900	Unassigned	59	US	0			California		04/07/2021
-900	Unassigned	39	US	0			California		04/08/2021
-900	Unassigned	59	US	1			California		04/09/2021
-900	Unassigned	57	US	0			California		04/10/2021
-900	Unassigned	93	US	0			California		04/11/2021
-900	Unassigned	65	US	0			California		04/12/2021
-900	Unassigned	50	US	0			California		04/13/2021
-900	Unassigned	66	US	0			California		04/14/2021
-900	Unassigned	50	US	0			California		04/15/2021
-900	Unassigned	61	US	0			California		04/16/2021
-900	Unassigned	33	US	0			California		04/17/2021
-900	Unassigned	61	US	0			California		04/18/2021
-900	Unassigned	51	US	0			California		04/19/2021
-900	Unassigned	44	US	0			California		04/20/2021
-900	Unassigned	47	US	0			California		04/21/2021
-900	Unassigned	68	US	0			California		04/22/2021
-900	Unassigned	92	US	0			California		04/23/2021
-900	Unassigned	61	US	0			California		04/24/2021
-900	Unassigned	60	US	0			California		04/25/2021
-900	Unassigned	84	US	0			California		04/26/2021
-900	Unassigned	34	US	0			California		04/27/2021
-900	Unassigned	53	US	0			California		04/28/2021
-900	Unassigned	38	US	0			California		04/29/2021
-900	Unassigned	47	US	0			California		04/30/2021
-900	Unassigned	50	US	0			California		05/01/2021
-900	Unassigned	44	US	0			California		05/02/2021
-900	Unassigned	37	US	0			California		05/03/2021
-900	Unassigned	35	US	0			California		05/04/2021
-900	Unassigned	44	US	0			California		05/05/2021
-900	Unassigned	45	US	0			California		05/06/2021
-900	Unassigned	32	US	0			California		05/07/2021
-900	Unassigned	33	US	0			California		05/08/2021
-900	Unassigned	39	US	0			California		05/09/2021
-900	Unassigned	39	US	0			California		05/10/2021
-900	Unassigned	35	US	0			California		05/11/2021
-900	Unassigned	37	US	0			California		05/12/2021
-900	Unassigned	52	US	0			California		05/13/2021
-900	Unassigned	48	US	0			California		05/14/2021
-900	Unassigned	45	US	0			California		05/15/2021
-900	Unassigned	46	US	0			California		05/16/2021
-900	Unassigned	36	US	0			California		05/17/2021
-900	Unassigned	26	US	0			California		05/18/2021
-900	Unassigned	29	US	0			California		05/19/2021
-900	Unassigned	39	US	0			California		05/20/2021
-900	Unassigned	58	US	0			California		05/21/2021
-900	Unassigned	29	US	0			California		05/22/2021
-900	Unassigned	39	US	0			California		05/23/2021
-900	Unassigned	42	US	0			California		05/24/2021
-900	Unassigned	47	US	0			California		05/25/2021
-900	Unassigned	30	US	0			California		05/26/2021
-901	Unassigned	37	US	0			California		05/27/2021
-901	Unassigned	39	US	0			California		05/28/2021
-901	Unassigned	35	US	0			California		05/29/2021
-901	Unassigned	37	US	0			California		05/30/2021
-901	Unassigned	28	US	0			California		05/31/2021
-901	Unassigned	33	US	0			California		06/01/2021
-901	Unassigned	34	US	0			California		06/02/2021
-901	Unassigned	29	US	0			California		06/03/2021
-901	Unassigned	39	US	0			California		06/04/2021
-901	Unassigned	36	US	0			California		06/05/2021
-901	Unassigned	32	US	0			California		06/06/2021
-901	Unassigned	37	US	0			California		06/07/2021
-901	Unassigned	50	US	0			California		06/08/2021
-901	Unassigned	38	US	0			California		06/09/2021
-901	Unassigned	28	US	0			California		06/10/2021
-901	Unassigned	31	US	0			California		06/11/2021
-901	Unassigned	39	US	0			California		06/12/2021
-901	Unassigned	33	US	0			California		06/13/2021
-901	Unassigned	37	US	0			California		06/14/2021
-901	Unassigned	35	US	0			California		06/15/2021
-901	Unassigned	33	US	0			California		06/16/2021
-903	Unassigned	34	US	0			California		06/17/2021
-903	Unassigned	40	US	0			California		06/18/2021
-903	Unassigned	35	US	0			California		06/19/2021
-903	Unassigned	33	US	0			California		06/20/2021
-903	Unassigned	28	US	0			California		06/21/2021
-903	Unassigned	32	US	0			California		06/22/2021
-903	Unassigned	34	US	0			California		06/23/2021
-904	Unassigned	33	US	0			California		06/24/2021
-904	Unassigned	40	US	0			California		06/25/2021
-904	Unassigned	38	US	0			California		06/26/2021
-904	Unassigned	38	US	0			California		06/27/2021
-904	Unassigned	35	US	0			California		06/28/2021
-904	Unassigned	28	US	0			California		06/29/2021
-904	Unassigned	35	US	0			California		06/30/2021
-904	Unassigned	23	US	0			California		07/01/2021
-904	Unassigned	21	US	0			California		07/02/2021
-904	Unassigned	21	US	0			California		07/03/2021
-904	Unassigned	21	US	0			California		07/04/2021
-904	Unassigned	21	US	0			California		07/05/2021
-904	Unassigned	35	US	0			California		07/06/2021
-904	Unassigned	37	US	0			California		07/07/2021
-904	Unassigned	12	US	0			California		07/08/2021
-904	Unassigned	21	US	0			California		07/09/2021
-904	Unassigned	21	US	0			California		07/10/2021
-904	Unassigned	21	US	0			California		07/11/2021
-904	Unassigned	52	US	0			California		07/12/2021
-904	Unassigned	59	US	0			California		07/13/2021
-904	Unassigned	26	US	0			California		07/14/2021
-904	Unassigned	18	US	0			California		07/15/2021
-904	Unassigned	40	US	0			California		07/16/2021
-904	Unassigned	40	US	0			California		07/17/2021
-904	Unassigned	40	US	0			California		07/18/2021
-904	Unassigned	58	US	0			California		07/19/2021
-904	Unassigned	70	US	0			California		07/20/2021
-904	Unassigned	25	US	0			California		07/21/2021
-904	Unassigned	36	US	0			California		07/22/2021
-904	Unassigned	44	US	0			California		07/23/2021
-904	Unassigned	44	US	0			California		07/24/2021
-904	Unassigned	44	US	0			California		07/25/2021
-904	Unassigned	81	US	0			California		07/26/2021
-904	Unassigned	102	US	0			California		07/27/2021
-904	Unassigned	53	US	0			California		07/28/2021
-904	Unassigned	51	US	0			California		07/29/2021
-904	Unassigned	66	US	0			California		07/30/2021
-904	Unassigned	66	US	0			California		07/31/2021
-904	Unassigned	66	US	0			California		08/01/2021
-904	Unassigned	101	US	0			California		08/02/2021
-904	Unassigned	134	US	0			California		08/03/2021
-904	Unassigned	81	US	0			California		08/04/2021
-904	Unassigned	117	US	0			California		08/05/2021
-904	Unassigned	128	US	0			California		08/06/2021
-904	Unassigned	161	US	0			California		08/07/2021
-904	Unassigned	79	US	0			California		08/08/2021
-904	Unassigned	172	US	0			California		08/09/2021
-904	Unassigned	210	US	0			California		08/10/2021
-904	Unassigned	80	US	0			California		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2858	California	US	03/27/2020	0.0	0.0	12	0	0	Unassigned
+2858	California	US	03/29/2020	0.0	0.0	0	1	0	Unassigned
+2858	California	US	03/30/2020	0.0	0.0	0	0	0	Unassigned
+1930	California	US	03/31/2020	0.0	0.0	0	0	0	Unassigned
+1976	California	US	04/01/2020	0.0	0.0	0	1	0	Unassigned
+2046	California	US	04/02/2020			0	0	0	Unassigned
+2093	California	US	04/03/2020			0	2	0	Unassigned
+2218	California	US	04/05/2020			0	0	0	Unassigned
+2255	California	US	04/06/2020			43	0	0	Unassigned
+2302	California	US	04/07/2020			42	0	0	Unassigned
+2325	California	US	04/08/2020			167	2	0	Unassigned
+2351	California	US	04/09/2020			4	2	0	Unassigned
+2375	California	US	04/10/2020			4	0	0	Unassigned
+2401	California	US	04/11/2020			4	0	0	Unassigned
+2423	California	US	04/12/2020			8	0	0	Unassigned
+2437	California	US	04/13/2020			0	0	0	Unassigned
+2447	California	US	04/14/2020			0	0	0	Unassigned
+2459	California	US	04/15/2020			0	0	0	Unassigned
+2473	California	US	04/16/2020			0	0	0	Unassigned
+2475	California	US	04/17/2020			0	0	0	Unassigned
+2482	California	US	04/18/2020			0	0	0	Unassigned
+2499	California	US	04/19/2020			0	2	0	Unassigned
+2507	California	US	04/20/2020			0	2	0	Unassigned
+2516	California	US	04/21/2020			0	2	0	Unassigned
+2523	California	US	04/22/2020			0	2	0	Unassigned
+2540	California	US	04/23/2020			0	2	0	Unassigned
+2546	California	US	04/24/2020			0	2	0	Unassigned
+2551	California	US	04/25/2020			0	2	0	Unassigned
+2559	California	US	04/26/2020			0	2	0	Unassigned
+2566	California	US	04/27/2020			0	2	0	Unassigned
+2575	California	US	04/28/2020			0	2	0	Unassigned
+2580	California	US	04/29/2020			0	2	0	Unassigned
+2586	California	US	04/30/2020			0	2	0	Unassigned
+2597	California	US	05/01/2020			0	2	0	Unassigned
+2600	California	US	05/02/2020			0	2	0	Unassigned
+2605	California	US	05/03/2020			0	2	0	Unassigned
+2608	California	US	05/04/2020			0	2	0	Unassigned
+2616	California	US	05/05/2020			0	2	0	Unassigned
+2622	California	US	05/06/2020			0	2	0	Unassigned
+2629	California	US	05/07/2020			0	2	0	Unassigned
+2636	California	US	05/08/2020			0	0	0	Unassigned
+2638	California	US	05/09/2020			0	0	0	Unassigned
+2640	California	US	05/10/2020			0	0	0	Unassigned
+2640	California	US	05/11/2020			0	0	0	Unassigned
+2643	California	US	05/12/2020			0	0	0	Unassigned
+2644	California	US	05/13/2020			0	0	0	Unassigned
+2646	California	US	05/14/2020			0	0	0	Unassigned
+2651	California	US	05/15/2020			0	0	0	Unassigned
+2655	California	US	05/16/2020			0	0	0	Unassigned
+2658	California	US	05/17/2020			0	0	0	Unassigned
+2660	California	US	05/18/2020			0	0	0	Unassigned
+2664	California	US	05/19/2020			0	0	0	Unassigned
+2670	California	US	05/20/2020			0	0	0	Unassigned
+2672	California	US	05/21/2020			0	0	0	Unassigned
+2679	California	US	05/22/2020			0	0	0	Unassigned
+2681	California	US	05/23/2020			0	0	0	Unassigned
+2684	California	US	05/24/2020			0	0	0	Unassigned
+2685	California	US	05/25/2020			0	0	0	Unassigned
+2686	California	US	05/26/2020			0	0	0	Unassigned
+2689	California	US	05/27/2020			0	0	0	Unassigned
+2692	California	US	05/28/2020			0	0	0	Unassigned
+2695	California	US	05/29/2020			0	0	0	Unassigned
+2697	California	US	05/30/2020			0	0	0	Unassigned
+2698	California	US	05/31/2020			0	0	0	Unassigned
+2700	California	US	06/01/2020			0	0	0	Unassigned
+2705	California	US	06/02/2020			0	0	0	Unassigned
+2707	California	US	06/03/2020			0	0	0	Unassigned
+2708	California	US	06/04/2020			0	0	0	Unassigned
+2712	California	US	06/05/2020			0	0	0	Unassigned
+2714	California	US	06/06/2020			0	0	0	Unassigned
+2714	California	US	06/07/2020			0	0	0	Unassigned
+2714	California	US	06/08/2020			0	0	0	Unassigned
+2716	California	US	06/09/2020			0	0	0	Unassigned
+2718	California	US	06/10/2020			0	0	0	Unassigned
+2720	California	US	06/11/2020			0	0	0	Unassigned
+2734	California	US	06/12/2020			0	0	0	Unassigned
+2737	California	US	06/13/2020			0	0	0	Unassigned
+2737	California	US	06/14/2020			0	0	0	Unassigned
+2741	California	US	06/15/2020			0	0	0	Unassigned
+2739	California	US	06/16/2020			0	0	0	Unassigned
+2741	California	US	06/17/2020			0	0	0	Unassigned
+2741	California	US	06/18/2020			0	0	0	Unassigned
+2742	California	US	06/19/2020			0	0	0	Unassigned
+2746	California	US	06/20/2020			0	0	0	Unassigned
+2746	California	US	06/21/2020			0	0	0	Unassigned
+2749	California	US	06/22/2020			0	0	0	Unassigned
+2754	California	US	06/23/2020			0	0	0	Unassigned
+2766	California	US	06/24/2020			0	0	0	Unassigned
+2771	California	US	06/25/2020			0	0	0	Unassigned
+2772	California	US	06/26/2020			0	0	0	Unassigned
+2773	California	US	06/27/2020			0	0	0	Unassigned
+2773	California	US	06/28/2020			0	0	0	Unassigned
+2775	California	US	06/29/2020			0	0	0	Unassigned
+2777	California	US	06/30/2020			0	0	0	Unassigned
+2779	California	US	07/01/2020			0	0	0	Unassigned
+2782	California	US	07/02/2020			0	0	0	Unassigned
+2787	California	US	07/03/2020			0	0	0	Unassigned
+2788	California	US	07/04/2020			0	0	0	Unassigned
+2789	California	US	07/05/2020			0	0	0	Unassigned
+2792	California	US	07/06/2020			0	0	0	Unassigned
+2793	California	US	07/07/2020			0	0	0	Unassigned
+2796	California	US	07/08/2020			0	0	0	Unassigned
+2795	California	US	07/09/2020			0	0	0	Unassigned
+2799	California	US	07/10/2020			0	0	0	Unassigned
+2800	California	US	07/11/2020			0	0	0	Unassigned
+2802	California	US	07/12/2020			0	0	0	Unassigned
+2803	California	US	07/13/2020			0	0	0	Unassigned
+2809	California	US	07/14/2020			0	0	0	Unassigned
+2810	California	US	07/15/2020			0	0	0	Unassigned
+2812	California	US	07/16/2020			0	0	0	Unassigned
+2812	California	US	07/17/2020			0	0	0	Unassigned
+2885	California	US	07/18/2020			0	0	0	Unassigned
+2885	California	US	07/19/2020			0	0	0	Unassigned
+2809	California	US	07/20/2020			0	0	0	Unassigned
+2889	California	US	07/21/2020			0	0	0	Unassigned
+2890	California	US	07/22/2020			0	0	0	Unassigned
+2893	California	US	07/23/2020			0	0	0	Unassigned
+2892	California	US	07/24/2020			0	0	0	Unassigned
+2893	California	US	07/25/2020			0	0	0	Unassigned
+2894	California	US	07/26/2020			0	0	0	Unassigned
+2894	California	US	07/27/2020			0	0	0	Unassigned
+2894	California	US	07/28/2020			0	0	0	Unassigned
+2898	California	US	07/29/2020			0	0	0	Unassigned
+2898	California	US	07/30/2020			0	0	0	Unassigned
+2900	California	US	07/31/2020			0	0	0	Unassigned
+2900	California	US	08/01/2020			0	0	0	Unassigned
+2900	California	US	08/02/2020			0	0	0	Unassigned
+2900	California	US	08/03/2020			0	0	0	Unassigned
+2901	California	US	08/04/2020			0	0	0	Unassigned
+2905	California	US	08/05/2020			0	0	0	Unassigned
+2905	California	US	08/06/2020			0	0	0	Unassigned
+2905	California	US	08/07/2020			0	0	0	Unassigned
+2905	California	US	08/08/2020			0	0	0	Unassigned
+2905	California	US	08/09/2020			0	0	0	Unassigned
+2905	California	US	08/10/2020			0	0	0	Unassigned
+921	California	US	08/11/2020			0	0	0	Unassigned
+875	California	US	08/12/2020			0	0	0	Unassigned
+875	California	US	08/13/2020			0	0	0	Unassigned
+875	California	US	08/14/2020			0	0	0	Unassigned
+875	California	US	08/15/2020			0	0	0	Unassigned
+875	California	US	08/16/2020			0	0	0	Unassigned
+875	California	US	08/17/2020			0	0	0	Unassigned
+875	California	US	08/18/2020			0	0	0	Unassigned
+875	California	US	08/19/2020			0	0	0	Unassigned
+875	California	US	08/20/2020			0	0	0	Unassigned
+875	California	US	08/21/2020			0	0	0	Unassigned
+875	California	US	08/22/2020			0	0	0	Unassigned
+875	California	US	08/23/2020			0	0	0	Unassigned
+875	California	US	08/24/2020			0	0	0	Unassigned
+875	California	US	08/25/2020			0	0	0	Unassigned
+875	California	US	08/26/2020			0	0	0	Unassigned
+875	California	US	08/27/2020			0	0	0	Unassigned
+875	California	US	08/28/2020			0	0	0	Unassigned
+875	California	US	08/29/2020			0	0	0	Unassigned
+875	California	US	08/30/2020			0	0	0	Unassigned
+875	California	US	08/31/2020			0	0	0	Unassigned
+875	California	US	09/01/2020			0	0	0	Unassigned
+875	California	US	09/02/2020			0	0	0	Unassigned
+875	California	US	09/03/2020			0	0	0	Unassigned
+875	California	US	09/04/2020			0	0	0	Unassigned
+875	California	US	09/05/2020			0	0	0	Unassigned
+875	California	US	09/06/2020			0	0	0	Unassigned
+875	California	US	09/07/2020			0	0	0	Unassigned
+875	California	US	09/08/2020			0	0	0	Unassigned
+875	California	US	09/09/2020			0	0	0	Unassigned
+875	California	US	09/10/2020			0	0	0	Unassigned
+875	California	US	09/11/2020			0	0	0	Unassigned
+875	California	US	09/12/2020			0	0	0	Unassigned
+875	California	US	09/13/2020			0	0	0	Unassigned
+875	California	US	09/14/2020			0	0	0	Unassigned
+875	California	US	09/15/2020			0	0	0	Unassigned
+875	California	US	09/16/2020			0	0	0	Unassigned
+875	California	US	09/17/2020			0	0	0	Unassigned
+875	California	US	09/18/2020			0	0	0	Unassigned
+875	California	US	09/19/2020			0	0	0	Unassigned
+875	California	US	09/20/2020			0	0	0	Unassigned
+876	California	US	09/21/2020			0	0	0	Unassigned
+876	California	US	09/22/2020			0	0	0	Unassigned
+876	California	US	09/23/2020			0	0	0	Unassigned
+876	California	US	09/24/2020			0	0	0	Unassigned
+876	California	US	09/25/2020			0	0	0	Unassigned
+876	California	US	09/26/2020			0	0	0	Unassigned
+876	California	US	09/27/2020			0	0	0	Unassigned
+876	California	US	09/28/2020			0	0	0	Unassigned
+876	California	US	09/29/2020			0	0	0	Unassigned
+876	California	US	09/30/2020			0	0	0	Unassigned
+876	California	US	10/01/2020			0	0	0	Unassigned
+876	California	US	10/02/2020			0	0	0	Unassigned
+876	California	US	10/03/2020			0	0	0	Unassigned
+876	California	US	10/04/2020			0	0	0	Unassigned
+876	California	US	10/05/2020			0	0	0	Unassigned
+876	California	US	10/06/2020			0	0	0	Unassigned
+876	California	US	10/07/2020			0	0	0	Unassigned
+876	California	US	10/08/2020			0	0	0	Unassigned
+876	California	US	10/09/2020			0	0	0	Unassigned
+876	California	US	10/10/2020			0	0	0	Unassigned
+876	California	US	10/11/2020			0	0	0	Unassigned
+877	California	US	10/12/2020			0	0	0	Unassigned
+877	California	US	10/13/2020			0	0	0	Unassigned
+877	California	US	10/14/2020			0	0	0	Unassigned
+877	California	US	10/15/2020			0	0	0	Unassigned
+878	California	US	10/16/2020			0	0	0	Unassigned
+878	California	US	10/17/2020			0	0	0	Unassigned
+878	California	US	10/18/2020			0	0	0	Unassigned
+879	California	US	10/19/2020			0	0	0	Unassigned
+879	California	US	10/20/2020			0	0	0	Unassigned
+879	California	US	10/21/2020			0	0	0	Unassigned
+879	California	US	10/22/2020			0	0	0	Unassigned
+879	California	US	10/23/2020			0	0	0	Unassigned
+879	California	US	10/24/2020			0	0	0	Unassigned
+879	California	US	10/25/2020			0	0	0	Unassigned
+879	California	US	10/26/2020			0	0	0	Unassigned
+879	California	US	10/27/2020			0	0	0	Unassigned
+880	California	US	10/28/2020			0	0.0	0	Unassigned
+880	California	US	10/29/2020			0	0	0	Unassigned
+880	California	US	10/30/2020			0	0	0	Unassigned
+880	California	US	10/31/2020			0	0	0	Unassigned
+880	California	US	11/01/2020			0	0	0	Unassigned
+880	California	US	11/02/2020			0	0	0	Unassigned
+881	California	US	11/03/2020			0	0	0	Unassigned
+881	California	US	11/04/2020			0	0	0	Unassigned
+881	California	US	11/05/2020			0	0	0	Unassigned
+881	California	US	11/06/2020			0	0	0	Unassigned
+881	California	US	11/07/2020			0	0	0	Unassigned
+881	California	US	11/08/2020			0	0	0	Unassigned
+881	California	US	11/09/2020			0	0	0.0	Unassigned
+881	California	US	11/10/2020			0	0	0.0	Unassigned
+881	California	US	11/11/2020			0	0	0.0	Unassigned
+893	California	US	11/12/2020			0	0	0	Unassigned
+893	California	US	11/13/2020			0	0	0	Unassigned
+893	California	US	11/14/2020			0	0	0	Unassigned
+893	California	US	11/15/2020			0	0	0	Unassigned
+893	California	US	11/16/2020			0	0	0	Unassigned
+893	California	US	11/17/2020			0	0	0	Unassigned
+893	California	US	11/18/2020			0	0	0	Unassigned
+893	California	US	11/19/2020			0	0	0	Unassigned
+893	California	US	11/20/2020			0	0	0	Unassigned
+893	California	US	11/21/2020			0	0	0	Unassigned
+893	California	US	11/22/2020			0	0	0	Unassigned
+893	California	US	11/23/2020			0	0	0	Unassigned
+894	California	US	11/24/2020			0	0	0	Unassigned
+894	California	US	11/25/2020			0	0	0	Unassigned
+894	California	US	11/26/2020			0	0	0	Unassigned
+894	California	US	11/27/2020			0	0	0	Unassigned
+894	California	US	11/28/2020			0	0	0	Unassigned
+894	California	US	11/29/2020			0	0	0	Unassigned
+894	California	US	11/30/2020			0	0	0	Unassigned
+894	California	US	12/01/2020			0	0	0	Unassigned
+894	California	US	12/02/2020			0	0	0	Unassigned
+894	California	US	12/03/2020			0	0	0	Unassigned
+894	California	US	12/04/2020			0	0	0	Unassigned
+894	California	US	12/05/2020			0	0	0	Unassigned
+894	California	US	12/06/2020			0	0	0	Unassigned
+894	California	US	12/07/2020			0	0	0	Unassigned
+894	California	US	12/08/2020			0	0	0	Unassigned
+894	California	US	12/09/2020			0	0	0	Unassigned
+894	California	US	12/10/2020			0	0	0	Unassigned
+894	California	US	12/11/2020			0	0	0	Unassigned
+894	California	US	12/12/2020			0	0	0	Unassigned
+894	California	US	12/13/2020			0	0	0	Unassigned
+894	California	US	12/14/2020			0	0	0	Unassigned
+894	California	US	12/15/2020			0	0	0	Unassigned
+894	California	US	12/16/2020			0	0	0	Unassigned
+894	California	US	12/17/2020			0	0	0	Unassigned
+894	California	US	12/18/2020			0	0	0	Unassigned
+894	California	US	12/19/2020			0	0	0	Unassigned
+894	California	US	12/20/2020			0	0	0	Unassigned
+894	California	US	12/21/2020			0	0	0	Unassigned
+894	California	US	12/22/2020			0	0	0	Unassigned
+894	California	US	12/23/2020			0	0	0	Unassigned
+894	California	US	12/24/2020			0	0	0	Unassigned
+894	California	US	12/25/2020			0	0	0	Unassigned
+894	California	US	12/26/2020			0	0	0	Unassigned
+894	California	US	12/27/2020			0	0	0	Unassigned
+894	California	US	12/28/2020			0	0	0	Unassigned
+894	California	US	12/29/2020			0	0	0	Unassigned
+894	California	US	12/30/2020			0	0	0	Unassigned
+894	California	US	12/31/2020			0	0	0	Unassigned
+894	California	US	01/01/2021			0	0	0	Unassigned
+894	California	US	01/02/2021			0	0	0	Unassigned
+895	California	US	01/03/2021			0	0	0	Unassigned
+895	California	US	01/04/2021			0	0	0	Unassigned
+895	California	US	01/05/2021			0	0	0	Unassigned
+895	California	US	01/06/2021			0	0	0	Unassigned
+895	California	US	01/07/2021			0	0	0	Unassigned
+895	California	US	01/08/2021			0	0	0	Unassigned
+895	California	US	01/09/2021			0	0	0	Unassigned
+895	California	US	01/10/2021			0	0	0	Unassigned
+895	California	US	01/11/2021			0	0	0	Unassigned
+895	California	US	01/12/2021			0	0	0	Unassigned
+895	California	US	01/13/2021			0	0	0	Unassigned
+895	California	US	01/14/2021			0	0	0	Unassigned
+895	California	US	01/15/2021			0	0	0	Unassigned
+895	California	US	01/16/2021			0	0	0	Unassigned
+895	California	US	01/17/2021			0	0	0	Unassigned
+895	California	US	01/18/2021			0	0	0	Unassigned
+895	California	US	01/19/2021			0	0	0	Unassigned
+895	California	US	01/20/2021			0	0	0	Unassigned
+896	California	US	01/21/2021			0	0	0	Unassigned
+896	California	US	01/22/2021			0	0	0	Unassigned
+896	California	US	01/23/2021			0	0	0	Unassigned
+896	California	US	01/24/2021			0	0	0	Unassigned
+896	California	US	01/25/2021			0	0	0	Unassigned
+896	California	US	01/26/2021			0	0	0	Unassigned
+896	California	US	01/27/2021			0	0	0	Unassigned
+896	California	US	01/28/2021			0	0	0	Unassigned
+896	California	US	01/29/2021			0	0	0	Unassigned
+896	California	US	01/30/2021			0	0	0	Unassigned
+896	California	US	01/31/2021			0	0	0	Unassigned
+896	California	US	02/01/2021			0	0	0	Unassigned
+896	California	US	02/02/2021			0	0	0	Unassigned
+896	California	US	02/03/2021			0	0	0	Unassigned
+896	California	US	02/04/2021			0	0	0	Unassigned
+896	California	US	02/05/2021			0	0	0	Unassigned
+896	California	US	02/06/2021			0	0	0	Unassigned
+896	California	US	02/07/2021			0	0	0	Unassigned
+896	California	US	02/08/2021			0	0	0	Unassigned
+896	California	US	02/09/2021			0	0	0	Unassigned
+896	California	US	02/10/2021			0	0	0	Unassigned
+896	California	US	02/11/2021			0	0	0	Unassigned
+896	California	US	02/12/2021			0	0	0	Unassigned
+896	California	US	02/13/2021			0	0	0	Unassigned
+896	California	US	02/14/2021			0	0	0	Unassigned
+896	California	US	02/15/2021			0	0	0	Unassigned
+896	California	US	02/16/2021			0	0	0	Unassigned
+896	California	US	02/17/2021			0	0	0	Unassigned
+896	California	US	02/18/2021			0	0	0	Unassigned
+897	California	US	02/19/2021			0	0	0	Unassigned
+897	California	US	02/20/2021			0	0	0	Unassigned
+897	California	US	02/21/2021			0	0	0	Unassigned
+897	California	US	02/22/2021			0	0	0	Unassigned
+897	California	US	02/23/2021			0	0	0	Unassigned
+897	California	US	02/24/2021			0	0	0	Unassigned
+897	California	US	02/25/2021			0	0	0	Unassigned
+897	California	US	02/26/2021			0	0	0	Unassigned
+897	California	US	02/27/2021			0	0	0	Unassigned
+897	California	US	02/28/2021			0	0	0	Unassigned
+897	California	US	03/01/2021			0	0	0	Unassigned
+897	California	US	03/02/2021			0	0	0	Unassigned
+897	California	US	03/03/2021			0	0	0	Unassigned
+897	California	US	03/04/2021			0	0	0	Unassigned
+897	California	US	03/05/2021			0	0	0	Unassigned
+897	California	US	03/06/2021			0	0	0	Unassigned
+897	California	US	03/07/2021			0	0		Unassigned
+897	California	US	03/08/2021			0	0		Unassigned
+897	California	US	03/09/2021			0	0		Unassigned
+897	California	US	03/10/2021			0	0		Unassigned
+897	California	US	03/11/2021			0	0		Unassigned
+897	California	US	03/12/2021			0	0		Unassigned
+897	California	US	03/13/2021			0	0		Unassigned
+897	California	US	03/14/2021			0	0		Unassigned
+897	California	US	03/15/2021			0	0		Unassigned
+897	California	US	03/16/2021			0	0		Unassigned
+897	California	US	03/17/2021			0	0		Unassigned
+897	California	US	03/18/2021			0	0		Unassigned
+897	California	US	03/19/2021			0	0		Unassigned
+897	California	US	03/20/2021			0	0		Unassigned
+897	California	US	03/21/2021			0	0		Unassigned
+897	California	US	03/22/2021			0	0		Unassigned
+897	California	US	03/23/2021			0	0		Unassigned
+897	California	US	03/24/2021			0	0		Unassigned
+897	California	US	03/25/2021			0	0		Unassigned
+897	California	US	03/26/2021			0	0		Unassigned
+897	California	US	03/27/2021			0	0		Unassigned
+897	California	US	03/28/2021			0	0		Unassigned
+897	California	US	03/29/2021			0	0		Unassigned
+897	California	US	03/30/2021			0	0		Unassigned
+897	California	US	03/31/2021			0	0		Unassigned
+897	California	US	04/01/2021			0	0		Unassigned
+899	California	US	04/02/2021			0	0		Unassigned
+899	California	US	04/03/2021			0	0		Unassigned
+899	California	US	04/04/2021			0	0		Unassigned
+899	California	US	04/05/2021			0	0		Unassigned
+899	California	US	04/06/2021			0	0		Unassigned
+899	California	US	04/07/2021			59	0		Unassigned
+899	California	US	04/08/2021			39	0		Unassigned
+899	California	US	04/09/2021			59	1		Unassigned
+899	California	US	04/10/2021			57	0		Unassigned
+899	California	US	04/11/2021			93	0		Unassigned
+899	California	US	04/12/2021			65	0		Unassigned
+899	California	US	04/13/2021			50	0		Unassigned
+899	California	US	04/14/2021			66	0		Unassigned
+899	California	US	04/15/2021			50	0		Unassigned
+899	California	US	04/16/2021			61	0		Unassigned
+899	California	US	04/17/2021			33	0		Unassigned
+899	California	US	04/18/2021			61	0		Unassigned
+899	California	US	04/19/2021			51	0		Unassigned
+899	California	US	04/20/2021			44	0		Unassigned
+899	California	US	04/21/2021			47	0		Unassigned
+899	California	US	04/22/2021			68	0		Unassigned
+899	California	US	04/23/2021			92	0		Unassigned
+899	California	US	04/24/2021			61	0		Unassigned
+899	California	US	04/25/2021			60	0		Unassigned
+899	California	US	04/26/2021			84	0		Unassigned
+899	California	US	04/27/2021			34	0		Unassigned
+899	California	US	04/28/2021			53	0		Unassigned
+899	California	US	04/29/2021			38	0		Unassigned
+899	California	US	04/30/2021			47	0		Unassigned
+899	California	US	05/01/2021			50	0		Unassigned
+899	California	US	05/02/2021			44	0		Unassigned
+899	California	US	05/03/2021			37	0		Unassigned
+899	California	US	05/04/2021			35	0		Unassigned
+899	California	US	05/05/2021			44	0		Unassigned
+899	California	US	05/06/2021			45	0		Unassigned
+899	California	US	05/07/2021			32	0		Unassigned
+899	California	US	05/08/2021			33	0		Unassigned
+899	California	US	05/09/2021			39	0		Unassigned
+899	California	US	05/10/2021			39	0		Unassigned
+899	California	US	05/11/2021			35	0		Unassigned
+899	California	US	05/12/2021			37	0		Unassigned
+899	California	US	05/13/2021			52	0		Unassigned
+899	California	US	05/14/2021			48	0		Unassigned
+899	California	US	05/15/2021			45	0		Unassigned
+899	California	US	05/16/2021			46	0		Unassigned
+899	California	US	05/17/2021			36	0		Unassigned
+899	California	US	05/18/2021			26	0		Unassigned
+899	California	US	05/19/2021			29	0		Unassigned
+899	California	US	05/20/2021			39	0		Unassigned
+899	California	US	05/21/2021			58	0		Unassigned
+899	California	US	05/22/2021			29	0		Unassigned
+899	California	US	05/23/2021			39	0		Unassigned
+899	California	US	05/24/2021			42	0		Unassigned
+899	California	US	05/25/2021			47	0		Unassigned
+899	California	US	05/26/2021			30	0		Unassigned
+900	California	US	05/27/2021			37	0		Unassigned
+900	California	US	05/28/2021			39	0		Unassigned
+900	California	US	05/29/2021			35	0		Unassigned
+900	California	US	05/30/2021			37	0		Unassigned
+900	California	US	05/31/2021			28	0		Unassigned
+900	California	US	06/01/2021			33	0		Unassigned
+900	California	US	06/02/2021			34	0		Unassigned
+900	California	US	06/03/2021			29	0		Unassigned
+900	California	US	06/04/2021			39	0		Unassigned
+900	California	US	06/05/2021			36	0		Unassigned
+900	California	US	06/06/2021			32	0		Unassigned
+900	California	US	06/07/2021			37	0		Unassigned
+900	California	US	06/08/2021			50	0		Unassigned
+900	California	US	06/09/2021			38	0		Unassigned
+900	California	US	06/10/2021			28	0		Unassigned
+900	California	US	06/11/2021			31	0		Unassigned
+900	California	US	06/12/2021			39	0		Unassigned
+900	California	US	06/13/2021			33	0		Unassigned
+900	California	US	06/14/2021			37	0		Unassigned
+900	California	US	06/15/2021			35	0		Unassigned
+900	California	US	06/16/2021			33	0		Unassigned
+902	California	US	06/17/2021			34	0		Unassigned
+902	California	US	06/18/2021			40	0		Unassigned
+902	California	US	06/19/2021			35	0		Unassigned
+902	California	US	06/20/2021			33	0		Unassigned
+902	California	US	06/21/2021			28	0		Unassigned
+902	California	US	06/22/2021			32	0		Unassigned
+902	California	US	06/23/2021			34	0		Unassigned
+903	California	US	06/24/2021			33	0		Unassigned
+903	California	US	06/25/2021			40	0		Unassigned
+903	California	US	06/26/2021			38	0		Unassigned
+903	California	US	06/27/2021			38	0		Unassigned
+903	California	US	06/28/2021			35	0		Unassigned
+903	California	US	06/29/2021			28	0		Unassigned
+903	California	US	06/30/2021			35	0		Unassigned
+903	California	US	07/01/2021			23	0		Unassigned
+903	California	US	07/02/2021			21	0		Unassigned
+903	California	US	07/03/2021			21	0		Unassigned
+903	California	US	07/04/2021			21	0		Unassigned
+903	California	US	07/05/2021			21	0		Unassigned
+903	California	US	07/06/2021			35	0		Unassigned
+903	California	US	07/07/2021			37	0		Unassigned
+903	California	US	07/08/2021			12	0		Unassigned
+903	California	US	07/09/2021			21	0		Unassigned
+903	California	US	07/10/2021			21	0		Unassigned
+903	California	US	07/11/2021			21	0		Unassigned
+903	California	US	07/12/2021			52	0		Unassigned
+903	California	US	07/13/2021			59	0		Unassigned
+903	California	US	07/14/2021			26	0		Unassigned
+903	California	US	07/15/2021			18	0		Unassigned
+903	California	US	07/16/2021			40	0		Unassigned
+903	California	US	07/17/2021			40	0		Unassigned
+903	California	US	07/18/2021			40	0		Unassigned
+903	California	US	07/19/2021			58	0		Unassigned
+903	California	US	07/20/2021			70	0		Unassigned
+903	California	US	07/21/2021			25	0		Unassigned
+903	California	US	07/22/2021			36	0		Unassigned
+903	California	US	07/23/2021			44	0		Unassigned
+903	California	US	07/24/2021			44	0		Unassigned
+903	California	US	07/25/2021			44	0		Unassigned
+903	California	US	07/26/2021			81	0		Unassigned
+903	California	US	07/27/2021			102	0		Unassigned
+903	California	US	07/28/2021			53	0		Unassigned
+903	California	US	07/29/2021			51	0		Unassigned
+903	California	US	07/30/2021			66	0		Unassigned
+903	California	US	07/31/2021			66	0		Unassigned
+903	California	US	08/01/2021			66	0		Unassigned
+903	California	US	08/02/2021			101	0		Unassigned
+903	California	US	08/03/2021			134	0		Unassigned
+903	California	US	08/04/2021			81	0		Unassigned
+903	California	US	08/05/2021			117	0		Unassigned
+903	California	US	08/06/2021			128	0		Unassigned
+903	California	US	08/07/2021			161	0		Unassigned
+903	California	US	08/08/2021			79	0		Unassigned
+903	California	US	08/09/2021			172	0		Unassigned
+903	California	US	08/10/2021			210	0		Unassigned
+903	California	US	08/11/2021			80	0		Unassigned
+903	California	US	08/12/2021			84	0		Unassigned
+903	California	US	08/13/2021			175	0		Unassigned
+903	California	US	08/14/2021			107	0		Unassigned
+903	California	US	08/15/2021			84	0		Unassigned
+903	California	US	08/16/2021			132	0		Unassigned
+903	California	US	08/17/2021			181	0		Unassigned
+903	California	US	08/18/2021			73	0		Unassigned
+903	California	US	08/19/2021			83	0		Unassigned
+903	California	US	08/20/2021			111	0		Unassigned
+903	California	US	08/21/2021			56	0		Unassigned
+903	California	US	08/22/2021			91	0		Unassigned
+903	California	US	08/23/2021			145	0		Unassigned
+903	California	US	08/24/2021			197	0		Unassigned
+903	California	US	08/25/2021			258	0		Unassigned
+903	California	US	08/26/2021			242	0		Unassigned
+903	California	US	08/27/2021			127	0		Unassigned
+903	California	US	08/28/2021			114	0		Unassigned
+903	California	US	08/29/2021			212	0		Unassigned
+903	California	US	08/30/2021			276	0		Unassigned
+903	California	US	08/31/2021			346	0		Unassigned
+903	California	US	09/01/2021			223	0		Unassigned
+903	California	US	09/02/2021			112	0		Unassigned
+903	California	US	09/03/2021			97	0		Unassigned
+903	California	US	09/04/2021			102	0		Unassigned
+903	California	US	09/05/2021			91	0		Unassigned
+903	California	US	09/06/2021			130	0		Unassigned
+903	California	US	09/07/2021			173	0		Unassigned
+903	California	US	09/08/2021			203	0		Unassigned
+903	California	US	09/09/2021			109	0		Unassigned
+903	California	US	09/10/2021			66	0		Unassigned
+903	California	US	09/11/2021			98	0		Unassigned
+903	California	US	09/12/2021			99	0		Unassigned
+903	California	US	09/13/2021			151	0		Unassigned
+903	California	US	09/14/2021			202	0		Unassigned
+903	California	US	09/15/2021			103	0		Unassigned
+904	California	US	09/16/2021			90	0		Unassigned
+904	California	US	09/17/2021			117	0		Unassigned
+904	California	US	09/18/2021			101	0		Unassigned
+904	California	US	09/19/2021			118	0		Unassigned
+904	California	US	09/20/2021			165	0		Unassigned
+904	California	US	09/21/2021			212	0		Unassigned
+904	California	US	09/22/2021			114	0		Unassigned
+921	California	US	09/23/2021			88	0		Unassigned
+921	California	US	09/24/2021			137	0		Unassigned
+921	California	US	09/25/2021			137	0		Unassigned
+921	California	US	09/26/2021			137	0		Unassigned
+921	California	US	09/27/2021			143	0		Unassigned
+921	California	US	09/28/2021			165	0		Unassigned
+921	California	US	09/29/2021			95	0		Unassigned
+921	California	US	09/30/2021			124	0		Unassigned
+921	California	US	10/01/2021			116	0		Unassigned
+921	California	US	10/02/2021			116	0		Unassigned
+921	California	US	10/03/2021			116	0		Unassigned
+921	California	US	10/04/2021			152	0		Unassigned
+921	California	US	10/05/2021			193	0		Unassigned
+922	California	US	10/06/2021			108	0		Unassigned
+922	California	US	10/07/2021			110	0		Unassigned
+922	California	US	10/08/2021			133	0		Unassigned
+922	California	US	10/09/2021			133	0		Unassigned
+922	California	US	10/10/2021			133	0		Unassigned
+922	California	US	10/11/2021			153	0		Unassigned
+922	California	US	10/12/2021			194	0		Unassigned
+922	California	US	10/13/2021			102	0		Unassigned
+922	California	US	10/14/2021			148	0		Unassigned
+922	California	US	10/15/2021			186	0		Unassigned
+922	California	US	10/16/2021			186	0		Unassigned
+922	California	US	10/17/2021			186	0		Unassigned
+922	California	US	10/18/2021			182	0		Unassigned
+922	California	US	10/19/2021			212	0		Unassigned
+922	California	US	10/20/2021			226	0		Unassigned
+922	California	US	10/21/2021			182	0		Unassigned
+922	California	US	10/22/2021			146	0		Unassigned
+922	California	US	10/23/2021			146	0		Unassigned
+922	California	US	10/24/2021			146	0		Unassigned
+922	California	US	10/25/2021			146	0		Unassigned
+922	California	US	10/26/2021			250	0		Unassigned
+922	California	US	10/27/2021			175	0		Unassigned
+922	California	US	10/28/2021			222	0		Unassigned
+922	California	US	10/29/2021			316	0		Unassigned
+922	California	US	10/30/2021			316	0		Unassigned
+922	California	US	10/31/2021			316	0		Unassigned
+923	California	US	11/01/2021			490	0		Unassigned
+923	California	US	11/02/2021			584	0		Unassigned
+923	California	US	11/03/2021			164	0		Unassigned
+923	California	US	11/04/2021			140	0		Unassigned
+923	California	US	11/05/2021			195	0		Unassigned
+923	California	US	11/06/2021			195	0		Unassigned
+923	California	US	11/07/2021			195	0		Unassigned
+923	California	US	11/08/2021			299	0		Unassigned
+923	California	US	11/09/2021			357	0		Unassigned
+923	California	US	11/10/2021			98	0		Unassigned
+923	California	US	11/11/2021			127	0		Unassigned
+923	California	US	11/12/2021			127	0		Unassigned
+923	California	US	11/13/2021			284	0		Unassigned
+923	California	US	11/14/2021			284	0		Unassigned
+923	California	US	11/15/2021			261	0		Unassigned
+923	California	US	11/16/2021			335	0		Unassigned
+923	California	US	11/17/2021			113	0		Unassigned
+923	California	US	11/18/2021			146	0		Unassigned
+923	California	US	11/19/2021			163	1		Unassigned
+923	California	US	11/20/2021			163	1		Unassigned
+923	California	US	11/21/2021			163	1		Unassigned
+923	California	US	11/22/2021			260	0		Unassigned
+923	California	US	11/23/2021			339	0		Unassigned
+923	California	US	11/24/2021			243	0		Unassigned
+923	California	US	11/25/2021			243	0		Unassigned
+923	California	US	11/26/2021			243	0		Unassigned
+923	California	US	11/27/2021			243	0		Unassigned
+923	California	US	11/28/2021			243	0		Unassigned
+923	California	US	11/29/2021			270	0		Unassigned
+923	California	US	11/30/2021			322	0		Unassigned
+923	California	US	12/01/2021			81	0		Unassigned
+923	California	US	12/02/2021			136	0		Unassigned
+923	California	US	12/03/2021			156	0		Unassigned
+923	California	US	12/04/2021			156	0		Unassigned
+923	California	US	12/05/2021			156	0		Unassigned
+923	California	US	12/06/2021			382	0		Unassigned
+923	California	US	12/07/2021			382	0		Unassigned
+923	California	US	12/08/2021			84	0		Unassigned
+923	California	US	12/09/2021			81	0		Unassigned
+923	California	US	12/10/2021			146	0		Unassigned
+923	California	US	12/11/2021			146	0		Unassigned
+923	California	US	12/12/2021			146	0		Unassigned
+923	California	US	12/13/2021			236	0		Unassigned
+923	California	US	12/14/2021			315	0		Unassigned
+923	California	US	12/15/2021			295	0		Unassigned
+923	California	US	12/16/2021			310	0		Unassigned
+923	California	US	12/17/2021			330	0		Unassigned
+923	California	US	12/18/2021			330	0		Unassigned
+923	California	US	12/19/2021			330	0		Unassigned
+923	California	US	12/20/2021			476	0		Unassigned
+923	California	US	12/21/2021			534	0		Unassigned

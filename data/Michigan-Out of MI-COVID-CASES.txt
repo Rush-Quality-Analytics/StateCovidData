@@ -1,508 +1,640 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2178	Out of MI	4	US	0	0.0	0.0	Michigan	0	03/23/2020
-2178	Out of MI	6	US	0	0.0	0.0	Michigan	0	03/24/2020
-2178	Out of MI	7	US	0	0.0	0.0	Michigan	0	03/25/2020
-2177	Out of MI	7	US	0	0.0	0.0	Michigan	0	03/26/2020
-2177	Out of MI	8	US	0	0.0	0.0	Michigan	0	03/27/2020
-2177	Out of MI	15	US	0	0.0	0.0	Michigan	0	03/28/2020
-2177	Out of MI	18	US	0	0.0	0.0	Michigan	0	03/29/2020
-2177	Out of MI	17	US	0	0.0	0.0	Michigan	0	03/30/2020
-1479	Out of MI	20	US	0	0.0	0.0	Michigan	0	03/31/2020
-1518	Out of MI	42	US	1	0.0	0.0	Michigan	0	04/01/2020
-1578	Out of MI	48	US	1			Michigan	0	04/02/2020
-1612	Out of MI	74	US	1			Michigan	0	04/03/2020
-1652	Out of MI	83	US	1			Michigan	0	04/04/2020
-1706	Out of MI	83	US	1			Michigan	0	04/05/2020
-1732	Out of MI	91	US	1			Michigan	0	04/06/2020
-1770	Out of MI	118	US	1			Michigan	0	04/07/2020
-1786	Out of MI	126	US	1			Michigan	0	04/08/2020
-1806	Out of MI	131	US	1			Michigan	0	04/09/2020
-1820	Out of MI	137	US	1			Michigan	0	04/10/2020
-1838	Out of MI	140	US	1			Michigan	0	04/11/2020
-1850	Out of MI	144	US	1			Michigan	0	04/12/2020
-1864	Out of MI	148	US	1			Michigan	0	04/13/2020
-1871	Out of MI	157	US	2			Michigan	0	04/14/2020
-1881	Out of MI	166	US	2			Michigan	0	04/15/2020
-1890	Out of MI	166	US	2			Michigan	0	04/16/2020
-1892	Out of MI	71	US	2			Michigan	0	04/17/2020
-1898	Out of MI	74	US	2			Michigan	0	04/18/2020
-1909	Out of MI	76	US	2			Michigan	0	04/19/2020
-1916	Out of MI	69	US	2			Michigan	0	04/20/2020
-1924	Out of MI	69	US	2			Michigan	0	04/21/2020
-1931	Out of MI	37	US	1			Michigan	0	04/22/2020
-1943	Out of MI	39	US	0			Michigan	0	04/23/2020
-1948	Out of MI	14	US	1			Michigan	0	04/24/2020
-1952	Out of MI	19	US	1			Michigan	0	04/25/2020
-1958	Out of MI	27	US	1			Michigan	0	04/26/2020
-1961	Out of MI	20	US	1			Michigan	0	04/27/2020
-1968	Out of MI	28	US	1			Michigan	0	04/28/2020
-1971	Out of MI	39	US	0			Michigan	0	04/29/2020
-1977	Out of MI	32	US	1			Michigan	0	04/30/2020
-1986	Out of MI	8	US	0			Michigan	0	05/01/2020
-1990	Out of MI	16	US	0			Michigan	0	05/02/2020
-1993	Out of MI	18	US	0			Michigan	0	05/03/2020
-1995	Out of MI	22	US	0			Michigan	0	05/04/2020
-2001	Out of MI	64	US	0			Michigan	0	05/05/2020
-2006	Out of MI	64	US	0			Michigan	0	05/06/2020
-2010	Out of MI	64	US	0			Michigan	0	05/07/2020
-2015	Out of MI	7	US	0			Michigan	0	05/08/2020
-2016	Out of MI	21	US	0			Michigan	0	05/09/2020
-2017	Out of MI	22	US	0			Michigan	0	05/10/2020
-2017	Out of MI	26	US	0			Michigan	0	05/11/2020
-2020	Out of MI	75	US	0			Michigan	0	05/12/2020
-2020	Out of MI	84	US	0			Michigan	0	05/13/2020
-2021	Out of MI	93	US	0			Michigan	0	05/14/2020
-2025	Out of MI	97	US	0			Michigan	0	05/15/2020
-2029	Out of MI	97	US	0			Michigan	0	05/16/2020
-2031	Out of MI	88	US	0			Michigan	0	05/17/2020
-2033	Out of MI	62	US	0			Michigan	0	05/18/2020
-2035	Out of MI	13	US	0			Michigan	0	05/19/2020
-2041	Out of MI	21	US	0			Michigan	0	05/20/2020
-2042	Out of MI	42	US	0			Michigan	0	05/21/2020
-2046	Out of MI	48	US	0			Michigan	0	05/22/2020
-2048	Out of MI	61	US	0			Michigan	0	05/23/2020
-2051	Out of MI	63	US	0			Michigan	0	05/24/2020
-2051	Out of MI	65	US	0			Michigan	0	05/25/2020
-2052	Out of MI	64	US	0			Michigan	0	05/26/2020
-2054	Out of MI	64	US	0			Michigan	0	05/27/2020
-2056	Out of MI	70	US	0			Michigan	0	05/28/2020
-2059	Out of MI	32	US	0			Michigan	0	05/29/2020
-2061	Out of MI	36	US	0			Michigan	0	05/30/2020
-2062	Out of MI	42	US	0			Michigan	0	05/31/2020
-2064	Out of MI	42	US	0			Michigan	0	06/01/2020
-2068	Out of MI	42	US	0			Michigan	0	06/02/2020
-2069	Out of MI	45	US	0			Michigan	0	06/03/2020
-2070	Out of MI	30	US	0			Michigan	0	06/04/2020
-2072	Out of MI	33	US	0			Michigan	0	06/05/2020
-2073	Out of MI	33	US	0			Michigan	0	06/06/2020
-2073	Out of MI	33	US	0			Michigan	0	06/07/2020
-2073	Out of MI	33	US	0			Michigan	0	06/08/2020
-2074	Out of MI	42	US	0			Michigan	0	06/09/2020
-2076	Out of MI	23	US	0			Michigan	0	06/10/2020
-2077	Out of MI	30	US	0			Michigan	0	06/11/2020
-2087	Out of MI	36	US	0			Michigan	0	06/12/2020
-2089	Out of MI	44	US	0			Michigan	0	06/13/2020
-2089	Out of MI	47	US	0			Michigan	0	06/14/2020
-2092	Out of MI	34	US	0			Michigan	0	06/15/2020
-2090	Out of MI	35	US	0			Michigan	0	06/16/2020
-2092	Out of MI	40	US	0			Michigan	0	06/17/2020
-2092	Out of MI	41	US	0			Michigan	0	06/18/2020
-2092	Out of MI	41	US	0			Michigan	0	06/19/2020
-2096	Out of MI	51	US	0			Michigan	0	06/20/2020
-2096	Out of MI	53	US	0			Michigan	0	06/21/2020
-2098	Out of MI	59	US	0			Michigan	0	06/22/2020
-2102	Out of MI	64	US	0			Michigan	0	06/23/2020
-2110	Out of MI	65	US	0			Michigan	0	06/24/2020
-2115	Out of MI	70	US	0			Michigan	0	06/25/2020
-2116	Out of MI	81	US	0			Michigan	0	06/26/2020
-2117	Out of MI	90	US	0			Michigan	0	06/27/2020
-2117	Out of MI	96	US	0			Michigan	0	06/28/2020
-2118	Out of MI	99	US	0			Michigan	0	06/29/2020
-2120	Out of MI	104	US	0			Michigan	0	06/30/2020
-2120	Out of MI	38	US	0			Michigan	0	07/01/2020
-2122	Out of MI	45	US	0			Michigan	0	07/02/2020
-2125	Out of MI	64	US	0			Michigan	0	07/03/2020
-2126	Out of MI	75	US	0			Michigan	0	07/04/2020
-2126	Out of MI	91	US	0			Michigan	0	07/05/2020
-2129	Out of MI	100	US	0			Michigan	0	07/06/2020
-2129	Out of MI	127	US	0			Michigan	0	07/07/2020
-2132	Out of MI	134	US	0			Michigan	0	07/08/2020
-2131	Out of MI	39	US	0			Michigan	0	07/09/2020
-2134	Out of MI	41	US	0			Michigan	0	07/10/2020
-2134	Out of MI	59	US	0			Michigan	0	07/11/2020
-2136	Out of MI	69	US	0			Michigan	0	07/12/2020
-2138	Out of MI	79	US	0			Michigan	0	07/13/2020
-2141	Out of MI	52	US	0			Michigan	0	07/14/2020
-2141	Out of MI	56	US	0			Michigan	0	07/15/2020
-2143	Out of MI	84	US	0			Michigan	0	07/16/2020
-2143	Out of MI	59	US	0			Michigan	0	07/17/2020
-2198	Out of MI	88	US	0			Michigan	0	07/18/2020
-2199	Out of MI	107	US	0			Michigan	0	07/19/2020
-2145	Out of MI	119	US	0			Michigan	0	07/20/2020
-2203	Out of MI	81	US	0			Michigan	0	07/21/2020
-2204	Out of MI	40	US	0			Michigan	0	07/22/2020
-2205	Out of MI	53	US	0			Michigan	0	07/23/2020
-2204	Out of MI	69	US	0			Michigan	0	07/24/2020
-2205	Out of MI	105	US	0			Michigan	0	07/25/2020
-2206	Out of MI	75	US	0			Michigan	0	07/26/2020
-2206	Out of MI	93	US	0			Michigan	0	07/27/2020
-2206	Out of MI	153	US	0			Michigan	0	07/28/2020
-2209	Out of MI	194	US	0			Michigan	0	07/29/2020
-2209	Out of MI	97	US	0			Michigan	0	07/30/2020
-2210	Out of MI	66	US	0			Michigan	0	07/31/2020
-2210	Out of MI	84	US	0			Michigan	0	08/01/2020
-2210	Out of MI	94	US	0			Michigan	0	08/02/2020
-2210	Out of MI	117	US	0			Michigan	0	08/03/2020
-2210	Out of MI	116	US	0			Michigan	0	08/04/2020
-2213	Out of MI	81	US	1			Michigan	0	08/05/2020
-2213	Out of MI	75	US	1			Michigan	0	08/06/2020
-2213	Out of MI	79	US	1			Michigan	0	08/07/2020
-2213	Out of MI	79	US	1			Michigan	0	08/08/2020
-2213	Out of MI	84	US	1			Michigan	0	08/09/2020
-2213	Out of MI	89	US	1			Michigan	0	08/10/2020
-2004	Out of MI	90	US	1			Michigan	0	08/11/2020
-1958	Out of MI	102	US	1			Michigan	0	08/12/2020
-1959	Out of MI	119	US	1			Michigan	0	08/13/2020
-1959	Out of MI	118	US	1			Michigan	0	08/14/2020
-1959	Out of MI	129	US	1			Michigan	0	08/15/2020
-1959	Out of MI	127	US	1			Michigan	0	08/16/2020
-1961	Out of MI	128	US	1			Michigan	0	08/17/2020
-1961	Out of MI	128	US	1			Michigan	0	08/18/2020
-1961	Out of MI	97	US	1			Michigan	0	08/19/2020
-1961	Out of MI	92	US	0			Michigan	0	08/20/2020
-1961	Out of MI	92	US	0			Michigan	0	08/21/2020
-1962	Out of MI	93	US	0			Michigan	0	08/22/2020
-1962	Out of MI	96	US	0			Michigan	0	08/23/2020
-1962	Out of MI	106	US	0			Michigan	0	08/24/2020
-1962	Out of MI	111	US	0			Michigan	0	08/25/2020
-1962	Out of MI	93	US	0			Michigan	0	08/26/2020
-1962	Out of MI	103	US	0			Michigan	0	08/27/2020
-1962	Out of MI	101	US	0			Michigan	0	08/28/2020
-1962	Out of MI	101	US	0			Michigan	0	08/29/2020
-1962	Out of MI	113	US	0			Michigan	0	08/30/2020
-1962	Out of MI	113	US	0			Michigan	0	08/31/2020
-1962	Out of MI	120	US	0			Michigan	0	09/01/2020
-1962	Out of MI	115	US	0			Michigan	0	09/02/2020
-1962	Out of MI	121	US	0			Michigan	0	09/03/2020
-1962	Out of MI	139	US	0			Michigan	0	09/04/2020
-1962	Out of MI	145	US	0			Michigan	0	09/05/2020
-1962	Out of MI	145	US	0			Michigan	0	09/06/2020
-1962	Out of MI	163	US	0			Michigan	0	09/07/2020
-1962	Out of MI	173	US	0			Michigan	0	09/08/2020
-1962	Out of MI	173	US	0			Michigan	0	09/09/2020
-1962	Out of MI	185	US	3			Michigan	0	09/10/2020
-1962	Out of MI	208	US	3			Michigan	0	09/11/2020
-1962	Out of MI	227	US	2			Michigan	0	09/12/2020
-1962	Out of MI	227	US	2			Michigan	0	09/13/2020
-1962	Out of MI	224	US	2			Michigan	0	09/14/2020
-1962	Out of MI	238	US	2			Michigan	0	09/15/2020
-1962	Out of MI	211	US	2			Michigan	0	09/16/2020
-1962	Out of MI	194	US	2			Michigan	0	09/17/2020
-1962	Out of MI	193	US	2			Michigan	0	09/18/2020
-1962	Out of MI	204	US	2			Michigan	0	09/19/2020
-1962	Out of MI	204	US	2			Michigan	0	09/20/2020
-1963	Out of MI	229	US	2			Michigan	0	09/21/2020
-1963	Out of MI	203	US	2			Michigan	0	09/22/2020
-1963	Out of MI	206	US	3			Michigan	0	09/23/2020
-1963	Out of MI	191	US	2			Michigan	0	09/24/2020
-1963	Out of MI	195	US	2			Michigan	0	09/25/2020
-1963	Out of MI	186	US	2			Michigan	0	09/26/2020
-1963	Out of MI	186	US	2			Michigan	0	09/27/2020
-1963	Out of MI	186	US	2			Michigan	0	09/28/2020
-1963	Out of MI	185	US	2			Michigan	0	09/29/2020
-1963	Out of MI	188	US	2			Michigan	0	09/30/2020
-1963	Out of MI	184	US	2			Michigan	0	10/01/2020
-1963	Out of MI	186	US	2			Michigan	0	10/02/2020
-1963	Out of MI	197	US	2			Michigan	0	10/03/2020
-1963	Out of MI	197	US	2			Michigan	0	10/04/2020
-1963	Out of MI	194	US	2			Michigan	0	10/05/2020
-1963	Out of MI	194	US	2			Michigan	0	10/06/2020
-1963	Out of MI	197	US	2			Michigan	0	10/07/2020
-1963	Out of MI	209	US	2			Michigan	0	10/08/2020
-1963	Out of MI	203	US	2			Michigan	0	10/09/2020
-1963	Out of MI	220	US	2			Michigan	0	10/10/2020
-1963	Out of MI	220	US	2			Michigan	0	10/11/2020
-1964	Out of MI	227	US	2			Michigan	0	10/12/2020
-1964	Out of MI	235	US	2			Michigan	0	10/13/2020
-1964	Out of MI	224	US	2			Michigan	0	10/14/2020
-1964	Out of MI	236	US	2			Michigan	0	10/15/2020
-1965	Out of MI	246	US	2			Michigan	0	10/16/2020
-1965	Out of MI	254	US	2			Michigan	0	10/17/2020
-1965	Out of MI	254	US	2			Michigan	0	10/18/2020
-1966	Out of MI	274	US	2			Michigan	0	10/19/2020
-1966	Out of MI	259	US	2			Michigan	0	10/20/2020
-1966	Out of MI	266	US	2			Michigan	0	10/21/2020
-1966	Out of MI	276	US	2			Michigan	0	10/22/2020
-1966	Out of MI	277	US	3			Michigan	0	10/23/2020
-1966	Out of MI	305	US	3			Michigan	0	10/24/2020
-1966	Out of MI	305	US	3			Michigan	0	10/25/2020
-1966	Out of MI	320	US	3			Michigan	0	10/26/2020
-1966	Out of MI	339	US	3			Michigan	0	10/27/2020
-1967	Out of MI	364	US	3.0			Michigan	0	10/28/2020
-1967	Out of MI	322	US	3			Michigan	0	10/29/2020
-1967	Out of MI	325	US	3			Michigan	0	10/30/2020
-1967	Out of MI	348	US	3			Michigan	0	10/31/2020
-1967	Out of MI	348	US	3			Michigan	0	11/01/2020
-1967	Out of MI	384	US	3			Michigan	0	11/02/2020
-1968	Out of MI	372	US	4			Michigan	0	11/03/2020
-1968	Out of MI	419	US	4			Michigan	0	11/04/2020
-1968	Out of MI	416	US	4			Michigan	0	11/05/2020
-1968	Out of MI	385	US	4			Michigan	0	11/06/2020
-1968	Out of MI	417	US	4			Michigan	0	11/07/2020
-1968	Out of MI	417	US	4			Michigan	0	11/08/2020
-1968	Out of MI	480	US	4			Michigan	0.0	11/09/2020
-1968	Out of MI	494	US	4			Michigan	0.0	11/10/2020
-1968	Out of MI	538	US	4			Michigan	0.0	11/11/2020
-1980	Out of MI	570	US	4			Michigan	0	11/12/2020
-1980	Out of MI	589	US	4			Michigan	0	11/13/2020
-1980	Out of MI	591	US	4			Michigan	0	11/14/2020
-1980	Out of MI	591	US	4			Michigan	0	11/15/2020
-1980	Out of MI	625	US	5			Michigan	0	11/16/2020
-1980	Out of MI	647	US	5			Michigan	0	11/17/2020
-1980	Out of MI	719	US	5			Michigan	0	11/18/2020
-1980	Out of MI	818	US	5			Michigan	0	11/19/2020
-1980	Out of MI	873	US	5			Michigan	0	11/20/2020
-1980	Out of MI	896	US	6			Michigan	0	11/21/2020
-1980	Out of MI	896	US	6			Michigan	0	11/22/2020
-1980	Out of MI	930	US	6			Michigan	0	11/23/2020
-1981	Out of MI	954	US	6			Michigan	0	11/24/2020
-1981	Out of MI	880	US	6			Michigan	0	11/25/2020
-1981	Out of MI	880	US	6			Michigan	0	11/26/2020
-1981	Out of MI	981	US	6			Michigan	0	11/27/2020
-1981	Out of MI	1014	US	6			Michigan	0	11/28/2020
-1981	Out of MI	1014	US	6			Michigan	0	11/29/2020
-1981	Out of MI	1050	US	6			Michigan	0	11/30/2020
-1981	Out of MI	1067	US	6			Michigan	0	12/01/2020
-1981	Out of MI	1090	US	7			Michigan	0	12/02/2020
-1981	Out of MI	1116	US	7			Michigan	0	12/03/2020
-1981	Out of MI	1149	US	7			Michigan	0	12/04/2020
-1981	Out of MI	1154	US	8			Michigan	0	12/05/2020
-1981	Out of MI	1154	US	8			Michigan	0	12/06/2020
-1981	Out of MI	1168	US	10			Michigan	0	12/07/2020
-1981	Out of MI	1193	US	9			Michigan	0	12/08/2020
-1981	Out of MI	1218	US	9			Michigan	0	12/09/2020
-1981	Out of MI	1242	US	9			Michigan	0	12/10/2020
-1981	Out of MI	1260	US	9			Michigan	0	12/11/2020
-1981	Out of MI	1285	US	9			Michigan	0	12/12/2020
-1981	Out of MI	1285	US	9			Michigan	0	12/13/2020
-1981	Out of MI	1306	US	9			Michigan	0	12/14/2020
-1981	Out of MI	1289	US	8			Michigan	0	12/15/2020
-1981	Out of MI	1307	US	8			Michigan	0	12/16/2020
-1981	Out of MI	1304	US	8			Michigan	0	12/17/2020
-1981	Out of MI	1324	US	8			Michigan	0	12/18/2020
-1981	Out of MI	1331	US	9			Michigan	0	12/19/2020
-1981	Out of MI	1331	US	9			Michigan	0	12/20/2020
-1981	Out of MI	1332	US	9			Michigan	0	12/21/2020
-1981	Out of MI	1350	US	10			Michigan	0	12/22/2020
-1981	Out of MI	1364	US	10			Michigan	0	12/23/2020
-1981	Out of MI	1364	US	10			Michigan	0	12/24/2020
-1981	Out of MI	1364	US	10			Michigan	0	12/25/2020
-1981	Out of MI	1404	US	10			Michigan	0	12/26/2020
-1981	Out of MI	1404	US	10			Michigan	0	12/27/2020
-1981	Out of MI	1410	US	10			Michigan	0	12/28/2020
-1981	Out of MI	1529	US	10			Michigan	0	12/29/2020
-1981	Out of MI	2490	US	10			Michigan	0	12/30/2020
-1981	Out of MI	2490	US	10			Michigan	0	12/31/2020
-1981	Out of MI	2490	US	10			Michigan	0	01/01/2021
-1981	Out of MI	2890	US	10			Michigan	0	01/02/2021
-1982	Out of MI	2890	US	10			Michigan	0	01/03/2021
-1982	Out of MI	2839	US	10			Michigan	0	01/04/2021
-1982	Out of MI	2762	US	10			Michigan	0	01/05/2021
-1982	Out of MI	2861	US	10			Michigan	0	01/06/2021
-1982	Out of MI	2816	US	10			Michigan	0	01/07/2021
-1982	Out of MI	2858	US	10			Michigan	0	01/08/2021
-1982	Out of MI	2864	US	11			Michigan	0	01/09/2021
-1982	Out of MI	2864	US	11			Michigan	0	01/10/2021
-1982	Out of MI	2746	US	11			Michigan	0	01/11/2021
-1982	Out of MI	2576	US	11			Michigan	0	01/12/2021
-1982	Out of MI	2535	US	11			Michigan	0	01/13/2021
-1982	Out of MI	2514	US	11			Michigan	0	01/14/2021
-1983	Out of MI	2427	US	11			Michigan	0	01/15/2021
-1983	Out of MI	2444	US	11			Michigan	0	01/16/2021
-1983	Out of MI	2444	US	11			Michigan	0	01/17/2021
-1983	Out of MI	2228	US	11			Michigan	0	01/18/2021
-1983	Out of MI	2228	US	11			Michigan	0	01/19/2021
-1983	Out of MI	2106	US	11			Michigan	0	01/20/2021
-1984	Out of MI	2016	US	11			Michigan	0	01/21/2021
-1984	Out of MI	2010	US	11			Michigan	0	01/22/2021
-1984	Out of MI	2007	US	11			Michigan	0	01/23/2021
-1984	Out of MI	2007	US	11			Michigan	0	01/24/2021
-1984	Out of MI	1982	US	11			Michigan	0	01/25/2021
-1984	Out of MI	1911	US	11			Michigan	0	01/26/2021
-1984	Out of MI	1914	US	11			Michigan	0	01/27/2021
-1984	Out of MI	1894	US	11			Michigan	0	01/28/2021
-1984	Out of MI	1900	US	11			Michigan	0	01/29/2021
-1984	Out of MI	1848	US	11			Michigan	0	01/30/2021
-1984	Out of MI	1848	US	11			Michigan	0	01/31/2021
-1984	Out of MI	1749	US	11			Michigan	0	02/01/2021
-1984	Out of MI	1766	US	11			Michigan	0	02/02/2021
-1984	Out of MI	1704	US	12			Michigan	0	02/03/2021
-1984	Out of MI	1699	US	12			Michigan	0	02/04/2021
-1984	Out of MI	1708	US	12			Michigan	0	02/05/2021
-1984	Out of MI	1704	US	12			Michigan	0	02/06/2021
-1984	Out of MI	1704	US	12			Michigan	0	02/07/2021
-1984	Out of MI	1683	US	12			Michigan	0	02/08/2021
-1984	Out of MI	1614	US	12			Michigan	0	02/09/2021
-1984	Out of MI	1489	US	12			Michigan	0	02/10/2021
-1984	Out of MI	1491	US	12			Michigan	0	02/11/2021
-1984	Out of MI	1493	US	11			Michigan	0	02/12/2021
-1984	Out of MI	1487	US	11			Michigan	0	02/13/2021
-1984	Out of MI	1487	US	11			Michigan	0	02/14/2021
-1984	Out of MI	1495	US	11			Michigan	0	02/15/2021
-1984	Out of MI	1498	US	11			Michigan	0	02/16/2021
-1984	Out of MI	1492	US	11			Michigan	0	02/17/2021
-1984	Out of MI	1494	US	11			Michigan	0	02/18/2021
-1985	Out of MI	1491	US	10			Michigan	0	02/19/2021
-1985	Out of MI	1497	US	10			Michigan	0	02/20/2021
-1985	Out of MI	1497	US	10			Michigan	0	02/21/2021
-1985	Out of MI	1505	US	10			Michigan	0	02/22/2021
-1985	Out of MI	1506	US	10			Michigan	0	02/23/2021
-1985	Out of MI	1502	US	10			Michigan	0	02/24/2021
-1985	Out of MI	1505	US	10			Michigan	0	02/25/2021
-1985	Out of MI	1508	US	10			Michigan	0	02/26/2021
-1985	Out of MI	1515	US	11			Michigan	0	02/27/2021
-1985	Out of MI	1515	US	11			Michigan	0	02/28/2021
-1985	Out of MI	1511	US	11			Michigan	0	03/01/2021
-1985	Out of MI	1504	US	11			Michigan	0	03/02/2021
-1985	Out of MI	1507	US	11			Michigan	0	03/03/2021
-1985	Out of MI	1494	US	11			Michigan	0	03/04/2021
-1985	Out of MI	1498	US	11			Michigan	0	03/05/2021
-1985	Out of MI	1502	US	11			Michigan	0	03/06/2021
-1985	Out of MI	1502	US	11			Michigan		03/07/2021
-1985	Out of MI	1503	US	11			Michigan		03/08/2021
-1985	Out of MI	1506	US	11			Michigan		03/09/2021
-1985	Out of MI	1514	US	11			Michigan		03/10/2021
-1985	Out of MI	1520	US	11			Michigan		03/11/2021
-1985	Out of MI	1526	US	11			Michigan		03/12/2021
-1985	Out of MI	1526	US	11			Michigan		03/13/2021
-1985	Out of MI	1526	US	11			Michigan		03/14/2021
-1985	Out of MI	1528	US	11			Michigan		03/15/2021
-1985	Out of MI	1531	US	11			Michigan		03/16/2021
-1985	Out of MI	1536	US	11			Michigan		03/17/2021
-1985	Out of MI	1537	US	11			Michigan		03/18/2021
-1985	Out of MI	1540	US	11			Michigan		03/19/2021
-1985	Out of MI	1544	US	11			Michigan		03/20/2021
-1985	Out of MI	1544	US	11			Michigan		03/21/2021
-1985	Out of MI	1551	US	11			Michigan		03/22/2021
-1985	Out of MI	1556	US	11			Michigan		03/23/2021
-1985	Out of MI	1559	US	11			Michigan		03/24/2021
-1985	Out of MI	1573	US	11			Michigan		03/25/2021
-1985	Out of MI	1588	US	11			Michigan		03/26/2021
-1985	Out of MI	1595	US	11			Michigan		03/27/2021
-1985	Out of MI	1595	US	11			Michigan		03/28/2021
-1985	Out of MI	1613	US	11			Michigan		03/29/2021
-1985	Out of MI	1626	US	11			Michigan		03/30/2021
-1985	Out of MI	1635	US	11			Michigan		03/31/2021
-1985	Out of MI	1654	US	12			Michigan		04/01/2021
-1987	Out of MI	1662	US	12			Michigan		04/02/2021
-1987	Out of MI	1687	US	12			Michigan		04/03/2021
-1987	Out of MI	1687	US	12			Michigan		04/04/2021
-1987	Out of MI	1718	US	12			Michigan		04/05/2021
-1987	Out of MI	1714	US	12			Michigan		04/06/2021
-1987	Out of MI	1709	US	12			Michigan		04/07/2021
-1987	Out of MI	1717	US	12			Michigan		04/08/2021
-1987	Out of MI	1724	US	12			Michigan		04/09/2021
-1987	Out of MI	1737	US	12			Michigan		04/10/2021
-1987	Out of MI	1737	US	12			Michigan		04/11/2021
-1987	Out of MI	1749	US	13			Michigan		04/12/2021
-1987	Out of MI	1758	US	13			Michigan		04/13/2021
-1987	Out of MI	1771	US	13			Michigan		04/14/2021
-1987	Out of MI	1776	US	13			Michigan		04/15/2021
-1987	Out of MI	1789	US	13			Michigan		04/16/2021
-1987	Out of MI	1793	US	13			Michigan		04/17/2021
-1987	Out of MI	1793	US	13			Michigan		04/18/2021
-1987	Out of MI	1813	US	13			Michigan		04/19/2021
-1987	Out of MI	1830	US	14			Michigan		04/20/2021
-1987	Out of MI	1835	US	14			Michigan		04/21/2021
-1987	Out of MI	1848	US	14			Michigan		04/22/2021
-1987	Out of MI	1845	US	14			Michigan		04/23/2021
-1987	Out of MI	1848	US	14			Michigan		04/24/2021
-1987	Out of MI	1848	US	14			Michigan		04/25/2021
-1987	Out of MI	1864	US	13			Michigan		04/26/2021
-1987	Out of MI	1868	US	13			Michigan		04/27/2021
-1987	Out of MI	1875	US	13			Michigan		04/28/2021
-1987	Out of MI	1887	US	13			Michigan		04/29/2021
-1987	Out of MI	1891	US	12			Michigan		04/30/2021
-1987	Out of MI	1898	US	12			Michigan		05/01/2021
-1987	Out of MI	1898	US	12			Michigan		05/02/2021
-1987	Out of MI	1905	US	14			Michigan		05/03/2021
-1987	Out of MI	1900	US	15			Michigan		05/04/2021
-1987	Out of MI	1876	US	15			Michigan		05/05/2021
-1987	Out of MI	1877	US	16			Michigan		05/06/2021
-1987	Out of MI	1882	US	15			Michigan		05/07/2021
-1987	Out of MI	1888	US	15			Michigan		05/08/2021
-1987	Out of MI	1888	US	15			Michigan		05/09/2021
-1987	Out of MI	1887	US	15			Michigan		05/10/2021
-1987	Out of MI	1887	US	15			Michigan		05/11/2021
-1987	Out of MI	1896	US	15			Michigan		05/12/2021
-1987	Out of MI	1899	US	15			Michigan		05/13/2021
-1987	Out of MI	1903	US	15			Michigan		05/14/2021
-1987	Out of MI	1903	US	15			Michigan		05/15/2021
-1987	Out of MI	1903	US	15			Michigan		05/16/2021
-1987	Out of MI	1913	US	15			Michigan		05/17/2021
-1987	Out of MI	1913	US	15			Michigan		05/18/2021
-1987	Out of MI	1910	US	16			Michigan		05/19/2021
-1987	Out of MI	1905	US	16			Michigan		05/20/2021
-1987	Out of MI	1967	US	16			Michigan		05/21/2021
-1987	Out of MI	1965	US	16			Michigan		05/22/2021
-1987	Out of MI	1965	US	16			Michigan		05/23/2021
-1987	Out of MI	2062	US	16			Michigan		05/24/2021
-1987	Out of MI	2060	US	16			Michigan		05/25/2021
-1987	Out of MI	1994	US	16			Michigan		05/26/2021
-1988	Out of MI	1779	US	15			Michigan		05/27/2021
-1988	Out of MI	1763	US	15			Michigan		05/28/2021
-1988	Out of MI	1764	US	15			Michigan		05/29/2021
-1988	Out of MI	1764	US	15			Michigan		05/30/2021
-1988	Out of MI	1764	US	15			Michigan		05/31/2021
-1988	Out of MI	1788	US	15			Michigan		06/01/2021
-1988	Out of MI	1769	US	15			Michigan		06/02/2021
-1988	Out of MI	1766	US	15			Michigan		06/03/2021
-1988	Out of MI	1769	US	15			Michigan		06/04/2021
-1988	Out of MI	1771	US	15			Michigan		06/05/2021
-1988	Out of MI	1771	US	15			Michigan		06/06/2021
-1988	Out of MI	1772	US	15			Michigan		06/07/2021
-1988	Out of MI	1775	US	15			Michigan		06/08/2021
-1988	Out of MI	1774	US	15			Michigan		06/09/2021
-1988	Out of MI	1774	US	15			Michigan		06/10/2021
-1988	Out of MI	1772	US	15			Michigan		06/11/2021
-1988	Out of MI	1774	US	15			Michigan		06/12/2021
-1988	Out of MI	1774	US	15			Michigan		06/13/2021
-1988	Out of MI	1773	US	15			Michigan		06/14/2021
-1988	Out of MI	1776	US	15			Michigan		06/15/2021
-1988	Out of MI	1776	US	15			Michigan		06/16/2021
-1990	Out of MI	1775	US	15			Michigan		06/17/2021
-1990	Out of MI	1760	US	15			Michigan		06/18/2021
-1990	Out of MI	1760	US	15			Michigan		06/19/2021
-1990	Out of MI	1760	US	15			Michigan		06/20/2021
-1990	Out of MI	1761	US	15			Michigan		06/21/2021
-1990	Out of MI	1736	US	15			Michigan		06/22/2021
-1990	Out of MI	1728	US	15			Michigan		06/23/2021
-1991	Out of MI	1727	US	15			Michigan		06/24/2021
-1991	Out of MI	1663	US	15			Michigan		06/25/2021
-1991	Out of MI	1663	US	15			Michigan		06/26/2021
-1991	Out of MI	1663	US	15			Michigan		06/27/2021
-1991	Out of MI	1640	US	15			Michigan		06/28/2021
-1991	Out of MI	1632	US	15			Michigan		06/29/2021
-1991	Out of MI	1629	US	15			Michigan		06/30/2021
-1991	Out of MI	1630	US	15			Michigan		07/01/2021
-1991	Out of MI	1633	US	15			Michigan		07/02/2021
-1991	Out of MI	1633	US	15			Michigan		07/03/2021
-1991	Out of MI	1633	US	15			Michigan		07/04/2021
-1991	Out of MI	1633	US	15			Michigan		07/05/2021
-1991	Out of MI	1642	US	15			Michigan		07/06/2021
-1991	Out of MI	1642	US	15			Michigan		07/07/2021
-1991	Out of MI	1642	US	15			Michigan		07/08/2021
-1991	Out of MI	1641	US	15			Michigan		07/09/2021
-1991	Out of MI	1641	US	15			Michigan		07/10/2021
-1991	Out of MI	1641	US	15			Michigan		07/11/2021
-1991	Out of MI	1641	US	15			Michigan		07/12/2021
-1991	Out of MI	1645	US	15			Michigan		07/13/2021
-1991	Out of MI	1645	US	15			Michigan		07/14/2021
-1991	Out of MI	1645	US	15			Michigan		07/15/2021
-1991	Out of MI	1652	US	15			Michigan		07/16/2021
-1991	Out of MI	1652	US	15			Michigan		07/17/2021
-1991	Out of MI	1652	US	15			Michigan		07/18/2021
-1991	Out of MI	1652	US	15			Michigan		07/19/2021
-1991	Out of MI	1666	US	15			Michigan		07/20/2021
-1991	Out of MI	1666	US	15			Michigan		07/21/2021
-1991	Out of MI	1666	US	15			Michigan		07/22/2021
-1991	Out of MI	1685	US	15			Michigan		07/23/2021
-1991	Out of MI	1685	US	15			Michigan		07/24/2021
-1991	Out of MI	1685	US	15			Michigan		07/25/2021
-1991	Out of MI	1685	US	15			Michigan		07/26/2021
-1991	Out of MI	1691	US	15			Michigan		07/27/2021
-1991	Out of MI	1691	US	15			Michigan		07/28/2021
-1991	Out of MI	1691	US	15			Michigan		07/29/2021
-1991	Out of MI	1705	US	15			Michigan		07/30/2021
-1991	Out of MI	1705	US	15			Michigan		07/31/2021
-1991	Out of MI	1705	US	15			Michigan		08/01/2021
-1991	Out of MI	1705	US	15			Michigan		08/02/2021
-1991	Out of MI	1726	US	14			Michigan		08/03/2021
-1991	Out of MI	1726	US	14			Michigan		08/04/2021
-1991	Out of MI	1726	US	14			Michigan		08/05/2021
-1991	Out of MI	1750	US	14			Michigan		08/06/2021
-1991	Out of MI	1750	US	14			Michigan		08/07/2021
-1991	Out of MI	1750	US	14			Michigan		08/08/2021
-1991	Out of MI	1774	US	14			Michigan		08/09/2021
-1991	Out of MI	1774	US	14			Michigan		08/10/2021
-1991	Out of MI	1781	US	14			Michigan		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2178	Michigan	US	03/23/2020	0.0	0.0	4	0	0	Out of MI
+2178	Michigan	US	03/24/2020	0.0	0.0	6	0	0	Out of MI
+2178	Michigan	US	03/25/2020	0.0	0.0	7	0	0	Out of MI
+2177	Michigan	US	03/26/2020	0.0	0.0	7	0	0	Out of MI
+2177	Michigan	US	03/27/2020	0.0	0.0	8	0	0	Out of MI
+2177	Michigan	US	03/28/2020	0.0	0.0	15	0	0	Out of MI
+2177	Michigan	US	03/29/2020	0.0	0.0	18	0	0	Out of MI
+2177	Michigan	US	03/30/2020	0.0	0.0	17	0	0	Out of MI
+1479	Michigan	US	03/31/2020	0.0	0.0	20	0	0	Out of MI
+1518	Michigan	US	04/01/2020	0.0	0.0	42	1	0	Out of MI
+1578	Michigan	US	04/02/2020			48	1	0	Out of MI
+1612	Michigan	US	04/03/2020			74	1	0	Out of MI
+1652	Michigan	US	04/04/2020			83	1	0	Out of MI
+1706	Michigan	US	04/05/2020			83	1	0	Out of MI
+1732	Michigan	US	04/06/2020			91	1	0	Out of MI
+1770	Michigan	US	04/07/2020			118	1	0	Out of MI
+1786	Michigan	US	04/08/2020			126	1	0	Out of MI
+1806	Michigan	US	04/09/2020			131	1	0	Out of MI
+1820	Michigan	US	04/10/2020			137	1	0	Out of MI
+1838	Michigan	US	04/11/2020			140	1	0	Out of MI
+1850	Michigan	US	04/12/2020			144	1	0	Out of MI
+1864	Michigan	US	04/13/2020			148	1	0	Out of MI
+1871	Michigan	US	04/14/2020			157	2	0	Out of MI
+1881	Michigan	US	04/15/2020			166	2	0	Out of MI
+1890	Michigan	US	04/16/2020			166	2	0	Out of MI
+1892	Michigan	US	04/17/2020			71	2	0	Out of MI
+1898	Michigan	US	04/18/2020			74	2	0	Out of MI
+1909	Michigan	US	04/19/2020			76	2	0	Out of MI
+1916	Michigan	US	04/20/2020			69	2	0	Out of MI
+1924	Michigan	US	04/21/2020			69	2	0	Out of MI
+1931	Michigan	US	04/22/2020			37	1	0	Out of MI
+1943	Michigan	US	04/23/2020			39	0	0	Out of MI
+1948	Michigan	US	04/24/2020			14	1	0	Out of MI
+1952	Michigan	US	04/25/2020			19	1	0	Out of MI
+1958	Michigan	US	04/26/2020			27	1	0	Out of MI
+1961	Michigan	US	04/27/2020			20	1	0	Out of MI
+1968	Michigan	US	04/28/2020			28	1	0	Out of MI
+1971	Michigan	US	04/29/2020			39	0	0	Out of MI
+1977	Michigan	US	04/30/2020			32	1	0	Out of MI
+1986	Michigan	US	05/01/2020			8	0	0	Out of MI
+1990	Michigan	US	05/02/2020			16	0	0	Out of MI
+1993	Michigan	US	05/03/2020			18	0	0	Out of MI
+1995	Michigan	US	05/04/2020			22	0	0	Out of MI
+2001	Michigan	US	05/05/2020			64	0	0	Out of MI
+2006	Michigan	US	05/06/2020			64	0	0	Out of MI
+2010	Michigan	US	05/07/2020			64	0	0	Out of MI
+2015	Michigan	US	05/08/2020			7	0	0	Out of MI
+2016	Michigan	US	05/09/2020			21	0	0	Out of MI
+2017	Michigan	US	05/10/2020			22	0	0	Out of MI
+2017	Michigan	US	05/11/2020			26	0	0	Out of MI
+2020	Michigan	US	05/12/2020			75	0	0	Out of MI
+2020	Michigan	US	05/13/2020			84	0	0	Out of MI
+2021	Michigan	US	05/14/2020			93	0	0	Out of MI
+2025	Michigan	US	05/15/2020			97	0	0	Out of MI
+2029	Michigan	US	05/16/2020			97	0	0	Out of MI
+2031	Michigan	US	05/17/2020			88	0	0	Out of MI
+2033	Michigan	US	05/18/2020			62	0	0	Out of MI
+2035	Michigan	US	05/19/2020			13	0	0	Out of MI
+2041	Michigan	US	05/20/2020			21	0	0	Out of MI
+2042	Michigan	US	05/21/2020			42	0	0	Out of MI
+2046	Michigan	US	05/22/2020			48	0	0	Out of MI
+2048	Michigan	US	05/23/2020			61	0	0	Out of MI
+2051	Michigan	US	05/24/2020			63	0	0	Out of MI
+2051	Michigan	US	05/25/2020			65	0	0	Out of MI
+2052	Michigan	US	05/26/2020			64	0	0	Out of MI
+2054	Michigan	US	05/27/2020			64	0	0	Out of MI
+2056	Michigan	US	05/28/2020			70	0	0	Out of MI
+2059	Michigan	US	05/29/2020			32	0	0	Out of MI
+2061	Michigan	US	05/30/2020			36	0	0	Out of MI
+2062	Michigan	US	05/31/2020			42	0	0	Out of MI
+2064	Michigan	US	06/01/2020			42	0	0	Out of MI
+2068	Michigan	US	06/02/2020			42	0	0	Out of MI
+2069	Michigan	US	06/03/2020			45	0	0	Out of MI
+2070	Michigan	US	06/04/2020			30	0	0	Out of MI
+2072	Michigan	US	06/05/2020			33	0	0	Out of MI
+2073	Michigan	US	06/06/2020			33	0	0	Out of MI
+2073	Michigan	US	06/07/2020			33	0	0	Out of MI
+2073	Michigan	US	06/08/2020			33	0	0	Out of MI
+2074	Michigan	US	06/09/2020			42	0	0	Out of MI
+2076	Michigan	US	06/10/2020			23	0	0	Out of MI
+2077	Michigan	US	06/11/2020			30	0	0	Out of MI
+2087	Michigan	US	06/12/2020			36	0	0	Out of MI
+2089	Michigan	US	06/13/2020			44	0	0	Out of MI
+2089	Michigan	US	06/14/2020			47	0	0	Out of MI
+2092	Michigan	US	06/15/2020			34	0	0	Out of MI
+2090	Michigan	US	06/16/2020			35	0	0	Out of MI
+2092	Michigan	US	06/17/2020			40	0	0	Out of MI
+2092	Michigan	US	06/18/2020			41	0	0	Out of MI
+2092	Michigan	US	06/19/2020			41	0	0	Out of MI
+2096	Michigan	US	06/20/2020			51	0	0	Out of MI
+2096	Michigan	US	06/21/2020			53	0	0	Out of MI
+2098	Michigan	US	06/22/2020			59	0	0	Out of MI
+2102	Michigan	US	06/23/2020			64	0	0	Out of MI
+2110	Michigan	US	06/24/2020			65	0	0	Out of MI
+2115	Michigan	US	06/25/2020			70	0	0	Out of MI
+2116	Michigan	US	06/26/2020			81	0	0	Out of MI
+2117	Michigan	US	06/27/2020			90	0	0	Out of MI
+2117	Michigan	US	06/28/2020			96	0	0	Out of MI
+2118	Michigan	US	06/29/2020			99	0	0	Out of MI
+2120	Michigan	US	06/30/2020			104	0	0	Out of MI
+2120	Michigan	US	07/01/2020			38	0	0	Out of MI
+2122	Michigan	US	07/02/2020			45	0	0	Out of MI
+2125	Michigan	US	07/03/2020			64	0	0	Out of MI
+2126	Michigan	US	07/04/2020			75	0	0	Out of MI
+2126	Michigan	US	07/05/2020			91	0	0	Out of MI
+2129	Michigan	US	07/06/2020			100	0	0	Out of MI
+2129	Michigan	US	07/07/2020			127	0	0	Out of MI
+2132	Michigan	US	07/08/2020			134	0	0	Out of MI
+2131	Michigan	US	07/09/2020			39	0	0	Out of MI
+2134	Michigan	US	07/10/2020			41	0	0	Out of MI
+2134	Michigan	US	07/11/2020			59	0	0	Out of MI
+2136	Michigan	US	07/12/2020			69	0	0	Out of MI
+2138	Michigan	US	07/13/2020			79	0	0	Out of MI
+2141	Michigan	US	07/14/2020			52	0	0	Out of MI
+2141	Michigan	US	07/15/2020			56	0	0	Out of MI
+2143	Michigan	US	07/16/2020			84	0	0	Out of MI
+2143	Michigan	US	07/17/2020			59	0	0	Out of MI
+2198	Michigan	US	07/18/2020			88	0	0	Out of MI
+2199	Michigan	US	07/19/2020			107	0	0	Out of MI
+2145	Michigan	US	07/20/2020			119	0	0	Out of MI
+2203	Michigan	US	07/21/2020			81	0	0	Out of MI
+2204	Michigan	US	07/22/2020			40	0	0	Out of MI
+2205	Michigan	US	07/23/2020			53	0	0	Out of MI
+2204	Michigan	US	07/24/2020			69	0	0	Out of MI
+2205	Michigan	US	07/25/2020			105	0	0	Out of MI
+2206	Michigan	US	07/26/2020			75	0	0	Out of MI
+2206	Michigan	US	07/27/2020			93	0	0	Out of MI
+2206	Michigan	US	07/28/2020			153	0	0	Out of MI
+2209	Michigan	US	07/29/2020			194	0	0	Out of MI
+2209	Michigan	US	07/30/2020			97	0	0	Out of MI
+2210	Michigan	US	07/31/2020			66	0	0	Out of MI
+2210	Michigan	US	08/01/2020			84	0	0	Out of MI
+2210	Michigan	US	08/02/2020			94	0	0	Out of MI
+2210	Michigan	US	08/03/2020			117	0	0	Out of MI
+2210	Michigan	US	08/04/2020			116	0	0	Out of MI
+2213	Michigan	US	08/05/2020			81	1	0	Out of MI
+2213	Michigan	US	08/06/2020			75	1	0	Out of MI
+2213	Michigan	US	08/07/2020			79	1	0	Out of MI
+2213	Michigan	US	08/08/2020			79	1	0	Out of MI
+2213	Michigan	US	08/09/2020			84	1	0	Out of MI
+2213	Michigan	US	08/10/2020			89	1	0	Out of MI
+2003	Michigan	US	08/11/2020			90	1	0	Out of MI
+1957	Michigan	US	08/12/2020			102	1	0	Out of MI
+1958	Michigan	US	08/13/2020			119	1	0	Out of MI
+1958	Michigan	US	08/14/2020			118	1	0	Out of MI
+1958	Michigan	US	08/15/2020			129	1	0	Out of MI
+1958	Michigan	US	08/16/2020			127	1	0	Out of MI
+1960	Michigan	US	08/17/2020			128	1	0	Out of MI
+1960	Michigan	US	08/18/2020			128	1	0	Out of MI
+1960	Michigan	US	08/19/2020			97	1	0	Out of MI
+1960	Michigan	US	08/20/2020			92	0	0	Out of MI
+1960	Michigan	US	08/21/2020			92	0	0	Out of MI
+1961	Michigan	US	08/22/2020			93	0	0	Out of MI
+1961	Michigan	US	08/23/2020			96	0	0	Out of MI
+1961	Michigan	US	08/24/2020			106	0	0	Out of MI
+1961	Michigan	US	08/25/2020			111	0	0	Out of MI
+1961	Michigan	US	08/26/2020			93	0	0	Out of MI
+1961	Michigan	US	08/27/2020			103	0	0	Out of MI
+1961	Michigan	US	08/28/2020			101	0	0	Out of MI
+1961	Michigan	US	08/29/2020			101	0	0	Out of MI
+1961	Michigan	US	08/30/2020			113	0	0	Out of MI
+1961	Michigan	US	08/31/2020			113	0	0	Out of MI
+1961	Michigan	US	09/01/2020			120	0	0	Out of MI
+1961	Michigan	US	09/02/2020			115	0	0	Out of MI
+1961	Michigan	US	09/03/2020			121	0	0	Out of MI
+1961	Michigan	US	09/04/2020			139	0	0	Out of MI
+1961	Michigan	US	09/05/2020			145	0	0	Out of MI
+1961	Michigan	US	09/06/2020			145	0	0	Out of MI
+1961	Michigan	US	09/07/2020			163	0	0	Out of MI
+1961	Michigan	US	09/08/2020			173	0	0	Out of MI
+1961	Michigan	US	09/09/2020			173	0	0	Out of MI
+1961	Michigan	US	09/10/2020			185	3	0	Out of MI
+1961	Michigan	US	09/11/2020			208	3	0	Out of MI
+1961	Michigan	US	09/12/2020			227	2	0	Out of MI
+1961	Michigan	US	09/13/2020			227	2	0	Out of MI
+1961	Michigan	US	09/14/2020			224	2	0	Out of MI
+1961	Michigan	US	09/15/2020			238	2	0	Out of MI
+1961	Michigan	US	09/16/2020			211	2	0	Out of MI
+1961	Michigan	US	09/17/2020			194	2	0	Out of MI
+1961	Michigan	US	09/18/2020			193	2	0	Out of MI
+1961	Michigan	US	09/19/2020			204	2	0	Out of MI
+1961	Michigan	US	09/20/2020			204	2	0	Out of MI
+1962	Michigan	US	09/21/2020			229	2	0	Out of MI
+1962	Michigan	US	09/22/2020			203	2	0	Out of MI
+1962	Michigan	US	09/23/2020			206	3	0	Out of MI
+1962	Michigan	US	09/24/2020			191	2	0	Out of MI
+1962	Michigan	US	09/25/2020			195	2	0	Out of MI
+1962	Michigan	US	09/26/2020			186	2	0	Out of MI
+1962	Michigan	US	09/27/2020			186	2	0	Out of MI
+1962	Michigan	US	09/28/2020			186	2	0	Out of MI
+1962	Michigan	US	09/29/2020			185	2	0	Out of MI
+1962	Michigan	US	09/30/2020			188	2	0	Out of MI
+1962	Michigan	US	10/01/2020			184	2	0	Out of MI
+1962	Michigan	US	10/02/2020			186	2	0	Out of MI
+1962	Michigan	US	10/03/2020			197	2	0	Out of MI
+1962	Michigan	US	10/04/2020			197	2	0	Out of MI
+1962	Michigan	US	10/05/2020			194	2	0	Out of MI
+1962	Michigan	US	10/06/2020			194	2	0	Out of MI
+1962	Michigan	US	10/07/2020			197	2	0	Out of MI
+1962	Michigan	US	10/08/2020			209	2	0	Out of MI
+1962	Michigan	US	10/09/2020			203	2	0	Out of MI
+1962	Michigan	US	10/10/2020			220	2	0	Out of MI
+1962	Michigan	US	10/11/2020			220	2	0	Out of MI
+1963	Michigan	US	10/12/2020			227	2	0	Out of MI
+1963	Michigan	US	10/13/2020			235	2	0	Out of MI
+1963	Michigan	US	10/14/2020			224	2	0	Out of MI
+1963	Michigan	US	10/15/2020			236	2	0	Out of MI
+1964	Michigan	US	10/16/2020			246	2	0	Out of MI
+1964	Michigan	US	10/17/2020			254	2	0	Out of MI
+1964	Michigan	US	10/18/2020			254	2	0	Out of MI
+1965	Michigan	US	10/19/2020			274	2	0	Out of MI
+1965	Michigan	US	10/20/2020			259	2	0	Out of MI
+1965	Michigan	US	10/21/2020			266	2	0	Out of MI
+1965	Michigan	US	10/22/2020			276	2	0	Out of MI
+1965	Michigan	US	10/23/2020			277	3	0	Out of MI
+1965	Michigan	US	10/24/2020			305	3	0	Out of MI
+1965	Michigan	US	10/25/2020			305	3	0	Out of MI
+1965	Michigan	US	10/26/2020			320	3	0	Out of MI
+1965	Michigan	US	10/27/2020			339	3	0	Out of MI
+1966	Michigan	US	10/28/2020			364	3.0	0	Out of MI
+1966	Michigan	US	10/29/2020			322	3	0	Out of MI
+1966	Michigan	US	10/30/2020			325	3	0	Out of MI
+1966	Michigan	US	10/31/2020			348	3	0	Out of MI
+1966	Michigan	US	11/01/2020			348	3	0	Out of MI
+1966	Michigan	US	11/02/2020			384	3	0	Out of MI
+1967	Michigan	US	11/03/2020			372	4	0	Out of MI
+1967	Michigan	US	11/04/2020			419	4	0	Out of MI
+1967	Michigan	US	11/05/2020			416	4	0	Out of MI
+1967	Michigan	US	11/06/2020			385	4	0	Out of MI
+1967	Michigan	US	11/07/2020			417	4	0	Out of MI
+1967	Michigan	US	11/08/2020			417	4	0	Out of MI
+1967	Michigan	US	11/09/2020			480	4	0.0	Out of MI
+1967	Michigan	US	11/10/2020			494	4	0.0	Out of MI
+1967	Michigan	US	11/11/2020			538	4	0.0	Out of MI
+1979	Michigan	US	11/12/2020			570	4	0	Out of MI
+1979	Michigan	US	11/13/2020			589	4	0	Out of MI
+1979	Michigan	US	11/14/2020			591	4	0	Out of MI
+1979	Michigan	US	11/15/2020			591	4	0	Out of MI
+1979	Michigan	US	11/16/2020			625	5	0	Out of MI
+1979	Michigan	US	11/17/2020			647	5	0	Out of MI
+1979	Michigan	US	11/18/2020			719	5	0	Out of MI
+1979	Michigan	US	11/19/2020			818	5	0	Out of MI
+1979	Michigan	US	11/20/2020			873	5	0	Out of MI
+1979	Michigan	US	11/21/2020			896	6	0	Out of MI
+1979	Michigan	US	11/22/2020			896	6	0	Out of MI
+1979	Michigan	US	11/23/2020			930	6	0	Out of MI
+1980	Michigan	US	11/24/2020			954	6	0	Out of MI
+1980	Michigan	US	11/25/2020			880	6	0	Out of MI
+1980	Michigan	US	11/26/2020			880	6	0	Out of MI
+1980	Michigan	US	11/27/2020			981	6	0	Out of MI
+1980	Michigan	US	11/28/2020			1014	6	0	Out of MI
+1980	Michigan	US	11/29/2020			1014	6	0	Out of MI
+1980	Michigan	US	11/30/2020			1050	6	0	Out of MI
+1980	Michigan	US	12/01/2020			1067	6	0	Out of MI
+1980	Michigan	US	12/02/2020			1090	7	0	Out of MI
+1980	Michigan	US	12/03/2020			1116	7	0	Out of MI
+1980	Michigan	US	12/04/2020			1149	7	0	Out of MI
+1980	Michigan	US	12/05/2020			1154	8	0	Out of MI
+1980	Michigan	US	12/06/2020			1154	8	0	Out of MI
+1980	Michigan	US	12/07/2020			1168	10	0	Out of MI
+1980	Michigan	US	12/08/2020			1193	9	0	Out of MI
+1980	Michigan	US	12/09/2020			1218	9	0	Out of MI
+1980	Michigan	US	12/10/2020			1242	9	0	Out of MI
+1980	Michigan	US	12/11/2020			1260	9	0	Out of MI
+1980	Michigan	US	12/12/2020			1285	9	0	Out of MI
+1980	Michigan	US	12/13/2020			1285	9	0	Out of MI
+1980	Michigan	US	12/14/2020			1306	9	0	Out of MI
+1980	Michigan	US	12/15/2020			1289	8	0	Out of MI
+1980	Michigan	US	12/16/2020			1307	8	0	Out of MI
+1980	Michigan	US	12/17/2020			1304	8	0	Out of MI
+1980	Michigan	US	12/18/2020			1324	8	0	Out of MI
+1980	Michigan	US	12/19/2020			1331	9	0	Out of MI
+1980	Michigan	US	12/20/2020			1331	9	0	Out of MI
+1980	Michigan	US	12/21/2020			1332	9	0	Out of MI
+1980	Michigan	US	12/22/2020			1350	10	0	Out of MI
+1980	Michigan	US	12/23/2020			1364	10	0	Out of MI
+1980	Michigan	US	12/24/2020			1364	10	0	Out of MI
+1980	Michigan	US	12/25/2020			1364	10	0	Out of MI
+1980	Michigan	US	12/26/2020			1404	10	0	Out of MI
+1980	Michigan	US	12/27/2020			1404	10	0	Out of MI
+1980	Michigan	US	12/28/2020			1410	10	0	Out of MI
+1980	Michigan	US	12/29/2020			1529	10	0	Out of MI
+1980	Michigan	US	12/30/2020			2490	10	0	Out of MI
+1980	Michigan	US	12/31/2020			2490	10	0	Out of MI
+1980	Michigan	US	01/01/2021			2490	10	0	Out of MI
+1980	Michigan	US	01/02/2021			2890	10	0	Out of MI
+1981	Michigan	US	01/03/2021			2890	10	0	Out of MI
+1981	Michigan	US	01/04/2021			2839	10	0	Out of MI
+1981	Michigan	US	01/05/2021			2762	10	0	Out of MI
+1981	Michigan	US	01/06/2021			2861	10	0	Out of MI
+1981	Michigan	US	01/07/2021			2816	10	0	Out of MI
+1981	Michigan	US	01/08/2021			2858	10	0	Out of MI
+1981	Michigan	US	01/09/2021			2864	11	0	Out of MI
+1981	Michigan	US	01/10/2021			2864	11	0	Out of MI
+1981	Michigan	US	01/11/2021			2746	11	0	Out of MI
+1981	Michigan	US	01/12/2021			2576	11	0	Out of MI
+1981	Michigan	US	01/13/2021			2535	11	0	Out of MI
+1981	Michigan	US	01/14/2021			2514	11	0	Out of MI
+1982	Michigan	US	01/15/2021			2427	11	0	Out of MI
+1982	Michigan	US	01/16/2021			2444	11	0	Out of MI
+1982	Michigan	US	01/17/2021			2444	11	0	Out of MI
+1982	Michigan	US	01/18/2021			2228	11	0	Out of MI
+1982	Michigan	US	01/19/2021			2228	11	0	Out of MI
+1982	Michigan	US	01/20/2021			2106	11	0	Out of MI
+1983	Michigan	US	01/21/2021			2016	11	0	Out of MI
+1983	Michigan	US	01/22/2021			2010	11	0	Out of MI
+1983	Michigan	US	01/23/2021			2007	11	0	Out of MI
+1983	Michigan	US	01/24/2021			2007	11	0	Out of MI
+1983	Michigan	US	01/25/2021			1982	11	0	Out of MI
+1983	Michigan	US	01/26/2021			1911	11	0	Out of MI
+1983	Michigan	US	01/27/2021			1914	11	0	Out of MI
+1983	Michigan	US	01/28/2021			1894	11	0	Out of MI
+1983	Michigan	US	01/29/2021			1900	11	0	Out of MI
+1983	Michigan	US	01/30/2021			1848	11	0	Out of MI
+1983	Michigan	US	01/31/2021			1848	11	0	Out of MI
+1983	Michigan	US	02/01/2021			1749	11	0	Out of MI
+1983	Michigan	US	02/02/2021			1766	11	0	Out of MI
+1983	Michigan	US	02/03/2021			1704	12	0	Out of MI
+1983	Michigan	US	02/04/2021			1699	12	0	Out of MI
+1983	Michigan	US	02/05/2021			1708	12	0	Out of MI
+1983	Michigan	US	02/06/2021			1704	12	0	Out of MI
+1983	Michigan	US	02/07/2021			1704	12	0	Out of MI
+1983	Michigan	US	02/08/2021			1683	12	0	Out of MI
+1983	Michigan	US	02/09/2021			1614	12	0	Out of MI
+1983	Michigan	US	02/10/2021			1489	12	0	Out of MI
+1983	Michigan	US	02/11/2021			1491	12	0	Out of MI
+1983	Michigan	US	02/12/2021			1493	11	0	Out of MI
+1983	Michigan	US	02/13/2021			1487	11	0	Out of MI
+1983	Michigan	US	02/14/2021			1487	11	0	Out of MI
+1983	Michigan	US	02/15/2021			1495	11	0	Out of MI
+1983	Michigan	US	02/16/2021			1498	11	0	Out of MI
+1983	Michigan	US	02/17/2021			1492	11	0	Out of MI
+1983	Michigan	US	02/18/2021			1494	11	0	Out of MI
+1984	Michigan	US	02/19/2021			1491	10	0	Out of MI
+1984	Michigan	US	02/20/2021			1497	10	0	Out of MI
+1984	Michigan	US	02/21/2021			1497	10	0	Out of MI
+1984	Michigan	US	02/22/2021			1505	10	0	Out of MI
+1984	Michigan	US	02/23/2021			1506	10	0	Out of MI
+1984	Michigan	US	02/24/2021			1502	10	0	Out of MI
+1984	Michigan	US	02/25/2021			1505	10	0	Out of MI
+1984	Michigan	US	02/26/2021			1508	10	0	Out of MI
+1984	Michigan	US	02/27/2021			1515	11	0	Out of MI
+1984	Michigan	US	02/28/2021			1515	11	0	Out of MI
+1984	Michigan	US	03/01/2021			1511	11	0	Out of MI
+1984	Michigan	US	03/02/2021			1504	11	0	Out of MI
+1984	Michigan	US	03/03/2021			1507	11	0	Out of MI
+1984	Michigan	US	03/04/2021			1494	11	0	Out of MI
+1984	Michigan	US	03/05/2021			1498	11	0	Out of MI
+1984	Michigan	US	03/06/2021			1502	11	0	Out of MI
+1984	Michigan	US	03/07/2021			1502	11		Out of MI
+1984	Michigan	US	03/08/2021			1503	11		Out of MI
+1984	Michigan	US	03/09/2021			1506	11		Out of MI
+1984	Michigan	US	03/10/2021			1514	11		Out of MI
+1984	Michigan	US	03/11/2021			1520	11		Out of MI
+1984	Michigan	US	03/12/2021			1526	11		Out of MI
+1984	Michigan	US	03/13/2021			1526	11		Out of MI
+1984	Michigan	US	03/14/2021			1526	11		Out of MI
+1984	Michigan	US	03/15/2021			1528	11		Out of MI
+1984	Michigan	US	03/16/2021			1531	11		Out of MI
+1984	Michigan	US	03/17/2021			1536	11		Out of MI
+1984	Michigan	US	03/18/2021			1537	11		Out of MI
+1984	Michigan	US	03/19/2021			1540	11		Out of MI
+1984	Michigan	US	03/20/2021			1544	11		Out of MI
+1984	Michigan	US	03/21/2021			1544	11		Out of MI
+1984	Michigan	US	03/22/2021			1551	11		Out of MI
+1984	Michigan	US	03/23/2021			1556	11		Out of MI
+1984	Michigan	US	03/24/2021			1559	11		Out of MI
+1984	Michigan	US	03/25/2021			1573	11		Out of MI
+1984	Michigan	US	03/26/2021			1588	11		Out of MI
+1984	Michigan	US	03/27/2021			1595	11		Out of MI
+1984	Michigan	US	03/28/2021			1595	11		Out of MI
+1984	Michigan	US	03/29/2021			1613	11		Out of MI
+1984	Michigan	US	03/30/2021			1626	11		Out of MI
+1984	Michigan	US	03/31/2021			1635	11		Out of MI
+1984	Michigan	US	04/01/2021			1654	12		Out of MI
+1986	Michigan	US	04/02/2021			1662	12		Out of MI
+1986	Michigan	US	04/03/2021			1687	12		Out of MI
+1986	Michigan	US	04/04/2021			1687	12		Out of MI
+1986	Michigan	US	04/05/2021			1718	12		Out of MI
+1986	Michigan	US	04/06/2021			1714	12		Out of MI
+1986	Michigan	US	04/07/2021			1709	12		Out of MI
+1986	Michigan	US	04/08/2021			1717	12		Out of MI
+1986	Michigan	US	04/09/2021			1724	12		Out of MI
+1986	Michigan	US	04/10/2021			1737	12		Out of MI
+1986	Michigan	US	04/11/2021			1737	12		Out of MI
+1986	Michigan	US	04/12/2021			1749	13		Out of MI
+1986	Michigan	US	04/13/2021			1758	13		Out of MI
+1986	Michigan	US	04/14/2021			1771	13		Out of MI
+1986	Michigan	US	04/15/2021			1776	13		Out of MI
+1986	Michigan	US	04/16/2021			1789	13		Out of MI
+1986	Michigan	US	04/17/2021			1793	13		Out of MI
+1986	Michigan	US	04/18/2021			1793	13		Out of MI
+1986	Michigan	US	04/19/2021			1813	13		Out of MI
+1986	Michigan	US	04/20/2021			1830	14		Out of MI
+1986	Michigan	US	04/21/2021			1835	14		Out of MI
+1986	Michigan	US	04/22/2021			1848	14		Out of MI
+1986	Michigan	US	04/23/2021			1845	14		Out of MI
+1986	Michigan	US	04/24/2021			1848	14		Out of MI
+1986	Michigan	US	04/25/2021			1848	14		Out of MI
+1986	Michigan	US	04/26/2021			1864	13		Out of MI
+1986	Michigan	US	04/27/2021			1868	13		Out of MI
+1986	Michigan	US	04/28/2021			1875	13		Out of MI
+1986	Michigan	US	04/29/2021			1887	13		Out of MI
+1986	Michigan	US	04/30/2021			1891	12		Out of MI
+1986	Michigan	US	05/01/2021			1898	12		Out of MI
+1986	Michigan	US	05/02/2021			1898	12		Out of MI
+1986	Michigan	US	05/03/2021			1905	14		Out of MI
+1986	Michigan	US	05/04/2021			1900	15		Out of MI
+1986	Michigan	US	05/05/2021			1876	15		Out of MI
+1986	Michigan	US	05/06/2021			1877	16		Out of MI
+1986	Michigan	US	05/07/2021			1882	15		Out of MI
+1986	Michigan	US	05/08/2021			1888	15		Out of MI
+1986	Michigan	US	05/09/2021			1888	15		Out of MI
+1986	Michigan	US	05/10/2021			1887	15		Out of MI
+1986	Michigan	US	05/11/2021			1887	15		Out of MI
+1986	Michigan	US	05/12/2021			1896	15		Out of MI
+1986	Michigan	US	05/13/2021			1899	15		Out of MI
+1986	Michigan	US	05/14/2021			1903	15		Out of MI
+1986	Michigan	US	05/15/2021			1903	15		Out of MI
+1986	Michigan	US	05/16/2021			1903	15		Out of MI
+1986	Michigan	US	05/17/2021			1913	15		Out of MI
+1986	Michigan	US	05/18/2021			1913	15		Out of MI
+1986	Michigan	US	05/19/2021			1910	16		Out of MI
+1986	Michigan	US	05/20/2021			1905	16		Out of MI
+1986	Michigan	US	05/21/2021			1967	16		Out of MI
+1986	Michigan	US	05/22/2021			1965	16		Out of MI
+1986	Michigan	US	05/23/2021			1965	16		Out of MI
+1986	Michigan	US	05/24/2021			2062	16		Out of MI
+1986	Michigan	US	05/25/2021			2060	16		Out of MI
+1986	Michigan	US	05/26/2021			1994	16		Out of MI
+1987	Michigan	US	05/27/2021			1779	15		Out of MI
+1987	Michigan	US	05/28/2021			1763	15		Out of MI
+1987	Michigan	US	05/29/2021			1764	15		Out of MI
+1987	Michigan	US	05/30/2021			1764	15		Out of MI
+1987	Michigan	US	05/31/2021			1764	15		Out of MI
+1987	Michigan	US	06/01/2021			1788	15		Out of MI
+1987	Michigan	US	06/02/2021			1769	15		Out of MI
+1987	Michigan	US	06/03/2021			1766	15		Out of MI
+1987	Michigan	US	06/04/2021			1769	15		Out of MI
+1987	Michigan	US	06/05/2021			1771	15		Out of MI
+1987	Michigan	US	06/06/2021			1771	15		Out of MI
+1987	Michigan	US	06/07/2021			1772	15		Out of MI
+1987	Michigan	US	06/08/2021			1775	15		Out of MI
+1987	Michigan	US	06/09/2021			1774	15		Out of MI
+1987	Michigan	US	06/10/2021			1774	15		Out of MI
+1987	Michigan	US	06/11/2021			1772	15		Out of MI
+1987	Michigan	US	06/12/2021			1774	15		Out of MI
+1987	Michigan	US	06/13/2021			1774	15		Out of MI
+1987	Michigan	US	06/14/2021			1773	15		Out of MI
+1987	Michigan	US	06/15/2021			1776	15		Out of MI
+1987	Michigan	US	06/16/2021			1776	15		Out of MI
+1989	Michigan	US	06/17/2021			1775	15		Out of MI
+1989	Michigan	US	06/18/2021			1760	15		Out of MI
+1989	Michigan	US	06/19/2021			1760	15		Out of MI
+1989	Michigan	US	06/20/2021			1760	15		Out of MI
+1989	Michigan	US	06/21/2021			1761	15		Out of MI
+1989	Michigan	US	06/22/2021			1736	15		Out of MI
+1989	Michigan	US	06/23/2021			1728	15		Out of MI
+1990	Michigan	US	06/24/2021			1727	15		Out of MI
+1990	Michigan	US	06/25/2021			1663	15		Out of MI
+1990	Michigan	US	06/26/2021			1663	15		Out of MI
+1990	Michigan	US	06/27/2021			1663	15		Out of MI
+1990	Michigan	US	06/28/2021			1640	15		Out of MI
+1990	Michigan	US	06/29/2021			1632	15		Out of MI
+1990	Michigan	US	06/30/2021			1629	15		Out of MI
+1990	Michigan	US	07/01/2021			1630	15		Out of MI
+1990	Michigan	US	07/02/2021			1633	15		Out of MI
+1990	Michigan	US	07/03/2021			1633	15		Out of MI
+1990	Michigan	US	07/04/2021			1633	15		Out of MI
+1990	Michigan	US	07/05/2021			1633	15		Out of MI
+1990	Michigan	US	07/06/2021			1642	15		Out of MI
+1990	Michigan	US	07/07/2021			1642	15		Out of MI
+1990	Michigan	US	07/08/2021			1642	15		Out of MI
+1990	Michigan	US	07/09/2021			1641	15		Out of MI
+1990	Michigan	US	07/10/2021			1641	15		Out of MI
+1990	Michigan	US	07/11/2021			1641	15		Out of MI
+1990	Michigan	US	07/12/2021			1641	15		Out of MI
+1990	Michigan	US	07/13/2021			1645	15		Out of MI
+1990	Michigan	US	07/14/2021			1645	15		Out of MI
+1990	Michigan	US	07/15/2021			1645	15		Out of MI
+1990	Michigan	US	07/16/2021			1652	15		Out of MI
+1990	Michigan	US	07/17/2021			1652	15		Out of MI
+1990	Michigan	US	07/18/2021			1652	15		Out of MI
+1990	Michigan	US	07/19/2021			1652	15		Out of MI
+1990	Michigan	US	07/20/2021			1666	15		Out of MI
+1990	Michigan	US	07/21/2021			1666	15		Out of MI
+1990	Michigan	US	07/22/2021			1666	15		Out of MI
+1990	Michigan	US	07/23/2021			1685	15		Out of MI
+1990	Michigan	US	07/24/2021			1685	15		Out of MI
+1990	Michigan	US	07/25/2021			1685	15		Out of MI
+1990	Michigan	US	07/26/2021			1685	15		Out of MI
+1990	Michigan	US	07/27/2021			1691	15		Out of MI
+1990	Michigan	US	07/28/2021			1691	15		Out of MI
+1990	Michigan	US	07/29/2021			1691	15		Out of MI
+1990	Michigan	US	07/30/2021			1705	15		Out of MI
+1990	Michigan	US	07/31/2021			1705	15		Out of MI
+1990	Michigan	US	08/01/2021			1705	15		Out of MI
+1990	Michigan	US	08/02/2021			1705	15		Out of MI
+1990	Michigan	US	08/03/2021			1726	14		Out of MI
+1990	Michigan	US	08/04/2021			1726	14		Out of MI
+1990	Michigan	US	08/05/2021			1726	14		Out of MI
+1990	Michigan	US	08/06/2021			1750	14		Out of MI
+1990	Michigan	US	08/07/2021			1750	14		Out of MI
+1990	Michigan	US	08/08/2021			1750	14		Out of MI
+1990	Michigan	US	08/09/2021			1774	14		Out of MI
+1990	Michigan	US	08/10/2021			1774	14		Out of MI
+1990	Michigan	US	08/11/2021			1781	14		Out of MI
+1990	Michigan	US	08/12/2021			1781	14		Out of MI
+1990	Michigan	US	08/13/2021			1795	14		Out of MI
+1990	Michigan	US	08/14/2021			1795	14		Out of MI
+1990	Michigan	US	08/15/2021			1795	14		Out of MI
+1990	Michigan	US	08/16/2021			1827	14		Out of MI
+1990	Michigan	US	08/17/2021			1827	14		Out of MI
+1990	Michigan	US	08/18/2021			1843	14		Out of MI
+1990	Michigan	US	08/19/2021			1843	14		Out of MI
+1990	Michigan	US	08/20/2021			1861	14		Out of MI
+1990	Michigan	US	08/21/2021			1861	14		Out of MI
+1990	Michigan	US	08/22/2021			1861	14		Out of MI
+1990	Michigan	US	08/23/2021			1881	14		Out of MI
+1990	Michigan	US	08/24/2021			1881	14		Out of MI
+1990	Michigan	US	08/25/2021			1884	14		Out of MI
+1990	Michigan	US	08/26/2021			1884	14		Out of MI
+1990	Michigan	US	08/27/2021			1882	14		Out of MI
+1990	Michigan	US	08/28/2021			1882	14		Out of MI
+1990	Michigan	US	08/29/2021			1882	14		Out of MI
+1990	Michigan	US	08/30/2021			1920	15		Out of MI
+1990	Michigan	US	08/31/2021			1920	15		Out of MI
+1990	Michigan	US	09/01/2021			1944	16		Out of MI
+1990	Michigan	US	09/02/2021			1944	16		Out of MI
+1990	Michigan	US	09/03/2021			1967	17		Out of MI
+1990	Michigan	US	09/04/2021			1967	17		Out of MI
+1990	Michigan	US	09/05/2021			1967	17		Out of MI
+1990	Michigan	US	09/06/2021			1967	17		Out of MI
+1990	Michigan	US	09/07/2021			2016	17		Out of MI
+1990	Michigan	US	09/08/2021			2014	17		Out of MI
+1990	Michigan	US	09/09/2021			2014	17		Out of MI
+1990	Michigan	US	09/10/2021			2046	16		Out of MI
+1990	Michigan	US	09/11/2021			2046	16		Out of MI
+1990	Michigan	US	09/12/2021			2046	16		Out of MI
+1990	Michigan	US	09/13/2021			2071	16		Out of MI
+1990	Michigan	US	09/14/2021			2071	16		Out of MI
+1990	Michigan	US	09/15/2021			2081	16		Out of MI
+1991	Michigan	US	09/16/2021			2081	16		Out of MI
+1991	Michigan	US	09/17/2021			2111	16		Out of MI
+1991	Michigan	US	09/18/2021			2111	16		Out of MI
+1991	Michigan	US	09/19/2021			2111	16		Out of MI
+1991	Michigan	US	09/20/2021			2146	16		Out of MI
+1991	Michigan	US	09/21/2021			2146	16		Out of MI
+1991	Michigan	US	09/22/2021			2147	17		Out of MI
+2008	Michigan	US	09/23/2021			2147	17		Out of MI
+2008	Michigan	US	09/24/2021			2133	18		Out of MI
+2008	Michigan	US	09/25/2021			2133	18		Out of MI
+2008	Michigan	US	09/26/2021			2133	18		Out of MI
+2008	Michigan	US	09/27/2021			2161	19		Out of MI
+2008	Michigan	US	09/28/2021			2161	19		Out of MI
+2008	Michigan	US	09/29/2021			2168	19		Out of MI
+2008	Michigan	US	09/30/2021			2168	19		Out of MI
+2008	Michigan	US	10/01/2021			2193	19		Out of MI
+2008	Michigan	US	10/02/2021			2193	19		Out of MI
+2008	Michigan	US	10/03/2021			2193	19		Out of MI
+2008	Michigan	US	10/04/2021			2217	19		Out of MI
+2008	Michigan	US	10/05/2021			2217	19		Out of MI
+2009	Michigan	US	10/06/2021			2219	19		Out of MI
+2009	Michigan	US	10/07/2021			2219	19		Out of MI
+2009	Michigan	US	10/08/2021			2230	19		Out of MI
+2009	Michigan	US	10/09/2021			2230	19		Out of MI
+2009	Michigan	US	10/10/2021			2230	19		Out of MI
+2009	Michigan	US	10/11/2021			2257	20		Out of MI
+2009	Michigan	US	10/12/2021			2257	20		Out of MI
+2009	Michigan	US	10/13/2021			2284	21		Out of MI
+2009	Michigan	US	10/14/2021			2284	21		Out of MI
+2009	Michigan	US	10/15/2021			2303	21		Out of MI
+2009	Michigan	US	10/16/2021			2303	21		Out of MI
+2009	Michigan	US	10/17/2021			2303	21		Out of MI
+2009	Michigan	US	10/18/2021			2316	21		Out of MI
+2009	Michigan	US	10/19/2021			2316	21		Out of MI
+2009	Michigan	US	10/20/2021			2339	22		Out of MI
+2009	Michigan	US	10/21/2021			2339	22		Out of MI
+2009	Michigan	US	10/22/2021			2353	23		Out of MI
+2009	Michigan	US	10/23/2021			2353	23		Out of MI
+2009	Michigan	US	10/24/2021			2353	23		Out of MI
+2009	Michigan	US	10/25/2021			2368	24		Out of MI
+2009	Michigan	US	10/26/2021			2368	24		Out of MI
+2009	Michigan	US	10/27/2021			2381	24		Out of MI
+2009	Michigan	US	10/28/2021			2381	24		Out of MI
+2009	Michigan	US	10/29/2021			2390	24		Out of MI
+2009	Michigan	US	10/30/2021			2390	24		Out of MI
+2009	Michigan	US	10/31/2021			2390	24		Out of MI
+2010	Michigan	US	11/01/2021			2431	24		Out of MI
+2010	Michigan	US	11/02/2021			2431	24		Out of MI
+2010	Michigan	US	11/03/2021			2447	24		Out of MI
+2010	Michigan	US	11/04/2021			2447	24		Out of MI
+2010	Michigan	US	11/05/2021			2468	24		Out of MI
+2010	Michigan	US	11/06/2021			2468	24		Out of MI
+2010	Michigan	US	11/07/2021			2468	24		Out of MI
+2010	Michigan	US	11/08/2021			2472	24		Out of MI
+2010	Michigan	US	11/09/2021			2472	24		Out of MI
+2010	Michigan	US	11/10/2021			2483	24		Out of MI
+2010	Michigan	US	11/11/2021			2483	24		Out of MI
+2010	Michigan	US	11/12/2021			2516	24		Out of MI
+2010	Michigan	US	11/13/2021			2516	24		Out of MI
+2010	Michigan	US	11/14/2021			2516	24		Out of MI
+2010	Michigan	US	11/15/2021			2567	24		Out of MI
+2010	Michigan	US	11/16/2021			2567	24		Out of MI
+2010	Michigan	US	11/17/2021			2584	25		Out of MI
+2010	Michigan	US	11/18/2021			2584	25		Out of MI
+2010	Michigan	US	11/19/2021			2609	27		Out of MI
+2010	Michigan	US	11/20/2021			2609	27		Out of MI
+2010	Michigan	US	11/21/2021			2609	27		Out of MI
+2010	Michigan	US	11/22/2021			2654	28		Out of MI
+2010	Michigan	US	11/23/2021			2654	28		Out of MI
+2010	Michigan	US	11/24/2021			2676	31		Out of MI
+2010	Michigan	US	11/25/2021			2676	31		Out of MI
+2010	Michigan	US	11/26/2021			2676	31		Out of MI
+2010	Michigan	US	11/27/2021			2676	31		Out of MI
+2010	Michigan	US	11/28/2021			2676	31		Out of MI
+2010	Michigan	US	11/29/2021			2765	30		Out of MI
+2010	Michigan	US	11/30/2021			2765	30		Out of MI
+2010	Michigan	US	12/01/2021			2805	32		Out of MI
+2010	Michigan	US	12/02/2021			2805	32		Out of MI
+2010	Michigan	US	12/03/2021			2858	31		Out of MI
+2010	Michigan	US	12/04/2021			2858	31		Out of MI
+2010	Michigan	US	12/05/2021			2858	31		Out of MI
+2010	Michigan	US	12/06/2021			2900	32		Out of MI
+2010	Michigan	US	12/07/2021			2900	32		Out of MI
+2010	Michigan	US	12/08/2021			2938	34		Out of MI
+2010	Michigan	US	12/09/2021			2938	34		Out of MI
+2010	Michigan	US	12/10/2021			2951	34		Out of MI
+2010	Michigan	US	12/11/2021			2951	34		Out of MI
+2010	Michigan	US	12/12/2021			2951	34		Out of MI
+2010	Michigan	US	12/13/2021			3017	34		Out of MI
+2010	Michigan	US	12/14/2021			3017	34		Out of MI
+2010	Michigan	US	12/15/2021			3025	34		Out of MI
+2010	Michigan	US	12/16/2021			3025	34		Out of MI
+2010	Michigan	US	12/17/2021			3056	34		Out of MI
+2010	Michigan	US	12/18/2021			3056	34		Out of MI
+2010	Michigan	US	12/19/2021			3056	34		Out of MI
+2010	Michigan	US	12/20/2021			3091	34		Out of MI
+2010	Michigan	US	12/21/2021			3091	34		Out of MI

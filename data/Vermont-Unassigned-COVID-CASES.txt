@@ -1,508 +1,640 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2875	Unassigned	0	US	3	0.0	0.0	Vermont	0	03/23/2020
-2874	Unassigned	0	US	2	0.0	0.0	Vermont	0	03/24/2020
-2874	Unassigned	2	US	3	0.0	0.0	Vermont	0	03/25/2020
-2871	Unassigned	8	US	4	0.0	0.0	Vermont	0	03/26/2020
-2877	Unassigned	6	US	5	0.0	0.0	Vermont	0	03/27/2020
-2874	Unassigned	7	US	7	0.0	0.0	Vermont	0	03/28/2020
-2877	Unassigned	7	US	7	0.0	0.0	Vermont	0	03/29/2020
-2882	Unassigned	28	US	7	0.0	0.0	Vermont	0	03/30/2020
-1953	Unassigned	11	US	8	0.0	0.0	Vermont	0	03/31/2020
-2000	Unassigned	14	US	11	0.0	0.0	Vermont	0	04/01/2020
-2076	Unassigned	5	US	12			Vermont	0	04/02/2020
-2121	Unassigned	6	US	12			Vermont	0	04/03/2020
-2175	Unassigned	11	US	15			Vermont	0	04/04/2020
-2251	Unassigned	13	US	17			Vermont	0	04/05/2020
-2289	Unassigned	21	US	18			Vermont	0	04/06/2020
-2338	Unassigned	3	US	18			Vermont	0	04/07/2020
-2361	Unassigned	33	US	18			Vermont	0	04/08/2020
-2388	Unassigned	8	US	0			Vermont	0	04/09/2020
-2412	Unassigned	59	US	1			Vermont	0	04/10/2020
-2434	Unassigned	11	US	0			Vermont	0	04/11/2020
-2457	Unassigned	7	US	0			Vermont	0	04/12/2020
-2471	Unassigned	8	US	0			Vermont	0	04/13/2020
-2482	Unassigned	39	US	0			Vermont	0	04/14/2020
-2494	Unassigned	15	US	0			Vermont	0	04/15/2020
-2508	Unassigned	15	US	0			Vermont	0	04/16/2020
-2510	Unassigned	10	US	0			Vermont	0	04/17/2020
-2517	Unassigned	10	US	1			Vermont	0	04/18/2020
-2535	Unassigned	10	US	1			Vermont	0	04/19/2020
-2544	Unassigned	11	US	0			Vermont	0	04/20/2020
-2553	Unassigned	3	US	0			Vermont	0	04/21/2020
-2560	Unassigned	3	US	0			Vermont	0	04/22/2020
-2580	Unassigned	3	US	0			Vermont	0	04/23/2020
-2586	Unassigned	3	US	0			Vermont	0	04/24/2020
-2591	Unassigned	5	US	0			Vermont	0	04/25/2020
-2599	Unassigned	5	US	0			Vermont	0	04/26/2020
-2606	Unassigned	3	US	0			Vermont	0	04/27/2020
-2615	Unassigned	3	US	0			Vermont	0	04/28/2020
-2620	Unassigned	3	US	0			Vermont	0	04/29/2020
-2626	Unassigned	3	US	0			Vermont	0	04/30/2020
-2636	Unassigned	3	US	0			Vermont	0	05/01/2020
-2640	Unassigned	3	US	0			Vermont	0	05/02/2020
-2645	Unassigned	4	US	0			Vermont	0	05/03/2020
-2648	Unassigned	4	US	0			Vermont	0	05/04/2020
-2656	Unassigned	4	US	0			Vermont	0	05/05/2020
-2662	Unassigned	4	US	0			Vermont	0	05/06/2020
-2669	Unassigned	4	US	0			Vermont	0	05/07/2020
-2676	Unassigned	4	US	0			Vermont	0	05/08/2020
-2678	Unassigned	4	US	0			Vermont	0	05/09/2020
-2680	Unassigned	4	US	0			Vermont	0	05/10/2020
-2680	Unassigned	4	US	0			Vermont	0	05/11/2020
-2683	Unassigned	4	US	0			Vermont	0	05/12/2020
-2684	Unassigned	4	US	0			Vermont	0	05/13/2020
-2686	Unassigned	4	US	0			Vermont	0	05/14/2020
-2691	Unassigned	4	US	0			Vermont	0	05/15/2020
-2695	Unassigned	4	US	0			Vermont	0	05/16/2020
-2698	Unassigned	5	US	0			Vermont	0	05/17/2020
-2700	Unassigned	5	US	0			Vermont	0	05/18/2020
-2704	Unassigned	6	US	0			Vermont	0	05/19/2020
-2710	Unassigned	7	US	0			Vermont	0	05/20/2020
-2712	Unassigned	5	US	0			Vermont	0	05/21/2020
-2719	Unassigned	5	US	0			Vermont	0	05/22/2020
-2721	Unassigned	5	US	0			Vermont	0	05/23/2020
-2724	Unassigned	5	US	0			Vermont	0	05/24/2020
-2725	Unassigned	5	US	0			Vermont	0	05/25/2020
-2726	Unassigned	5	US	0			Vermont	0	05/26/2020
-2729	Unassigned	6	US	0			Vermont	0	05/27/2020
-2732	Unassigned	5	US	0			Vermont	0	05/28/2020
-2735	Unassigned	5	US	0			Vermont	0	05/29/2020
-2737	Unassigned	5	US	0			Vermont	0	05/30/2020
-2738	Unassigned	5	US	0			Vermont	0	05/31/2020
-2740	Unassigned	5	US	0			Vermont	0	06/01/2020
-2745	Unassigned	5	US	0			Vermont	0	06/02/2020
-2747	Unassigned	5	US	0			Vermont	0	06/03/2020
-2748	Unassigned	5	US	0			Vermont	0	06/04/2020
-2752	Unassigned	5	US	0			Vermont	0	06/05/2020
-2754	Unassigned	5	US	0			Vermont	0	06/06/2020
-2754	Unassigned	5	US	0			Vermont	0	06/07/2020
-2754	Unassigned	5	US	0			Vermont	0	06/08/2020
-2756	Unassigned	5	US	0			Vermont	0	06/09/2020
-2758	Unassigned	5	US	0			Vermont	0	06/10/2020
-2760	Unassigned	5	US	0			Vermont	0	06/11/2020
-2774	Unassigned	5	US	0			Vermont	0	06/12/2020
-2777	Unassigned	5	US	0			Vermont	0	06/13/2020
-2777	Unassigned	6	US	0			Vermont	0	06/14/2020
-2781	Unassigned	5	US	0			Vermont	0	06/15/2020
-2779	Unassigned	5	US	0			Vermont	0	06/16/2020
-2781	Unassigned	5	US	0			Vermont	0	06/17/2020
-2781	Unassigned	5	US	0			Vermont	0	06/18/2020
-2782	Unassigned	5	US	0			Vermont	0	06/19/2020
-2786	Unassigned	5	US	0			Vermont	0	06/20/2020
-2786	Unassigned	5	US	0			Vermont	0	06/21/2020
-2789	Unassigned	5	US	0			Vermont	0	06/22/2020
-2794	Unassigned	5	US	0			Vermont	0	06/23/2020
-2806	Unassigned	5	US	0			Vermont	0	06/24/2020
-2811	Unassigned	5	US	0			Vermont	0	06/25/2020
-2812	Unassigned	5	US	0			Vermont	0	06/26/2020
-2813	Unassigned	5	US	0			Vermont	0	06/27/2020
-2813	Unassigned	6	US	0			Vermont	0	06/28/2020
-2815	Unassigned	6	US	0			Vermont	0	06/29/2020
-2817	Unassigned	6	US	0			Vermont	0	06/30/2020
-2819	Unassigned	6	US	0			Vermont	0	07/01/2020
-2822	Unassigned	5	US	0			Vermont	0	07/02/2020
-2827	Unassigned	5	US	0			Vermont	0	07/03/2020
-2828	Unassigned	5	US	0			Vermont	0	07/04/2020
-2829	Unassigned	5	US	0			Vermont	0	07/05/2020
-2832	Unassigned	5	US	0			Vermont	0	07/06/2020
-2833	Unassigned	5	US	0			Vermont	0	07/07/2020
-2836	Unassigned	5	US	0			Vermont	0	07/08/2020
-2835	Unassigned	5	US	0			Vermont	0	07/09/2020
-2839	Unassigned	5	US	0			Vermont	0	07/10/2020
-2840	Unassigned	5	US	0			Vermont	0	07/11/2020
-2842	Unassigned	5	US	0			Vermont	0	07/12/2020
-2843	Unassigned	5	US	0			Vermont	0	07/13/2020
-2849	Unassigned	5	US	0			Vermont	0	07/14/2020
-2850	Unassigned	5	US	0			Vermont	0	07/15/2020
-2852	Unassigned	5	US	0			Vermont	0	07/16/2020
-2852	Unassigned	5	US	0			Vermont	0	07/17/2020
-2926	Unassigned	6	US	0			Vermont	0	07/18/2020
-2926	Unassigned	9	US	0			Vermont	0	07/19/2020
-2849	Unassigned	10	US	0			Vermont	0	07/20/2020
-2930	Unassigned	7	US	0			Vermont	0	07/21/2020
-2931	Unassigned	7	US	0			Vermont	0	07/22/2020
-2934	Unassigned	7	US	0			Vermont	0	07/23/2020
-2933	Unassigned	7	US	0			Vermont	0	07/24/2020
-2934	Unassigned	7	US	0			Vermont	0	07/25/2020
-2935	Unassigned	7	US	0			Vermont	0	07/26/2020
-2935	Unassigned	7	US	0			Vermont	0	07/27/2020
-2935	Unassigned	7	US	0			Vermont	0	07/28/2020
-2939	Unassigned	7	US	0			Vermont	0	07/29/2020
-2939	Unassigned	7	US	0			Vermont	0	07/30/2020
-2941	Unassigned	7	US	0			Vermont	0	07/31/2020
-2941	Unassigned	8	US	0			Vermont	0	08/01/2020
-2941	Unassigned	8	US	0			Vermont	0	08/02/2020
-2941	Unassigned	8	US	0			Vermont	0	08/03/2020
-2941	Unassigned	8	US	0			Vermont	0	08/04/2020
-2944	Unassigned	8	US	0			Vermont	0	08/05/2020
-2944	Unassigned	8	US	0			Vermont	0	08/06/2020
-2944	Unassigned	8	US	0			Vermont	0	08/07/2020
-2944	Unassigned	8	US	0			Vermont	0	08/08/2020
-2944	Unassigned	8	US	0			Vermont	0	08/09/2020
-2944	Unassigned	8	US	0			Vermont	0	08/10/2020
-3606	Unassigned	8	US	0			Vermont	0	08/11/2020
-3560	Unassigned	8	US	0			Vermont	0	08/12/2020
-3562	Unassigned	8	US	0			Vermont	0	08/13/2020
-3562	Unassigned	8	US	0			Vermont	0	08/14/2020
-3562	Unassigned	8	US	0			Vermont	0	08/15/2020
-3562	Unassigned	8	US	0			Vermont	0	08/16/2020
-3564	Unassigned	8	US	0			Vermont	0	08/17/2020
-3564	Unassigned	8	US	0			Vermont	0	08/18/2020
-3566	Unassigned	8	US	0			Vermont	0	08/19/2020
-3566	Unassigned	8	US	0			Vermont	0	08/20/2020
-3566	Unassigned	8	US	0			Vermont	0	08/21/2020
-3567	Unassigned	8	US	0			Vermont	0	08/22/2020
-3567	Unassigned	8	US	0			Vermont	0	08/23/2020
-3567	Unassigned	8	US	0			Vermont	0	08/24/2020
-3567	Unassigned	8	US	0			Vermont	0	08/25/2020
-3567	Unassigned	8	US	0			Vermont	0	08/26/2020
-3567	Unassigned	8	US	0			Vermont	0	08/27/2020
-3567	Unassigned	8	US	0			Vermont	0	08/28/2020
-3567	Unassigned	8	US	0			Vermont	0	08/29/2020
-3567	Unassigned	8	US	0			Vermont	0	08/30/2020
-3571	Unassigned	8	US	0			Vermont	0	08/31/2020
-3571	Unassigned	8	US	0			Vermont	0	09/01/2020
-3571	Unassigned	8	US	0			Vermont	0	09/02/2020
-3571	Unassigned	8	US	0			Vermont	0	09/03/2020
-3571	Unassigned	8	US	0			Vermont	0	09/04/2020
-3571	Unassigned	9	US	0			Vermont	0	09/05/2020
-3571	Unassigned	8	US	0			Vermont	0	09/06/2020
-3571	Unassigned	8	US	0			Vermont	0	09/07/2020
-3571	Unassigned	8	US	0			Vermont	0	09/08/2020
-3571	Unassigned	8	US	0			Vermont	0	09/09/2020
-3571	Unassigned	8	US	0			Vermont	0	09/10/2020
-3571	Unassigned	8	US	0			Vermont	0	09/11/2020
-3571	Unassigned	8	US	0			Vermont	0	09/12/2020
-3571	Unassigned	8	US	0			Vermont	0	09/13/2020
-3571	Unassigned	8	US	0			Vermont	0	09/14/2020
-3571	Unassigned	8	US	0			Vermont	0	09/15/2020
-3571	Unassigned	8	US	0			Vermont	0	09/16/2020
-3571	Unassigned	8	US	0			Vermont	0	09/17/2020
-3571	Unassigned	8	US	0			Vermont	0	09/18/2020
-3571	Unassigned	8	US	0			Vermont	0	09/19/2020
-3571	Unassigned	8	US	0			Vermont	0	09/20/2020
-3573	Unassigned	8	US	0			Vermont	0	09/21/2020
-3573	Unassigned	8	US	0			Vermont	0	09/22/2020
-3573	Unassigned	8	US	0			Vermont	0	09/23/2020
-3573	Unassigned	8	US	0			Vermont	0	09/24/2020
-3573	Unassigned	8	US	0			Vermont	0	09/25/2020
-3573	Unassigned	8	US	0			Vermont	0	09/26/2020
-3573	Unassigned	8	US	0			Vermont	0	09/27/2020
-3573	Unassigned	8	US	0			Vermont	0	09/28/2020
-3573	Unassigned	8	US	0			Vermont	0	09/29/2020
-3573	Unassigned	8	US	0			Vermont	0	09/30/2020
-3573	Unassigned	8	US	0			Vermont	0	10/01/2020
-3573	Unassigned	8	US	0			Vermont	0	10/02/2020
-3573	Unassigned	8	US	0			Vermont	0	10/03/2020
-3573	Unassigned	8	US	0			Vermont	0	10/04/2020
-3573	Unassigned	8	US	0			Vermont	0	10/05/2020
-3573	Unassigned	8	US	0			Vermont	0	10/06/2020
-3573	Unassigned	8	US	0			Vermont	0	10/07/2020
-3573	Unassigned	8	US	0			Vermont	0	10/08/2020
-3573	Unassigned	8	US	0			Vermont	0	10/09/2020
-3573	Unassigned	8	US	0			Vermont	0	10/10/2020
-3573	Unassigned	8	US	0			Vermont	0	10/11/2020
-3574	Unassigned	8	US	0			Vermont	0	10/12/2020
-3574	Unassigned	8	US	0			Vermont	0	10/13/2020
-3574	Unassigned	8	US	0			Vermont	0	10/14/2020
-3574	Unassigned	8	US	0			Vermont	0	10/15/2020
-3575	Unassigned	8	US	0			Vermont	0	10/16/2020
-3575	Unassigned	8	US	0			Vermont	0	10/17/2020
-3575	Unassigned	8	US	0			Vermont	0	10/18/2020
-3576	Unassigned	8	US	0			Vermont	0	10/19/2020
-3576	Unassigned	8	US	0			Vermont	0	10/20/2020
-3576	Unassigned	8	US	0			Vermont	0	10/21/2020
-3576	Unassigned	8	US	0			Vermont	0	10/22/2020
-3576	Unassigned	8	US	0			Vermont	0	10/23/2020
-3576	Unassigned	8	US	0			Vermont	0	10/24/2020
-3576	Unassigned	8	US	0			Vermont	0	10/25/2020
-3576	Unassigned	8	US	0			Vermont	0	10/26/2020
-3576	Unassigned	8	US	0			Vermont	0	10/27/2020
-3577	Unassigned	8	US	0.0			Vermont	0	10/28/2020
-3577	Unassigned	8	US	0			Vermont	0	10/29/2020
-3577	Unassigned	8	US	0			Vermont	0	10/30/2020
-3577	Unassigned	8	US	0			Vermont	0	10/31/2020
-3577	Unassigned	8	US	0			Vermont	0	11/01/2020
-3577	Unassigned	8	US	0			Vermont	0	11/02/2020
-3577	Unassigned	9	US	0			Vermont	0	11/03/2020
-3578	Unassigned	9	US	0			Vermont	0	11/04/2020
-3578	Unassigned	9	US	0			Vermont	0	11/05/2020
-3578	Unassigned	9	US	0			Vermont	0	11/06/2020
-3578	Unassigned	9	US	0			Vermont	0	11/07/2020
-3578	Unassigned	9	US	0			Vermont	0	11/08/2020
-3578	Unassigned	9	US	0			Vermont	0.0	11/09/2020
-3578	Unassigned	9	US	0			Vermont	0.0	11/10/2020
-3578	Unassigned	9	US	0			Vermont	0.0	11/11/2020
-3590	Unassigned	9	US	0			Vermont	0	11/12/2020
-3590	Unassigned	9	US	0			Vermont	0	11/13/2020
-3590	Unassigned	9	US	0			Vermont	0	11/14/2020
-3590	Unassigned	10	US	0			Vermont	0	11/15/2020
-3590	Unassigned	8	US	0			Vermont	0	11/16/2020
-3590	Unassigned	8	US	0			Vermont	0	11/17/2020
-3590	Unassigned	9	US	0			Vermont	0	11/18/2020
-3590	Unassigned	8	US	0			Vermont	0	11/19/2020
-3590	Unassigned	8	US	0			Vermont	0	11/20/2020
-3590	Unassigned	8	US	0			Vermont	0	11/21/2020
-3590	Unassigned	8	US	0			Vermont	0	11/22/2020
-3590	Unassigned	8	US	0			Vermont	0	11/23/2020
-3591	Unassigned	8	US	0			Vermont	0	11/24/2020
-3591	Unassigned	8	US	0			Vermont	0	11/25/2020
-3591	Unassigned	8	US	0			Vermont	0	11/26/2020
-3591	Unassigned	8	US	0			Vermont	0	11/27/2020
-3591	Unassigned	8	US	0			Vermont	0	11/28/2020
-3591	Unassigned	8	US	0			Vermont	0	11/29/2020
-3591	Unassigned	8	US	0			Vermont	0	11/30/2020
-3591	Unassigned	8	US	0			Vermont	0	12/01/2020
-3591	Unassigned	8	US	0			Vermont	0	12/02/2020
-3591	Unassigned	8	US	0			Vermont	0	12/03/2020
-3591	Unassigned	8	US	0			Vermont	0	12/04/2020
-3591	Unassigned	9	US	0			Vermont	0	12/05/2020
-3591	Unassigned	8	US	0			Vermont	0	12/06/2020
-3591	Unassigned	8	US	0			Vermont	0	12/07/2020
-3591	Unassigned	8	US	0			Vermont	0	12/08/2020
-3591	Unassigned	8	US	0			Vermont	0	12/09/2020
-3591	Unassigned	8	US	0			Vermont	0	12/10/2020
-3591	Unassigned	8	US	0			Vermont	0	12/11/2020
-3591	Unassigned	8	US	0			Vermont	0	12/12/2020
-3591	Unassigned	8	US	0			Vermont	0	12/13/2020
-3591	Unassigned	8	US	0			Vermont	0	12/14/2020
-3591	Unassigned	8	US	0			Vermont	0	12/15/2020
-3591	Unassigned	8	US	0			Vermont	0	12/16/2020
-3591	Unassigned	8	US	0			Vermont	0	12/17/2020
-3591	Unassigned	9	US	0			Vermont	0	12/18/2020
-3591	Unassigned	8	US	0			Vermont	0	12/19/2020
-3591	Unassigned	10	US	0			Vermont	0	12/20/2020
-3591	Unassigned	8	US	0			Vermont	0	12/21/2020
-3591	Unassigned	8	US	0			Vermont	0	12/22/2020
-3591	Unassigned	8	US	0			Vermont	0	12/23/2020
-3591	Unassigned	8	US	0			Vermont	0	12/24/2020
-3591	Unassigned	8	US	0			Vermont	0	12/25/2020
-3591	Unassigned	8	US	0			Vermont	0	12/26/2020
-3591	Unassigned	8	US	0			Vermont	0	12/27/2020
-3591	Unassigned	8	US	0			Vermont	0	12/28/2020
-3591	Unassigned	8	US	0			Vermont	0	12/29/2020
-3591	Unassigned	9	US	0			Vermont	0	12/30/2020
-3591	Unassigned	9	US	0			Vermont	0	12/31/2020
-3591	Unassigned	9	US	0			Vermont	0	01/01/2021
-3591	Unassigned	9	US	0			Vermont	0	01/02/2021
-3592	Unassigned	8	US	0			Vermont	0	01/03/2021
-3592	Unassigned	8	US	0			Vermont	0	01/04/2021
-3592	Unassigned	9	US	0			Vermont	0	01/05/2021
-3592	Unassigned	8	US	0			Vermont	0	01/06/2021
-3592	Unassigned	8	US	0			Vermont	0	01/07/2021
-3592	Unassigned	8	US	0			Vermont	0	01/08/2021
-3592	Unassigned	9	US	0			Vermont	0	01/09/2021
-3592	Unassigned	8	US	0			Vermont	0	01/10/2021
-3592	Unassigned	8	US	0			Vermont	0	01/11/2021
-3592	Unassigned	8	US	0			Vermont	0	01/12/2021
-3592	Unassigned	8	US	0			Vermont	0	01/13/2021
-3592	Unassigned	8	US	0			Vermont	0	01/14/2021
-3593	Unassigned	8	US	0			Vermont	0	01/15/2021
-3593	Unassigned	8	US	0			Vermont	0	01/16/2021
-3593	Unassigned	9	US	0			Vermont	0	01/17/2021
-3593	Unassigned	8	US	0			Vermont	0	01/18/2021
-3593	Unassigned	8	US	0			Vermont	0	01/19/2021
-3593	Unassigned	8	US	0			Vermont	0	01/20/2021
-3594	Unassigned	8	US	0			Vermont	0	01/21/2021
-3594	Unassigned	8	US	0			Vermont	0	01/22/2021
-3594	Unassigned	8	US	0			Vermont	0	01/23/2021
-3594	Unassigned	8	US	0			Vermont	0	01/24/2021
-3594	Unassigned	8	US	0			Vermont	0	01/25/2021
-3594	Unassigned	11	US	0			Vermont	0	01/26/2021
-3594	Unassigned	8	US	0			Vermont	0	01/27/2021
-3594	Unassigned	8	US	0			Vermont	0	01/28/2021
-3594	Unassigned	8	US	0			Vermont	0	01/29/2021
-3594	Unassigned	8	US	0			Vermont	0	01/30/2021
-3594	Unassigned	12	US	0			Vermont	0	01/31/2021
-3594	Unassigned	9	US	0			Vermont	0	02/01/2021
-3594	Unassigned	8	US	0			Vermont	0	02/02/2021
-3594	Unassigned	8	US	0			Vermont	0	02/03/2021
-3594	Unassigned	8	US	0			Vermont	0	02/04/2021
-3594	Unassigned	8	US	0			Vermont	0	02/05/2021
-3594	Unassigned	8	US	0			Vermont	0	02/06/2021
-3594	Unassigned	8	US	0			Vermont	0	02/07/2021
-3594	Unassigned	8	US	0			Vermont	0	02/08/2021
-3594	Unassigned	8	US	0			Vermont	0	02/09/2021
-3594	Unassigned	8	US	0			Vermont	0	02/10/2021
-3594	Unassigned	9	US	0			Vermont	0	02/11/2021
-3594	Unassigned	8	US	0			Vermont	0	02/12/2021
-3594	Unassigned	8	US	0			Vermont	0	02/13/2021
-3594	Unassigned	8	US	0			Vermont	0	02/14/2021
-3594	Unassigned	8	US	0			Vermont	0	02/15/2021
-3594	Unassigned	8	US	0			Vermont	0	02/16/2021
-3594	Unassigned	8	US	0			Vermont	0	02/17/2021
-3594	Unassigned	8	US	0			Vermont	0	02/18/2021
-3595	Unassigned	8	US	0			Vermont	0	02/19/2021
-3595	Unassigned	9	US	0			Vermont	0	02/20/2021
-3595	Unassigned	8	US	0			Vermont	0	02/21/2021
-3595	Unassigned	8	US	0			Vermont	0	02/22/2021
-3595	Unassigned	8	US	0			Vermont	0	02/23/2021
-3595	Unassigned	8	US	0			Vermont	0	02/24/2021
-3595	Unassigned	8	US	0			Vermont	0	02/25/2021
-3595	Unassigned	8	US	0			Vermont	0	02/26/2021
-3595	Unassigned	8	US	0			Vermont	0	02/27/2021
-3595	Unassigned	8	US	0			Vermont	0	02/28/2021
-3595	Unassigned	9	US	0			Vermont	0	03/01/2021
-3595	Unassigned	8	US	0			Vermont	0	03/02/2021
-3595	Unassigned	8	US	0			Vermont	0	03/03/2021
-3595	Unassigned	8	US	0			Vermont	0	03/04/2021
-3595	Unassigned	8	US	0			Vermont	0	03/05/2021
-3595	Unassigned	8	US	0			Vermont	0	03/06/2021
-3595	Unassigned	8	US	0			Vermont		03/07/2021
-3595	Unassigned	8	US	0			Vermont		03/08/2021
-3595	Unassigned	8	US	0			Vermont		03/09/2021
-3595	Unassigned	8	US	0			Vermont		03/10/2021
-3595	Unassigned	8	US	0			Vermont		03/11/2021
-3595	Unassigned	8	US	0			Vermont		03/12/2021
-3595	Unassigned	8	US	0			Vermont		03/13/2021
-3595	Unassigned	8	US	0			Vermont		03/14/2021
-3595	Unassigned	8	US	0			Vermont		03/15/2021
-3595	Unassigned	8	US	0			Vermont		03/16/2021
-3595	Unassigned	8	US	0			Vermont		03/17/2021
-3595	Unassigned	8	US	0			Vermont		03/18/2021
-3595	Unassigned	9	US	0			Vermont		03/19/2021
-3595	Unassigned	8	US	0			Vermont		03/20/2021
-3595	Unassigned	8	US	0			Vermont		03/21/2021
-3595	Unassigned	8	US	0			Vermont		03/22/2021
-3595	Unassigned	8	US	0			Vermont		03/23/2021
-3595	Unassigned	8	US	0			Vermont		03/24/2021
-3595	Unassigned	9	US	0			Vermont		03/25/2021
-3595	Unassigned	9	US	0			Vermont		03/26/2021
-3595	Unassigned	12	US	0			Vermont		03/27/2021
-3595	Unassigned	11	US	0			Vermont		03/28/2021
-3595	Unassigned	10	US	0			Vermont		03/29/2021
-3595	Unassigned	11	US	0			Vermont		03/30/2021
-3595	Unassigned	12	US	0			Vermont		03/31/2021
-3595	Unassigned	11	US	0			Vermont		04/01/2021
-3597	Unassigned	11	US	0			Vermont		04/02/2021
-3597	Unassigned	12	US	0			Vermont		04/03/2021
-3597	Unassigned	12	US	0			Vermont		04/04/2021
-3597	Unassigned	12	US	0			Vermont		04/05/2021
-3597	Unassigned	12	US	0			Vermont		04/06/2021
-3597	Unassigned	12	US	0			Vermont		04/07/2021
-3597	Unassigned	12	US	0			Vermont		04/08/2021
-3597	Unassigned	12	US	0			Vermont		04/09/2021
-3597	Unassigned	12	US	0			Vermont		04/10/2021
-3597	Unassigned	12	US	0			Vermont		04/11/2021
-3597	Unassigned	13	US	0			Vermont		04/12/2021
-3597	Unassigned	12	US	0			Vermont		04/13/2021
-3597	Unassigned	12	US	0			Vermont		04/14/2021
-3597	Unassigned	12	US	0			Vermont		04/15/2021
-3597	Unassigned	12	US	0			Vermont		04/16/2021
-3597	Unassigned	12	US	0			Vermont		04/17/2021
-3597	Unassigned	12	US	0			Vermont		04/18/2021
-3597	Unassigned	12	US	0			Vermont		04/19/2021
-3597	Unassigned	12	US	0			Vermont		04/20/2021
-3597	Unassigned	12	US	0			Vermont		04/21/2021
-3597	Unassigned	12	US	0			Vermont		04/22/2021
-3597	Unassigned	12	US	0			Vermont		04/23/2021
-3597	Unassigned	12	US	0			Vermont		04/24/2021
-3597	Unassigned	12	US	0			Vermont		04/25/2021
-3597	Unassigned	12	US	0			Vermont		04/26/2021
-3597	Unassigned	12	US	0			Vermont		04/27/2021
-3597	Unassigned	12	US	0			Vermont		04/28/2021
-3597	Unassigned	12	US	0			Vermont		04/29/2021
-3597	Unassigned	12	US	0			Vermont		04/30/2021
-3597	Unassigned	12	US	0			Vermont		05/01/2021
-3597	Unassigned	12	US	0			Vermont		05/02/2021
-3597	Unassigned	12	US	0			Vermont		05/03/2021
-3597	Unassigned	13	US	0			Vermont		05/04/2021
-3597	Unassigned	15	US	0			Vermont		05/05/2021
-3597	Unassigned	17	US	0			Vermont		05/06/2021
-3597	Unassigned	18	US	0			Vermont		05/07/2021
-3597	Unassigned	18	US	0			Vermont		05/08/2021
-3597	Unassigned	19	US	0			Vermont		05/09/2021
-3597	Unassigned	19	US	0			Vermont		05/10/2021
-3597	Unassigned	19	US	0			Vermont		05/11/2021
-3597	Unassigned	20	US	0			Vermont		05/12/2021
-3597	Unassigned	24	US	0			Vermont		05/13/2021
-3597	Unassigned	22	US	0			Vermont		05/14/2021
-3597	Unassigned	22	US	0			Vermont		05/15/2021
-3597	Unassigned	22	US	0			Vermont		05/16/2021
-3597	Unassigned	22	US	0			Vermont		05/17/2021
-3597	Unassigned	22	US	0			Vermont		05/18/2021
-3597	Unassigned	22	US	0			Vermont		05/19/2021
-3597	Unassigned	22	US	0			Vermont		05/20/2021
-3597	Unassigned	22	US	0			Vermont		05/21/2021
-3597	Unassigned	22	US	0			Vermont		05/22/2021
-3597	Unassigned	22	US	0			Vermont		05/23/2021
-3597	Unassigned	22	US	0			Vermont		05/24/2021
-3597	Unassigned	22	US	0			Vermont		05/25/2021
-3597	Unassigned	22	US	0			Vermont		05/26/2021
-3598	Unassigned	22	US	0			Vermont		05/27/2021
-3598	Unassigned	22	US	0			Vermont		05/28/2021
-3598	Unassigned	22	US	0			Vermont		05/29/2021
-3598	Unassigned	22	US	0			Vermont		05/30/2021
-3598	Unassigned	22	US	0			Vermont		05/31/2021
-3598	Unassigned	22	US	0			Vermont		06/01/2021
-3598	Unassigned	22	US	0			Vermont		06/02/2021
-3598	Unassigned	22	US	0			Vermont		06/03/2021
-3598	Unassigned	22	US	0			Vermont		06/04/2021
-3598	Unassigned	22	US	0			Vermont		06/05/2021
-3598	Unassigned	22	US	0			Vermont		06/06/2021
-3598	Unassigned	22	US	0			Vermont		06/07/2021
-3598	Unassigned	22	US	0			Vermont		06/08/2021
-3598	Unassigned	22	US	0			Vermont		06/09/2021
-3598	Unassigned	22	US	0			Vermont		06/10/2021
-3598	Unassigned	21	US	0			Vermont		06/11/2021
-3598	Unassigned	21	US	0			Vermont		06/12/2021
-3598	Unassigned	21	US	0			Vermont		06/13/2021
-3598	Unassigned	20	US	0			Vermont		06/14/2021
-3598	Unassigned	20	US	0			Vermont		06/15/2021
-3598	Unassigned	20	US	0			Vermont		06/16/2021
-3600	Unassigned	20	US	0			Vermont		06/17/2021
-3600	Unassigned	20	US	0			Vermont		06/18/2021
-3600	Unassigned	20	US	0			Vermont		06/19/2021
-3600	Unassigned	20	US	0			Vermont		06/20/2021
-3600	Unassigned	20	US	0			Vermont		06/21/2021
-3600	Unassigned	20	US	0			Vermont		06/22/2021
-3600	Unassigned	20	US	0			Vermont		06/23/2021
-3601	Unassigned	21	US	0			Vermont		06/24/2021
-3601	Unassigned	20	US	0			Vermont		06/25/2021
-3601	Unassigned	20	US	0			Vermont		06/26/2021
-3601	Unassigned	20	US	0			Vermont		06/27/2021
-3601	Unassigned	20	US	0			Vermont		06/28/2021
-3601	Unassigned	20	US	0			Vermont		06/29/2021
-3601	Unassigned	20	US	0			Vermont		06/30/2021
-3601	Unassigned	20	US	0			Vermont		07/01/2021
-3601	Unassigned	20	US	0			Vermont		07/02/2021
-3601	Unassigned	20	US	0			Vermont		07/03/2021
-3601	Unassigned	20	US	0			Vermont		07/04/2021
-3601	Unassigned	20	US	0			Vermont		07/05/2021
-3601	Unassigned	20	US	0			Vermont		07/06/2021
-3601	Unassigned	19	US	0			Vermont		07/07/2021
-3601	Unassigned	18	US	0			Vermont		07/08/2021
-3601	Unassigned	18	US	0			Vermont		07/09/2021
-3601	Unassigned	18	US	0			Vermont		07/10/2021
-3601	Unassigned	18	US	0			Vermont		07/11/2021
-3601	Unassigned	19	US	0			Vermont		07/12/2021
-3601	Unassigned	19	US	0			Vermont		07/13/2021
-3601	Unassigned	19	US	0			Vermont		07/14/2021
-3601	Unassigned	19	US	0			Vermont		07/15/2021
-3601	Unassigned	20	US	0			Vermont		07/16/2021
-3601	Unassigned	20	US	0			Vermont		07/17/2021
-3601	Unassigned	20	US	0			Vermont		07/18/2021
-3601	Unassigned	19	US	0			Vermont		07/19/2021
-3601	Unassigned	19	US	0			Vermont		07/20/2021
-3601	Unassigned	19	US	0			Vermont		07/21/2021
-3601	Unassigned	19	US	0			Vermont		07/22/2021
-3601	Unassigned	19	US	0			Vermont		07/23/2021
-3601	Unassigned	19	US	0			Vermont		07/24/2021
-3601	Unassigned	19	US	0			Vermont		07/25/2021
-3601	Unassigned	19	US	0			Vermont		07/26/2021
-3601	Unassigned	19	US	0			Vermont		07/27/2021
-3601	Unassigned	19	US	0			Vermont		07/28/2021
-3601	Unassigned	19	US	0			Vermont		07/29/2021
-3601	Unassigned	19	US	0			Vermont		07/30/2021
-3601	Unassigned	19	US	0			Vermont		07/31/2021
-3601	Unassigned	19	US	0			Vermont		08/01/2021
-3601	Unassigned	19	US	0			Vermont		08/02/2021
-3601	Unassigned	19	US	0			Vermont		08/03/2021
-3601	Unassigned	19	US	0			Vermont		08/04/2021
-3601	Unassigned	19	US	0			Vermont		08/05/2021
-3601	Unassigned	19	US	0			Vermont		08/06/2021
-3601	Unassigned	19	US	0			Vermont		08/07/2021
-3601	Unassigned	19	US	0			Vermont		08/08/2021
-3601	Unassigned	21	US	0			Vermont		08/09/2021
-3601	Unassigned	20	US	0			Vermont		08/10/2021
-3601	Unassigned	20	US	0			Vermont		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2875	Vermont	US	03/23/2020	0.0	0.0	0	3	0	Unassigned
+2874	Vermont	US	03/24/2020	0.0	0.0	0	2	0	Unassigned
+2874	Vermont	US	03/25/2020	0.0	0.0	2	3	0	Unassigned
+2871	Vermont	US	03/26/2020	0.0	0.0	8	4	0	Unassigned
+2877	Vermont	US	03/27/2020	0.0	0.0	6	5	0	Unassigned
+2874	Vermont	US	03/28/2020	0.0	0.0	7	7	0	Unassigned
+2877	Vermont	US	03/29/2020	0.0	0.0	7	7	0	Unassigned
+2882	Vermont	US	03/30/2020	0.0	0.0	28	7	0	Unassigned
+1953	Vermont	US	03/31/2020	0.0	0.0	11	8	0	Unassigned
+2000	Vermont	US	04/01/2020	0.0	0.0	14	11	0	Unassigned
+2076	Vermont	US	04/02/2020			5	12	0	Unassigned
+2121	Vermont	US	04/03/2020			6	12	0	Unassigned
+2175	Vermont	US	04/04/2020			11	15	0	Unassigned
+2251	Vermont	US	04/05/2020			13	17	0	Unassigned
+2289	Vermont	US	04/06/2020			21	18	0	Unassigned
+2338	Vermont	US	04/07/2020			3	18	0	Unassigned
+2361	Vermont	US	04/08/2020			33	18	0	Unassigned
+2388	Vermont	US	04/09/2020			8	0	0	Unassigned
+2412	Vermont	US	04/10/2020			59	1	0	Unassigned
+2434	Vermont	US	04/11/2020			11	0	0	Unassigned
+2457	Vermont	US	04/12/2020			7	0	0	Unassigned
+2471	Vermont	US	04/13/2020			8	0	0	Unassigned
+2482	Vermont	US	04/14/2020			39	0	0	Unassigned
+2494	Vermont	US	04/15/2020			15	0	0	Unassigned
+2508	Vermont	US	04/16/2020			15	0	0	Unassigned
+2510	Vermont	US	04/17/2020			10	0	0	Unassigned
+2517	Vermont	US	04/18/2020			10	1	0	Unassigned
+2535	Vermont	US	04/19/2020			10	1	0	Unassigned
+2544	Vermont	US	04/20/2020			11	0	0	Unassigned
+2553	Vermont	US	04/21/2020			3	0	0	Unassigned
+2560	Vermont	US	04/22/2020			3	0	0	Unassigned
+2580	Vermont	US	04/23/2020			3	0	0	Unassigned
+2586	Vermont	US	04/24/2020			3	0	0	Unassigned
+2591	Vermont	US	04/25/2020			5	0	0	Unassigned
+2599	Vermont	US	04/26/2020			5	0	0	Unassigned
+2606	Vermont	US	04/27/2020			3	0	0	Unassigned
+2615	Vermont	US	04/28/2020			3	0	0	Unassigned
+2620	Vermont	US	04/29/2020			3	0	0	Unassigned
+2626	Vermont	US	04/30/2020			3	0	0	Unassigned
+2636	Vermont	US	05/01/2020			3	0	0	Unassigned
+2640	Vermont	US	05/02/2020			3	0	0	Unassigned
+2645	Vermont	US	05/03/2020			4	0	0	Unassigned
+2648	Vermont	US	05/04/2020			4	0	0	Unassigned
+2656	Vermont	US	05/05/2020			4	0	0	Unassigned
+2662	Vermont	US	05/06/2020			4	0	0	Unassigned
+2669	Vermont	US	05/07/2020			4	0	0	Unassigned
+2676	Vermont	US	05/08/2020			4	0	0	Unassigned
+2678	Vermont	US	05/09/2020			4	0	0	Unassigned
+2680	Vermont	US	05/10/2020			4	0	0	Unassigned
+2680	Vermont	US	05/11/2020			4	0	0	Unassigned
+2683	Vermont	US	05/12/2020			4	0	0	Unassigned
+2684	Vermont	US	05/13/2020			4	0	0	Unassigned
+2686	Vermont	US	05/14/2020			4	0	0	Unassigned
+2691	Vermont	US	05/15/2020			4	0	0	Unassigned
+2695	Vermont	US	05/16/2020			4	0	0	Unassigned
+2698	Vermont	US	05/17/2020			5	0	0	Unassigned
+2700	Vermont	US	05/18/2020			5	0	0	Unassigned
+2704	Vermont	US	05/19/2020			6	0	0	Unassigned
+2710	Vermont	US	05/20/2020			7	0	0	Unassigned
+2712	Vermont	US	05/21/2020			5	0	0	Unassigned
+2719	Vermont	US	05/22/2020			5	0	0	Unassigned
+2721	Vermont	US	05/23/2020			5	0	0	Unassigned
+2724	Vermont	US	05/24/2020			5	0	0	Unassigned
+2725	Vermont	US	05/25/2020			5	0	0	Unassigned
+2726	Vermont	US	05/26/2020			5	0	0	Unassigned
+2729	Vermont	US	05/27/2020			6	0	0	Unassigned
+2732	Vermont	US	05/28/2020			5	0	0	Unassigned
+2735	Vermont	US	05/29/2020			5	0	0	Unassigned
+2737	Vermont	US	05/30/2020			5	0	0	Unassigned
+2738	Vermont	US	05/31/2020			5	0	0	Unassigned
+2740	Vermont	US	06/01/2020			5	0	0	Unassigned
+2745	Vermont	US	06/02/2020			5	0	0	Unassigned
+2747	Vermont	US	06/03/2020			5	0	0	Unassigned
+2748	Vermont	US	06/04/2020			5	0	0	Unassigned
+2752	Vermont	US	06/05/2020			5	0	0	Unassigned
+2754	Vermont	US	06/06/2020			5	0	0	Unassigned
+2754	Vermont	US	06/07/2020			5	0	0	Unassigned
+2754	Vermont	US	06/08/2020			5	0	0	Unassigned
+2756	Vermont	US	06/09/2020			5	0	0	Unassigned
+2758	Vermont	US	06/10/2020			5	0	0	Unassigned
+2760	Vermont	US	06/11/2020			5	0	0	Unassigned
+2774	Vermont	US	06/12/2020			5	0	0	Unassigned
+2777	Vermont	US	06/13/2020			5	0	0	Unassigned
+2777	Vermont	US	06/14/2020			6	0	0	Unassigned
+2781	Vermont	US	06/15/2020			5	0	0	Unassigned
+2779	Vermont	US	06/16/2020			5	0	0	Unassigned
+2781	Vermont	US	06/17/2020			5	0	0	Unassigned
+2781	Vermont	US	06/18/2020			5	0	0	Unassigned
+2782	Vermont	US	06/19/2020			5	0	0	Unassigned
+2786	Vermont	US	06/20/2020			5	0	0	Unassigned
+2786	Vermont	US	06/21/2020			5	0	0	Unassigned
+2789	Vermont	US	06/22/2020			5	0	0	Unassigned
+2794	Vermont	US	06/23/2020			5	0	0	Unassigned
+2806	Vermont	US	06/24/2020			5	0	0	Unassigned
+2811	Vermont	US	06/25/2020			5	0	0	Unassigned
+2812	Vermont	US	06/26/2020			5	0	0	Unassigned
+2813	Vermont	US	06/27/2020			5	0	0	Unassigned
+2813	Vermont	US	06/28/2020			6	0	0	Unassigned
+2815	Vermont	US	06/29/2020			6	0	0	Unassigned
+2817	Vermont	US	06/30/2020			6	0	0	Unassigned
+2819	Vermont	US	07/01/2020			6	0	0	Unassigned
+2822	Vermont	US	07/02/2020			5	0	0	Unassigned
+2827	Vermont	US	07/03/2020			5	0	0	Unassigned
+2828	Vermont	US	07/04/2020			5	0	0	Unassigned
+2829	Vermont	US	07/05/2020			5	0	0	Unassigned
+2832	Vermont	US	07/06/2020			5	0	0	Unassigned
+2833	Vermont	US	07/07/2020			5	0	0	Unassigned
+2836	Vermont	US	07/08/2020			5	0	0	Unassigned
+2835	Vermont	US	07/09/2020			5	0	0	Unassigned
+2839	Vermont	US	07/10/2020			5	0	0	Unassigned
+2840	Vermont	US	07/11/2020			5	0	0	Unassigned
+2842	Vermont	US	07/12/2020			5	0	0	Unassigned
+2843	Vermont	US	07/13/2020			5	0	0	Unassigned
+2849	Vermont	US	07/14/2020			5	0	0	Unassigned
+2850	Vermont	US	07/15/2020			5	0	0	Unassigned
+2852	Vermont	US	07/16/2020			5	0	0	Unassigned
+2852	Vermont	US	07/17/2020			5	0	0	Unassigned
+2926	Vermont	US	07/18/2020			6	0	0	Unassigned
+2926	Vermont	US	07/19/2020			9	0	0	Unassigned
+2849	Vermont	US	07/20/2020			10	0	0	Unassigned
+2930	Vermont	US	07/21/2020			7	0	0	Unassigned
+2931	Vermont	US	07/22/2020			7	0	0	Unassigned
+2934	Vermont	US	07/23/2020			7	0	0	Unassigned
+2933	Vermont	US	07/24/2020			7	0	0	Unassigned
+2934	Vermont	US	07/25/2020			7	0	0	Unassigned
+2935	Vermont	US	07/26/2020			7	0	0	Unassigned
+2935	Vermont	US	07/27/2020			7	0	0	Unassigned
+2935	Vermont	US	07/28/2020			7	0	0	Unassigned
+2939	Vermont	US	07/29/2020			7	0	0	Unassigned
+2939	Vermont	US	07/30/2020			7	0	0	Unassigned
+2941	Vermont	US	07/31/2020			7	0	0	Unassigned
+2941	Vermont	US	08/01/2020			8	0	0	Unassigned
+2941	Vermont	US	08/02/2020			8	0	0	Unassigned
+2941	Vermont	US	08/03/2020			8	0	0	Unassigned
+2941	Vermont	US	08/04/2020			8	0	0	Unassigned
+2944	Vermont	US	08/05/2020			8	0	0	Unassigned
+2944	Vermont	US	08/06/2020			8	0	0	Unassigned
+2944	Vermont	US	08/07/2020			8	0	0	Unassigned
+2944	Vermont	US	08/08/2020			8	0	0	Unassigned
+2944	Vermont	US	08/09/2020			8	0	0	Unassigned
+2944	Vermont	US	08/10/2020			8	0	0	Unassigned
+3605	Vermont	US	08/11/2020			8	0	0	Unassigned
+3559	Vermont	US	08/12/2020			8	0	0	Unassigned
+3561	Vermont	US	08/13/2020			8	0	0	Unassigned
+3561	Vermont	US	08/14/2020			8	0	0	Unassigned
+3561	Vermont	US	08/15/2020			8	0	0	Unassigned
+3561	Vermont	US	08/16/2020			8	0	0	Unassigned
+3563	Vermont	US	08/17/2020			8	0	0	Unassigned
+3563	Vermont	US	08/18/2020			8	0	0	Unassigned
+3565	Vermont	US	08/19/2020			8	0	0	Unassigned
+3565	Vermont	US	08/20/2020			8	0	0	Unassigned
+3565	Vermont	US	08/21/2020			8	0	0	Unassigned
+3566	Vermont	US	08/22/2020			8	0	0	Unassigned
+3566	Vermont	US	08/23/2020			8	0	0	Unassigned
+3566	Vermont	US	08/24/2020			8	0	0	Unassigned
+3566	Vermont	US	08/25/2020			8	0	0	Unassigned
+3566	Vermont	US	08/26/2020			8	0	0	Unassigned
+3566	Vermont	US	08/27/2020			8	0	0	Unassigned
+3566	Vermont	US	08/28/2020			8	0	0	Unassigned
+3566	Vermont	US	08/29/2020			8	0	0	Unassigned
+3566	Vermont	US	08/30/2020			8	0	0	Unassigned
+3570	Vermont	US	08/31/2020			8	0	0	Unassigned
+3570	Vermont	US	09/01/2020			8	0	0	Unassigned
+3570	Vermont	US	09/02/2020			8	0	0	Unassigned
+3570	Vermont	US	09/03/2020			8	0	0	Unassigned
+3570	Vermont	US	09/04/2020			8	0	0	Unassigned
+3570	Vermont	US	09/05/2020			9	0	0	Unassigned
+3570	Vermont	US	09/06/2020			8	0	0	Unassigned
+3570	Vermont	US	09/07/2020			8	0	0	Unassigned
+3570	Vermont	US	09/08/2020			8	0	0	Unassigned
+3570	Vermont	US	09/09/2020			8	0	0	Unassigned
+3570	Vermont	US	09/10/2020			8	0	0	Unassigned
+3570	Vermont	US	09/11/2020			8	0	0	Unassigned
+3570	Vermont	US	09/12/2020			8	0	0	Unassigned
+3570	Vermont	US	09/13/2020			8	0	0	Unassigned
+3570	Vermont	US	09/14/2020			8	0	0	Unassigned
+3570	Vermont	US	09/15/2020			8	0	0	Unassigned
+3570	Vermont	US	09/16/2020			8	0	0	Unassigned
+3570	Vermont	US	09/17/2020			8	0	0	Unassigned
+3570	Vermont	US	09/18/2020			8	0	0	Unassigned
+3570	Vermont	US	09/19/2020			8	0	0	Unassigned
+3570	Vermont	US	09/20/2020			8	0	0	Unassigned
+3572	Vermont	US	09/21/2020			8	0	0	Unassigned
+3572	Vermont	US	09/22/2020			8	0	0	Unassigned
+3572	Vermont	US	09/23/2020			8	0	0	Unassigned
+3572	Vermont	US	09/24/2020			8	0	0	Unassigned
+3572	Vermont	US	09/25/2020			8	0	0	Unassigned
+3572	Vermont	US	09/26/2020			8	0	0	Unassigned
+3572	Vermont	US	09/27/2020			8	0	0	Unassigned
+3572	Vermont	US	09/28/2020			8	0	0	Unassigned
+3572	Vermont	US	09/29/2020			8	0	0	Unassigned
+3572	Vermont	US	09/30/2020			8	0	0	Unassigned
+3572	Vermont	US	10/01/2020			8	0	0	Unassigned
+3572	Vermont	US	10/02/2020			8	0	0	Unassigned
+3572	Vermont	US	10/03/2020			8	0	0	Unassigned
+3572	Vermont	US	10/04/2020			8	0	0	Unassigned
+3572	Vermont	US	10/05/2020			8	0	0	Unassigned
+3572	Vermont	US	10/06/2020			8	0	0	Unassigned
+3572	Vermont	US	10/07/2020			8	0	0	Unassigned
+3572	Vermont	US	10/08/2020			8	0	0	Unassigned
+3572	Vermont	US	10/09/2020			8	0	0	Unassigned
+3572	Vermont	US	10/10/2020			8	0	0	Unassigned
+3572	Vermont	US	10/11/2020			8	0	0	Unassigned
+3573	Vermont	US	10/12/2020			8	0	0	Unassigned
+3573	Vermont	US	10/13/2020			8	0	0	Unassigned
+3573	Vermont	US	10/14/2020			8	0	0	Unassigned
+3573	Vermont	US	10/15/2020			8	0	0	Unassigned
+3574	Vermont	US	10/16/2020			8	0	0	Unassigned
+3574	Vermont	US	10/17/2020			8	0	0	Unassigned
+3574	Vermont	US	10/18/2020			8	0	0	Unassigned
+3575	Vermont	US	10/19/2020			8	0	0	Unassigned
+3575	Vermont	US	10/20/2020			8	0	0	Unassigned
+3575	Vermont	US	10/21/2020			8	0	0	Unassigned
+3575	Vermont	US	10/22/2020			8	0	0	Unassigned
+3575	Vermont	US	10/23/2020			8	0	0	Unassigned
+3575	Vermont	US	10/24/2020			8	0	0	Unassigned
+3575	Vermont	US	10/25/2020			8	0	0	Unassigned
+3575	Vermont	US	10/26/2020			8	0	0	Unassigned
+3575	Vermont	US	10/27/2020			8	0	0	Unassigned
+3576	Vermont	US	10/28/2020			8	0.0	0	Unassigned
+3576	Vermont	US	10/29/2020			8	0	0	Unassigned
+3576	Vermont	US	10/30/2020			8	0	0	Unassigned
+3576	Vermont	US	10/31/2020			8	0	0	Unassigned
+3576	Vermont	US	11/01/2020			8	0	0	Unassigned
+3576	Vermont	US	11/02/2020			8	0	0	Unassigned
+3576	Vermont	US	11/03/2020			9	0	0	Unassigned
+3577	Vermont	US	11/04/2020			9	0	0	Unassigned
+3577	Vermont	US	11/05/2020			9	0	0	Unassigned
+3577	Vermont	US	11/06/2020			9	0	0	Unassigned
+3577	Vermont	US	11/07/2020			9	0	0	Unassigned
+3577	Vermont	US	11/08/2020			9	0	0	Unassigned
+3577	Vermont	US	11/09/2020			9	0	0.0	Unassigned
+3577	Vermont	US	11/10/2020			9	0	0.0	Unassigned
+3577	Vermont	US	11/11/2020			9	0	0.0	Unassigned
+3589	Vermont	US	11/12/2020			9	0	0	Unassigned
+3589	Vermont	US	11/13/2020			9	0	0	Unassigned
+3589	Vermont	US	11/14/2020			9	0	0	Unassigned
+3589	Vermont	US	11/15/2020			10	0	0	Unassigned
+3589	Vermont	US	11/16/2020			8	0	0	Unassigned
+3589	Vermont	US	11/17/2020			8	0	0	Unassigned
+3589	Vermont	US	11/18/2020			9	0	0	Unassigned
+3589	Vermont	US	11/19/2020			8	0	0	Unassigned
+3589	Vermont	US	11/20/2020			8	0	0	Unassigned
+3589	Vermont	US	11/21/2020			8	0	0	Unassigned
+3589	Vermont	US	11/22/2020			8	0	0	Unassigned
+3589	Vermont	US	11/23/2020			8	0	0	Unassigned
+3590	Vermont	US	11/24/2020			8	0	0	Unassigned
+3590	Vermont	US	11/25/2020			8	0	0	Unassigned
+3590	Vermont	US	11/26/2020			8	0	0	Unassigned
+3590	Vermont	US	11/27/2020			8	0	0	Unassigned
+3590	Vermont	US	11/28/2020			8	0	0	Unassigned
+3590	Vermont	US	11/29/2020			8	0	0	Unassigned
+3590	Vermont	US	11/30/2020			8	0	0	Unassigned
+3590	Vermont	US	12/01/2020			8	0	0	Unassigned
+3590	Vermont	US	12/02/2020			8	0	0	Unassigned
+3590	Vermont	US	12/03/2020			8	0	0	Unassigned
+3590	Vermont	US	12/04/2020			8	0	0	Unassigned
+3590	Vermont	US	12/05/2020			9	0	0	Unassigned
+3590	Vermont	US	12/06/2020			8	0	0	Unassigned
+3590	Vermont	US	12/07/2020			8	0	0	Unassigned
+3590	Vermont	US	12/08/2020			8	0	0	Unassigned
+3590	Vermont	US	12/09/2020			8	0	0	Unassigned
+3590	Vermont	US	12/10/2020			8	0	0	Unassigned
+3590	Vermont	US	12/11/2020			8	0	0	Unassigned
+3590	Vermont	US	12/12/2020			8	0	0	Unassigned
+3590	Vermont	US	12/13/2020			8	0	0	Unassigned
+3590	Vermont	US	12/14/2020			8	0	0	Unassigned
+3590	Vermont	US	12/15/2020			8	0	0	Unassigned
+3590	Vermont	US	12/16/2020			8	0	0	Unassigned
+3590	Vermont	US	12/17/2020			8	0	0	Unassigned
+3590	Vermont	US	12/18/2020			9	0	0	Unassigned
+3590	Vermont	US	12/19/2020			8	0	0	Unassigned
+3590	Vermont	US	12/20/2020			10	0	0	Unassigned
+3590	Vermont	US	12/21/2020			8	0	0	Unassigned
+3590	Vermont	US	12/22/2020			8	0	0	Unassigned
+3590	Vermont	US	12/23/2020			8	0	0	Unassigned
+3590	Vermont	US	12/24/2020			8	0	0	Unassigned
+3590	Vermont	US	12/25/2020			8	0	0	Unassigned
+3590	Vermont	US	12/26/2020			8	0	0	Unassigned
+3590	Vermont	US	12/27/2020			8	0	0	Unassigned
+3590	Vermont	US	12/28/2020			8	0	0	Unassigned
+3590	Vermont	US	12/29/2020			8	0	0	Unassigned
+3590	Vermont	US	12/30/2020			9	0	0	Unassigned
+3590	Vermont	US	12/31/2020			9	0	0	Unassigned
+3590	Vermont	US	01/01/2021			9	0	0	Unassigned
+3590	Vermont	US	01/02/2021			9	0	0	Unassigned
+3591	Vermont	US	01/03/2021			8	0	0	Unassigned
+3591	Vermont	US	01/04/2021			8	0	0	Unassigned
+3591	Vermont	US	01/05/2021			9	0	0	Unassigned
+3591	Vermont	US	01/06/2021			8	0	0	Unassigned
+3591	Vermont	US	01/07/2021			8	0	0	Unassigned
+3591	Vermont	US	01/08/2021			8	0	0	Unassigned
+3591	Vermont	US	01/09/2021			9	0	0	Unassigned
+3591	Vermont	US	01/10/2021			8	0	0	Unassigned
+3591	Vermont	US	01/11/2021			8	0	0	Unassigned
+3591	Vermont	US	01/12/2021			8	0	0	Unassigned
+3591	Vermont	US	01/13/2021			8	0	0	Unassigned
+3591	Vermont	US	01/14/2021			8	0	0	Unassigned
+3592	Vermont	US	01/15/2021			8	0	0	Unassigned
+3592	Vermont	US	01/16/2021			8	0	0	Unassigned
+3592	Vermont	US	01/17/2021			9	0	0	Unassigned
+3592	Vermont	US	01/18/2021			8	0	0	Unassigned
+3592	Vermont	US	01/19/2021			8	0	0	Unassigned
+3592	Vermont	US	01/20/2021			8	0	0	Unassigned
+3593	Vermont	US	01/21/2021			8	0	0	Unassigned
+3593	Vermont	US	01/22/2021			8	0	0	Unassigned
+3593	Vermont	US	01/23/2021			8	0	0	Unassigned
+3593	Vermont	US	01/24/2021			8	0	0	Unassigned
+3593	Vermont	US	01/25/2021			8	0	0	Unassigned
+3593	Vermont	US	01/26/2021			11	0	0	Unassigned
+3593	Vermont	US	01/27/2021			8	0	0	Unassigned
+3593	Vermont	US	01/28/2021			8	0	0	Unassigned
+3593	Vermont	US	01/29/2021			8	0	0	Unassigned
+3593	Vermont	US	01/30/2021			8	0	0	Unassigned
+3593	Vermont	US	01/31/2021			12	0	0	Unassigned
+3593	Vermont	US	02/01/2021			9	0	0	Unassigned
+3593	Vermont	US	02/02/2021			8	0	0	Unassigned
+3593	Vermont	US	02/03/2021			8	0	0	Unassigned
+3593	Vermont	US	02/04/2021			8	0	0	Unassigned
+3593	Vermont	US	02/05/2021			8	0	0	Unassigned
+3593	Vermont	US	02/06/2021			8	0	0	Unassigned
+3593	Vermont	US	02/07/2021			8	0	0	Unassigned
+3593	Vermont	US	02/08/2021			8	0	0	Unassigned
+3593	Vermont	US	02/09/2021			8	0	0	Unassigned
+3593	Vermont	US	02/10/2021			8	0	0	Unassigned
+3593	Vermont	US	02/11/2021			9	0	0	Unassigned
+3593	Vermont	US	02/12/2021			8	0	0	Unassigned
+3593	Vermont	US	02/13/2021			8	0	0	Unassigned
+3593	Vermont	US	02/14/2021			8	0	0	Unassigned
+3593	Vermont	US	02/15/2021			8	0	0	Unassigned
+3593	Vermont	US	02/16/2021			8	0	0	Unassigned
+3593	Vermont	US	02/17/2021			8	0	0	Unassigned
+3593	Vermont	US	02/18/2021			8	0	0	Unassigned
+3594	Vermont	US	02/19/2021			8	0	0	Unassigned
+3594	Vermont	US	02/20/2021			9	0	0	Unassigned
+3594	Vermont	US	02/21/2021			8	0	0	Unassigned
+3594	Vermont	US	02/22/2021			8	0	0	Unassigned
+3594	Vermont	US	02/23/2021			8	0	0	Unassigned
+3594	Vermont	US	02/24/2021			8	0	0	Unassigned
+3594	Vermont	US	02/25/2021			8	0	0	Unassigned
+3594	Vermont	US	02/26/2021			8	0	0	Unassigned
+3594	Vermont	US	02/27/2021			8	0	0	Unassigned
+3594	Vermont	US	02/28/2021			8	0	0	Unassigned
+3594	Vermont	US	03/01/2021			9	0	0	Unassigned
+3594	Vermont	US	03/02/2021			8	0	0	Unassigned
+3594	Vermont	US	03/03/2021			8	0	0	Unassigned
+3594	Vermont	US	03/04/2021			8	0	0	Unassigned
+3594	Vermont	US	03/05/2021			8	0	0	Unassigned
+3594	Vermont	US	03/06/2021			8	0	0	Unassigned
+3594	Vermont	US	03/07/2021			8	0		Unassigned
+3594	Vermont	US	03/08/2021			8	0		Unassigned
+3594	Vermont	US	03/09/2021			8	0		Unassigned
+3594	Vermont	US	03/10/2021			8	0		Unassigned
+3594	Vermont	US	03/11/2021			8	0		Unassigned
+3594	Vermont	US	03/12/2021			8	0		Unassigned
+3594	Vermont	US	03/13/2021			8	0		Unassigned
+3594	Vermont	US	03/14/2021			8	0		Unassigned
+3594	Vermont	US	03/15/2021			8	0		Unassigned
+3594	Vermont	US	03/16/2021			8	0		Unassigned
+3594	Vermont	US	03/17/2021			8	0		Unassigned
+3594	Vermont	US	03/18/2021			8	0		Unassigned
+3594	Vermont	US	03/19/2021			9	0		Unassigned
+3594	Vermont	US	03/20/2021			8	0		Unassigned
+3594	Vermont	US	03/21/2021			8	0		Unassigned
+3594	Vermont	US	03/22/2021			8	0		Unassigned
+3594	Vermont	US	03/23/2021			8	0		Unassigned
+3594	Vermont	US	03/24/2021			8	0		Unassigned
+3594	Vermont	US	03/25/2021			9	0		Unassigned
+3594	Vermont	US	03/26/2021			9	0		Unassigned
+3594	Vermont	US	03/27/2021			12	0		Unassigned
+3594	Vermont	US	03/28/2021			11	0		Unassigned
+3594	Vermont	US	03/29/2021			10	0		Unassigned
+3594	Vermont	US	03/30/2021			11	0		Unassigned
+3594	Vermont	US	03/31/2021			12	0		Unassigned
+3594	Vermont	US	04/01/2021			11	0		Unassigned
+3596	Vermont	US	04/02/2021			11	0		Unassigned
+3596	Vermont	US	04/03/2021			12	0		Unassigned
+3596	Vermont	US	04/04/2021			12	0		Unassigned
+3596	Vermont	US	04/05/2021			12	0		Unassigned
+3596	Vermont	US	04/06/2021			12	0		Unassigned
+3596	Vermont	US	04/07/2021			12	0		Unassigned
+3596	Vermont	US	04/08/2021			12	0		Unassigned
+3596	Vermont	US	04/09/2021			12	0		Unassigned
+3596	Vermont	US	04/10/2021			12	0		Unassigned
+3596	Vermont	US	04/11/2021			12	0		Unassigned
+3596	Vermont	US	04/12/2021			13	0		Unassigned
+3596	Vermont	US	04/13/2021			12	0		Unassigned
+3596	Vermont	US	04/14/2021			12	0		Unassigned
+3596	Vermont	US	04/15/2021			12	0		Unassigned
+3596	Vermont	US	04/16/2021			12	0		Unassigned
+3596	Vermont	US	04/17/2021			12	0		Unassigned
+3596	Vermont	US	04/18/2021			12	0		Unassigned
+3596	Vermont	US	04/19/2021			12	0		Unassigned
+3596	Vermont	US	04/20/2021			12	0		Unassigned
+3596	Vermont	US	04/21/2021			12	0		Unassigned
+3596	Vermont	US	04/22/2021			12	0		Unassigned
+3596	Vermont	US	04/23/2021			12	0		Unassigned
+3596	Vermont	US	04/24/2021			12	0		Unassigned
+3596	Vermont	US	04/25/2021			12	0		Unassigned
+3596	Vermont	US	04/26/2021			12	0		Unassigned
+3596	Vermont	US	04/27/2021			12	0		Unassigned
+3596	Vermont	US	04/28/2021			12	0		Unassigned
+3596	Vermont	US	04/29/2021			12	0		Unassigned
+3596	Vermont	US	04/30/2021			12	0		Unassigned
+3596	Vermont	US	05/01/2021			12	0		Unassigned
+3596	Vermont	US	05/02/2021			12	0		Unassigned
+3596	Vermont	US	05/03/2021			12	0		Unassigned
+3596	Vermont	US	05/04/2021			13	0		Unassigned
+3596	Vermont	US	05/05/2021			15	0		Unassigned
+3596	Vermont	US	05/06/2021			17	0		Unassigned
+3596	Vermont	US	05/07/2021			18	0		Unassigned
+3596	Vermont	US	05/08/2021			18	0		Unassigned
+3596	Vermont	US	05/09/2021			19	0		Unassigned
+3596	Vermont	US	05/10/2021			19	0		Unassigned
+3596	Vermont	US	05/11/2021			19	0		Unassigned
+3596	Vermont	US	05/12/2021			20	0		Unassigned
+3596	Vermont	US	05/13/2021			24	0		Unassigned
+3596	Vermont	US	05/14/2021			22	0		Unassigned
+3596	Vermont	US	05/15/2021			22	0		Unassigned
+3596	Vermont	US	05/16/2021			22	0		Unassigned
+3596	Vermont	US	05/17/2021			22	0		Unassigned
+3596	Vermont	US	05/18/2021			22	0		Unassigned
+3596	Vermont	US	05/19/2021			22	0		Unassigned
+3596	Vermont	US	05/20/2021			22	0		Unassigned
+3596	Vermont	US	05/21/2021			22	0		Unassigned
+3596	Vermont	US	05/22/2021			22	0		Unassigned
+3596	Vermont	US	05/23/2021			22	0		Unassigned
+3596	Vermont	US	05/24/2021			22	0		Unassigned
+3596	Vermont	US	05/25/2021			22	0		Unassigned
+3596	Vermont	US	05/26/2021			22	0		Unassigned
+3597	Vermont	US	05/27/2021			22	0		Unassigned
+3597	Vermont	US	05/28/2021			22	0		Unassigned
+3597	Vermont	US	05/29/2021			22	0		Unassigned
+3597	Vermont	US	05/30/2021			22	0		Unassigned
+3597	Vermont	US	05/31/2021			22	0		Unassigned
+3597	Vermont	US	06/01/2021			22	0		Unassigned
+3597	Vermont	US	06/02/2021			22	0		Unassigned
+3597	Vermont	US	06/03/2021			22	0		Unassigned
+3597	Vermont	US	06/04/2021			22	0		Unassigned
+3597	Vermont	US	06/05/2021			22	0		Unassigned
+3597	Vermont	US	06/06/2021			22	0		Unassigned
+3597	Vermont	US	06/07/2021			22	0		Unassigned
+3597	Vermont	US	06/08/2021			22	0		Unassigned
+3597	Vermont	US	06/09/2021			22	0		Unassigned
+3597	Vermont	US	06/10/2021			22	0		Unassigned
+3597	Vermont	US	06/11/2021			21	0		Unassigned
+3597	Vermont	US	06/12/2021			21	0		Unassigned
+3597	Vermont	US	06/13/2021			21	0		Unassigned
+3597	Vermont	US	06/14/2021			20	0		Unassigned
+3597	Vermont	US	06/15/2021			20	0		Unassigned
+3597	Vermont	US	06/16/2021			20	0		Unassigned
+3599	Vermont	US	06/17/2021			20	0		Unassigned
+3599	Vermont	US	06/18/2021			20	0		Unassigned
+3599	Vermont	US	06/19/2021			20	0		Unassigned
+3599	Vermont	US	06/20/2021			20	0		Unassigned
+3599	Vermont	US	06/21/2021			20	0		Unassigned
+3599	Vermont	US	06/22/2021			20	0		Unassigned
+3599	Vermont	US	06/23/2021			20	0		Unassigned
+3600	Vermont	US	06/24/2021			21	0		Unassigned
+3600	Vermont	US	06/25/2021			20	0		Unassigned
+3600	Vermont	US	06/26/2021			20	0		Unassigned
+3600	Vermont	US	06/27/2021			20	0		Unassigned
+3600	Vermont	US	06/28/2021			20	0		Unassigned
+3600	Vermont	US	06/29/2021			20	0		Unassigned
+3600	Vermont	US	06/30/2021			20	0		Unassigned
+3600	Vermont	US	07/01/2021			20	0		Unassigned
+3600	Vermont	US	07/02/2021			20	0		Unassigned
+3600	Vermont	US	07/03/2021			20	0		Unassigned
+3600	Vermont	US	07/04/2021			20	0		Unassigned
+3600	Vermont	US	07/05/2021			20	0		Unassigned
+3600	Vermont	US	07/06/2021			20	0		Unassigned
+3600	Vermont	US	07/07/2021			19	0		Unassigned
+3600	Vermont	US	07/08/2021			18	0		Unassigned
+3600	Vermont	US	07/09/2021			18	0		Unassigned
+3600	Vermont	US	07/10/2021			18	0		Unassigned
+3600	Vermont	US	07/11/2021			18	0		Unassigned
+3600	Vermont	US	07/12/2021			19	0		Unassigned
+3600	Vermont	US	07/13/2021			19	0		Unassigned
+3600	Vermont	US	07/14/2021			19	0		Unassigned
+3600	Vermont	US	07/15/2021			19	0		Unassigned
+3600	Vermont	US	07/16/2021			20	0		Unassigned
+3600	Vermont	US	07/17/2021			20	0		Unassigned
+3600	Vermont	US	07/18/2021			20	0		Unassigned
+3600	Vermont	US	07/19/2021			19	0		Unassigned
+3600	Vermont	US	07/20/2021			19	0		Unassigned
+3600	Vermont	US	07/21/2021			19	0		Unassigned
+3600	Vermont	US	07/22/2021			19	0		Unassigned
+3600	Vermont	US	07/23/2021			19	0		Unassigned
+3600	Vermont	US	07/24/2021			19	0		Unassigned
+3600	Vermont	US	07/25/2021			19	0		Unassigned
+3600	Vermont	US	07/26/2021			19	0		Unassigned
+3600	Vermont	US	07/27/2021			19	0		Unassigned
+3600	Vermont	US	07/28/2021			19	0		Unassigned
+3600	Vermont	US	07/29/2021			19	0		Unassigned
+3600	Vermont	US	07/30/2021			19	0		Unassigned
+3600	Vermont	US	07/31/2021			19	0		Unassigned
+3600	Vermont	US	08/01/2021			19	0		Unassigned
+3600	Vermont	US	08/02/2021			19	0		Unassigned
+3600	Vermont	US	08/03/2021			19	0		Unassigned
+3600	Vermont	US	08/04/2021			19	0		Unassigned
+3600	Vermont	US	08/05/2021			19	0		Unassigned
+3600	Vermont	US	08/06/2021			19	0		Unassigned
+3600	Vermont	US	08/07/2021			19	0		Unassigned
+3600	Vermont	US	08/08/2021			19	0		Unassigned
+3600	Vermont	US	08/09/2021			21	0		Unassigned
+3600	Vermont	US	08/10/2021			20	0		Unassigned
+3600	Vermont	US	08/11/2021			20	0		Unassigned
+3600	Vermont	US	08/12/2021			19	0		Unassigned
+3600	Vermont	US	08/13/2021			19	0		Unassigned
+3600	Vermont	US	08/14/2021			19	0		Unassigned
+3600	Vermont	US	08/15/2021			19	0		Unassigned
+3600	Vermont	US	08/16/2021			19	0		Unassigned
+3600	Vermont	US	08/17/2021			20	0		Unassigned
+3600	Vermont	US	08/18/2021			20	0		Unassigned
+3600	Vermont	US	08/19/2021			20	0		Unassigned
+3600	Vermont	US	08/20/2021			20	0		Unassigned
+3600	Vermont	US	08/21/2021			20	0		Unassigned
+3600	Vermont	US	08/22/2021			20	0		Unassigned
+3600	Vermont	US	08/23/2021			20	0		Unassigned
+3600	Vermont	US	08/24/2021			20	0		Unassigned
+3600	Vermont	US	08/25/2021			22	0		Unassigned
+3600	Vermont	US	08/26/2021			22	0		Unassigned
+3600	Vermont	US	08/27/2021			21	0		Unassigned
+3600	Vermont	US	08/28/2021			21	0		Unassigned
+3600	Vermont	US	08/29/2021			21	0		Unassigned
+3600	Vermont	US	08/30/2021			21	0		Unassigned
+3600	Vermont	US	08/31/2021			21	0		Unassigned
+3600	Vermont	US	09/01/2021			20	0		Unassigned
+3600	Vermont	US	09/02/2021			20	0		Unassigned
+3600	Vermont	US	09/03/2021			20	0		Unassigned
+3600	Vermont	US	09/04/2021			20	0		Unassigned
+3600	Vermont	US	09/05/2021			20	0		Unassigned
+3600	Vermont	US	09/06/2021			21	0		Unassigned
+3600	Vermont	US	09/07/2021			21	0		Unassigned
+3600	Vermont	US	09/08/2021			20	0		Unassigned
+3600	Vermont	US	09/09/2021			20	0		Unassigned
+3600	Vermont	US	09/10/2021			20	0		Unassigned
+3600	Vermont	US	09/11/2021			20	0		Unassigned
+3600	Vermont	US	09/12/2021			20	0		Unassigned
+3600	Vermont	US	09/13/2021			20	0		Unassigned
+3600	Vermont	US	09/14/2021			20	0		Unassigned
+3600	Vermont	US	09/15/2021			20	0		Unassigned
+3601	Vermont	US	09/16/2021			21	0		Unassigned
+3601	Vermont	US	09/17/2021			20	0		Unassigned
+3601	Vermont	US	09/18/2021			21	0		Unassigned
+3601	Vermont	US	09/19/2021			21	0		Unassigned
+3601	Vermont	US	09/20/2021			21	0		Unassigned
+3601	Vermont	US	09/21/2021			21	0		Unassigned
+3601	Vermont	US	09/22/2021			21	0		Unassigned
+3618	Vermont	US	09/23/2021			21	0		Unassigned
+3618	Vermont	US	09/24/2021			21	0		Unassigned
+3618	Vermont	US	09/25/2021			21	0		Unassigned
+3618	Vermont	US	09/26/2021			22	0		Unassigned
+3618	Vermont	US	09/27/2021			22	0		Unassigned
+3618	Vermont	US	09/28/2021			22	0		Unassigned
+3618	Vermont	US	09/29/2021			23	0		Unassigned
+3618	Vermont	US	09/30/2021			23	0		Unassigned
+3618	Vermont	US	10/01/2021			23	0		Unassigned
+3618	Vermont	US	10/02/2021			23	0		Unassigned
+3618	Vermont	US	10/03/2021			23	0		Unassigned
+3618	Vermont	US	10/04/2021			23	0		Unassigned
+3618	Vermont	US	10/05/2021			24	0		Unassigned
+3619	Vermont	US	10/06/2021			35	0		Unassigned
+3619	Vermont	US	10/07/2021			26	0		Unassigned
+3619	Vermont	US	10/08/2021			26	0		Unassigned
+3619	Vermont	US	10/09/2021			37	0		Unassigned
+3619	Vermont	US	10/10/2021			29	0		Unassigned
+3619	Vermont	US	10/11/2021			25	0		Unassigned
+3619	Vermont	US	10/12/2021			60	0		Unassigned
+3619	Vermont	US	10/13/2021			108	0		Unassigned
+3619	Vermont	US	10/14/2021			27	0		Unassigned
+3619	Vermont	US	10/15/2021			40	0		Unassigned
+3619	Vermont	US	10/16/2021			35	0		Unassigned
+3619	Vermont	US	10/17/2021			30	0		Unassigned
+3619	Vermont	US	10/18/2021			25	0		Unassigned
+3619	Vermont	US	10/19/2021			40	0		Unassigned
+3619	Vermont	US	10/20/2021			28	0		Unassigned
+3619	Vermont	US	10/21/2021			27	0		Unassigned
+3619	Vermont	US	10/22/2021			35	0		Unassigned
+3619	Vermont	US	10/23/2021			31	0		Unassigned
+3619	Vermont	US	10/24/2021			88	0		Unassigned
+3619	Vermont	US	10/25/2021			28	0		Unassigned
+3619	Vermont	US	10/26/2021			38	0		Unassigned
+3619	Vermont	US	10/27/2021			80	0		Unassigned
+3619	Vermont	US	10/28/2021			106	0		Unassigned
+3619	Vermont	US	10/29/2021			34	0		Unassigned
+3619	Vermont	US	10/30/2021			60	0		Unassigned
+3619	Vermont	US	10/31/2021			43	0		Unassigned
+3620	Vermont	US	11/01/2021			26	0		Unassigned
+3620	Vermont	US	11/02/2021			69	0		Unassigned
+3620	Vermont	US	11/03/2021			71	0		Unassigned
+3620	Vermont	US	11/04/2021			85	0		Unassigned
+3620	Vermont	US	11/05/2021			195	0		Unassigned
+3620	Vermont	US	11/06/2021			45	0		Unassigned
+3620	Vermont	US	11/07/2021			31	0		Unassigned
+3620	Vermont	US	11/08/2021			29	0		Unassigned
+3620	Vermont	US	11/09/2021			44	0		Unassigned
+3620	Vermont	US	11/10/2021			36	0		Unassigned
+3620	Vermont	US	11/11/2021			59	0		Unassigned
+3620	Vermont	US	11/12/2021			158	0		Unassigned
+3620	Vermont	US	11/13/2021			75	0		Unassigned
+3620	Vermont	US	11/14/2021			35	0		Unassigned
+3620	Vermont	US	11/15/2021			53	0		Unassigned
+3620	Vermont	US	11/16/2021			31	0		Unassigned
+3620	Vermont	US	11/17/2021			34	0		Unassigned
+3620	Vermont	US	11/18/2021			54	0		Unassigned
+3620	Vermont	US	11/19/2021			63	0		Unassigned
+3620	Vermont	US	11/20/2021			81	0		Unassigned
+3620	Vermont	US	11/21/2021			37	0		Unassigned
+3620	Vermont	US	11/22/2021			39	0		Unassigned
+3620	Vermont	US	11/23/2021			65	0		Unassigned
+3620	Vermont	US	11/24/2021			63	0		Unassigned
+3620	Vermont	US	11/25/2021			63	0		Unassigned
+3620	Vermont	US	11/26/2021			63	0		Unassigned
+3620	Vermont	US	11/27/2021			63	0		Unassigned
+3620	Vermont	US	11/28/2021			63	0		Unassigned
+3620	Vermont	US	11/29/2021			39	0		Unassigned
+3620	Vermont	US	11/30/2021			42	0		Unassigned
+3620	Vermont	US	12/01/2021			58	0		Unassigned
+3620	Vermont	US	12/02/2021			57	0		Unassigned
+3620	Vermont	US	12/03/2021			46	0		Unassigned
+3620	Vermont	US	12/04/2021			108	0		Unassigned
+3620	Vermont	US	12/05/2021			209	0		Unassigned
+3620	Vermont	US	12/06/2021			81	0		Unassigned
+3620	Vermont	US	12/07/2021			52	0		Unassigned
+3620	Vermont	US	12/08/2021			159	0		Unassigned
+3620	Vermont	US	12/09/2021			82	0		Unassigned
+3620	Vermont	US	12/10/2021			190	0		Unassigned
+3620	Vermont	US	12/11/2021			59	0		Unassigned
+3620	Vermont	US	12/12/2021			234	0		Unassigned
+3620	Vermont	US	12/13/2021			49	0		Unassigned
+3620	Vermont	US	12/14/2021			50	0		Unassigned
+3620	Vermont	US	12/15/2021			117	0		Unassigned
+3620	Vermont	US	12/16/2021			189	0		Unassigned
+3620	Vermont	US	12/17/2021			211	0		Unassigned
+3620	Vermont	US	12/18/2021			221	0		Unassigned
+3620	Vermont	US	12/19/2021			88	0		Unassigned
+3620	Vermont	US	12/20/2021			50	0		Unassigned
+3620	Vermont	US	12/21/2021			52	0		Unassigned

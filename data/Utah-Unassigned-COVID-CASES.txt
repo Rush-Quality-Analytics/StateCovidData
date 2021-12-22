@@ -1,4 +1,4 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2942	unassigned	0	US	4			Utah	0	04/10/2020
-2966	unassigned	0	US	5			Utah	0	04/11/2020
-2989	unassigned	4	US	5			Utah	0	04/12/2020
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2941	Utah	US	04/10/2020			0	4	0	unassigned
+2965	Utah	US	04/11/2020			0	5	0	unassigned
+2988	Utah	US	04/12/2020			4	5	0	unassigned

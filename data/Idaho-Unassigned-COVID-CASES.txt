@@ -1,496 +1,628 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2053	Unassigned	9	US	0			Idaho	0	04/02/2020
-2225	Unassigned	0	US	0			Idaho	0	04/05/2020
-2262	Unassigned	0	US	0			Idaho	0	04/06/2020
-2309	Unassigned	0	US	0			Idaho	0	04/07/2020
-2332	Unassigned	0	US	0			Idaho	0	04/08/2020
-2358	Unassigned	0	US	0			Idaho	0	04/09/2020
-2382	Unassigned	0	US	0			Idaho	0	04/10/2020
-2408	Unassigned	0	US	0			Idaho	0	04/11/2020
-2430	Unassigned	0	US	0			Idaho	0	04/12/2020
-2444	Unassigned	0	US	0			Idaho	0	04/13/2020
-2454	Unassigned	0	US	0			Idaho	0	04/14/2020
-2466	Unassigned	0	US	0			Idaho	0	04/15/2020
-2480	Unassigned	0	US	0			Idaho	0	04/16/2020
-2482	Unassigned	0	US	0			Idaho	0	04/17/2020
-2489	Unassigned	0	US	0			Idaho	0	04/18/2020
-2506	Unassigned	0	US	0			Idaho	0	04/19/2020
-2514	Unassigned	0	US	0			Idaho	0	04/20/2020
-2523	Unassigned	0	US	0			Idaho	0	04/21/2020
-2530	Unassigned	0	US	0			Idaho	0	04/22/2020
-2547	Unassigned	0	US	0			Idaho	0	04/23/2020
-2553	Unassigned	0	US	0			Idaho	0	04/24/2020
-2558	Unassigned	0	US	0			Idaho	0	04/25/2020
-2566	Unassigned	0	US	0			Idaho	0	04/26/2020
-2573	Unassigned	0	US	0			Idaho	0	04/27/2020
-2582	Unassigned	0	US	0			Idaho	0	04/28/2020
-2587	Unassigned	0	US	0			Idaho	0	04/29/2020
-2593	Unassigned	0	US	0			Idaho	0	04/30/2020
-2604	Unassigned	0	US	0			Idaho	0	05/01/2020
-2607	Unassigned	0	US	0			Idaho	0	05/02/2020
-2612	Unassigned	0	US	0			Idaho	0	05/03/2020
-2615	Unassigned	0	US	0			Idaho	0	05/04/2020
-2623	Unassigned	0	US	0			Idaho	0	05/05/2020
-2629	Unassigned	0	US	0			Idaho	0	05/06/2020
-2636	Unassigned	0	US	0			Idaho	0	05/07/2020
-2643	Unassigned	0	US	0			Idaho	0	05/08/2020
-2645	Unassigned	0	US	0			Idaho	0	05/09/2020
-2647	Unassigned	0	US	0			Idaho	0	05/10/2020
-2647	Unassigned	0	US	0			Idaho	0	05/11/2020
-2650	Unassigned	0	US	0			Idaho	0	05/12/2020
-2651	Unassigned	0	US	0			Idaho	0	05/13/2020
-2653	Unassigned	0	US	0			Idaho	0	05/14/2020
-2658	Unassigned	0	US	0			Idaho	0	05/15/2020
-2662	Unassigned	0	US	0			Idaho	0	05/16/2020
-2665	Unassigned	0	US	0			Idaho	0	05/17/2020
-2667	Unassigned	0	US	0			Idaho	0	05/18/2020
-2671	Unassigned	0	US	0			Idaho	0	05/19/2020
-2677	Unassigned	0	US	0			Idaho	0	05/20/2020
-2679	Unassigned	0	US	0			Idaho	0	05/21/2020
-2686	Unassigned	0	US	0			Idaho	0	05/22/2020
-2688	Unassigned	0	US	0			Idaho	0	05/23/2020
-2691	Unassigned	0	US	0			Idaho	0	05/24/2020
-2692	Unassigned	0	US	0			Idaho	0	05/25/2020
-2693	Unassigned	0	US	0			Idaho	0	05/26/2020
-2696	Unassigned	1	US	0			Idaho	0	05/27/2020
-2699	Unassigned	1	US	0			Idaho	0	05/28/2020
-2702	Unassigned	1	US	0			Idaho	0	05/29/2020
-2704	Unassigned	0	US	0			Idaho	0	05/30/2020
-2705	Unassigned	0	US	0			Idaho	0	05/31/2020
-2707	Unassigned	0	US	0			Idaho	0	06/01/2020
-2712	Unassigned	0	US	0			Idaho	0	06/02/2020
-2714	Unassigned	0	US	0			Idaho	0	06/03/2020
-2715	Unassigned	0	US	0			Idaho	0	06/04/2020
-2719	Unassigned	0	US	0			Idaho	0	06/05/2020
-2721	Unassigned	0	US	0			Idaho	0	06/06/2020
-2721	Unassigned	0	US	0			Idaho	0	06/07/2020
-2721	Unassigned	0	US	0			Idaho	0	06/08/2020
-2723	Unassigned	0	US	0			Idaho	0	06/09/2020
-2725	Unassigned	0	US	0			Idaho	0	06/10/2020
-2727	Unassigned	0	US	0			Idaho	0	06/11/2020
-2741	Unassigned	0	US	0			Idaho	0	06/12/2020
-2744	Unassigned	0	US	0			Idaho	0	06/13/2020
-2744	Unassigned	0	US	0			Idaho	0	06/14/2020
-2748	Unassigned	0	US	0			Idaho	0	06/15/2020
-2746	Unassigned	0	US	0			Idaho	0	06/16/2020
-2748	Unassigned	0	US	0			Idaho	0	06/17/2020
-2748	Unassigned	0	US	0			Idaho	0	06/18/2020
-2749	Unassigned	0	US	0			Idaho	0	06/19/2020
-2753	Unassigned	0	US	0			Idaho	0	06/20/2020
-2753	Unassigned	2	US	0			Idaho	0	06/21/2020
-2756	Unassigned	0	US	0			Idaho	0	06/22/2020
-2761	Unassigned	0	US	0			Idaho	0	06/23/2020
-2773	Unassigned	1	US	0			Idaho	0	06/24/2020
-2778	Unassigned	1	US	0			Idaho	0	06/25/2020
-2779	Unassigned	1	US	0			Idaho	0	06/26/2020
-2780	Unassigned	1	US	0			Idaho	0	06/27/2020
-2780	Unassigned	1	US	0			Idaho	0	06/28/2020
-2782	Unassigned	0	US	0			Idaho	0	06/29/2020
-2784	Unassigned	1	US	0			Idaho	0	06/30/2020
-2786	Unassigned	1	US	0			Idaho	0	07/01/2020
-2789	Unassigned	1	US	0			Idaho	0	07/02/2020
-2794	Unassigned	2	US	0			Idaho	0	07/03/2020
-2795	Unassigned	1	US	0			Idaho	0	07/04/2020
-2796	Unassigned	1	US	0			Idaho	0	07/05/2020
-2799	Unassigned	1	US	0			Idaho	0	07/06/2020
-2800	Unassigned	1	US	0			Idaho	0	07/07/2020
-2803	Unassigned	1	US	0			Idaho	0	07/08/2020
-2802	Unassigned	1	US	0			Idaho	0	07/09/2020
-2806	Unassigned	1	US	0			Idaho	0	07/10/2020
-2807	Unassigned	1	US	0			Idaho	0	07/11/2020
-2809	Unassigned	1	US	0			Idaho	0	07/12/2020
-2810	Unassigned	1	US	0			Idaho	0	07/13/2020
-2816	Unassigned	1	US	0			Idaho	0	07/14/2020
-2817	Unassigned	1	US	0			Idaho	0	07/15/2020
-2819	Unassigned	0	US	0			Idaho	0	07/16/2020
-2819	Unassigned	0	US	0			Idaho	0	07/17/2020
-2892	Unassigned	0	US	0			Idaho	0	07/18/2020
-2892	Unassigned	0	US	0			Idaho	0	07/19/2020
-2816	Unassigned	0	US	0			Idaho	0	07/20/2020
-2896	Unassigned	0	US	0			Idaho	0	07/21/2020
-2897	Unassigned	0	US	0			Idaho	0	07/22/2020
-2900	Unassigned	0	US	0			Idaho	0	07/23/2020
-2899	Unassigned	0	US	0			Idaho	0	07/24/2020
-2900	Unassigned	0	US	0			Idaho	0	07/25/2020
-2901	Unassigned	0	US	0			Idaho	0	07/26/2020
-2901	Unassigned	0	US	0			Idaho	0	07/27/2020
-2901	Unassigned	0	US	0			Idaho	0	07/28/2020
-2905	Unassigned	0	US	0			Idaho	0	07/29/2020
-2905	Unassigned	0	US	0			Idaho	0	07/30/2020
-2907	Unassigned	0	US	0			Idaho	0	07/31/2020
-2907	Unassigned	0	US	0			Idaho	0	08/01/2020
-2907	Unassigned	0	US	0			Idaho	0	08/02/2020
-2907	Unassigned	0	US	0			Idaho	0	08/03/2020
-2908	Unassigned	6	US	0			Idaho	0	08/04/2020
-2912	Unassigned	5	US	0			Idaho	0	08/05/2020
-2912	Unassigned	5	US	0			Idaho	0	08/06/2020
-2912	Unassigned	5	US	0			Idaho	0	08/07/2020
-2912	Unassigned	5	US	0			Idaho	0	08/08/2020
-2912	Unassigned	5	US	0			Idaho	0	08/09/2020
-2912	Unassigned	5	US	0			Idaho	0	08/10/2020
-1284	Unassigned	5	US	0			Idaho	0	08/11/2020
-1238	Unassigned	5	US	0			Idaho	0	08/12/2020
-1239	Unassigned	5	US	0			Idaho	0	08/13/2020
-1239	Unassigned	5	US	0			Idaho	0	08/14/2020
-1239	Unassigned	5	US	0			Idaho	0	08/15/2020
-1239	Unassigned	3	US	0			Idaho	0	08/16/2020
-1239	Unassigned	3	US	0			Idaho	0	08/17/2020
-1239	Unassigned	3	US	0			Idaho	0	08/18/2020
-1239	Unassigned	3	US	0			Idaho	0	08/19/2020
-1239	Unassigned	3	US	0			Idaho	0	08/20/2020
-1239	Unassigned	3	US	0			Idaho	0	08/21/2020
-1240	Unassigned	3	US	0			Idaho	0	08/22/2020
-1240	Unassigned	3	US	0			Idaho	0	08/23/2020
-1240	Unassigned	3	US	0			Idaho	0	08/24/2020
-1240	Unassigned	3	US	0			Idaho	0	08/25/2020
-1240	Unassigned	3	US	0			Idaho	0	08/26/2020
-1240	Unassigned	3	US	0			Idaho	0	08/27/2020
-1240	Unassigned	3	US	0			Idaho	0	08/28/2020
-1240	Unassigned	3	US	0			Idaho	0	08/29/2020
-1240	Unassigned	3	US	0			Idaho	0	08/30/2020
-1240	Unassigned	3	US	0			Idaho	0	08/31/2020
-1240	Unassigned	3	US	0			Idaho	0	09/01/2020
-1240	Unassigned	3	US	0			Idaho	0	09/02/2020
-1240	Unassigned	3	US	0			Idaho	0	09/03/2020
-1240	Unassigned	269	US	10			Idaho	0	09/04/2020
-1240	Unassigned	550	US	12			Idaho	0	09/05/2020
-1240	Unassigned	740	US	13			Idaho	0	09/06/2020
-1240	Unassigned	814	US	13			Idaho	0	09/07/2020
-1240	Unassigned	1054	US	17			Idaho	0	09/08/2020
-1240	Unassigned	1054	US	17			Idaho	0	09/09/2020
-1240	Unassigned	2	US	0			Idaho	0	09/10/2020
-1240	Unassigned	1	US	0			Idaho	0	09/11/2020
-1240	Unassigned	1	US	0			Idaho	0	09/12/2020
-1240	Unassigned	1	US	0			Idaho	0	09/13/2020
-1240	Unassigned	1	US	0			Idaho	0	09/14/2020
-1240	Unassigned	3	US	0			Idaho	0	09/15/2020
-1240	Unassigned	4	US	0			Idaho	0	09/16/2020
-1240	Unassigned	3	US	0			Idaho	0	09/17/2020
-1240	Unassigned	3	US	0			Idaho	0	09/18/2020
-1240	Unassigned	3	US	0			Idaho	0	09/19/2020
-1240	Unassigned	3	US	0			Idaho	0	09/20/2020
-1241	Unassigned	3	US	0			Idaho	0	09/21/2020
-1241	Unassigned	3	US	0			Idaho	0	09/22/2020
-1241	Unassigned	3	US	0			Idaho	0	09/23/2020
-1241	Unassigned	1	US	0			Idaho	0	09/24/2020
-1241	Unassigned	1	US	0			Idaho	0	09/25/2020
-1241	Unassigned	0	US	0			Idaho	0	09/26/2020
-1241	Unassigned	0	US	0			Idaho	0	09/27/2020
-1241	Unassigned	0	US	0			Idaho	0	09/28/2020
-1241	Unassigned	1	US	0			Idaho	0	09/29/2020
-1241	Unassigned	1	US	0			Idaho	0	09/30/2020
-1241	Unassigned	1	US	0			Idaho	0	10/01/2020
-1241	Unassigned	1	US	0			Idaho	0	10/02/2020
-1241	Unassigned	0	US	0			Idaho	0	10/03/2020
-1241	Unassigned	0	US	0			Idaho	0	10/04/2020
-1241	Unassigned	0	US	0			Idaho	0	10/05/2020
-1241	Unassigned	0	US	0			Idaho	0	10/06/2020
-1241	Unassigned	0	US	0			Idaho	0	10/07/2020
-1241	Unassigned	0	US	0			Idaho	0	10/08/2020
-1241	Unassigned	0	US	0			Idaho	0	10/09/2020
-1241	Unassigned	0	US	0			Idaho	0	10/10/2020
-1241	Unassigned	0	US	0			Idaho	0	10/11/2020
-1242	Unassigned	0	US	0			Idaho	0	10/12/2020
-1242	Unassigned	0	US	0			Idaho	0	10/13/2020
-1242	Unassigned	0	US	0			Idaho	0	10/14/2020
-1242	Unassigned	5	US	0			Idaho	0	10/15/2020
-1243	Unassigned	4	US	0			Idaho	0	10/16/2020
-1243	Unassigned	2	US	0			Idaho	0	10/17/2020
-1243	Unassigned	1	US	0			Idaho	0	10/18/2020
-1244	Unassigned	3	US	0			Idaho	0	10/19/2020
-1244	Unassigned	3	US	0			Idaho	0	10/20/2020
-1244	Unassigned	4	US	0			Idaho	0	10/21/2020
-1244	Unassigned	3	US	0			Idaho	0	10/22/2020
-1244	Unassigned	3	US	0			Idaho	0	10/23/2020
-1244	Unassigned	0	US	0			Idaho	0	10/24/2020
-1244	Unassigned	0	US	0			Idaho	0	10/25/2020
-1244	Unassigned	0	US	0			Idaho	0	10/26/2020
-1244	Unassigned	0	US	0			Idaho	0	10/27/2020
-1245	Unassigned	0	US	0.0			Idaho	0	10/28/2020
-1245	Unassigned	0	US	0			Idaho	0	10/29/2020
-1245	Unassigned	1	US	0			Idaho	0	10/30/2020
-1245	Unassigned	0	US	0			Idaho	0	10/31/2020
-1245	Unassigned	0	US	0			Idaho	0	11/01/2020
-1245	Unassigned	2	US	0			Idaho	0	11/02/2020
-1246	Unassigned	1	US	0			Idaho	0	11/03/2020
-1246	Unassigned	0	US	0			Idaho	0	11/04/2020
-1246	Unassigned	1	US	0			Idaho	0	11/05/2020
-1246	Unassigned	3	US	0			Idaho	0	11/06/2020
-1246	Unassigned	4	US	0			Idaho	0	11/07/2020
-1246	Unassigned	4	US	0			Idaho	0	11/08/2020
-1246	Unassigned	1	US	0			Idaho	0.0	11/09/2020
-1246	Unassigned	1	US	0			Idaho	0.0	11/10/2020
-1246	Unassigned	1	US	0			Idaho	0.0	11/11/2020
-1258	Unassigned	2	US	0			Idaho	0	11/12/2020
-1258	Unassigned	1	US	0			Idaho	0	11/13/2020
-1258	Unassigned	1	US	0			Idaho	0	11/14/2020
-1258	Unassigned	2	US	0			Idaho	0	11/15/2020
-1258	Unassigned	2	US	0			Idaho	0	11/16/2020
-1258	Unassigned	1	US	0			Idaho	0	11/17/2020
-1258	Unassigned	1	US	0			Idaho	0	11/18/2020
-1258	Unassigned	1	US	0			Idaho	0	11/19/2020
-1258	Unassigned	1	US	0			Idaho	0	11/20/2020
-1258	Unassigned	1	US	0			Idaho	0	11/21/2020
-1258	Unassigned	1	US	0			Idaho	0	11/22/2020
-1258	Unassigned	2	US	0			Idaho	0	11/23/2020
-1259	Unassigned	2	US	0			Idaho	0	11/24/2020
-1259	Unassigned	2	US	0			Idaho	0	11/25/2020
-1259	Unassigned	2	US	0			Idaho	0	11/26/2020
-1259	Unassigned	2	US	0			Idaho	0	11/27/2020
-1259	Unassigned	4	US	0			Idaho	0	11/28/2020
-1259	Unassigned	4	US	0			Idaho	0	11/29/2020
-1259	Unassigned	5	US	0			Idaho	0	11/30/2020
-1259	Unassigned	1	US	0			Idaho	0	12/01/2020
-1259	Unassigned	7	US	0			Idaho	0	12/02/2020
-1259	Unassigned	12	US	0			Idaho	0	12/03/2020
-1259	Unassigned	16	US	0			Idaho	0	12/04/2020
-1259	Unassigned	14	US	0			Idaho	0	12/05/2020
-1259	Unassigned	14	US	0			Idaho	0	12/06/2020
-1259	Unassigned	14	US	0			Idaho	0	12/07/2020
-1259	Unassigned	13	US	0			Idaho	0	12/08/2020
-1259	Unassigned	9	US	0			Idaho	0	12/09/2020
-1259	Unassigned	6	US	0			Idaho	0	12/10/2020
-1259	Unassigned	6	US	0			Idaho	0	12/11/2020
-1259	Unassigned	5	US	0			Idaho	0	12/12/2020
-1259	Unassigned	5	US	0			Idaho	0	12/13/2020
-1259	Unassigned	5	US	0			Idaho	0	12/14/2020
-1259	Unassigned	4	US	0			Idaho	0	12/15/2020
-1259	Unassigned	2	US	0			Idaho	0	12/16/2020
-1259	Unassigned	3	US	0			Idaho	0	12/17/2020
-1259	Unassigned	2	US	0			Idaho	0	12/18/2020
-1259	Unassigned	0	US	0			Idaho	0	12/19/2020
-1259	Unassigned	2	US	0			Idaho	0	12/20/2020
-1259	Unassigned	0	US	0			Idaho	0	12/21/2020
-1259	Unassigned	2	US	0			Idaho	0	12/22/2020
-1259	Unassigned	0	US	0			Idaho	0	12/23/2020
-1259	Unassigned	1	US	0			Idaho	0	12/24/2020
-1259	Unassigned	1	US	0			Idaho	0	12/25/2020
-1259	Unassigned	0	US	0			Idaho	0	12/26/2020
-1259	Unassigned	0	US	0			Idaho	0	12/27/2020
-1259	Unassigned	1	US	0			Idaho	0	12/28/2020
-1259	Unassigned	1	US	0			Idaho	0	12/29/2020
-1259	Unassigned	1	US	0			Idaho	0	12/30/2020
-1259	Unassigned	1	US	0			Idaho	0	12/31/2020
-1259	Unassigned	1	US	0			Idaho	0	01/01/2021
-1259	Unassigned	0	US	0			Idaho	0	01/02/2021
-1260	Unassigned	1	US	0			Idaho	0	01/03/2021
-1260	Unassigned	6	US	0			Idaho	0	01/04/2021
-1260	Unassigned	0	US	0			Idaho	0	01/05/2021
-1260	Unassigned	1	US	0			Idaho	0	01/06/2021
-1260	Unassigned	0	US	0			Idaho	0	01/07/2021
-1260	Unassigned	0	US	0			Idaho	0	01/08/2021
-1260	Unassigned	0	US	0			Idaho	0	01/09/2021
-1260	Unassigned	0	US	0			Idaho	0	01/10/2021
-1260	Unassigned	0	US	0			Idaho	0	01/11/2021
-1260	Unassigned	0	US	0			Idaho	0	01/12/2021
-1260	Unassigned	1	US	0			Idaho	0	01/13/2021
-1260	Unassigned	1	US	0			Idaho	0	01/14/2021
-1260	Unassigned	0	US	0			Idaho	0	01/15/2021
-1260	Unassigned	0	US	0			Idaho	0	01/16/2021
-1260	Unassigned	0	US	0			Idaho	0	01/17/2021
-1260	Unassigned	0	US	0			Idaho	0	01/18/2021
-1260	Unassigned	0	US	0			Idaho	0	01/19/2021
-1260	Unassigned	1	US	0			Idaho	0	01/20/2021
-1261	Unassigned	0	US	0			Idaho	0	01/21/2021
-1261	Unassigned	0	US	0			Idaho	0	01/22/2021
-1261	Unassigned	0	US	0			Idaho	0	01/23/2021
-1261	Unassigned	0	US	0			Idaho	0	01/24/2021
-1261	Unassigned	0	US	0			Idaho	0	01/25/2021
-1261	Unassigned	0	US	0			Idaho	0	01/26/2021
-1261	Unassigned	0	US	0			Idaho	0	01/27/2021
-1261	Unassigned	0	US	0			Idaho	0	01/28/2021
-1261	Unassigned	0	US	0			Idaho	0	01/29/2021
-1261	Unassigned	0	US	0			Idaho	0	01/30/2021
-1261	Unassigned	0	US	0			Idaho	0	01/31/2021
-1261	Unassigned	0	US	0			Idaho	0	02/01/2021
-1261	Unassigned	0	US	0			Idaho	0	02/02/2021
-1261	Unassigned	0	US	0			Idaho	0	02/03/2021
-1261	Unassigned	0	US	0			Idaho	0	02/04/2021
-1261	Unassigned	0	US	0			Idaho	0	02/05/2021
-1261	Unassigned	0	US	0			Idaho	0	02/06/2021
-1261	Unassigned	0	US	0			Idaho	0	02/07/2021
-1261	Unassigned	0	US	0			Idaho	0	02/08/2021
-1261	Unassigned	0	US	0			Idaho	0	02/09/2021
-1261	Unassigned	0	US	0			Idaho	0	02/10/2021
-1261	Unassigned	0	US	0			Idaho	0	02/11/2021
-1261	Unassigned	0	US	0			Idaho	0	02/12/2021
-1261	Unassigned	0	US	0			Idaho	0	02/13/2021
-1261	Unassigned	0	US	0			Idaho	0	02/14/2021
-1261	Unassigned	0	US	0			Idaho	0	02/15/2021
-1261	Unassigned	0	US	0			Idaho	0	02/16/2021
-1261	Unassigned	0	US	0			Idaho	0	02/17/2021
-1261	Unassigned	0	US	0			Idaho	0	02/18/2021
-1262	Unassigned	0	US	0			Idaho	0	02/19/2021
-1262	Unassigned	0	US	0			Idaho	0	02/20/2021
-1262	Unassigned	0	US	0			Idaho	0	02/21/2021
-1262	Unassigned	1	US	0			Idaho	0	02/22/2021
-1262	Unassigned	0	US	0			Idaho	0	02/23/2021
-1262	Unassigned	179	US	0			Idaho	0	02/24/2021
-1262	Unassigned	0	US	0			Idaho	0	02/25/2021
-1262	Unassigned	0	US	0			Idaho	0	02/26/2021
-1262	Unassigned	0	US	0			Idaho	0	02/27/2021
-1262	Unassigned	0	US	0			Idaho	0	02/28/2021
-1262	Unassigned	0	US	0			Idaho	0	03/01/2021
-1262	Unassigned	0	US	0			Idaho	0	03/02/2021
-1262	Unassigned	1	US	0			Idaho	0	03/03/2021
-1262	Unassigned	1	US	0			Idaho	0	03/04/2021
-1262	Unassigned	1	US	0			Idaho	0	03/05/2021
-1262	Unassigned	0	US	0			Idaho	0	03/06/2021
-1262	Unassigned	0	US	0			Idaho		03/07/2021
-1262	Unassigned	1	US	0			Idaho		03/08/2021
-1262	Unassigned	0	US	0			Idaho		03/09/2021
-1262	Unassigned	0	US	0			Idaho		03/10/2021
-1262	Unassigned	0	US	0			Idaho		03/11/2021
-1262	Unassigned	0	US	0			Idaho		03/12/2021
-1262	Unassigned	0	US	0			Idaho		03/13/2021
-1262	Unassigned	0	US	0			Idaho		03/14/2021
-1262	Unassigned	0	US	0			Idaho		03/15/2021
-1262	Unassigned	0	US	0			Idaho		03/16/2021
-1262	Unassigned	0	US	0			Idaho		03/17/2021
-1262	Unassigned	0	US	0			Idaho		03/18/2021
-1262	Unassigned	0	US	0			Idaho		03/19/2021
-1262	Unassigned	0	US	0			Idaho		03/20/2021
-1262	Unassigned	0	US	0			Idaho		03/21/2021
-1262	Unassigned	0	US	0			Idaho		03/22/2021
-1262	Unassigned	0	US	0			Idaho		03/23/2021
-1262	Unassigned	0	US	0			Idaho		03/24/2021
-1262	Unassigned	0	US	0			Idaho		03/25/2021
-1262	Unassigned	0	US	0			Idaho		03/26/2021
-1262	Unassigned	0	US	0			Idaho		03/27/2021
-1262	Unassigned	0	US	0			Idaho		03/28/2021
-1262	Unassigned	0	US	0			Idaho		03/29/2021
-1262	Unassigned	0	US	0			Idaho		03/30/2021
-1262	Unassigned	0	US	0			Idaho		03/31/2021
-1262	Unassigned	4	US	0			Idaho		04/01/2021
-1264	Unassigned	0	US	0			Idaho		04/02/2021
-1264	Unassigned	0	US	0			Idaho		04/03/2021
-1264	Unassigned	0	US	0			Idaho		04/04/2021
-1264	Unassigned	0	US	0			Idaho		04/05/2021
-1264	Unassigned	0	US	0			Idaho		04/06/2021
-1264	Unassigned	0	US	0			Idaho		04/07/2021
-1264	Unassigned	0	US	0			Idaho		04/08/2021
-1264	Unassigned	0	US	0			Idaho		04/09/2021
-1264	Unassigned	0	US	0			Idaho		04/10/2021
-1264	Unassigned	0	US	0			Idaho		04/11/2021
-1264	Unassigned	0	US	0			Idaho		04/12/2021
-1264	Unassigned	0	US	0			Idaho		04/13/2021
-1264	Unassigned	0	US	0			Idaho		04/14/2021
-1264	Unassigned	0	US	0			Idaho		04/15/2021
-1264	Unassigned	0	US	0			Idaho		04/16/2021
-1264	Unassigned	0	US	0			Idaho		04/17/2021
-1264	Unassigned	0	US	0			Idaho		04/18/2021
-1264	Unassigned	0	US	0			Idaho		04/19/2021
-1264	Unassigned	0	US	0			Idaho		04/20/2021
-1264	Unassigned	0	US	0			Idaho		04/21/2021
-1264	Unassigned	0	US	0			Idaho		04/22/2021
-1264	Unassigned	0	US	0			Idaho		04/23/2021
-1264	Unassigned	0	US	0			Idaho		04/24/2021
-1264	Unassigned	0	US	0			Idaho		04/25/2021
-1264	Unassigned	0	US	0			Idaho		04/26/2021
-1264	Unassigned	0	US	0			Idaho		04/27/2021
-1264	Unassigned	0	US	0			Idaho		04/28/2021
-1264	Unassigned	0	US	0			Idaho		04/29/2021
-1264	Unassigned	0	US	0			Idaho		04/30/2021
-1264	Unassigned	0	US	0			Idaho		05/01/2021
-1264	Unassigned	0	US	0			Idaho		05/02/2021
-1264	Unassigned	0	US	0			Idaho		05/03/2021
-1264	Unassigned	0	US	0			Idaho		05/04/2021
-1264	Unassigned	0	US	0			Idaho		05/05/2021
-1264	Unassigned	0	US	0			Idaho		05/06/2021
-1264	Unassigned	0	US	0			Idaho		05/07/2021
-1264	Unassigned	0	US	0			Idaho		05/08/2021
-1264	Unassigned	0	US	0			Idaho		05/09/2021
-1264	Unassigned	0	US	0			Idaho		05/10/2021
-1264	Unassigned	0	US	0			Idaho		05/11/2021
-1264	Unassigned	0	US	0			Idaho		05/12/2021
-1264	Unassigned	0	US	0			Idaho		05/13/2021
-1264	Unassigned	0	US	0			Idaho		05/14/2021
-1264	Unassigned	0	US	0			Idaho		05/15/2021
-1264	Unassigned	0	US	0			Idaho		05/16/2021
-1264	Unassigned	0	US	0			Idaho		05/17/2021
-1264	Unassigned	0	US	0			Idaho		05/18/2021
-1264	Unassigned	0	US	0			Idaho		05/19/2021
-1264	Unassigned	0	US	0			Idaho		05/20/2021
-1264	Unassigned	0	US	0			Idaho		05/21/2021
-1264	Unassigned	0	US	0			Idaho		05/22/2021
-1264	Unassigned	0	US	0			Idaho		05/23/2021
-1264	Unassigned	0	US	0			Idaho		05/24/2021
-1264	Unassigned	0	US	0			Idaho		05/25/2021
-1264	Unassigned	0	US	0			Idaho		05/26/2021
-1265	Unassigned	0	US	0			Idaho		05/27/2021
-1265	Unassigned	0	US	0			Idaho		05/28/2021
-1265	Unassigned	0	US	0			Idaho		05/29/2021
-1265	Unassigned	0	US	0			Idaho		05/30/2021
-1265	Unassigned	0	US	0			Idaho		05/31/2021
-1265	Unassigned	0	US	0			Idaho		06/01/2021
-1265	Unassigned	0	US	0			Idaho		06/02/2021
-1265	Unassigned	0	US	0			Idaho		06/03/2021
-1265	Unassigned	0	US	0			Idaho		06/04/2021
-1265	Unassigned	0	US	0			Idaho		06/05/2021
-1265	Unassigned	0	US	0			Idaho		06/06/2021
-1265	Unassigned	0	US	0			Idaho		06/07/2021
-1265	Unassigned	0	US	0			Idaho		06/08/2021
-1265	Unassigned	0	US	0			Idaho		06/09/2021
-1265	Unassigned	0	US	0			Idaho		06/10/2021
-1265	Unassigned	0	US	0			Idaho		06/11/2021
-1265	Unassigned	0	US	0			Idaho		06/12/2021
-1265	Unassigned	0	US	0			Idaho		06/13/2021
-1265	Unassigned	0	US	0			Idaho		06/14/2021
-1265	Unassigned	0	US	0			Idaho		06/15/2021
-1265	Unassigned	0	US	0			Idaho		06/16/2021
-1267	Unassigned	0	US	0			Idaho		06/17/2021
-1267	Unassigned	0	US	0			Idaho		06/18/2021
-1267	Unassigned	0	US	0			Idaho		06/19/2021
-1267	Unassigned	0	US	0			Idaho		06/20/2021
-1267	Unassigned	0	US	0			Idaho		06/21/2021
-1267	Unassigned	0	US	0			Idaho		06/22/2021
-1267	Unassigned	0	US	0			Idaho		06/23/2021
-1268	Unassigned	0	US	0			Idaho		06/24/2021
-1268	Unassigned	0	US	0			Idaho		06/25/2021
-1268	Unassigned	0	US	0			Idaho		06/26/2021
-1268	Unassigned	0	US	0			Idaho		06/27/2021
-1268	Unassigned	0	US	0			Idaho		06/28/2021
-1268	Unassigned	0	US	0			Idaho		06/29/2021
-1268	Unassigned	0	US	0			Idaho		06/30/2021
-1268	Unassigned	0	US	0			Idaho		07/01/2021
-1268	Unassigned	0	US	0			Idaho		07/02/2021
-1268	Unassigned	0	US	0			Idaho		07/03/2021
-1268	Unassigned	0	US	0			Idaho		07/04/2021
-1268	Unassigned	0	US	0			Idaho		07/05/2021
-1268	Unassigned	0	US	0			Idaho		07/06/2021
-1268	Unassigned	0	US	0			Idaho		07/07/2021
-1268	Unassigned	0	US	0			Idaho		07/08/2021
-1268	Unassigned	0	US	0			Idaho		07/09/2021
-1268	Unassigned	0	US	0			Idaho		07/10/2021
-1268	Unassigned	0	US	0			Idaho		07/11/2021
-1268	Unassigned	0	US	0			Idaho		07/12/2021
-1268	Unassigned	0	US	0			Idaho		07/13/2021
-1268	Unassigned	0	US	0			Idaho		07/14/2021
-1268	Unassigned	0	US	0			Idaho		07/15/2021
-1268	Unassigned	0	US	0			Idaho		07/16/2021
-1268	Unassigned	0	US	0			Idaho		07/17/2021
-1268	Unassigned	0	US	0			Idaho		07/18/2021
-1268	Unassigned	0	US	0			Idaho		07/19/2021
-1268	Unassigned	0	US	0			Idaho		07/20/2021
-1268	Unassigned	0	US	0			Idaho		07/21/2021
-1268	Unassigned	0	US	0			Idaho		07/22/2021
-1268	Unassigned	71	US	0			Idaho		07/23/2021
-1268	Unassigned	71	US	0			Idaho		07/24/2021
-1268	Unassigned	71	US	0			Idaho		07/25/2021
-1268	Unassigned	0	US	0			Idaho		07/26/2021
-1268	Unassigned	0	US	0			Idaho		07/27/2021
-1268	Unassigned	0	US	0			Idaho		07/28/2021
-1268	Unassigned	0	US	0			Idaho		07/29/2021
-1268	Unassigned	0	US	0			Idaho		07/30/2021
-1268	Unassigned	0	US	0			Idaho		07/31/2021
-1268	Unassigned	0	US	0			Idaho		08/01/2021
-1268	Unassigned	0	US	0			Idaho		08/02/2021
-1268	Unassigned	0	US	0			Idaho		08/03/2021
-1268	Unassigned	0	US	0			Idaho		08/04/2021
-1268	Unassigned	0	US	0			Idaho		08/05/2021
-1268	Unassigned	0	US	0			Idaho		08/06/2021
-1268	Unassigned	0	US	0			Idaho		08/07/2021
-1268	Unassigned	0	US	0			Idaho		08/08/2021
-1268	Unassigned	0	US	0			Idaho		08/09/2021
-1268	Unassigned	1	US	0			Idaho		08/10/2021
-1268	Unassigned	1	US	0			Idaho		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2053	Idaho	US	04/02/2020			9	0	0	Unassigned
+2225	Idaho	US	04/05/2020			0	0	0	Unassigned
+2262	Idaho	US	04/06/2020			0	0	0	Unassigned
+2309	Idaho	US	04/07/2020			0	0	0	Unassigned
+2332	Idaho	US	04/08/2020			0	0	0	Unassigned
+2358	Idaho	US	04/09/2020			0	0	0	Unassigned
+2382	Idaho	US	04/10/2020			0	0	0	Unassigned
+2408	Idaho	US	04/11/2020			0	0	0	Unassigned
+2430	Idaho	US	04/12/2020			0	0	0	Unassigned
+2444	Idaho	US	04/13/2020			0	0	0	Unassigned
+2454	Idaho	US	04/14/2020			0	0	0	Unassigned
+2466	Idaho	US	04/15/2020			0	0	0	Unassigned
+2480	Idaho	US	04/16/2020			0	0	0	Unassigned
+2482	Idaho	US	04/17/2020			0	0	0	Unassigned
+2489	Idaho	US	04/18/2020			0	0	0	Unassigned
+2506	Idaho	US	04/19/2020			0	0	0	Unassigned
+2514	Idaho	US	04/20/2020			0	0	0	Unassigned
+2523	Idaho	US	04/21/2020			0	0	0	Unassigned
+2530	Idaho	US	04/22/2020			0	0	0	Unassigned
+2547	Idaho	US	04/23/2020			0	0	0	Unassigned
+2553	Idaho	US	04/24/2020			0	0	0	Unassigned
+2558	Idaho	US	04/25/2020			0	0	0	Unassigned
+2566	Idaho	US	04/26/2020			0	0	0	Unassigned
+2573	Idaho	US	04/27/2020			0	0	0	Unassigned
+2582	Idaho	US	04/28/2020			0	0	0	Unassigned
+2587	Idaho	US	04/29/2020			0	0	0	Unassigned
+2593	Idaho	US	04/30/2020			0	0	0	Unassigned
+2604	Idaho	US	05/01/2020			0	0	0	Unassigned
+2607	Idaho	US	05/02/2020			0	0	0	Unassigned
+2612	Idaho	US	05/03/2020			0	0	0	Unassigned
+2615	Idaho	US	05/04/2020			0	0	0	Unassigned
+2623	Idaho	US	05/05/2020			0	0	0	Unassigned
+2629	Idaho	US	05/06/2020			0	0	0	Unassigned
+2636	Idaho	US	05/07/2020			0	0	0	Unassigned
+2643	Idaho	US	05/08/2020			0	0	0	Unassigned
+2645	Idaho	US	05/09/2020			0	0	0	Unassigned
+2647	Idaho	US	05/10/2020			0	0	0	Unassigned
+2647	Idaho	US	05/11/2020			0	0	0	Unassigned
+2650	Idaho	US	05/12/2020			0	0	0	Unassigned
+2651	Idaho	US	05/13/2020			0	0	0	Unassigned
+2653	Idaho	US	05/14/2020			0	0	0	Unassigned
+2658	Idaho	US	05/15/2020			0	0	0	Unassigned
+2662	Idaho	US	05/16/2020			0	0	0	Unassigned
+2665	Idaho	US	05/17/2020			0	0	0	Unassigned
+2667	Idaho	US	05/18/2020			0	0	0	Unassigned
+2671	Idaho	US	05/19/2020			0	0	0	Unassigned
+2677	Idaho	US	05/20/2020			0	0	0	Unassigned
+2679	Idaho	US	05/21/2020			0	0	0	Unassigned
+2686	Idaho	US	05/22/2020			0	0	0	Unassigned
+2688	Idaho	US	05/23/2020			0	0	0	Unassigned
+2691	Idaho	US	05/24/2020			0	0	0	Unassigned
+2692	Idaho	US	05/25/2020			0	0	0	Unassigned
+2693	Idaho	US	05/26/2020			0	0	0	Unassigned
+2696	Idaho	US	05/27/2020			1	0	0	Unassigned
+2699	Idaho	US	05/28/2020			1	0	0	Unassigned
+2702	Idaho	US	05/29/2020			1	0	0	Unassigned
+2704	Idaho	US	05/30/2020			0	0	0	Unassigned
+2705	Idaho	US	05/31/2020			0	0	0	Unassigned
+2707	Idaho	US	06/01/2020			0	0	0	Unassigned
+2712	Idaho	US	06/02/2020			0	0	0	Unassigned
+2714	Idaho	US	06/03/2020			0	0	0	Unassigned
+2715	Idaho	US	06/04/2020			0	0	0	Unassigned
+2719	Idaho	US	06/05/2020			0	0	0	Unassigned
+2721	Idaho	US	06/06/2020			0	0	0	Unassigned
+2721	Idaho	US	06/07/2020			0	0	0	Unassigned
+2721	Idaho	US	06/08/2020			0	0	0	Unassigned
+2723	Idaho	US	06/09/2020			0	0	0	Unassigned
+2725	Idaho	US	06/10/2020			0	0	0	Unassigned
+2727	Idaho	US	06/11/2020			0	0	0	Unassigned
+2741	Idaho	US	06/12/2020			0	0	0	Unassigned
+2744	Idaho	US	06/13/2020			0	0	0	Unassigned
+2744	Idaho	US	06/14/2020			0	0	0	Unassigned
+2748	Idaho	US	06/15/2020			0	0	0	Unassigned
+2746	Idaho	US	06/16/2020			0	0	0	Unassigned
+2748	Idaho	US	06/17/2020			0	0	0	Unassigned
+2748	Idaho	US	06/18/2020			0	0	0	Unassigned
+2749	Idaho	US	06/19/2020			0	0	0	Unassigned
+2753	Idaho	US	06/20/2020			0	0	0	Unassigned
+2753	Idaho	US	06/21/2020			2	0	0	Unassigned
+2756	Idaho	US	06/22/2020			0	0	0	Unassigned
+2761	Idaho	US	06/23/2020			0	0	0	Unassigned
+2773	Idaho	US	06/24/2020			1	0	0	Unassigned
+2778	Idaho	US	06/25/2020			1	0	0	Unassigned
+2779	Idaho	US	06/26/2020			1	0	0	Unassigned
+2780	Idaho	US	06/27/2020			1	0	0	Unassigned
+2780	Idaho	US	06/28/2020			1	0	0	Unassigned
+2782	Idaho	US	06/29/2020			0	0	0	Unassigned
+2784	Idaho	US	06/30/2020			1	0	0	Unassigned
+2786	Idaho	US	07/01/2020			1	0	0	Unassigned
+2789	Idaho	US	07/02/2020			1	0	0	Unassigned
+2794	Idaho	US	07/03/2020			2	0	0	Unassigned
+2795	Idaho	US	07/04/2020			1	0	0	Unassigned
+2796	Idaho	US	07/05/2020			1	0	0	Unassigned
+2799	Idaho	US	07/06/2020			1	0	0	Unassigned
+2800	Idaho	US	07/07/2020			1	0	0	Unassigned
+2803	Idaho	US	07/08/2020			1	0	0	Unassigned
+2802	Idaho	US	07/09/2020			1	0	0	Unassigned
+2806	Idaho	US	07/10/2020			1	0	0	Unassigned
+2807	Idaho	US	07/11/2020			1	0	0	Unassigned
+2809	Idaho	US	07/12/2020			1	0	0	Unassigned
+2810	Idaho	US	07/13/2020			1	0	0	Unassigned
+2816	Idaho	US	07/14/2020			1	0	0	Unassigned
+2817	Idaho	US	07/15/2020			1	0	0	Unassigned
+2819	Idaho	US	07/16/2020			0	0	0	Unassigned
+2819	Idaho	US	07/17/2020			0	0	0	Unassigned
+2892	Idaho	US	07/18/2020			0	0	0	Unassigned
+2892	Idaho	US	07/19/2020			0	0	0	Unassigned
+2816	Idaho	US	07/20/2020			0	0	0	Unassigned
+2896	Idaho	US	07/21/2020			0	0	0	Unassigned
+2897	Idaho	US	07/22/2020			0	0	0	Unassigned
+2900	Idaho	US	07/23/2020			0	0	0	Unassigned
+2899	Idaho	US	07/24/2020			0	0	0	Unassigned
+2900	Idaho	US	07/25/2020			0	0	0	Unassigned
+2901	Idaho	US	07/26/2020			0	0	0	Unassigned
+2901	Idaho	US	07/27/2020			0	0	0	Unassigned
+2901	Idaho	US	07/28/2020			0	0	0	Unassigned
+2905	Idaho	US	07/29/2020			0	0	0	Unassigned
+2905	Idaho	US	07/30/2020			0	0	0	Unassigned
+2907	Idaho	US	07/31/2020			0	0	0	Unassigned
+2907	Idaho	US	08/01/2020			0	0	0	Unassigned
+2907	Idaho	US	08/02/2020			0	0	0	Unassigned
+2907	Idaho	US	08/03/2020			0	0	0	Unassigned
+2908	Idaho	US	08/04/2020			6	0	0	Unassigned
+2912	Idaho	US	08/05/2020			5	0	0	Unassigned
+2912	Idaho	US	08/06/2020			5	0	0	Unassigned
+2912	Idaho	US	08/07/2020			5	0	0	Unassigned
+2912	Idaho	US	08/08/2020			5	0	0	Unassigned
+2912	Idaho	US	08/09/2020			5	0	0	Unassigned
+2912	Idaho	US	08/10/2020			5	0	0	Unassigned
+1283	Idaho	US	08/11/2020			5	0	0	Unassigned
+1237	Idaho	US	08/12/2020			5	0	0	Unassigned
+1238	Idaho	US	08/13/2020			5	0	0	Unassigned
+1238	Idaho	US	08/14/2020			5	0	0	Unassigned
+1238	Idaho	US	08/15/2020			5	0	0	Unassigned
+1238	Idaho	US	08/16/2020			3	0	0	Unassigned
+1238	Idaho	US	08/17/2020			3	0	0	Unassigned
+1238	Idaho	US	08/18/2020			3	0	0	Unassigned
+1238	Idaho	US	08/19/2020			3	0	0	Unassigned
+1238	Idaho	US	08/20/2020			3	0	0	Unassigned
+1238	Idaho	US	08/21/2020			3	0	0	Unassigned
+1239	Idaho	US	08/22/2020			3	0	0	Unassigned
+1239	Idaho	US	08/23/2020			3	0	0	Unassigned
+1239	Idaho	US	08/24/2020			3	0	0	Unassigned
+1239	Idaho	US	08/25/2020			3	0	0	Unassigned
+1239	Idaho	US	08/26/2020			3	0	0	Unassigned
+1239	Idaho	US	08/27/2020			3	0	0	Unassigned
+1239	Idaho	US	08/28/2020			3	0	0	Unassigned
+1239	Idaho	US	08/29/2020			3	0	0	Unassigned
+1239	Idaho	US	08/30/2020			3	0	0	Unassigned
+1239	Idaho	US	08/31/2020			3	0	0	Unassigned
+1239	Idaho	US	09/01/2020			3	0	0	Unassigned
+1239	Idaho	US	09/02/2020			3	0	0	Unassigned
+1239	Idaho	US	09/03/2020			3	0	0	Unassigned
+1239	Idaho	US	09/04/2020			269	10	0	Unassigned
+1239	Idaho	US	09/05/2020			550	12	0	Unassigned
+1239	Idaho	US	09/06/2020			740	13	0	Unassigned
+1239	Idaho	US	09/07/2020			814	13	0	Unassigned
+1239	Idaho	US	09/08/2020			1054	17	0	Unassigned
+1239	Idaho	US	09/09/2020			1054	17	0	Unassigned
+1239	Idaho	US	09/10/2020			2	0	0	Unassigned
+1239	Idaho	US	09/11/2020			1	0	0	Unassigned
+1239	Idaho	US	09/12/2020			1	0	0	Unassigned
+1239	Idaho	US	09/13/2020			1	0	0	Unassigned
+1239	Idaho	US	09/14/2020			1	0	0	Unassigned
+1239	Idaho	US	09/15/2020			3	0	0	Unassigned
+1239	Idaho	US	09/16/2020			4	0	0	Unassigned
+1239	Idaho	US	09/17/2020			3	0	0	Unassigned
+1239	Idaho	US	09/18/2020			3	0	0	Unassigned
+1239	Idaho	US	09/19/2020			3	0	0	Unassigned
+1239	Idaho	US	09/20/2020			3	0	0	Unassigned
+1240	Idaho	US	09/21/2020			3	0	0	Unassigned
+1240	Idaho	US	09/22/2020			3	0	0	Unassigned
+1240	Idaho	US	09/23/2020			3	0	0	Unassigned
+1240	Idaho	US	09/24/2020			1	0	0	Unassigned
+1240	Idaho	US	09/25/2020			1	0	0	Unassigned
+1240	Idaho	US	09/26/2020			0	0	0	Unassigned
+1240	Idaho	US	09/27/2020			0	0	0	Unassigned
+1240	Idaho	US	09/28/2020			0	0	0	Unassigned
+1240	Idaho	US	09/29/2020			1	0	0	Unassigned
+1240	Idaho	US	09/30/2020			1	0	0	Unassigned
+1240	Idaho	US	10/01/2020			1	0	0	Unassigned
+1240	Idaho	US	10/02/2020			1	0	0	Unassigned
+1240	Idaho	US	10/03/2020			0	0	0	Unassigned
+1240	Idaho	US	10/04/2020			0	0	0	Unassigned
+1240	Idaho	US	10/05/2020			0	0	0	Unassigned
+1240	Idaho	US	10/06/2020			0	0	0	Unassigned
+1240	Idaho	US	10/07/2020			0	0	0	Unassigned
+1240	Idaho	US	10/08/2020			0	0	0	Unassigned
+1240	Idaho	US	10/09/2020			0	0	0	Unassigned
+1240	Idaho	US	10/10/2020			0	0	0	Unassigned
+1240	Idaho	US	10/11/2020			0	0	0	Unassigned
+1241	Idaho	US	10/12/2020			0	0	0	Unassigned
+1241	Idaho	US	10/13/2020			0	0	0	Unassigned
+1241	Idaho	US	10/14/2020			0	0	0	Unassigned
+1241	Idaho	US	10/15/2020			5	0	0	Unassigned
+1242	Idaho	US	10/16/2020			4	0	0	Unassigned
+1242	Idaho	US	10/17/2020			2	0	0	Unassigned
+1242	Idaho	US	10/18/2020			1	0	0	Unassigned
+1243	Idaho	US	10/19/2020			3	0	0	Unassigned
+1243	Idaho	US	10/20/2020			3	0	0	Unassigned
+1243	Idaho	US	10/21/2020			4	0	0	Unassigned
+1243	Idaho	US	10/22/2020			3	0	0	Unassigned
+1243	Idaho	US	10/23/2020			3	0	0	Unassigned
+1243	Idaho	US	10/24/2020			0	0	0	Unassigned
+1243	Idaho	US	10/25/2020			0	0	0	Unassigned
+1243	Idaho	US	10/26/2020			0	0	0	Unassigned
+1243	Idaho	US	10/27/2020			0	0	0	Unassigned
+1244	Idaho	US	10/28/2020			0	0.0	0	Unassigned
+1244	Idaho	US	10/29/2020			0	0	0	Unassigned
+1244	Idaho	US	10/30/2020			1	0	0	Unassigned
+1244	Idaho	US	10/31/2020			0	0	0	Unassigned
+1244	Idaho	US	11/01/2020			0	0	0	Unassigned
+1244	Idaho	US	11/02/2020			2	0	0	Unassigned
+1245	Idaho	US	11/03/2020			1	0	0	Unassigned
+1245	Idaho	US	11/04/2020			0	0	0	Unassigned
+1245	Idaho	US	11/05/2020			1	0	0	Unassigned
+1245	Idaho	US	11/06/2020			3	0	0	Unassigned
+1245	Idaho	US	11/07/2020			4	0	0	Unassigned
+1245	Idaho	US	11/08/2020			4	0	0	Unassigned
+1245	Idaho	US	11/09/2020			1	0	0.0	Unassigned
+1245	Idaho	US	11/10/2020			1	0	0.0	Unassigned
+1245	Idaho	US	11/11/2020			1	0	0.0	Unassigned
+1257	Idaho	US	11/12/2020			2	0	0	Unassigned
+1257	Idaho	US	11/13/2020			1	0	0	Unassigned
+1257	Idaho	US	11/14/2020			1	0	0	Unassigned
+1257	Idaho	US	11/15/2020			2	0	0	Unassigned
+1257	Idaho	US	11/16/2020			2	0	0	Unassigned
+1257	Idaho	US	11/17/2020			1	0	0	Unassigned
+1257	Idaho	US	11/18/2020			1	0	0	Unassigned
+1257	Idaho	US	11/19/2020			1	0	0	Unassigned
+1257	Idaho	US	11/20/2020			1	0	0	Unassigned
+1257	Idaho	US	11/21/2020			1	0	0	Unassigned
+1257	Idaho	US	11/22/2020			1	0	0	Unassigned
+1257	Idaho	US	11/23/2020			2	0	0	Unassigned
+1258	Idaho	US	11/24/2020			2	0	0	Unassigned
+1258	Idaho	US	11/25/2020			2	0	0	Unassigned
+1258	Idaho	US	11/26/2020			2	0	0	Unassigned
+1258	Idaho	US	11/27/2020			2	0	0	Unassigned
+1258	Idaho	US	11/28/2020			4	0	0	Unassigned
+1258	Idaho	US	11/29/2020			4	0	0	Unassigned
+1258	Idaho	US	11/30/2020			5	0	0	Unassigned
+1258	Idaho	US	12/01/2020			1	0	0	Unassigned
+1258	Idaho	US	12/02/2020			7	0	0	Unassigned
+1258	Idaho	US	12/03/2020			12	0	0	Unassigned
+1258	Idaho	US	12/04/2020			16	0	0	Unassigned
+1258	Idaho	US	12/05/2020			14	0	0	Unassigned
+1258	Idaho	US	12/06/2020			14	0	0	Unassigned
+1258	Idaho	US	12/07/2020			14	0	0	Unassigned
+1258	Idaho	US	12/08/2020			13	0	0	Unassigned
+1258	Idaho	US	12/09/2020			9	0	0	Unassigned
+1258	Idaho	US	12/10/2020			6	0	0	Unassigned
+1258	Idaho	US	12/11/2020			6	0	0	Unassigned
+1258	Idaho	US	12/12/2020			5	0	0	Unassigned
+1258	Idaho	US	12/13/2020			5	0	0	Unassigned
+1258	Idaho	US	12/14/2020			5	0	0	Unassigned
+1258	Idaho	US	12/15/2020			4	0	0	Unassigned
+1258	Idaho	US	12/16/2020			2	0	0	Unassigned
+1258	Idaho	US	12/17/2020			3	0	0	Unassigned
+1258	Idaho	US	12/18/2020			2	0	0	Unassigned
+1258	Idaho	US	12/19/2020			0	0	0	Unassigned
+1258	Idaho	US	12/20/2020			2	0	0	Unassigned
+1258	Idaho	US	12/21/2020			0	0	0	Unassigned
+1258	Idaho	US	12/22/2020			2	0	0	Unassigned
+1258	Idaho	US	12/23/2020			0	0	0	Unassigned
+1258	Idaho	US	12/24/2020			1	0	0	Unassigned
+1258	Idaho	US	12/25/2020			1	0	0	Unassigned
+1258	Idaho	US	12/26/2020			0	0	0	Unassigned
+1258	Idaho	US	12/27/2020			0	0	0	Unassigned
+1258	Idaho	US	12/28/2020			1	0	0	Unassigned
+1258	Idaho	US	12/29/2020			1	0	0	Unassigned
+1258	Idaho	US	12/30/2020			1	0	0	Unassigned
+1258	Idaho	US	12/31/2020			1	0	0	Unassigned
+1258	Idaho	US	01/01/2021			1	0	0	Unassigned
+1258	Idaho	US	01/02/2021			0	0	0	Unassigned
+1259	Idaho	US	01/03/2021			1	0	0	Unassigned
+1259	Idaho	US	01/04/2021			6	0	0	Unassigned
+1259	Idaho	US	01/05/2021			0	0	0	Unassigned
+1259	Idaho	US	01/06/2021			1	0	0	Unassigned
+1259	Idaho	US	01/07/2021			0	0	0	Unassigned
+1259	Idaho	US	01/08/2021			0	0	0	Unassigned
+1259	Idaho	US	01/09/2021			0	0	0	Unassigned
+1259	Idaho	US	01/10/2021			0	0	0	Unassigned
+1259	Idaho	US	01/11/2021			0	0	0	Unassigned
+1259	Idaho	US	01/12/2021			0	0	0	Unassigned
+1259	Idaho	US	01/13/2021			1	0	0	Unassigned
+1259	Idaho	US	01/14/2021			1	0	0	Unassigned
+1259	Idaho	US	01/15/2021			0	0	0	Unassigned
+1259	Idaho	US	01/16/2021			0	0	0	Unassigned
+1259	Idaho	US	01/17/2021			0	0	0	Unassigned
+1259	Idaho	US	01/18/2021			0	0	0	Unassigned
+1259	Idaho	US	01/19/2021			0	0	0	Unassigned
+1259	Idaho	US	01/20/2021			1	0	0	Unassigned
+1260	Idaho	US	01/21/2021			0	0	0	Unassigned
+1260	Idaho	US	01/22/2021			0	0	0	Unassigned
+1260	Idaho	US	01/23/2021			0	0	0	Unassigned
+1260	Idaho	US	01/24/2021			0	0	0	Unassigned
+1260	Idaho	US	01/25/2021			0	0	0	Unassigned
+1260	Idaho	US	01/26/2021			0	0	0	Unassigned
+1260	Idaho	US	01/27/2021			0	0	0	Unassigned
+1260	Idaho	US	01/28/2021			0	0	0	Unassigned
+1260	Idaho	US	01/29/2021			0	0	0	Unassigned
+1260	Idaho	US	01/30/2021			0	0	0	Unassigned
+1260	Idaho	US	01/31/2021			0	0	0	Unassigned
+1260	Idaho	US	02/01/2021			0	0	0	Unassigned
+1260	Idaho	US	02/02/2021			0	0	0	Unassigned
+1260	Idaho	US	02/03/2021			0	0	0	Unassigned
+1260	Idaho	US	02/04/2021			0	0	0	Unassigned
+1260	Idaho	US	02/05/2021			0	0	0	Unassigned
+1260	Idaho	US	02/06/2021			0	0	0	Unassigned
+1260	Idaho	US	02/07/2021			0	0	0	Unassigned
+1260	Idaho	US	02/08/2021			0	0	0	Unassigned
+1260	Idaho	US	02/09/2021			0	0	0	Unassigned
+1260	Idaho	US	02/10/2021			0	0	0	Unassigned
+1260	Idaho	US	02/11/2021			0	0	0	Unassigned
+1260	Idaho	US	02/12/2021			0	0	0	Unassigned
+1260	Idaho	US	02/13/2021			0	0	0	Unassigned
+1260	Idaho	US	02/14/2021			0	0	0	Unassigned
+1260	Idaho	US	02/15/2021			0	0	0	Unassigned
+1260	Idaho	US	02/16/2021			0	0	0	Unassigned
+1260	Idaho	US	02/17/2021			0	0	0	Unassigned
+1260	Idaho	US	02/18/2021			0	0	0	Unassigned
+1261	Idaho	US	02/19/2021			0	0	0	Unassigned
+1261	Idaho	US	02/20/2021			0	0	0	Unassigned
+1261	Idaho	US	02/21/2021			0	0	0	Unassigned
+1261	Idaho	US	02/22/2021			1	0	0	Unassigned
+1261	Idaho	US	02/23/2021			0	0	0	Unassigned
+1261	Idaho	US	02/24/2021			179	0	0	Unassigned
+1261	Idaho	US	02/25/2021			0	0	0	Unassigned
+1261	Idaho	US	02/26/2021			0	0	0	Unassigned
+1261	Idaho	US	02/27/2021			0	0	0	Unassigned
+1261	Idaho	US	02/28/2021			0	0	0	Unassigned
+1261	Idaho	US	03/01/2021			0	0	0	Unassigned
+1261	Idaho	US	03/02/2021			0	0	0	Unassigned
+1261	Idaho	US	03/03/2021			1	0	0	Unassigned
+1261	Idaho	US	03/04/2021			1	0	0	Unassigned
+1261	Idaho	US	03/05/2021			1	0	0	Unassigned
+1261	Idaho	US	03/06/2021			0	0	0	Unassigned
+1261	Idaho	US	03/07/2021			0	0		Unassigned
+1261	Idaho	US	03/08/2021			1	0		Unassigned
+1261	Idaho	US	03/09/2021			0	0		Unassigned
+1261	Idaho	US	03/10/2021			0	0		Unassigned
+1261	Idaho	US	03/11/2021			0	0		Unassigned
+1261	Idaho	US	03/12/2021			0	0		Unassigned
+1261	Idaho	US	03/13/2021			0	0		Unassigned
+1261	Idaho	US	03/14/2021			0	0		Unassigned
+1261	Idaho	US	03/15/2021			0	0		Unassigned
+1261	Idaho	US	03/16/2021			0	0		Unassigned
+1261	Idaho	US	03/17/2021			0	0		Unassigned
+1261	Idaho	US	03/18/2021			0	0		Unassigned
+1261	Idaho	US	03/19/2021			0	0		Unassigned
+1261	Idaho	US	03/20/2021			0	0		Unassigned
+1261	Idaho	US	03/21/2021			0	0		Unassigned
+1261	Idaho	US	03/22/2021			0	0		Unassigned
+1261	Idaho	US	03/23/2021			0	0		Unassigned
+1261	Idaho	US	03/24/2021			0	0		Unassigned
+1261	Idaho	US	03/25/2021			0	0		Unassigned
+1261	Idaho	US	03/26/2021			0	0		Unassigned
+1261	Idaho	US	03/27/2021			0	0		Unassigned
+1261	Idaho	US	03/28/2021			0	0		Unassigned
+1261	Idaho	US	03/29/2021			0	0		Unassigned
+1261	Idaho	US	03/30/2021			0	0		Unassigned
+1261	Idaho	US	03/31/2021			0	0		Unassigned
+1261	Idaho	US	04/01/2021			4	0		Unassigned
+1263	Idaho	US	04/02/2021			0	0		Unassigned
+1263	Idaho	US	04/03/2021			0	0		Unassigned
+1263	Idaho	US	04/04/2021			0	0		Unassigned
+1263	Idaho	US	04/05/2021			0	0		Unassigned
+1263	Idaho	US	04/06/2021			0	0		Unassigned
+1263	Idaho	US	04/07/2021			0	0		Unassigned
+1263	Idaho	US	04/08/2021			0	0		Unassigned
+1263	Idaho	US	04/09/2021			0	0		Unassigned
+1263	Idaho	US	04/10/2021			0	0		Unassigned
+1263	Idaho	US	04/11/2021			0	0		Unassigned
+1263	Idaho	US	04/12/2021			0	0		Unassigned
+1263	Idaho	US	04/13/2021			0	0		Unassigned
+1263	Idaho	US	04/14/2021			0	0		Unassigned
+1263	Idaho	US	04/15/2021			0	0		Unassigned
+1263	Idaho	US	04/16/2021			0	0		Unassigned
+1263	Idaho	US	04/17/2021			0	0		Unassigned
+1263	Idaho	US	04/18/2021			0	0		Unassigned
+1263	Idaho	US	04/19/2021			0	0		Unassigned
+1263	Idaho	US	04/20/2021			0	0		Unassigned
+1263	Idaho	US	04/21/2021			0	0		Unassigned
+1263	Idaho	US	04/22/2021			0	0		Unassigned
+1263	Idaho	US	04/23/2021			0	0		Unassigned
+1263	Idaho	US	04/24/2021			0	0		Unassigned
+1263	Idaho	US	04/25/2021			0	0		Unassigned
+1263	Idaho	US	04/26/2021			0	0		Unassigned
+1263	Idaho	US	04/27/2021			0	0		Unassigned
+1263	Idaho	US	04/28/2021			0	0		Unassigned
+1263	Idaho	US	04/29/2021			0	0		Unassigned
+1263	Idaho	US	04/30/2021			0	0		Unassigned
+1263	Idaho	US	05/01/2021			0	0		Unassigned
+1263	Idaho	US	05/02/2021			0	0		Unassigned
+1263	Idaho	US	05/03/2021			0	0		Unassigned
+1263	Idaho	US	05/04/2021			0	0		Unassigned
+1263	Idaho	US	05/05/2021			0	0		Unassigned
+1263	Idaho	US	05/06/2021			0	0		Unassigned
+1263	Idaho	US	05/07/2021			0	0		Unassigned
+1263	Idaho	US	05/08/2021			0	0		Unassigned
+1263	Idaho	US	05/09/2021			0	0		Unassigned
+1263	Idaho	US	05/10/2021			0	0		Unassigned
+1263	Idaho	US	05/11/2021			0	0		Unassigned
+1263	Idaho	US	05/12/2021			0	0		Unassigned
+1263	Idaho	US	05/13/2021			0	0		Unassigned
+1263	Idaho	US	05/14/2021			0	0		Unassigned
+1263	Idaho	US	05/15/2021			0	0		Unassigned
+1263	Idaho	US	05/16/2021			0	0		Unassigned
+1263	Idaho	US	05/17/2021			0	0		Unassigned
+1263	Idaho	US	05/18/2021			0	0		Unassigned
+1263	Idaho	US	05/19/2021			0	0		Unassigned
+1263	Idaho	US	05/20/2021			0	0		Unassigned
+1263	Idaho	US	05/21/2021			0	0		Unassigned
+1263	Idaho	US	05/22/2021			0	0		Unassigned
+1263	Idaho	US	05/23/2021			0	0		Unassigned
+1263	Idaho	US	05/24/2021			0	0		Unassigned
+1263	Idaho	US	05/25/2021			0	0		Unassigned
+1263	Idaho	US	05/26/2021			0	0		Unassigned
+1264	Idaho	US	05/27/2021			0	0		Unassigned
+1264	Idaho	US	05/28/2021			0	0		Unassigned
+1264	Idaho	US	05/29/2021			0	0		Unassigned
+1264	Idaho	US	05/30/2021			0	0		Unassigned
+1264	Idaho	US	05/31/2021			0	0		Unassigned
+1264	Idaho	US	06/01/2021			0	0		Unassigned
+1264	Idaho	US	06/02/2021			0	0		Unassigned
+1264	Idaho	US	06/03/2021			0	0		Unassigned
+1264	Idaho	US	06/04/2021			0	0		Unassigned
+1264	Idaho	US	06/05/2021			0	0		Unassigned
+1264	Idaho	US	06/06/2021			0	0		Unassigned
+1264	Idaho	US	06/07/2021			0	0		Unassigned
+1264	Idaho	US	06/08/2021			0	0		Unassigned
+1264	Idaho	US	06/09/2021			0	0		Unassigned
+1264	Idaho	US	06/10/2021			0	0		Unassigned
+1264	Idaho	US	06/11/2021			0	0		Unassigned
+1264	Idaho	US	06/12/2021			0	0		Unassigned
+1264	Idaho	US	06/13/2021			0	0		Unassigned
+1264	Idaho	US	06/14/2021			0	0		Unassigned
+1264	Idaho	US	06/15/2021			0	0		Unassigned
+1264	Idaho	US	06/16/2021			0	0		Unassigned
+1266	Idaho	US	06/17/2021			0	0		Unassigned
+1266	Idaho	US	06/18/2021			0	0		Unassigned
+1266	Idaho	US	06/19/2021			0	0		Unassigned
+1266	Idaho	US	06/20/2021			0	0		Unassigned
+1266	Idaho	US	06/21/2021			0	0		Unassigned
+1266	Idaho	US	06/22/2021			0	0		Unassigned
+1266	Idaho	US	06/23/2021			0	0		Unassigned
+1267	Idaho	US	06/24/2021			0	0		Unassigned
+1267	Idaho	US	06/25/2021			0	0		Unassigned
+1267	Idaho	US	06/26/2021			0	0		Unassigned
+1267	Idaho	US	06/27/2021			0	0		Unassigned
+1267	Idaho	US	06/28/2021			0	0		Unassigned
+1267	Idaho	US	06/29/2021			0	0		Unassigned
+1267	Idaho	US	06/30/2021			0	0		Unassigned
+1267	Idaho	US	07/01/2021			0	0		Unassigned
+1267	Idaho	US	07/02/2021			0	0		Unassigned
+1267	Idaho	US	07/03/2021			0	0		Unassigned
+1267	Idaho	US	07/04/2021			0	0		Unassigned
+1267	Idaho	US	07/05/2021			0	0		Unassigned
+1267	Idaho	US	07/06/2021			0	0		Unassigned
+1267	Idaho	US	07/07/2021			0	0		Unassigned
+1267	Idaho	US	07/08/2021			0	0		Unassigned
+1267	Idaho	US	07/09/2021			0	0		Unassigned
+1267	Idaho	US	07/10/2021			0	0		Unassigned
+1267	Idaho	US	07/11/2021			0	0		Unassigned
+1267	Idaho	US	07/12/2021			0	0		Unassigned
+1267	Idaho	US	07/13/2021			0	0		Unassigned
+1267	Idaho	US	07/14/2021			0	0		Unassigned
+1267	Idaho	US	07/15/2021			0	0		Unassigned
+1267	Idaho	US	07/16/2021			0	0		Unassigned
+1267	Idaho	US	07/17/2021			0	0		Unassigned
+1267	Idaho	US	07/18/2021			0	0		Unassigned
+1267	Idaho	US	07/19/2021			0	0		Unassigned
+1267	Idaho	US	07/20/2021			0	0		Unassigned
+1267	Idaho	US	07/21/2021			0	0		Unassigned
+1267	Idaho	US	07/22/2021			0	0		Unassigned
+1267	Idaho	US	07/23/2021			71	0		Unassigned
+1267	Idaho	US	07/24/2021			71	0		Unassigned
+1267	Idaho	US	07/25/2021			71	0		Unassigned
+1267	Idaho	US	07/26/2021			0	0		Unassigned
+1267	Idaho	US	07/27/2021			0	0		Unassigned
+1267	Idaho	US	07/28/2021			0	0		Unassigned
+1267	Idaho	US	07/29/2021			0	0		Unassigned
+1267	Idaho	US	07/30/2021			0	0		Unassigned
+1267	Idaho	US	07/31/2021			0	0		Unassigned
+1267	Idaho	US	08/01/2021			0	0		Unassigned
+1267	Idaho	US	08/02/2021			0	0		Unassigned
+1267	Idaho	US	08/03/2021			0	0		Unassigned
+1267	Idaho	US	08/04/2021			0	0		Unassigned
+1267	Idaho	US	08/05/2021			0	0		Unassigned
+1267	Idaho	US	08/06/2021			0	0		Unassigned
+1267	Idaho	US	08/07/2021			0	0		Unassigned
+1267	Idaho	US	08/08/2021			0	0		Unassigned
+1267	Idaho	US	08/09/2021			0	0		Unassigned
+1267	Idaho	US	08/10/2021			1	0		Unassigned
+1267	Idaho	US	08/11/2021			1	0		Unassigned
+1267	Idaho	US	08/12/2021			1	0		Unassigned
+1267	Idaho	US	08/13/2021			1	0		Unassigned
+1267	Idaho	US	08/14/2021			1	0		Unassigned
+1267	Idaho	US	08/15/2021			1	0		Unassigned
+1267	Idaho	US	08/16/2021			1	0		Unassigned
+1267	Idaho	US	08/17/2021			1	0		Unassigned
+1267	Idaho	US	08/18/2021			1	0		Unassigned
+1267	Idaho	US	08/19/2021			1	0		Unassigned
+1267	Idaho	US	08/20/2021			1	0		Unassigned
+1267	Idaho	US	08/21/2021			1	0		Unassigned
+1267	Idaho	US	08/22/2021			1	0		Unassigned
+1267	Idaho	US	08/23/2021			1	0		Unassigned
+1267	Idaho	US	08/24/2021			1	0		Unassigned
+1267	Idaho	US	08/25/2021			1	0		Unassigned
+1267	Idaho	US	08/26/2021			1	0		Unassigned
+1267	Idaho	US	08/27/2021			1	0		Unassigned
+1267	Idaho	US	08/28/2021			1	0		Unassigned
+1267	Idaho	US	08/29/2021			1	0		Unassigned
+1267	Idaho	US	08/30/2021			1	0		Unassigned
+1267	Idaho	US	08/31/2021			4	0		Unassigned
+1267	Idaho	US	09/01/2021			4	0		Unassigned
+1267	Idaho	US	09/02/2021			6	0		Unassigned
+1267	Idaho	US	09/03/2021			10	0		Unassigned
+1267	Idaho	US	09/04/2021			10	0		Unassigned
+1267	Idaho	US	09/05/2021			10	0		Unassigned
+1267	Idaho	US	09/06/2021			10	0		Unassigned
+1267	Idaho	US	09/07/2021			8	0		Unassigned
+1267	Idaho	US	09/08/2021			9	0		Unassigned
+1267	Idaho	US	09/09/2021			7	0		Unassigned
+1267	Idaho	US	09/10/2021			7	0		Unassigned
+1267	Idaho	US	09/11/2021			0	0		Unassigned
+1267	Idaho	US	09/12/2021			0	0		Unassigned
+1267	Idaho	US	09/13/2021			7	0		Unassigned
+1267	Idaho	US	09/14/2021			7	0		Unassigned
+1267	Idaho	US	09/15/2021			7	0		Unassigned
+1268	Idaho	US	09/16/2021			7	0		Unassigned
+1268	Idaho	US	09/17/2021			7	0		Unassigned
+1268	Idaho	US	09/18/2021			0	0		Unassigned
+1268	Idaho	US	09/19/2021			0	0		Unassigned
+1268	Idaho	US	09/20/2021			1	0		Unassigned
+1268	Idaho	US	09/21/2021			2	0		Unassigned
+1268	Idaho	US	09/22/2021			2	0		Unassigned
+1285	Idaho	US	09/23/2021			3	0		Unassigned
+1285	Idaho	US	09/24/2021			1	0		Unassigned
+1285	Idaho	US	09/25/2021			1	0		Unassigned
+1285	Idaho	US	09/26/2021			2	0		Unassigned
+1285	Idaho	US	09/27/2021			3	0		Unassigned
+1285	Idaho	US	09/28/2021			1	0		Unassigned
+1285	Idaho	US	09/29/2021			1	0		Unassigned
+1285	Idaho	US	09/30/2021			1	0		Unassigned
+1285	Idaho	US	10/01/2021			1	0		Unassigned
+1285	Idaho	US	10/02/2021			1	0		Unassigned
+1285	Idaho	US	10/03/2021			1	0		Unassigned
+1285	Idaho	US	10/04/2021			1	0		Unassigned
+1285	Idaho	US	10/05/2021			1	0		Unassigned
+1286	Idaho	US	10/06/2021			1	0		Unassigned
+1286	Idaho	US	10/07/2021			1	0		Unassigned
+1286	Idaho	US	10/08/2021			1	0		Unassigned
+1286	Idaho	US	10/09/2021			1	0		Unassigned
+1286	Idaho	US	10/10/2021			1	0		Unassigned
+1286	Idaho	US	10/11/2021			1	0		Unassigned
+1286	Idaho	US	10/12/2021			1	0		Unassigned
+1286	Idaho	US	10/13/2021			1	0		Unassigned
+1286	Idaho	US	10/14/2021			1	0		Unassigned
+1286	Idaho	US	10/15/2021			2	0		Unassigned
+1286	Idaho	US	10/16/2021			1	0		Unassigned
+1286	Idaho	US	10/17/2021			2	0		Unassigned
+1286	Idaho	US	10/18/2021			3	0		Unassigned
+1286	Idaho	US	10/19/2021			1	0		Unassigned
+1286	Idaho	US	10/20/2021			2	0		Unassigned
+1286	Idaho	US	10/21/2021			2	0		Unassigned
+1286	Idaho	US	10/22/2021			2	0		Unassigned
+1286	Idaho	US	10/23/2021			3	0		Unassigned
+1286	Idaho	US	10/24/2021			4	0		Unassigned
+1286	Idaho	US	10/25/2021			3	0		Unassigned
+1286	Idaho	US	10/26/2021			2	0		Unassigned
+1286	Idaho	US	10/27/2021			2	0		Unassigned
+1286	Idaho	US	10/28/2021			2	0		Unassigned
+1286	Idaho	US	10/29/2021			2	0		Unassigned
+1286	Idaho	US	10/30/2021			2	0		Unassigned
+1286	Idaho	US	10/31/2021			2	0		Unassigned
+1287	Idaho	US	11/01/2021			3	0		Unassigned
+1287	Idaho	US	11/02/2021			2	0		Unassigned
+1287	Idaho	US	11/03/2021			2	0		Unassigned
+1287	Idaho	US	11/04/2021			2	0		Unassigned
+1287	Idaho	US	11/05/2021			2	0		Unassigned
+1287	Idaho	US	11/06/2021			2	0		Unassigned
+1287	Idaho	US	11/07/2021			2	0		Unassigned
+1287	Idaho	US	11/08/2021			2	0		Unassigned
+1287	Idaho	US	11/09/2021			2	0		Unassigned
+1287	Idaho	US	11/10/2021			2	0		Unassigned
+1287	Idaho	US	11/11/2021			2	0		Unassigned
+1287	Idaho	US	11/12/2021			2	0		Unassigned
+1287	Idaho	US	11/13/2021			2	0		Unassigned
+1287	Idaho	US	11/14/2021			2	0		Unassigned
+1287	Idaho	US	11/15/2021			2	0		Unassigned
+1287	Idaho	US	11/16/2021			2	0		Unassigned
+1287	Idaho	US	11/17/2021			2	0		Unassigned
+1287	Idaho	US	11/18/2021			4	0		Unassigned
+1287	Idaho	US	11/19/2021			2	0		Unassigned
+1287	Idaho	US	11/20/2021			2	0		Unassigned
+1287	Idaho	US	11/21/2021			2	0		Unassigned
+1287	Idaho	US	11/22/2021			2	0		Unassigned
+1287	Idaho	US	11/23/2021			2	0		Unassigned
+1287	Idaho	US	11/24/2021			2	0		Unassigned
+1287	Idaho	US	11/25/2021			2	0		Unassigned
+1287	Idaho	US	11/26/2021			2	0		Unassigned
+1287	Idaho	US	11/27/2021			2	0		Unassigned
+1287	Idaho	US	11/28/2021			2	0		Unassigned
+1287	Idaho	US	11/29/2021			2	0		Unassigned
+1287	Idaho	US	11/30/2021			2	0		Unassigned
+1287	Idaho	US	12/01/2021			2	0		Unassigned
+1287	Idaho	US	12/02/2021			2	0		Unassigned
+1287	Idaho	US	12/03/2021			2	0		Unassigned
+1287	Idaho	US	12/04/2021			2	0		Unassigned
+1287	Idaho	US	12/05/2021			2	0		Unassigned
+1287	Idaho	US	12/06/2021			2	0		Unassigned
+1287	Idaho	US	12/07/2021			2	0		Unassigned
+1287	Idaho	US	12/08/2021			2	0		Unassigned
+1287	Idaho	US	12/09/2021			2	0		Unassigned
+1287	Idaho	US	12/10/2021			2	0		Unassigned
+1287	Idaho	US	12/11/2021			2	0		Unassigned
+1287	Idaho	US	12/12/2021			2	0		Unassigned
+1287	Idaho	US	12/13/2021			2	0		Unassigned
+1287	Idaho	US	12/14/2021			2	0		Unassigned
+1287	Idaho	US	12/15/2021			1	0		Unassigned
+1287	Idaho	US	12/16/2021			2	0		Unassigned
+1287	Idaho	US	12/17/2021			2	0		Unassigned
+1287	Idaho	US	12/18/2021			1	0		Unassigned
+1287	Idaho	US	12/19/2021			1	0		Unassigned
+1287	Idaho	US	12/20/2021			1	0		Unassigned
+1287	Idaho	US	12/21/2021			0	0		Unassigned

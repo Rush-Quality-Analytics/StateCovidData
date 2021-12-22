@@ -1,498 +1,630 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-2074	Unassigned	0	US	0			South Dakota	0	04/02/2020
-2119	Unassigned	0	US	0			South Dakota	0	04/03/2020
-2173	Unassigned	0	US	0			South Dakota	0	04/04/2020
-2248	Unassigned	0	US	0			South Dakota	0	04/05/2020
-2286	Unassigned	0	US	0			South Dakota	0	04/06/2020
-2335	Unassigned	0	US	0			South Dakota	0	04/07/2020
-2358	Unassigned	0	US	0			South Dakota	0	04/08/2020
-2385	Unassigned	0	US	0			South Dakota	0	04/09/2020
-2409	Unassigned	0	US	0			South Dakota	0	04/10/2020
-2432	Unassigned	0	US	0			South Dakota	0	04/11/2020
-2455	Unassigned	0	US	0			South Dakota	0	04/12/2020
-2469	Unassigned	0	US	0			South Dakota	0	04/13/2020
-2479	Unassigned	0	US	0			South Dakota	0	04/14/2020
-2491	Unassigned	0	US	0			South Dakota	0	04/15/2020
-2505	Unassigned	0	US	0			South Dakota	0	04/16/2020
-2507	Unassigned	0	US	0			South Dakota	0	04/17/2020
-2514	Unassigned	0	US	0			South Dakota	0	04/18/2020
-2532	Unassigned	0	US	0			South Dakota	0	04/19/2020
-2541	Unassigned	0	US	0			South Dakota	0	04/20/2020
-2550	Unassigned	0	US	0			South Dakota	0	04/21/2020
-2557	Unassigned	0	US	0			South Dakota	0	04/22/2020
-2576	Unassigned	0	US	0			South Dakota	0	04/23/2020
-2582	Unassigned	0	US	0			South Dakota	0	04/24/2020
-2587	Unassigned	0	US	0			South Dakota	0	04/25/2020
-2595	Unassigned	0	US	0			South Dakota	0	04/26/2020
-2602	Unassigned	0	US	0			South Dakota	0	04/27/2020
-2611	Unassigned	0	US	0			South Dakota	0	04/28/2020
-2616	Unassigned	0	US	0			South Dakota	0	04/29/2020
-2622	Unassigned	0	US	4			South Dakota	0	04/30/2020
-2632	Unassigned	0	US	0			South Dakota	0	05/01/2020
-2636	Unassigned	0	US	0			South Dakota	0	05/02/2020
-2641	Unassigned	0	US	0			South Dakota	0	05/03/2020
-2644	Unassigned	0	US	0			South Dakota	0	05/04/2020
-2652	Unassigned	0	US	0			South Dakota	0	05/05/2020
-2658	Unassigned	0	US	5			South Dakota	0	05/06/2020
-2665	Unassigned	0	US	0			South Dakota	0	05/07/2020
-2672	Unassigned	0	US	0			South Dakota	0	05/08/2020
-2674	Unassigned	0	US	0			South Dakota	0	05/09/2020
-2676	Unassigned	0	US	0			South Dakota	0	05/10/2020
-2676	Unassigned	0	US	0			South Dakota	0	05/11/2020
-2679	Unassigned	0	US	5			South Dakota	0	05/12/2020
-2680	Unassigned	0	US	5			South Dakota	0	05/13/2020
-2682	Unassigned	0	US	0			South Dakota	0	05/14/2020
-2687	Unassigned	0	US	0			South Dakota	0	05/15/2020
-2691	Unassigned	0	US	0			South Dakota	0	05/16/2020
-2694	Unassigned	0	US	0			South Dakota	0	05/17/2020
-2696	Unassigned	0	US	0			South Dakota	0	05/18/2020
-2700	Unassigned	0	US	0			South Dakota	0	05/19/2020
-2706	Unassigned	0	US	0			South Dakota	0	05/20/2020
-2708	Unassigned	0	US	0			South Dakota	0	05/21/2020
-2715	Unassigned	0	US	0			South Dakota	0	05/22/2020
-2717	Unassigned	0	US	0			South Dakota	0	05/23/2020
-2720	Unassigned	0	US	0			South Dakota	0	05/24/2020
-2721	Unassigned	0	US	0			South Dakota	0	05/25/2020
-2722	Unassigned	1	US	0			South Dakota	0	05/26/2020
-2725	Unassigned	1	US	0			South Dakota	0	05/27/2020
-2728	Unassigned	0	US	0			South Dakota	0	05/28/2020
-2731	Unassigned	0	US	0			South Dakota	0	05/29/2020
-2733	Unassigned	0	US	0			South Dakota	0	05/30/2020
-2734	Unassigned	0	US	0			South Dakota	0	05/31/2020
-2736	Unassigned	0	US	0			South Dakota	0	06/01/2020
-2741	Unassigned	0	US	0			South Dakota	0	06/02/2020
-2743	Unassigned	0	US	0			South Dakota	0	06/03/2020
-2744	Unassigned	0	US	0			South Dakota	0	06/04/2020
-2748	Unassigned	0	US	0			South Dakota	0	06/05/2020
-2750	Unassigned	0	US	0			South Dakota	0	06/06/2020
-2750	Unassigned	0	US	0			South Dakota	0	06/07/2020
-2750	Unassigned	0	US	0			South Dakota	0	06/08/2020
-2752	Unassigned	0	US	0			South Dakota	0	06/09/2020
-2754	Unassigned	0	US	0			South Dakota	0	06/10/2020
-2756	Unassigned	0	US	0			South Dakota	0	06/11/2020
-2770	Unassigned	0	US	0			South Dakota	0	06/12/2020
-2773	Unassigned	0	US	0			South Dakota	0	06/13/2020
-2773	Unassigned	0	US	0			South Dakota	0	06/14/2020
-2777	Unassigned	0	US	0			South Dakota	0	06/15/2020
-2775	Unassigned	0	US	0			South Dakota	0	06/16/2020
-2777	Unassigned	0	US	0			South Dakota	0	06/17/2020
-2777	Unassigned	0	US	0			South Dakota	0	06/18/2020
-2778	Unassigned	0	US	0			South Dakota	0	06/19/2020
-2782	Unassigned	0	US	0			South Dakota	0	06/20/2020
-2782	Unassigned	0	US	0			South Dakota	0	06/21/2020
-2785	Unassigned	0	US	0			South Dakota	0	06/22/2020
-2790	Unassigned	0	US	0			South Dakota	0	06/23/2020
-2802	Unassigned	0	US	0			South Dakota	0	06/24/2020
-2807	Unassigned	0	US	0			South Dakota	0	06/25/2020
-2808	Unassigned	0	US	0			South Dakota	0	06/26/2020
-2809	Unassigned	0	US	0			South Dakota	0	06/27/2020
-2809	Unassigned	0	US	0			South Dakota	0	06/28/2020
-2811	Unassigned	0	US	0			South Dakota	0	06/29/2020
-2813	Unassigned	0	US	0			South Dakota	0	06/30/2020
-2815	Unassigned	0	US	0			South Dakota	0	07/01/2020
-2818	Unassigned	0	US	0			South Dakota	0	07/02/2020
-2823	Unassigned	0	US	0			South Dakota	0	07/03/2020
-2824	Unassigned	0	US	0			South Dakota	0	07/04/2020
-2825	Unassigned	0	US	0			South Dakota	0	07/05/2020
-2828	Unassigned	0	US	0			South Dakota	0	07/06/2020
-2829	Unassigned	0	US	0			South Dakota	0	07/07/2020
-2832	Unassigned	0	US	0			South Dakota	0	07/08/2020
-2831	Unassigned	0	US	0			South Dakota	0	07/09/2020
-2835	Unassigned	0	US	0			South Dakota	0	07/10/2020
-2836	Unassigned	0	US	0			South Dakota	0	07/11/2020
-2838	Unassigned	0	US	0			South Dakota	0	07/12/2020
-2839	Unassigned	0	US	0			South Dakota	0	07/13/2020
-2845	Unassigned	0	US	0			South Dakota	0	07/14/2020
-2846	Unassigned	0	US	0			South Dakota	0	07/15/2020
-2848	Unassigned	0	US	0			South Dakota	0	07/16/2020
-2848	Unassigned	0	US	0			South Dakota	0	07/17/2020
-2922	Unassigned	0	US	0			South Dakota	0	07/18/2020
-2922	Unassigned	0	US	0			South Dakota	0	07/19/2020
-2845	Unassigned	0	US	0			South Dakota	0	07/20/2020
-2926	Unassigned	0	US	0			South Dakota	0	07/21/2020
-2927	Unassigned	0	US	0			South Dakota	0	07/22/2020
-2930	Unassigned	0	US	0			South Dakota	0	07/23/2020
-2929	Unassigned	0	US	0			South Dakota	0	07/24/2020
-2930	Unassigned	0	US	0			South Dakota	0	07/25/2020
-2931	Unassigned	0	US	1			South Dakota	0	07/26/2020
-2931	Unassigned	0	US	1			South Dakota	0	07/27/2020
-2931	Unassigned	0	US	1			South Dakota	0	07/28/2020
-2935	Unassigned	0	US	0			South Dakota	0	07/29/2020
-2935	Unassigned	0	US	0			South Dakota	0	07/30/2020
-2937	Unassigned	0	US	0			South Dakota	0	07/31/2020
-2937	Unassigned	0	US	0			South Dakota	0	08/01/2020
-2937	Unassigned	0	US	0			South Dakota	0	08/02/2020
-2937	Unassigned	0	US	0			South Dakota	0	08/03/2020
-2937	Unassigned	0	US	0			South Dakota	0	08/04/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/05/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/06/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/07/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/08/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/09/2020
-2941	Unassigned	0	US	0			South Dakota	0	08/10/2020
-3224	Unassigned	0	US	0			South Dakota	0	08/11/2020
-3178	Unassigned	0	US	0			South Dakota	0	08/12/2020
-3180	Unassigned	0	US	0			South Dakota	0	08/13/2020
-3180	Unassigned	0	US	0			South Dakota	0	08/14/2020
-3180	Unassigned	0	US	0			South Dakota	0	08/15/2020
-3180	Unassigned	0	US	0			South Dakota	0	08/16/2020
-3182	Unassigned	0	US	0			South Dakota	0	08/17/2020
-3182	Unassigned	0	US	0			South Dakota	0	08/18/2020
-3184	Unassigned	0	US	0			South Dakota	0	08/19/2020
-3184	Unassigned	0	US	0			South Dakota	0	08/20/2020
-3184	Unassigned	0	US	0			South Dakota	0	08/21/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/22/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/23/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/24/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/25/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/26/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/27/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/28/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/29/2020
-3185	Unassigned	0	US	0			South Dakota	0	08/30/2020
-3189	Unassigned	0	US	0			South Dakota	0	08/31/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/01/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/02/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/03/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/04/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/05/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/06/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/07/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/08/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/09/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/10/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/11/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/12/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/13/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/14/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/15/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/16/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/17/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/18/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/19/2020
-3189	Unassigned	0	US	0			South Dakota	0	09/20/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/21/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/22/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/23/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/24/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/25/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/26/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/27/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/28/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/29/2020
-3191	Unassigned	0	US	0			South Dakota	0	09/30/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/01/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/02/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/03/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/04/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/05/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/06/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/07/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/08/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/09/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/10/2020
-3191	Unassigned	0	US	0			South Dakota	0	10/11/2020
-3192	Unassigned	0	US	0			South Dakota	0	10/12/2020
-3192	Unassigned	0	US	0			South Dakota	0	10/13/2020
-3192	Unassigned	0	US	0			South Dakota	0	10/14/2020
-3192	Unassigned	0	US	0			South Dakota	0	10/15/2020
-3193	Unassigned	0	US	0			South Dakota	0	10/16/2020
-3193	Unassigned	0	US	0			South Dakota	0	10/17/2020
-3193	Unassigned	0	US	0			South Dakota	0	10/18/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/19/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/20/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/21/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/22/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/23/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/24/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/25/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/26/2020
-3194	Unassigned	0	US	0			South Dakota	0	10/27/2020
-3195	Unassigned	0	US	0.0			South Dakota	0	10/28/2020
-3195	Unassigned	0	US	0			South Dakota	0	10/29/2020
-3195	Unassigned	0	US	0			South Dakota	0	10/30/2020
-3195	Unassigned	0	US	0			South Dakota	0	10/31/2020
-3195	Unassigned	0	US	0			South Dakota	0	11/01/2020
-3195	Unassigned	0	US	0			South Dakota	0	11/02/2020
-3195	Unassigned	0	US	0			South Dakota	0	11/03/2020
-3196	Unassigned	0	US	0			South Dakota	0	11/04/2020
-3196	Unassigned	0	US	0			South Dakota	0	11/05/2020
-3196	Unassigned	0	US	0			South Dakota	0	11/06/2020
-3196	Unassigned	0	US	0			South Dakota	0	11/07/2020
-3196	Unassigned	0	US	0			South Dakota	0	11/08/2020
-3196	Unassigned	0	US	0			South Dakota	0.0	11/09/2020
-3196	Unassigned	0	US	0			South Dakota	0.0	11/10/2020
-3196	Unassigned	0	US	0			South Dakota	0.0	11/11/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/12/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/13/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/14/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/15/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/16/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/17/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/18/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/19/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/20/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/21/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/22/2020
-3208	Unassigned	0	US	0			South Dakota	0	11/23/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/24/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/25/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/26/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/27/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/28/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/29/2020
-3209	Unassigned	0	US	0			South Dakota	0	11/30/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/01/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/02/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/03/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/04/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/05/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/06/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/07/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/08/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/09/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/10/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/11/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/12/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/13/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/14/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/15/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/16/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/17/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/18/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/19/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/20/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/21/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/22/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/23/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/24/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/25/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/26/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/27/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/28/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/29/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/30/2020
-3209	Unassigned	0	US	0			South Dakota	0	12/31/2020
-3209	Unassigned	0	US	0			South Dakota	0	01/01/2021
-3209	Unassigned	0	US	0			South Dakota	0	01/02/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/03/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/04/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/05/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/06/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/07/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/08/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/09/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/10/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/11/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/12/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/13/2021
-3210	Unassigned	0	US	0			South Dakota	0	01/14/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/15/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/16/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/17/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/18/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/19/2021
-3211	Unassigned	0	US	0			South Dakota	0	01/20/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/21/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/22/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/23/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/24/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/25/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/26/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/27/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/28/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/29/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/30/2021
-3212	Unassigned	0	US	0			South Dakota	0	01/31/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/01/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/02/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/03/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/04/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/05/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/06/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/07/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/08/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/09/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/10/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/11/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/12/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/13/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/14/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/15/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/16/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/17/2021
-3212	Unassigned	0	US	0			South Dakota	0	02/18/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/19/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/20/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/21/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/22/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/23/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/24/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/25/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/26/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/27/2021
-3213	Unassigned	0	US	0			South Dakota	0	02/28/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/01/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/02/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/03/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/04/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/05/2021
-3213	Unassigned	0	US	0			South Dakota	0	03/06/2021
-3213	Unassigned	0	US	0			South Dakota		03/07/2021
-3213	Unassigned	0	US	0			South Dakota		03/08/2021
-3213	Unassigned	0	US	0			South Dakota		03/09/2021
-3213	Unassigned	0	US	0			South Dakota		03/10/2021
-3213	Unassigned	0	US	0			South Dakota		03/11/2021
-3213	Unassigned	0	US	0			South Dakota		03/12/2021
-3213	Unassigned	0	US	0			South Dakota		03/13/2021
-3213	Unassigned	0	US	0			South Dakota		03/14/2021
-3213	Unassigned	0	US	0			South Dakota		03/15/2021
-3213	Unassigned	0	US	0			South Dakota		03/16/2021
-3213	Unassigned	0	US	0			South Dakota		03/17/2021
-3213	Unassigned	0	US	0			South Dakota		03/18/2021
-3213	Unassigned	0	US	0			South Dakota		03/19/2021
-3213	Unassigned	0	US	0			South Dakota		03/20/2021
-3213	Unassigned	0	US	0			South Dakota		03/21/2021
-3213	Unassigned	0	US	0			South Dakota		03/22/2021
-3213	Unassigned	0	US	0			South Dakota		03/23/2021
-3213	Unassigned	0	US	0			South Dakota		03/24/2021
-3213	Unassigned	0	US	0			South Dakota		03/25/2021
-3213	Unassigned	0	US	0			South Dakota		03/26/2021
-3213	Unassigned	0	US	0			South Dakota		03/27/2021
-3213	Unassigned	0	US	0			South Dakota		03/28/2021
-3213	Unassigned	0	US	0			South Dakota		03/29/2021
-3213	Unassigned	0	US	0			South Dakota		03/30/2021
-3213	Unassigned	0	US	0			South Dakota		03/31/2021
-3213	Unassigned	0	US	0			South Dakota		04/01/2021
-3215	Unassigned	0	US	0			South Dakota		04/02/2021
-3215	Unassigned	0	US	0			South Dakota		04/03/2021
-3215	Unassigned	0	US	0			South Dakota		04/04/2021
-3215	Unassigned	0	US	0			South Dakota		04/05/2021
-3215	Unassigned	0	US	0			South Dakota		04/06/2021
-3215	Unassigned	0	US	0			South Dakota		04/07/2021
-3215	Unassigned	0	US	0			South Dakota		04/08/2021
-3215	Unassigned	0	US	0			South Dakota		04/09/2021
-3215	Unassigned	0	US	0			South Dakota		04/10/2021
-3215	Unassigned	0	US	0			South Dakota		04/11/2021
-3215	Unassigned	0	US	0			South Dakota		04/12/2021
-3215	Unassigned	0	US	0			South Dakota		04/13/2021
-3215	Unassigned	0	US	0			South Dakota		04/14/2021
-3215	Unassigned	0	US	0			South Dakota		04/15/2021
-3215	Unassigned	0	US	0			South Dakota		04/16/2021
-3215	Unassigned	0	US	0			South Dakota		04/17/2021
-3215	Unassigned	0	US	0			South Dakota		04/18/2021
-3215	Unassigned	0	US	0			South Dakota		04/19/2021
-3215	Unassigned	0	US	0			South Dakota		04/20/2021
-3215	Unassigned	0	US	0			South Dakota		04/21/2021
-3215	Unassigned	0	US	0			South Dakota		04/22/2021
-3215	Unassigned	0	US	0			South Dakota		04/23/2021
-3215	Unassigned	0	US	0			South Dakota		04/24/2021
-3215	Unassigned	0	US	0			South Dakota		04/25/2021
-3215	Unassigned	0	US	0			South Dakota		04/26/2021
-3215	Unassigned	0	US	0			South Dakota		04/27/2021
-3215	Unassigned	0	US	0			South Dakota		04/28/2021
-3215	Unassigned	0	US	0			South Dakota		04/29/2021
-3215	Unassigned	0	US	0			South Dakota		04/30/2021
-3215	Unassigned	0	US	0			South Dakota		05/01/2021
-3215	Unassigned	0	US	0			South Dakota		05/02/2021
-3215	Unassigned	0	US	0			South Dakota		05/03/2021
-3215	Unassigned	0	US	0			South Dakota		05/04/2021
-3215	Unassigned	0	US	0			South Dakota		05/05/2021
-3215	Unassigned	0	US	0			South Dakota		05/06/2021
-3215	Unassigned	0	US	0			South Dakota		05/07/2021
-3215	Unassigned	0	US	0			South Dakota		05/08/2021
-3215	Unassigned	0	US	0			South Dakota		05/09/2021
-3215	Unassigned	0	US	0			South Dakota		05/10/2021
-3215	Unassigned	0	US	0			South Dakota		05/11/2021
-3215	Unassigned	0	US	0			South Dakota		05/12/2021
-3215	Unassigned	0	US	0			South Dakota		05/13/2021
-3215	Unassigned	0	US	0			South Dakota		05/14/2021
-3215	Unassigned	0	US	0			South Dakota		05/15/2021
-3215	Unassigned	0	US	0			South Dakota		05/16/2021
-3215	Unassigned	0	US	0			South Dakota		05/17/2021
-3215	Unassigned	0	US	0			South Dakota		05/18/2021
-3215	Unassigned	0	US	0			South Dakota		05/19/2021
-3215	Unassigned	0	US	0			South Dakota		05/20/2021
-3215	Unassigned	0	US	0			South Dakota		05/21/2021
-3215	Unassigned	0	US	0			South Dakota		05/22/2021
-3215	Unassigned	0	US	0			South Dakota		05/23/2021
-3215	Unassigned	0	US	0			South Dakota		05/24/2021
-3215	Unassigned	0	US	0			South Dakota		05/25/2021
-3215	Unassigned	0	US	0			South Dakota		05/26/2021
-3216	Unassigned	0	US	0			South Dakota		05/27/2021
-3216	Unassigned	0	US	0			South Dakota		05/28/2021
-3216	Unassigned	0	US	0			South Dakota		05/29/2021
-3216	Unassigned	0	US	0			South Dakota		05/30/2021
-3216	Unassigned	0	US	0			South Dakota		05/31/2021
-3216	Unassigned	0	US	0			South Dakota		06/01/2021
-3216	Unassigned	0	US	0			South Dakota		06/02/2021
-3216	Unassigned	0	US	0			South Dakota		06/03/2021
-3216	Unassigned	0	US	0			South Dakota		06/04/2021
-3216	Unassigned	0	US	0			South Dakota		06/05/2021
-3216	Unassigned	0	US	0			South Dakota		06/06/2021
-3216	Unassigned	0	US	0			South Dakota		06/07/2021
-3216	Unassigned	0	US	0			South Dakota		06/08/2021
-3216	Unassigned	0	US	0			South Dakota		06/09/2021
-3216	Unassigned	0	US	0			South Dakota		06/10/2021
-3216	Unassigned	0	US	0			South Dakota		06/11/2021
-3216	Unassigned	0	US	0			South Dakota		06/12/2021
-3216	Unassigned	0	US	0			South Dakota		06/13/2021
-3216	Unassigned	0	US	0			South Dakota		06/14/2021
-3216	Unassigned	0	US	0			South Dakota		06/15/2021
-3216	Unassigned	0	US	0			South Dakota		06/16/2021
-3218	Unassigned	0	US	0			South Dakota		06/17/2021
-3218	Unassigned	0	US	0			South Dakota		06/18/2021
-3218	Unassigned	0	US	0			South Dakota		06/19/2021
-3218	Unassigned	0	US	0			South Dakota		06/20/2021
-3218	Unassigned	0	US	0			South Dakota		06/21/2021
-3218	Unassigned	0	US	0			South Dakota		06/22/2021
-3218	Unassigned	0	US	0			South Dakota		06/23/2021
-3219	Unassigned	0	US	0			South Dakota		06/24/2021
-3219	Unassigned	0	US	0			South Dakota		06/25/2021
-3219	Unassigned	0	US	0			South Dakota		06/26/2021
-3219	Unassigned	0	US	0			South Dakota		06/27/2021
-3219	Unassigned	0	US	0			South Dakota		06/28/2021
-3219	Unassigned	0	US	0			South Dakota		06/29/2021
-3219	Unassigned	0	US	0			South Dakota		06/30/2021
-3219	Unassigned	0	US	0			South Dakota		07/01/2021
-3219	Unassigned	0	US	0			South Dakota		07/02/2021
-3219	Unassigned	0	US	0			South Dakota		07/03/2021
-3219	Unassigned	0	US	0			South Dakota		07/04/2021
-3219	Unassigned	0	US	0			South Dakota		07/05/2021
-3219	Unassigned	0	US	0			South Dakota		07/06/2021
-3219	Unassigned	0	US	0			South Dakota		07/07/2021
-3219	Unassigned	0	US	0			South Dakota		07/08/2021
-3219	Unassigned	0	US	0			South Dakota		07/09/2021
-3219	Unassigned	0	US	0			South Dakota		07/10/2021
-3219	Unassigned	0	US	0			South Dakota		07/11/2021
-3219	Unassigned	0	US	0			South Dakota		07/12/2021
-3219	Unassigned	0	US	0			South Dakota		07/13/2021
-3219	Unassigned	0	US	0			South Dakota		07/14/2021
-3219	Unassigned	0	US	0			South Dakota		07/15/2021
-3219	Unassigned	0	US	0			South Dakota		07/16/2021
-3219	Unassigned	0	US	0			South Dakota		07/17/2021
-3219	Unassigned	0	US	0			South Dakota		07/18/2021
-3219	Unassigned	0	US	0			South Dakota		07/19/2021
-3219	Unassigned	0	US	0			South Dakota		07/20/2021
-3219	Unassigned	0	US	0			South Dakota		07/21/2021
-3219	Unassigned	0	US	0			South Dakota		07/22/2021
-3219	Unassigned	0	US	0			South Dakota		07/23/2021
-3219	Unassigned	0	US	0			South Dakota		07/24/2021
-3219	Unassigned	0	US	0			South Dakota		07/25/2021
-3219	Unassigned	0	US	0			South Dakota		07/26/2021
-3219	Unassigned	0	US	0			South Dakota		07/27/2021
-3219	Unassigned	0	US	0			South Dakota		07/28/2021
-3219	Unassigned	0	US	0			South Dakota		07/29/2021
-3219	Unassigned	0	US	0			South Dakota		07/30/2021
-3219	Unassigned	0	US	0			South Dakota		07/31/2021
-3219	Unassigned	0	US	0			South Dakota		08/01/2021
-3219	Unassigned	0	US	0			South Dakota		08/02/2021
-3219	Unassigned	0	US	0			South Dakota		08/03/2021
-3219	Unassigned	0	US	0			South Dakota		08/04/2021
-3219	Unassigned	0	US	0			South Dakota		08/05/2021
-3219	Unassigned	0	US	0			South Dakota		08/06/2021
-3219	Unassigned	0	US	0			South Dakota		08/07/2021
-3219	Unassigned	0	US	0			South Dakota		08/08/2021
-3219	Unassigned	0	US	0			South Dakota		08/09/2021
-3219	Unassigned	0	US	0			South Dakota		08/10/2021
-3219	Unassigned	0	US	0			South Dakota		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+2074	South Dakota	US	04/02/2020			0	0	0	Unassigned
+2119	South Dakota	US	04/03/2020			0	0	0	Unassigned
+2173	South Dakota	US	04/04/2020			0	0	0	Unassigned
+2248	South Dakota	US	04/05/2020			0	0	0	Unassigned
+2286	South Dakota	US	04/06/2020			0	0	0	Unassigned
+2335	South Dakota	US	04/07/2020			0	0	0	Unassigned
+2358	South Dakota	US	04/08/2020			0	0	0	Unassigned
+2385	South Dakota	US	04/09/2020			0	0	0	Unassigned
+2409	South Dakota	US	04/10/2020			0	0	0	Unassigned
+2432	South Dakota	US	04/11/2020			0	0	0	Unassigned
+2455	South Dakota	US	04/12/2020			0	0	0	Unassigned
+2469	South Dakota	US	04/13/2020			0	0	0	Unassigned
+2479	South Dakota	US	04/14/2020			0	0	0	Unassigned
+2491	South Dakota	US	04/15/2020			0	0	0	Unassigned
+2505	South Dakota	US	04/16/2020			0	0	0	Unassigned
+2507	South Dakota	US	04/17/2020			0	0	0	Unassigned
+2514	South Dakota	US	04/18/2020			0	0	0	Unassigned
+2532	South Dakota	US	04/19/2020			0	0	0	Unassigned
+2541	South Dakota	US	04/20/2020			0	0	0	Unassigned
+2550	South Dakota	US	04/21/2020			0	0	0	Unassigned
+2557	South Dakota	US	04/22/2020			0	0	0	Unassigned
+2576	South Dakota	US	04/23/2020			0	0	0	Unassigned
+2582	South Dakota	US	04/24/2020			0	0	0	Unassigned
+2587	South Dakota	US	04/25/2020			0	0	0	Unassigned
+2595	South Dakota	US	04/26/2020			0	0	0	Unassigned
+2602	South Dakota	US	04/27/2020			0	0	0	Unassigned
+2611	South Dakota	US	04/28/2020			0	0	0	Unassigned
+2616	South Dakota	US	04/29/2020			0	0	0	Unassigned
+2622	South Dakota	US	04/30/2020			0	4	0	Unassigned
+2632	South Dakota	US	05/01/2020			0	0	0	Unassigned
+2636	South Dakota	US	05/02/2020			0	0	0	Unassigned
+2641	South Dakota	US	05/03/2020			0	0	0	Unassigned
+2644	South Dakota	US	05/04/2020			0	0	0	Unassigned
+2652	South Dakota	US	05/05/2020			0	0	0	Unassigned
+2658	South Dakota	US	05/06/2020			0	5	0	Unassigned
+2665	South Dakota	US	05/07/2020			0	0	0	Unassigned
+2672	South Dakota	US	05/08/2020			0	0	0	Unassigned
+2674	South Dakota	US	05/09/2020			0	0	0	Unassigned
+2676	South Dakota	US	05/10/2020			0	0	0	Unassigned
+2676	South Dakota	US	05/11/2020			0	0	0	Unassigned
+2679	South Dakota	US	05/12/2020			0	5	0	Unassigned
+2680	South Dakota	US	05/13/2020			0	5	0	Unassigned
+2682	South Dakota	US	05/14/2020			0	0	0	Unassigned
+2687	South Dakota	US	05/15/2020			0	0	0	Unassigned
+2691	South Dakota	US	05/16/2020			0	0	0	Unassigned
+2694	South Dakota	US	05/17/2020			0	0	0	Unassigned
+2696	South Dakota	US	05/18/2020			0	0	0	Unassigned
+2700	South Dakota	US	05/19/2020			0	0	0	Unassigned
+2706	South Dakota	US	05/20/2020			0	0	0	Unassigned
+2708	South Dakota	US	05/21/2020			0	0	0	Unassigned
+2715	South Dakota	US	05/22/2020			0	0	0	Unassigned
+2717	South Dakota	US	05/23/2020			0	0	0	Unassigned
+2720	South Dakota	US	05/24/2020			0	0	0	Unassigned
+2721	South Dakota	US	05/25/2020			0	0	0	Unassigned
+2722	South Dakota	US	05/26/2020			1	0	0	Unassigned
+2725	South Dakota	US	05/27/2020			1	0	0	Unassigned
+2728	South Dakota	US	05/28/2020			0	0	0	Unassigned
+2731	South Dakota	US	05/29/2020			0	0	0	Unassigned
+2733	South Dakota	US	05/30/2020			0	0	0	Unassigned
+2734	South Dakota	US	05/31/2020			0	0	0	Unassigned
+2736	South Dakota	US	06/01/2020			0	0	0	Unassigned
+2741	South Dakota	US	06/02/2020			0	0	0	Unassigned
+2743	South Dakota	US	06/03/2020			0	0	0	Unassigned
+2744	South Dakota	US	06/04/2020			0	0	0	Unassigned
+2748	South Dakota	US	06/05/2020			0	0	0	Unassigned
+2750	South Dakota	US	06/06/2020			0	0	0	Unassigned
+2750	South Dakota	US	06/07/2020			0	0	0	Unassigned
+2750	South Dakota	US	06/08/2020			0	0	0	Unassigned
+2752	South Dakota	US	06/09/2020			0	0	0	Unassigned
+2754	South Dakota	US	06/10/2020			0	0	0	Unassigned
+2756	South Dakota	US	06/11/2020			0	0	0	Unassigned
+2770	South Dakota	US	06/12/2020			0	0	0	Unassigned
+2773	South Dakota	US	06/13/2020			0	0	0	Unassigned
+2773	South Dakota	US	06/14/2020			0	0	0	Unassigned
+2777	South Dakota	US	06/15/2020			0	0	0	Unassigned
+2775	South Dakota	US	06/16/2020			0	0	0	Unassigned
+2777	South Dakota	US	06/17/2020			0	0	0	Unassigned
+2777	South Dakota	US	06/18/2020			0	0	0	Unassigned
+2778	South Dakota	US	06/19/2020			0	0	0	Unassigned
+2782	South Dakota	US	06/20/2020			0	0	0	Unassigned
+2782	South Dakota	US	06/21/2020			0	0	0	Unassigned
+2785	South Dakota	US	06/22/2020			0	0	0	Unassigned
+2790	South Dakota	US	06/23/2020			0	0	0	Unassigned
+2802	South Dakota	US	06/24/2020			0	0	0	Unassigned
+2807	South Dakota	US	06/25/2020			0	0	0	Unassigned
+2808	South Dakota	US	06/26/2020			0	0	0	Unassigned
+2809	South Dakota	US	06/27/2020			0	0	0	Unassigned
+2809	South Dakota	US	06/28/2020			0	0	0	Unassigned
+2811	South Dakota	US	06/29/2020			0	0	0	Unassigned
+2813	South Dakota	US	06/30/2020			0	0	0	Unassigned
+2815	South Dakota	US	07/01/2020			0	0	0	Unassigned
+2818	South Dakota	US	07/02/2020			0	0	0	Unassigned
+2823	South Dakota	US	07/03/2020			0	0	0	Unassigned
+2824	South Dakota	US	07/04/2020			0	0	0	Unassigned
+2825	South Dakota	US	07/05/2020			0	0	0	Unassigned
+2828	South Dakota	US	07/06/2020			0	0	0	Unassigned
+2829	South Dakota	US	07/07/2020			0	0	0	Unassigned
+2832	South Dakota	US	07/08/2020			0	0	0	Unassigned
+2831	South Dakota	US	07/09/2020			0	0	0	Unassigned
+2835	South Dakota	US	07/10/2020			0	0	0	Unassigned
+2836	South Dakota	US	07/11/2020			0	0	0	Unassigned
+2838	South Dakota	US	07/12/2020			0	0	0	Unassigned
+2839	South Dakota	US	07/13/2020			0	0	0	Unassigned
+2845	South Dakota	US	07/14/2020			0	0	0	Unassigned
+2846	South Dakota	US	07/15/2020			0	0	0	Unassigned
+2848	South Dakota	US	07/16/2020			0	0	0	Unassigned
+2848	South Dakota	US	07/17/2020			0	0	0	Unassigned
+2922	South Dakota	US	07/18/2020			0	0	0	Unassigned
+2922	South Dakota	US	07/19/2020			0	0	0	Unassigned
+2845	South Dakota	US	07/20/2020			0	0	0	Unassigned
+2926	South Dakota	US	07/21/2020			0	0	0	Unassigned
+2927	South Dakota	US	07/22/2020			0	0	0	Unassigned
+2930	South Dakota	US	07/23/2020			0	0	0	Unassigned
+2929	South Dakota	US	07/24/2020			0	0	0	Unassigned
+2930	South Dakota	US	07/25/2020			0	0	0	Unassigned
+2931	South Dakota	US	07/26/2020			0	1	0	Unassigned
+2931	South Dakota	US	07/27/2020			0	1	0	Unassigned
+2931	South Dakota	US	07/28/2020			0	1	0	Unassigned
+2935	South Dakota	US	07/29/2020			0	0	0	Unassigned
+2935	South Dakota	US	07/30/2020			0	0	0	Unassigned
+2937	South Dakota	US	07/31/2020			0	0	0	Unassigned
+2937	South Dakota	US	08/01/2020			0	0	0	Unassigned
+2937	South Dakota	US	08/02/2020			0	0	0	Unassigned
+2937	South Dakota	US	08/03/2020			0	0	0	Unassigned
+2937	South Dakota	US	08/04/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/05/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/06/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/07/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/08/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/09/2020			0	0	0	Unassigned
+2941	South Dakota	US	08/10/2020			0	0	0	Unassigned
+3223	South Dakota	US	08/11/2020			0	0	0	Unassigned
+3177	South Dakota	US	08/12/2020			0	0	0	Unassigned
+3179	South Dakota	US	08/13/2020			0	0	0	Unassigned
+3179	South Dakota	US	08/14/2020			0	0	0	Unassigned
+3179	South Dakota	US	08/15/2020			0	0	0	Unassigned
+3179	South Dakota	US	08/16/2020			0	0	0	Unassigned
+3181	South Dakota	US	08/17/2020			0	0	0	Unassigned
+3181	South Dakota	US	08/18/2020			0	0	0	Unassigned
+3183	South Dakota	US	08/19/2020			0	0	0	Unassigned
+3183	South Dakota	US	08/20/2020			0	0	0	Unassigned
+3183	South Dakota	US	08/21/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/22/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/23/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/24/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/25/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/26/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/27/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/28/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/29/2020			0	0	0	Unassigned
+3184	South Dakota	US	08/30/2020			0	0	0	Unassigned
+3188	South Dakota	US	08/31/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/01/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/02/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/03/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/04/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/05/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/06/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/07/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/08/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/09/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/10/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/11/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/12/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/13/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/14/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/15/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/16/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/17/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/18/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/19/2020			0	0	0	Unassigned
+3188	South Dakota	US	09/20/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/21/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/22/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/23/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/24/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/25/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/26/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/27/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/28/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/29/2020			0	0	0	Unassigned
+3190	South Dakota	US	09/30/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/01/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/02/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/03/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/04/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/05/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/06/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/07/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/08/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/09/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/10/2020			0	0	0	Unassigned
+3190	South Dakota	US	10/11/2020			0	0	0	Unassigned
+3191	South Dakota	US	10/12/2020			0	0	0	Unassigned
+3191	South Dakota	US	10/13/2020			0	0	0	Unassigned
+3191	South Dakota	US	10/14/2020			0	0	0	Unassigned
+3191	South Dakota	US	10/15/2020			0	0	0	Unassigned
+3192	South Dakota	US	10/16/2020			0	0	0	Unassigned
+3192	South Dakota	US	10/17/2020			0	0	0	Unassigned
+3192	South Dakota	US	10/18/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/19/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/20/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/21/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/22/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/23/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/24/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/25/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/26/2020			0	0	0	Unassigned
+3193	South Dakota	US	10/27/2020			0	0	0	Unassigned
+3194	South Dakota	US	10/28/2020			0	0.0	0	Unassigned
+3194	South Dakota	US	10/29/2020			0	0	0	Unassigned
+3194	South Dakota	US	10/30/2020			0	0	0	Unassigned
+3194	South Dakota	US	10/31/2020			0	0	0	Unassigned
+3194	South Dakota	US	11/01/2020			0	0	0	Unassigned
+3194	South Dakota	US	11/02/2020			0	0	0	Unassigned
+3194	South Dakota	US	11/03/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/04/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/05/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/06/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/07/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/08/2020			0	0	0	Unassigned
+3195	South Dakota	US	11/09/2020			0	0	0.0	Unassigned
+3195	South Dakota	US	11/10/2020			0	0	0.0	Unassigned
+3195	South Dakota	US	11/11/2020			0	0	0.0	Unassigned
+3207	South Dakota	US	11/12/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/13/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/14/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/15/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/16/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/17/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/18/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/19/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/20/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/21/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/22/2020			0	0	0	Unassigned
+3207	South Dakota	US	11/23/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/24/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/25/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/26/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/27/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/28/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/29/2020			0	0	0	Unassigned
+3208	South Dakota	US	11/30/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/01/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/02/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/03/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/04/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/05/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/06/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/07/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/08/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/09/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/10/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/11/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/12/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/13/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/14/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/15/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/16/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/17/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/18/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/19/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/20/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/21/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/22/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/23/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/24/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/25/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/26/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/27/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/28/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/29/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/30/2020			0	0	0	Unassigned
+3208	South Dakota	US	12/31/2020			0	0	0	Unassigned
+3208	South Dakota	US	01/01/2021			0	0	0	Unassigned
+3208	South Dakota	US	01/02/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/03/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/04/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/05/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/06/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/07/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/08/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/09/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/10/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/11/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/12/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/13/2021			0	0	0	Unassigned
+3209	South Dakota	US	01/14/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/15/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/16/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/17/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/18/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/19/2021			0	0	0	Unassigned
+3210	South Dakota	US	01/20/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/21/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/22/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/23/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/24/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/25/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/26/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/27/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/28/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/29/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/30/2021			0	0	0	Unassigned
+3211	South Dakota	US	01/31/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/01/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/02/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/03/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/04/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/05/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/06/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/07/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/08/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/09/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/10/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/11/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/12/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/13/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/14/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/15/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/16/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/17/2021			0	0	0	Unassigned
+3211	South Dakota	US	02/18/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/19/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/20/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/21/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/22/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/23/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/24/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/25/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/26/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/27/2021			0	0	0	Unassigned
+3212	South Dakota	US	02/28/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/01/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/02/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/03/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/04/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/05/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/06/2021			0	0	0	Unassigned
+3212	South Dakota	US	03/07/2021			0	0		Unassigned
+3212	South Dakota	US	03/08/2021			0	0		Unassigned
+3212	South Dakota	US	03/09/2021			0	0		Unassigned
+3212	South Dakota	US	03/10/2021			0	0		Unassigned
+3212	South Dakota	US	03/11/2021			0	0		Unassigned
+3212	South Dakota	US	03/12/2021			0	0		Unassigned
+3212	South Dakota	US	03/13/2021			0	0		Unassigned
+3212	South Dakota	US	03/14/2021			0	0		Unassigned
+3212	South Dakota	US	03/15/2021			0	0		Unassigned
+3212	South Dakota	US	03/16/2021			0	0		Unassigned
+3212	South Dakota	US	03/17/2021			0	0		Unassigned
+3212	South Dakota	US	03/18/2021			0	0		Unassigned
+3212	South Dakota	US	03/19/2021			0	0		Unassigned
+3212	South Dakota	US	03/20/2021			0	0		Unassigned
+3212	South Dakota	US	03/21/2021			0	0		Unassigned
+3212	South Dakota	US	03/22/2021			0	0		Unassigned
+3212	South Dakota	US	03/23/2021			0	0		Unassigned
+3212	South Dakota	US	03/24/2021			0	0		Unassigned
+3212	South Dakota	US	03/25/2021			0	0		Unassigned
+3212	South Dakota	US	03/26/2021			0	0		Unassigned
+3212	South Dakota	US	03/27/2021			0	0		Unassigned
+3212	South Dakota	US	03/28/2021			0	0		Unassigned
+3212	South Dakota	US	03/29/2021			0	0		Unassigned
+3212	South Dakota	US	03/30/2021			0	0		Unassigned
+3212	South Dakota	US	03/31/2021			0	0		Unassigned
+3212	South Dakota	US	04/01/2021			0	0		Unassigned
+3214	South Dakota	US	04/02/2021			0	0		Unassigned
+3214	South Dakota	US	04/03/2021			0	0		Unassigned
+3214	South Dakota	US	04/04/2021			0	0		Unassigned
+3214	South Dakota	US	04/05/2021			0	0		Unassigned
+3214	South Dakota	US	04/06/2021			0	0		Unassigned
+3214	South Dakota	US	04/07/2021			0	0		Unassigned
+3214	South Dakota	US	04/08/2021			0	0		Unassigned
+3214	South Dakota	US	04/09/2021			0	0		Unassigned
+3214	South Dakota	US	04/10/2021			0	0		Unassigned
+3214	South Dakota	US	04/11/2021			0	0		Unassigned
+3214	South Dakota	US	04/12/2021			0	0		Unassigned
+3214	South Dakota	US	04/13/2021			0	0		Unassigned
+3214	South Dakota	US	04/14/2021			0	0		Unassigned
+3214	South Dakota	US	04/15/2021			0	0		Unassigned
+3214	South Dakota	US	04/16/2021			0	0		Unassigned
+3214	South Dakota	US	04/17/2021			0	0		Unassigned
+3214	South Dakota	US	04/18/2021			0	0		Unassigned
+3214	South Dakota	US	04/19/2021			0	0		Unassigned
+3214	South Dakota	US	04/20/2021			0	0		Unassigned
+3214	South Dakota	US	04/21/2021			0	0		Unassigned
+3214	South Dakota	US	04/22/2021			0	0		Unassigned
+3214	South Dakota	US	04/23/2021			0	0		Unassigned
+3214	South Dakota	US	04/24/2021			0	0		Unassigned
+3214	South Dakota	US	04/25/2021			0	0		Unassigned
+3214	South Dakota	US	04/26/2021			0	0		Unassigned
+3214	South Dakota	US	04/27/2021			0	0		Unassigned
+3214	South Dakota	US	04/28/2021			0	0		Unassigned
+3214	South Dakota	US	04/29/2021			0	0		Unassigned
+3214	South Dakota	US	04/30/2021			0	0		Unassigned
+3214	South Dakota	US	05/01/2021			0	0		Unassigned
+3214	South Dakota	US	05/02/2021			0	0		Unassigned
+3214	South Dakota	US	05/03/2021			0	0		Unassigned
+3214	South Dakota	US	05/04/2021			0	0		Unassigned
+3214	South Dakota	US	05/05/2021			0	0		Unassigned
+3214	South Dakota	US	05/06/2021			0	0		Unassigned
+3214	South Dakota	US	05/07/2021			0	0		Unassigned
+3214	South Dakota	US	05/08/2021			0	0		Unassigned
+3214	South Dakota	US	05/09/2021			0	0		Unassigned
+3214	South Dakota	US	05/10/2021			0	0		Unassigned
+3214	South Dakota	US	05/11/2021			0	0		Unassigned
+3214	South Dakota	US	05/12/2021			0	0		Unassigned
+3214	South Dakota	US	05/13/2021			0	0		Unassigned
+3214	South Dakota	US	05/14/2021			0	0		Unassigned
+3214	South Dakota	US	05/15/2021			0	0		Unassigned
+3214	South Dakota	US	05/16/2021			0	0		Unassigned
+3214	South Dakota	US	05/17/2021			0	0		Unassigned
+3214	South Dakota	US	05/18/2021			0	0		Unassigned
+3214	South Dakota	US	05/19/2021			0	0		Unassigned
+3214	South Dakota	US	05/20/2021			0	0		Unassigned
+3214	South Dakota	US	05/21/2021			0	0		Unassigned
+3214	South Dakota	US	05/22/2021			0	0		Unassigned
+3214	South Dakota	US	05/23/2021			0	0		Unassigned
+3214	South Dakota	US	05/24/2021			0	0		Unassigned
+3214	South Dakota	US	05/25/2021			0	0		Unassigned
+3214	South Dakota	US	05/26/2021			0	0		Unassigned
+3215	South Dakota	US	05/27/2021			0	0		Unassigned
+3215	South Dakota	US	05/28/2021			0	0		Unassigned
+3215	South Dakota	US	05/29/2021			0	0		Unassigned
+3215	South Dakota	US	05/30/2021			0	0		Unassigned
+3215	South Dakota	US	05/31/2021			0	0		Unassigned
+3215	South Dakota	US	06/01/2021			0	0		Unassigned
+3215	South Dakota	US	06/02/2021			0	0		Unassigned
+3215	South Dakota	US	06/03/2021			0	0		Unassigned
+3215	South Dakota	US	06/04/2021			0	0		Unassigned
+3215	South Dakota	US	06/05/2021			0	0		Unassigned
+3215	South Dakota	US	06/06/2021			0	0		Unassigned
+3215	South Dakota	US	06/07/2021			0	0		Unassigned
+3215	South Dakota	US	06/08/2021			0	0		Unassigned
+3215	South Dakota	US	06/09/2021			0	0		Unassigned
+3215	South Dakota	US	06/10/2021			0	0		Unassigned
+3215	South Dakota	US	06/11/2021			0	0		Unassigned
+3215	South Dakota	US	06/12/2021			0	0		Unassigned
+3215	South Dakota	US	06/13/2021			0	0		Unassigned
+3215	South Dakota	US	06/14/2021			0	0		Unassigned
+3215	South Dakota	US	06/15/2021			0	0		Unassigned
+3215	South Dakota	US	06/16/2021			0	0		Unassigned
+3217	South Dakota	US	06/17/2021			0	0		Unassigned
+3217	South Dakota	US	06/18/2021			0	0		Unassigned
+3217	South Dakota	US	06/19/2021			0	0		Unassigned
+3217	South Dakota	US	06/20/2021			0	0		Unassigned
+3217	South Dakota	US	06/21/2021			0	0		Unassigned
+3217	South Dakota	US	06/22/2021			0	0		Unassigned
+3217	South Dakota	US	06/23/2021			0	0		Unassigned
+3218	South Dakota	US	06/24/2021			0	0		Unassigned
+3218	South Dakota	US	06/25/2021			0	0		Unassigned
+3218	South Dakota	US	06/26/2021			0	0		Unassigned
+3218	South Dakota	US	06/27/2021			0	0		Unassigned
+3218	South Dakota	US	06/28/2021			0	0		Unassigned
+3218	South Dakota	US	06/29/2021			0	0		Unassigned
+3218	South Dakota	US	06/30/2021			0	0		Unassigned
+3218	South Dakota	US	07/01/2021			0	0		Unassigned
+3218	South Dakota	US	07/02/2021			0	0		Unassigned
+3218	South Dakota	US	07/03/2021			0	0		Unassigned
+3218	South Dakota	US	07/04/2021			0	0		Unassigned
+3218	South Dakota	US	07/05/2021			0	0		Unassigned
+3218	South Dakota	US	07/06/2021			0	0		Unassigned
+3218	South Dakota	US	07/07/2021			0	0		Unassigned
+3218	South Dakota	US	07/08/2021			0	0		Unassigned
+3218	South Dakota	US	07/09/2021			0	0		Unassigned
+3218	South Dakota	US	07/10/2021			0	0		Unassigned
+3218	South Dakota	US	07/11/2021			0	0		Unassigned
+3218	South Dakota	US	07/12/2021			0	0		Unassigned
+3218	South Dakota	US	07/13/2021			0	0		Unassigned
+3218	South Dakota	US	07/14/2021			0	0		Unassigned
+3218	South Dakota	US	07/15/2021			0	0		Unassigned
+3218	South Dakota	US	07/16/2021			0	0		Unassigned
+3218	South Dakota	US	07/17/2021			0	0		Unassigned
+3218	South Dakota	US	07/18/2021			0	0		Unassigned
+3218	South Dakota	US	07/19/2021			0	0		Unassigned
+3218	South Dakota	US	07/20/2021			0	0		Unassigned
+3218	South Dakota	US	07/21/2021			0	0		Unassigned
+3218	South Dakota	US	07/22/2021			0	0		Unassigned
+3218	South Dakota	US	07/23/2021			0	0		Unassigned
+3218	South Dakota	US	07/24/2021			0	0		Unassigned
+3218	South Dakota	US	07/25/2021			0	0		Unassigned
+3218	South Dakota	US	07/26/2021			0	0		Unassigned
+3218	South Dakota	US	07/27/2021			0	0		Unassigned
+3218	South Dakota	US	07/28/2021			0	0		Unassigned
+3218	South Dakota	US	07/29/2021			0	0		Unassigned
+3218	South Dakota	US	07/30/2021			0	0		Unassigned
+3218	South Dakota	US	07/31/2021			0	0		Unassigned
+3218	South Dakota	US	08/01/2021			0	0		Unassigned
+3218	South Dakota	US	08/02/2021			0	0		Unassigned
+3218	South Dakota	US	08/03/2021			0	0		Unassigned
+3218	South Dakota	US	08/04/2021			0	0		Unassigned
+3218	South Dakota	US	08/05/2021			0	0		Unassigned
+3218	South Dakota	US	08/06/2021			0	0		Unassigned
+3218	South Dakota	US	08/07/2021			0	0		Unassigned
+3218	South Dakota	US	08/08/2021			0	0		Unassigned
+3218	South Dakota	US	08/09/2021			0	0		Unassigned
+3218	South Dakota	US	08/10/2021			0	0		Unassigned
+3218	South Dakota	US	08/11/2021			0	0		Unassigned
+3218	South Dakota	US	08/12/2021			0	0		Unassigned
+3218	South Dakota	US	08/13/2021			0	0		Unassigned
+3218	South Dakota	US	08/14/2021			0	0		Unassigned
+3218	South Dakota	US	08/15/2021			0	0		Unassigned
+3218	South Dakota	US	08/16/2021			0	0		Unassigned
+3218	South Dakota	US	08/17/2021			0	0		Unassigned
+3218	South Dakota	US	08/18/2021			0	0		Unassigned
+3218	South Dakota	US	08/19/2021			0	0		Unassigned
+3218	South Dakota	US	08/20/2021			0	0		Unassigned
+3218	South Dakota	US	08/21/2021			0	0		Unassigned
+3218	South Dakota	US	08/22/2021			0	0		Unassigned
+3218	South Dakota	US	08/23/2021			0	0		Unassigned
+3218	South Dakota	US	08/24/2021			0	0		Unassigned
+3218	South Dakota	US	08/25/2021			0	0		Unassigned
+3218	South Dakota	US	08/26/2021			0	0		Unassigned
+3218	South Dakota	US	08/27/2021			0	0		Unassigned
+3218	South Dakota	US	08/28/2021			0	0		Unassigned
+3218	South Dakota	US	08/29/2021			0	0		Unassigned
+3218	South Dakota	US	08/30/2021			0	0		Unassigned
+3218	South Dakota	US	08/31/2021			0	0		Unassigned
+3218	South Dakota	US	09/01/2021			0	0		Unassigned
+3218	South Dakota	US	09/02/2021			0	0		Unassigned
+3218	South Dakota	US	09/03/2021			0	0		Unassigned
+3218	South Dakota	US	09/04/2021			0	0		Unassigned
+3218	South Dakota	US	09/05/2021			0	0		Unassigned
+3218	South Dakota	US	09/06/2021			0	0		Unassigned
+3218	South Dakota	US	09/07/2021			0	0		Unassigned
+3218	South Dakota	US	09/08/2021			0	0		Unassigned
+3218	South Dakota	US	09/09/2021			0	0		Unassigned
+3218	South Dakota	US	09/10/2021			0	0		Unassigned
+3218	South Dakota	US	09/11/2021			0	0		Unassigned
+3218	South Dakota	US	09/12/2021			0	0		Unassigned
+3218	South Dakota	US	09/13/2021			0	0		Unassigned
+3218	South Dakota	US	09/14/2021			0	0		Unassigned
+3218	South Dakota	US	09/15/2021			0	0		Unassigned
+3219	South Dakota	US	09/16/2021			0	0		Unassigned
+3219	South Dakota	US	09/17/2021			0	0		Unassigned
+3219	South Dakota	US	09/18/2021			0	0		Unassigned
+3219	South Dakota	US	09/19/2021			0	0		Unassigned
+3219	South Dakota	US	09/20/2021			0	0		Unassigned
+3219	South Dakota	US	09/21/2021			0	0		Unassigned
+3219	South Dakota	US	09/22/2021			0	0		Unassigned
+3236	South Dakota	US	09/23/2021			0	0		Unassigned
+3236	South Dakota	US	09/24/2021			0	0		Unassigned
+3236	South Dakota	US	09/25/2021			0	0		Unassigned
+3236	South Dakota	US	09/26/2021			0	0		Unassigned
+3236	South Dakota	US	09/27/2021			0	0		Unassigned
+3236	South Dakota	US	09/28/2021			0	0		Unassigned
+3236	South Dakota	US	09/29/2021			0	0		Unassigned
+3236	South Dakota	US	09/30/2021			0	0		Unassigned
+3236	South Dakota	US	10/01/2021			0	0		Unassigned
+3236	South Dakota	US	10/02/2021			0	0		Unassigned
+3236	South Dakota	US	10/03/2021			0	0		Unassigned
+3236	South Dakota	US	10/04/2021			0	0		Unassigned
+3236	South Dakota	US	10/05/2021			0	0		Unassigned
+3237	South Dakota	US	10/06/2021			0	0		Unassigned
+3237	South Dakota	US	10/07/2021			0	0		Unassigned
+3237	South Dakota	US	10/08/2021			0	0		Unassigned
+3237	South Dakota	US	10/09/2021			0	0		Unassigned
+3237	South Dakota	US	10/10/2021			0	0		Unassigned
+3237	South Dakota	US	10/11/2021			0	0		Unassigned
+3237	South Dakota	US	10/12/2021			0	0		Unassigned
+3237	South Dakota	US	10/13/2021			0	0		Unassigned
+3237	South Dakota	US	10/14/2021			0	0		Unassigned
+3237	South Dakota	US	10/15/2021			0	0		Unassigned
+3237	South Dakota	US	10/16/2021			0	0		Unassigned
+3237	South Dakota	US	10/17/2021			0	0		Unassigned
+3237	South Dakota	US	10/18/2021			0	0		Unassigned
+3237	South Dakota	US	10/19/2021			0	0		Unassigned
+3237	South Dakota	US	10/20/2021			0	0		Unassigned
+3237	South Dakota	US	10/21/2021			0	0		Unassigned
+3237	South Dakota	US	10/22/2021			0	0		Unassigned
+3237	South Dakota	US	10/23/2021			0	0		Unassigned
+3237	South Dakota	US	10/24/2021			0	0		Unassigned
+3237	South Dakota	US	10/25/2021			0	0		Unassigned
+3237	South Dakota	US	10/26/2021			0	0		Unassigned
+3237	South Dakota	US	10/27/2021			0	0		Unassigned
+3237	South Dakota	US	10/28/2021			0	0		Unassigned
+3237	South Dakota	US	10/29/2021			0	0		Unassigned
+3237	South Dakota	US	10/30/2021			0	0		Unassigned
+3237	South Dakota	US	10/31/2021			0	0		Unassigned
+3238	South Dakota	US	11/01/2021			0	0		Unassigned
+3238	South Dakota	US	11/02/2021			0	0		Unassigned
+3238	South Dakota	US	11/03/2021			0	0		Unassigned
+3238	South Dakota	US	11/04/2021			0	0		Unassigned
+3238	South Dakota	US	11/05/2021			0	0		Unassigned
+3238	South Dakota	US	11/06/2021			0	0		Unassigned
+3238	South Dakota	US	11/07/2021			0	0		Unassigned
+3238	South Dakota	US	11/08/2021			0	0		Unassigned
+3238	South Dakota	US	11/09/2021			0	0		Unassigned
+3238	South Dakota	US	11/10/2021			0	0		Unassigned
+3238	South Dakota	US	11/11/2021			0	0		Unassigned
+3238	South Dakota	US	11/12/2021			0	0		Unassigned
+3238	South Dakota	US	11/13/2021			0	0		Unassigned
+3238	South Dakota	US	11/14/2021			0	0		Unassigned
+3238	South Dakota	US	11/15/2021			0	0		Unassigned
+3238	South Dakota	US	11/16/2021			0	0		Unassigned
+3238	South Dakota	US	11/17/2021			0	0		Unassigned
+3238	South Dakota	US	11/18/2021			0	0		Unassigned
+3238	South Dakota	US	11/19/2021			0	0		Unassigned
+3238	South Dakota	US	11/20/2021			0	0		Unassigned
+3238	South Dakota	US	11/21/2021			0	0		Unassigned
+3238	South Dakota	US	11/22/2021			0	0		Unassigned
+3238	South Dakota	US	11/23/2021			0	0		Unassigned
+3238	South Dakota	US	11/24/2021			0	0		Unassigned
+3238	South Dakota	US	11/25/2021			0	0		Unassigned
+3238	South Dakota	US	11/26/2021			0	0		Unassigned
+3238	South Dakota	US	11/27/2021			0	0		Unassigned
+3238	South Dakota	US	11/28/2021			0	0		Unassigned
+3238	South Dakota	US	11/29/2021			0	0		Unassigned
+3238	South Dakota	US	11/30/2021			0	0		Unassigned
+3238	South Dakota	US	12/01/2021			0	0		Unassigned
+3238	South Dakota	US	12/02/2021			0	0		Unassigned
+3238	South Dakota	US	12/03/2021			0	0		Unassigned
+3238	South Dakota	US	12/04/2021			0	0		Unassigned
+3238	South Dakota	US	12/05/2021			0	0		Unassigned
+3238	South Dakota	US	12/06/2021			0	0		Unassigned
+3238	South Dakota	US	12/07/2021			0	0		Unassigned
+3238	South Dakota	US	12/08/2021			0	0		Unassigned
+3238	South Dakota	US	12/09/2021			0	0		Unassigned
+3238	South Dakota	US	12/10/2021			0	0		Unassigned
+3238	South Dakota	US	12/11/2021			0	0		Unassigned
+3238	South Dakota	US	12/12/2021			0	0		Unassigned
+3238	South Dakota	US	12/13/2021			0	0		Unassigned
+3238	South Dakota	US	12/14/2021			0	0		Unassigned
+3238	South Dakota	US	12/15/2021			0	0		Unassigned
+3238	South Dakota	US	12/16/2021			0	0		Unassigned
+3238	South Dakota	US	12/17/2021			0	0		Unassigned
+3238	South Dakota	US	12/18/2021			0	0		Unassigned
+3238	South Dakota	US	12/19/2021			0	0		Unassigned
+3238	South Dakota	US	12/20/2021			0	0		Unassigned
+3238	South Dakota	US	12/21/2021			0	0		Unassigned

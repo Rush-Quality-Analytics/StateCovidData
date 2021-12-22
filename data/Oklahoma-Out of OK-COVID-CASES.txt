@@ -1,500 +1,632 @@
-	Admin2	Confirmed	Country/Region	Deaths	Lat	Long	Province/State	Recovered	date
-1480	Out of OK	2	US	0	0.0	0.0	Oklahoma	0	03/31/2020
-1519	Out of OK	2	US	0	0.0	0.0	Oklahoma	0	04/01/2020
-1579	Out of OK	2	US	0			Oklahoma	0	04/02/2020
-1613	Out of OK	2	US	0			Oklahoma	0	04/03/2020
-1653	Out of OK	2	US	0			Oklahoma	0	04/04/2020
-1707	Out of OK	2	US	0			Oklahoma	0	04/05/2020
-1733	Out of OK	2	US	0			Oklahoma	0	04/06/2020
-1771	Out of OK	2	US	0			Oklahoma	0	04/07/2020
-1787	Out of OK	2	US	0			Oklahoma	0	04/08/2020
-1807	Out of OK	2	US	0			Oklahoma	0	04/09/2020
-1821	Out of OK	0	US	0			Oklahoma	0	04/10/2020
-1839	Out of OK	0	US	0			Oklahoma	0	04/11/2020
-1851	Out of OK	0	US	0			Oklahoma	0	04/12/2020
-1865	Out of OK	0	US	0			Oklahoma	0	04/13/2020
-1872	Out of OK	0	US	0			Oklahoma	0	04/14/2020
-1882	Out of OK	0	US	0			Oklahoma	0	04/15/2020
-1891	Out of OK	0	US	0			Oklahoma	0	04/16/2020
-1893	Out of OK	0	US	0			Oklahoma	0	04/17/2020
-1899	Out of OK	0	US	0			Oklahoma	0	04/18/2020
-1910	Out of OK	0	US	0			Oklahoma	0	04/19/2020
-1917	Out of OK	0	US	0			Oklahoma	0	04/20/2020
-1925	Out of OK	0	US	0			Oklahoma	0	04/21/2020
-1932	Out of OK	0	US	0			Oklahoma	0	04/22/2020
-1944	Out of OK	0	US	0			Oklahoma	0	04/23/2020
-1949	Out of OK	0	US	0			Oklahoma	0	04/24/2020
-1953	Out of OK	0	US	0			Oklahoma	0	04/25/2020
-1959	Out of OK	0	US	0			Oklahoma	0	04/26/2020
-1962	Out of OK	0	US	0			Oklahoma	0	04/27/2020
-1969	Out of OK	0	US	0			Oklahoma	0	04/28/2020
-1972	Out of OK	0	US	0			Oklahoma	0	04/29/2020
-1978	Out of OK	0	US	0			Oklahoma	0	04/30/2020
-1987	Out of OK	0	US	0			Oklahoma	0	05/01/2020
-1991	Out of OK	0	US	0			Oklahoma	0	05/02/2020
-1994	Out of OK	0	US	0			Oklahoma	0	05/03/2020
-1996	Out of OK	0	US	0			Oklahoma	0	05/04/2020
-2002	Out of OK	0	US	0			Oklahoma	0	05/05/2020
-2007	Out of OK	0	US	0			Oklahoma	0	05/06/2020
-2011	Out of OK	0	US	0			Oklahoma	0	05/07/2020
-2016	Out of OK	0	US	0			Oklahoma	0	05/08/2020
-2017	Out of OK	0	US	0			Oklahoma	0	05/09/2020
-2018	Out of OK	0	US	0			Oklahoma	0	05/10/2020
-2018	Out of OK	0	US	0			Oklahoma	0	05/11/2020
-2021	Out of OK	0	US	0			Oklahoma	0	05/12/2020
-2021	Out of OK	0	US	0			Oklahoma	0	05/13/2020
-2022	Out of OK	0	US	0			Oklahoma	0	05/14/2020
-2026	Out of OK	0	US	0			Oklahoma	0	05/15/2020
-2030	Out of OK	0	US	0			Oklahoma	0	05/16/2020
-2032	Out of OK	0	US	0			Oklahoma	0	05/17/2020
-2034	Out of OK	0	US	0			Oklahoma	0	05/18/2020
-2036	Out of OK	0	US	0			Oklahoma	0	05/19/2020
-2042	Out of OK	0	US	0			Oklahoma	0	05/20/2020
-2043	Out of OK	0	US	0			Oklahoma	0	05/21/2020
-2047	Out of OK	0	US	0			Oklahoma	0	05/22/2020
-2049	Out of OK	0	US	0			Oklahoma	0	05/23/2020
-2052	Out of OK	0	US	0			Oklahoma	0	05/24/2020
-2052	Out of OK	0	US	0			Oklahoma	0	05/25/2020
-2053	Out of OK	0	US	0			Oklahoma	0	05/26/2020
-2055	Out of OK	0	US	0			Oklahoma	0	05/27/2020
-2057	Out of OK	0	US	0			Oklahoma	0	05/28/2020
-2060	Out of OK	0	US	0			Oklahoma	0	05/29/2020
-2062	Out of OK	0	US	0			Oklahoma	0	05/30/2020
-2063	Out of OK	0	US	0			Oklahoma	0	05/31/2020
-2065	Out of OK	0	US	0			Oklahoma	0	06/01/2020
-2069	Out of OK	0	US	0			Oklahoma	0	06/02/2020
-2070	Out of OK	0	US	0			Oklahoma	0	06/03/2020
-2071	Out of OK	0	US	0			Oklahoma	0	06/04/2020
-2073	Out of OK	0	US	0			Oklahoma	0	06/05/2020
-2074	Out of OK	0	US	0			Oklahoma	0	06/06/2020
-2074	Out of OK	0	US	0			Oklahoma	0	06/07/2020
-2074	Out of OK	0	US	0			Oklahoma	0	06/08/2020
-2075	Out of OK	0	US	0			Oklahoma	0	06/09/2020
-2077	Out of OK	0	US	0			Oklahoma	0	06/10/2020
-2078	Out of OK	0	US	0			Oklahoma	0	06/11/2020
-2088	Out of OK	0	US	0			Oklahoma	0	06/12/2020
-2090	Out of OK	0	US	0			Oklahoma	0	06/13/2020
-2090	Out of OK	0	US	0			Oklahoma	0	06/14/2020
-2093	Out of OK	0	US	0			Oklahoma	0	06/15/2020
-2091	Out of OK	0	US	0			Oklahoma	0	06/16/2020
-2093	Out of OK	0	US	0			Oklahoma	0	06/17/2020
-2093	Out of OK	0	US	0			Oklahoma	0	06/18/2020
-2093	Out of OK	0	US	0			Oklahoma	0	06/19/2020
-2097	Out of OK	0	US	0			Oklahoma	0	06/20/2020
-2097	Out of OK	0	US	0			Oklahoma	0	06/21/2020
-2099	Out of OK	0	US	0			Oklahoma	0	06/22/2020
-2103	Out of OK	0	US	0			Oklahoma	0	06/23/2020
-2111	Out of OK	0	US	0			Oklahoma	0	06/24/2020
-2116	Out of OK	0	US	0			Oklahoma	0	06/25/2020
-2117	Out of OK	0	US	0			Oklahoma	0	06/26/2020
-2118	Out of OK	0	US	0			Oklahoma	0	06/27/2020
-2118	Out of OK	0	US	0			Oklahoma	0	06/28/2020
-2119	Out of OK	0	US	0			Oklahoma	0	06/29/2020
-2121	Out of OK	0	US	0			Oklahoma	0	06/30/2020
-2121	Out of OK	0	US	0			Oklahoma	0	07/01/2020
-2123	Out of OK	0	US	0			Oklahoma	0	07/02/2020
-2126	Out of OK	0	US	0			Oklahoma	0	07/03/2020
-2127	Out of OK	0	US	0			Oklahoma	0	07/04/2020
-2127	Out of OK	0	US	0			Oklahoma	0	07/05/2020
-2130	Out of OK	0	US	0			Oklahoma	0	07/06/2020
-2130	Out of OK	0	US	0			Oklahoma	0	07/07/2020
-2133	Out of OK	0	US	0			Oklahoma	0	07/08/2020
-2132	Out of OK	0	US	0			Oklahoma	0	07/09/2020
-2135	Out of OK	0	US	0			Oklahoma	0	07/10/2020
-2135	Out of OK	0	US	0			Oklahoma	0	07/11/2020
-2137	Out of OK	0	US	0			Oklahoma	0	07/12/2020
-2139	Out of OK	0	US	0			Oklahoma	0	07/13/2020
-2142	Out of OK	0	US	0			Oklahoma	0	07/14/2020
-2142	Out of OK	0	US	0			Oklahoma	0	07/15/2020
-2144	Out of OK	0	US	0			Oklahoma	0	07/16/2020
-2144	Out of OK	0	US	0			Oklahoma	0	07/17/2020
-2199	Out of OK	0	US	0			Oklahoma	0	07/18/2020
-2200	Out of OK	0	US	0			Oklahoma	0	07/19/2020
-2146	Out of OK	0	US	0			Oklahoma	0	07/20/2020
-2204	Out of OK	0	US	0			Oklahoma	0	07/21/2020
-2205	Out of OK	0	US	0			Oklahoma	0	07/22/2020
-3924	Out of OK	0	US	0			Oklahoma	0	07/23/2020
-3925	Out of OK	0	US	0			Oklahoma	0	07/24/2020
-3926	Out of OK	0	US	0			Oklahoma	0	07/25/2020
-3927	Out of OK	0	US	0			Oklahoma	0	07/26/2020
-3928	Out of OK	0	US	0			Oklahoma	0	07/27/2020
-3929	Out of OK	0	US	0			Oklahoma	0	07/28/2020
-3932	Out of OK	0	US	0			Oklahoma	0	07/29/2020
-3932	Out of OK	0	US	0			Oklahoma	0	07/30/2020
-2211	Out of OK	0	US	0			Oklahoma	0	07/31/2020
-2211	Out of OK	0	US	0			Oklahoma	0	08/01/2020
-2211	Out of OK	0	US	0			Oklahoma	0	08/02/2020
-2211	Out of OK	0	US	0			Oklahoma	0	08/03/2020
-2211	Out of OK	0	US	0			Oklahoma	0	08/04/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/05/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/06/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/07/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/08/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/09/2020
-2214	Out of OK	0	US	0			Oklahoma	0	08/10/2020
-2903	Out of OK	0	US	0			Oklahoma	0	08/11/2020
-2857	Out of OK	0	US	0			Oklahoma	0	08/12/2020
-2858	Out of OK	0	US	0			Oklahoma	0	08/13/2020
-2858	Out of OK	0	US	0			Oklahoma	0	08/14/2020
-2858	Out of OK	0	US	0			Oklahoma	0	08/15/2020
-2858	Out of OK	0	US	0			Oklahoma	0	08/16/2020
-2860	Out of OK	0	US	0			Oklahoma	0	08/17/2020
-2860	Out of OK	0	US	0			Oklahoma	0	08/18/2020
-2862	Out of OK	0	US	0			Oklahoma	0	08/19/2020
-2862	Out of OK	0	US	0			Oklahoma	0	08/20/2020
-2862	Out of OK	0	US	0			Oklahoma	0	08/21/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/22/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/23/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/24/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/25/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/26/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/27/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/28/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/29/2020
-2863	Out of OK	0	US	0			Oklahoma	0	08/30/2020
-2867	Out of OK	0	US	0			Oklahoma	0	08/31/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/01/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/02/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/03/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/04/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/05/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/06/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/07/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/08/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/09/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/10/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/11/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/12/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/13/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/14/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/15/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/16/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/17/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/18/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/19/2020
-2867	Out of OK	0	US	0			Oklahoma	0	09/20/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/21/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/22/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/23/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/24/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/25/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/26/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/27/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/28/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/29/2020
-2869	Out of OK	0	US	0			Oklahoma	0	09/30/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/01/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/02/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/03/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/04/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/05/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/06/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/07/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/08/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/09/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/10/2020
-2869	Out of OK	0	US	0			Oklahoma	0	10/11/2020
-2870	Out of OK	0	US	0			Oklahoma	0	10/12/2020
-2870	Out of OK	0	US	0			Oklahoma	0	10/13/2020
-2870	Out of OK	0	US	0			Oklahoma	0	10/14/2020
-2870	Out of OK	0	US	0			Oklahoma	0	10/15/2020
-2871	Out of OK	0	US	0			Oklahoma	0	10/16/2020
-2871	Out of OK	0	US	0			Oklahoma	0	10/17/2020
-2871	Out of OK	0	US	0			Oklahoma	0	10/18/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/19/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/20/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/21/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/22/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/23/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/24/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/25/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/26/2020
-2872	Out of OK	0	US	0			Oklahoma	0	10/27/2020
-2873	Out of OK	0	US	0.0			Oklahoma	0	10/28/2020
-2873	Out of OK	0	US	0			Oklahoma	0	10/29/2020
-2873	Out of OK	0	US	0			Oklahoma	0	10/30/2020
-2873	Out of OK	0	US	0			Oklahoma	0	10/31/2020
-2873	Out of OK	0	US	0			Oklahoma	0	11/01/2020
-2873	Out of OK	0	US	0			Oklahoma	0	11/02/2020
-2873	Out of OK	0	US	0			Oklahoma	0	11/03/2020
-2874	Out of OK	0	US	0			Oklahoma	0	11/04/2020
-2874	Out of OK	0	US	0			Oklahoma	0	11/05/2020
-2874	Out of OK	0	US	0			Oklahoma	0	11/06/2020
-2874	Out of OK	0	US	0			Oklahoma	0	11/07/2020
-2874	Out of OK	0	US	0			Oklahoma	0	11/08/2020
-2874	Out of OK	0	US	0			Oklahoma	0.0	11/09/2020
-2874	Out of OK	0	US	0			Oklahoma	0.0	11/10/2020
-2874	Out of OK	0	US	0			Oklahoma	0.0	11/11/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/12/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/13/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/14/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/15/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/16/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/17/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/18/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/19/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/20/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/21/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/22/2020
-2886	Out of OK	0	US	0			Oklahoma	0	11/23/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/24/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/25/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/26/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/27/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/28/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/29/2020
-2887	Out of OK	0	US	0			Oklahoma	0	11/30/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/01/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/02/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/03/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/04/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/05/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/06/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/07/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/08/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/09/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/10/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/11/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/12/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/13/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/14/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/15/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/16/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/17/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/18/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/19/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/20/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/21/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/22/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/23/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/24/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/25/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/26/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/27/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/28/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/29/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/30/2020
-2887	Out of OK	0	US	0			Oklahoma	0	12/31/2020
-2887	Out of OK	0	US	0			Oklahoma	0	01/01/2021
-2887	Out of OK	0	US	0			Oklahoma	0	01/02/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/03/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/04/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/05/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/06/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/07/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/08/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/09/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/10/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/11/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/12/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/13/2021
-2888	Out of OK	0	US	0			Oklahoma	0	01/14/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/15/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/16/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/17/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/18/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/19/2021
-2889	Out of OK	0	US	0			Oklahoma	0	01/20/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/21/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/22/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/23/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/24/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/25/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/26/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/27/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/28/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/29/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/30/2021
-2890	Out of OK	0	US	0			Oklahoma	0	01/31/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/01/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/02/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/03/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/04/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/05/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/06/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/07/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/08/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/09/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/10/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/11/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/12/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/13/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/14/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/15/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/16/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/17/2021
-2890	Out of OK	0	US	0			Oklahoma	0	02/18/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/19/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/20/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/21/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/22/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/23/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/24/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/25/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/26/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/27/2021
-2891	Out of OK	0	US	0			Oklahoma	0	02/28/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/01/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/02/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/03/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/04/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/05/2021
-2891	Out of OK	0	US	0			Oklahoma	0	03/06/2021
-2891	Out of OK	0	US	0			Oklahoma		03/07/2021
-2891	Out of OK	0	US	0			Oklahoma		03/08/2021
-2891	Out of OK	0	US	0			Oklahoma		03/09/2021
-2891	Out of OK	0	US	0			Oklahoma		03/10/2021
-2891	Out of OK	0	US	0			Oklahoma		03/11/2021
-2891	Out of OK	0	US	0			Oklahoma		03/12/2021
-2891	Out of OK	0	US	0			Oklahoma		03/13/2021
-2891	Out of OK	0	US	0			Oklahoma		03/14/2021
-2891	Out of OK	0	US	0			Oklahoma		03/15/2021
-2891	Out of OK	0	US	0			Oklahoma		03/16/2021
-2891	Out of OK	0	US	0			Oklahoma		03/17/2021
-2891	Out of OK	0	US	0			Oklahoma		03/18/2021
-2891	Out of OK	0	US	0			Oklahoma		03/19/2021
-2891	Out of OK	0	US	0			Oklahoma		03/20/2021
-2891	Out of OK	0	US	0			Oklahoma		03/21/2021
-2891	Out of OK	0	US	0			Oklahoma		03/22/2021
-2891	Out of OK	0	US	0			Oklahoma		03/23/2021
-2891	Out of OK	0	US	0			Oklahoma		03/24/2021
-2891	Out of OK	0	US	0			Oklahoma		03/25/2021
-2891	Out of OK	0	US	0			Oklahoma		03/26/2021
-2891	Out of OK	0	US	0			Oklahoma		03/27/2021
-2891	Out of OK	0	US	0			Oklahoma		03/28/2021
-2891	Out of OK	0	US	0			Oklahoma		03/29/2021
-2891	Out of OK	0	US	0			Oklahoma		03/30/2021
-2891	Out of OK	0	US	0			Oklahoma		03/31/2021
-2891	Out of OK	0	US	0			Oklahoma		04/01/2021
-2893	Out of OK	0	US	0			Oklahoma		04/02/2021
-2893	Out of OK	0	US	0			Oklahoma		04/03/2021
-2893	Out of OK	0	US	0			Oklahoma		04/04/2021
-2893	Out of OK	0	US	0			Oklahoma		04/05/2021
-2893	Out of OK	0	US	0			Oklahoma		04/06/2021
-2893	Out of OK	0	US	0			Oklahoma		04/07/2021
-2893	Out of OK	0	US	0			Oklahoma		04/08/2021
-2893	Out of OK	0	US	0			Oklahoma		04/09/2021
-2893	Out of OK	0	US	0			Oklahoma		04/10/2021
-2893	Out of OK	0	US	0			Oklahoma		04/11/2021
-2893	Out of OK	0	US	0			Oklahoma		04/12/2021
-2893	Out of OK	0	US	0			Oklahoma		04/13/2021
-2893	Out of OK	0	US	0			Oklahoma		04/14/2021
-2893	Out of OK	0	US	0			Oklahoma		04/15/2021
-2893	Out of OK	0	US	0			Oklahoma		04/16/2021
-2893	Out of OK	0	US	0			Oklahoma		04/17/2021
-2893	Out of OK	0	US	0			Oklahoma		04/18/2021
-2893	Out of OK	0	US	0			Oklahoma		04/19/2021
-2893	Out of OK	0	US	0			Oklahoma		04/20/2021
-2893	Out of OK	0	US	0			Oklahoma		04/21/2021
-2893	Out of OK	0	US	0			Oklahoma		04/22/2021
-2893	Out of OK	0	US	0			Oklahoma		04/23/2021
-2893	Out of OK	0	US	0			Oklahoma		04/24/2021
-2893	Out of OK	0	US	0			Oklahoma		04/25/2021
-2893	Out of OK	0	US	0			Oklahoma		04/26/2021
-2893	Out of OK	0	US	0			Oklahoma		04/27/2021
-2893	Out of OK	0	US	0			Oklahoma		04/28/2021
-2893	Out of OK	0	US	0			Oklahoma		04/29/2021
-2893	Out of OK	0	US	0			Oklahoma		04/30/2021
-2893	Out of OK	0	US	0			Oklahoma		05/01/2021
-2893	Out of OK	0	US	0			Oklahoma		05/02/2021
-2893	Out of OK	0	US	0			Oklahoma		05/03/2021
-2893	Out of OK	0	US	0			Oklahoma		05/04/2021
-2893	Out of OK	0	US	0			Oklahoma		05/05/2021
-2893	Out of OK	0	US	0			Oklahoma		05/06/2021
-2893	Out of OK	0	US	0			Oklahoma		05/07/2021
-2893	Out of OK	0	US	0			Oklahoma		05/08/2021
-2893	Out of OK	0	US	0			Oklahoma		05/09/2021
-2893	Out of OK	0	US	0			Oklahoma		05/10/2021
-2893	Out of OK	0	US	0			Oklahoma		05/11/2021
-2893	Out of OK	0	US	0			Oklahoma		05/12/2021
-2893	Out of OK	0	US	0			Oklahoma		05/13/2021
-2893	Out of OK	0	US	0			Oklahoma		05/14/2021
-2893	Out of OK	0	US	0			Oklahoma		05/15/2021
-2893	Out of OK	0	US	0			Oklahoma		05/16/2021
-2893	Out of OK	0	US	0			Oklahoma		05/17/2021
-2893	Out of OK	0	US	0			Oklahoma		05/18/2021
-2893	Out of OK	0	US	0			Oklahoma		05/19/2021
-2893	Out of OK	0	US	0			Oklahoma		05/20/2021
-2893	Out of OK	0	US	0			Oklahoma		05/21/2021
-2893	Out of OK	0	US	0			Oklahoma		05/22/2021
-2893	Out of OK	0	US	0			Oklahoma		05/23/2021
-2893	Out of OK	0	US	0			Oklahoma		05/24/2021
-2893	Out of OK	0	US	0			Oklahoma		05/25/2021
-2893	Out of OK	0	US	0			Oklahoma		05/26/2021
-2894	Out of OK	0	US	0			Oklahoma		05/27/2021
-2894	Out of OK	0	US	0			Oklahoma		05/28/2021
-2894	Out of OK	0	US	0			Oklahoma		05/29/2021
-2894	Out of OK	0	US	0			Oklahoma		05/30/2021
-2894	Out of OK	0	US	0			Oklahoma		05/31/2021
-2894	Out of OK	0	US	0			Oklahoma		06/01/2021
-2894	Out of OK	0	US	0			Oklahoma		06/02/2021
-2894	Out of OK	0	US	0			Oklahoma		06/03/2021
-2894	Out of OK	0	US	0			Oklahoma		06/04/2021
-2894	Out of OK	0	US	0			Oklahoma		06/05/2021
-2894	Out of OK	0	US	0			Oklahoma		06/06/2021
-2894	Out of OK	0	US	0			Oklahoma		06/07/2021
-2894	Out of OK	0	US	0			Oklahoma		06/08/2021
-2894	Out of OK	0	US	0			Oklahoma		06/09/2021
-2894	Out of OK	0	US	0			Oklahoma		06/10/2021
-2894	Out of OK	0	US	0			Oklahoma		06/11/2021
-2894	Out of OK	0	US	0			Oklahoma		06/12/2021
-2894	Out of OK	0	US	0			Oklahoma		06/13/2021
-2894	Out of OK	0	US	0			Oklahoma		06/14/2021
-2894	Out of OK	0	US	0			Oklahoma		06/15/2021
-2894	Out of OK	0	US	0			Oklahoma		06/16/2021
-2896	Out of OK	0	US	0			Oklahoma		06/17/2021
-2896	Out of OK	0	US	0			Oklahoma		06/18/2021
-2896	Out of OK	0	US	0			Oklahoma		06/19/2021
-2896	Out of OK	0	US	0			Oklahoma		06/20/2021
-2896	Out of OK	0	US	0			Oklahoma		06/21/2021
-2896	Out of OK	0	US	0			Oklahoma		06/22/2021
-2896	Out of OK	0	US	0			Oklahoma		06/23/2021
-2897	Out of OK	0	US	0			Oklahoma		06/24/2021
-2897	Out of OK	0	US	0			Oklahoma		06/25/2021
-2897	Out of OK	0	US	0			Oklahoma		06/26/2021
-2897	Out of OK	0	US	0			Oklahoma		06/27/2021
-2897	Out of OK	0	US	0			Oklahoma		06/28/2021
-2897	Out of OK	0	US	0			Oklahoma		06/29/2021
-2897	Out of OK	0	US	0			Oklahoma		06/30/2021
-2897	Out of OK	0	US	0			Oklahoma		07/01/2021
-2897	Out of OK	0	US	0			Oklahoma		07/02/2021
-2897	Out of OK	0	US	0			Oklahoma		07/03/2021
-2897	Out of OK	0	US	0			Oklahoma		07/04/2021
-2897	Out of OK	0	US	0			Oklahoma		07/05/2021
-2897	Out of OK	0	US	0			Oklahoma		07/06/2021
-2897	Out of OK	0	US	0			Oklahoma		07/07/2021
-2897	Out of OK	0	US	0			Oklahoma		07/08/2021
-2897	Out of OK	0	US	0			Oklahoma		07/09/2021
-2897	Out of OK	0	US	0			Oklahoma		07/10/2021
-2897	Out of OK	0	US	0			Oklahoma		07/11/2021
-2897	Out of OK	0	US	0			Oklahoma		07/12/2021
-2897	Out of OK	0	US	0			Oklahoma		07/13/2021
-2897	Out of OK	0	US	0			Oklahoma		07/14/2021
-2897	Out of OK	0	US	0			Oklahoma		07/15/2021
-2897	Out of OK	0	US	0			Oklahoma		07/16/2021
-2897	Out of OK	0	US	0			Oklahoma		07/17/2021
-2897	Out of OK	0	US	0			Oklahoma		07/18/2021
-2897	Out of OK	0	US	0			Oklahoma		07/19/2021
-2897	Out of OK	0	US	0			Oklahoma		07/20/2021
-2897	Out of OK	0	US	0			Oklahoma		07/21/2021
-2897	Out of OK	0	US	0			Oklahoma		07/22/2021
-2897	Out of OK	0	US	0			Oklahoma		07/23/2021
-2897	Out of OK	0	US	0			Oklahoma		07/24/2021
-2897	Out of OK	0	US	0			Oklahoma		07/25/2021
-2897	Out of OK	0	US	0			Oklahoma		07/26/2021
-2897	Out of OK	0	US	0			Oklahoma		07/27/2021
-2897	Out of OK	0	US	0			Oklahoma		07/28/2021
-2897	Out of OK	0	US	0			Oklahoma		07/29/2021
-2897	Out of OK	0	US	0			Oklahoma		07/30/2021
-2897	Out of OK	0	US	0			Oklahoma		07/31/2021
-2897	Out of OK	0	US	0			Oklahoma		08/01/2021
-2897	Out of OK	0	US	0			Oklahoma		08/02/2021
-2897	Out of OK	0	US	0			Oklahoma		08/03/2021
-2897	Out of OK	0	US	0			Oklahoma		08/04/2021
-2897	Out of OK	0	US	0			Oklahoma		08/05/2021
-2897	Out of OK	0	US	0			Oklahoma		08/06/2021
-2897	Out of OK	0	US	0			Oklahoma		08/07/2021
-2897	Out of OK	0	US	0			Oklahoma		08/08/2021
-2897	Out of OK	0	US	0			Oklahoma		08/09/2021
-2897	Out of OK	0	US	0			Oklahoma		08/10/2021
-2897	Out of OK	0	US	0			Oklahoma		08/11/2021
+	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
+1480	Oklahoma	US	03/31/2020	0.0	0.0	2	0	0	Out of OK
+1519	Oklahoma	US	04/01/2020	0.0	0.0	2	0	0	Out of OK
+1579	Oklahoma	US	04/02/2020			2	0	0	Out of OK
+1613	Oklahoma	US	04/03/2020			2	0	0	Out of OK
+1653	Oklahoma	US	04/04/2020			2	0	0	Out of OK
+1707	Oklahoma	US	04/05/2020			2	0	0	Out of OK
+1733	Oklahoma	US	04/06/2020			2	0	0	Out of OK
+1771	Oklahoma	US	04/07/2020			2	0	0	Out of OK
+1787	Oklahoma	US	04/08/2020			2	0	0	Out of OK
+1807	Oklahoma	US	04/09/2020			2	0	0	Out of OK
+1821	Oklahoma	US	04/10/2020			0	0	0	Out of OK
+1839	Oklahoma	US	04/11/2020			0	0	0	Out of OK
+1851	Oklahoma	US	04/12/2020			0	0	0	Out of OK
+1865	Oklahoma	US	04/13/2020			0	0	0	Out of OK
+1872	Oklahoma	US	04/14/2020			0	0	0	Out of OK
+1882	Oklahoma	US	04/15/2020			0	0	0	Out of OK
+1891	Oklahoma	US	04/16/2020			0	0	0	Out of OK
+1893	Oklahoma	US	04/17/2020			0	0	0	Out of OK
+1899	Oklahoma	US	04/18/2020			0	0	0	Out of OK
+1910	Oklahoma	US	04/19/2020			0	0	0	Out of OK
+1917	Oklahoma	US	04/20/2020			0	0	0	Out of OK
+1925	Oklahoma	US	04/21/2020			0	0	0	Out of OK
+1932	Oklahoma	US	04/22/2020			0	0	0	Out of OK
+1944	Oklahoma	US	04/23/2020			0	0	0	Out of OK
+1949	Oklahoma	US	04/24/2020			0	0	0	Out of OK
+1953	Oklahoma	US	04/25/2020			0	0	0	Out of OK
+1959	Oklahoma	US	04/26/2020			0	0	0	Out of OK
+1962	Oklahoma	US	04/27/2020			0	0	0	Out of OK
+1969	Oklahoma	US	04/28/2020			0	0	0	Out of OK
+1972	Oklahoma	US	04/29/2020			0	0	0	Out of OK
+1978	Oklahoma	US	04/30/2020			0	0	0	Out of OK
+1987	Oklahoma	US	05/01/2020			0	0	0	Out of OK
+1991	Oklahoma	US	05/02/2020			0	0	0	Out of OK
+1994	Oklahoma	US	05/03/2020			0	0	0	Out of OK
+1996	Oklahoma	US	05/04/2020			0	0	0	Out of OK
+2002	Oklahoma	US	05/05/2020			0	0	0	Out of OK
+2007	Oklahoma	US	05/06/2020			0	0	0	Out of OK
+2011	Oklahoma	US	05/07/2020			0	0	0	Out of OK
+2016	Oklahoma	US	05/08/2020			0	0	0	Out of OK
+2017	Oklahoma	US	05/09/2020			0	0	0	Out of OK
+2018	Oklahoma	US	05/10/2020			0	0	0	Out of OK
+2018	Oklahoma	US	05/11/2020			0	0	0	Out of OK
+2021	Oklahoma	US	05/12/2020			0	0	0	Out of OK
+2021	Oklahoma	US	05/13/2020			0	0	0	Out of OK
+2022	Oklahoma	US	05/14/2020			0	0	0	Out of OK
+2026	Oklahoma	US	05/15/2020			0	0	0	Out of OK
+2030	Oklahoma	US	05/16/2020			0	0	0	Out of OK
+2032	Oklahoma	US	05/17/2020			0	0	0	Out of OK
+2034	Oklahoma	US	05/18/2020			0	0	0	Out of OK
+2036	Oklahoma	US	05/19/2020			0	0	0	Out of OK
+2042	Oklahoma	US	05/20/2020			0	0	0	Out of OK
+2043	Oklahoma	US	05/21/2020			0	0	0	Out of OK
+2047	Oklahoma	US	05/22/2020			0	0	0	Out of OK
+2049	Oklahoma	US	05/23/2020			0	0	0	Out of OK
+2052	Oklahoma	US	05/24/2020			0	0	0	Out of OK
+2052	Oklahoma	US	05/25/2020			0	0	0	Out of OK
+2053	Oklahoma	US	05/26/2020			0	0	0	Out of OK
+2055	Oklahoma	US	05/27/2020			0	0	0	Out of OK
+2057	Oklahoma	US	05/28/2020			0	0	0	Out of OK
+2060	Oklahoma	US	05/29/2020			0	0	0	Out of OK
+2062	Oklahoma	US	05/30/2020			0	0	0	Out of OK
+2063	Oklahoma	US	05/31/2020			0	0	0	Out of OK
+2065	Oklahoma	US	06/01/2020			0	0	0	Out of OK
+2069	Oklahoma	US	06/02/2020			0	0	0	Out of OK
+2070	Oklahoma	US	06/03/2020			0	0	0	Out of OK
+2071	Oklahoma	US	06/04/2020			0	0	0	Out of OK
+2073	Oklahoma	US	06/05/2020			0	0	0	Out of OK
+2074	Oklahoma	US	06/06/2020			0	0	0	Out of OK
+2074	Oklahoma	US	06/07/2020			0	0	0	Out of OK
+2074	Oklahoma	US	06/08/2020			0	0	0	Out of OK
+2075	Oklahoma	US	06/09/2020			0	0	0	Out of OK
+2077	Oklahoma	US	06/10/2020			0	0	0	Out of OK
+2078	Oklahoma	US	06/11/2020			0	0	0	Out of OK
+2088	Oklahoma	US	06/12/2020			0	0	0	Out of OK
+2090	Oklahoma	US	06/13/2020			0	0	0	Out of OK
+2090	Oklahoma	US	06/14/2020			0	0	0	Out of OK
+2093	Oklahoma	US	06/15/2020			0	0	0	Out of OK
+2091	Oklahoma	US	06/16/2020			0	0	0	Out of OK
+2093	Oklahoma	US	06/17/2020			0	0	0	Out of OK
+2093	Oklahoma	US	06/18/2020			0	0	0	Out of OK
+2093	Oklahoma	US	06/19/2020			0	0	0	Out of OK
+2097	Oklahoma	US	06/20/2020			0	0	0	Out of OK
+2097	Oklahoma	US	06/21/2020			0	0	0	Out of OK
+2099	Oklahoma	US	06/22/2020			0	0	0	Out of OK
+2103	Oklahoma	US	06/23/2020			0	0	0	Out of OK
+2111	Oklahoma	US	06/24/2020			0	0	0	Out of OK
+2116	Oklahoma	US	06/25/2020			0	0	0	Out of OK
+2117	Oklahoma	US	06/26/2020			0	0	0	Out of OK
+2118	Oklahoma	US	06/27/2020			0	0	0	Out of OK
+2118	Oklahoma	US	06/28/2020			0	0	0	Out of OK
+2119	Oklahoma	US	06/29/2020			0	0	0	Out of OK
+2121	Oklahoma	US	06/30/2020			0	0	0	Out of OK
+2121	Oklahoma	US	07/01/2020			0	0	0	Out of OK
+2123	Oklahoma	US	07/02/2020			0	0	0	Out of OK
+2126	Oklahoma	US	07/03/2020			0	0	0	Out of OK
+2127	Oklahoma	US	07/04/2020			0	0	0	Out of OK
+2127	Oklahoma	US	07/05/2020			0	0	0	Out of OK
+2130	Oklahoma	US	07/06/2020			0	0	0	Out of OK
+2130	Oklahoma	US	07/07/2020			0	0	0	Out of OK
+2133	Oklahoma	US	07/08/2020			0	0	0	Out of OK
+2132	Oklahoma	US	07/09/2020			0	0	0	Out of OK
+2135	Oklahoma	US	07/10/2020			0	0	0	Out of OK
+2135	Oklahoma	US	07/11/2020			0	0	0	Out of OK
+2137	Oklahoma	US	07/12/2020			0	0	0	Out of OK
+2139	Oklahoma	US	07/13/2020			0	0	0	Out of OK
+2142	Oklahoma	US	07/14/2020			0	0	0	Out of OK
+2142	Oklahoma	US	07/15/2020			0	0	0	Out of OK
+2144	Oklahoma	US	07/16/2020			0	0	0	Out of OK
+2144	Oklahoma	US	07/17/2020			0	0	0	Out of OK
+2199	Oklahoma	US	07/18/2020			0	0	0	Out of OK
+2200	Oklahoma	US	07/19/2020			0	0	0	Out of OK
+2146	Oklahoma	US	07/20/2020			0	0	0	Out of OK
+2204	Oklahoma	US	07/21/2020			0	0	0	Out of OK
+2205	Oklahoma	US	07/22/2020			0	0	0	Out of OK
+3923	Oklahoma	US	07/23/2020			0	0	0	Out of OK
+3924	Oklahoma	US	07/24/2020			0	0	0	Out of OK
+3925	Oklahoma	US	07/25/2020			0	0	0	Out of OK
+3926	Oklahoma	US	07/26/2020			0	0	0	Out of OK
+3927	Oklahoma	US	07/27/2020			0	0	0	Out of OK
+3928	Oklahoma	US	07/28/2020			0	0	0	Out of OK
+3931	Oklahoma	US	07/29/2020			0	0	0	Out of OK
+3931	Oklahoma	US	07/30/2020			0	0	0	Out of OK
+2211	Oklahoma	US	07/31/2020			0	0	0	Out of OK
+2211	Oklahoma	US	08/01/2020			0	0	0	Out of OK
+2211	Oklahoma	US	08/02/2020			0	0	0	Out of OK
+2211	Oklahoma	US	08/03/2020			0	0	0	Out of OK
+2211	Oklahoma	US	08/04/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/05/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/06/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/07/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/08/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/09/2020			0	0	0	Out of OK
+2214	Oklahoma	US	08/10/2020			0	0	0	Out of OK
+2902	Oklahoma	US	08/11/2020			0	0	0	Out of OK
+2856	Oklahoma	US	08/12/2020			0	0	0	Out of OK
+2857	Oklahoma	US	08/13/2020			0	0	0	Out of OK
+2857	Oklahoma	US	08/14/2020			0	0	0	Out of OK
+2857	Oklahoma	US	08/15/2020			0	0	0	Out of OK
+2857	Oklahoma	US	08/16/2020			0	0	0	Out of OK
+2859	Oklahoma	US	08/17/2020			0	0	0	Out of OK
+2859	Oklahoma	US	08/18/2020			0	0	0	Out of OK
+2861	Oklahoma	US	08/19/2020			0	0	0	Out of OK
+2861	Oklahoma	US	08/20/2020			0	0	0	Out of OK
+2861	Oklahoma	US	08/21/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/22/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/23/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/24/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/25/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/26/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/27/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/28/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/29/2020			0	0	0	Out of OK
+2862	Oklahoma	US	08/30/2020			0	0	0	Out of OK
+2866	Oklahoma	US	08/31/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/01/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/02/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/03/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/04/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/05/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/06/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/07/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/08/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/09/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/10/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/11/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/12/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/13/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/14/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/15/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/16/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/17/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/18/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/19/2020			0	0	0	Out of OK
+2866	Oklahoma	US	09/20/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/21/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/22/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/23/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/24/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/25/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/26/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/27/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/28/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/29/2020			0	0	0	Out of OK
+2868	Oklahoma	US	09/30/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/01/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/02/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/03/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/04/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/05/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/06/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/07/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/08/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/09/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/10/2020			0	0	0	Out of OK
+2868	Oklahoma	US	10/11/2020			0	0	0	Out of OK
+2869	Oklahoma	US	10/12/2020			0	0	0	Out of OK
+2869	Oklahoma	US	10/13/2020			0	0	0	Out of OK
+2869	Oklahoma	US	10/14/2020			0	0	0	Out of OK
+2869	Oklahoma	US	10/15/2020			0	0	0	Out of OK
+2870	Oklahoma	US	10/16/2020			0	0	0	Out of OK
+2870	Oklahoma	US	10/17/2020			0	0	0	Out of OK
+2870	Oklahoma	US	10/18/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/19/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/20/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/21/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/22/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/23/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/24/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/25/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/26/2020			0	0	0	Out of OK
+2871	Oklahoma	US	10/27/2020			0	0	0	Out of OK
+2872	Oklahoma	US	10/28/2020			0	0.0	0	Out of OK
+2872	Oklahoma	US	10/29/2020			0	0	0	Out of OK
+2872	Oklahoma	US	10/30/2020			0	0	0	Out of OK
+2872	Oklahoma	US	10/31/2020			0	0	0	Out of OK
+2872	Oklahoma	US	11/01/2020			0	0	0	Out of OK
+2872	Oklahoma	US	11/02/2020			0	0	0	Out of OK
+2872	Oklahoma	US	11/03/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/04/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/05/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/06/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/07/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/08/2020			0	0	0	Out of OK
+2873	Oklahoma	US	11/09/2020			0	0	0.0	Out of OK
+2873	Oklahoma	US	11/10/2020			0	0	0.0	Out of OK
+2873	Oklahoma	US	11/11/2020			0	0	0.0	Out of OK
+2885	Oklahoma	US	11/12/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/13/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/14/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/15/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/16/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/17/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/18/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/19/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/20/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/21/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/22/2020			0	0	0	Out of OK
+2885	Oklahoma	US	11/23/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/24/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/25/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/26/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/27/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/28/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/29/2020			0	0	0	Out of OK
+2886	Oklahoma	US	11/30/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/01/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/02/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/03/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/04/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/05/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/06/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/07/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/08/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/09/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/10/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/11/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/12/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/13/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/14/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/15/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/16/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/17/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/18/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/19/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/20/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/21/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/22/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/23/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/24/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/25/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/26/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/27/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/28/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/29/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/30/2020			0	0	0	Out of OK
+2886	Oklahoma	US	12/31/2020			0	0	0	Out of OK
+2886	Oklahoma	US	01/01/2021			0	0	0	Out of OK
+2886	Oklahoma	US	01/02/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/03/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/04/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/05/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/06/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/07/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/08/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/09/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/10/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/11/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/12/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/13/2021			0	0	0	Out of OK
+2887	Oklahoma	US	01/14/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/15/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/16/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/17/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/18/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/19/2021			0	0	0	Out of OK
+2888	Oklahoma	US	01/20/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/21/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/22/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/23/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/24/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/25/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/26/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/27/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/28/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/29/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/30/2021			0	0	0	Out of OK
+2889	Oklahoma	US	01/31/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/01/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/02/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/03/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/04/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/05/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/06/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/07/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/08/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/09/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/10/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/11/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/12/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/13/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/14/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/15/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/16/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/17/2021			0	0	0	Out of OK
+2889	Oklahoma	US	02/18/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/19/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/20/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/21/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/22/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/23/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/24/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/25/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/26/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/27/2021			0	0	0	Out of OK
+2890	Oklahoma	US	02/28/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/01/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/02/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/03/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/04/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/05/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/06/2021			0	0	0	Out of OK
+2890	Oklahoma	US	03/07/2021			0	0		Out of OK
+2890	Oklahoma	US	03/08/2021			0	0		Out of OK
+2890	Oklahoma	US	03/09/2021			0	0		Out of OK
+2890	Oklahoma	US	03/10/2021			0	0		Out of OK
+2890	Oklahoma	US	03/11/2021			0	0		Out of OK
+2890	Oklahoma	US	03/12/2021			0	0		Out of OK
+2890	Oklahoma	US	03/13/2021			0	0		Out of OK
+2890	Oklahoma	US	03/14/2021			0	0		Out of OK
+2890	Oklahoma	US	03/15/2021			0	0		Out of OK
+2890	Oklahoma	US	03/16/2021			0	0		Out of OK
+2890	Oklahoma	US	03/17/2021			0	0		Out of OK
+2890	Oklahoma	US	03/18/2021			0	0		Out of OK
+2890	Oklahoma	US	03/19/2021			0	0		Out of OK
+2890	Oklahoma	US	03/20/2021			0	0		Out of OK
+2890	Oklahoma	US	03/21/2021			0	0		Out of OK
+2890	Oklahoma	US	03/22/2021			0	0		Out of OK
+2890	Oklahoma	US	03/23/2021			0	0		Out of OK
+2890	Oklahoma	US	03/24/2021			0	0		Out of OK
+2890	Oklahoma	US	03/25/2021			0	0		Out of OK
+2890	Oklahoma	US	03/26/2021			0	0		Out of OK
+2890	Oklahoma	US	03/27/2021			0	0		Out of OK
+2890	Oklahoma	US	03/28/2021			0	0		Out of OK
+2890	Oklahoma	US	03/29/2021			0	0		Out of OK
+2890	Oklahoma	US	03/30/2021			0	0		Out of OK
+2890	Oklahoma	US	03/31/2021			0	0		Out of OK
+2890	Oklahoma	US	04/01/2021			0	0		Out of OK
+2892	Oklahoma	US	04/02/2021			0	0		Out of OK
+2892	Oklahoma	US	04/03/2021			0	0		Out of OK
+2892	Oklahoma	US	04/04/2021			0	0		Out of OK
+2892	Oklahoma	US	04/05/2021			0	0		Out of OK
+2892	Oklahoma	US	04/06/2021			0	0		Out of OK
+2892	Oklahoma	US	04/07/2021			0	0		Out of OK
+2892	Oklahoma	US	04/08/2021			0	0		Out of OK
+2892	Oklahoma	US	04/09/2021			0	0		Out of OK
+2892	Oklahoma	US	04/10/2021			0	0		Out of OK
+2892	Oklahoma	US	04/11/2021			0	0		Out of OK
+2892	Oklahoma	US	04/12/2021			0	0		Out of OK
+2892	Oklahoma	US	04/13/2021			0	0		Out of OK
+2892	Oklahoma	US	04/14/2021			0	0		Out of OK
+2892	Oklahoma	US	04/15/2021			0	0		Out of OK
+2892	Oklahoma	US	04/16/2021			0	0		Out of OK
+2892	Oklahoma	US	04/17/2021			0	0		Out of OK
+2892	Oklahoma	US	04/18/2021			0	0		Out of OK
+2892	Oklahoma	US	04/19/2021			0	0		Out of OK
+2892	Oklahoma	US	04/20/2021			0	0		Out of OK
+2892	Oklahoma	US	04/21/2021			0	0		Out of OK
+2892	Oklahoma	US	04/22/2021			0	0		Out of OK
+2892	Oklahoma	US	04/23/2021			0	0		Out of OK
+2892	Oklahoma	US	04/24/2021			0	0		Out of OK
+2892	Oklahoma	US	04/25/2021			0	0		Out of OK
+2892	Oklahoma	US	04/26/2021			0	0		Out of OK
+2892	Oklahoma	US	04/27/2021			0	0		Out of OK
+2892	Oklahoma	US	04/28/2021			0	0		Out of OK
+2892	Oklahoma	US	04/29/2021			0	0		Out of OK
+2892	Oklahoma	US	04/30/2021			0	0		Out of OK
+2892	Oklahoma	US	05/01/2021			0	0		Out of OK
+2892	Oklahoma	US	05/02/2021			0	0		Out of OK
+2892	Oklahoma	US	05/03/2021			0	0		Out of OK
+2892	Oklahoma	US	05/04/2021			0	0		Out of OK
+2892	Oklahoma	US	05/05/2021			0	0		Out of OK
+2892	Oklahoma	US	05/06/2021			0	0		Out of OK
+2892	Oklahoma	US	05/07/2021			0	0		Out of OK
+2892	Oklahoma	US	05/08/2021			0	0		Out of OK
+2892	Oklahoma	US	05/09/2021			0	0		Out of OK
+2892	Oklahoma	US	05/10/2021			0	0		Out of OK
+2892	Oklahoma	US	05/11/2021			0	0		Out of OK
+2892	Oklahoma	US	05/12/2021			0	0		Out of OK
+2892	Oklahoma	US	05/13/2021			0	0		Out of OK
+2892	Oklahoma	US	05/14/2021			0	0		Out of OK
+2892	Oklahoma	US	05/15/2021			0	0		Out of OK
+2892	Oklahoma	US	05/16/2021			0	0		Out of OK
+2892	Oklahoma	US	05/17/2021			0	0		Out of OK
+2892	Oklahoma	US	05/18/2021			0	0		Out of OK
+2892	Oklahoma	US	05/19/2021			0	0		Out of OK
+2892	Oklahoma	US	05/20/2021			0	0		Out of OK
+2892	Oklahoma	US	05/21/2021			0	0		Out of OK
+2892	Oklahoma	US	05/22/2021			0	0		Out of OK
+2892	Oklahoma	US	05/23/2021			0	0		Out of OK
+2892	Oklahoma	US	05/24/2021			0	0		Out of OK
+2892	Oklahoma	US	05/25/2021			0	0		Out of OK
+2892	Oklahoma	US	05/26/2021			0	0		Out of OK
+2893	Oklahoma	US	05/27/2021			0	0		Out of OK
+2893	Oklahoma	US	05/28/2021			0	0		Out of OK
+2893	Oklahoma	US	05/29/2021			0	0		Out of OK
+2893	Oklahoma	US	05/30/2021			0	0		Out of OK
+2893	Oklahoma	US	05/31/2021			0	0		Out of OK
+2893	Oklahoma	US	06/01/2021			0	0		Out of OK
+2893	Oklahoma	US	06/02/2021			0	0		Out of OK
+2893	Oklahoma	US	06/03/2021			0	0		Out of OK
+2893	Oklahoma	US	06/04/2021			0	0		Out of OK
+2893	Oklahoma	US	06/05/2021			0	0		Out of OK
+2893	Oklahoma	US	06/06/2021			0	0		Out of OK
+2893	Oklahoma	US	06/07/2021			0	0		Out of OK
+2893	Oklahoma	US	06/08/2021			0	0		Out of OK
+2893	Oklahoma	US	06/09/2021			0	0		Out of OK
+2893	Oklahoma	US	06/10/2021			0	0		Out of OK
+2893	Oklahoma	US	06/11/2021			0	0		Out of OK
+2893	Oklahoma	US	06/12/2021			0	0		Out of OK
+2893	Oklahoma	US	06/13/2021			0	0		Out of OK
+2893	Oklahoma	US	06/14/2021			0	0		Out of OK
+2893	Oklahoma	US	06/15/2021			0	0		Out of OK
+2893	Oklahoma	US	06/16/2021			0	0		Out of OK
+2895	Oklahoma	US	06/17/2021			0	0		Out of OK
+2895	Oklahoma	US	06/18/2021			0	0		Out of OK
+2895	Oklahoma	US	06/19/2021			0	0		Out of OK
+2895	Oklahoma	US	06/20/2021			0	0		Out of OK
+2895	Oklahoma	US	06/21/2021			0	0		Out of OK
+2895	Oklahoma	US	06/22/2021			0	0		Out of OK
+2895	Oklahoma	US	06/23/2021			0	0		Out of OK
+2896	Oklahoma	US	06/24/2021			0	0		Out of OK
+2896	Oklahoma	US	06/25/2021			0	0		Out of OK
+2896	Oklahoma	US	06/26/2021			0	0		Out of OK
+2896	Oklahoma	US	06/27/2021			0	0		Out of OK
+2896	Oklahoma	US	06/28/2021			0	0		Out of OK
+2896	Oklahoma	US	06/29/2021			0	0		Out of OK
+2896	Oklahoma	US	06/30/2021			0	0		Out of OK
+2896	Oklahoma	US	07/01/2021			0	0		Out of OK
+2896	Oklahoma	US	07/02/2021			0	0		Out of OK
+2896	Oklahoma	US	07/03/2021			0	0		Out of OK
+2896	Oklahoma	US	07/04/2021			0	0		Out of OK
+2896	Oklahoma	US	07/05/2021			0	0		Out of OK
+2896	Oklahoma	US	07/06/2021			0	0		Out of OK
+2896	Oklahoma	US	07/07/2021			0	0		Out of OK
+2896	Oklahoma	US	07/08/2021			0	0		Out of OK
+2896	Oklahoma	US	07/09/2021			0	0		Out of OK
+2896	Oklahoma	US	07/10/2021			0	0		Out of OK
+2896	Oklahoma	US	07/11/2021			0	0		Out of OK
+2896	Oklahoma	US	07/12/2021			0	0		Out of OK
+2896	Oklahoma	US	07/13/2021			0	0		Out of OK
+2896	Oklahoma	US	07/14/2021			0	0		Out of OK
+2896	Oklahoma	US	07/15/2021			0	0		Out of OK
+2896	Oklahoma	US	07/16/2021			0	0		Out of OK
+2896	Oklahoma	US	07/17/2021			0	0		Out of OK
+2896	Oklahoma	US	07/18/2021			0	0		Out of OK
+2896	Oklahoma	US	07/19/2021			0	0		Out of OK
+2896	Oklahoma	US	07/20/2021			0	0		Out of OK
+2896	Oklahoma	US	07/21/2021			0	0		Out of OK
+2896	Oklahoma	US	07/22/2021			0	0		Out of OK
+2896	Oklahoma	US	07/23/2021			0	0		Out of OK
+2896	Oklahoma	US	07/24/2021			0	0		Out of OK
+2896	Oklahoma	US	07/25/2021			0	0		Out of OK
+2896	Oklahoma	US	07/26/2021			0	0		Out of OK
+2896	Oklahoma	US	07/27/2021			0	0		Out of OK
+2896	Oklahoma	US	07/28/2021			0	0		Out of OK
+2896	Oklahoma	US	07/29/2021			0	0		Out of OK
+2896	Oklahoma	US	07/30/2021			0	0		Out of OK
+2896	Oklahoma	US	07/31/2021			0	0		Out of OK
+2896	Oklahoma	US	08/01/2021			0	0		Out of OK
+2896	Oklahoma	US	08/02/2021			0	0		Out of OK
+2896	Oklahoma	US	08/03/2021			0	0		Out of OK
+2896	Oklahoma	US	08/04/2021			0	0		Out of OK
+2896	Oklahoma	US	08/05/2021			0	0		Out of OK
+2896	Oklahoma	US	08/06/2021			0	0		Out of OK
+2896	Oklahoma	US	08/07/2021			0	0		Out of OK
+2896	Oklahoma	US	08/08/2021			0	0		Out of OK
+2896	Oklahoma	US	08/09/2021			0	0		Out of OK
+2896	Oklahoma	US	08/10/2021			0	0		Out of OK
+2896	Oklahoma	US	08/11/2021			0	0		Out of OK
+2896	Oklahoma	US	08/12/2021			0	0		Out of OK
+2896	Oklahoma	US	08/13/2021			0	0		Out of OK
+2896	Oklahoma	US	08/14/2021			0	0		Out of OK
+2896	Oklahoma	US	08/15/2021			0	0		Out of OK
+2896	Oklahoma	US	08/16/2021			0	0		Out of OK
+2896	Oklahoma	US	08/17/2021			0	0		Out of OK
+2896	Oklahoma	US	08/18/2021			0	0		Out of OK
+2896	Oklahoma	US	08/19/2021			0	0		Out of OK
+2896	Oklahoma	US	08/20/2021			0	0		Out of OK
+2896	Oklahoma	US	08/21/2021			0	0		Out of OK
+2896	Oklahoma	US	08/22/2021			0	0		Out of OK
+2896	Oklahoma	US	08/23/2021			0	0		Out of OK
+2896	Oklahoma	US	08/24/2021			0	0		Out of OK
+2896	Oklahoma	US	08/25/2021			0	0		Out of OK
+2896	Oklahoma	US	08/26/2021			0	0		Out of OK
+2896	Oklahoma	US	08/27/2021			0	0		Out of OK
+2896	Oklahoma	US	08/28/2021			0	0		Out of OK
+2896	Oklahoma	US	08/29/2021			0	0		Out of OK
+2896	Oklahoma	US	08/30/2021			0	0		Out of OK
+2896	Oklahoma	US	08/31/2021			0	0		Out of OK
+2896	Oklahoma	US	09/01/2021			0	0		Out of OK
+2896	Oklahoma	US	09/02/2021			0	0		Out of OK
+2896	Oklahoma	US	09/03/2021			0	0		Out of OK
+2896	Oklahoma	US	09/04/2021			0	0		Out of OK
+2896	Oklahoma	US	09/05/2021			0	0		Out of OK
+2896	Oklahoma	US	09/06/2021			0	0		Out of OK
+2896	Oklahoma	US	09/07/2021			0	0		Out of OK
+2896	Oklahoma	US	09/08/2021			0	0		Out of OK
+2896	Oklahoma	US	09/09/2021			0	0		Out of OK
+2896	Oklahoma	US	09/10/2021			0	0		Out of OK
+2896	Oklahoma	US	09/11/2021			0	0		Out of OK
+2896	Oklahoma	US	09/12/2021			0	0		Out of OK
+2896	Oklahoma	US	09/13/2021			0	0		Out of OK
+2896	Oklahoma	US	09/14/2021			0	0		Out of OK
+2896	Oklahoma	US	09/15/2021			0	0		Out of OK
+2897	Oklahoma	US	09/16/2021			0	0		Out of OK
+2897	Oklahoma	US	09/17/2021			0	0		Out of OK
+2897	Oklahoma	US	09/18/2021			0	0		Out of OK
+2897	Oklahoma	US	09/19/2021			0	0		Out of OK
+2897	Oklahoma	US	09/20/2021			0	0		Out of OK
+2897	Oklahoma	US	09/21/2021			0	0		Out of OK
+2897	Oklahoma	US	09/22/2021			0	0		Out of OK
+2914	Oklahoma	US	09/23/2021			0	0		Out of OK
+2914	Oklahoma	US	09/24/2021			0	0		Out of OK
+2914	Oklahoma	US	09/25/2021			0	0		Out of OK
+2914	Oklahoma	US	09/26/2021			0	0		Out of OK
+2914	Oklahoma	US	09/27/2021			0	0		Out of OK
+2914	Oklahoma	US	09/28/2021			0	0		Out of OK
+2914	Oklahoma	US	09/29/2021			0	0		Out of OK
+2914	Oklahoma	US	09/30/2021			0	0		Out of OK
+2914	Oklahoma	US	10/01/2021			0	0		Out of OK
+2914	Oklahoma	US	10/02/2021			0	0		Out of OK
+2914	Oklahoma	US	10/03/2021			0	0		Out of OK
+2914	Oklahoma	US	10/04/2021			0	0		Out of OK
+2914	Oklahoma	US	10/05/2021			0	0		Out of OK
+2915	Oklahoma	US	10/06/2021			0	0		Out of OK
+2915	Oklahoma	US	10/07/2021			0	0		Out of OK
+2915	Oklahoma	US	10/08/2021			0	0		Out of OK
+2915	Oklahoma	US	10/09/2021			0	0		Out of OK
+2915	Oklahoma	US	10/10/2021			0	0		Out of OK
+2915	Oklahoma	US	10/11/2021			0	0		Out of OK
+2915	Oklahoma	US	10/12/2021			0	0		Out of OK
+2915	Oklahoma	US	10/13/2021			0	0		Out of OK
+2915	Oklahoma	US	10/14/2021			0	0		Out of OK
+2915	Oklahoma	US	10/15/2021			0	0		Out of OK
+2915	Oklahoma	US	10/16/2021			0	0		Out of OK
+2915	Oklahoma	US	10/17/2021			0	0		Out of OK
+2915	Oklahoma	US	10/18/2021			0	0		Out of OK
+2915	Oklahoma	US	10/19/2021			0	0		Out of OK
+2915	Oklahoma	US	10/20/2021			0	0		Out of OK
+2915	Oklahoma	US	10/21/2021			0	0		Out of OK
+2915	Oklahoma	US	10/22/2021			0	0		Out of OK
+2915	Oklahoma	US	10/23/2021			0	0		Out of OK
+2915	Oklahoma	US	10/24/2021			0	0		Out of OK
+2915	Oklahoma	US	10/25/2021			0	0		Out of OK
+2915	Oklahoma	US	10/26/2021			0	0		Out of OK
+2915	Oklahoma	US	10/27/2021			0	0		Out of OK
+2915	Oklahoma	US	10/28/2021			0	0		Out of OK
+2915	Oklahoma	US	10/29/2021			0	0		Out of OK
+2915	Oklahoma	US	10/30/2021			0	0		Out of OK
+2915	Oklahoma	US	10/31/2021			0	0		Out of OK
+2916	Oklahoma	US	11/01/2021			0	0		Out of OK
+2916	Oklahoma	US	11/02/2021			0	0		Out of OK
+2916	Oklahoma	US	11/03/2021			0	0		Out of OK
+2916	Oklahoma	US	11/04/2021			0	0		Out of OK
+2916	Oklahoma	US	11/05/2021			0	0		Out of OK
+2916	Oklahoma	US	11/06/2021			0	0		Out of OK
+2916	Oklahoma	US	11/07/2021			0	0		Out of OK
+2916	Oklahoma	US	11/08/2021			0	0		Out of OK
+2916	Oklahoma	US	11/09/2021			0	0		Out of OK
+2916	Oklahoma	US	11/10/2021			0	0		Out of OK
+2916	Oklahoma	US	11/11/2021			0	0		Out of OK
+2916	Oklahoma	US	11/12/2021			0	0		Out of OK
+2916	Oklahoma	US	11/13/2021			0	0		Out of OK
+2916	Oklahoma	US	11/14/2021			0	0		Out of OK
+2916	Oklahoma	US	11/15/2021			0	0		Out of OK
+2916	Oklahoma	US	11/16/2021			0	0		Out of OK
+2916	Oklahoma	US	11/17/2021			0	0		Out of OK
+2916	Oklahoma	US	11/18/2021			0	0		Out of OK
+2916	Oklahoma	US	11/19/2021			0	0		Out of OK
+2916	Oklahoma	US	11/20/2021			0	0		Out of OK
+2916	Oklahoma	US	11/21/2021			0	0		Out of OK
+2916	Oklahoma	US	11/22/2021			0	0		Out of OK
+2916	Oklahoma	US	11/23/2021			0	0		Out of OK
+2916	Oklahoma	US	11/24/2021			0	0		Out of OK
+2916	Oklahoma	US	11/25/2021			0	0		Out of OK
+2916	Oklahoma	US	11/26/2021			0	0		Out of OK
+2916	Oklahoma	US	11/27/2021			0	0		Out of OK
+2916	Oklahoma	US	11/28/2021			0	0		Out of OK
+2916	Oklahoma	US	11/29/2021			0	0		Out of OK
+2916	Oklahoma	US	11/30/2021			0	0		Out of OK
+2916	Oklahoma	US	12/01/2021			0	0		Out of OK
+2916	Oklahoma	US	12/02/2021			0	0		Out of OK
+2916	Oklahoma	US	12/03/2021			0	0		Out of OK
+2916	Oklahoma	US	12/04/2021			0	0		Out of OK
+2916	Oklahoma	US	12/05/2021			0	0		Out of OK
+2916	Oklahoma	US	12/06/2021			0	0		Out of OK
+2916	Oklahoma	US	12/07/2021			0	0		Out of OK
+2916	Oklahoma	US	12/08/2021			0	0		Out of OK
+2916	Oklahoma	US	12/09/2021			0	0		Out of OK
+2916	Oklahoma	US	12/10/2021			0	0		Out of OK
+2916	Oklahoma	US	12/11/2021			0	0		Out of OK
+2916	Oklahoma	US	12/12/2021			0	0		Out of OK
+2916	Oklahoma	US	12/13/2021			0	0		Out of OK
+2916	Oklahoma	US	12/14/2021			0	0		Out of OK
+2916	Oklahoma	US	12/15/2021			0	0		Out of OK
+2916	Oklahoma	US	12/16/2021			0	0		Out of OK
+2916	Oklahoma	US	12/17/2021			0	0		Out of OK
+2916	Oklahoma	US	12/18/2021			0	0		Out of OK
+2916	Oklahoma	US	12/19/2021			0	0		Out of OK
+2916	Oklahoma	US	12/20/2021			0	0		Out of OK
+2916	Oklahoma	US	12/21/2021			0	0		Out of OK
