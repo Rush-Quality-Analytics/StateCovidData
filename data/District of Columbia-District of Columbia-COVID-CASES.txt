@@ -640,3 +640,4 @@
 1007	District of Columbia	US	12/19/2021	38.90417773	-77.01655992	71219	1206		District of Columbia
 1007	District of Columbia	US	12/20/2021	38.90417773	-77.01655992	71219	1206		District of Columbia
 1007	District of Columbia	US	12/21/2021	38.90417773	-77.01655992	76137	1207		District of Columbia
+1007	District of Columbia	US	12/22/2021	38.90417773	-77.01655992	77661	1207		District of Columbia

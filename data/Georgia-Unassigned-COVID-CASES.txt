@@ -639,3 +639,4 @@
 1220	Georgia	US	12/19/2021			3703	6		Unassigned
 1220	Georgia	US	12/20/2021			3703	6		Unassigned
 1220	Georgia	US	12/21/2021			3750	6		Unassigned
+1220	Georgia	US	12/22/2021			3799	6		Unassigned
