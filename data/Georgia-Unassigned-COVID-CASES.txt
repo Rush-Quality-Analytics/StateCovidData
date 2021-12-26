@@ -641,3 +641,5 @@
 1220	Georgia	US	12/21/2021			3750	6		Unassigned
 1220	Georgia	US	12/22/2021			3799	6		Unassigned
 1220	Georgia	US	12/23/2021			3876	7		Unassigned
+1220	Georgia	US	12/24/2021			3880	7		Unassigned
+1220	Georgia	US	12/25/2021			3880	7		Unassigned
