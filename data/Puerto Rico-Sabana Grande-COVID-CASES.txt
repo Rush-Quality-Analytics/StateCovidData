@@ -527,3 +527,4 @@
 3104	Puerto Rico	US	12/25/2021	18.08282	-66.943758	756	0		Sabana Grande
 3104	Puerto Rico	US	12/26/2021	18.08282	-66.943758	772	0		Sabana Grande
 3104	Puerto Rico	US	12/27/2021	18.08282	-66.943758	774	0		Sabana Grande
+3104	Puerto Rico	US	12/28/2021	18.08282	-66.943758	776	0		Sabana Grande
