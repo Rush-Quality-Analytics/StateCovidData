@@ -648,3 +648,6 @@
 860	Arkansas	US	12/28/2021			6532	0		Unassigned
 860	Arkansas	US	12/29/2021			6738	0		Unassigned
 860	Arkansas	US	12/30/2021			6936	0		Unassigned
+860	Arkansas	US	12/31/2021			7064	0		Unassigned
+860	Arkansas	US	01/01/2022			7279	0		Unassigned
+860	Arkansas	US	01/02/2022			7459	0		Unassigned

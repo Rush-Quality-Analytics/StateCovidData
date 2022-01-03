@@ -639,3 +639,6 @@
 1005	Delaware	US	12/28/2021			679	0		Unassigned
 1005	Delaware	US	12/29/2021			682	0		Unassigned
 1005	Delaware	US	12/30/2021			687	0		Unassigned
+1005	Delaware	US	12/31/2021			706	0		Unassigned
+1005	Delaware	US	01/01/2022			716	0		Unassigned
+1005	Delaware	US	01/02/2022			720	0		Unassigned
