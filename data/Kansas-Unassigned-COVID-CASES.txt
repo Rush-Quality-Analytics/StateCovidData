@@ -638,3 +638,4 @@
 1686	Kansas	US	12/31/2021			0	296		Unassigned
 1686	Kansas	US	01/01/2022			0	296		Unassigned
 1686	Kansas	US	01/02/2022			0	296		Unassigned
+1686	Kansas	US	01/03/2022			0	339		Unassigned

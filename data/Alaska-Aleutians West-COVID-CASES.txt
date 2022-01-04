@@ -552,3 +552,4 @@
 743	Alaska	US	12/31/2021	52.3233	-174.1596	955	2		Aleutians West
 743	Alaska	US	01/01/2022	52.3233	-174.1596	955	2		Aleutians West
 743	Alaska	US	01/02/2022	52.3233	-174.1596	955	2		Aleutians West
+743	Alaska	US	01/03/2022	52.3233	-174.1596	966	2		Aleutians West

@@ -650,3 +650,4 @@
 3329	Tennessee	US	12/31/2021			24067	180		Unassigned
 3329	Tennessee	US	01/01/2022			24067	180		Unassigned
 3329	Tennessee	US	01/02/2022			24067	180		Unassigned
+3329	Tennessee	US	01/03/2022			24500	180		Unassigned

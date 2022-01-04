@@ -650,3 +650,4 @@
 3309	Tennessee	US	12/31/2021			32385	210		Out of TN
 3309	Tennessee	US	01/01/2022			32385	210		Out of TN
 3309	Tennessee	US	01/02/2022			32385	210		Out of TN
+3309	Tennessee	US	01/03/2022			34549	210		Out of TN

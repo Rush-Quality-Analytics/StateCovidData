@@ -644,3 +644,4 @@
 923	California	US	12/31/2021			1117	3		Unassigned
 923	California	US	01/01/2022			1117	3		Unassigned
 923	California	US	01/02/2022			1117	3		Unassigned
+923	California	US	01/03/2022			1117	3		Unassigned

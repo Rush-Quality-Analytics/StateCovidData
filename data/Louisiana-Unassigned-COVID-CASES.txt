@@ -651,3 +651,4 @@
 1871	Louisiana	US	12/31/2021			617	0		Unassigned
 1871	Louisiana	US	01/01/2022			617	0		Unassigned
 1871	Louisiana	US	01/02/2022			617	0		Unassigned
+1871	Louisiana	US	01/03/2022			634	0		Unassigned

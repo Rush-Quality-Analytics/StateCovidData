@@ -645,3 +645,4 @@
 2020	Michigan	US	12/31/2021			54	1		Unassigned
 2020	Michigan	US	01/01/2022			54	1		Unassigned
 2020	Michigan	US	01/02/2022			54	1		Unassigned
+2020	Michigan	US	01/03/2022			54	1		Unassigned
