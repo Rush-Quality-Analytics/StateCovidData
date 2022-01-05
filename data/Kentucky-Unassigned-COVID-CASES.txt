@@ -652,3 +652,4 @@
 1806	Kentucky	US	01/01/2022			9	0		Unassigned
 1806	Kentucky	US	01/02/2022			9	0		Unassigned
 1806	Kentucky	US	01/03/2022			8	0		Unassigned
+1806	Kentucky	US	01/04/2022			8	0		Unassigned
