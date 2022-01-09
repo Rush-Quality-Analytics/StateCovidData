@@ -606,7 +606,6 @@
 1994	Michigan	US	12/08/2021			28209	157		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	12/09/2021			28209	157		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	12/10/2021			28235	157		Michigan Department of Corrections (MDOC)
-1994	Michigan	US	12/11/2021			28235	157		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	12/12/2021			28235	157		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	12/13/2021			28254	160		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	12/14/2021			28254	160		Michigan Department of Corrections (MDOC)
@@ -633,3 +632,4 @@
 1994	Michigan	US	01/04/2022			28929	165		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	01/05/2022			29325	165		Michigan Department of Corrections (MDOC)
 1994	Michigan	US	01/06/2022			29325	165		Michigan Department of Corrections (MDOC)
+1994	Michigan	US	01/07/2022			29608	165		Michigan Department of Corrections (MDOC)

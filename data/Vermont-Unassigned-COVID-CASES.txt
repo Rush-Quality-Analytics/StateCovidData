@@ -627,7 +627,6 @@
 3620	Vermont	US	12/08/2021			159	0		Unassigned
 3620	Vermont	US	12/09/2021			82	0		Unassigned
 3620	Vermont	US	12/10/2021			190	0		Unassigned
-3620	Vermont	US	12/11/2021			59	0		Unassigned
 3620	Vermont	US	12/12/2021			234	0		Unassigned
 3620	Vermont	US	12/13/2021			49	0		Unassigned
 3620	Vermont	US	12/14/2021			50	0		Unassigned
@@ -654,3 +653,4 @@
 3620	Vermont	US	01/04/2022			1508	0		Unassigned
 3620	Vermont	US	01/05/2022			1477	0		Unassigned
 3620	Vermont	US	01/06/2022			2590	0		Unassigned
+3620	Vermont	US	01/07/2022			3718	0		Unassigned

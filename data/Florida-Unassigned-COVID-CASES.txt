@@ -625,7 +625,6 @@
 1070	Florida	US	12/08/2021			2961	24816		Unassigned
 1070	Florida	US	12/09/2021			2961	25034		Unassigned
 1070	Florida	US	12/10/2021			2961	25053		Unassigned
-1070	Florida	US	12/11/2021			2961	25053		Unassigned
 1070	Florida	US	12/12/2021			2961	25053		Unassigned
 1070	Florida	US	12/13/2021			2961	25100		Unassigned
 1070	Florida	US	12/14/2021			2961	25100		Unassigned
@@ -652,3 +651,4 @@
 1070	Florida	US	01/04/2022			153216	25568		Unassigned
 1070	Florida	US	01/05/2022			153216	25568		Unassigned
 1070	Florida	US	01/06/2022			279314	25649		Unassigned
+1070	Florida	US	01/07/2022			2962	25715		Unassigned

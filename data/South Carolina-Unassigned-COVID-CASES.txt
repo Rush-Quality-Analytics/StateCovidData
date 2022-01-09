@@ -596,7 +596,6 @@
 3172	South Carolina	US	12/08/2021			0	0		Unassigned
 3172	South Carolina	US	12/09/2021			0	0		Unassigned
 3172	South Carolina	US	12/10/2021			0	0		Unassigned
-3172	South Carolina	US	12/11/2021			0	0		Unassigned
 3172	South Carolina	US	12/12/2021			0	0		Unassigned
 3172	South Carolina	US	12/13/2021			0	0		Unassigned
 3172	South Carolina	US	12/14/2021			0	0		Unassigned
@@ -623,3 +622,4 @@
 3172	South Carolina	US	01/04/2022			0	0		Unassigned
 3172	South Carolina	US	01/05/2022			0	0		Unassigned
 3172	South Carolina	US	01/06/2022			0	0		Unassigned
+3172	South Carolina	US	01/07/2022			0	0		Unassigned
