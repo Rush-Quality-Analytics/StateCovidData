@@ -612,6 +612,7 @@
 1920	Maryland	US	12/08/2021			4288	46		Unassigned
 1920	Maryland	US	12/09/2021			5787	46		Unassigned
 1920	Maryland	US	12/10/2021			7499	46		Unassigned
+1920	Maryland	US	12/11/2021			8711	46		Unassigned
 1920	Maryland	US	12/12/2021			10053	46		Unassigned
 1920	Maryland	US	12/13/2021			11493	46		Unassigned
 1920	Maryland	US	12/14/2021			13183	46		Unassigned
@@ -639,3 +640,5 @@
 1920	Maryland	US	01/05/2022			633	207		Unassigned
 1920	Maryland	US	01/06/2022			683	219		Unassigned
 1920	Maryland	US	01/07/2022			730	215		Unassigned
+1920	Maryland	US	01/08/2022			755	222		Unassigned
+1920	Maryland	US	01/09/2022			815	250		Unassigned

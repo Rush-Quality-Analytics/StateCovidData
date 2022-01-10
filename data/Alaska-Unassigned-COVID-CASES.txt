@@ -625,6 +625,7 @@
 768	Alaska	US	12/08/2021			536	1		Unassigned
 768	Alaska	US	12/09/2021			536	1		Unassigned
 768	Alaska	US	12/10/2021			537	1		Unassigned
+768	Alaska	US	12/11/2021			537	1		Unassigned
 768	Alaska	US	12/12/2021			537	1		Unassigned
 768	Alaska	US	12/13/2021			537	1		Unassigned
 768	Alaska	US	12/14/2021			537	1		Unassigned
@@ -652,3 +653,5 @@
 768	Alaska	US	01/05/2022			559	1		Unassigned
 768	Alaska	US	01/06/2022			559	1		Unassigned
 768	Alaska	US	01/07/2022			559	1		Unassigned
+768	Alaska	US	01/08/2022			559	1		Unassigned
+768	Alaska	US	01/09/2022			559	1		Unassigned

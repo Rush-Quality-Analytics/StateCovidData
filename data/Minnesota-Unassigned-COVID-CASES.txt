@@ -623,6 +623,7 @@
 2103	Minnesota	US	12/08/2021			545	124		Unassigned
 2103	Minnesota	US	12/09/2021			559	124		Unassigned
 2103	Minnesota	US	12/10/2021			555	124		Unassigned
+2103	Minnesota	US	12/11/2021			555	124		Unassigned
 2103	Minnesota	US	12/12/2021			555	124		Unassigned
 2103	Minnesota	US	12/13/2021			561	124		Unassigned
 2103	Minnesota	US	12/14/2021			577	124		Unassigned
@@ -650,3 +651,5 @@
 2103	Minnesota	US	01/05/2022			574	140		Unassigned
 2103	Minnesota	US	01/06/2022			567	140		Unassigned
 2103	Minnesota	US	01/07/2022			567	140		Unassigned
+2103	Minnesota	US	01/08/2022			567	140		Unassigned
+2103	Minnesota	US	01/09/2022			567	140		Unassigned

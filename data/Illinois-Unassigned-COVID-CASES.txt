@@ -627,6 +627,7 @@
 1381	Illinois	US	12/08/2021			87	2433		Unassigned
 1381	Illinois	US	12/09/2021			93	2433		Unassigned
 1381	Illinois	US	12/10/2021			86	2433		Unassigned
+1381	Illinois	US	12/11/2021			86	2433		Unassigned
 1381	Illinois	US	12/12/2021			86	2433		Unassigned
 1381	Illinois	US	12/13/2021			81	2433		Unassigned
 1381	Illinois	US	12/14/2021			88	2433		Unassigned
@@ -654,3 +655,5 @@
 1381	Illinois	US	01/05/2022			231	2433		Unassigned
 1381	Illinois	US	01/06/2022			250	2433		Unassigned
 1381	Illinois	US	01/07/2022			195	2433		Unassigned
+1381	Illinois	US	01/08/2022			195	2433		Unassigned
+1381	Illinois	US	01/09/2022			195	2433		Unassigned
