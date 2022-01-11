@@ -475,3 +475,4 @@
 2588	New York	US	01/07/2022			0	395		Out of NY
 2588	New York	US	01/08/2022			0	399		Out of NY
 2588	New York	US	01/09/2022			0	400		Out of NY
+2588	New York	US	01/10/2022			0	400		Out of NY
