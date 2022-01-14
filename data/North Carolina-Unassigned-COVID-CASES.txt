@@ -635,3 +635,5 @@
 2702	North Carolina	US	01/09/2022			3783	0		Unassigned
 2702	North Carolina	US	01/10/2022			970	0		Unassigned
 2702	North Carolina	US	01/11/2022			1050	0		Unassigned
+2702	North Carolina	US	01/12/2022			2126	0		Unassigned
+2702	North Carolina	US	01/13/2022			10644	0		Unassigned

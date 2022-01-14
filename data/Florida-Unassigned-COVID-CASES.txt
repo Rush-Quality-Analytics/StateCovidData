@@ -657,3 +657,5 @@
 1070	Florida	US	01/09/2022			29550	25715		Unassigned
 1070	Florida	US	01/10/2022			155546	25837		Unassigned
 1070	Florida	US	01/11/2022			203255	25840		Unassigned
+1070	Florida	US	01/12/2022			274997	0		Unassigned
+1070	Florida	US	01/13/2022			329991	0		Unassigned
