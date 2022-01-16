@@ -663,3 +663,5 @@
 1007	District of Columbia	US	01/11/2022	38.90417773	-77.01655992	117586	1237		District of Columbia
 1007	District of Columbia	US	01/12/2022	38.90417773	-77.01655992	118802	1240		District of Columbia
 1007	District of Columbia	US	01/13/2022	38.90417773	-77.01655992	120327	1245		District of Columbia
+1007	District of Columbia	US	01/14/2022	38.90417773	-77.01655992	121871	1255		District of Columbia
+1007	District of Columbia	US	01/15/2022	38.90417773	-77.01655992	121871	1255		District of Columbia

@@ -654,3 +654,5 @@
 1000	Connecticut	US	01/11/2022			2296	3		Unassigned
 1000	Connecticut	US	01/12/2022			2351	3		Unassigned
 1000	Connecticut	US	01/13/2022			2390	3		Unassigned
+1000	Connecticut	US	01/14/2022			2430	5		Unassigned
+1000	Connecticut	US	01/15/2022			2430	5		Unassigned

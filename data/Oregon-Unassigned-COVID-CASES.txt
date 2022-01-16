@@ -643,3 +643,5 @@
 2967	Oregon	US	01/11/2022			0	0		Unassigned
 2967	Oregon	US	01/12/2022			0	0		Unassigned
 2967	Oregon	US	01/13/2022			0	0		Unassigned
+2967	Oregon	US	01/14/2022			0	0		Unassigned
+2967	Oregon	US	01/15/2022			0	0		Unassigned

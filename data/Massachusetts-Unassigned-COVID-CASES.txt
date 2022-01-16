@@ -662,3 +662,5 @@
 1936	Massachusetts	US	01/11/2022			102629	7		Unassigned
 1936	Massachusetts	US	01/12/2022			104783	7		Unassigned
 1936	Massachusetts	US	01/13/2022			107861	7		Unassigned
+1936	Massachusetts	US	01/14/2022			109629	7		Unassigned
+1936	Massachusetts	US	01/15/2022			109629	7		Unassigned
