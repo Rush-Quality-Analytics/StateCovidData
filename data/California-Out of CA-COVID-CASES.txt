@@ -121,3 +121,4 @@
 897	California	US	01/13/2022			0	0		Out of CA
 897	California	US	01/14/2022			0	0		Out of CA
 897	California	US	01/15/2022			0	0		Out of CA
+897	California	US	01/16/2022			0	0		Out of CA

@@ -648,3 +648,4 @@
 1920	Maryland	US	01/13/2022			930	265		Unassigned
 1920	Maryland	US	01/14/2022			949	277		Unassigned
 1920	Maryland	US	01/15/2022			994	261		Unassigned
+1920	Maryland	US	01/16/2022			1020	279		Unassigned
