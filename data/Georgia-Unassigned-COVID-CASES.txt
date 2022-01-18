@@ -665,3 +665,4 @@
 1220	Georgia	US	01/14/2022			9770	8		Unassigned
 1220	Georgia	US	01/15/2022			9770	8		Unassigned
 1220	Georgia	US	01/16/2022			9770	8		Unassigned
+1220	Georgia	US	01/17/2022			9894	8		Unassigned
