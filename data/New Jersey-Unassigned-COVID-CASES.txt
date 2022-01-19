@@ -666,3 +666,4 @@
 2512	New Jersey	US	01/15/2022			5654	0		Unassigned
 2512	New Jersey	US	01/16/2022			4867	0		Unassigned
 2512	New Jersey	US	01/17/2022			4567	270		Unassigned
+2512	New Jersey	US	01/18/2022			4451	0		Unassigned

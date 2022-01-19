@@ -483,3 +483,4 @@
 2588	New York	US	01/15/2022			0	406		Out of NY
 2588	New York	US	01/16/2022			0	408		Out of NY
 2588	New York	US	01/17/2022			0	410		Out of NY
+2588	New York	US	01/18/2022			0	413		Out of NY
