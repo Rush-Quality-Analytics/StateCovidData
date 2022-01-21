@@ -666,3 +666,5 @@
 2010	Michigan	US	01/16/2022			5285	35		Out of MI
 2010	Michigan	US	01/17/2022			5285	35		Out of MI
 2010	Michigan	US	01/18/2022			5285	35		Out of MI
+2010	Michigan	US	01/19/2022			5578	36		Out of MI
+2010	Michigan	US	01/20/2022			5578	36		Out of MI

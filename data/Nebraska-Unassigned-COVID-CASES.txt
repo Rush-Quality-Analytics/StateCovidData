@@ -661,3 +661,5 @@
 2457	Nebraska	US	01/16/2022			3266	1310		Unassigned
 2457	Nebraska	US	01/17/2022			3329	1310		Unassigned
 2457	Nebraska	US	01/18/2022			3362	1313		Unassigned
+2457	Nebraska	US	01/19/2022			3410	1318		Unassigned
+2457	Nebraska	US	01/20/2022			3461	1332		Unassigned

@@ -664,3 +664,5 @@
 768	Alaska	US	01/16/2022			594	1		Unassigned
 768	Alaska	US	01/17/2022			594	1		Unassigned
 768	Alaska	US	01/18/2022			594	1		Unassigned
+768	Alaska	US	01/19/2022			635	1		Unassigned
+768	Alaska	US	01/20/2022			635	1		Unassigned

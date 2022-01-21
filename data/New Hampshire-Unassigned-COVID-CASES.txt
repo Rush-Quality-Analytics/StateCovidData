@@ -661,3 +661,5 @@
 2492	New Hampshire	US	01/16/2022			6444	26		Unassigned
 2492	New Hampshire	US	01/17/2022			6444	26		Unassigned
 2492	New Hampshire	US	01/18/2022			7304	26		Unassigned
+2492	New Hampshire	US	01/19/2022			7330	26		Unassigned
+2492	New Hampshire	US	01/20/2022			7338	17		Unassigned
