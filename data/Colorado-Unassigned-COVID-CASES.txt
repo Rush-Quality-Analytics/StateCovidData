@@ -669,3 +669,5 @@
 989	Colorado	US	01/18/2022			119	0		Unassigned
 989	Colorado	US	01/19/2022			119	0		Unassigned
 989	Colorado	US	01/20/2022			119	0		Unassigned
+989	Colorado	US	01/21/2022			119	0		Unassigned
+989	Colorado	US	01/22/2022			119	0		Unassigned

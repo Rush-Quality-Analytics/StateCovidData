@@ -668,3 +668,5 @@
 3309	Tennessee	US	01/18/2022			39422	211		Out of TN
 3309	Tennessee	US	01/19/2022			41853	216		Out of TN
 3309	Tennessee	US	01/20/2022			41853	216		Out of TN
+3309	Tennessee	US	01/21/2022			41853	216		Out of TN
+3309	Tennessee	US	01/22/2022			41853	216		Out of TN

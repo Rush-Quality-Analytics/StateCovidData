@@ -655,3 +655,5 @@
 1243	Hawaii	US	01/18/2022			4399	11		Out of HI
 1243	Hawaii	US	01/19/2022			4430	11		Out of HI
 1243	Hawaii	US	01/20/2022			4530	11		Out of HI
+1243	Hawaii	US	01/21/2022			4600	11		Out of HI
+1243	Hawaii	US	01/22/2022			4655	11		Out of HI

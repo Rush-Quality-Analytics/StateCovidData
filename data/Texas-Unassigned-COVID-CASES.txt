@@ -1,639 +1,641 @@
 	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
-2578	Texas	US	04/23/2020			0	0	0	Unassigned
-2584	Texas	US	04/24/2020			0	0	0	Unassigned
-2589	Texas	US	04/25/2020			0	0	0	Unassigned
-2597	Texas	US	04/26/2020			0	0	0	Unassigned
-2604	Texas	US	04/27/2020			0	0	0	Unassigned
-2613	Texas	US	04/28/2020			0	0	0	Unassigned
-2618	Texas	US	04/29/2020			0	0	0	Unassigned
-2624	Texas	US	04/30/2020			0	0	0	Unassigned
-2634	Texas	US	05/01/2020			0	0	0	Unassigned
-2638	Texas	US	05/02/2020			0	0	0	Unassigned
-2643	Texas	US	05/03/2020			0	0	0	Unassigned
-2646	Texas	US	05/04/2020			0	0	0	Unassigned
-2654	Texas	US	05/05/2020			0	0	0	Unassigned
-2660	Texas	US	05/06/2020			0	0	0	Unassigned
-2667	Texas	US	05/07/2020			0	0	0	Unassigned
-2674	Texas	US	05/08/2020			0	0	0	Unassigned
-2676	Texas	US	05/09/2020			0	0	0	Unassigned
-2678	Texas	US	05/10/2020			0	0	0	Unassigned
-2678	Texas	US	05/11/2020			0	0	0	Unassigned
-2681	Texas	US	05/12/2020			0	0	0	Unassigned
-2682	Texas	US	05/13/2020			0	0	0	Unassigned
-2684	Texas	US	05/14/2020			0	0	0	Unassigned
-2689	Texas	US	05/15/2020			0	0	0	Unassigned
-2693	Texas	US	05/16/2020			0	0	0	Unassigned
-2696	Texas	US	05/17/2020			0	0	0	Unassigned
-2698	Texas	US	05/18/2020			0	0	0	Unassigned
-2702	Texas	US	05/19/2020			0	0	0	Unassigned
-2708	Texas	US	05/20/2020			0	0	0	Unassigned
-2710	Texas	US	05/21/2020			0	0	0	Unassigned
-2717	Texas	US	05/22/2020			0	0	0	Unassigned
-2719	Texas	US	05/23/2020			0	0	0	Unassigned
-2722	Texas	US	05/24/2020			0	0	0	Unassigned
-2723	Texas	US	05/25/2020			0	0	0	Unassigned
-2724	Texas	US	05/26/2020			0	0	0	Unassigned
-2727	Texas	US	05/27/2020			0	0	0	Unassigned
-2730	Texas	US	05/28/2020			0	0	0	Unassigned
-2733	Texas	US	05/29/2020			0	0	0	Unassigned
-2735	Texas	US	05/30/2020			0	0	0	Unassigned
-2736	Texas	US	05/31/2020			0	0	0	Unassigned
-2738	Texas	US	06/01/2020			0	0	0	Unassigned
-2743	Texas	US	06/02/2020			0	0	0	Unassigned
-2745	Texas	US	06/03/2020			0	0	0	Unassigned
-2746	Texas	US	06/04/2020			0	0	0	Unassigned
-2750	Texas	US	06/05/2020			0	0	0	Unassigned
-2752	Texas	US	06/06/2020			0	0	0	Unassigned
-2752	Texas	US	06/07/2020			0	0	0	Unassigned
-2752	Texas	US	06/08/2020			0	0	0	Unassigned
-2754	Texas	US	06/09/2020			0	0	0	Unassigned
-2756	Texas	US	06/10/2020			0	0	0	Unassigned
-2758	Texas	US	06/11/2020			0	0	0	Unassigned
-2772	Texas	US	06/12/2020			0	0	0	Unassigned
-2775	Texas	US	06/13/2020			0	0	0	Unassigned
-2775	Texas	US	06/14/2020			0	0	0	Unassigned
-2779	Texas	US	06/15/2020			0	0	0	Unassigned
-2777	Texas	US	06/16/2020			0	0	0	Unassigned
-2779	Texas	US	06/17/2020			0	0	0	Unassigned
-2779	Texas	US	06/18/2020			0	0	0	Unassigned
-2780	Texas	US	06/19/2020			0	0	0	Unassigned
-2784	Texas	US	06/20/2020			0	0	0	Unassigned
-2784	Texas	US	06/21/2020			0	0	0	Unassigned
-2787	Texas	US	06/22/2020			0	0	0	Unassigned
-2792	Texas	US	06/23/2020			0	0	0	Unassigned
-2804	Texas	US	06/24/2020			0	0	0	Unassigned
-2809	Texas	US	06/25/2020			0	0	0	Unassigned
-2810	Texas	US	06/26/2020			0	0	0	Unassigned
-2811	Texas	US	06/27/2020			0	0	0	Unassigned
-2811	Texas	US	06/28/2020			0	0	0	Unassigned
-2813	Texas	US	06/29/2020			0	0	0	Unassigned
-2815	Texas	US	06/30/2020			0	0	0	Unassigned
-2817	Texas	US	07/01/2020			0	0	0	Unassigned
-2820	Texas	US	07/02/2020			0	0	0	Unassigned
-2825	Texas	US	07/03/2020			0	0	0	Unassigned
-2826	Texas	US	07/04/2020			0	0	0	Unassigned
-2827	Texas	US	07/05/2020			0	0	0	Unassigned
-2830	Texas	US	07/06/2020			0	0	0	Unassigned
-2831	Texas	US	07/07/2020			0	0	0	Unassigned
-2834	Texas	US	07/08/2020			0	0	0	Unassigned
-2833	Texas	US	07/09/2020			0	0	0	Unassigned
-2837	Texas	US	07/10/2020			0	0	0	Unassigned
-2838	Texas	US	07/11/2020			0	0	0	Unassigned
-2840	Texas	US	07/12/2020			0	0	0	Unassigned
-2841	Texas	US	07/13/2020			0	0	0	Unassigned
-2847	Texas	US	07/14/2020			0	0	0	Unassigned
-2848	Texas	US	07/15/2020			0	0	0	Unassigned
-2850	Texas	US	07/16/2020			0	0	0	Unassigned
-2850	Texas	US	07/17/2020			0	0	0	Unassigned
-2924	Texas	US	07/18/2020			0	0	0	Unassigned
-2924	Texas	US	07/19/2020			0	0	0	Unassigned
-2847	Texas	US	07/20/2020			0	0	0	Unassigned
-2928	Texas	US	07/21/2020			0	0	0	Unassigned
-2929	Texas	US	07/22/2020			0	0	0	Unassigned
-2932	Texas	US	07/23/2020			0	0	0	Unassigned
-2931	Texas	US	07/24/2020			0	0	0	Unassigned
-2932	Texas	US	07/25/2020			0	0	0	Unassigned
-2933	Texas	US	07/26/2020			0	0	0	Unassigned
-2933	Texas	US	07/27/2020			0	81	0	Unassigned
-2933	Texas	US	07/28/2020			0	81	0	Unassigned
-2937	Texas	US	07/29/2020			0	151	0	Unassigned
-2937	Texas	US	07/30/2020			0	168	0	Unassigned
-2939	Texas	US	07/31/2020			0	55	0	Unassigned
-2939	Texas	US	08/01/2020			0	137	0	Unassigned
-2939	Texas	US	08/02/2020			0	113	0	Unassigned
-2939	Texas	US	08/03/2020			0	132	0	Unassigned
-2939	Texas	US	08/04/2020			0	181	0	Unassigned
-3936	Texas	US	08/05/2020			0	239	0	Unassigned
-3936	Texas	US	08/06/2020			0	239	0	Unassigned
-3936	Texas	US	08/07/2020			0	239	0	Unassigned
-3936	Texas	US	08/08/2020			0	239	0	Unassigned
-3936	Texas	US	08/09/2020			0	239	0	Unassigned
-3936	Texas	US	08/10/2020			0	239	0	Unassigned
-3554	Texas	US	08/11/2020			0	0	0	Unassigned
-3508	Texas	US	08/12/2020			0	0	0	Unassigned
-3510	Texas	US	08/13/2020			0	0	0	Unassigned
-3510	Texas	US	08/14/2020			0	0	0	Unassigned
-3510	Texas	US	08/15/2020			0	0	0	Unassigned
-3510	Texas	US	08/16/2020			0	0	0	Unassigned
-3512	Texas	US	08/17/2020			0	0	0	Unassigned
-3512	Texas	US	08/18/2020			0	0	0	Unassigned
-3514	Texas	US	08/19/2020			0	0	0	Unassigned
-3514	Texas	US	08/20/2020			0	0	0	Unassigned
-3514	Texas	US	08/21/2020			0	0	0	Unassigned
-3515	Texas	US	08/22/2020			0	0	0	Unassigned
-3515	Texas	US	08/23/2020			0	0	0	Unassigned
-3515	Texas	US	08/24/2020			0	0	0	Unassigned
-3515	Texas	US	08/25/2020			0	0	0	Unassigned
-3515	Texas	US	08/26/2020			0	0	0	Unassigned
-3515	Texas	US	08/27/2020			0	0	0	Unassigned
-3515	Texas	US	08/28/2020			0	0	0	Unassigned
-3515	Texas	US	08/29/2020			0	0	0	Unassigned
-3515	Texas	US	08/30/2020			0	0	0	Unassigned
-3519	Texas	US	08/31/2020			0	0	0	Unassigned
-3519	Texas	US	09/01/2020			0	0	0	Unassigned
-3519	Texas	US	09/02/2020			0	0	0	Unassigned
-3519	Texas	US	09/03/2020			0	0	0	Unassigned
-3519	Texas	US	09/04/2020			0	0	0	Unassigned
-3519	Texas	US	09/05/2020			0	0	0	Unassigned
-3519	Texas	US	09/06/2020			0	0	0	Unassigned
-3519	Texas	US	09/07/2020			0	0	0	Unassigned
-3519	Texas	US	09/08/2020			0	0	0	Unassigned
-3519	Texas	US	09/09/2020			0	0	0	Unassigned
-3519	Texas	US	09/10/2020			0	0	0	Unassigned
-3519	Texas	US	09/11/2020			0	0	0	Unassigned
-3519	Texas	US	09/12/2020			0	0	0	Unassigned
-3519	Texas	US	09/13/2020			0	0	0	Unassigned
-3519	Texas	US	09/14/2020			0	0	0	Unassigned
-3519	Texas	US	09/15/2020			0	0	0	Unassigned
-3519	Texas	US	09/16/2020			0	0	0	Unassigned
-3519	Texas	US	09/17/2020			0	0	0	Unassigned
-3519	Texas	US	09/18/2020			0	0	0	Unassigned
-3519	Texas	US	09/19/2020			0	0	0	Unassigned
-3519	Texas	US	09/20/2020			0	0	0	Unassigned
-3521	Texas	US	09/21/2020			0	0	0	Unassigned
-3521	Texas	US	09/22/2020			0	0	0	Unassigned
-3521	Texas	US	09/23/2020			0	0	0	Unassigned
-3521	Texas	US	09/24/2020			0	0	0	Unassigned
-3521	Texas	US	09/25/2020			0	0	0	Unassigned
-3521	Texas	US	09/26/2020			0	0	0	Unassigned
-3521	Texas	US	09/27/2020			0	0	0	Unassigned
-3521	Texas	US	09/28/2020			0	0	0	Unassigned
-3521	Texas	US	09/29/2020			0	0	0	Unassigned
-3521	Texas	US	09/30/2020			0	0	0	Unassigned
-3521	Texas	US	10/01/2020			0	0	0	Unassigned
-3521	Texas	US	10/02/2020			0	0	0	Unassigned
-3521	Texas	US	10/03/2020			0	0	0	Unassigned
-3521	Texas	US	10/04/2020			0	0	0	Unassigned
-3521	Texas	US	10/05/2020			0	0	0	Unassigned
-3521	Texas	US	10/06/2020			0	0	0	Unassigned
-3521	Texas	US	10/07/2020			0	0	0	Unassigned
-3521	Texas	US	10/08/2020			0	0	0	Unassigned
-3521	Texas	US	10/09/2020			0	0	0	Unassigned
-3521	Texas	US	10/10/2020			0	0	0	Unassigned
-3521	Texas	US	10/11/2020			0	0	0	Unassigned
-3522	Texas	US	10/12/2020			0	0	0	Unassigned
-3522	Texas	US	10/13/2020			0	0	0	Unassigned
-3522	Texas	US	10/14/2020			0	0	0	Unassigned
-3522	Texas	US	10/15/2020			0	0	0	Unassigned
-3523	Texas	US	10/16/2020			0	0	0	Unassigned
-3523	Texas	US	10/17/2020			0	0	0	Unassigned
-3523	Texas	US	10/18/2020			0	0	0	Unassigned
-3524	Texas	US	10/19/2020			0	0	0	Unassigned
-3524	Texas	US	10/20/2020			0	0	0	Unassigned
-3524	Texas	US	10/21/2020			0	0	0	Unassigned
-3524	Texas	US	10/22/2020			0	0	0	Unassigned
-3524	Texas	US	10/23/2020			0	0	0	Unassigned
-3524	Texas	US	10/24/2020			0	0	0	Unassigned
-3524	Texas	US	10/25/2020			0	0	0	Unassigned
-3524	Texas	US	10/26/2020			0	0	0	Unassigned
-3524	Texas	US	10/27/2020			0	0	0	Unassigned
-3525	Texas	US	10/28/2020			0	0.0	0	Unassigned
-3525	Texas	US	10/29/2020			0	0	0	Unassigned
-3525	Texas	US	10/30/2020			0	0	0	Unassigned
-3525	Texas	US	10/31/2020			0	0	0	Unassigned
-3525	Texas	US	11/01/2020			0	0	0	Unassigned
-3525	Texas	US	11/02/2020			0	0	0	Unassigned
-3525	Texas	US	11/03/2020			0	0	0	Unassigned
-3526	Texas	US	11/04/2020			0	0	0	Unassigned
-3526	Texas	US	11/05/2020			0	0	0	Unassigned
-3526	Texas	US	11/06/2020			0	0	0	Unassigned
-3526	Texas	US	11/07/2020			0	0	0	Unassigned
-3526	Texas	US	11/08/2020			0	0	0	Unassigned
-3526	Texas	US	11/09/2020			0	0	0.0	Unassigned
-3526	Texas	US	11/10/2020			0	0	0.0	Unassigned
-3526	Texas	US	11/11/2020			0	0	0.0	Unassigned
-3538	Texas	US	11/12/2020			0	0	0	Unassigned
-3538	Texas	US	11/13/2020			0	0	0	Unassigned
-3538	Texas	US	11/14/2020			0	0	0	Unassigned
-3538	Texas	US	11/15/2020			0	0	0	Unassigned
-3538	Texas	US	11/16/2020			0	0	0	Unassigned
-3538	Texas	US	11/17/2020			0	0	0	Unassigned
-3538	Texas	US	11/18/2020			0	0	0	Unassigned
-3538	Texas	US	11/19/2020			0	0	0	Unassigned
-3538	Texas	US	11/20/2020			0	0	0	Unassigned
-3538	Texas	US	11/21/2020			0	0	0	Unassigned
-3538	Texas	US	11/22/2020			0	0	0	Unassigned
-3538	Texas	US	11/23/2020			0	0	0	Unassigned
-3539	Texas	US	11/24/2020			0	0	0	Unassigned
-3539	Texas	US	11/25/2020			0	0	0	Unassigned
-3539	Texas	US	11/26/2020			0	0	0	Unassigned
-3539	Texas	US	11/27/2020			0	0	0	Unassigned
-3539	Texas	US	11/28/2020			0	0	0	Unassigned
-3539	Texas	US	11/29/2020			0	0	0	Unassigned
-3539	Texas	US	11/30/2020			0	0	0	Unassigned
-3539	Texas	US	12/01/2020			0	0	0	Unassigned
-3539	Texas	US	12/02/2020			0	0	0	Unassigned
-3539	Texas	US	12/03/2020			0	0	0	Unassigned
-3539	Texas	US	12/04/2020			0	0	0	Unassigned
-3539	Texas	US	12/05/2020			0	0	0	Unassigned
-3539	Texas	US	12/06/2020			0	0	0	Unassigned
-3539	Texas	US	12/07/2020			0	0	0	Unassigned
-3539	Texas	US	12/08/2020			0	0	0	Unassigned
-3539	Texas	US	12/09/2020			0	0	0	Unassigned
-3539	Texas	US	12/10/2020			0	0	0	Unassigned
-3539	Texas	US	12/11/2020			0	0	0	Unassigned
-3539	Texas	US	12/12/2020			0	0	0	Unassigned
-3539	Texas	US	12/13/2020			0	0	0	Unassigned
-3539	Texas	US	12/14/2020			0	0	0	Unassigned
-3539	Texas	US	12/15/2020			0	0	0	Unassigned
-3539	Texas	US	12/16/2020			0	0	0	Unassigned
-3539	Texas	US	12/17/2020			0	0	0	Unassigned
-3539	Texas	US	12/18/2020			0	0	0	Unassigned
-3539	Texas	US	12/19/2020			0	0	0	Unassigned
-3539	Texas	US	12/20/2020			0	0	0	Unassigned
-3539	Texas	US	12/21/2020			0	0	0	Unassigned
-3539	Texas	US	12/22/2020			0	0	0	Unassigned
-3539	Texas	US	12/23/2020			0	0	0	Unassigned
-3539	Texas	US	12/24/2020			0	0	0	Unassigned
-3539	Texas	US	12/25/2020			0	0	0	Unassigned
-3539	Texas	US	12/26/2020			0	0	0	Unassigned
-3539	Texas	US	12/27/2020			0	0	0	Unassigned
-3539	Texas	US	12/28/2020			0	0	0	Unassigned
-3539	Texas	US	12/29/2020			0	0	0	Unassigned
-3539	Texas	US	12/30/2020			0	0	0	Unassigned
-3539	Texas	US	12/31/2020			0	0	0	Unassigned
-3539	Texas	US	01/01/2021			0	0	0	Unassigned
-3539	Texas	US	01/02/2021			0	0	0	Unassigned
-3540	Texas	US	01/03/2021			0	0	0	Unassigned
-3540	Texas	US	01/04/2021			0	0	0	Unassigned
-3540	Texas	US	01/05/2021			0	0	0	Unassigned
-3540	Texas	US	01/06/2021			0	0	0	Unassigned
-3540	Texas	US	01/07/2021			0	0	0	Unassigned
-3540	Texas	US	01/08/2021			0	0	0	Unassigned
-3540	Texas	US	01/09/2021			0	0	0	Unassigned
-3540	Texas	US	01/10/2021			0	0	0	Unassigned
-3540	Texas	US	01/11/2021			0	0	0	Unassigned
-3540	Texas	US	01/12/2021			0	0	0	Unassigned
-3540	Texas	US	01/13/2021			0	0	0	Unassigned
-3540	Texas	US	01/14/2021			0	0	0	Unassigned
-3541	Texas	US	01/15/2021			0	0	0	Unassigned
-3541	Texas	US	01/16/2021			0	0	0	Unassigned
-3541	Texas	US	01/17/2021			0	0	0	Unassigned
-3541	Texas	US	01/18/2021			0	0	0	Unassigned
-3541	Texas	US	01/19/2021			0	0	0	Unassigned
-3541	Texas	US	01/20/2021			0	0	0	Unassigned
-3542	Texas	US	01/21/2021			0	0	0	Unassigned
-3542	Texas	US	01/22/2021			0	0	0	Unassigned
-3542	Texas	US	01/23/2021			0	0	0	Unassigned
-3542	Texas	US	01/24/2021			0	0	0	Unassigned
-3542	Texas	US	01/25/2021			0	0	0	Unassigned
-3542	Texas	US	01/26/2021			0	0	0	Unassigned
-3542	Texas	US	01/27/2021			0	0	0	Unassigned
-3542	Texas	US	01/28/2021			0	0	0	Unassigned
-3542	Texas	US	01/29/2021			0	0	0	Unassigned
-3542	Texas	US	01/30/2021			0	0	0	Unassigned
-3542	Texas	US	01/31/2021			0	0	0	Unassigned
-3542	Texas	US	02/01/2021			0	0	0	Unassigned
-3542	Texas	US	02/02/2021			0	0	0	Unassigned
-3542	Texas	US	02/03/2021			0	0	0	Unassigned
-3542	Texas	US	02/04/2021			0	0	0	Unassigned
-3542	Texas	US	02/05/2021			0	0	0	Unassigned
-3542	Texas	US	02/06/2021			0	0	0	Unassigned
-3542	Texas	US	02/07/2021			0	0	0	Unassigned
-3542	Texas	US	02/08/2021			0	0	0	Unassigned
-3542	Texas	US	02/09/2021			0	0	0	Unassigned
-3542	Texas	US	02/10/2021			0	0	0	Unassigned
-3542	Texas	US	02/11/2021			0	0	0	Unassigned
-3542	Texas	US	02/12/2021			0	0	0	Unassigned
-3542	Texas	US	02/13/2021			0	0	0	Unassigned
-3542	Texas	US	02/14/2021			0	0	0	Unassigned
-3542	Texas	US	02/15/2021			0	0	0	Unassigned
-3542	Texas	US	02/16/2021			0	0	0	Unassigned
-3542	Texas	US	02/17/2021			0	0	0	Unassigned
-3542	Texas	US	02/18/2021			0	0	0	Unassigned
-3543	Texas	US	02/19/2021			0	0	0	Unassigned
-3543	Texas	US	02/20/2021			0	0	0	Unassigned
-3543	Texas	US	02/21/2021			0	0	0	Unassigned
-3543	Texas	US	02/22/2021			0	0	0	Unassigned
-3543	Texas	US	02/23/2021			0	0	0	Unassigned
-3543	Texas	US	02/24/2021			0	0	0	Unassigned
-3543	Texas	US	02/25/2021			0	0	0	Unassigned
-3543	Texas	US	02/26/2021			0	0	0	Unassigned
-3543	Texas	US	02/27/2021			0	0	0	Unassigned
-3543	Texas	US	02/28/2021			0	0	0	Unassigned
-3543	Texas	US	03/01/2021			0	0	0	Unassigned
-3543	Texas	US	03/02/2021			0	0	0	Unassigned
-3543	Texas	US	03/03/2021			0	0	0	Unassigned
-3543	Texas	US	03/04/2021			0	0	0	Unassigned
-3543	Texas	US	03/05/2021			0	0	0	Unassigned
-3543	Texas	US	03/06/2021			0	0	0	Unassigned
-3543	Texas	US	03/07/2021			0	0		Unassigned
-3543	Texas	US	03/08/2021			0	0		Unassigned
-3543	Texas	US	03/09/2021			0	0		Unassigned
-3543	Texas	US	03/10/2021			0	0		Unassigned
-3543	Texas	US	03/11/2021			0	0		Unassigned
-3543	Texas	US	03/12/2021			0	0		Unassigned
-3543	Texas	US	03/13/2021			0	0		Unassigned
-3543	Texas	US	03/14/2021			0	0		Unassigned
-3543	Texas	US	03/15/2021			0	0		Unassigned
-3543	Texas	US	03/16/2021			0	0		Unassigned
-3543	Texas	US	03/17/2021			0	0		Unassigned
-3543	Texas	US	03/18/2021			0	0		Unassigned
-3543	Texas	US	03/19/2021			0	0		Unassigned
-3543	Texas	US	03/20/2021			0	0		Unassigned
-3543	Texas	US	03/21/2021			0	0		Unassigned
-3543	Texas	US	03/22/2021			0	0		Unassigned
-3543	Texas	US	03/23/2021			0	0		Unassigned
-3543	Texas	US	03/24/2021			0	0		Unassigned
-3543	Texas	US	03/25/2021			0	0		Unassigned
-3543	Texas	US	03/26/2021			0	0		Unassigned
-3543	Texas	US	03/27/2021			0	0		Unassigned
-3543	Texas	US	03/28/2021			0	0		Unassigned
-3543	Texas	US	03/29/2021			0	0		Unassigned
-3543	Texas	US	03/30/2021			0	0		Unassigned
-3543	Texas	US	03/31/2021			0	0		Unassigned
-3543	Texas	US	04/01/2021			0	0		Unassigned
-3545	Texas	US	04/02/2021			0	0		Unassigned
-3545	Texas	US	04/03/2021			0	0		Unassigned
-3545	Texas	US	04/04/2021			0	0		Unassigned
-3545	Texas	US	04/05/2021			0	0		Unassigned
-3545	Texas	US	04/06/2021			0	0		Unassigned
-3545	Texas	US	04/07/2021			0	0		Unassigned
-3545	Texas	US	04/08/2021			0	0		Unassigned
-3545	Texas	US	04/09/2021			0	0		Unassigned
-3545	Texas	US	04/10/2021			0	0		Unassigned
-3545	Texas	US	04/11/2021			0	0		Unassigned
-3545	Texas	US	04/12/2021			0	0		Unassigned
-3545	Texas	US	04/13/2021			0	0		Unassigned
-3545	Texas	US	04/14/2021			0	0		Unassigned
-3545	Texas	US	04/15/2021			0	0		Unassigned
-3545	Texas	US	04/16/2021			0	0		Unassigned
-3545	Texas	US	04/17/2021			0	0		Unassigned
-3545	Texas	US	04/18/2021			0	0		Unassigned
-3545	Texas	US	04/19/2021			0	0		Unassigned
-3545	Texas	US	04/20/2021			0	0		Unassigned
-3545	Texas	US	04/21/2021			0	0		Unassigned
-3545	Texas	US	04/22/2021			0	0		Unassigned
-3545	Texas	US	04/23/2021			0	0		Unassigned
-3545	Texas	US	04/24/2021			0	0		Unassigned
-3545	Texas	US	04/25/2021			0	0		Unassigned
-3545	Texas	US	04/26/2021			0	0		Unassigned
-3545	Texas	US	04/27/2021			0	0		Unassigned
-3545	Texas	US	04/28/2021			0	0		Unassigned
-3545	Texas	US	04/29/2021			0	0		Unassigned
-3545	Texas	US	04/30/2021			0	0		Unassigned
-3545	Texas	US	05/01/2021			0	0		Unassigned
-3545	Texas	US	05/02/2021			0	0		Unassigned
-3545	Texas	US	05/03/2021			0	0		Unassigned
-3545	Texas	US	05/04/2021			0	0		Unassigned
-3545	Texas	US	05/05/2021			0	0		Unassigned
-3545	Texas	US	05/06/2021			0	0		Unassigned
-3545	Texas	US	05/07/2021			0	0		Unassigned
-3545	Texas	US	05/08/2021			0	0		Unassigned
-3545	Texas	US	05/09/2021			0	0		Unassigned
-3545	Texas	US	05/10/2021			0	0		Unassigned
-3545	Texas	US	05/11/2021			0	0		Unassigned
-3545	Texas	US	05/12/2021			0	0		Unassigned
-3545	Texas	US	05/13/2021			0	0		Unassigned
-3545	Texas	US	05/14/2021			0	0		Unassigned
-3545	Texas	US	05/15/2021			0	0		Unassigned
-3545	Texas	US	05/16/2021			0	0		Unassigned
-3545	Texas	US	05/17/2021			0	0		Unassigned
-3545	Texas	US	05/18/2021			0	0		Unassigned
-3545	Texas	US	05/19/2021			0	0		Unassigned
-3545	Texas	US	05/20/2021			0	0		Unassigned
-3545	Texas	US	05/21/2021			0	0		Unassigned
-3545	Texas	US	05/22/2021			0	0		Unassigned
-3545	Texas	US	05/23/2021			0	0		Unassigned
-3545	Texas	US	05/24/2021			0	0		Unassigned
-3545	Texas	US	05/25/2021			0	0		Unassigned
-3545	Texas	US	05/26/2021			0	0		Unassigned
-3546	Texas	US	05/27/2021			0	0		Unassigned
-3546	Texas	US	05/28/2021			0	0		Unassigned
-3546	Texas	US	05/29/2021			0	0		Unassigned
-3546	Texas	US	05/30/2021			0	0		Unassigned
-3546	Texas	US	05/31/2021			0	0		Unassigned
-3546	Texas	US	06/01/2021			0	0		Unassigned
-3546	Texas	US	06/02/2021			0	0		Unassigned
-3546	Texas	US	06/03/2021			0	0		Unassigned
-3546	Texas	US	06/04/2021			0	0		Unassigned
-3546	Texas	US	06/05/2021			0	0		Unassigned
-3546	Texas	US	06/06/2021			0	0		Unassigned
-3546	Texas	US	06/07/2021			0	0		Unassigned
-3546	Texas	US	06/08/2021			0	0		Unassigned
-3546	Texas	US	06/09/2021			0	0		Unassigned
-3546	Texas	US	06/10/2021			0	0		Unassigned
-3546	Texas	US	06/11/2021			0	0		Unassigned
-3546	Texas	US	06/12/2021			0	0		Unassigned
-3546	Texas	US	06/13/2021			0	0		Unassigned
-3546	Texas	US	06/14/2021			0	0		Unassigned
-3546	Texas	US	06/15/2021			0	0		Unassigned
-3546	Texas	US	06/16/2021			0	0		Unassigned
-3548	Texas	US	06/17/2021			0	0		Unassigned
-3548	Texas	US	06/18/2021			0	0		Unassigned
-3548	Texas	US	06/19/2021			0	0		Unassigned
-3548	Texas	US	06/20/2021			0	0		Unassigned
-3548	Texas	US	06/21/2021			0	0		Unassigned
-3548	Texas	US	06/22/2021			0	0		Unassigned
-3548	Texas	US	06/23/2021			0	0		Unassigned
-3549	Texas	US	06/24/2021			0	0		Unassigned
-3549	Texas	US	06/25/2021			0	0		Unassigned
-3549	Texas	US	06/26/2021			0	0		Unassigned
-3549	Texas	US	06/27/2021			0	0		Unassigned
-3549	Texas	US	06/28/2021			0	0		Unassigned
-3549	Texas	US	06/29/2021			0	0		Unassigned
-3549	Texas	US	06/30/2021			0	0		Unassigned
-3549	Texas	US	07/01/2021			0	0		Unassigned
-3549	Texas	US	07/02/2021			0	0		Unassigned
-3549	Texas	US	07/03/2021			0	0		Unassigned
-3549	Texas	US	07/04/2021			0	0		Unassigned
-3549	Texas	US	07/05/2021			0	0		Unassigned
-3549	Texas	US	07/06/2021			0	0		Unassigned
-3549	Texas	US	07/07/2021			0	0		Unassigned
-3549	Texas	US	07/08/2021			0	0		Unassigned
-3549	Texas	US	07/09/2021			0	0		Unassigned
-3549	Texas	US	07/10/2021			0	0		Unassigned
-3549	Texas	US	07/11/2021			0	0		Unassigned
-3549	Texas	US	07/12/2021			0	0		Unassigned
-3549	Texas	US	07/13/2021			0	0		Unassigned
-3549	Texas	US	07/14/2021			0	0		Unassigned
-3549	Texas	US	07/15/2021			0	0		Unassigned
-3549	Texas	US	07/16/2021			0	0		Unassigned
-3549	Texas	US	07/17/2021			0	0		Unassigned
-3549	Texas	US	07/18/2021			0	0		Unassigned
-3549	Texas	US	07/19/2021			0	0		Unassigned
-3549	Texas	US	07/20/2021			0	0		Unassigned
-3549	Texas	US	07/21/2021			0	0		Unassigned
-3549	Texas	US	07/22/2021			0	0		Unassigned
-3549	Texas	US	07/23/2021			0	0		Unassigned
-3549	Texas	US	07/24/2021			0	0		Unassigned
-3549	Texas	US	07/25/2021			0	0		Unassigned
-3549	Texas	US	07/26/2021			0	0		Unassigned
-3549	Texas	US	07/27/2021			0	0		Unassigned
-3549	Texas	US	07/28/2021			0	0		Unassigned
-3549	Texas	US	07/29/2021			0	0		Unassigned
-3549	Texas	US	07/30/2021			0	0		Unassigned
-3549	Texas	US	07/31/2021			0	0		Unassigned
-3549	Texas	US	08/01/2021			0	0		Unassigned
-3549	Texas	US	08/02/2021			0	0		Unassigned
-3549	Texas	US	08/03/2021			0	0		Unassigned
-3549	Texas	US	08/04/2021			0	0		Unassigned
-3549	Texas	US	08/05/2021			0	0		Unassigned
-3549	Texas	US	08/06/2021			0	0		Unassigned
-3549	Texas	US	08/07/2021			0	0		Unassigned
-3549	Texas	US	08/08/2021			0	0		Unassigned
-3549	Texas	US	08/09/2021			0	0		Unassigned
-3549	Texas	US	08/10/2021			0	0		Unassigned
-3549	Texas	US	08/11/2021			0	0		Unassigned
-3549	Texas	US	08/12/2021			0	0		Unassigned
-3549	Texas	US	08/13/2021			0	0		Unassigned
-3549	Texas	US	08/14/2021			0	0		Unassigned
-3549	Texas	US	08/15/2021			0	0		Unassigned
-3549	Texas	US	08/16/2021			0	0		Unassigned
-3549	Texas	US	08/17/2021			0	0		Unassigned
-3549	Texas	US	08/18/2021			0	0		Unassigned
-3549	Texas	US	08/19/2021			0	0		Unassigned
-3549	Texas	US	08/20/2021			0	0		Unassigned
-3549	Texas	US	08/21/2021			0	0		Unassigned
-3549	Texas	US	08/22/2021			0	0		Unassigned
-3549	Texas	US	08/23/2021			0	0		Unassigned
-3549	Texas	US	08/24/2021			0	0		Unassigned
-3549	Texas	US	08/25/2021			0	0		Unassigned
-3549	Texas	US	08/26/2021			0	0		Unassigned
-3549	Texas	US	08/27/2021			0	0		Unassigned
-3549	Texas	US	08/28/2021			0	0		Unassigned
-3549	Texas	US	08/29/2021			0	0		Unassigned
-3549	Texas	US	08/30/2021			0	0		Unassigned
-3549	Texas	US	08/31/2021			0	0		Unassigned
-3549	Texas	US	09/01/2021			0	0		Unassigned
-3549	Texas	US	09/02/2021			0	0		Unassigned
-3549	Texas	US	09/03/2021			0	0		Unassigned
-3549	Texas	US	09/04/2021			0	0		Unassigned
-3549	Texas	US	09/05/2021			0	0		Unassigned
-3549	Texas	US	09/06/2021			0	0		Unassigned
-3549	Texas	US	09/07/2021			0	0		Unassigned
-3549	Texas	US	09/08/2021			0	0		Unassigned
-3549	Texas	US	09/09/2021			0	0		Unassigned
-3549	Texas	US	09/10/2021			0	0		Unassigned
-3549	Texas	US	09/11/2021			0	0		Unassigned
-3549	Texas	US	09/12/2021			0	0		Unassigned
-3549	Texas	US	09/13/2021			0	0		Unassigned
-3549	Texas	US	09/14/2021			0	0		Unassigned
-3549	Texas	US	09/15/2021			0	0		Unassigned
-3550	Texas	US	09/16/2021			0	0		Unassigned
-3550	Texas	US	09/17/2021			0	0		Unassigned
-3550	Texas	US	09/18/2021			0	0		Unassigned
-3550	Texas	US	09/19/2021			0	0		Unassigned
-3550	Texas	US	09/20/2021			0	0		Unassigned
-3550	Texas	US	09/21/2021			0	0		Unassigned
-3550	Texas	US	09/22/2021			0	0		Unassigned
-3567	Texas	US	09/23/2021			0	0		Unassigned
-3567	Texas	US	09/24/2021			0	0		Unassigned
-3567	Texas	US	09/25/2021			0	0		Unassigned
-3567	Texas	US	09/26/2021			0	0		Unassigned
-3567	Texas	US	09/27/2021			0	0		Unassigned
-3567	Texas	US	09/28/2021			0	0		Unassigned
-3567	Texas	US	09/29/2021			0	0		Unassigned
-3567	Texas	US	09/30/2021			0	0		Unassigned
-3567	Texas	US	10/01/2021			0	0		Unassigned
-3567	Texas	US	10/02/2021			0	0		Unassigned
-3567	Texas	US	10/03/2021			0	0		Unassigned
-3567	Texas	US	10/04/2021			0	0		Unassigned
-3567	Texas	US	10/05/2021			0	0		Unassigned
-3568	Texas	US	10/06/2021			0	0		Unassigned
-3568	Texas	US	10/07/2021			0	0		Unassigned
-3568	Texas	US	10/08/2021			0	0		Unassigned
-3568	Texas	US	10/09/2021			0	0		Unassigned
-3568	Texas	US	10/10/2021			0	0		Unassigned
-3568	Texas	US	10/11/2021			0	0		Unassigned
-3568	Texas	US	10/12/2021			0	0		Unassigned
-3568	Texas	US	10/13/2021			0	0		Unassigned
-3568	Texas	US	10/14/2021			0	0		Unassigned
-3568	Texas	US	10/15/2021			0	0		Unassigned
-3568	Texas	US	10/16/2021			0	0		Unassigned
-3568	Texas	US	10/17/2021			0	0		Unassigned
-3568	Texas	US	10/18/2021			0	0		Unassigned
-3568	Texas	US	10/19/2021			0	0		Unassigned
-3568	Texas	US	10/20/2021			0	0		Unassigned
-3568	Texas	US	10/21/2021			0	0		Unassigned
-3568	Texas	US	10/22/2021			0	0		Unassigned
-3568	Texas	US	10/23/2021			0	0		Unassigned
-3568	Texas	US	10/24/2021			0	0		Unassigned
-3568	Texas	US	10/25/2021			0	0		Unassigned
-3568	Texas	US	10/26/2021			0	0		Unassigned
-3568	Texas	US	10/27/2021			0	0		Unassigned
-3568	Texas	US	10/28/2021			0	0		Unassigned
-3568	Texas	US	10/29/2021			0	0		Unassigned
-3568	Texas	US	10/30/2021			0	0		Unassigned
-3568	Texas	US	10/31/2021			0	0		Unassigned
-3569	Texas	US	11/01/2021			0	0		Unassigned
-3569	Texas	US	11/02/2021			0	0		Unassigned
-3569	Texas	US	11/03/2021			0	0		Unassigned
-3569	Texas	US	11/04/2021			0	0		Unassigned
-3569	Texas	US	11/05/2021			0	0		Unassigned
-3569	Texas	US	11/06/2021			0	0		Unassigned
-3569	Texas	US	11/07/2021			0	0		Unassigned
-3569	Texas	US	11/08/2021			0	0		Unassigned
-3569	Texas	US	11/09/2021			0	0		Unassigned
-3569	Texas	US	11/10/2021			0	0		Unassigned
-3569	Texas	US	11/11/2021			0	0		Unassigned
-3569	Texas	US	11/12/2021			0	0		Unassigned
-3569	Texas	US	11/13/2021			0	0		Unassigned
-3569	Texas	US	11/14/2021			0	0		Unassigned
-3569	Texas	US	11/15/2021			0	0		Unassigned
-3569	Texas	US	11/16/2021			0	0		Unassigned
-3569	Texas	US	11/17/2021			0	0		Unassigned
-3569	Texas	US	11/18/2021			0	0		Unassigned
-3569	Texas	US	11/19/2021			0	0		Unassigned
-3569	Texas	US	11/20/2021			0	0		Unassigned
-3569	Texas	US	11/21/2021			0	0		Unassigned
-3569	Texas	US	11/22/2021			0	0		Unassigned
-3569	Texas	US	11/23/2021			0	0		Unassigned
-3569	Texas	US	11/24/2021			0	0		Unassigned
-3569	Texas	US	11/25/2021			0	0		Unassigned
-3569	Texas	US	11/26/2021			0	0		Unassigned
-3569	Texas	US	11/27/2021			0	0		Unassigned
-3569	Texas	US	11/28/2021			0	0		Unassigned
-3569	Texas	US	11/29/2021			0	0		Unassigned
-3569	Texas	US	11/30/2021			0	0		Unassigned
-3569	Texas	US	12/01/2021			0	0		Unassigned
-3569	Texas	US	12/02/2021			0	0		Unassigned
-3569	Texas	US	12/03/2021			0	0		Unassigned
-3569	Texas	US	12/04/2021			0	0		Unassigned
-3569	Texas	US	12/05/2021			0	0		Unassigned
-3569	Texas	US	12/06/2021			0	0		Unassigned
-3569	Texas	US	12/07/2021			0	0		Unassigned
-3569	Texas	US	12/08/2021			0	0		Unassigned
-3569	Texas	US	12/09/2021			0	0		Unassigned
-3569	Texas	US	12/10/2021			0	0		Unassigned
-3569	Texas	US	12/11/2021			0	0		Unassigned
-3569	Texas	US	12/12/2021			0	0		Unassigned
-3569	Texas	US	12/13/2021			0	0		Unassigned
-3569	Texas	US	12/14/2021			0	0		Unassigned
-3569	Texas	US	12/15/2021			0	0		Unassigned
-3569	Texas	US	12/16/2021			0	0		Unassigned
-3569	Texas	US	12/17/2021			0	0		Unassigned
-3569	Texas	US	12/18/2021			0	0		Unassigned
-3569	Texas	US	12/19/2021			0	0		Unassigned
-3569	Texas	US	12/20/2021			0	0		Unassigned
-3569	Texas	US	12/21/2021			0	0		Unassigned
-3569	Texas	US	12/22/2021			0	0		Unassigned
-3569	Texas	US	12/23/2021			0	0		Unassigned
-3569	Texas	US	12/24/2021			0	0		Unassigned
-3569	Texas	US	12/25/2021			0	0		Unassigned
-3569	Texas	US	12/26/2021			0	0		Unassigned
-3569	Texas	US	12/27/2021			0	0		Unassigned
-3569	Texas	US	12/28/2021			0	0		Unassigned
-3569	Texas	US	12/29/2021			0	0		Unassigned
-3569	Texas	US	12/30/2021			0	0		Unassigned
-3569	Texas	US	12/31/2021			0	0		Unassigned
-3569	Texas	US	01/01/2022			0	0		Unassigned
-3569	Texas	US	01/02/2022			0	0		Unassigned
-3569	Texas	US	01/03/2022			0	0		Unassigned
-3569	Texas	US	01/04/2022			0	0		Unassigned
-3569	Texas	US	01/05/2022			0	0		Unassigned
-3569	Texas	US	01/06/2022			0	0		Unassigned
-3569	Texas	US	01/07/2022			0	0		Unassigned
-3569	Texas	US	01/08/2022			0	0		Unassigned
-3569	Texas	US	01/09/2022			0	0		Unassigned
-3569	Texas	US	01/10/2022			0	0		Unassigned
-3569	Texas	US	01/11/2022			0	0		Unassigned
-3569	Texas	US	01/12/2022			0	0		Unassigned
-3569	Texas	US	01/13/2022			0	0		Unassigned
-3569	Texas	US	01/14/2022			0	0		Unassigned
-3569	Texas	US	01/15/2022			0	0		Unassigned
-3569	Texas	US	01/16/2022			0	0		Unassigned
+2578	Texas	US	04/23/2020			53	0	0	Unassigned
+2584	Texas	US	04/24/2020			54	0	0	Unassigned
+2589	Texas	US	04/25/2020			57	0	0	Unassigned
+2597	Texas	US	04/26/2020			57	0	0	Unassigned
+2604	Texas	US	04/27/2020			66	0	0	Unassigned
+2613	Texas	US	04/28/2020			68	0	0	Unassigned
+2618	Texas	US	04/29/2020			70	0	0	Unassigned
+2624	Texas	US	04/30/2020			74	0	0	Unassigned
+2634	Texas	US	05/01/2020			83	0	0	Unassigned
+2638	Texas	US	05/02/2020			85	0	0	Unassigned
+2643	Texas	US	05/03/2020			85	0	0	Unassigned
+2646	Texas	US	05/04/2020			86	0	0	Unassigned
+2654	Texas	US	05/05/2020			86	0	0	Unassigned
+2660	Texas	US	05/06/2020			88	0	0	Unassigned
+2667	Texas	US	05/07/2020			91	0	0	Unassigned
+2674	Texas	US	05/08/2020			94	0	0	Unassigned
+2676	Texas	US	05/09/2020			100	0	0	Unassigned
+2678	Texas	US	05/10/2020			103	0	0	Unassigned
+2678	Texas	US	05/11/2020			105	0	0	Unassigned
+2681	Texas	US	05/12/2020			108	0	0	Unassigned
+2682	Texas	US	05/13/2020			113	0	0	Unassigned
+2684	Texas	US	05/14/2020			116	0	0	Unassigned
+2689	Texas	US	05/15/2020			116	0	0	Unassigned
+2693	Texas	US	05/16/2020			120	0	0	Unassigned
+2696	Texas	US	05/17/2020			124	0	0	Unassigned
+2698	Texas	US	05/18/2020			144	0	0	Unassigned
+2702	Texas	US	05/19/2020			145	0	0	Unassigned
+2708	Texas	US	05/20/2020			146	0	0	Unassigned
+2710	Texas	US	05/21/2020			147	0	0	Unassigned
+2717	Texas	US	05/22/2020			148	0	0	Unassigned
+2719	Texas	US	05/23/2020			150	0	0	Unassigned
+2722	Texas	US	05/24/2020			152	0	0	Unassigned
+2723	Texas	US	05/25/2020			154	0	0	Unassigned
+2724	Texas	US	05/26/2020			159	0	0	Unassigned
+2727	Texas	US	05/27/2020			161	0	0	Unassigned
+2730	Texas	US	05/28/2020			165	0	0	Unassigned
+2733	Texas	US	05/29/2020			171	0	0	Unassigned
+2735	Texas	US	05/30/2020			171	0	0	Unassigned
+2736	Texas	US	05/31/2020			172	0	0	Unassigned
+2738	Texas	US	06/01/2020			173	0	0	Unassigned
+2743	Texas	US	06/02/2020			177	0	0	Unassigned
+2745	Texas	US	06/03/2020			181	0	0	Unassigned
+2746	Texas	US	06/04/2020			228	0	0	Unassigned
+2750	Texas	US	06/05/2020			240	0	0	Unassigned
+2752	Texas	US	06/06/2020			246	0	0	Unassigned
+2752	Texas	US	06/07/2020			248	0	0	Unassigned
+2752	Texas	US	06/08/2020			252	0	0	Unassigned
+2754	Texas	US	06/09/2020			272	0	0	Unassigned
+2756	Texas	US	06/10/2020			282	0	0	Unassigned
+2758	Texas	US	06/11/2020			289	0	0	Unassigned
+2772	Texas	US	06/12/2020			295	0	0	Unassigned
+2775	Texas	US	06/13/2020			301	0	0	Unassigned
+2775	Texas	US	06/14/2020			310	0	0	Unassigned
+2779	Texas	US	06/15/2020			317	0	0	Unassigned
+2777	Texas	US	06/16/2020			333	0	0	Unassigned
+2779	Texas	US	06/17/2020			362	0	0	Unassigned
+2779	Texas	US	06/18/2020			377	0	0	Unassigned
+2780	Texas	US	06/19/2020			390	0	0	Unassigned
+2784	Texas	US	06/20/2020			413	0	0	Unassigned
+2784	Texas	US	06/21/2020			430	0	0	Unassigned
+2787	Texas	US	06/22/2020			448	0	0	Unassigned
+2792	Texas	US	06/23/2020			478	0	0	Unassigned
+2804	Texas	US	06/24/2020			540	0	0	Unassigned
+2809	Texas	US	06/25/2020			589	0	0	Unassigned
+2810	Texas	US	06/26/2020			679	0	0	Unassigned
+2811	Texas	US	06/27/2020			708	0	0	Unassigned
+2811	Texas	US	06/28/2020			753	0	0	Unassigned
+2813	Texas	US	06/29/2020			816	0	0	Unassigned
+2815	Texas	US	06/30/2020			887	0	0	Unassigned
+2817	Texas	US	07/01/2020			937	0	0	Unassigned
+2820	Texas	US	07/02/2020			988	0	0	Unassigned
+2825	Texas	US	07/03/2020			1039	0	0	Unassigned
+2826	Texas	US	07/04/2020			1061	0	0	Unassigned
+2827	Texas	US	07/05/2020			1125	0	0	Unassigned
+2830	Texas	US	07/06/2020			1204	0	0	Unassigned
+2831	Texas	US	07/07/2020			1274	0	0	Unassigned
+2834	Texas	US	07/08/2020			1323	0	0	Unassigned
+2833	Texas	US	07/09/2020			1389	0	0	Unassigned
+2837	Texas	US	07/10/2020			1488	0	0	Unassigned
+2838	Texas	US	07/11/2020			1536	0	0	Unassigned
+2840	Texas	US	07/12/2020			1599	0	0	Unassigned
+2841	Texas	US	07/13/2020			1650	0	0	Unassigned
+2847	Texas	US	07/14/2020			1719	0	0	Unassigned
+2848	Texas	US	07/15/2020			1814	0	0	Unassigned
+2850	Texas	US	07/16/2020			1873	0	0	Unassigned
+2850	Texas	US	07/17/2020			1922	0	0	Unassigned
+2924	Texas	US	07/18/2020			1999	0	0	Unassigned
+2924	Texas	US	07/19/2020			2036	0	0	Unassigned
+2847	Texas	US	07/20/2020			2100	0	0	Unassigned
+2928	Texas	US	07/21/2020			2176	0	0	Unassigned
+2929	Texas	US	07/22/2020			2234	0	0	Unassigned
+2932	Texas	US	07/23/2020			2287	0	0	Unassigned
+2931	Texas	US	07/24/2020			2353	0	0	Unassigned
+2932	Texas	US	07/25/2020			2397	0	0	Unassigned
+2933	Texas	US	07/26/2020			2435	0	0	Unassigned
+2933	Texas	US	07/27/2020			2496	81	0	Unassigned
+2933	Texas	US	07/28/2020			2571	81	0	Unassigned
+2937	Texas	US	07/29/2020			2654	151	0	Unassigned
+2937	Texas	US	07/30/2020			2726	168	0	Unassigned
+2939	Texas	US	07/31/2020			2817	55	0	Unassigned
+2939	Texas	US	08/01/2020			2857	137	0	Unassigned
+2939	Texas	US	08/02/2020			2913	113	0	Unassigned
+2939	Texas	US	08/03/2020			3236	132	0	Unassigned
+2939	Texas	US	08/04/2020			3387	181	0	Unassigned
+3936	Texas	US	08/05/2020			3422	239	0	Unassigned
+3936	Texas	US	08/06/2020			3495	239	0	Unassigned
+3936	Texas	US	08/07/2020			3561	239	0	Unassigned
+3936	Texas	US	08/08/2020			3714	239	0	Unassigned
+3936	Texas	US	08/09/2020			3783	239	0	Unassigned
+3936	Texas	US	08/10/2020			3855	239	0	Unassigned
+3554	Texas	US	08/11/2020			3925	0	0	Unassigned
+3508	Texas	US	08/12/2020			4016	0	0	Unassigned
+3510	Texas	US	08/13/2020			4053	0	0	Unassigned
+3510	Texas	US	08/14/2020			4121	0	0	Unassigned
+3510	Texas	US	08/15/2020			4157	0	0	Unassigned
+3510	Texas	US	08/16/2020			4178	0	0	Unassigned
+3512	Texas	US	08/17/2020			4239	0	0	Unassigned
+3512	Texas	US	08/18/2020			4292	0	0	Unassigned
+3514	Texas	US	08/19/2020			4348	0	0	Unassigned
+3514	Texas	US	08/20/2020			4381	0	0	Unassigned
+3514	Texas	US	08/21/2020			4416	0	0	Unassigned
+3515	Texas	US	08/22/2020			4438	0	0	Unassigned
+3515	Texas	US	08/23/2020			4452	0	0	Unassigned
+3515	Texas	US	08/24/2020			4471	0	0	Unassigned
+3515	Texas	US	08/25/2020			4557	0	0	Unassigned
+3515	Texas	US	08/26/2020			4604	0	0	Unassigned
+3515	Texas	US	08/27/2020			4672	0	0	Unassigned
+3515	Texas	US	08/28/2020			4743	0	0	Unassigned
+3515	Texas	US	08/29/2020			4770	0	0	Unassigned
+3515	Texas	US	08/30/2020			4787	0	0	Unassigned
+3519	Texas	US	08/31/2020			4821	0	0	Unassigned
+3519	Texas	US	09/01/2020			4863	0	0	Unassigned
+3519	Texas	US	09/02/2020			4893	0	0	Unassigned
+3519	Texas	US	09/03/2020			4987	0	0	Unassigned
+3519	Texas	US	09/04/2020			5025	0	0	Unassigned
+3519	Texas	US	09/05/2020			5062	0	0	Unassigned
+3519	Texas	US	09/06/2020			5071	0	0	Unassigned
+3519	Texas	US	09/07/2020			5083	0	0	Unassigned
+3519	Texas	US	09/08/2020			5116	0	0	Unassigned
+3519	Texas	US	09/09/2020			5156	0	0	Unassigned
+3519	Texas	US	09/10/2020			5199	0	0	Unassigned
+3519	Texas	US	09/11/2020			5212	0	0	Unassigned
+3519	Texas	US	09/12/2020			5252	0	0	Unassigned
+3519	Texas	US	09/13/2020			5300	0	0	Unassigned
+3519	Texas	US	09/14/2020			5338	0	0	Unassigned
+3519	Texas	US	09/15/2020			5361	0	0	Unassigned
+3519	Texas	US	09/16/2020			5407	0	0	Unassigned
+3519	Texas	US	09/17/2020			5446	0	0	Unassigned
+3519	Texas	US	09/18/2020			5479	0	0	Unassigned
+3519	Texas	US	09/19/2020			5503	0	0	Unassigned
+3519	Texas	US	09/20/2020			5521	0	0	Unassigned
+3521	Texas	US	09/21/2020			5543	0	0	Unassigned
+3521	Texas	US	09/22/2020			5570	0	0	Unassigned
+3521	Texas	US	09/23/2020			5600	0	0	Unassigned
+3521	Texas	US	09/24/2020			5642	0	0	Unassigned
+3521	Texas	US	09/25/2020			5673	0	0	Unassigned
+3521	Texas	US	09/26/2020			5684	0	0	Unassigned
+3521	Texas	US	09/27/2020			5696	0	0	Unassigned
+3521	Texas	US	09/28/2020			5745	0	0	Unassigned
+3521	Texas	US	09/29/2020			5778	0	0	Unassigned
+3521	Texas	US	09/30/2020			5804	0	0	Unassigned
+3521	Texas	US	10/01/2020			5832	0	0	Unassigned
+3521	Texas	US	10/02/2020			5874	0	0	Unassigned
+3521	Texas	US	10/03/2020			5901	0	0	Unassigned
+3521	Texas	US	10/04/2020			5912	0	0	Unassigned
+3521	Texas	US	10/05/2020			5938	0	0	Unassigned
+3521	Texas	US	10/06/2020			5974	0	0	Unassigned
+3521	Texas	US	10/07/2020			6002	0	0	Unassigned
+3521	Texas	US	10/08/2020			6049	0	0	Unassigned
+3521	Texas	US	10/09/2020			6077	0	0	Unassigned
+3521	Texas	US	10/10/2020			6090	0	0	Unassigned
+3521	Texas	US	10/11/2020			6101	0	0	Unassigned
+3522	Texas	US	10/12/2020			6135	0	0	Unassigned
+3522	Texas	US	10/13/2020			6172	0	0	Unassigned
+3522	Texas	US	10/14/2020			6221	0	0	Unassigned
+3522	Texas	US	10/15/2020			6270	0	0	Unassigned
+3523	Texas	US	10/16/2020			6295	0	0	Unassigned
+3523	Texas	US	10/17/2020			6314	0	0	Unassigned
+3523	Texas	US	10/18/2020			6361	0	0	Unassigned
+3524	Texas	US	10/19/2020			6393	0	0	Unassigned
+3524	Texas	US	10/20/2020			6420	0	0	Unassigned
+3524	Texas	US	10/21/2020			6447	0	0	Unassigned
+3524	Texas	US	10/22/2020			6499	0	0	Unassigned
+3524	Texas	US	10/23/2020			6537	0	0	Unassigned
+3524	Texas	US	10/24/2020			6564	0	0	Unassigned
+3524	Texas	US	10/25/2020			6582	0	0	Unassigned
+3524	Texas	US	10/26/2020			6636	0	0	Unassigned
+3524	Texas	US	10/27/2020			6690	0	0	Unassigned
+3525	Texas	US	10/28/2020			6870	0.0	0	Unassigned
+3525	Texas	US	10/29/2020			7028	0	0	Unassigned
+3525	Texas	US	10/30/2020			7097	0	0	Unassigned
+3525	Texas	US	10/31/2020			7135	0	0	Unassigned
+3525	Texas	US	11/01/2020			7177	0	0	Unassigned
+3525	Texas	US	11/02/2020			7262	0	0	Unassigned
+3525	Texas	US	11/03/2020			7312	0	0	Unassigned
+3526	Texas	US	11/04/2020			7386	0	0	Unassigned
+3526	Texas	US	11/05/2020			7452	0	0	Unassigned
+3526	Texas	US	11/06/2020			7512	0	0	Unassigned
+3526	Texas	US	11/07/2020			7575	0	0	Unassigned
+3526	Texas	US	11/08/2020			7642	0	0	Unassigned
+3526	Texas	US	11/09/2020			7717	0	0.0	Unassigned
+3526	Texas	US	11/10/2020			7800	0	0.0	Unassigned
+3526	Texas	US	11/11/2020			7942	0	0.0	Unassigned
+3538	Texas	US	11/12/2020			8035	0	0	Unassigned
+3538	Texas	US	11/13/2020			8118	0	0	Unassigned
+3538	Texas	US	11/14/2020			8174	0	0	Unassigned
+3538	Texas	US	11/15/2020			8202	0	0	Unassigned
+3538	Texas	US	11/16/2020			8259	0	0	Unassigned
+3538	Texas	US	11/17/2020			8362	0	0	Unassigned
+3538	Texas	US	11/18/2020			8467	0	0	Unassigned
+3538	Texas	US	11/19/2020			8565	0	0	Unassigned
+3538	Texas	US	11/20/2020			8675	0	0	Unassigned
+3538	Texas	US	11/21/2020			8743	0	0	Unassigned
+3538	Texas	US	11/22/2020			8786	0	0	Unassigned
+3538	Texas	US	11/23/2020			8898	0	0	Unassigned
+3539	Texas	US	11/24/2020			9053	0	0	Unassigned
+3539	Texas	US	11/25/2020			9232	0	0	Unassigned
+3539	Texas	US	11/26/2020			9302	0	0	Unassigned
+3539	Texas	US	11/27/2020			9434	0	0	Unassigned
+3539	Texas	US	11/28/2020			9551	0	0	Unassigned
+3539	Texas	US	11/29/2020			9631	0	0	Unassigned
+3539	Texas	US	11/30/2020			9699	0	0	Unassigned
+3539	Texas	US	12/01/2020			9812	0	0	Unassigned
+3539	Texas	US	12/02/2020			9914	0	0	Unassigned
+3539	Texas	US	12/03/2020			10001	0	0	Unassigned
+3539	Texas	US	12/04/2020			10102	0	0	Unassigned
+3539	Texas	US	12/05/2020			10183	0	0	Unassigned
+3539	Texas	US	12/06/2020			10250	0	0	Unassigned
+3539	Texas	US	12/07/2020			10306	0	0	Unassigned
+3539	Texas	US	12/08/2020			10401	0	0	Unassigned
+3539	Texas	US	12/09/2020			10507	0	0	Unassigned
+3539	Texas	US	12/10/2020			10577	0	0	Unassigned
+3539	Texas	US	12/11/2020			10688	0	0	Unassigned
+3539	Texas	US	12/12/2020			10769	0	0	Unassigned
+3539	Texas	US	12/13/2020			10930	0	0	Unassigned
+3539	Texas	US	12/14/2020			11131	0	0	Unassigned
+3539	Texas	US	12/15/2020			11269	0	0	Unassigned
+3539	Texas	US	12/16/2020			11466	0	0	Unassigned
+3539	Texas	US	12/17/2020			11599	0	0	Unassigned
+3539	Texas	US	12/18/2020			11744	0	0	Unassigned
+3539	Texas	US	12/19/2020			11849	0	0	Unassigned
+3539	Texas	US	12/20/2020			11953	0	0	Unassigned
+3539	Texas	US	12/21/2020			12081	0	0	Unassigned
+3539	Texas	US	12/22/2020			12194	0	0	Unassigned
+3539	Texas	US	12/23/2020			12314	0	0	Unassigned
+3539	Texas	US	12/24/2020			12431	0	0	Unassigned
+3539	Texas	US	12/25/2020			12537	0	0	Unassigned
+3539	Texas	US	12/26/2020			12613	0	0	Unassigned
+3539	Texas	US	12/27/2020			12643	0	0	Unassigned
+3539	Texas	US	12/28/2020			12698	0	0	Unassigned
+3539	Texas	US	12/29/2020			12842	0	0	Unassigned
+3539	Texas	US	12/30/2020			12943	0	0	Unassigned
+3539	Texas	US	12/31/2020			13550	0	0	Unassigned
+3539	Texas	US	01/01/2021			13550	0	0	Unassigned
+3539	Texas	US	01/02/2021			13550	0	0	Unassigned
+3540	Texas	US	01/03/2021			13550	0	0	Unassigned
+3540	Texas	US	01/04/2021			13550	0	0	Unassigned
+3540	Texas	US	01/05/2021			13550	0	0	Unassigned
+3540	Texas	US	01/06/2021			13550	0	0	Unassigned
+3540	Texas	US	01/07/2021			13550	0	0	Unassigned
+3540	Texas	US	01/08/2021			13550	0	0	Unassigned
+3540	Texas	US	01/09/2021			13550	0	0	Unassigned
+3540	Texas	US	01/10/2021			13550	0	0	Unassigned
+3540	Texas	US	01/11/2021			13550	0	0	Unassigned
+3540	Texas	US	01/12/2021			13550	0	0	Unassigned
+3540	Texas	US	01/13/2021			13550	0	0	Unassigned
+3540	Texas	US	01/14/2021			13550	0	0	Unassigned
+3541	Texas	US	01/15/2021			13550	0	0	Unassigned
+3541	Texas	US	01/16/2021			13550	0	0	Unassigned
+3541	Texas	US	01/17/2021			13550	0	0	Unassigned
+3541	Texas	US	01/18/2021			13550	0	0	Unassigned
+3541	Texas	US	01/19/2021			13550	0	0	Unassigned
+3541	Texas	US	01/20/2021			13550	0	0	Unassigned
+3542	Texas	US	01/21/2021			13550	0	0	Unassigned
+3542	Texas	US	01/22/2021			13550	0	0	Unassigned
+3542	Texas	US	01/23/2021			13550	0	0	Unassigned
+3542	Texas	US	01/24/2021			13550	0	0	Unassigned
+3542	Texas	US	01/25/2021			13550	0	0	Unassigned
+3542	Texas	US	01/26/2021			13550	0	0	Unassigned
+3542	Texas	US	01/27/2021			13550	0	0	Unassigned
+3542	Texas	US	01/28/2021			13550	0	0	Unassigned
+3542	Texas	US	01/29/2021			13550	0	0	Unassigned
+3542	Texas	US	01/30/2021			13550	0	0	Unassigned
+3542	Texas	US	01/31/2021			13550	0	0	Unassigned
+3542	Texas	US	02/01/2021			13550	0	0	Unassigned
+3542	Texas	US	02/02/2021			13550	0	0	Unassigned
+3542	Texas	US	02/03/2021			13550	0	0	Unassigned
+3542	Texas	US	02/04/2021			13550	0	0	Unassigned
+3542	Texas	US	02/05/2021			13550	0	0	Unassigned
+3542	Texas	US	02/06/2021			13550	0	0	Unassigned
+3542	Texas	US	02/07/2021			13550	0	0	Unassigned
+3542	Texas	US	02/08/2021			13550	0	0	Unassigned
+3542	Texas	US	02/09/2021			13550	0	0	Unassigned
+3542	Texas	US	02/10/2021			13550	0	0	Unassigned
+3542	Texas	US	02/11/2021			13550	0	0	Unassigned
+3542	Texas	US	02/12/2021			13550	0	0	Unassigned
+3542	Texas	US	02/13/2021			13550	0	0	Unassigned
+3542	Texas	US	02/14/2021			13550	0	0	Unassigned
+3542	Texas	US	02/15/2021			13550	0	0	Unassigned
+3542	Texas	US	02/16/2021			13550	0	0	Unassigned
+3542	Texas	US	02/17/2021			13550	0	0	Unassigned
+3542	Texas	US	02/18/2021			13550	0	0	Unassigned
+3543	Texas	US	02/19/2021			13550	0	0	Unassigned
+3543	Texas	US	02/20/2021			13550	0	0	Unassigned
+3543	Texas	US	02/21/2021			13550	0	0	Unassigned
+3543	Texas	US	02/22/2021			13550	0	0	Unassigned
+3543	Texas	US	02/23/2021			13550	0	0	Unassigned
+3543	Texas	US	02/24/2021			13550	0	0	Unassigned
+3543	Texas	US	02/25/2021			13550	0	0	Unassigned
+3543	Texas	US	02/26/2021			13550	0	0	Unassigned
+3543	Texas	US	02/27/2021			13550	0	0	Unassigned
+3543	Texas	US	02/28/2021			13550	0	0	Unassigned
+3543	Texas	US	03/01/2021			13550	0	0	Unassigned
+3543	Texas	US	03/02/2021			13550	0	0	Unassigned
+3543	Texas	US	03/03/2021			13550	0	0	Unassigned
+3543	Texas	US	03/04/2021			13550	0	0	Unassigned
+3543	Texas	US	03/05/2021			13550	0	0	Unassigned
+3543	Texas	US	03/06/2021			13550	0	0	Unassigned
+3543	Texas	US	03/07/2021			13550	0		Unassigned
+3543	Texas	US	03/08/2021			13550	0		Unassigned
+3543	Texas	US	03/09/2021			13550	0		Unassigned
+3543	Texas	US	03/10/2021			13550	0		Unassigned
+3543	Texas	US	03/11/2021			13550	0		Unassigned
+3543	Texas	US	03/12/2021			13550	0		Unassigned
+3543	Texas	US	03/13/2021			13550	0		Unassigned
+3543	Texas	US	03/14/2021			13550	0		Unassigned
+3543	Texas	US	03/15/2021			13550	0		Unassigned
+3543	Texas	US	03/16/2021			13550	0		Unassigned
+3543	Texas	US	03/17/2021			13550	0		Unassigned
+3543	Texas	US	03/18/2021			13550	0		Unassigned
+3543	Texas	US	03/19/2021			13550	0		Unassigned
+3543	Texas	US	03/20/2021			13550	0		Unassigned
+3543	Texas	US	03/21/2021			13550	0		Unassigned
+3543	Texas	US	03/22/2021			13550	0		Unassigned
+3543	Texas	US	03/23/2021			13550	0		Unassigned
+3543	Texas	US	03/24/2021			13550	0		Unassigned
+3543	Texas	US	03/25/2021			13550	0		Unassigned
+3543	Texas	US	03/26/2021			13550	0		Unassigned
+3543	Texas	US	03/27/2021			13550	0		Unassigned
+3543	Texas	US	03/28/2021			13550	0		Unassigned
+3543	Texas	US	03/29/2021			13550	0		Unassigned
+3543	Texas	US	03/30/2021			13550	0		Unassigned
+3543	Texas	US	03/31/2021			13550	0		Unassigned
+3543	Texas	US	04/01/2021			13550	0		Unassigned
+3545	Texas	US	04/02/2021			13550	0		Unassigned
+3545	Texas	US	04/03/2021			13550	0		Unassigned
+3545	Texas	US	04/04/2021			13550	0		Unassigned
+3545	Texas	US	04/05/2021			13550	0		Unassigned
+3545	Texas	US	04/06/2021			13550	0		Unassigned
+3545	Texas	US	04/07/2021			13550	0		Unassigned
+3545	Texas	US	04/08/2021			13550	0		Unassigned
+3545	Texas	US	04/09/2021			13550	0		Unassigned
+3545	Texas	US	04/10/2021			13550	0		Unassigned
+3545	Texas	US	04/11/2021			13550	0		Unassigned
+3545	Texas	US	04/12/2021			13550	0		Unassigned
+3545	Texas	US	04/13/2021			13550	0		Unassigned
+3545	Texas	US	04/14/2021			13550	0		Unassigned
+3545	Texas	US	04/15/2021			13550	0		Unassigned
+3545	Texas	US	04/16/2021			13550	0		Unassigned
+3545	Texas	US	04/17/2021			13550	0		Unassigned
+3545	Texas	US	04/18/2021			13550	0		Unassigned
+3545	Texas	US	04/19/2021			13550	0		Unassigned
+3545	Texas	US	04/20/2021			13550	0		Unassigned
+3545	Texas	US	04/21/2021			13550	0		Unassigned
+3545	Texas	US	04/22/2021			13550	0		Unassigned
+3545	Texas	US	04/23/2021			13550	0		Unassigned
+3545	Texas	US	04/24/2021			13550	0		Unassigned
+3545	Texas	US	04/25/2021			13550	0		Unassigned
+3545	Texas	US	04/26/2021			13550	0		Unassigned
+3545	Texas	US	04/27/2021			13550	0		Unassigned
+3545	Texas	US	04/28/2021			13550	0		Unassigned
+3545	Texas	US	04/29/2021			13550	0		Unassigned
+3545	Texas	US	04/30/2021			13550	0		Unassigned
+3545	Texas	US	05/01/2021			13550	0		Unassigned
+3545	Texas	US	05/02/2021			13550	0		Unassigned
+3545	Texas	US	05/03/2021			13550	0		Unassigned
+3545	Texas	US	05/04/2021			13550	0		Unassigned
+3545	Texas	US	05/05/2021			13550	0		Unassigned
+3545	Texas	US	05/06/2021			13550	0		Unassigned
+3545	Texas	US	05/07/2021			13550	0		Unassigned
+3545	Texas	US	05/08/2021			13550	0		Unassigned
+3545	Texas	US	05/09/2021			13550	0		Unassigned
+3545	Texas	US	05/10/2021			13550	0		Unassigned
+3545	Texas	US	05/11/2021			13550	0		Unassigned
+3545	Texas	US	05/12/2021			13550	0		Unassigned
+3545	Texas	US	05/13/2021			13550	0		Unassigned
+3545	Texas	US	05/14/2021			13550	0		Unassigned
+3545	Texas	US	05/15/2021			13550	0		Unassigned
+3545	Texas	US	05/16/2021			13550	0		Unassigned
+3545	Texas	US	05/17/2021			13550	0		Unassigned
+3545	Texas	US	05/18/2021			13550	0		Unassigned
+3545	Texas	US	05/19/2021			13550	0		Unassigned
+3545	Texas	US	05/20/2021			13550	0		Unassigned
+3545	Texas	US	05/21/2021			13550	0		Unassigned
+3545	Texas	US	05/22/2021			13550	0		Unassigned
+3545	Texas	US	05/23/2021			13550	0		Unassigned
+3545	Texas	US	05/24/2021			13550	0		Unassigned
+3545	Texas	US	05/25/2021			13550	0		Unassigned
+3545	Texas	US	05/26/2021			13550	0		Unassigned
+3546	Texas	US	05/27/2021			13550	0		Unassigned
+3546	Texas	US	05/28/2021			13550	0		Unassigned
+3546	Texas	US	05/29/2021			13550	0		Unassigned
+3546	Texas	US	05/30/2021			13550	0		Unassigned
+3546	Texas	US	05/31/2021			13550	0		Unassigned
+3546	Texas	US	06/01/2021			13550	0		Unassigned
+3546	Texas	US	06/02/2021			13550	0		Unassigned
+3546	Texas	US	06/03/2021			13550	0		Unassigned
+3546	Texas	US	06/04/2021			13550	0		Unassigned
+3546	Texas	US	06/05/2021			13550	0		Unassigned
+3546	Texas	US	06/06/2021			13550	0		Unassigned
+3546	Texas	US	06/07/2021			13550	0		Unassigned
+3546	Texas	US	06/08/2021			13550	0		Unassigned
+3546	Texas	US	06/09/2021			13550	0		Unassigned
+3546	Texas	US	06/10/2021			13550	0		Unassigned
+3546	Texas	US	06/11/2021			13550	0		Unassigned
+3546	Texas	US	06/12/2021			13550	0		Unassigned
+3546	Texas	US	06/13/2021			13550	0		Unassigned
+3546	Texas	US	06/14/2021			13550	0		Unassigned
+3546	Texas	US	06/15/2021			13550	0		Unassigned
+3546	Texas	US	06/16/2021			13550	0		Unassigned
+3548	Texas	US	06/17/2021			13550	0		Unassigned
+3548	Texas	US	06/18/2021			13550	0		Unassigned
+3548	Texas	US	06/19/2021			13550	0		Unassigned
+3548	Texas	US	06/20/2021			13550	0		Unassigned
+3548	Texas	US	06/21/2021			13550	0		Unassigned
+3548	Texas	US	06/22/2021			13550	0		Unassigned
+3548	Texas	US	06/23/2021			13550	0		Unassigned
+3549	Texas	US	06/24/2021			13550	0		Unassigned
+3549	Texas	US	06/25/2021			13550	0		Unassigned
+3549	Texas	US	06/26/2021			13550	0		Unassigned
+3549	Texas	US	06/27/2021			13550	0		Unassigned
+3549	Texas	US	06/28/2021			13550	0		Unassigned
+3549	Texas	US	06/29/2021			13550	0		Unassigned
+3549	Texas	US	06/30/2021			13550	0		Unassigned
+3549	Texas	US	07/01/2021			13550	0		Unassigned
+3549	Texas	US	07/02/2021			13550	0		Unassigned
+3549	Texas	US	07/03/2021			13550	0		Unassigned
+3549	Texas	US	07/04/2021			13550	0		Unassigned
+3549	Texas	US	07/05/2021			13550	0		Unassigned
+3549	Texas	US	07/06/2021			13550	0		Unassigned
+3549	Texas	US	07/07/2021			13550	0		Unassigned
+3549	Texas	US	07/08/2021			13550	0		Unassigned
+3549	Texas	US	07/09/2021			13550	0		Unassigned
+3549	Texas	US	07/10/2021			13550	0		Unassigned
+3549	Texas	US	07/11/2021			13550	0		Unassigned
+3549	Texas	US	07/12/2021			13550	0		Unassigned
+3549	Texas	US	07/13/2021			13550	0		Unassigned
+3549	Texas	US	07/14/2021			13550	0		Unassigned
+3549	Texas	US	07/15/2021			13550	0		Unassigned
+3549	Texas	US	07/16/2021			13550	0		Unassigned
+3549	Texas	US	07/17/2021			13550	0		Unassigned
+3549	Texas	US	07/18/2021			13550	0		Unassigned
+3549	Texas	US	07/19/2021			13550	0		Unassigned
+3549	Texas	US	07/20/2021			13550	0		Unassigned
+3549	Texas	US	07/21/2021			13550	0		Unassigned
+3549	Texas	US	07/22/2021			13550	0		Unassigned
+3549	Texas	US	07/23/2021			13550	0		Unassigned
+3549	Texas	US	07/24/2021			13550	0		Unassigned
+3549	Texas	US	07/25/2021			13550	0		Unassigned
+3549	Texas	US	07/26/2021			13550	0		Unassigned
+3549	Texas	US	07/27/2021			13550	0		Unassigned
+3549	Texas	US	07/28/2021			13550	0		Unassigned
+3549	Texas	US	07/29/2021			13550	0		Unassigned
+3549	Texas	US	07/30/2021			13550	0		Unassigned
+3549	Texas	US	07/31/2021			13550	0		Unassigned
+3549	Texas	US	08/01/2021			13550	0		Unassigned
+3549	Texas	US	08/02/2021			13550	0		Unassigned
+3549	Texas	US	08/03/2021			13550	0		Unassigned
+3549	Texas	US	08/04/2021			13550	0		Unassigned
+3549	Texas	US	08/05/2021			13550	0		Unassigned
+3549	Texas	US	08/06/2021			13550	0		Unassigned
+3549	Texas	US	08/07/2021			13550	0		Unassigned
+3549	Texas	US	08/08/2021			13550	0		Unassigned
+3549	Texas	US	08/09/2021			13550	0		Unassigned
+3549	Texas	US	08/10/2021			13550	0		Unassigned
+3549	Texas	US	08/11/2021			13550	0		Unassigned
+3549	Texas	US	08/12/2021			13550	0		Unassigned
+3549	Texas	US	08/13/2021			13550	0		Unassigned
+3549	Texas	US	08/14/2021			13550	0		Unassigned
+3549	Texas	US	08/15/2021			13550	0		Unassigned
+3549	Texas	US	08/16/2021			13550	0		Unassigned
+3549	Texas	US	08/17/2021			13550	0		Unassigned
+3549	Texas	US	08/18/2021			13550	0		Unassigned
+3549	Texas	US	08/19/2021			13550	0		Unassigned
+3549	Texas	US	08/20/2021			13550	0		Unassigned
+3549	Texas	US	08/21/2021			13550	0		Unassigned
+3549	Texas	US	08/22/2021			13550	0		Unassigned
+3549	Texas	US	08/23/2021			13550	0		Unassigned
+3549	Texas	US	08/24/2021			13550	0		Unassigned
+3549	Texas	US	08/25/2021			13550	0		Unassigned
+3549	Texas	US	08/26/2021			13550	0		Unassigned
+3549	Texas	US	08/27/2021			13550	0		Unassigned
+3549	Texas	US	08/28/2021			13550	0		Unassigned
+3549	Texas	US	08/29/2021			13550	0		Unassigned
+3549	Texas	US	08/30/2021			13550	0		Unassigned
+3549	Texas	US	08/31/2021			13550	0		Unassigned
+3549	Texas	US	09/01/2021			13550	0		Unassigned
+3549	Texas	US	09/02/2021			13550	0		Unassigned
+3549	Texas	US	09/03/2021			13550	0		Unassigned
+3549	Texas	US	09/04/2021			13550	0		Unassigned
+3549	Texas	US	09/05/2021			13550	0		Unassigned
+3549	Texas	US	09/06/2021			13550	0		Unassigned
+3549	Texas	US	09/07/2021			13550	0		Unassigned
+3549	Texas	US	09/08/2021			13550	0		Unassigned
+3549	Texas	US	09/09/2021			13550	0		Unassigned
+3549	Texas	US	09/10/2021			13550	0		Unassigned
+3549	Texas	US	09/11/2021			13550	0		Unassigned
+3549	Texas	US	09/12/2021			13550	0		Unassigned
+3549	Texas	US	09/13/2021			13550	0		Unassigned
+3549	Texas	US	09/14/2021			13550	0		Unassigned
+3549	Texas	US	09/15/2021			13550	0		Unassigned
+3550	Texas	US	09/16/2021			13550	0		Unassigned
+3550	Texas	US	09/17/2021			13550	0		Unassigned
+3550	Texas	US	09/18/2021			13550	0		Unassigned
+3550	Texas	US	09/19/2021			13550	0		Unassigned
+3550	Texas	US	09/20/2021			13550	0		Unassigned
+3550	Texas	US	09/21/2021			13550	0		Unassigned
+3550	Texas	US	09/22/2021			13550	0		Unassigned
+3567	Texas	US	09/23/2021			13550	0		Unassigned
+3567	Texas	US	09/24/2021			13550	0		Unassigned
+3567	Texas	US	09/25/2021			13550	0		Unassigned
+3567	Texas	US	09/26/2021			13550	0		Unassigned
+3567	Texas	US	09/27/2021			13550	0		Unassigned
+3567	Texas	US	09/28/2021			13550	0		Unassigned
+3567	Texas	US	09/29/2021			13550	0		Unassigned
+3567	Texas	US	09/30/2021			13550	0		Unassigned
+3567	Texas	US	10/01/2021			13550	0		Unassigned
+3567	Texas	US	10/02/2021			13550	0		Unassigned
+3567	Texas	US	10/03/2021			13550	0		Unassigned
+3567	Texas	US	10/04/2021			13550	0		Unassigned
+3567	Texas	US	10/05/2021			13550	0		Unassigned
+3568	Texas	US	10/06/2021			13550	0		Unassigned
+3568	Texas	US	10/07/2021			13550	0		Unassigned
+3568	Texas	US	10/08/2021			13550	0		Unassigned
+3568	Texas	US	10/09/2021			13550	0		Unassigned
+3568	Texas	US	10/10/2021			13550	0		Unassigned
+3568	Texas	US	10/11/2021			13550	0		Unassigned
+3568	Texas	US	10/12/2021			13550	0		Unassigned
+3568	Texas	US	10/13/2021			13550	0		Unassigned
+3568	Texas	US	10/14/2021			13550	0		Unassigned
+3568	Texas	US	10/15/2021			13550	0		Unassigned
+3568	Texas	US	10/16/2021			13550	0		Unassigned
+3568	Texas	US	10/17/2021			13550	0		Unassigned
+3568	Texas	US	10/18/2021			13550	0		Unassigned
+3568	Texas	US	10/19/2021			13550	0		Unassigned
+3568	Texas	US	10/20/2021			13550	0		Unassigned
+3568	Texas	US	10/21/2021			13550	0		Unassigned
+3568	Texas	US	10/22/2021			13550	0		Unassigned
+3568	Texas	US	10/23/2021			13550	0		Unassigned
+3568	Texas	US	10/24/2021			13550	0		Unassigned
+3568	Texas	US	10/25/2021			13550	0		Unassigned
+3568	Texas	US	10/26/2021			13550	0		Unassigned
+3568	Texas	US	10/27/2021			13550	0		Unassigned
+3568	Texas	US	10/28/2021			13550	0		Unassigned
+3568	Texas	US	10/29/2021			13550	0		Unassigned
+3568	Texas	US	10/30/2021			13550	0		Unassigned
+3568	Texas	US	10/31/2021			13550	0		Unassigned
+3569	Texas	US	11/01/2021			13550	0		Unassigned
+3569	Texas	US	11/02/2021			13550	0		Unassigned
+3569	Texas	US	11/03/2021			13550	0		Unassigned
+3569	Texas	US	11/04/2021			13550	0		Unassigned
+3569	Texas	US	11/05/2021			13550	0		Unassigned
+3569	Texas	US	11/06/2021			13550	0		Unassigned
+3569	Texas	US	11/07/2021			13550	0		Unassigned
+3569	Texas	US	11/08/2021			13550	0		Unassigned
+3569	Texas	US	11/09/2021			13550	0		Unassigned
+3569	Texas	US	11/10/2021			13550	0		Unassigned
+3569	Texas	US	11/11/2021			13550	0		Unassigned
+3569	Texas	US	11/12/2021			13550	0		Unassigned
+3569	Texas	US	11/13/2021			13550	0		Unassigned
+3569	Texas	US	11/14/2021			13550	0		Unassigned
+3569	Texas	US	11/15/2021			13550	0		Unassigned
+3569	Texas	US	11/16/2021			13550	0		Unassigned
+3569	Texas	US	11/17/2021			13550	0		Unassigned
+3569	Texas	US	11/18/2021			13550	0		Unassigned
+3569	Texas	US	11/19/2021			13550	0		Unassigned
+3569	Texas	US	11/20/2021			13550	0		Unassigned
+3569	Texas	US	11/21/2021			13550	0		Unassigned
+3569	Texas	US	11/22/2021			13550	0		Unassigned
+3569	Texas	US	11/23/2021			13550	0		Unassigned
+3569	Texas	US	11/24/2021			13550	0		Unassigned
+3569	Texas	US	11/25/2021			13550	0		Unassigned
+3569	Texas	US	11/26/2021			13550	0		Unassigned
+3569	Texas	US	11/27/2021			13550	0		Unassigned
+3569	Texas	US	11/28/2021			13550	0		Unassigned
+3569	Texas	US	11/29/2021			13550	0		Unassigned
+3569	Texas	US	11/30/2021			13550	0		Unassigned
+3569	Texas	US	12/01/2021			13589	0		Unassigned
+3569	Texas	US	12/02/2021			13638	0		Unassigned
+3569	Texas	US	12/03/2021			13675	0		Unassigned
+3569	Texas	US	12/04/2021			13721	0		Unassigned
+3569	Texas	US	12/05/2021			13770	0		Unassigned
+3569	Texas	US	12/06/2021			13805	0		Unassigned
+3569	Texas	US	12/07/2021			13849	0		Unassigned
+3569	Texas	US	12/08/2021			13892	0		Unassigned
+3569	Texas	US	12/09/2021			13940	0		Unassigned
+3569	Texas	US	12/10/2021			13988	0		Unassigned
+3569	Texas	US	12/11/2021			14049	0		Unassigned
+3569	Texas	US	12/12/2021			14089	0		Unassigned
+3569	Texas	US	12/13/2021			14122	0		Unassigned
+3569	Texas	US	12/14/2021			14181	0		Unassigned
+3569	Texas	US	12/15/2021			14220	0		Unassigned
+3569	Texas	US	12/16/2021			14296	0		Unassigned
+3569	Texas	US	12/17/2021			14385	0		Unassigned
+3569	Texas	US	12/18/2021			14503	0		Unassigned
+3569	Texas	US	12/19/2021			14603	0		Unassigned
+3569	Texas	US	12/20/2021			14713	0		Unassigned
+3569	Texas	US	12/21/2021			14822	0		Unassigned
+3569	Texas	US	12/22/2021			14999	0		Unassigned
+3569	Texas	US	12/23/2021			15306	0		Unassigned
+3569	Texas	US	12/24/2021			15399	0		Unassigned
+3569	Texas	US	12/25/2021			15809	0		Unassigned
+3569	Texas	US	12/26/2021			16157	0		Unassigned
+3569	Texas	US	12/27/2021			16456	0		Unassigned
+3569	Texas	US	12/28/2021			16624	0		Unassigned
+3569	Texas	US	12/29/2021			16976	0		Unassigned
+3569	Texas	US	12/30/2021			17706	0		Unassigned
+3569	Texas	US	12/31/2021			17819	0		Unassigned
+3569	Texas	US	01/01/2022			19174	0		Unassigned
+3569	Texas	US	01/02/2022			21027	0		Unassigned
+3569	Texas	US	01/03/2022			22896	0		Unassigned
+3569	Texas	US	01/04/2022			24403	0		Unassigned
+3569	Texas	US	01/05/2022			26281	0		Unassigned
+3569	Texas	US	01/06/2022			26777	0		Unassigned
+3569	Texas	US	01/07/2022			29103	0		Unassigned
+3569	Texas	US	01/08/2022			30726	0		Unassigned
+3569	Texas	US	01/09/2022			32341	0		Unassigned
+3569	Texas	US	01/10/2022			33858	0		Unassigned
+3569	Texas	US	01/11/2022			36656	0		Unassigned
+3569	Texas	US	01/12/2022			38931	0		Unassigned
+3569	Texas	US	01/13/2022			41554	0		Unassigned
+3569	Texas	US	01/14/2022			43019	0		Unassigned
+3569	Texas	US	01/15/2022			46555	0		Unassigned
+3569	Texas	US	01/16/2022			47565	0		Unassigned
 3569	Texas	US	01/17/2022			49836	0		Unassigned
-3569	Texas	US	01/18/2022			0	0		Unassigned
-3569	Texas	US	01/19/2022			0	0		Unassigned
-3569	Texas	US	01/20/2022			0	0		Unassigned
+3569	Texas	US	01/18/2022			51188	0		Unassigned
+3569	Texas	US	01/19/2022			52130	0		Unassigned
+3569	Texas	US	01/20/2022			54205	0		Unassigned
+3569	Texas	US	01/21/2022			56373	17		Unassigned
+3569	Texas	US	01/22/2022			58172	17		Unassigned
