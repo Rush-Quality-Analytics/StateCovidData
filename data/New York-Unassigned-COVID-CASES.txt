@@ -671,3 +671,4 @@
 2606	New York	US	01/20/2022			378	1		Unassigned
 2606	New York	US	01/21/2022			390	1		Unassigned
 2606	New York	US	01/22/2022			390	1		Unassigned
+2606	New York	US	01/23/2022			362	1		Unassigned
