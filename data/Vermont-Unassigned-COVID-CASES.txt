@@ -672,3 +672,4 @@
 3620	Vermont	US	01/22/2022			12645	2		Unassigned
 3620	Vermont	US	01/23/2022			12782	2		Unassigned
 3620	Vermont	US	01/24/2022			12464	4		Unassigned
+3620	Vermont	US	01/25/2022			11747	4		Unassigned

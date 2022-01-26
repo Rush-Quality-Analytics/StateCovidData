@@ -666,3 +666,4 @@
 923	California	US	01/22/2022			6354	3		Unassigned
 923	California	US	01/23/2022			6354	3		Unassigned
 923	California	US	01/24/2022			10961	3		Unassigned
+923	California	US	01/25/2022			12372	3		Unassigned
