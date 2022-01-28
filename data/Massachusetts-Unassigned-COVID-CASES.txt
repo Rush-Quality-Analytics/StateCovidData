@@ -675,3 +675,4 @@
 1936	Massachusetts	US	01/24/2022			122850	9		Unassigned
 1936	Massachusetts	US	01/25/2022			124284	10		Unassigned
 1936	Massachusetts	US	01/26/2022			125170	8		Unassigned
+1936	Massachusetts	US	01/27/2022			126255	8		Unassigned
