@@ -558,3 +558,6 @@
 3114	Puerto Rico	US	01/25/2022			14435	3731		Unassigned
 3114	Puerto Rico	US	01/26/2022			14570	3754		Unassigned
 3114	Puerto Rico	US	01/27/2022			14642	3773		Unassigned
+3114	Puerto Rico	US	01/28/2022			14763	3809		Unassigned
+3114	Puerto Rico	US	01/29/2022			14828	3837		Unassigned
+3114	Puerto Rico	US	01/30/2022			14877	3854		Unassigned

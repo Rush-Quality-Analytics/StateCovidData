@@ -644,3 +644,6 @@
 3569	Texas	US	01/25/2022			61730	17		Unassigned
 3569	Texas	US	01/26/2022			62136	17		Unassigned
 3569	Texas	US	01/27/2022			62535	17		Unassigned
+3569	Texas	US	01/28/2022			63745	17		Unassigned
+3569	Texas	US	01/29/2022			64730	17		Unassigned
+3569	Texas	US	01/30/2022			65624	17		Unassigned
