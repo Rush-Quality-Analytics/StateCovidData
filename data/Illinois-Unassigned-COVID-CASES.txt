@@ -678,3 +678,4 @@
 1381	Illinois	US	01/28/2022			200	2433		Unassigned
 1381	Illinois	US	01/29/2022			200	2433		Unassigned
 1381	Illinois	US	01/30/2022			200	2433		Unassigned
+1381	Illinois	US	01/31/2022			188	2433		Unassigned
