@@ -677,3 +677,4 @@
 768	Alaska	US	01/29/2022			744	1		Unassigned
 768	Alaska	US	01/30/2022			744	1		Unassigned
 768	Alaska	US	01/31/2022			771	1		Unassigned
+768	Alaska	US	02/01/2022			771	1		Unassigned
