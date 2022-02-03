@@ -670,3 +670,4 @@
 2546	New Mexico	US	01/30/2022			5851	0		Unassigned
 2546	New Mexico	US	01/31/2022			6052	0		Unassigned
 2546	New Mexico	US	02/01/2022			6061	0		Unassigned
+2546	New Mexico	US	02/02/2022			6072	0		Unassigned
