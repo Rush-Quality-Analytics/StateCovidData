@@ -682,3 +682,4 @@
 3127	Rhode Island	US	01/31/2022			39404	72		Unassigned
 3127	Rhode Island	US	02/01/2022			40466	85		Unassigned
 3127	Rhode Island	US	02/02/2022			30806	27		Unassigned
+3127	Rhode Island	US	02/03/2022			32011	34		Unassigned

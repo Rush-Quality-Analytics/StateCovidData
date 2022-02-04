@@ -681,3 +681,4 @@
 3329	Tennessee	US	01/31/2022			32293	196		Unassigned
 3329	Tennessee	US	02/01/2022			133228	674		Unassigned
 3329	Tennessee	US	02/02/2022			142251	830		Unassigned
+3329	Tennessee	US	02/03/2022			48765	263		Unassigned

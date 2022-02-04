@@ -675,3 +675,4 @@
 923	California	US	01/31/2022			9782	3		Unassigned
 923	California	US	02/01/2022			10194	3		Unassigned
 923	California	US	02/02/2022			8200	3		Unassigned
+923	California	US	02/03/2022			8765	3		Unassigned
