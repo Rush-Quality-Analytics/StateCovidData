@@ -670,3 +670,4 @@
 1287	Idaho	US	02/01/2022			1	0		Unassigned
 1287	Idaho	US	02/02/2022			0	0		Unassigned
 1287	Idaho	US	02/03/2022			0	0		Unassigned
+1287	Idaho	US	02/04/2022			0	0		Unassigned

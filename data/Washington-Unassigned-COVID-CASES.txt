@@ -683,3 +683,4 @@
 3793	Washington	US	02/01/2022			3412	5		Unassigned
 3793	Washington	US	02/02/2022			3468	5		Unassigned
 3793	Washington	US	02/03/2022			3468	5		Unassigned
+3793	Washington	US	02/04/2022			4237	5		Unassigned
