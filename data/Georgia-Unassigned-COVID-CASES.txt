@@ -684,3 +684,5 @@
 1220	Georgia	US	02/02/2022			11354	12		Unassigned
 1220	Georgia	US	02/03/2022			11405	11		Unassigned
 1220	Georgia	US	02/04/2022			11415	11		Unassigned
+1220	Georgia	US	02/05/2022			11415	11		Unassigned
+1220	Georgia	US	02/06/2022			11415	11		Unassigned
