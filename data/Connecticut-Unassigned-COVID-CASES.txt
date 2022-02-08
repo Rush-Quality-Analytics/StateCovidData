@@ -678,3 +678,4 @@
 1000	Connecticut	US	02/04/2022			2704	1		Unassigned
 1000	Connecticut	US	02/05/2022			2704	1		Unassigned
 1000	Connecticut	US	02/06/2022			2704	1		Unassigned
+1000	Connecticut	US	02/07/2022			2713	0		Unassigned
