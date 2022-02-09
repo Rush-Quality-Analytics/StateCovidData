@@ -504,3 +504,4 @@
 2588	New York	US	02/05/2022			0	438		Out of NY
 2588	New York	US	02/06/2022			0	438		Out of NY
 2588	New York	US	02/07/2022			0	442		Out of NY
+2588	New York	US	02/08/2022			0	442		Out of NY
