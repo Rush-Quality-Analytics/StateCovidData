@@ -683,3 +683,4 @@
 2103	Minnesota	US	02/06/2022			8518	150		Unassigned
 2103	Minnesota	US	02/07/2022			8137	150		Unassigned
 2103	Minnesota	US	02/08/2022			9424	150		Unassigned
+2104	Minnesota	US	02/09/2022			7495	150		Unassigned

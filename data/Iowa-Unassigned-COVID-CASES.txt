@@ -680,3 +680,4 @@
 1574	Iowa	US	02/06/2022			7242	0		Unassigned
 1574	Iowa	US	02/07/2022			7242	0		Unassigned
 1574	Iowa	US	02/08/2022			10695	0		Unassigned
+1575	Iowa	US	02/09/2022			71	0		Unassigned
