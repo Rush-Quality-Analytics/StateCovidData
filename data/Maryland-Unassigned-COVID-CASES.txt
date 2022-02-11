@@ -673,3 +673,4 @@
 1920	Maryland	US	02/07/2022			1233	216		Unassigned
 1920	Maryland	US	02/08/2022			1234	200		Unassigned
 1921	Maryland	US	02/09/2022			1235	180		Unassigned
+1921	Maryland	US	02/10/2022			1238	166		Unassigned
