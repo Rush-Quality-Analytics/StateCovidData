@@ -680,3 +680,6 @@
 2931	Oklahoma	US	02/08/2022			21993	1483		Unassigned
 2932	Oklahoma	US	02/09/2022			2838	1333		Unassigned
 2932	Oklahoma	US	02/10/2022			5516	1405		Unassigned
+2932	Oklahoma	US	02/11/2022			7746	1405		Unassigned
+2932	Oklahoma	US	02/12/2022			9204	1422		Unassigned
+2932	Oklahoma	US	02/13/2022			9204	1422		Unassigned

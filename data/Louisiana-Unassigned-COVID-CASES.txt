@@ -690,3 +690,6 @@
 1871	Louisiana	US	02/08/2022			915	0		Unassigned
 1872	Louisiana	US	02/09/2022			918	0		Unassigned
 1872	Louisiana	US	02/10/2022			920	0		Unassigned
+1872	Louisiana	US	02/11/2022			921	0		Unassigned
+1872	Louisiana	US	02/12/2022			921	0		Unassigned
+1872	Louisiana	US	02/13/2022			921	0		Unassigned
