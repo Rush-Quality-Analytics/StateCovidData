@@ -694,3 +694,5 @@
 3330	Tennessee	US	02/13/2022			62696	506		Unassigned
 3330	Tennessee	US	02/14/2022			62696	506		Unassigned
 3330	Tennessee	US	02/15/2022			71390	646		Unassigned
+3330	Tennessee	US	02/16/2022			42322	224		Unassigned
+3330	Tennessee	US	02/17/2022			46181	626		Unassigned

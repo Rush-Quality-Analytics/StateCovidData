@@ -692,3 +692,5 @@
 769	Alaska	US	02/13/2022			818	1		Unassigned
 769	Alaska	US	02/14/2022			818	1		Unassigned
 769	Alaska	US	02/15/2022			818	1		Unassigned
+769	Alaska	US	02/16/2022			823	1		Unassigned
+769	Alaska	US	02/17/2022			823	1		Unassigned

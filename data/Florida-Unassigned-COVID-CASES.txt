@@ -692,3 +692,5 @@
 1071	Florida	US	02/13/2022			2962	1293		Unassigned
 1071	Florida	US	02/14/2022			2962	338		Unassigned
 1071	Florida	US	02/15/2022			2962	339		Unassigned
+1071	Florida	US	02/16/2022			2962	342		Unassigned
+1071	Florida	US	02/17/2022			2962	1000		Unassigned

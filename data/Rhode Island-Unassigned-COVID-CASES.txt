@@ -695,3 +695,5 @@
 3128	Rhode Island	US	02/13/2022			31162	21		Unassigned
 3128	Rhode Island	US	02/14/2022			32112	33		Unassigned
 3128	Rhode Island	US	02/15/2022			32366	38		Unassigned
+3128	Rhode Island	US	02/16/2022			32695	39		Unassigned
+3128	Rhode Island	US	02/17/2022			29426	17		Unassigned
