@@ -667,3 +667,4 @@
 3570	Texas	US	02/17/2022			72850	20		Unassigned
 3570	Texas	US	02/18/2022			72970	20		Unassigned
 3570	Texas	US	02/19/2022			73116	20		Unassigned
+3570	Texas	US	02/20/2022			73168	20		Unassigned

@@ -692,3 +692,4 @@
 924	California	US	02/17/2022			5752	3		Unassigned
 924	California	US	02/18/2022			5949	3		Unassigned
 924	California	US	02/19/2022			5949	3		Unassigned
+924	California	US	02/20/2022			5949	3		Unassigned
