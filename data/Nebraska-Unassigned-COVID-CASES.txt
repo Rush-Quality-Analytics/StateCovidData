@@ -691,3 +691,5 @@
 2458	Nebraska	US	02/15/2022			3923	1600		Unassigned
 2458	Nebraska	US	02/16/2022			3898	1640		Unassigned
 2458	Nebraska	US	02/17/2022			3872	1641		Unassigned
+2458	Nebraska	US	02/18/2022			3884	1653		Unassigned
+2458	Nebraska	US	02/19/2022			3884	1653		Unassigned

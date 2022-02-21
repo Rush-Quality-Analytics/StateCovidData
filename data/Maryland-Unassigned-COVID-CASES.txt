@@ -681,3 +681,5 @@
 1921	Maryland	US	02/15/2022			0	132		Unassigned
 1921	Maryland	US	02/16/2022			0	127		Unassigned
 1921	Maryland	US	02/17/2022			0	113		Unassigned
+1921	Maryland	US	02/18/2022			0	100		Unassigned
+1921	Maryland	US	02/19/2022			0	92		Unassigned

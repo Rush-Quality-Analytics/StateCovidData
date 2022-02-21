@@ -684,3 +684,5 @@
 1288	Idaho	US	02/15/2022			0	0		Unassigned
 1288	Idaho	US	02/16/2022			0	0		Unassigned
 1288	Idaho	US	02/17/2022			0	0		Unassigned
+1288	Idaho	US	02/18/2022			0	0		Unassigned
+1288	Idaho	US	02/19/2022			0	0		Unassigned

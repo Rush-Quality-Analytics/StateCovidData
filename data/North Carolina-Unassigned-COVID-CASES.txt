@@ -672,3 +672,5 @@
 2703	North Carolina	US	02/15/2022			776	0		Unassigned
 2703	North Carolina	US	02/16/2022			771	0		Unassigned
 2703	North Carolina	US	02/17/2022			731	0		Unassigned
+2703	North Carolina	US	02/18/2022			696	0		Unassigned
+2703	North Carolina	US	02/19/2022			696	0		Unassigned

@@ -697,3 +697,5 @@
 1221	Georgia	US	02/15/2022			10934	17		Unassigned
 1221	Georgia	US	02/16/2022			10836	19		Unassigned
 1221	Georgia	US	02/17/2022			10796	23		Unassigned
+1221	Georgia	US	02/18/2022			10839	22		Unassigned
+1221	Georgia	US	02/19/2022			10839	22		Unassigned

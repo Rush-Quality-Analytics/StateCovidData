@@ -697,3 +697,5 @@
 1937	Massachusetts	US	02/15/2022			132691	10		Unassigned
 1937	Massachusetts	US	02/16/2022			132904	11		Unassigned
 1937	Massachusetts	US	02/17/2022			133228	9		Unassigned
+1937	Massachusetts	US	02/18/2022			133353	9		Unassigned
+1937	Massachusetts	US	02/19/2022			133353	9		Unassigned

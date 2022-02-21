@@ -696,3 +696,5 @@
 2011	Michigan	US	02/15/2022			5665	37		Out of MI
 2011	Michigan	US	02/16/2022			5644	38		Out of MI
 2011	Michigan	US	02/17/2022			5644	38		Out of MI
+2011	Michigan	US	02/18/2022			5644	38		Out of MI
+2011	Michigan	US	02/19/2022			5631	38		Out of MI
