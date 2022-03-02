@@ -706,3 +706,6 @@
 2513	New Jersey	US	02/24/2022			3267	0		Unassigned
 2513	New Jersey	US	02/25/2022			3273	0		Unassigned
 2513	New Jersey	US	02/26/2022			3272	1		Unassigned
+2513	New Jersey	US	02/27/2022			3267	1		Unassigned
+2513	New Jersey	US	02/28/2022			3265	0		Unassigned
+2513	New Jersey	US	03/01/2022			3258	0		Unassigned

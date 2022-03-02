@@ -705,3 +705,6 @@
 3621	Vermont	US	02/24/2022			15370	17		Unassigned
 3621	Vermont	US	02/25/2022			15364	17		Unassigned
 3621	Vermont	US	02/26/2022			15364	17		Unassigned
+3621	Vermont	US	02/27/2022			15364	17		Unassigned
+3621	Vermont	US	02/28/2022			14028	16		Unassigned
+3621	Vermont	US	03/01/2022			14028	16		Unassigned

@@ -523,3 +523,6 @@
 2589	New York	US	02/24/2022			0	450		Out of NY
 2589	New York	US	02/25/2022			0	450		Out of NY
 2589	New York	US	02/26/2022			0	452		Out of NY
+2589	New York	US	02/27/2022			0	452		Out of NY
+2589	New York	US	02/28/2022			0	453		Out of NY
+2589	New York	US	03/01/2022			0	453		Out of NY
