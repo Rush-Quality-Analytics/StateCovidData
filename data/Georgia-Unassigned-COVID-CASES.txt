@@ -709,3 +709,4 @@
 1221	Georgia	US	02/27/2022			10600	16		Unassigned
 1221	Georgia	US	02/28/2022			10596	19		Unassigned
 1221	Georgia	US	03/01/2022			10583	19		Unassigned
+1221	Georgia	US	03/02/2022			10526	18		Unassigned
