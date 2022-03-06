@@ -688,3 +688,6 @@
 1963	Michigan	US	02/28/2022			324	5		Federal Correctional Institution (FCI)
 1963	Michigan	US	03/01/2022			324	5		Federal Correctional Institution (FCI)
 1963	Michigan	US	03/02/2022			324	5		Federal Correctional Institution (FCI)
+1963	Michigan	US	03/03/2022			324	5		Federal Correctional Institution (FCI)
+1963	Michigan	US	03/04/2022			324	5		Federal Correctional Institution (FCI)
+1963	Michigan	US	03/05/2022			324	5		Federal Correctional Institution (FCI)
