@@ -601,3 +601,6 @@
 1853	Louisiana	US	03/11/2022			0	0		Out of LA
 1853	Louisiana	US	03/12/2022			0	0		Out of LA
 1853	Louisiana	US	03/13/2022			0	0		Out of LA
+1853	Louisiana	US	03/14/2022			0	0		Out of LA
+1853	Louisiana	US	03/15/2022			0	0		Out of LA
+1853	Louisiana	US	03/16/2022			0	0		Out of LA

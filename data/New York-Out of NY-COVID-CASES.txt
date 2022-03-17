@@ -538,3 +538,6 @@
 2589	New York	US	03/11/2022			0	455		Out of NY
 2589	New York	US	03/12/2022			0	455		Out of NY
 2589	New York	US	03/13/2022			0	455		Out of NY
+2589	New York	US	03/14/2022			0	455		Out of NY
+2589	New York	US	03/15/2022			0	455		Out of NY
+2589	New York	US	03/16/2022			0	455		Out of NY

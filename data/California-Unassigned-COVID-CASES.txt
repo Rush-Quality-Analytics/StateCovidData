@@ -714,3 +714,6 @@
 924	California	US	03/11/2022			5400	3		Unassigned
 924	California	US	03/12/2022			5400	3		Unassigned
 924	California	US	03/13/2022			5400	3		Unassigned
+924	California	US	03/14/2022			5451	3		Unassigned
+924	California	US	03/15/2022			5472	3		Unassigned
+924	California	US	03/16/2022			5379	3		Unassigned
