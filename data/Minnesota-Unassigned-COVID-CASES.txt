@@ -719,3 +719,4 @@
 2104	Minnesota	US	03/14/2022			1091	200		Unassigned
 2104	Minnesota	US	03/15/2022			894	200		Unassigned
 2104	Minnesota	US	03/16/2022			847	210		Unassigned
+2104	Minnesota	US	03/17/2022			853	210		Unassigned
