@@ -724,3 +724,6 @@
 1896	Maine	US	03/15/2022			14	0		Unassigned
 1896	Maine	US	03/16/2022			14	0		Unassigned
 1896	Maine	US	03/17/2022			11	0		Unassigned
+1896	Maine	US	03/18/2022			9	0		Unassigned
+1896	Maine	US	03/19/2022			10	0		Unassigned
+1896	Maine	US	03/20/2022			10	0		Unassigned
