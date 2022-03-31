@@ -738,3 +738,4 @@
 1008	District of Columbia	US	03/27/2022	38.90417773	-77.01655992	134623	1319		District of Columbia
 1008	District of Columbia	US	03/28/2022	38.90417773	-77.01655992	134623	1319		District of Columbia
 1008	District of Columbia	US	03/29/2022	38.90417773	-77.01655992	134623	1319		District of Columbia
+1008	District of Columbia	US	03/30/2022	38.90417773	-77.01655992	134623	1319		District of Columbia
