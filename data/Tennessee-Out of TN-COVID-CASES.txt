@@ -254,487 +254,488 @@
 3279	Tennessee	US	11/30/2020			5725	56	0	Out of TN
 3279	Tennessee	US	12/01/2020			6129	54	0	Out of TN
 3279	Tennessee	US	12/02/2020			6191	55	0	Out of TN
-3279	Tennessee	US	12/03/2020			6456	54	0	Out of TN
-3279	Tennessee	US	12/04/2020			6660	54	0	Out of TN
-3279	Tennessee	US	12/05/2020			6713	54	0	Out of TN
-3279	Tennessee	US	12/06/2020			6814	55	0	Out of TN
-3279	Tennessee	US	12/07/2020			6991	56	0	Out of TN
-3279	Tennessee	US	12/08/2020			7294	58	0	Out of TN
-3279	Tennessee	US	12/09/2020			7449	58	0	Out of TN
-3279	Tennessee	US	12/10/2020			7718	57	0	Out of TN
-3279	Tennessee	US	12/11/2020			7936	56	0	Out of TN
-3279	Tennessee	US	12/12/2020			8209	56	0	Out of TN
-3279	Tennessee	US	12/13/2020			8577	56	0	Out of TN
-3279	Tennessee	US	12/14/2020			8826	57	0	Out of TN
-3279	Tennessee	US	12/15/2020			9187	58	0	Out of TN
-3279	Tennessee	US	12/16/2020			9425	58	0	Out of TN
-3279	Tennessee	US	12/17/2020			9719	62	0	Out of TN
-3279	Tennessee	US	12/18/2020			9914	63	0	Out of TN
-3279	Tennessee	US	12/19/2020			10104	64	0	Out of TN
-3279	Tennessee	US	12/20/2020			10314	64	0	Out of TN
-3279	Tennessee	US	12/21/2020			10475	64	0	Out of TN
-3279	Tennessee	US	12/22/2020			10606	64	0	Out of TN
-3279	Tennessee	US	12/23/2020			10741	64	0	Out of TN
-3279	Tennessee	US	12/24/2020			10865	64	0	Out of TN
-3279	Tennessee	US	12/25/2020			11077	61	0	Out of TN
-3279	Tennessee	US	12/26/2020			11216	61	0	Out of TN
-3279	Tennessee	US	12/27/2020			11346	61	0	Out of TN
-3279	Tennessee	US	12/28/2020			11418	64	0	Out of TN
-3279	Tennessee	US	12/29/2020			11619	63	0	Out of TN
-3279	Tennessee	US	12/30/2020			11811	62	0	Out of TN
-3279	Tennessee	US	12/31/2020			12066	61	0	Out of TN
-3279	Tennessee	US	01/01/2021			12241	62	0	Out of TN
-3279	Tennessee	US	01/02/2021			12438	62	0	Out of TN
-3280	Tennessee	US	01/03/2021			12593	63	0	Out of TN
-3280	Tennessee	US	01/04/2021			12677	67	0	Out of TN
-3280	Tennessee	US	01/05/2021			12855	67	0	Out of TN
-3280	Tennessee	US	01/06/2021			13038	69	0	Out of TN
-3280	Tennessee	US	01/07/2021			13143	68	0	Out of TN
-3280	Tennessee	US	01/08/2021			13287	69	0	Out of TN
-3280	Tennessee	US	01/09/2021			13444	70	0	Out of TN
-3280	Tennessee	US	01/10/2021			13528	70	0	Out of TN
-3280	Tennessee	US	01/11/2021			13581	70	0	Out of TN
-3280	Tennessee	US	01/12/2021			13647	70	0	Out of TN
-3280	Tennessee	US	01/13/2021			13762	76	0	Out of TN
-3280	Tennessee	US	01/14/2021			13918	77	0	Out of TN
-3281	Tennessee	US	01/15/2021			13977	78	0	Out of TN
-3281	Tennessee	US	01/16/2021			14127	79	0	Out of TN
-3281	Tennessee	US	01/17/2021			14172	79	0	Out of TN
-3281	Tennessee	US	01/18/2021			14218	80	0	Out of TN
-3281	Tennessee	US	01/19/2021			14296	79	0	Out of TN
-3281	Tennessee	US	01/20/2021			14350	79	0	Out of TN
-3282	Tennessee	US	01/21/2021			14451	78	0	Out of TN
-3282	Tennessee	US	01/22/2021			14515	82	0	Out of TN
-3282	Tennessee	US	01/23/2021			14617	83	0	Out of TN
-3282	Tennessee	US	01/24/2021			14643	83	0	Out of TN
-3282	Tennessee	US	01/25/2021			14664	83	0	Out of TN
-3282	Tennessee	US	01/26/2021			14723	84	0	Out of TN
-3282	Tennessee	US	01/27/2021			14792	86	0	Out of TN
-3282	Tennessee	US	01/28/2021			14860	85	0	Out of TN
-3282	Tennessee	US	01/29/2021			14900	87	0	Out of TN
-3282	Tennessee	US	01/30/2021			14950	91	0	Out of TN
-3282	Tennessee	US	01/31/2021			14989	93	0	Out of TN
-3282	Tennessee	US	02/01/2021			15008	93	0	Out of TN
-3282	Tennessee	US	02/02/2021			15035	94	0	Out of TN
-3282	Tennessee	US	02/03/2021			15101	94	0	Out of TN
-3282	Tennessee	US	02/04/2021			15171	95	0	Out of TN
-3282	Tennessee	US	02/05/2021			15217	98	0	Out of TN
-3282	Tennessee	US	02/06/2021			15308	98	0	Out of TN
-3282	Tennessee	US	02/07/2021			15333	99	0	Out of TN
-3282	Tennessee	US	02/08/2021			15357	101	0	Out of TN
-3282	Tennessee	US	02/09/2021			15430	103	0	Out of TN
-3282	Tennessee	US	02/10/2021			15464	105	0	Out of TN
-3282	Tennessee	US	02/11/2021			15516	91	0	Out of TN
-3282	Tennessee	US	02/12/2021			15546	91	0	Out of TN
-3282	Tennessee	US	02/13/2021			15575	91	0	Out of TN
-3282	Tennessee	US	02/14/2021			15593	91	0	Out of TN
-3282	Tennessee	US	02/15/2021			15608	91	0	Out of TN
-3282	Tennessee	US	02/16/2021			15628	92	0	Out of TN
-3282	Tennessee	US	02/17/2021			15640	93	0	Out of TN
-3282	Tennessee	US	02/18/2021			15692	93	0	Out of TN
-3283	Tennessee	US	02/19/2021			15706	93	0	Out of TN
-3283	Tennessee	US	02/20/2021			15731	93	0	Out of TN
-3283	Tennessee	US	02/21/2021			15748	93	0	Out of TN
-3283	Tennessee	US	02/22/2021			15762	94	0	Out of TN
-3283	Tennessee	US	02/23/2021			15813	90	0	Out of TN
-3283	Tennessee	US	02/24/2021			15846	91	0	Out of TN
-3283	Tennessee	US	02/25/2021			15909	93	0	Out of TN
-3283	Tennessee	US	02/26/2021			15937	93	0	Out of TN
-3283	Tennessee	US	02/27/2021			15974	94	0	Out of TN
-3283	Tennessee	US	02/28/2021			15988	94	0	Out of TN
-3283	Tennessee	US	03/01/2021			15998	94	0	Out of TN
-3283	Tennessee	US	03/02/2021			16041	94	0	Out of TN
-3283	Tennessee	US	03/03/2021			16076	94	0	Out of TN
-3283	Tennessee	US	03/04/2021			16116	94	0	Out of TN
-3283	Tennessee	US	03/05/2021			16141	95	0	Out of TN
-3283	Tennessee	US	03/06/2021			16166	96	0	Out of TN
-3283	Tennessee	US	03/07/2021			16183	97		Out of TN
-3283	Tennessee	US	03/08/2021			16197	97		Out of TN
-3283	Tennessee	US	03/09/2021			16223	99		Out of TN
-3283	Tennessee	US	03/10/2021			16261	100		Out of TN
-3283	Tennessee	US	03/11/2021			16293	103		Out of TN
-3283	Tennessee	US	03/12/2021			16327	103		Out of TN
-3283	Tennessee	US	03/13/2021			16360	102		Out of TN
-3283	Tennessee	US	03/14/2021			16374	102		Out of TN
-3283	Tennessee	US	03/15/2021			16390	103		Out of TN
-3283	Tennessee	US	03/16/2021			16414	103		Out of TN
-3283	Tennessee	US	03/17/2021			16441	103		Out of TN
-3283	Tennessee	US	03/18/2021			16472	103		Out of TN
-3283	Tennessee	US	03/19/2021			16517	103		Out of TN
-3283	Tennessee	US	03/20/2021			16530	103		Out of TN
-3283	Tennessee	US	03/21/2021			16541	103		Out of TN
-3283	Tennessee	US	03/22/2021			16559	104		Out of TN
-3283	Tennessee	US	03/23/2021			16579	105		Out of TN
-3283	Tennessee	US	03/24/2021			16604	104		Out of TN
-3283	Tennessee	US	03/25/2021			16634	103		Out of TN
-3283	Tennessee	US	03/26/2021			16647	103		Out of TN
-3283	Tennessee	US	03/27/2021			16667	105		Out of TN
-3283	Tennessee	US	03/28/2021			16677	105		Out of TN
-3283	Tennessee	US	03/29/2021			16699	105		Out of TN
-3283	Tennessee	US	03/30/2021			16727	106		Out of TN
-3283	Tennessee	US	03/31/2021			16759	106		Out of TN
-3283	Tennessee	US	04/01/2021			16775	101		Out of TN
-3285	Tennessee	US	04/02/2021			16800	101		Out of TN
-3285	Tennessee	US	04/03/2021			16821	101		Out of TN
-3285	Tennessee	US	04/04/2021			16832	101		Out of TN
-3285	Tennessee	US	04/05/2021			16846	101		Out of TN
-3285	Tennessee	US	04/06/2021			16876	101		Out of TN
-3285	Tennessee	US	04/07/2021			16911	102		Out of TN
-3285	Tennessee	US	04/08/2021			16937	101		Out of TN
-3285	Tennessee	US	04/09/2021			16956	101		Out of TN
-3285	Tennessee	US	04/10/2021			16970	101		Out of TN
-3285	Tennessee	US	04/11/2021			16977	101		Out of TN
-3285	Tennessee	US	04/12/2021			16992	101		Out of TN
-3285	Tennessee	US	04/13/2021			17012	98		Out of TN
-3285	Tennessee	US	04/14/2021			17044	99		Out of TN
-3285	Tennessee	US	04/15/2021			17063	98		Out of TN
-3285	Tennessee	US	04/16/2021			17083	95		Out of TN
-3285	Tennessee	US	04/17/2021			17095	95		Out of TN
-3285	Tennessee	US	04/18/2021			17112	95		Out of TN
-3285	Tennessee	US	04/19/2021			17129	95		Out of TN
-3285	Tennessee	US	04/20/2021			17151	95		Out of TN
-3285	Tennessee	US	04/21/2021			17180	95		Out of TN
-3285	Tennessee	US	04/22/2021			17204	97		Out of TN
-3285	Tennessee	US	04/23/2021			17217	97		Out of TN
-3285	Tennessee	US	04/24/2021			17232	97		Out of TN
-3285	Tennessee	US	04/25/2021			17240	97		Out of TN
-3285	Tennessee	US	04/26/2021			17257	97		Out of TN
-3285	Tennessee	US	04/27/2021			17282	97		Out of TN
-3285	Tennessee	US	04/28/2021			17303	97		Out of TN
-3285	Tennessee	US	04/29/2021			17316	97		Out of TN
-3285	Tennessee	US	04/30/2021			17326	97		Out of TN
-3285	Tennessee	US	05/01/2021			17336	97		Out of TN
-3285	Tennessee	US	05/02/2021			17347	97		Out of TN
-3285	Tennessee	US	05/03/2021			17363	97		Out of TN
-3285	Tennessee	US	05/04/2021			17376	97		Out of TN
-3285	Tennessee	US	05/05/2021			17394	97		Out of TN
-3285	Tennessee	US	05/06/2021			17411	97		Out of TN
-3285	Tennessee	US	05/07/2021			17425	97		Out of TN
-3285	Tennessee	US	05/08/2021			17439	97		Out of TN
-3285	Tennessee	US	05/09/2021			17444	98		Out of TN
-3285	Tennessee	US	05/10/2021			17455	98		Out of TN
-3285	Tennessee	US	05/11/2021			17475	99		Out of TN
-3285	Tennessee	US	05/12/2021			17493	99		Out of TN
-3285	Tennessee	US	05/13/2021			17504	99		Out of TN
-3285	Tennessee	US	05/14/2021			17523	99		Out of TN
-3285	Tennessee	US	05/15/2021			17530	99		Out of TN
-3285	Tennessee	US	05/16/2021			17533	99		Out of TN
-3285	Tennessee	US	05/17/2021			17545	99		Out of TN
-3285	Tennessee	US	05/18/2021			17559	99		Out of TN
-3285	Tennessee	US	05/19/2021			17573	100		Out of TN
-3285	Tennessee	US	05/20/2021			17586	100		Out of TN
-3285	Tennessee	US	05/21/2021			17601	100		Out of TN
-3285	Tennessee	US	05/22/2021			17607	100		Out of TN
-3285	Tennessee	US	05/23/2021			17613	100		Out of TN
-3285	Tennessee	US	05/24/2021			17618	100		Out of TN
-3285	Tennessee	US	05/25/2021			17623	100		Out of TN
-3285	Tennessee	US	05/26/2021			17637	100		Out of TN
-3286	Tennessee	US	05/27/2021			17645	100		Out of TN
-3286	Tennessee	US	05/28/2021			17655	100		Out of TN
-3286	Tennessee	US	05/29/2021			17659	100		Out of TN
-3286	Tennessee	US	05/30/2021			17660	100		Out of TN
-3286	Tennessee	US	05/31/2021			17663	100		Out of TN
-3286	Tennessee	US	06/01/2021			17675	100		Out of TN
-3286	Tennessee	US	06/02/2021			17679	100		Out of TN
-3286	Tennessee	US	06/03/2021			17684	100		Out of TN
-3286	Tennessee	US	06/04/2021			17688	100		Out of TN
-3286	Tennessee	US	06/05/2021			17691	100		Out of TN
-3286	Tennessee	US	06/06/2021			17693	100		Out of TN
-3286	Tennessee	US	06/07/2021			17700	100		Out of TN
-3286	Tennessee	US	06/08/2021			17706	100		Out of TN
-3286	Tennessee	US	06/09/2021			17713	100		Out of TN
-3286	Tennessee	US	06/10/2021			17721	100		Out of TN
-3286	Tennessee	US	06/11/2021			17728	100		Out of TN
-3286	Tennessee	US	06/12/2021			17734	100		Out of TN
-3286	Tennessee	US	06/13/2021			17736	100		Out of TN
-3286	Tennessee	US	06/14/2021			17740	101		Out of TN
-3286	Tennessee	US	06/15/2021			17744	101		Out of TN
-3286	Tennessee	US	06/16/2021			17748	101		Out of TN
-3288	Tennessee	US	06/17/2021			17752	101		Out of TN
-3288	Tennessee	US	06/18/2021			17754	101		Out of TN
-3288	Tennessee	US	06/19/2021			17756	101		Out of TN
-3288	Tennessee	US	06/20/2021			17756	101		Out of TN
-3288	Tennessee	US	06/21/2021			17759	101		Out of TN
-3288	Tennessee	US	06/22/2021			17763	101		Out of TN
-3288	Tennessee	US	06/23/2021			17769	101		Out of TN
-3289	Tennessee	US	06/24/2021			17777	101		Out of TN
-3289	Tennessee	US	06/25/2021			17779	101		Out of TN
-3289	Tennessee	US	06/26/2021			17782	101		Out of TN
-3289	Tennessee	US	06/27/2021			17785	101		Out of TN
-3289	Tennessee	US	06/28/2021			17786	101		Out of TN
-3289	Tennessee	US	06/29/2021			17801	96		Out of TN
-3289	Tennessee	US	06/30/2021			17803	96		Out of TN
-3289	Tennessee	US	07/01/2021			17807	88		Out of TN
-3289	Tennessee	US	07/02/2021			17818	88		Out of TN
-3289	Tennessee	US	07/03/2021			17827	88		Out of TN
-3289	Tennessee	US	07/04/2021			17833	88		Out of TN
-3289	Tennessee	US	07/05/2021			17840	88		Out of TN
-3289	Tennessee	US	07/06/2021			17847	88		Out of TN
-3289	Tennessee	US	07/07/2021			17857	88		Out of TN
-3289	Tennessee	US	07/08/2021			17884	88		Out of TN
-3289	Tennessee	US	07/09/2021			17901	88		Out of TN
-3289	Tennessee	US	07/10/2021			17914	88		Out of TN
-3289	Tennessee	US	07/11/2021			17918	89		Out of TN
-3289	Tennessee	US	07/12/2021			17930	90		Out of TN
-3289	Tennessee	US	07/13/2021			17962	90		Out of TN
-3289	Tennessee	US	07/14/2021			17992	90		Out of TN
-3289	Tennessee	US	07/15/2021			18025	91		Out of TN
-3289	Tennessee	US	07/16/2021			18044	91		Out of TN
-3289	Tennessee	US	07/17/2021			18062	91		Out of TN
-3289	Tennessee	US	07/18/2021			18071	91		Out of TN
-3289	Tennessee	US	07/19/2021			18095	92		Out of TN
-3289	Tennessee	US	07/20/2021			18130	92		Out of TN
-3289	Tennessee	US	07/21/2021			18179	93		Out of TN
-3289	Tennessee	US	07/22/2021			18227	93		Out of TN
-3289	Tennessee	US	07/23/2021			18282	94		Out of TN
-3289	Tennessee	US	07/24/2021			18330	94		Out of TN
-3289	Tennessee	US	07/25/2021			18351	94		Out of TN
-3289	Tennessee	US	07/26/2021			18425	94		Out of TN
-3289	Tennessee	US	07/27/2021			18509	94		Out of TN
-3289	Tennessee	US	07/28/2021			18594	94		Out of TN
-3289	Tennessee	US	07/29/2021			18692	94		Out of TN
-3289	Tennessee	US	07/30/2021			18788	94		Out of TN
-3289	Tennessee	US	07/31/2021			18834	94		Out of TN
-3289	Tennessee	US	08/01/2021			18868	94		Out of TN
-3289	Tennessee	US	08/02/2021			18910	94		Out of TN
-3289	Tennessee	US	08/03/2021			18987	94		Out of TN
-3289	Tennessee	US	08/04/2021			19066	95		Out of TN
-3289	Tennessee	US	08/05/2021			19170	96		Out of TN
-3289	Tennessee	US	08/06/2021			19285	97		Out of TN
-3289	Tennessee	US	08/07/2021			19342	97		Out of TN
-3289	Tennessee	US	08/08/2021			19378	97		Out of TN
-3289	Tennessee	US	08/09/2021			19454	98		Out of TN
-3289	Tennessee	US	08/10/2021			19561	98		Out of TN
-3289	Tennessee	US	08/11/2021			19714	100		Out of TN
-3289	Tennessee	US	08/12/2021			19818	101		Out of TN
-3289	Tennessee	US	08/13/2021			19965	101		Out of TN
-3289	Tennessee	US	08/14/2021			20074	101		Out of TN
-3289	Tennessee	US	08/15/2021			20185	102		Out of TN
-3289	Tennessee	US	08/16/2021			20261	102		Out of TN
-3289	Tennessee	US	08/17/2021			20418	102		Out of TN
-3289	Tennessee	US	08/18/2021			20653	101		Out of TN
-3289	Tennessee	US	08/19/2021			20880	101		Out of TN
-3289	Tennessee	US	08/20/2021			21114	102		Out of TN
-3289	Tennessee	US	08/21/2021			21547	102		Out of TN
-3289	Tennessee	US	08/22/2021			21665	102		Out of TN
-3289	Tennessee	US	08/23/2021			21775	103		Out of TN
-3289	Tennessee	US	08/24/2021			21893	103		Out of TN
-3289	Tennessee	US	08/25/2021			22024	103		Out of TN
-3289	Tennessee	US	08/26/2021			22204	104		Out of TN
-3289	Tennessee	US	08/27/2021			22393	105		Out of TN
-3289	Tennessee	US	08/28/2021			22571	105		Out of TN
-3289	Tennessee	US	08/29/2021			22827	107		Out of TN
-3289	Tennessee	US	08/30/2021			23115	108		Out of TN
-3289	Tennessee	US	08/31/2021			23341	108		Out of TN
-3289	Tennessee	US	09/01/2021			23430	108		Out of TN
-3289	Tennessee	US	09/02/2021			23545	108		Out of TN
-3289	Tennessee	US	09/03/2021			23650	108		Out of TN
-3289	Tennessee	US	09/04/2021			23949	108		Out of TN
-3289	Tennessee	US	09/05/2021			24286	108		Out of TN
-3289	Tennessee	US	09/06/2021			24649	109		Out of TN
-3289	Tennessee	US	09/07/2021			24768	111		Out of TN
-3289	Tennessee	US	09/08/2021			24863	112		Out of TN
-3289	Tennessee	US	09/09/2021			25008	112		Out of TN
-3289	Tennessee	US	09/10/2021			25507	111		Out of TN
-3289	Tennessee	US	09/11/2021			25857	114		Out of TN
-3289	Tennessee	US	09/12/2021			25924	116		Out of TN
-3289	Tennessee	US	09/13/2021			26031	117		Out of TN
-3289	Tennessee	US	09/14/2021			26174	117		Out of TN
-3289	Tennessee	US	09/15/2021			26261	116		Out of TN
-3290	Tennessee	US	09/16/2021			26383	116		Out of TN
-3290	Tennessee	US	09/17/2021			26497	116		Out of TN
-3290	Tennessee	US	09/18/2021			26587	116		Out of TN
-3290	Tennessee	US	09/19/2021			26621	116		Out of TN
-3290	Tennessee	US	09/20/2021			26692	117		Out of TN
-3290	Tennessee	US	09/21/2021			26788	117		Out of TN
-3290	Tennessee	US	09/22/2021			26934	117		Out of TN
-3307	Tennessee	US	09/23/2021			27133	118		Out of TN
-3307	Tennessee	US	09/24/2021			27223	118		Out of TN
-3307	Tennessee	US	09/25/2021			27288	118		Out of TN
-3307	Tennessee	US	09/26/2021			27354	118		Out of TN
-3307	Tennessee	US	09/27/2021			27418	121		Out of TN
-3307	Tennessee	US	09/28/2021			27495	122		Out of TN
-3307	Tennessee	US	09/29/2021			27603	123		Out of TN
-3307	Tennessee	US	09/30/2021			27673	123		Out of TN
-3307	Tennessee	US	10/01/2021			27760	123		Out of TN
-3307	Tennessee	US	10/02/2021			27815	123		Out of TN
-3307	Tennessee	US	10/03/2021			27836	123		Out of TN
-3307	Tennessee	US	10/04/2021			27903	127		Out of TN
-3307	Tennessee	US	10/05/2021			27946	129		Out of TN
-3308	Tennessee	US	10/06/2021			27993	129		Out of TN
-3308	Tennessee	US	10/07/2021			28036	130		Out of TN
-3308	Tennessee	US	10/08/2021			28083	131		Out of TN
-3308	Tennessee	US	10/09/2021			28111	131		Out of TN
-3308	Tennessee	US	10/10/2021			28119	131		Out of TN
-3308	Tennessee	US	10/11/2021			28152	133		Out of TN
-3308	Tennessee	US	10/12/2021			28178	133		Out of TN
-3308	Tennessee	US	10/13/2021			28215	133		Out of TN
-3308	Tennessee	US	10/14/2021			28245	133		Out of TN
-3308	Tennessee	US	10/15/2021			28264	133		Out of TN
-3308	Tennessee	US	10/16/2021			28282	133		Out of TN
-3308	Tennessee	US	10/17/2021			28299	133		Out of TN
-3308	Tennessee	US	10/18/2021			28316	133		Out of TN
-3308	Tennessee	US	10/19/2021			28346	133		Out of TN
-3308	Tennessee	US	10/20/2021			28363	133		Out of TN
-3308	Tennessee	US	10/21/2021			28586	133		Out of TN
-3308	Tennessee	US	10/22/2021			28615	134		Out of TN
-3308	Tennessee	US	10/23/2021			28629	134		Out of TN
-3308	Tennessee	US	10/24/2021			28634	134		Out of TN
-3308	Tennessee	US	10/25/2021			28651	134		Out of TN
-3308	Tennessee	US	10/26/2021			28685	134		Out of TN
-3308	Tennessee	US	10/27/2021			28703	135		Out of TN
-3308	Tennessee	US	10/28/2021			28730	135		Out of TN
-3308	Tennessee	US	10/29/2021			28750	135		Out of TN
-3308	Tennessee	US	10/30/2021			28758	135		Out of TN
-3308	Tennessee	US	10/31/2021			28769	135		Out of TN
-3309	Tennessee	US	11/01/2021			28783	135		Out of TN
-3309	Tennessee	US	11/02/2021			28793	135		Out of TN
-3309	Tennessee	US	11/03/2021			28810	137		Out of TN
-3309	Tennessee	US	11/04/2021			28829	137		Out of TN
-3309	Tennessee	US	11/05/2021			28842	137		Out of TN
-3309	Tennessee	US	11/06/2021			28851	137		Out of TN
-3309	Tennessee	US	11/07/2021			28863	138		Out of TN
-3309	Tennessee	US	11/08/2021			28873	138		Out of TN
-3309	Tennessee	US	11/09/2021			28913	138		Out of TN
-3309	Tennessee	US	11/10/2021			28942	138		Out of TN
-3309	Tennessee	US	11/11/2021			28962	139		Out of TN
-3309	Tennessee	US	11/12/2021			28992	139		Out of TN
-3309	Tennessee	US	11/13/2021			29007	139		Out of TN
-3309	Tennessee	US	11/14/2021			29021	139		Out of TN
-3309	Tennessee	US	11/15/2021			29035	139		Out of TN
-3309	Tennessee	US	11/16/2021			29055	139		Out of TN
-3309	Tennessee	US	11/17/2021			29095	140		Out of TN
-3309	Tennessee	US	11/18/2021			29122	140		Out of TN
-3309	Tennessee	US	11/19/2021			29150	141		Out of TN
-3309	Tennessee	US	11/20/2021			29161	141		Out of TN
-3309	Tennessee	US	11/21/2021			29180	141		Out of TN
-3309	Tennessee	US	11/22/2021			29203	141		Out of TN
-3309	Tennessee	US	11/23/2021			29243	141		Out of TN
-3309	Tennessee	US	11/24/2021			29273	141		Out of TN
-3309	Tennessee	US	11/25/2021			29301	141		Out of TN
-3309	Tennessee	US	11/26/2021			29312	141		Out of TN
-3309	Tennessee	US	11/27/2021			29330	141		Out of TN
-3309	Tennessee	US	11/28/2021			29347	141		Out of TN
-3309	Tennessee	US	11/29/2021			29383	141		Out of TN
-3309	Tennessee	US	11/30/2021			29417	142		Out of TN
-3309	Tennessee	US	12/01/2021			29446	144		Out of TN
-3309	Tennessee	US	12/02/2021			29478	145		Out of TN
-3309	Tennessee	US	12/03/2021			29512	144		Out of TN
-3309	Tennessee	US	12/04/2021			29528	144		Out of TN
-3309	Tennessee	US	12/05/2021			29536	146		Out of TN
-3309	Tennessee	US	12/06/2021			29556	155		Out of TN
-3309	Tennessee	US	12/07/2021			29588	157		Out of TN
-3309	Tennessee	US	12/08/2021			29654	158		Out of TN
-3309	Tennessee	US	12/09/2021			29692	155		Out of TN
-3309	Tennessee	US	12/10/2021			29730	156		Out of TN
-3309	Tennessee	US	12/11/2021			29745	156		Out of TN
-3309	Tennessee	US	12/12/2021			29760	156		Out of TN
-3309	Tennessee	US	12/13/2021			29806	156		Out of TN
-3309	Tennessee	US	12/14/2021			29869	157		Out of TN
-3309	Tennessee	US	12/15/2021			29905	157		Out of TN
-3309	Tennessee	US	12/16/2021			29948	158		Out of TN
-3309	Tennessee	US	12/17/2021			29994	159		Out of TN
-3309	Tennessee	US	12/18/2021			30042	159		Out of TN
-3309	Tennessee	US	12/19/2021			30068	160		Out of TN
-3309	Tennessee	US	12/20/2021			30127	160		Out of TN
-3309	Tennessee	US	12/21/2021			30210	161		Out of TN
-3309	Tennessee	US	12/22/2021			30328	207		Out of TN
-3309	Tennessee	US	12/23/2021			30514	207		Out of TN
-3309	Tennessee	US	12/24/2021			30658	207		Out of TN
-3309	Tennessee	US	12/25/2021			30851	207		Out of TN
-3309	Tennessee	US	12/26/2021			30890	213		Out of TN
-3309	Tennessee	US	12/27/2021			31088	213		Out of TN
-3309	Tennessee	US	12/28/2021			31537	214		Out of TN
-3309	Tennessee	US	12/29/2021			32006	211		Out of TN
-3309	Tennessee	US	12/30/2021			32558	211		Out of TN
-3309	Tennessee	US	12/31/2021			33021	211		Out of TN
-3309	Tennessee	US	01/01/2022			33354	211		Out of TN
-3309	Tennessee	US	01/02/2022			33758	211		Out of TN
-3309	Tennessee	US	01/03/2022			34135	211		Out of TN
-3309	Tennessee	US	01/04/2022			34665	211		Out of TN
-3309	Tennessee	US	01/05/2022			35337	211		Out of TN
-3309	Tennessee	US	01/06/2022			35976	211		Out of TN
-3309	Tennessee	US	01/07/2022			36688	211		Out of TN
-3309	Tennessee	US	01/08/2022			37094	211		Out of TN
-3309	Tennessee	US	01/09/2022			37372	212		Out of TN
-3309	Tennessee	US	01/10/2022			37744	213		Out of TN
-3309	Tennessee	US	01/11/2022			38186	211		Out of TN
-3309	Tennessee	US	01/12/2022			38742	213		Out of TN
-3309	Tennessee	US	01/13/2022			39351	216		Out of TN
-3309	Tennessee	US	01/14/2022			39962	219		Out of TN
-3309	Tennessee	US	01/15/2022			40392	221		Out of TN
-3309	Tennessee	US	01/16/2022			40620	222		Out of TN
-3309	Tennessee	US	01/17/2022			40850	217		Out of TN
-3309	Tennessee	US	01/18/2022			41358	219		Out of TN
-3309	Tennessee	US	01/19/2022			41904	221		Out of TN
-3309	Tennessee	US	01/20/2022			42460	222		Out of TN
-3309	Tennessee	US	01/21/2022			42905	223		Out of TN
-3309	Tennessee	US	01/22/2022			43232	223		Out of TN
-3309	Tennessee	US	01/23/2022			43394	223		Out of TN
-3309	Tennessee	US	01/24/2022			43662	226		Out of TN
-3309	Tennessee	US	01/25/2022			44003	228		Out of TN
-3309	Tennessee	US	01/26/2022			44394	228		Out of TN
-3309	Tennessee	US	01/27/2022			44797	230		Out of TN
-3309	Tennessee	US	01/28/2022			45082	232		Out of TN
-3309	Tennessee	US	01/29/2022			45240	232		Out of TN
-3309	Tennessee	US	01/30/2022			45332	232		Out of TN
-3309	Tennessee	US	01/31/2022			45574	236		Out of TN
-3309	Tennessee	US	02/01/2022			45820	237		Out of TN
-3309	Tennessee	US	02/02/2022			46039	242		Out of TN
-3309	Tennessee	US	02/03/2022			46395	244		Out of TN
-3309	Tennessee	US	02/04/2022			46557	244		Out of TN
-3309	Tennessee	US	02/05/2022			46635	244		Out of TN
-3309	Tennessee	US	02/06/2022			46672	244		Out of TN
-3309	Tennessee	US	02/07/2022			46774	246		Out of TN
-3309	Tennessee	US	02/08/2022			46886	245		Out of TN
-3310	Tennessee	US	02/09/2022			47062	245		Out of TN
-3310	Tennessee	US	02/10/2022			47190	244		Out of TN
-3310	Tennessee	US	02/11/2022			47289	247		Out of TN
-3310	Tennessee	US	02/12/2022			47346	247		Out of TN
-3310	Tennessee	US	02/13/2022			47393	248		Out of TN
-3310	Tennessee	US	02/14/2022			47551	254		Out of TN
-3310	Tennessee	US	02/15/2022			47648	253		Out of TN
-3310	Tennessee	US	02/16/2022			47745	251		Out of TN
-3310	Tennessee	US	02/17/2022			47830	250		Out of TN
-3310	Tennessee	US	02/18/2022			47898	249		Out of TN
-3310	Tennessee	US	02/19/2022			47938	249		Out of TN
-3310	Tennessee	US	02/20/2022			47963	249		Out of TN
-3310	Tennessee	US	02/21/2022			47992	249		Out of TN
-3310	Tennessee	US	02/22/2022			48031	250		Out of TN
-3310	Tennessee	US	02/23/2022			48073	251		Out of TN
-3310	Tennessee	US	02/24/2022			48105	251		Out of TN
-3310	Tennessee	US	02/25/2022			48144	251		Out of TN
-3310	Tennessee	US	02/26/2022			48156	251		Out of TN
-3310	Tennessee	US	02/27/2022			48159	252		Out of TN
-3310	Tennessee	US	02/28/2022			48204	252		Out of TN
-3310	Tennessee	US	03/01/2022			48240	255		Out of TN
-3310	Tennessee	US	03/02/2022			48283	254		Out of TN
-3310	Tennessee	US	03/03/2022			48312	255		Out of TN
-3310	Tennessee	US	03/04/2022			48330	255		Out of TN
-3310	Tennessee	US	03/05/2022			48339	255		Out of TN
-3310	Tennessee	US	03/06/2022			48342	254		Out of TN
-3310	Tennessee	US	03/07/2022			48348	254		Out of TN
-3310	Tennessee	US	03/08/2022			48369	255		Out of TN
-3310	Tennessee	US	03/09/2022			48383	255		Out of TN
-3310	Tennessee	US	03/10/2022			48397	257		Out of TN
-3310	Tennessee	US	03/11/2022			48409	257		Out of TN
-3310	Tennessee	US	03/12/2022			48414	257		Out of TN
-3310	Tennessee	US	03/13/2022			48419	257		Out of TN
-3310	Tennessee	US	03/14/2022			48437	260		Out of TN
-3310	Tennessee	US	03/15/2022			48448	260		Out of TN
-3310	Tennessee	US	03/16/2022			48455	260		Out of TN
-3310	Tennessee	US	03/17/2022			48468	260		Out of TN
-3310	Tennessee	US	03/18/2022			48494	263		Out of TN
-3310	Tennessee	US	03/19/2022			48507	263		Out of TN
-3310	Tennessee	US	03/20/2022			48491	257		Out of TN
-3310	Tennessee	US	03/21/2022			48491	257		Out of TN
-3310	Tennessee	US	03/22/2022			48491	257		Out of TN
-3310	Tennessee	US	03/23/2022			48507	263		Out of TN
-3310	Tennessee	US	03/24/2022			48507	263		Out of TN
-3310	Tennessee	US	03/25/2022			48507	263		Out of TN
-3310	Tennessee	US	03/26/2022			48507	263		Out of TN
+3279	Tennessee	US	12/03/2020			6455	54	0	Out of TN
+3279	Tennessee	US	12/04/2020			6659	54	0	Out of TN
+3279	Tennessee	US	12/05/2020			6712	54	0	Out of TN
+3279	Tennessee	US	12/06/2020			6813	55	0	Out of TN
+3279	Tennessee	US	12/07/2020			6990	56	0	Out of TN
+3279	Tennessee	US	12/08/2020			7293	58	0	Out of TN
+3279	Tennessee	US	12/09/2020			7448	58	0	Out of TN
+3279	Tennessee	US	12/10/2020			7717	57	0	Out of TN
+3279	Tennessee	US	12/11/2020			7935	56	0	Out of TN
+3279	Tennessee	US	12/12/2020			8208	56	0	Out of TN
+3279	Tennessee	US	12/13/2020			8576	56	0	Out of TN
+3279	Tennessee	US	12/14/2020			8825	57	0	Out of TN
+3279	Tennessee	US	12/15/2020			9186	58	0	Out of TN
+3279	Tennessee	US	12/16/2020			9424	58	0	Out of TN
+3279	Tennessee	US	12/17/2020			9718	62	0	Out of TN
+3279	Tennessee	US	12/18/2020			9913	63	0	Out of TN
+3279	Tennessee	US	12/19/2020			10103	64	0	Out of TN
+3279	Tennessee	US	12/20/2020			10313	64	0	Out of TN
+3279	Tennessee	US	12/21/2020			10474	64	0	Out of TN
+3279	Tennessee	US	12/22/2020			10605	64	0	Out of TN
+3279	Tennessee	US	12/23/2020			10740	64	0	Out of TN
+3279	Tennessee	US	12/24/2020			10864	64	0	Out of TN
+3279	Tennessee	US	12/25/2020			11076	61	0	Out of TN
+3279	Tennessee	US	12/26/2020			11215	61	0	Out of TN
+3279	Tennessee	US	12/27/2020			11345	61	0	Out of TN
+3279	Tennessee	US	12/28/2020			11417	64	0	Out of TN
+3279	Tennessee	US	12/29/2020			11618	63	0	Out of TN
+3279	Tennessee	US	12/30/2020			11810	62	0	Out of TN
+3279	Tennessee	US	12/31/2020			12065	61	0	Out of TN
+3279	Tennessee	US	01/01/2021			12240	62	0	Out of TN
+3279	Tennessee	US	01/02/2021			12437	62	0	Out of TN
+3280	Tennessee	US	01/03/2021			12592	63	0	Out of TN
+3280	Tennessee	US	01/04/2021			12676	67	0	Out of TN
+3280	Tennessee	US	01/05/2021			12854	67	0	Out of TN
+3280	Tennessee	US	01/06/2021			13037	69	0	Out of TN
+3280	Tennessee	US	01/07/2021			13142	68	0	Out of TN
+3280	Tennessee	US	01/08/2021			13286	69	0	Out of TN
+3280	Tennessee	US	01/09/2021			13443	70	0	Out of TN
+3280	Tennessee	US	01/10/2021			13527	70	0	Out of TN
+3280	Tennessee	US	01/11/2021			13580	70	0	Out of TN
+3280	Tennessee	US	01/12/2021			13646	70	0	Out of TN
+3280	Tennessee	US	01/13/2021			13760	76	0	Out of TN
+3280	Tennessee	US	01/14/2021			13915	77	0	Out of TN
+3281	Tennessee	US	01/15/2021			13974	78	0	Out of TN
+3281	Tennessee	US	01/16/2021			14123	79	0	Out of TN
+3281	Tennessee	US	01/17/2021			14168	79	0	Out of TN
+3281	Tennessee	US	01/18/2021			14213	80	0	Out of TN
+3281	Tennessee	US	01/19/2021			14291	79	0	Out of TN
+3281	Tennessee	US	01/20/2021			14345	79	0	Out of TN
+3282	Tennessee	US	01/21/2021			14446	78	0	Out of TN
+3282	Tennessee	US	01/22/2021			14510	82	0	Out of TN
+3282	Tennessee	US	01/23/2021			14612	83	0	Out of TN
+3282	Tennessee	US	01/24/2021			14638	83	0	Out of TN
+3282	Tennessee	US	01/25/2021			14659	83	0	Out of TN
+3282	Tennessee	US	01/26/2021			14718	84	0	Out of TN
+3282	Tennessee	US	01/27/2021			14787	86	0	Out of TN
+3282	Tennessee	US	01/28/2021			14855	85	0	Out of TN
+3282	Tennessee	US	01/29/2021			14895	87	0	Out of TN
+3282	Tennessee	US	01/30/2021			14945	91	0	Out of TN
+3282	Tennessee	US	01/31/2021			14984	93	0	Out of TN
+3282	Tennessee	US	02/01/2021			15003	93	0	Out of TN
+3282	Tennessee	US	02/02/2021			15030	94	0	Out of TN
+3282	Tennessee	US	02/03/2021			15096	94	0	Out of TN
+3282	Tennessee	US	02/04/2021			15166	95	0	Out of TN
+3282	Tennessee	US	02/05/2021			15212	98	0	Out of TN
+3282	Tennessee	US	02/06/2021			15302	98	0	Out of TN
+3282	Tennessee	US	02/07/2021			15327	99	0	Out of TN
+3282	Tennessee	US	02/08/2021			15351	101	0	Out of TN
+3282	Tennessee	US	02/09/2021			15424	103	0	Out of TN
+3282	Tennessee	US	02/10/2021			15458	105	0	Out of TN
+3282	Tennessee	US	02/11/2021			15510	91	0	Out of TN
+3282	Tennessee	US	02/12/2021			15540	91	0	Out of TN
+3282	Tennessee	US	02/13/2021			15570	91	0	Out of TN
+3282	Tennessee	US	02/14/2021			15588	91	0	Out of TN
+3282	Tennessee	US	02/15/2021			15603	91	0	Out of TN
+3282	Tennessee	US	02/16/2021			15623	92	0	Out of TN
+3282	Tennessee	US	02/17/2021			15635	93	0	Out of TN
+3282	Tennessee	US	02/18/2021			15687	93	0	Out of TN
+3283	Tennessee	US	02/19/2021			15701	93	0	Out of TN
+3283	Tennessee	US	02/20/2021			15726	93	0	Out of TN
+3283	Tennessee	US	02/21/2021			15743	93	0	Out of TN
+3283	Tennessee	US	02/22/2021			15757	94	0	Out of TN
+3283	Tennessee	US	02/23/2021			15807	90	0	Out of TN
+3283	Tennessee	US	02/24/2021			15841	91	0	Out of TN
+3283	Tennessee	US	02/25/2021			15904	93	0	Out of TN
+3283	Tennessee	US	02/26/2021			15932	93	0	Out of TN
+3283	Tennessee	US	02/27/2021			15969	94	0	Out of TN
+3283	Tennessee	US	02/28/2021			15983	94	0	Out of TN
+3283	Tennessee	US	03/01/2021			15993	94	0	Out of TN
+3283	Tennessee	US	03/02/2021			16036	94	0	Out of TN
+3283	Tennessee	US	03/03/2021			16071	94	0	Out of TN
+3283	Tennessee	US	03/04/2021			16111	94	0	Out of TN
+3283	Tennessee	US	03/05/2021			16136	95	0	Out of TN
+3283	Tennessee	US	03/06/2021			16161	96	0	Out of TN
+3283	Tennessee	US	03/07/2021			16178	97		Out of TN
+3283	Tennessee	US	03/08/2021			16192	97		Out of TN
+3283	Tennessee	US	03/09/2021			16218	99		Out of TN
+3283	Tennessee	US	03/10/2021			16256	100		Out of TN
+3283	Tennessee	US	03/11/2021			16288	103		Out of TN
+3283	Tennessee	US	03/12/2021			16322	103		Out of TN
+3283	Tennessee	US	03/13/2021			16355	102		Out of TN
+3283	Tennessee	US	03/14/2021			16369	102		Out of TN
+3283	Tennessee	US	03/15/2021			16385	103		Out of TN
+3283	Tennessee	US	03/16/2021			16409	103		Out of TN
+3283	Tennessee	US	03/17/2021			16436	103		Out of TN
+3283	Tennessee	US	03/18/2021			16467	103		Out of TN
+3283	Tennessee	US	03/19/2021			16512	103		Out of TN
+3283	Tennessee	US	03/20/2021			16525	103		Out of TN
+3283	Tennessee	US	03/21/2021			16536	103		Out of TN
+3283	Tennessee	US	03/22/2021			16554	104		Out of TN
+3283	Tennessee	US	03/23/2021			16574	105		Out of TN
+3283	Tennessee	US	03/24/2021			16599	104		Out of TN
+3283	Tennessee	US	03/25/2021			16629	103		Out of TN
+3283	Tennessee	US	03/26/2021			16642	103		Out of TN
+3283	Tennessee	US	03/27/2021			16662	105		Out of TN
+3283	Tennessee	US	03/28/2021			16672	105		Out of TN
+3283	Tennessee	US	03/29/2021			16694	105		Out of TN
+3283	Tennessee	US	03/30/2021			16722	106		Out of TN
+3283	Tennessee	US	03/31/2021			16754	106		Out of TN
+3283	Tennessee	US	04/01/2021			16770	101		Out of TN
+3285	Tennessee	US	04/02/2021			16795	101		Out of TN
+3285	Tennessee	US	04/03/2021			16816	101		Out of TN
+3285	Tennessee	US	04/04/2021			16827	101		Out of TN
+3285	Tennessee	US	04/05/2021			16841	101		Out of TN
+3285	Tennessee	US	04/06/2021			16871	101		Out of TN
+3285	Tennessee	US	04/07/2021			16906	102		Out of TN
+3285	Tennessee	US	04/08/2021			16932	101		Out of TN
+3285	Tennessee	US	04/09/2021			16951	101		Out of TN
+3285	Tennessee	US	04/10/2021			16965	101		Out of TN
+3285	Tennessee	US	04/11/2021			16972	101		Out of TN
+3285	Tennessee	US	04/12/2021			16987	101		Out of TN
+3285	Tennessee	US	04/13/2021			17007	98		Out of TN
+3285	Tennessee	US	04/14/2021			17039	99		Out of TN
+3285	Tennessee	US	04/15/2021			17058	98		Out of TN
+3285	Tennessee	US	04/16/2021			17078	95		Out of TN
+3285	Tennessee	US	04/17/2021			17090	95		Out of TN
+3285	Tennessee	US	04/18/2021			17107	95		Out of TN
+3285	Tennessee	US	04/19/2021			17124	95		Out of TN
+3285	Tennessee	US	04/20/2021			17146	95		Out of TN
+3285	Tennessee	US	04/21/2021			17175	95		Out of TN
+3285	Tennessee	US	04/22/2021			17199	97		Out of TN
+3285	Tennessee	US	04/23/2021			17212	97		Out of TN
+3285	Tennessee	US	04/24/2021			17227	97		Out of TN
+3285	Tennessee	US	04/25/2021			17235	97		Out of TN
+3285	Tennessee	US	04/26/2021			17252	97		Out of TN
+3285	Tennessee	US	04/27/2021			17277	97		Out of TN
+3285	Tennessee	US	04/28/2021			17298	97		Out of TN
+3285	Tennessee	US	04/29/2021			17311	97		Out of TN
+3285	Tennessee	US	04/30/2021			17321	97		Out of TN
+3285	Tennessee	US	05/01/2021			17331	97		Out of TN
+3285	Tennessee	US	05/02/2021			17342	97		Out of TN
+3285	Tennessee	US	05/03/2021			17358	97		Out of TN
+3285	Tennessee	US	05/04/2021			17371	97		Out of TN
+3285	Tennessee	US	05/05/2021			17389	97		Out of TN
+3285	Tennessee	US	05/06/2021			17406	97		Out of TN
+3285	Tennessee	US	05/07/2021			17420	97		Out of TN
+3285	Tennessee	US	05/08/2021			17434	97		Out of TN
+3285	Tennessee	US	05/09/2021			17439	98		Out of TN
+3285	Tennessee	US	05/10/2021			17450	98		Out of TN
+3285	Tennessee	US	05/11/2021			17470	99		Out of TN
+3285	Tennessee	US	05/12/2021			17488	99		Out of TN
+3285	Tennessee	US	05/13/2021			17499	99		Out of TN
+3285	Tennessee	US	05/14/2021			17518	99		Out of TN
+3285	Tennessee	US	05/15/2021			17525	99		Out of TN
+3285	Tennessee	US	05/16/2021			17528	99		Out of TN
+3285	Tennessee	US	05/17/2021			17540	99		Out of TN
+3285	Tennessee	US	05/18/2021			17554	99		Out of TN
+3285	Tennessee	US	05/19/2021			17568	100		Out of TN
+3285	Tennessee	US	05/20/2021			17581	100		Out of TN
+3285	Tennessee	US	05/21/2021			17596	100		Out of TN
+3285	Tennessee	US	05/22/2021			17602	100		Out of TN
+3285	Tennessee	US	05/23/2021			17608	100		Out of TN
+3285	Tennessee	US	05/24/2021			17613	100		Out of TN
+3285	Tennessee	US	05/25/2021			17618	100		Out of TN
+3285	Tennessee	US	05/26/2021			17632	100		Out of TN
+3286	Tennessee	US	05/27/2021			17640	100		Out of TN
+3286	Tennessee	US	05/28/2021			17650	100		Out of TN
+3286	Tennessee	US	05/29/2021			17654	100		Out of TN
+3286	Tennessee	US	05/30/2021			17655	100		Out of TN
+3286	Tennessee	US	05/31/2021			17658	100		Out of TN
+3286	Tennessee	US	06/01/2021			17670	100		Out of TN
+3286	Tennessee	US	06/02/2021			17674	100		Out of TN
+3286	Tennessee	US	06/03/2021			17679	100		Out of TN
+3286	Tennessee	US	06/04/2021			17683	100		Out of TN
+3286	Tennessee	US	06/05/2021			17686	100		Out of TN
+3286	Tennessee	US	06/06/2021			17688	100		Out of TN
+3286	Tennessee	US	06/07/2021			17695	100		Out of TN
+3286	Tennessee	US	06/08/2021			17701	100		Out of TN
+3286	Tennessee	US	06/09/2021			17708	100		Out of TN
+3286	Tennessee	US	06/10/2021			17716	100		Out of TN
+3286	Tennessee	US	06/11/2021			17723	100		Out of TN
+3286	Tennessee	US	06/12/2021			17729	100		Out of TN
+3286	Tennessee	US	06/13/2021			17731	100		Out of TN
+3286	Tennessee	US	06/14/2021			17735	101		Out of TN
+3286	Tennessee	US	06/15/2021			17739	101		Out of TN
+3286	Tennessee	US	06/16/2021			17743	101		Out of TN
+3288	Tennessee	US	06/17/2021			17747	101		Out of TN
+3288	Tennessee	US	06/18/2021			17749	101		Out of TN
+3288	Tennessee	US	06/19/2021			17751	101		Out of TN
+3288	Tennessee	US	06/20/2021			17751	101		Out of TN
+3288	Tennessee	US	06/21/2021			17754	101		Out of TN
+3288	Tennessee	US	06/22/2021			17758	101		Out of TN
+3288	Tennessee	US	06/23/2021			17764	101		Out of TN
+3289	Tennessee	US	06/24/2021			17772	101		Out of TN
+3289	Tennessee	US	06/25/2021			17774	101		Out of TN
+3289	Tennessee	US	06/26/2021			17777	101		Out of TN
+3289	Tennessee	US	06/27/2021			17780	101		Out of TN
+3289	Tennessee	US	06/28/2021			17781	101		Out of TN
+3289	Tennessee	US	06/29/2021			17796	96		Out of TN
+3289	Tennessee	US	06/30/2021			17798	96		Out of TN
+3289	Tennessee	US	07/01/2021			17802	88		Out of TN
+3289	Tennessee	US	07/02/2021			17813	88		Out of TN
+3289	Tennessee	US	07/03/2021			17822	88		Out of TN
+3289	Tennessee	US	07/04/2021			17828	88		Out of TN
+3289	Tennessee	US	07/05/2021			17835	88		Out of TN
+3289	Tennessee	US	07/06/2021			17842	88		Out of TN
+3289	Tennessee	US	07/07/2021			17852	88		Out of TN
+3289	Tennessee	US	07/08/2021			17879	88		Out of TN
+3289	Tennessee	US	07/09/2021			17896	88		Out of TN
+3289	Tennessee	US	07/10/2021			17909	88		Out of TN
+3289	Tennessee	US	07/11/2021			17913	89		Out of TN
+3289	Tennessee	US	07/12/2021			17925	90		Out of TN
+3289	Tennessee	US	07/13/2021			17957	90		Out of TN
+3289	Tennessee	US	07/14/2021			17987	90		Out of TN
+3289	Tennessee	US	07/15/2021			18020	91		Out of TN
+3289	Tennessee	US	07/16/2021			18039	91		Out of TN
+3289	Tennessee	US	07/17/2021			18057	91		Out of TN
+3289	Tennessee	US	07/18/2021			18066	91		Out of TN
+3289	Tennessee	US	07/19/2021			18090	92		Out of TN
+3289	Tennessee	US	07/20/2021			18125	92		Out of TN
+3289	Tennessee	US	07/21/2021			18174	93		Out of TN
+3289	Tennessee	US	07/22/2021			18222	93		Out of TN
+3289	Tennessee	US	07/23/2021			18277	94		Out of TN
+3289	Tennessee	US	07/24/2021			18325	94		Out of TN
+3289	Tennessee	US	07/25/2021			18346	94		Out of TN
+3289	Tennessee	US	07/26/2021			18420	94		Out of TN
+3289	Tennessee	US	07/27/2021			18504	94		Out of TN
+3289	Tennessee	US	07/28/2021			18589	94		Out of TN
+3289	Tennessee	US	07/29/2021			18687	94		Out of TN
+3289	Tennessee	US	07/30/2021			18783	94		Out of TN
+3289	Tennessee	US	07/31/2021			18829	94		Out of TN
+3289	Tennessee	US	08/01/2021			18863	94		Out of TN
+3289	Tennessee	US	08/02/2021			18905	94		Out of TN
+3289	Tennessee	US	08/03/2021			18982	94		Out of TN
+3289	Tennessee	US	08/04/2021			19061	95		Out of TN
+3289	Tennessee	US	08/05/2021			19165	96		Out of TN
+3289	Tennessee	US	08/06/2021			19280	97		Out of TN
+3289	Tennessee	US	08/07/2021			19337	97		Out of TN
+3289	Tennessee	US	08/08/2021			19373	97		Out of TN
+3289	Tennessee	US	08/09/2021			19449	98		Out of TN
+3289	Tennessee	US	08/10/2021			19556	98		Out of TN
+3289	Tennessee	US	08/11/2021			19709	100		Out of TN
+3289	Tennessee	US	08/12/2021			19813	101		Out of TN
+3289	Tennessee	US	08/13/2021			19960	101		Out of TN
+3289	Tennessee	US	08/14/2021			20069	101		Out of TN
+3289	Tennessee	US	08/15/2021			20180	102		Out of TN
+3289	Tennessee	US	08/16/2021			20256	102		Out of TN
+3289	Tennessee	US	08/17/2021			20413	102		Out of TN
+3289	Tennessee	US	08/18/2021			20648	101		Out of TN
+3289	Tennessee	US	08/19/2021			20875	101		Out of TN
+3289	Tennessee	US	08/20/2021			21109	102		Out of TN
+3289	Tennessee	US	08/21/2021			21542	102		Out of TN
+3289	Tennessee	US	08/22/2021			21660	102		Out of TN
+3289	Tennessee	US	08/23/2021			21770	103		Out of TN
+3289	Tennessee	US	08/24/2021			21888	103		Out of TN
+3289	Tennessee	US	08/25/2021			22019	103		Out of TN
+3289	Tennessee	US	08/26/2021			22199	104		Out of TN
+3289	Tennessee	US	08/27/2021			22388	105		Out of TN
+3289	Tennessee	US	08/28/2021			22566	105		Out of TN
+3289	Tennessee	US	08/29/2021			22822	107		Out of TN
+3289	Tennessee	US	08/30/2021			23110	108		Out of TN
+3289	Tennessee	US	08/31/2021			23336	108		Out of TN
+3289	Tennessee	US	09/01/2021			23425	108		Out of TN
+3289	Tennessee	US	09/02/2021			23540	108		Out of TN
+3289	Tennessee	US	09/03/2021			23645	108		Out of TN
+3289	Tennessee	US	09/04/2021			23944	108		Out of TN
+3289	Tennessee	US	09/05/2021			24281	108		Out of TN
+3289	Tennessee	US	09/06/2021			24644	109		Out of TN
+3289	Tennessee	US	09/07/2021			24763	111		Out of TN
+3289	Tennessee	US	09/08/2021			24858	112		Out of TN
+3289	Tennessee	US	09/09/2021			25003	112		Out of TN
+3289	Tennessee	US	09/10/2021			25502	111		Out of TN
+3289	Tennessee	US	09/11/2021			25852	114		Out of TN
+3289	Tennessee	US	09/12/2021			25919	116		Out of TN
+3289	Tennessee	US	09/13/2021			26026	117		Out of TN
+3289	Tennessee	US	09/14/2021			26169	117		Out of TN
+3289	Tennessee	US	09/15/2021			26256	116		Out of TN
+3290	Tennessee	US	09/16/2021			26378	116		Out of TN
+3290	Tennessee	US	09/17/2021			26492	116		Out of TN
+3290	Tennessee	US	09/18/2021			26582	116		Out of TN
+3290	Tennessee	US	09/19/2021			26616	116		Out of TN
+3290	Tennessee	US	09/20/2021			26687	117		Out of TN
+3290	Tennessee	US	09/21/2021			26783	117		Out of TN
+3290	Tennessee	US	09/22/2021			26929	117		Out of TN
+3307	Tennessee	US	09/23/2021			27128	118		Out of TN
+3307	Tennessee	US	09/24/2021			27218	118		Out of TN
+3307	Tennessee	US	09/25/2021			27283	118		Out of TN
+3307	Tennessee	US	09/26/2021			27349	118		Out of TN
+3307	Tennessee	US	09/27/2021			27413	121		Out of TN
+3307	Tennessee	US	09/28/2021			27490	122		Out of TN
+3307	Tennessee	US	09/29/2021			27598	123		Out of TN
+3307	Tennessee	US	09/30/2021			27668	123		Out of TN
+3307	Tennessee	US	10/01/2021			27755	123		Out of TN
+3307	Tennessee	US	10/02/2021			27810	123		Out of TN
+3307	Tennessee	US	10/03/2021			27831	123		Out of TN
+3307	Tennessee	US	10/04/2021			27898	127		Out of TN
+3307	Tennessee	US	10/05/2021			27941	129		Out of TN
+3308	Tennessee	US	10/06/2021			27988	129		Out of TN
+3308	Tennessee	US	10/07/2021			28031	130		Out of TN
+3308	Tennessee	US	10/08/2021			28078	131		Out of TN
+3308	Tennessee	US	10/09/2021			28106	131		Out of TN
+3308	Tennessee	US	10/10/2021			28114	131		Out of TN
+3308	Tennessee	US	10/11/2021			28147	133		Out of TN
+3308	Tennessee	US	10/12/2021			28173	133		Out of TN
+3308	Tennessee	US	10/13/2021			28210	133		Out of TN
+3308	Tennessee	US	10/14/2021			28240	133		Out of TN
+3308	Tennessee	US	10/15/2021			28259	133		Out of TN
+3308	Tennessee	US	10/16/2021			28277	133		Out of TN
+3308	Tennessee	US	10/17/2021			28294	133		Out of TN
+3308	Tennessee	US	10/18/2021			28311	133		Out of TN
+3308	Tennessee	US	10/19/2021			28341	133		Out of TN
+3308	Tennessee	US	10/20/2021			28358	133		Out of TN
+3308	Tennessee	US	10/21/2021			28581	133		Out of TN
+3308	Tennessee	US	10/22/2021			28610	134		Out of TN
+3308	Tennessee	US	10/23/2021			28624	134		Out of TN
+3308	Tennessee	US	10/24/2021			28629	134		Out of TN
+3308	Tennessee	US	10/25/2021			28646	134		Out of TN
+3308	Tennessee	US	10/26/2021			28680	134		Out of TN
+3308	Tennessee	US	10/27/2021			28698	135		Out of TN
+3308	Tennessee	US	10/28/2021			28725	135		Out of TN
+3308	Tennessee	US	10/29/2021			28745	135		Out of TN
+3308	Tennessee	US	10/30/2021			28753	135		Out of TN
+3308	Tennessee	US	10/31/2021			28764	135		Out of TN
+3309	Tennessee	US	11/01/2021			28778	135		Out of TN
+3309	Tennessee	US	11/02/2021			28788	135		Out of TN
+3309	Tennessee	US	11/03/2021			28805	137		Out of TN
+3309	Tennessee	US	11/04/2021			28824	137		Out of TN
+3309	Tennessee	US	11/05/2021			28837	137		Out of TN
+3309	Tennessee	US	11/06/2021			28846	137		Out of TN
+3309	Tennessee	US	11/07/2021			28858	138		Out of TN
+3309	Tennessee	US	11/08/2021			28868	138		Out of TN
+3309	Tennessee	US	11/09/2021			28908	138		Out of TN
+3309	Tennessee	US	11/10/2021			28937	138		Out of TN
+3309	Tennessee	US	11/11/2021			28957	139		Out of TN
+3309	Tennessee	US	11/12/2021			28987	139		Out of TN
+3309	Tennessee	US	11/13/2021			29002	139		Out of TN
+3309	Tennessee	US	11/14/2021			29016	139		Out of TN
+3309	Tennessee	US	11/15/2021			29030	139		Out of TN
+3309	Tennessee	US	11/16/2021			29050	139		Out of TN
+3309	Tennessee	US	11/17/2021			29090	140		Out of TN
+3309	Tennessee	US	11/18/2021			29117	140		Out of TN
+3309	Tennessee	US	11/19/2021			29145	141		Out of TN
+3309	Tennessee	US	11/20/2021			29156	141		Out of TN
+3309	Tennessee	US	11/21/2021			29175	141		Out of TN
+3309	Tennessee	US	11/22/2021			29198	141		Out of TN
+3309	Tennessee	US	11/23/2021			29237	141		Out of TN
+3309	Tennessee	US	11/24/2021			29267	141		Out of TN
+3309	Tennessee	US	11/25/2021			29295	141		Out of TN
+3309	Tennessee	US	11/26/2021			29306	141		Out of TN
+3309	Tennessee	US	11/27/2021			29324	141		Out of TN
+3309	Tennessee	US	11/28/2021			29341	141		Out of TN
+3309	Tennessee	US	11/29/2021			29377	141		Out of TN
+3309	Tennessee	US	11/30/2021			29411	142		Out of TN
+3309	Tennessee	US	12/01/2021			29440	144		Out of TN
+3309	Tennessee	US	12/02/2021			29472	145		Out of TN
+3309	Tennessee	US	12/03/2021			29506	144		Out of TN
+3309	Tennessee	US	12/04/2021			29522	144		Out of TN
+3309	Tennessee	US	12/05/2021			29530	146		Out of TN
+3309	Tennessee	US	12/06/2021			29550	155		Out of TN
+3309	Tennessee	US	12/07/2021			29582	157		Out of TN
+3309	Tennessee	US	12/08/2021			29648	158		Out of TN
+3309	Tennessee	US	12/09/2021			29686	155		Out of TN
+3309	Tennessee	US	12/10/2021			29724	156		Out of TN
+3309	Tennessee	US	12/11/2021			29739	156		Out of TN
+3309	Tennessee	US	12/12/2021			29754	156		Out of TN
+3309	Tennessee	US	12/13/2021			29800	156		Out of TN
+3309	Tennessee	US	12/14/2021			29863	157		Out of TN
+3309	Tennessee	US	12/15/2021			29899	157		Out of TN
+3309	Tennessee	US	12/16/2021			29942	158		Out of TN
+3309	Tennessee	US	12/17/2021			29988	159		Out of TN
+3309	Tennessee	US	12/18/2021			30036	159		Out of TN
+3309	Tennessee	US	12/19/2021			30062	160		Out of TN
+3309	Tennessee	US	12/20/2021			30121	160		Out of TN
+3309	Tennessee	US	12/21/2021			30204	161		Out of TN
+3309	Tennessee	US	12/22/2021			30322	207		Out of TN
+3309	Tennessee	US	12/23/2021			30508	207		Out of TN
+3309	Tennessee	US	12/24/2021			30652	207		Out of TN
+3309	Tennessee	US	12/25/2021			30845	207		Out of TN
+3309	Tennessee	US	12/26/2021			30884	213		Out of TN
+3309	Tennessee	US	12/27/2021			31082	213		Out of TN
+3309	Tennessee	US	12/28/2021			31531	214		Out of TN
+3309	Tennessee	US	12/29/2021			32000	211		Out of TN
+3309	Tennessee	US	12/30/2021			32552	211		Out of TN
+3309	Tennessee	US	12/31/2021			33015	211		Out of TN
+3309	Tennessee	US	01/01/2022			33348	211		Out of TN
+3309	Tennessee	US	01/02/2022			33751	211		Out of TN
+3309	Tennessee	US	01/03/2022			34128	211		Out of TN
+3309	Tennessee	US	01/04/2022			34653	211		Out of TN
+3309	Tennessee	US	01/05/2022			35325	211		Out of TN
+3309	Tennessee	US	01/06/2022			35963	211		Out of TN
+3309	Tennessee	US	01/07/2022			36674	211		Out of TN
+3309	Tennessee	US	01/08/2022			37080	211		Out of TN
+3309	Tennessee	US	01/09/2022			37356	212		Out of TN
+3309	Tennessee	US	01/10/2022			37729	213		Out of TN
+3309	Tennessee	US	01/11/2022			38165	211		Out of TN
+3309	Tennessee	US	01/12/2022			38718	213		Out of TN
+3309	Tennessee	US	01/13/2022			39321	216		Out of TN
+3309	Tennessee	US	01/14/2022			39906	219		Out of TN
+3309	Tennessee	US	01/15/2022			40306	221		Out of TN
+3309	Tennessee	US	01/16/2022			40529	222		Out of TN
+3309	Tennessee	US	01/17/2022			40760	217		Out of TN
+3309	Tennessee	US	01/18/2022			41269	219		Out of TN
+3309	Tennessee	US	01/19/2022			41791	221		Out of TN
+3309	Tennessee	US	01/20/2022			42317	222		Out of TN
+3309	Tennessee	US	01/21/2022			42763	223		Out of TN
+3309	Tennessee	US	01/22/2022			43087	223		Out of TN
+3309	Tennessee	US	01/23/2022			43249	223		Out of TN
+3309	Tennessee	US	01/24/2022			43517	226		Out of TN
+3309	Tennessee	US	01/25/2022			43858	228		Out of TN
+3309	Tennessee	US	01/26/2022			44245	228		Out of TN
+3309	Tennessee	US	01/27/2022			44648	230		Out of TN
+3309	Tennessee	US	01/28/2022			44932	232		Out of TN
+3309	Tennessee	US	01/29/2022			45090	232		Out of TN
+3309	Tennessee	US	01/30/2022			45182	232		Out of TN
+3309	Tennessee	US	01/31/2022			45424	236		Out of TN
+3309	Tennessee	US	02/01/2022			45661	237		Out of TN
+3309	Tennessee	US	02/02/2022			45880	242		Out of TN
+3309	Tennessee	US	02/03/2022			46236	244		Out of TN
+3309	Tennessee	US	02/04/2022			46398	244		Out of TN
+3309	Tennessee	US	02/05/2022			46476	244		Out of TN
+3309	Tennessee	US	02/06/2022			46513	244		Out of TN
+3309	Tennessee	US	02/07/2022			46615	246		Out of TN
+3309	Tennessee	US	02/08/2022			46727	245		Out of TN
+3310	Tennessee	US	02/09/2022			46903	245		Out of TN
+3310	Tennessee	US	02/10/2022			47031	244		Out of TN
+3310	Tennessee	US	02/11/2022			47130	247		Out of TN
+3310	Tennessee	US	02/12/2022			47187	247		Out of TN
+3310	Tennessee	US	02/13/2022			47234	248		Out of TN
+3310	Tennessee	US	02/14/2022			47392	254		Out of TN
+3310	Tennessee	US	02/15/2022			47489	253		Out of TN
+3310	Tennessee	US	02/16/2022			47586	251		Out of TN
+3310	Tennessee	US	02/17/2022			47671	250		Out of TN
+3310	Tennessee	US	02/18/2022			47739	249		Out of TN
+3310	Tennessee	US	02/19/2022			47779	249		Out of TN
+3310	Tennessee	US	02/20/2022			47804	249		Out of TN
+3310	Tennessee	US	02/21/2022			47833	249		Out of TN
+3310	Tennessee	US	02/22/2022			47872	250		Out of TN
+3310	Tennessee	US	02/23/2022			47914	251		Out of TN
+3310	Tennessee	US	02/24/2022			47946	251		Out of TN
+3310	Tennessee	US	02/25/2022			47985	251		Out of TN
+3310	Tennessee	US	02/26/2022			47997	251		Out of TN
+3310	Tennessee	US	02/27/2022			48000	252		Out of TN
+3310	Tennessee	US	02/28/2022			48045	252		Out of TN
+3310	Tennessee	US	03/01/2022			48081	255		Out of TN
+3310	Tennessee	US	03/02/2022			48124	254		Out of TN
+3310	Tennessee	US	03/03/2022			48153	255		Out of TN
+3310	Tennessee	US	03/04/2022			48171	255		Out of TN
+3310	Tennessee	US	03/05/2022			48180	255		Out of TN
+3310	Tennessee	US	03/06/2022			48183	254		Out of TN
+3310	Tennessee	US	03/07/2022			48189	254		Out of TN
+3310	Tennessee	US	03/08/2022			48210	255		Out of TN
+3310	Tennessee	US	03/09/2022			48224	255		Out of TN
+3310	Tennessee	US	03/10/2022			48238	257		Out of TN
+3310	Tennessee	US	03/11/2022			48250	257		Out of TN
+3310	Tennessee	US	03/12/2022			48255	257		Out of TN
+3310	Tennessee	US	03/13/2022			48260	257		Out of TN
+3310	Tennessee	US	03/14/2022			48276	260		Out of TN
+3310	Tennessee	US	03/15/2022			48287	260		Out of TN
+3310	Tennessee	US	03/16/2022			48294	260		Out of TN
+3310	Tennessee	US	03/17/2022			48301	260		Out of TN
+3310	Tennessee	US	03/18/2022			48319	263		Out of TN
+3310	Tennessee	US	03/19/2022			48328	263		Out of TN
+3310	Tennessee	US	03/20/2022			48335	263		Out of TN
+3310	Tennessee	US	03/21/2022			48349	261		Out of TN
+3310	Tennessee	US	03/22/2022			48366	261		Out of TN
+3310	Tennessee	US	03/23/2022			48383	262		Out of TN
+3310	Tennessee	US	03/24/2022			48408	262		Out of TN
+3310	Tennessee	US	03/25/2022			48421	262		Out of TN
+3310	Tennessee	US	03/26/2022			48428	262		Out of TN
 3310	Tennessee	US	03/27/2022			48507	263		Out of TN
 3310	Tennessee	US	03/28/2022			48507	263		Out of TN
 3310	Tennessee	US	03/29/2022			48507	263		Out of TN
 3310	Tennessee	US	03/30/2022			48428	262		Out of TN
 3310	Tennessee	US	03/31/2022			48428	262		Out of TN
+3310	Tennessee	US	04/01/2022			48428	262		Out of TN
