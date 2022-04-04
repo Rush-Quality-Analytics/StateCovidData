@@ -734,3 +734,5 @@
 2021	Michigan	US	03/30/2022			20	0		Unassigned
 2021	Michigan	US	03/31/2022			20	0		Unassigned
 2021	Michigan	US	04/01/2022			17	0		Unassigned
+2021	Michigan	US	04/02/2022			17	0		Unassigned
+2021	Michigan	US	04/03/2022			17	0		Unassigned

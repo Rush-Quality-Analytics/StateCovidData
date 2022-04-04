@@ -740,3 +740,5 @@
 3794	Washington	US	03/30/2022			3271	7		Unassigned
 3794	Washington	US	03/31/2022			3271	7		Unassigned
 3794	Washington	US	04/01/2022			3275	7		Unassigned
+3794	Washington	US	04/02/2022			3275	7		Unassigned
+3794	Washington	US	04/03/2022			3275	7		Unassigned

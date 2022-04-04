@@ -197,3 +197,5 @@
 898	California	US	03/30/2022			0	0		Out of CA
 898	California	US	03/31/2022			0	0		Out of CA
 898	California	US	04/01/2022			0	0		Out of CA
+898	California	US	04/02/2022			0	0		Out of CA
+898	California	US	04/03/2022			0	0		Out of CA
