@@ -741,3 +741,5 @@
 3310	Tennessee	US	04/01/2022			48428	262		Out of TN
 3310	Tennessee	US	04/02/2022			48428	262		Out of TN
 3310	Tennessee	US	04/03/2022			48428	262		Out of TN
+3310	Tennessee	US	04/04/2022			48428	262		Out of TN
+3310	Tennessee	US	04/05/2022			48428	262		Out of TN
