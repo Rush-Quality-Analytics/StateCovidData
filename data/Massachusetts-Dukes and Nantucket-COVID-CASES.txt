@@ -746,3 +746,6 @@
 1928	Massachusetts	US	04/05/2022	41.40674725	-70.68763497	6828	16		Dukes and Nantucket
 1928	Massachusetts	US	04/06/2022	41.40674725	-70.68763497	6832	16		Dukes and Nantucket
 1928	Massachusetts	US	04/07/2022	41.40674725	-70.68763497	6839	16		Dukes and Nantucket
+1928	Massachusetts	US	04/08/2022	41.40674725	-70.68763497	6844	16		Dukes and Nantucket
+1928	Massachusetts	US	04/09/2022	41.40674725	-70.68763497	6844	16		Dukes and Nantucket
+1928	Massachusetts	US	04/10/2022	41.40674725	-70.68763497	6844	16		Dukes and Nantucket

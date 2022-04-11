@@ -733,3 +733,6 @@
 1687	Kansas	US	04/05/2022			0	0		Unassigned
 1687	Kansas	US	04/06/2022			0	0		Unassigned
 1687	Kansas	US	04/07/2022			0	0		Unassigned
+1687	Kansas	US	04/08/2022			0	105		Unassigned
+1687	Kansas	US	04/09/2022			0	105		Unassigned
+1687	Kansas	US	04/10/2022			0	105		Unassigned
