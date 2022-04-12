@@ -738,3 +738,4 @@
 2547	New Mexico	US	04/08/2022			6709	0		Unassigned
 2547	New Mexico	US	04/09/2022			6709	0		Unassigned
 2547	New Mexico	US	04/10/2022			6709	0		Unassigned
+2547	New Mexico	US	04/11/2022			6711	1		Unassigned

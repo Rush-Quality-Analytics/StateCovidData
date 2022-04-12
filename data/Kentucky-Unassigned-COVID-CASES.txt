@@ -749,3 +749,4 @@
 1807	Kentucky	US	04/08/2022			4669	106		Unassigned
 1807	Kentucky	US	04/09/2022			5154	133		Unassigned
 1807	Kentucky	US	04/10/2022			5154	133		Unassigned
+1807	Kentucky	US	04/11/2022			2559	0		Unassigned
