@@ -728,3 +728,4 @@
 2764	North Dakota	US	04/10/2022			0	22		Unassigned
 2764	North Dakota	US	04/11/2022			0	22		Unassigned
 2764	North Dakota	US	04/12/2022			63	22		Unassigned
+2764	North Dakota	US	04/13/2022			127	22		Unassigned
