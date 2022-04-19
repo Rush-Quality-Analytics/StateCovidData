@@ -239,515 +239,519 @@
 3298	Tennessee	US	11/15/2020			2619	10	0	Unassigned
 3298	Tennessee	US	11/16/2020			2711	10	0	Unassigned
 3298	Tennessee	US	11/17/2020			2766	10	0	Unassigned
-3298	Tennessee	US	11/18/2020			2837	10	0	Unassigned
-3298	Tennessee	US	11/19/2020			2884	14	0	Unassigned
-3298	Tennessee	US	11/20/2020			2945	13	0	Unassigned
-3298	Tennessee	US	11/21/2020			2996	13	0	Unassigned
-3298	Tennessee	US	11/22/2020			3096	14	0	Unassigned
-3298	Tennessee	US	11/23/2020			3131	14	0	Unassigned
-3299	Tennessee	US	11/24/2020			3175	18	0	Unassigned
-3299	Tennessee	US	11/25/2020			3228	22	0	Unassigned
-3299	Tennessee	US	11/26/2020			3386	22	0	Unassigned
-3299	Tennessee	US	11/27/2020			3484	22	0	Unassigned
-3299	Tennessee	US	11/28/2020			3575	22	0	Unassigned
-3299	Tennessee	US	11/29/2020			3631	22	0	Unassigned
-3299	Tennessee	US	11/30/2020			3705	22	0	Unassigned
-3299	Tennessee	US	12/01/2020			3797	22	0	Unassigned
-3299	Tennessee	US	12/02/2020			3828	24	0	Unassigned
-3299	Tennessee	US	12/03/2020			3932	25	0	Unassigned
-3299	Tennessee	US	12/04/2020			4030	29	0	Unassigned
-3299	Tennessee	US	12/05/2020			4074	30	0	Unassigned
-3299	Tennessee	US	12/06/2020			4123	30	0	Unassigned
-3299	Tennessee	US	12/07/2020			4241	30	0	Unassigned
-3299	Tennessee	US	12/08/2020			4391	31	0	Unassigned
-3299	Tennessee	US	12/09/2020			4465	34	0	Unassigned
-3299	Tennessee	US	12/10/2020			4601	35	0	Unassigned
-3299	Tennessee	US	12/11/2020			4697	38	0	Unassigned
-3299	Tennessee	US	12/12/2020			4844	40	0	Unassigned
-3299	Tennessee	US	12/13/2020			5009	41	0	Unassigned
-3299	Tennessee	US	12/14/2020			5139	42	0	Unassigned
-3299	Tennessee	US	12/15/2020			5333	45	0	Unassigned
-3299	Tennessee	US	12/16/2020			5485	47	0	Unassigned
-3299	Tennessee	US	12/17/2020			5685	52	0	Unassigned
-3299	Tennessee	US	12/18/2020			5841	55	0	Unassigned
-3299	Tennessee	US	12/19/2020			5969	56	0	Unassigned
-3299	Tennessee	US	12/20/2020			6144	60	0	Unassigned
-3299	Tennessee	US	12/21/2020			6266	63	0	Unassigned
-3299	Tennessee	US	12/22/2020			6436	64	0	Unassigned
-3299	Tennessee	US	12/23/2020			6543	67	0	Unassigned
-3299	Tennessee	US	12/24/2020			6694	71	0	Unassigned
-3299	Tennessee	US	12/25/2020			6815	71	0	Unassigned
-3299	Tennessee	US	12/26/2020			6913	72	0	Unassigned
-3299	Tennessee	US	12/27/2020			6962	76	0	Unassigned
-3299	Tennessee	US	12/28/2020			7038	80	0	Unassigned
-3299	Tennessee	US	12/29/2020			7245	81	0	Unassigned
-3299	Tennessee	US	12/30/2020			7422	85	0	Unassigned
-3299	Tennessee	US	12/31/2020			7626	86	0	Unassigned
-3299	Tennessee	US	01/01/2021			7742	90	0	Unassigned
-3299	Tennessee	US	01/02/2021			7879	91	0	Unassigned
-3300	Tennessee	US	01/03/2021			7949	94	0	Unassigned
-3300	Tennessee	US	01/04/2021			8036	100	0	Unassigned
-3300	Tennessee	US	01/05/2021			8237	100	0	Unassigned
-3300	Tennessee	US	01/06/2021			8403	104	0	Unassigned
-3300	Tennessee	US	01/07/2021			8550	106	0	Unassigned
-3300	Tennessee	US	01/08/2021			8695	111	0	Unassigned
-3300	Tennessee	US	01/09/2021			8847	110	0	Unassigned
-3300	Tennessee	US	01/10/2021			8948	112	0	Unassigned
-3300	Tennessee	US	01/11/2021			9035	114	0	Unassigned
-3300	Tennessee	US	01/12/2021			9153	116	0	Unassigned
-3300	Tennessee	US	01/13/2021			9236	121	0	Unassigned
-3300	Tennessee	US	01/14/2021			9327	125	0	Unassigned
-3301	Tennessee	US	01/15/2021			9380	128	0	Unassigned
-3301	Tennessee	US	01/16/2021			9511	127	0	Unassigned
-3301	Tennessee	US	01/17/2021			9559	126	0	Unassigned
-3301	Tennessee	US	01/18/2021			9588	126	0	Unassigned
-3301	Tennessee	US	01/19/2021			9691	127	0	Unassigned
-3301	Tennessee	US	01/20/2021			9744	126	0	Unassigned
-3302	Tennessee	US	01/21/2021			9842	129	0	Unassigned
-3302	Tennessee	US	01/22/2021			9888	134	0	Unassigned
-3302	Tennessee	US	01/23/2021			9949	134	0	Unassigned
-3302	Tennessee	US	01/24/2021			9962	137	0	Unassigned
-3302	Tennessee	US	01/25/2021			9993	140	0	Unassigned
-3302	Tennessee	US	01/26/2021			10040	147	0	Unassigned
-3302	Tennessee	US	01/27/2021			10079	154	0	Unassigned
-3302	Tennessee	US	01/28/2021			10160	157	0	Unassigned
-3302	Tennessee	US	01/29/2021			10176	159	0	Unassigned
-3302	Tennessee	US	01/30/2021			10236	167	0	Unassigned
-3302	Tennessee	US	01/31/2021			10278	170	0	Unassigned
-3302	Tennessee	US	02/01/2021			10304	174	0	Unassigned
-3302	Tennessee	US	02/02/2021			10333	180	0	Unassigned
-3302	Tennessee	US	02/03/2021			10384	187	0	Unassigned
-3302	Tennessee	US	02/04/2021			10453	191	0	Unassigned
-3302	Tennessee	US	02/05/2021			10501	196	0	Unassigned
-3302	Tennessee	US	02/06/2021			10559	198	0	Unassigned
-3302	Tennessee	US	02/07/2021			10584	198	0	Unassigned
-3302	Tennessee	US	02/08/2021			10597	202	0	Unassigned
-3302	Tennessee	US	02/09/2021			10640	203	0	Unassigned
-3302	Tennessee	US	02/10/2021			10669	207	0	Unassigned
-3302	Tennessee	US	02/11/2021			10710	176	0	Unassigned
-3302	Tennessee	US	02/12/2021			10742	169	0	Unassigned
-3302	Tennessee	US	02/13/2021			10772	152	0	Unassigned
-3302	Tennessee	US	02/14/2021			10793	136	0	Unassigned
-3302	Tennessee	US	02/15/2021			10798	130	0	Unassigned
-3302	Tennessee	US	02/16/2021			10807	124	0	Unassigned
-3302	Tennessee	US	02/17/2021			10816	125	0	Unassigned
-3302	Tennessee	US	02/18/2021			10844	125	0	Unassigned
-3303	Tennessee	US	02/19/2021			10859	125	0	Unassigned
-3303	Tennessee	US	02/20/2021			10871	125	0	Unassigned
-3303	Tennessee	US	02/21/2021			10876	126	0	Unassigned
-3303	Tennessee	US	02/22/2021			10899	125	0	Unassigned
-3303	Tennessee	US	02/23/2021			10921	126	0	Unassigned
-3303	Tennessee	US	02/24/2021			10949	125	0	Unassigned
-3303	Tennessee	US	02/25/2021			10981	125	0	Unassigned
-3303	Tennessee	US	02/26/2021			10999	127	0	Unassigned
-3303	Tennessee	US	02/27/2021			11035	126	0	Unassigned
-3303	Tennessee	US	02/28/2021			11048	125	0	Unassigned
-3303	Tennessee	US	03/01/2021			11062	125	0	Unassigned
-3303	Tennessee	US	03/02/2021			11100	125	0	Unassigned
-3303	Tennessee	US	03/03/2021			11136	126	0	Unassigned
-3303	Tennessee	US	03/04/2021			11181	127	0	Unassigned
-3303	Tennessee	US	03/05/2021			11207	126	0	Unassigned
-3303	Tennessee	US	03/06/2021			11226	126	0	Unassigned
-3303	Tennessee	US	03/07/2021			11240	126		Unassigned
-3303	Tennessee	US	03/08/2021			11269	126		Unassigned
-3303	Tennessee	US	03/09/2021			11295	127		Unassigned
-3303	Tennessee	US	03/10/2021			11321	129		Unassigned
-3303	Tennessee	US	03/11/2021			11351	128		Unassigned
-3303	Tennessee	US	03/12/2021			11368	128		Unassigned
-3303	Tennessee	US	03/13/2021			11383	128		Unassigned
-3303	Tennessee	US	03/14/2021			11392	128		Unassigned
-3303	Tennessee	US	03/15/2021			11405	128		Unassigned
-3303	Tennessee	US	03/16/2021			11435	128		Unassigned
-3303	Tennessee	US	03/17/2021			11449	128		Unassigned
-3303	Tennessee	US	03/18/2021			11472	128		Unassigned
-3303	Tennessee	US	03/19/2021			11493	129		Unassigned
-3303	Tennessee	US	03/20/2021			11499	129		Unassigned
-3303	Tennessee	US	03/21/2021			11503	127		Unassigned
-3303	Tennessee	US	03/22/2021			11513	127		Unassigned
-3303	Tennessee	US	03/23/2021			11532	127		Unassigned
-3303	Tennessee	US	03/24/2021			11543	127		Unassigned
-3303	Tennessee	US	03/25/2021			11551	127		Unassigned
-3303	Tennessee	US	03/26/2021			11555	127		Unassigned
-3303	Tennessee	US	03/27/2021			11570	127		Unassigned
-3303	Tennessee	US	03/28/2021			11581	127		Unassigned
-3303	Tennessee	US	03/29/2021			11598	127		Unassigned
-3303	Tennessee	US	03/30/2021			11608	127		Unassigned
-3303	Tennessee	US	03/31/2021			11644	128		Unassigned
-3303	Tennessee	US	04/01/2021			11661	128		Unassigned
-3305	Tennessee	US	04/02/2021			11678	129		Unassigned
-3305	Tennessee	US	04/03/2021			11689	129		Unassigned
-3305	Tennessee	US	04/04/2021			11696	129		Unassigned
-3305	Tennessee	US	04/05/2021			11707	129		Unassigned
-3305	Tennessee	US	04/06/2021			11729	129		Unassigned
-3305	Tennessee	US	04/07/2021			11749	129		Unassigned
-3305	Tennessee	US	04/08/2021			11761	129		Unassigned
-3305	Tennessee	US	04/09/2021			11772	129		Unassigned
-3305	Tennessee	US	04/10/2021			11781	129		Unassigned
-3305	Tennessee	US	04/11/2021			11784	129		Unassigned
-3305	Tennessee	US	04/12/2021			11812	129		Unassigned
-3305	Tennessee	US	04/13/2021			11830	130		Unassigned
-3305	Tennessee	US	04/14/2021			11846	130		Unassigned
-3305	Tennessee	US	04/15/2021			11859	131		Unassigned
-3305	Tennessee	US	04/16/2021			11989	131		Unassigned
-3305	Tennessee	US	04/17/2021			11992	130		Unassigned
-3305	Tennessee	US	04/18/2021			11995	129		Unassigned
-3305	Tennessee	US	04/19/2021			12007	130		Unassigned
-3305	Tennessee	US	04/20/2021			12017	130		Unassigned
-3305	Tennessee	US	04/21/2021			12030	130		Unassigned
-3305	Tennessee	US	04/22/2021			12066	130		Unassigned
-3305	Tennessee	US	04/23/2021			12074	130		Unassigned
-3305	Tennessee	US	04/24/2021			12083	130		Unassigned
-3305	Tennessee	US	04/25/2021			12086	130		Unassigned
-3305	Tennessee	US	04/26/2021			12102	131		Unassigned
-3305	Tennessee	US	04/27/2021			12121	131		Unassigned
-3305	Tennessee	US	04/28/2021			12134	131		Unassigned
-3305	Tennessee	US	04/29/2021			12151	131		Unassigned
-3305	Tennessee	US	04/30/2021			12166	131		Unassigned
-3305	Tennessee	US	05/01/2021			12166	131		Unassigned
-3305	Tennessee	US	05/02/2021			12171	131		Unassigned
-3305	Tennessee	US	05/03/2021			12177	131		Unassigned
-3305	Tennessee	US	05/04/2021			12180	131		Unassigned
-3305	Tennessee	US	05/05/2021			12199	131		Unassigned
-3305	Tennessee	US	05/06/2021			12205	131		Unassigned
-3305	Tennessee	US	05/07/2021			12223	131		Unassigned
-3305	Tennessee	US	05/08/2021			12231	131		Unassigned
-3305	Tennessee	US	05/09/2021			12232	131		Unassigned
-3305	Tennessee	US	05/10/2021			12237	131		Unassigned
-3305	Tennessee	US	05/11/2021			12245	131		Unassigned
-3305	Tennessee	US	05/12/2021			12252	131		Unassigned
-3305	Tennessee	US	05/13/2021			12259	131		Unassigned
-3305	Tennessee	US	05/14/2021			12268	131		Unassigned
-3305	Tennessee	US	05/15/2021			12270	131		Unassigned
-3305	Tennessee	US	05/16/2021			12273	131		Unassigned
-3305	Tennessee	US	05/17/2021			12284	131		Unassigned
-3305	Tennessee	US	05/18/2021			12290	131		Unassigned
-3305	Tennessee	US	05/19/2021			12302	131		Unassigned
-3305	Tennessee	US	05/20/2021			12305	131		Unassigned
-3305	Tennessee	US	05/21/2021			12313	131		Unassigned
-3305	Tennessee	US	05/22/2021			12318	131		Unassigned
-3305	Tennessee	US	05/23/2021			12323	131		Unassigned
-3305	Tennessee	US	05/24/2021			12330	131		Unassigned
-3305	Tennessee	US	05/25/2021			12332	131		Unassigned
-3305	Tennessee	US	05/26/2021			12334	132		Unassigned
-3306	Tennessee	US	05/27/2021			12337	132		Unassigned
-3306	Tennessee	US	05/28/2021			12339	133		Unassigned
-3306	Tennessee	US	05/29/2021			12343	133		Unassigned
-3306	Tennessee	US	05/30/2021			12344	133		Unassigned
-3306	Tennessee	US	05/31/2021			12348	133		Unassigned
-3306	Tennessee	US	06/01/2021			12350	133		Unassigned
-3306	Tennessee	US	06/02/2021			12353	133		Unassigned
-3306	Tennessee	US	06/03/2021			12357	133		Unassigned
-3306	Tennessee	US	06/04/2021			12362	133		Unassigned
-3306	Tennessee	US	06/05/2021			12364	133		Unassigned
-3306	Tennessee	US	06/06/2021			12364	133		Unassigned
-3306	Tennessee	US	06/07/2021			12367	133		Unassigned
-3306	Tennessee	US	06/08/2021			12367	133		Unassigned
-3306	Tennessee	US	06/09/2021			12371	133		Unassigned
-3306	Tennessee	US	06/10/2021			12373	99		Unassigned
-3306	Tennessee	US	06/11/2021			12377	99		Unassigned
-3306	Tennessee	US	06/12/2021			12377	99		Unassigned
-3306	Tennessee	US	06/13/2021			12377	99		Unassigned
-3306	Tennessee	US	06/14/2021			12379	99		Unassigned
-3306	Tennessee	US	06/15/2021			12385	99		Unassigned
-3306	Tennessee	US	06/16/2021			12390	99		Unassigned
-3308	Tennessee	US	06/17/2021			12394	99		Unassigned
-3308	Tennessee	US	06/18/2021			12395	99		Unassigned
-3308	Tennessee	US	06/19/2021			12395	99		Unassigned
-3308	Tennessee	US	06/20/2021			12396	99		Unassigned
-3308	Tennessee	US	06/21/2021			12397	99		Unassigned
-3308	Tennessee	US	06/22/2021			12398	99		Unassigned
-3308	Tennessee	US	06/23/2021			12403	99		Unassigned
-3309	Tennessee	US	06/24/2021			12409	99		Unassigned
-3309	Tennessee	US	06/25/2021			12410	99		Unassigned
-3309	Tennessee	US	06/26/2021			12411	99		Unassigned
-3309	Tennessee	US	06/27/2021			12413	99		Unassigned
-3309	Tennessee	US	06/28/2021			12413	99		Unassigned
-3309	Tennessee	US	06/29/2021			12414	99		Unassigned
-3309	Tennessee	US	06/30/2021			12420	99		Unassigned
-3309	Tennessee	US	07/01/2021			12424	93		Unassigned
-3309	Tennessee	US	07/02/2021			12426	93		Unassigned
-3309	Tennessee	US	07/03/2021			12427	93		Unassigned
-3309	Tennessee	US	07/04/2021			12428	93		Unassigned
-3309	Tennessee	US	07/05/2021			12429	93		Unassigned
-3309	Tennessee	US	07/06/2021			12432	93		Unassigned
-3309	Tennessee	US	07/07/2021			12436	93		Unassigned
-3309	Tennessee	US	07/08/2021			12442	93		Unassigned
-3309	Tennessee	US	07/09/2021			12448	93		Unassigned
-3309	Tennessee	US	07/10/2021			12450	93		Unassigned
-3309	Tennessee	US	07/11/2021			12450	93		Unassigned
-3309	Tennessee	US	07/12/2021			12461	93		Unassigned
-3309	Tennessee	US	07/13/2021			12468	93		Unassigned
-3309	Tennessee	US	07/14/2021			12473	93		Unassigned
-3309	Tennessee	US	07/15/2021			12480	93		Unassigned
-3309	Tennessee	US	07/16/2021			12492	93		Unassigned
-3309	Tennessee	US	07/17/2021			12496	93		Unassigned
-3309	Tennessee	US	07/18/2021			12501	93		Unassigned
-3309	Tennessee	US	07/19/2021			12513	93		Unassigned
-3309	Tennessee	US	07/20/2021			12525	93		Unassigned
-3309	Tennessee	US	07/21/2021			12557	93		Unassigned
-3309	Tennessee	US	07/22/2021			12574	93		Unassigned
-3309	Tennessee	US	07/23/2021			12598	93		Unassigned
-3309	Tennessee	US	07/24/2021			12618	93		Unassigned
-3309	Tennessee	US	07/25/2021			12631	93		Unassigned
-3309	Tennessee	US	07/26/2021			12670	93		Unassigned
-3309	Tennessee	US	07/27/2021			12699	93		Unassigned
-3309	Tennessee	US	07/28/2021			12736	93		Unassigned
-3309	Tennessee	US	07/29/2021			12768	93		Unassigned
-3309	Tennessee	US	07/30/2021			12824	93		Unassigned
-3309	Tennessee	US	07/31/2021			12844	93		Unassigned
-3309	Tennessee	US	08/01/2021			12868	93		Unassigned
-3309	Tennessee	US	08/02/2021			12917	93		Unassigned
-3309	Tennessee	US	08/03/2021			12981	93		Unassigned
-3309	Tennessee	US	08/04/2021			13042	93		Unassigned
-3309	Tennessee	US	08/05/2021			13109	93		Unassigned
-3309	Tennessee	US	08/06/2021			13186	93		Unassigned
-3309	Tennessee	US	08/07/2021			13234	93		Unassigned
-3309	Tennessee	US	08/08/2021			13266	93		Unassigned
-3309	Tennessee	US	08/09/2021			13312	93		Unassigned
-3309	Tennessee	US	08/10/2021			13404	93		Unassigned
-3309	Tennessee	US	08/11/2021			13535	93		Unassigned
-3309	Tennessee	US	08/12/2021			13620	93		Unassigned
-3309	Tennessee	US	08/13/2021			13784	93		Unassigned
-3309	Tennessee	US	08/14/2021			13860	93		Unassigned
-3309	Tennessee	US	08/15/2021			13896	93		Unassigned
-3309	Tennessee	US	08/16/2021			13970	94		Unassigned
-3309	Tennessee	US	08/17/2021			14056	94		Unassigned
-3309	Tennessee	US	08/18/2021			14201	94		Unassigned
-3309	Tennessee	US	08/19/2021			14381	93		Unassigned
-3309	Tennessee	US	08/20/2021			14520	94		Unassigned
-3309	Tennessee	US	08/21/2021			14779	94		Unassigned
-3309	Tennessee	US	08/22/2021			14833	94		Unassigned
-3309	Tennessee	US	08/23/2021			14947	94		Unassigned
-3309	Tennessee	US	08/24/2021			15041	94		Unassigned
-3309	Tennessee	US	08/25/2021			15192	95		Unassigned
-3309	Tennessee	US	08/26/2021			15351	94		Unassigned
-3309	Tennessee	US	08/27/2021			15563	95		Unassigned
-3309	Tennessee	US	08/28/2021			15725	95		Unassigned
-3309	Tennessee	US	08/29/2021			15915	96		Unassigned
-3309	Tennessee	US	08/30/2021			16183	96		Unassigned
-3309	Tennessee	US	08/31/2021			16381	96		Unassigned
-3309	Tennessee	US	09/01/2021			16458	96		Unassigned
-3309	Tennessee	US	09/02/2021			16615	98		Unassigned
-3309	Tennessee	US	09/03/2021			16737	98		Unassigned
-3309	Tennessee	US	09/04/2021			16948	98		Unassigned
-3309	Tennessee	US	09/05/2021			17258	99		Unassigned
-3309	Tennessee	US	09/06/2021			17564	99		Unassigned
-3309	Tennessee	US	09/07/2021			17664	99		Unassigned
-3309	Tennessee	US	09/08/2021			17764	101		Unassigned
-3309	Tennessee	US	09/09/2021			17913	101		Unassigned
-3309	Tennessee	US	09/10/2021			18284	102		Unassigned
-3309	Tennessee	US	09/11/2021			18593	101		Unassigned
-3309	Tennessee	US	09/12/2021			18658	100		Unassigned
-3309	Tennessee	US	09/13/2021			18802	101		Unassigned
-3309	Tennessee	US	09/14/2021			18945	103		Unassigned
-3309	Tennessee	US	09/15/2021			19063	102		Unassigned
-3310	Tennessee	US	09/16/2021			19192	104		Unassigned
-3310	Tennessee	US	09/17/2021			19336	105		Unassigned
-3310	Tennessee	US	09/18/2021			19401	105		Unassigned
-3310	Tennessee	US	09/19/2021			19432	105		Unassigned
-3310	Tennessee	US	09/20/2021			19519	106		Unassigned
-3310	Tennessee	US	09/21/2021			19628	108		Unassigned
-3310	Tennessee	US	09/22/2021			19722	109		Unassigned
-3327	Tennessee	US	09/23/2021			19860	110		Unassigned
-3327	Tennessee	US	09/24/2021			19963	110		Unassigned
-3327	Tennessee	US	09/25/2021			19996	110		Unassigned
-3327	Tennessee	US	09/26/2021			20023	112		Unassigned
-3327	Tennessee	US	09/27/2021			20107	114		Unassigned
-3327	Tennessee	US	09/28/2021			20181	114		Unassigned
-3327	Tennessee	US	09/29/2021			20259	113		Unassigned
-3327	Tennessee	US	09/30/2021			20337	115		Unassigned
-3327	Tennessee	US	10/01/2021			20403	115		Unassigned
-3327	Tennessee	US	10/02/2021			20430	115		Unassigned
-3327	Tennessee	US	10/03/2021			20449	115		Unassigned
-3327	Tennessee	US	10/04/2021			20525	118		Unassigned
-3327	Tennessee	US	10/05/2021			20572	117		Unassigned
-3328	Tennessee	US	10/06/2021			20617	117		Unassigned
-3328	Tennessee	US	10/07/2021			20662	116		Unassigned
-3328	Tennessee	US	10/08/2021			20704	116		Unassigned
-3328	Tennessee	US	10/09/2021			20725	115		Unassigned
-3328	Tennessee	US	10/10/2021			20733	115		Unassigned
-3328	Tennessee	US	10/11/2021			20800	115		Unassigned
-3328	Tennessee	US	10/12/2021			20837	115		Unassigned
-3328	Tennessee	US	10/13/2021			20871	115		Unassigned
-3328	Tennessee	US	10/14/2021			20902	115		Unassigned
-3328	Tennessee	US	10/15/2021			20933	115		Unassigned
-3328	Tennessee	US	10/16/2021			20939	115		Unassigned
-3328	Tennessee	US	10/17/2021			20948	115		Unassigned
-3328	Tennessee	US	10/18/2021			20981	118		Unassigned
-3328	Tennessee	US	10/19/2021			21008	118		Unassigned
-3328	Tennessee	US	10/20/2021			21031	119		Unassigned
-3328	Tennessee	US	10/21/2021			21070	119		Unassigned
-3328	Tennessee	US	10/22/2021			21092	119		Unassigned
-3328	Tennessee	US	10/23/2021			21103	119		Unassigned
-3328	Tennessee	US	10/24/2021			21109	119		Unassigned
-3328	Tennessee	US	10/25/2021			21129	118		Unassigned
-3328	Tennessee	US	10/26/2021			21147	118		Unassigned
-3328	Tennessee	US	10/27/2021			21169	118		Unassigned
-3328	Tennessee	US	10/28/2021			21181	119		Unassigned
-3328	Tennessee	US	10/29/2021			21201	120		Unassigned
-3328	Tennessee	US	10/30/2021			21208	120		Unassigned
-3328	Tennessee	US	10/31/2021			21210	120		Unassigned
-3329	Tennessee	US	11/01/2021			21230	120		Unassigned
-3329	Tennessee	US	11/02/2021			21246	120		Unassigned
-3329	Tennessee	US	11/03/2021			21262	120		Unassigned
-3329	Tennessee	US	11/04/2021			21275	121		Unassigned
-3329	Tennessee	US	11/05/2021			21286	121		Unassigned
-3329	Tennessee	US	11/06/2021			21297	121		Unassigned
-3329	Tennessee	US	11/07/2021			21308	121		Unassigned
-3329	Tennessee	US	11/08/2021			21322	123		Unassigned
-3329	Tennessee	US	11/09/2021			21370	125		Unassigned
-3329	Tennessee	US	11/10/2021			21392	126		Unassigned
-3329	Tennessee	US	11/11/2021			21409	126		Unassigned
-3329	Tennessee	US	11/12/2021			21434	127		Unassigned
-3329	Tennessee	US	11/13/2021			21444	126		Unassigned
-3329	Tennessee	US	11/14/2021			21450	126		Unassigned
-3329	Tennessee	US	11/15/2021			21470	127		Unassigned
-3329	Tennessee	US	11/16/2021			21493	127		Unassigned
-3329	Tennessee	US	11/17/2021			21518	127		Unassigned
-3329	Tennessee	US	11/18/2021			21533	126		Unassigned
-3329	Tennessee	US	11/19/2021			21554	126		Unassigned
-3329	Tennessee	US	11/20/2021			21561	126		Unassigned
-3329	Tennessee	US	11/21/2021			21570	126		Unassigned
-3329	Tennessee	US	11/22/2021			21587	128		Unassigned
-3329	Tennessee	US	11/23/2021			21606	129		Unassigned
-3329	Tennessee	US	11/24/2021			21637	128		Unassigned
-3329	Tennessee	US	11/25/2021			21648	128		Unassigned
-3329	Tennessee	US	11/26/2021			21652	128		Unassigned
-3329	Tennessee	US	11/27/2021			21659	128		Unassigned
-3329	Tennessee	US	11/28/2021			21664	128		Unassigned
-3329	Tennessee	US	11/29/2021			21693	128		Unassigned
-3329	Tennessee	US	11/30/2021			21729	131		Unassigned
-3329	Tennessee	US	12/01/2021			21772	132		Unassigned
-3329	Tennessee	US	12/02/2021			21809	133		Unassigned
-3329	Tennessee	US	12/03/2021			21854	136		Unassigned
-3329	Tennessee	US	12/04/2021			21867	134		Unassigned
-3329	Tennessee	US	12/05/2021			21880	135		Unassigned
-3329	Tennessee	US	12/06/2021			21921	141		Unassigned
-3329	Tennessee	US	12/07/2021			21965	141		Unassigned
-3329	Tennessee	US	12/08/2021			22003	141		Unassigned
-3329	Tennessee	US	12/09/2021			22039	142		Unassigned
-3329	Tennessee	US	12/10/2021			22069	142		Unassigned
-3329	Tennessee	US	12/11/2021			22086	141		Unassigned
-3329	Tennessee	US	12/12/2021			22103	142		Unassigned
-3329	Tennessee	US	12/13/2021			22134	144		Unassigned
-3329	Tennessee	US	12/14/2021			22163	143		Unassigned
-3329	Tennessee	US	12/15/2021			22197	144		Unassigned
-3329	Tennessee	US	12/16/2021			22226	145		Unassigned
-3329	Tennessee	US	12/17/2021			22260	144		Unassigned
-3329	Tennessee	US	12/18/2021			22293	144		Unassigned
-3329	Tennessee	US	12/19/2021			22310	145		Unassigned
-3329	Tennessee	US	12/20/2021			22353	146		Unassigned
-3329	Tennessee	US	12/21/2021			22397	146		Unassigned
-3329	Tennessee	US	12/22/2021			22465	182		Unassigned
-3329	Tennessee	US	12/23/2021			22532	177		Unassigned
-3329	Tennessee	US	12/24/2021			22593	176		Unassigned
-3329	Tennessee	US	12/25/2021			22625	176		Unassigned
-3329	Tennessee	US	12/26/2021			22639	176		Unassigned
-3329	Tennessee	US	12/27/2021			22736	177		Unassigned
-3329	Tennessee	US	12/28/2021			22915	177		Unassigned
-3329	Tennessee	US	12/29/2021			23130	177		Unassigned
-3329	Tennessee	US	12/30/2021			23341	177		Unassigned
-3329	Tennessee	US	12/31/2021			23507	177		Unassigned
-3329	Tennessee	US	01/01/2022			23615	177		Unassigned
-3329	Tennessee	US	01/02/2022			23675	177		Unassigned
-3329	Tennessee	US	01/03/2022			23901	178		Unassigned
-3329	Tennessee	US	01/04/2022			24390	178		Unassigned
-3329	Tennessee	US	01/05/2022			24765	178		Unassigned
-3329	Tennessee	US	01/06/2022			25224	178		Unassigned
-3329	Tennessee	US	01/07/2022			25431	179		Unassigned
-3329	Tennessee	US	01/08/2022			25598	179		Unassigned
-3329	Tennessee	US	01/09/2022			25695	179		Unassigned
-3329	Tennessee	US	01/10/2022			25930	180		Unassigned
-3329	Tennessee	US	01/11/2022			26272	182		Unassigned
-3329	Tennessee	US	01/12/2022			26622	181		Unassigned
-3329	Tennessee	US	01/13/2022			27107	184		Unassigned
-3329	Tennessee	US	01/14/2022			27605	190		Unassigned
-3329	Tennessee	US	01/15/2022			27893	189		Unassigned
-3329	Tennessee	US	01/16/2022			28085	189		Unassigned
-3329	Tennessee	US	01/17/2022			28313	189		Unassigned
-3329	Tennessee	US	01/18/2022			28710	189		Unassigned
-3329	Tennessee	US	01/19/2022			29299	190		Unassigned
-3329	Tennessee	US	01/20/2022			29963	193		Unassigned
-3329	Tennessee	US	01/21/2022			30376	193		Unassigned
-3329	Tennessee	US	01/22/2022			30707	193		Unassigned
-3329	Tennessee	US	01/23/2022			30843	193		Unassigned
-3329	Tennessee	US	01/24/2022			31208	196		Unassigned
-3329	Tennessee	US	01/25/2022			31522	197		Unassigned
-3329	Tennessee	US	01/26/2022			31825	197		Unassigned
-3329	Tennessee	US	01/27/2022			32225	198		Unassigned
-3329	Tennessee	US	01/28/2022			32485	201		Unassigned
-3329	Tennessee	US	01/29/2022			32662	199		Unassigned
-3329	Tennessee	US	01/30/2022			32755	200		Unassigned
-3329	Tennessee	US	01/31/2022			32992	200		Unassigned
-3329	Tennessee	US	02/01/2022			33265	202		Unassigned
-3329	Tennessee	US	02/02/2022			33509	203		Unassigned
-3329	Tennessee	US	02/03/2022			34005	205		Unassigned
-3329	Tennessee	US	02/04/2022			34128	205		Unassigned
-3329	Tennessee	US	02/05/2022			34195	200		Unassigned
-3329	Tennessee	US	02/06/2022			34242	200		Unassigned
-3329	Tennessee	US	02/07/2022			34487	204		Unassigned
-3329	Tennessee	US	02/08/2022			34649	205		Unassigned
-3330	Tennessee	US	02/09/2022			34761	204		Unassigned
-3330	Tennessee	US	02/10/2022			34910	205		Unassigned
-3330	Tennessee	US	02/11/2022			35076	206		Unassigned
-3330	Tennessee	US	02/12/2022			35157	206		Unassigned
-3330	Tennessee	US	02/13/2022			35176	206		Unassigned
-3330	Tennessee	US	02/14/2022			35630	213		Unassigned
-3330	Tennessee	US	02/15/2022			35729	218		Unassigned
-3330	Tennessee	US	02/16/2022			35818	218		Unassigned
-3330	Tennessee	US	02/17/2022			35902	218		Unassigned
-3330	Tennessee	US	02/18/2022			35973	218		Unassigned
-3330	Tennessee	US	02/19/2022			35994	218		Unassigned
-3330	Tennessee	US	02/20/2022			36004	218		Unassigned
-3330	Tennessee	US	02/21/2022			36045	218		Unassigned
-3330	Tennessee	US	02/22/2022			36122	219		Unassigned
-3330	Tennessee	US	02/23/2022			36212	230		Unassigned
-3330	Tennessee	US	02/24/2022			36264	232		Unassigned
-3330	Tennessee	US	02/25/2022			36308	231		Unassigned
-3330	Tennessee	US	02/26/2022			36330	231		Unassigned
-3330	Tennessee	US	02/27/2022			36332	228		Unassigned
-3330	Tennessee	US	02/28/2022			36361	230		Unassigned
-3330	Tennessee	US	03/01/2022			36402	230		Unassigned
-3330	Tennessee	US	03/02/2022			36424	230		Unassigned
-3330	Tennessee	US	03/03/2022			36449	231		Unassigned
-3330	Tennessee	US	03/04/2022			36463	232		Unassigned
-3330	Tennessee	US	03/05/2022			36468	232		Unassigned
-3330	Tennessee	US	03/06/2022			36472	232		Unassigned
-3330	Tennessee	US	03/07/2022			36501	232		Unassigned
-3330	Tennessee	US	03/08/2022			36515	232		Unassigned
-3330	Tennessee	US	03/09/2022			36522	233		Unassigned
-3330	Tennessee	US	03/10/2022			36532	234		Unassigned
-3330	Tennessee	US	03/11/2022			36535	241		Unassigned
-3330	Tennessee	US	03/12/2022			36536	241		Unassigned
-3330	Tennessee	US	03/13/2022			36538	241		Unassigned
-3330	Tennessee	US	03/14/2022			36545	241		Unassigned
-3330	Tennessee	US	03/15/2022			36557	241		Unassigned
-3330	Tennessee	US	03/16/2022			36566	241		Unassigned
-3330	Tennessee	US	03/17/2022			36578	241		Unassigned
-3330	Tennessee	US	03/18/2022			36583	241		Unassigned
-3330	Tennessee	US	03/19/2022			36584	241		Unassigned
-3330	Tennessee	US	03/20/2022			36587	241		Unassigned
-3330	Tennessee	US	03/21/2022			36594	241		Unassigned
-3330	Tennessee	US	03/22/2022			36600	241		Unassigned
-3330	Tennessee	US	03/23/2022			36609	240		Unassigned
-3330	Tennessee	US	03/24/2022			36616	240		Unassigned
-3330	Tennessee	US	03/25/2022			36620	240		Unassigned
-3330	Tennessee	US	03/26/2022			36621	240		Unassigned
-3330	Tennessee	US	03/27/2022			36624	240		Unassigned
-3330	Tennessee	US	03/28/2022			36632	240		Unassigned
-3330	Tennessee	US	03/29/2022			36635	240		Unassigned
-3330	Tennessee	US	03/30/2022			36647	240		Unassigned
-3330	Tennessee	US	03/31/2022			36650	240		Unassigned
-3330	Tennessee	US	04/01/2022			36656	240		Unassigned
-3330	Tennessee	US	04/02/2022			36659	240		Unassigned
-3330	Tennessee	US	04/03/2022			37995	349		Unassigned
-3330	Tennessee	US	04/04/2022			37995	349		Unassigned
-3330	Tennessee	US	04/05/2022			38447	397		Unassigned
-3330	Tennessee	US	04/06/2022			36858	373		Unassigned
-3330	Tennessee	US	04/07/2022			37125	454		Unassigned
-3330	Tennessee	US	04/08/2022			37477	459		Unassigned
-3330	Tennessee	US	04/09/2022			37956	598		Unassigned
+3298	Tennessee	US	11/18/2020			2836	10	0	Unassigned
+3298	Tennessee	US	11/19/2020			2883	14	0	Unassigned
+3298	Tennessee	US	11/20/2020			2944	13	0	Unassigned
+3298	Tennessee	US	11/21/2020			2995	13	0	Unassigned
+3298	Tennessee	US	11/22/2020			3095	14	0	Unassigned
+3298	Tennessee	US	11/23/2020			3130	14	0	Unassigned
+3299	Tennessee	US	11/24/2020			3174	18	0	Unassigned
+3299	Tennessee	US	11/25/2020			3227	22	0	Unassigned
+3299	Tennessee	US	11/26/2020			3385	22	0	Unassigned
+3299	Tennessee	US	11/27/2020			3483	22	0	Unassigned
+3299	Tennessee	US	11/28/2020			3574	22	0	Unassigned
+3299	Tennessee	US	11/29/2020			3630	22	0	Unassigned
+3299	Tennessee	US	11/30/2020			3704	22	0	Unassigned
+3299	Tennessee	US	12/01/2020			3796	22	0	Unassigned
+3299	Tennessee	US	12/02/2020			3827	24	0	Unassigned
+3299	Tennessee	US	12/03/2020			3931	25	0	Unassigned
+3299	Tennessee	US	12/04/2020			4029	29	0	Unassigned
+3299	Tennessee	US	12/05/2020			4073	30	0	Unassigned
+3299	Tennessee	US	12/06/2020			4122	30	0	Unassigned
+3299	Tennessee	US	12/07/2020			4240	30	0	Unassigned
+3299	Tennessee	US	12/08/2020			4390	31	0	Unassigned
+3299	Tennessee	US	12/09/2020			4464	34	0	Unassigned
+3299	Tennessee	US	12/10/2020			4600	35	0	Unassigned
+3299	Tennessee	US	12/11/2020			4696	38	0	Unassigned
+3299	Tennessee	US	12/12/2020			4843	40	0	Unassigned
+3299	Tennessee	US	12/13/2020			5007	41	0	Unassigned
+3299	Tennessee	US	12/14/2020			5137	42	0	Unassigned
+3299	Tennessee	US	12/15/2020			5331	45	0	Unassigned
+3299	Tennessee	US	12/16/2020			5482	47	0	Unassigned
+3299	Tennessee	US	12/17/2020			5682	52	0	Unassigned
+3299	Tennessee	US	12/18/2020			5838	55	0	Unassigned
+3299	Tennessee	US	12/19/2020			5966	56	0	Unassigned
+3299	Tennessee	US	12/20/2020			6141	60	0	Unassigned
+3299	Tennessee	US	12/21/2020			6263	63	0	Unassigned
+3299	Tennessee	US	12/22/2020			6433	64	0	Unassigned
+3299	Tennessee	US	12/23/2020			6540	67	0	Unassigned
+3299	Tennessee	US	12/24/2020			6691	71	0	Unassigned
+3299	Tennessee	US	12/25/2020			6812	71	0	Unassigned
+3299	Tennessee	US	12/26/2020			6910	72	0	Unassigned
+3299	Tennessee	US	12/27/2020			6959	76	0	Unassigned
+3299	Tennessee	US	12/28/2020			7035	80	0	Unassigned
+3299	Tennessee	US	12/29/2020			7242	81	0	Unassigned
+3299	Tennessee	US	12/30/2020			7419	85	0	Unassigned
+3299	Tennessee	US	12/31/2020			7623	86	0	Unassigned
+3299	Tennessee	US	01/01/2021			7739	90	0	Unassigned
+3299	Tennessee	US	01/02/2021			7876	91	0	Unassigned
+3300	Tennessee	US	01/03/2021			7946	94	0	Unassigned
+3300	Tennessee	US	01/04/2021			8033	100	0	Unassigned
+3300	Tennessee	US	01/05/2021			8234	100	0	Unassigned
+3300	Tennessee	US	01/06/2021			8400	104	0	Unassigned
+3300	Tennessee	US	01/07/2021			8546	106	0	Unassigned
+3300	Tennessee	US	01/08/2021			8691	111	0	Unassigned
+3300	Tennessee	US	01/09/2021			8843	110	0	Unassigned
+3300	Tennessee	US	01/10/2021			8944	112	0	Unassigned
+3300	Tennessee	US	01/11/2021			9031	114	0	Unassigned
+3300	Tennessee	US	01/12/2021			9149	116	0	Unassigned
+3300	Tennessee	US	01/13/2021			9232	121	0	Unassigned
+3300	Tennessee	US	01/14/2021			9323	125	0	Unassigned
+3301	Tennessee	US	01/15/2021			9376	128	0	Unassigned
+3301	Tennessee	US	01/16/2021			9507	127	0	Unassigned
+3301	Tennessee	US	01/17/2021			9555	126	0	Unassigned
+3301	Tennessee	US	01/18/2021			9584	126	0	Unassigned
+3301	Tennessee	US	01/19/2021			9687	127	0	Unassigned
+3301	Tennessee	US	01/20/2021			9740	126	0	Unassigned
+3302	Tennessee	US	01/21/2021			9838	129	0	Unassigned
+3302	Tennessee	US	01/22/2021			9884	134	0	Unassigned
+3302	Tennessee	US	01/23/2021			9945	134	0	Unassigned
+3302	Tennessee	US	01/24/2021			9958	137	0	Unassigned
+3302	Tennessee	US	01/25/2021			9989	140	0	Unassigned
+3302	Tennessee	US	01/26/2021			10036	147	0	Unassigned
+3302	Tennessee	US	01/27/2021			10075	154	0	Unassigned
+3302	Tennessee	US	01/28/2021			10156	157	0	Unassigned
+3302	Tennessee	US	01/29/2021			10172	159	0	Unassigned
+3302	Tennessee	US	01/30/2021			10232	167	0	Unassigned
+3302	Tennessee	US	01/31/2021			10274	170	0	Unassigned
+3302	Tennessee	US	02/01/2021			10300	174	0	Unassigned
+3302	Tennessee	US	02/02/2021			10329	180	0	Unassigned
+3302	Tennessee	US	02/03/2021			10380	187	0	Unassigned
+3302	Tennessee	US	02/04/2021			10449	191	0	Unassigned
+3302	Tennessee	US	02/05/2021			10497	196	0	Unassigned
+3302	Tennessee	US	02/06/2021			10555	198	0	Unassigned
+3302	Tennessee	US	02/07/2021			10580	198	0	Unassigned
+3302	Tennessee	US	02/08/2021			10593	202	0	Unassigned
+3302	Tennessee	US	02/09/2021			10636	203	0	Unassigned
+3302	Tennessee	US	02/10/2021			10665	207	0	Unassigned
+3302	Tennessee	US	02/11/2021			10706	176	0	Unassigned
+3302	Tennessee	US	02/12/2021			10738	169	0	Unassigned
+3302	Tennessee	US	02/13/2021			10768	152	0	Unassigned
+3302	Tennessee	US	02/14/2021			10789	136	0	Unassigned
+3302	Tennessee	US	02/15/2021			10794	130	0	Unassigned
+3302	Tennessee	US	02/16/2021			10803	124	0	Unassigned
+3302	Tennessee	US	02/17/2021			10812	125	0	Unassigned
+3302	Tennessee	US	02/18/2021			10840	125	0	Unassigned
+3303	Tennessee	US	02/19/2021			10855	125	0	Unassigned
+3303	Tennessee	US	02/20/2021			10867	125	0	Unassigned
+3303	Tennessee	US	02/21/2021			10872	126	0	Unassigned
+3303	Tennessee	US	02/22/2021			10895	125	0	Unassigned
+3303	Tennessee	US	02/23/2021			10917	126	0	Unassigned
+3303	Tennessee	US	02/24/2021			10945	125	0	Unassigned
+3303	Tennessee	US	02/25/2021			10977	125	0	Unassigned
+3303	Tennessee	US	02/26/2021			10995	127	0	Unassigned
+3303	Tennessee	US	02/27/2021			11031	126	0	Unassigned
+3303	Tennessee	US	02/28/2021			11044	125	0	Unassigned
+3303	Tennessee	US	03/01/2021			11058	125	0	Unassigned
+3303	Tennessee	US	03/02/2021			11096	125	0	Unassigned
+3303	Tennessee	US	03/03/2021			11132	126	0	Unassigned
+3303	Tennessee	US	03/04/2021			11177	127	0	Unassigned
+3303	Tennessee	US	03/05/2021			11203	126	0	Unassigned
+3303	Tennessee	US	03/06/2021			11222	126	0	Unassigned
+3303	Tennessee	US	03/07/2021			11236	126		Unassigned
+3303	Tennessee	US	03/08/2021			11265	126		Unassigned
+3303	Tennessee	US	03/09/2021			11291	127		Unassigned
+3303	Tennessee	US	03/10/2021			11317	129		Unassigned
+3303	Tennessee	US	03/11/2021			11347	128		Unassigned
+3303	Tennessee	US	03/12/2021			11364	128		Unassigned
+3303	Tennessee	US	03/13/2021			11379	128		Unassigned
+3303	Tennessee	US	03/14/2021			11388	128		Unassigned
+3303	Tennessee	US	03/15/2021			11401	128		Unassigned
+3303	Tennessee	US	03/16/2021			11431	128		Unassigned
+3303	Tennessee	US	03/17/2021			11445	128		Unassigned
+3303	Tennessee	US	03/18/2021			11468	128		Unassigned
+3303	Tennessee	US	03/19/2021			11489	129		Unassigned
+3303	Tennessee	US	03/20/2021			11495	129		Unassigned
+3303	Tennessee	US	03/21/2021			11499	127		Unassigned
+3303	Tennessee	US	03/22/2021			11509	127		Unassigned
+3303	Tennessee	US	03/23/2021			11528	127		Unassigned
+3303	Tennessee	US	03/24/2021			11539	127		Unassigned
+3303	Tennessee	US	03/25/2021			11547	127		Unassigned
+3303	Tennessee	US	03/26/2021			11551	127		Unassigned
+3303	Tennessee	US	03/27/2021			11566	127		Unassigned
+3303	Tennessee	US	03/28/2021			11577	127		Unassigned
+3303	Tennessee	US	03/29/2021			11594	127		Unassigned
+3303	Tennessee	US	03/30/2021			11604	127		Unassigned
+3303	Tennessee	US	03/31/2021			11640	128		Unassigned
+3303	Tennessee	US	04/01/2021			11657	128		Unassigned
+3305	Tennessee	US	04/02/2021			11674	129		Unassigned
+3305	Tennessee	US	04/03/2021			11685	129		Unassigned
+3305	Tennessee	US	04/04/2021			11692	129		Unassigned
+3305	Tennessee	US	04/05/2021			11703	129		Unassigned
+3305	Tennessee	US	04/06/2021			11725	129		Unassigned
+3305	Tennessee	US	04/07/2021			11745	129		Unassigned
+3305	Tennessee	US	04/08/2021			11757	129		Unassigned
+3305	Tennessee	US	04/09/2021			11768	129		Unassigned
+3305	Tennessee	US	04/10/2021			11777	129		Unassigned
+3305	Tennessee	US	04/11/2021			11780	129		Unassigned
+3305	Tennessee	US	04/12/2021			11808	129		Unassigned
+3305	Tennessee	US	04/13/2021			11826	130		Unassigned
+3305	Tennessee	US	04/14/2021			11842	130		Unassigned
+3305	Tennessee	US	04/15/2021			11855	131		Unassigned
+3305	Tennessee	US	04/16/2021			11985	131		Unassigned
+3305	Tennessee	US	04/17/2021			11988	130		Unassigned
+3305	Tennessee	US	04/18/2021			11991	129		Unassigned
+3305	Tennessee	US	04/19/2021			12003	130		Unassigned
+3305	Tennessee	US	04/20/2021			12013	130		Unassigned
+3305	Tennessee	US	04/21/2021			12026	130		Unassigned
+3305	Tennessee	US	04/22/2021			12062	130		Unassigned
+3305	Tennessee	US	04/23/2021			12070	130		Unassigned
+3305	Tennessee	US	04/24/2021			12079	130		Unassigned
+3305	Tennessee	US	04/25/2021			12082	130		Unassigned
+3305	Tennessee	US	04/26/2021			12098	131		Unassigned
+3305	Tennessee	US	04/27/2021			12117	131		Unassigned
+3305	Tennessee	US	04/28/2021			12130	131		Unassigned
+3305	Tennessee	US	04/29/2021			12147	131		Unassigned
+3305	Tennessee	US	04/30/2021			12162	131		Unassigned
+3305	Tennessee	US	05/01/2021			12162	131		Unassigned
+3305	Tennessee	US	05/02/2021			12167	131		Unassigned
+3305	Tennessee	US	05/03/2021			12173	131		Unassigned
+3305	Tennessee	US	05/04/2021			12176	131		Unassigned
+3305	Tennessee	US	05/05/2021			12195	131		Unassigned
+3305	Tennessee	US	05/06/2021			12201	131		Unassigned
+3305	Tennessee	US	05/07/2021			12219	131		Unassigned
+3305	Tennessee	US	05/08/2021			12227	131		Unassigned
+3305	Tennessee	US	05/09/2021			12228	131		Unassigned
+3305	Tennessee	US	05/10/2021			12233	131		Unassigned
+3305	Tennessee	US	05/11/2021			12241	131		Unassigned
+3305	Tennessee	US	05/12/2021			12248	131		Unassigned
+3305	Tennessee	US	05/13/2021			12255	131		Unassigned
+3305	Tennessee	US	05/14/2021			12264	131		Unassigned
+3305	Tennessee	US	05/15/2021			12266	131		Unassigned
+3305	Tennessee	US	05/16/2021			12269	131		Unassigned
+3305	Tennessee	US	05/17/2021			12280	131		Unassigned
+3305	Tennessee	US	05/18/2021			12286	131		Unassigned
+3305	Tennessee	US	05/19/2021			12298	131		Unassigned
+3305	Tennessee	US	05/20/2021			12301	131		Unassigned
+3305	Tennessee	US	05/21/2021			12309	131		Unassigned
+3305	Tennessee	US	05/22/2021			12314	131		Unassigned
+3305	Tennessee	US	05/23/2021			12319	131		Unassigned
+3305	Tennessee	US	05/24/2021			12326	131		Unassigned
+3305	Tennessee	US	05/25/2021			12328	131		Unassigned
+3305	Tennessee	US	05/26/2021			12330	132		Unassigned
+3306	Tennessee	US	05/27/2021			12333	132		Unassigned
+3306	Tennessee	US	05/28/2021			12335	133		Unassigned
+3306	Tennessee	US	05/29/2021			12339	133		Unassigned
+3306	Tennessee	US	05/30/2021			12340	133		Unassigned
+3306	Tennessee	US	05/31/2021			12344	133		Unassigned
+3306	Tennessee	US	06/01/2021			12346	133		Unassigned
+3306	Tennessee	US	06/02/2021			12349	133		Unassigned
+3306	Tennessee	US	06/03/2021			12353	133		Unassigned
+3306	Tennessee	US	06/04/2021			12358	133		Unassigned
+3306	Tennessee	US	06/05/2021			12360	133		Unassigned
+3306	Tennessee	US	06/06/2021			12360	133		Unassigned
+3306	Tennessee	US	06/07/2021			12363	133		Unassigned
+3306	Tennessee	US	06/08/2021			12363	133		Unassigned
+3306	Tennessee	US	06/09/2021			12367	133		Unassigned
+3306	Tennessee	US	06/10/2021			12369	99		Unassigned
+3306	Tennessee	US	06/11/2021			12373	99		Unassigned
+3306	Tennessee	US	06/12/2021			12373	99		Unassigned
+3306	Tennessee	US	06/13/2021			12373	99		Unassigned
+3306	Tennessee	US	06/14/2021			12375	99		Unassigned
+3306	Tennessee	US	06/15/2021			12381	99		Unassigned
+3306	Tennessee	US	06/16/2021			12386	99		Unassigned
+3308	Tennessee	US	06/17/2021			12390	99		Unassigned
+3308	Tennessee	US	06/18/2021			12391	99		Unassigned
+3308	Tennessee	US	06/19/2021			12391	99		Unassigned
+3308	Tennessee	US	06/20/2021			12392	99		Unassigned
+3308	Tennessee	US	06/21/2021			12393	99		Unassigned
+3308	Tennessee	US	06/22/2021			12394	99		Unassigned
+3308	Tennessee	US	06/23/2021			12399	99		Unassigned
+3309	Tennessee	US	06/24/2021			12405	99		Unassigned
+3309	Tennessee	US	06/25/2021			12406	99		Unassigned
+3309	Tennessee	US	06/26/2021			12407	99		Unassigned
+3309	Tennessee	US	06/27/2021			12409	99		Unassigned
+3309	Tennessee	US	06/28/2021			12409	99		Unassigned
+3309	Tennessee	US	06/29/2021			12410	99		Unassigned
+3309	Tennessee	US	06/30/2021			12416	99		Unassigned
+3309	Tennessee	US	07/01/2021			12420	93		Unassigned
+3309	Tennessee	US	07/02/2021			12422	93		Unassigned
+3309	Tennessee	US	07/03/2021			12423	93		Unassigned
+3309	Tennessee	US	07/04/2021			12424	93		Unassigned
+3309	Tennessee	US	07/05/2021			12425	93		Unassigned
+3309	Tennessee	US	07/06/2021			12428	93		Unassigned
+3309	Tennessee	US	07/07/2021			12432	93		Unassigned
+3309	Tennessee	US	07/08/2021			12438	93		Unassigned
+3309	Tennessee	US	07/09/2021			12444	93		Unassigned
+3309	Tennessee	US	07/10/2021			12446	93		Unassigned
+3309	Tennessee	US	07/11/2021			12446	93		Unassigned
+3309	Tennessee	US	07/12/2021			12457	93		Unassigned
+3309	Tennessee	US	07/13/2021			12464	93		Unassigned
+3309	Tennessee	US	07/14/2021			12469	93		Unassigned
+3309	Tennessee	US	07/15/2021			12476	93		Unassigned
+3309	Tennessee	US	07/16/2021			12488	93		Unassigned
+3309	Tennessee	US	07/17/2021			12492	93		Unassigned
+3309	Tennessee	US	07/18/2021			12497	93		Unassigned
+3309	Tennessee	US	07/19/2021			12509	93		Unassigned
+3309	Tennessee	US	07/20/2021			12521	93		Unassigned
+3309	Tennessee	US	07/21/2021			12553	93		Unassigned
+3309	Tennessee	US	07/22/2021			12570	93		Unassigned
+3309	Tennessee	US	07/23/2021			12594	93		Unassigned
+3309	Tennessee	US	07/24/2021			12614	93		Unassigned
+3309	Tennessee	US	07/25/2021			12627	93		Unassigned
+3309	Tennessee	US	07/26/2021			12666	93		Unassigned
+3309	Tennessee	US	07/27/2021			12695	93		Unassigned
+3309	Tennessee	US	07/28/2021			12732	93		Unassigned
+3309	Tennessee	US	07/29/2021			12764	93		Unassigned
+3309	Tennessee	US	07/30/2021			12820	93		Unassigned
+3309	Tennessee	US	07/31/2021			12840	93		Unassigned
+3309	Tennessee	US	08/01/2021			12864	93		Unassigned
+3309	Tennessee	US	08/02/2021			12913	93		Unassigned
+3309	Tennessee	US	08/03/2021			12977	93		Unassigned
+3309	Tennessee	US	08/04/2021			13038	93		Unassigned
+3309	Tennessee	US	08/05/2021			13105	93		Unassigned
+3309	Tennessee	US	08/06/2021			13182	93		Unassigned
+3309	Tennessee	US	08/07/2021			13230	93		Unassigned
+3309	Tennessee	US	08/08/2021			13262	93		Unassigned
+3309	Tennessee	US	08/09/2021			13308	93		Unassigned
+3309	Tennessee	US	08/10/2021			13400	93		Unassigned
+3309	Tennessee	US	08/11/2021			13531	93		Unassigned
+3309	Tennessee	US	08/12/2021			13616	93		Unassigned
+3309	Tennessee	US	08/13/2021			13780	93		Unassigned
+3309	Tennessee	US	08/14/2021			13856	93		Unassigned
+3309	Tennessee	US	08/15/2021			13892	93		Unassigned
+3309	Tennessee	US	08/16/2021			13966	94		Unassigned
+3309	Tennessee	US	08/17/2021			14052	94		Unassigned
+3309	Tennessee	US	08/18/2021			14197	94		Unassigned
+3309	Tennessee	US	08/19/2021			14377	93		Unassigned
+3309	Tennessee	US	08/20/2021			14516	94		Unassigned
+3309	Tennessee	US	08/21/2021			14775	94		Unassigned
+3309	Tennessee	US	08/22/2021			14829	94		Unassigned
+3309	Tennessee	US	08/23/2021			14943	94		Unassigned
+3309	Tennessee	US	08/24/2021			15037	94		Unassigned
+3309	Tennessee	US	08/25/2021			15188	95		Unassigned
+3309	Tennessee	US	08/26/2021			15346	94		Unassigned
+3309	Tennessee	US	08/27/2021			15558	95		Unassigned
+3309	Tennessee	US	08/28/2021			15720	95		Unassigned
+3309	Tennessee	US	08/29/2021			15910	96		Unassigned
+3309	Tennessee	US	08/30/2021			16178	96		Unassigned
+3309	Tennessee	US	08/31/2021			16376	96		Unassigned
+3309	Tennessee	US	09/01/2021			16452	96		Unassigned
+3309	Tennessee	US	09/02/2021			16609	98		Unassigned
+3309	Tennessee	US	09/03/2021			16731	98		Unassigned
+3309	Tennessee	US	09/04/2021			16942	98		Unassigned
+3309	Tennessee	US	09/05/2021			17252	99		Unassigned
+3309	Tennessee	US	09/06/2021			17558	99		Unassigned
+3309	Tennessee	US	09/07/2021			17658	99		Unassigned
+3309	Tennessee	US	09/08/2021			17758	101		Unassigned
+3309	Tennessee	US	09/09/2021			17907	101		Unassigned
+3309	Tennessee	US	09/10/2021			18278	102		Unassigned
+3309	Tennessee	US	09/11/2021			18586	101		Unassigned
+3309	Tennessee	US	09/12/2021			18651	100		Unassigned
+3309	Tennessee	US	09/13/2021			18795	101		Unassigned
+3309	Tennessee	US	09/14/2021			18938	103		Unassigned
+3309	Tennessee	US	09/15/2021			19056	102		Unassigned
+3310	Tennessee	US	09/16/2021			19185	104		Unassigned
+3310	Tennessee	US	09/17/2021			19329	105		Unassigned
+3310	Tennessee	US	09/18/2021			19394	105		Unassigned
+3310	Tennessee	US	09/19/2021			19425	105		Unassigned
+3310	Tennessee	US	09/20/2021			19512	106		Unassigned
+3310	Tennessee	US	09/21/2021			19621	108		Unassigned
+3310	Tennessee	US	09/22/2021			19715	109		Unassigned
+3327	Tennessee	US	09/23/2021			19853	110		Unassigned
+3327	Tennessee	US	09/24/2021			19956	110		Unassigned
+3327	Tennessee	US	09/25/2021			19989	110		Unassigned
+3327	Tennessee	US	09/26/2021			20016	112		Unassigned
+3327	Tennessee	US	09/27/2021			20100	114		Unassigned
+3327	Tennessee	US	09/28/2021			20174	114		Unassigned
+3327	Tennessee	US	09/29/2021			20252	113		Unassigned
+3327	Tennessee	US	09/30/2021			20330	115		Unassigned
+3327	Tennessee	US	10/01/2021			20396	115		Unassigned
+3327	Tennessee	US	10/02/2021			20423	115		Unassigned
+3327	Tennessee	US	10/03/2021			20442	115		Unassigned
+3327	Tennessee	US	10/04/2021			20518	118		Unassigned
+3327	Tennessee	US	10/05/2021			20565	117		Unassigned
+3328	Tennessee	US	10/06/2021			20610	117		Unassigned
+3328	Tennessee	US	10/07/2021			20655	116		Unassigned
+3328	Tennessee	US	10/08/2021			20697	116		Unassigned
+3328	Tennessee	US	10/09/2021			20718	115		Unassigned
+3328	Tennessee	US	10/10/2021			20726	115		Unassigned
+3328	Tennessee	US	10/11/2021			20793	115		Unassigned
+3328	Tennessee	US	10/12/2021			20830	115		Unassigned
+3328	Tennessee	US	10/13/2021			20864	115		Unassigned
+3328	Tennessee	US	10/14/2021			20895	115		Unassigned
+3328	Tennessee	US	10/15/2021			20926	115		Unassigned
+3328	Tennessee	US	10/16/2021			20932	115		Unassigned
+3328	Tennessee	US	10/17/2021			20941	115		Unassigned
+3328	Tennessee	US	10/18/2021			20974	118		Unassigned
+3328	Tennessee	US	10/19/2021			21001	118		Unassigned
+3328	Tennessee	US	10/20/2021			21024	119		Unassigned
+3328	Tennessee	US	10/21/2021			21063	119		Unassigned
+3328	Tennessee	US	10/22/2021			21085	119		Unassigned
+3328	Tennessee	US	10/23/2021			21096	119		Unassigned
+3328	Tennessee	US	10/24/2021			21102	119		Unassigned
+3328	Tennessee	US	10/25/2021			21122	118		Unassigned
+3328	Tennessee	US	10/26/2021			21140	118		Unassigned
+3328	Tennessee	US	10/27/2021			21162	118		Unassigned
+3328	Tennessee	US	10/28/2021			21174	119		Unassigned
+3328	Tennessee	US	10/29/2021			21194	120		Unassigned
+3328	Tennessee	US	10/30/2021			21201	120		Unassigned
+3328	Tennessee	US	10/31/2021			21203	120		Unassigned
+3329	Tennessee	US	11/01/2021			21223	120		Unassigned
+3329	Tennessee	US	11/02/2021			21239	120		Unassigned
+3329	Tennessee	US	11/03/2021			21255	120		Unassigned
+3329	Tennessee	US	11/04/2021			21268	121		Unassigned
+3329	Tennessee	US	11/05/2021			21279	121		Unassigned
+3329	Tennessee	US	11/06/2021			21290	121		Unassigned
+3329	Tennessee	US	11/07/2021			21301	121		Unassigned
+3329	Tennessee	US	11/08/2021			21315	123		Unassigned
+3329	Tennessee	US	11/09/2021			21363	125		Unassigned
+3329	Tennessee	US	11/10/2021			21385	126		Unassigned
+3329	Tennessee	US	11/11/2021			21402	126		Unassigned
+3329	Tennessee	US	11/12/2021			21427	127		Unassigned
+3329	Tennessee	US	11/13/2021			21437	126		Unassigned
+3329	Tennessee	US	11/14/2021			21443	126		Unassigned
+3329	Tennessee	US	11/15/2021			21463	127		Unassigned
+3329	Tennessee	US	11/16/2021			21486	127		Unassigned
+3329	Tennessee	US	11/17/2021			21511	127		Unassigned
+3329	Tennessee	US	11/18/2021			21526	126		Unassigned
+3329	Tennessee	US	11/19/2021			21547	126		Unassigned
+3329	Tennessee	US	11/20/2021			21554	126		Unassigned
+3329	Tennessee	US	11/21/2021			21563	126		Unassigned
+3329	Tennessee	US	11/22/2021			21580	128		Unassigned
+3329	Tennessee	US	11/23/2021			21599	129		Unassigned
+3329	Tennessee	US	11/24/2021			21630	128		Unassigned
+3329	Tennessee	US	11/25/2021			21641	128		Unassigned
+3329	Tennessee	US	11/26/2021			21645	128		Unassigned
+3329	Tennessee	US	11/27/2021			21652	128		Unassigned
+3329	Tennessee	US	11/28/2021			21657	128		Unassigned
+3329	Tennessee	US	11/29/2021			21686	128		Unassigned
+3329	Tennessee	US	11/30/2021			21722	131		Unassigned
+3329	Tennessee	US	12/01/2021			21765	132		Unassigned
+3329	Tennessee	US	12/02/2021			21802	133		Unassigned
+3329	Tennessee	US	12/03/2021			21847	136		Unassigned
+3329	Tennessee	US	12/04/2021			21860	134		Unassigned
+3329	Tennessee	US	12/05/2021			21873	135		Unassigned
+3329	Tennessee	US	12/06/2021			21914	141		Unassigned
+3329	Tennessee	US	12/07/2021			21958	141		Unassigned
+3329	Tennessee	US	12/08/2021			21996	141		Unassigned
+3329	Tennessee	US	12/09/2021			22032	142		Unassigned
+3329	Tennessee	US	12/10/2021			22062	142		Unassigned
+3329	Tennessee	US	12/11/2021			22079	141		Unassigned
+3329	Tennessee	US	12/12/2021			22096	142		Unassigned
+3329	Tennessee	US	12/13/2021			22127	144		Unassigned
+3329	Tennessee	US	12/14/2021			22156	143		Unassigned
+3329	Tennessee	US	12/15/2021			22190	144		Unassigned
+3329	Tennessee	US	12/16/2021			22219	145		Unassigned
+3329	Tennessee	US	12/17/2021			22253	144		Unassigned
+3329	Tennessee	US	12/18/2021			22286	144		Unassigned
+3329	Tennessee	US	12/19/2021			22303	145		Unassigned
+3329	Tennessee	US	12/20/2021			22346	146		Unassigned
+3329	Tennessee	US	12/21/2021			22390	146		Unassigned
+3329	Tennessee	US	12/22/2021			22458	182		Unassigned
+3329	Tennessee	US	12/23/2021			22525	177		Unassigned
+3329	Tennessee	US	12/24/2021			22586	176		Unassigned
+3329	Tennessee	US	12/25/2021			22618	176		Unassigned
+3329	Tennessee	US	12/26/2021			22632	176		Unassigned
+3329	Tennessee	US	12/27/2021			22729	177		Unassigned
+3329	Tennessee	US	12/28/2021			22908	177		Unassigned
+3329	Tennessee	US	12/29/2021			23123	177		Unassigned
+3329	Tennessee	US	12/30/2021			23334	177		Unassigned
+3329	Tennessee	US	12/31/2021			23500	177		Unassigned
+3329	Tennessee	US	01/01/2022			23608	177		Unassigned
+3329	Tennessee	US	01/02/2022			23668	177		Unassigned
+3329	Tennessee	US	01/03/2022			23894	178		Unassigned
+3329	Tennessee	US	01/04/2022			24383	178		Unassigned
+3329	Tennessee	US	01/05/2022			24756	178		Unassigned
+3329	Tennessee	US	01/06/2022			25214	178		Unassigned
+3329	Tennessee	US	01/07/2022			25421	179		Unassigned
+3329	Tennessee	US	01/08/2022			25588	179		Unassigned
+3329	Tennessee	US	01/09/2022			25685	179		Unassigned
+3329	Tennessee	US	01/10/2022			25920	180		Unassigned
+3329	Tennessee	US	01/11/2022			26262	182		Unassigned
+3329	Tennessee	US	01/12/2022			26612	181		Unassigned
+3329	Tennessee	US	01/13/2022			27096	184		Unassigned
+3329	Tennessee	US	01/14/2022			27594	190		Unassigned
+3329	Tennessee	US	01/15/2022			27882	189		Unassigned
+3329	Tennessee	US	01/16/2022			28074	189		Unassigned
+3329	Tennessee	US	01/17/2022			28301	189		Unassigned
+3329	Tennessee	US	01/18/2022			28698	189		Unassigned
+3329	Tennessee	US	01/19/2022			29286	190		Unassigned
+3329	Tennessee	US	01/20/2022			29948	193		Unassigned
+3329	Tennessee	US	01/21/2022			30357	193		Unassigned
+3329	Tennessee	US	01/22/2022			30687	193		Unassigned
+3329	Tennessee	US	01/23/2022			30821	193		Unassigned
+3329	Tennessee	US	01/24/2022			31183	196		Unassigned
+3329	Tennessee	US	01/25/2022			31494	197		Unassigned
+3329	Tennessee	US	01/26/2022			31795	197		Unassigned
+3329	Tennessee	US	01/27/2022			32193	198		Unassigned
+3329	Tennessee	US	01/28/2022			32452	201		Unassigned
+3329	Tennessee	US	01/29/2022			32622	199		Unassigned
+3329	Tennessee	US	01/30/2022			32715	200		Unassigned
+3329	Tennessee	US	01/31/2022			32949	200		Unassigned
+3329	Tennessee	US	02/01/2022			33222	202		Unassigned
+3329	Tennessee	US	02/02/2022			33466	203		Unassigned
+3329	Tennessee	US	02/03/2022			33961	205		Unassigned
+3329	Tennessee	US	02/04/2022			34084	205		Unassigned
+3329	Tennessee	US	02/05/2022			34150	200		Unassigned
+3329	Tennessee	US	02/06/2022			34196	200		Unassigned
+3329	Tennessee	US	02/07/2022			34441	204		Unassigned
+3329	Tennessee	US	02/08/2022			34603	205		Unassigned
+3330	Tennessee	US	02/09/2022			34715	204		Unassigned
+3330	Tennessee	US	02/10/2022			34862	205		Unassigned
+3330	Tennessee	US	02/11/2022			35028	206		Unassigned
+3330	Tennessee	US	02/12/2022			35109	206		Unassigned
+3330	Tennessee	US	02/13/2022			35128	206		Unassigned
+3330	Tennessee	US	02/14/2022			35582	213		Unassigned
+3330	Tennessee	US	02/15/2022			35681	218		Unassigned
+3330	Tennessee	US	02/16/2022			35770	218		Unassigned
+3330	Tennessee	US	02/17/2022			35854	218		Unassigned
+3330	Tennessee	US	02/18/2022			35925	218		Unassigned
+3330	Tennessee	US	02/19/2022			35946	218		Unassigned
+3330	Tennessee	US	02/20/2022			35956	218		Unassigned
+3330	Tennessee	US	02/21/2022			35997	218		Unassigned
+3330	Tennessee	US	02/22/2022			36074	219		Unassigned
+3330	Tennessee	US	02/23/2022			36164	230		Unassigned
+3330	Tennessee	US	02/24/2022			36216	232		Unassigned
+3330	Tennessee	US	02/25/2022			36260	231		Unassigned
+3330	Tennessee	US	02/26/2022			36282	231		Unassigned
+3330	Tennessee	US	02/27/2022			36284	228		Unassigned
+3330	Tennessee	US	02/28/2022			36313	230		Unassigned
+3330	Tennessee	US	03/01/2022			36354	230		Unassigned
+3330	Tennessee	US	03/02/2022			36376	230		Unassigned
+3330	Tennessee	US	03/03/2022			36401	231		Unassigned
+3330	Tennessee	US	03/04/2022			36415	232		Unassigned
+3330	Tennessee	US	03/05/2022			36420	232		Unassigned
+3330	Tennessee	US	03/06/2022			36424	232		Unassigned
+3330	Tennessee	US	03/07/2022			36452	232		Unassigned
+3330	Tennessee	US	03/08/2022			36466	232		Unassigned
+3330	Tennessee	US	03/09/2022			36473	233		Unassigned
+3330	Tennessee	US	03/10/2022			36483	234		Unassigned
+3330	Tennessee	US	03/11/2022			36486	241		Unassigned
+3330	Tennessee	US	03/12/2022			36487	241		Unassigned
+3330	Tennessee	US	03/13/2022			36489	241		Unassigned
+3330	Tennessee	US	03/14/2022			36496	241		Unassigned
+3330	Tennessee	US	03/15/2022			36508	241		Unassigned
+3330	Tennessee	US	03/16/2022			36517	241		Unassigned
+3330	Tennessee	US	03/17/2022			36529	241		Unassigned
+3330	Tennessee	US	03/18/2022			36534	241		Unassigned
+3330	Tennessee	US	03/19/2022			36535	241		Unassigned
+3330	Tennessee	US	03/20/2022			36538	241		Unassigned
+3330	Tennessee	US	03/21/2022			36545	241		Unassigned
+3330	Tennessee	US	03/22/2022			36551	241		Unassigned
+3330	Tennessee	US	03/23/2022			36560	240		Unassigned
+3330	Tennessee	US	03/24/2022			36567	240		Unassigned
+3330	Tennessee	US	03/25/2022			36571	240		Unassigned
+3330	Tennessee	US	03/26/2022			36572	240		Unassigned
+3330	Tennessee	US	03/27/2022			36575	240		Unassigned
+3330	Tennessee	US	03/28/2022			36583	240		Unassigned
+3330	Tennessee	US	03/29/2022			36586	240		Unassigned
+3330	Tennessee	US	03/30/2022			36597	240		Unassigned
+3330	Tennessee	US	03/31/2022			36600	240		Unassigned
+3330	Tennessee	US	04/01/2022			36605	240		Unassigned
+3330	Tennessee	US	04/02/2022			36608	240		Unassigned
+3330	Tennessee	US	04/03/2022			36609	241		Unassigned
+3330	Tennessee	US	04/04/2022			36615	243		Unassigned
+3330	Tennessee	US	04/05/2022			36627	244		Unassigned
+3330	Tennessee	US	04/06/2022			36633	244		Unassigned
+3330	Tennessee	US	04/07/2022			36645	251		Unassigned
+3330	Tennessee	US	04/08/2022			36657	248		Unassigned
+3330	Tennessee	US	04/09/2022			36659	248		Unassigned
 3330	Tennessee	US	04/10/2022			37956	598		Unassigned
 3330	Tennessee	US	04/11/2022			37956	598		Unassigned
 3330	Tennessee	US	04/12/2022			38527	607		Unassigned
 3330	Tennessee	US	04/13/2022			37069	269		Unassigned
+3330	Tennessee	US	04/14/2022			37389	330		Unassigned
+3330	Tennessee	US	04/15/2022			37842	332		Unassigned
+3330	Tennessee	US	04/16/2022			38297	336		Unassigned
+3330	Tennessee	US	04/17/2022			38297	336		Unassigned
