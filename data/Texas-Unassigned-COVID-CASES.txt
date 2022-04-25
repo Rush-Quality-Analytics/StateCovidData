@@ -724,3 +724,10 @@
 3570	Texas	US	04/15/2022			75233	26		Unassigned
 3570	Texas	US	04/16/2022			75233	26		Unassigned
 3570	Texas	US	04/17/2022			75233	26		Unassigned
+3570	Texas	US	04/18/2022			75309	26		Unassigned
+3570	Texas	US	04/19/2022			75344	26		Unassigned
+3570	Texas	US	04/20/2022			75372	27		Unassigned
+3570	Texas	US	04/21/2022			75408	28		Unassigned
+3570	Texas	US	04/22/2022			75430	29		Unassigned
+3570	Texas	US	04/23/2022			75454	29		Unassigned
+3570	Texas	US	04/24/2022			75478	29		Unassigned

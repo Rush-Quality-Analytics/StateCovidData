@@ -638,3 +638,10 @@
 3115	Puerto Rico	US	04/15/2022			15810	4184		Unassigned
 3115	Puerto Rico	US	04/16/2022			15810	4184		Unassigned
 3115	Puerto Rico	US	04/17/2022			15905	4185		Unassigned
+3115	Puerto Rico	US	04/18/2022			15933	4185		Unassigned
+3115	Puerto Rico	US	04/19/2022			15942	4186		Unassigned
+3115	Puerto Rico	US	04/20/2022			15984	4188		Unassigned
+3115	Puerto Rico	US	04/21/2022			16072	4190		Unassigned
+3115	Puerto Rico	US	04/22/2022			16125	4190		Unassigned
+3115	Puerto Rico	US	04/23/2022			16223	4190		Unassigned
+3115	Puerto Rico	US	04/24/2022			16313	4190		Unassigned

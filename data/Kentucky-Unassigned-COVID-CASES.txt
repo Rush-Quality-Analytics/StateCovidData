@@ -756,3 +756,10 @@
 1807	Kentucky	US	04/15/2022			4661	51		Unassigned
 1807	Kentucky	US	04/16/2022			5211	74		Unassigned
 1807	Kentucky	US	04/17/2022			5211	74		Unassigned
+1807	Kentucky	US	04/18/2022			2530	0		Unassigned
+1807	Kentucky	US	04/19/2022			2784	10		Unassigned
+1807	Kentucky	US	04/20/2022			3327	29		Unassigned
+1807	Kentucky	US	04/21/2022			3904	44		Unassigned
+1807	Kentucky	US	04/22/2022			4343	64		Unassigned
+1807	Kentucky	US	04/23/2022			4865	78		Unassigned
+1807	Kentucky	US	04/24/2022			4865	78		Unassigned
