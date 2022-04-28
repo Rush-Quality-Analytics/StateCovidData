@@ -718,3 +718,6 @@
 1362	Illinois	US	04/22/2022			9	0		Out of IL
 1362	Illinois	US	04/23/2022			9	0		Out of IL
 1362	Illinois	US	04/24/2022			9	0		Out of IL
+1362	Illinois	US	04/25/2022			4	0		Out of IL
+1362	Illinois	US	04/26/2022			7	0		Out of IL
+1362	Illinois	US	04/27/2022			6	0		Out of IL
