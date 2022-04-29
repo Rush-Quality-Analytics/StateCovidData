@@ -667,3 +667,4 @@
 744	Alaska	US	04/25/2022	52.3233	-174.1596	1690	2		Aleutians West
 744	Alaska	US	04/26/2022	52.3233	-174.1596	1690	2		Aleutians West
 744	Alaska	US	04/27/2022	52.3233	-174.1596	1690	2		Aleutians West
+744	Alaska	US	04/28/2022	52.3233	-174.1596	1690	2		Aleutians West
