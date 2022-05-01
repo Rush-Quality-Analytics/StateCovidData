@@ -649,3 +649,5 @@
 3098	Puerto Rico	US	04/26/2022			434	0		Out of PR
 3098	Puerto Rico	US	04/27/2022			434	0		Out of PR
 3098	Puerto Rico	US	04/28/2022			434	0		Out of PR
+3098	Puerto Rico	US	04/29/2022			434	0		Out of PR
+3098	Puerto Rico	US	04/30/2022			434	0		Out of PR
