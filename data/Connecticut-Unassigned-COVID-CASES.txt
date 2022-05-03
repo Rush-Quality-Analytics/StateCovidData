@@ -762,3 +762,4 @@
 1001	Connecticut	US	04/29/2022			2277	2		Unassigned
 1001	Connecticut	US	04/30/2022			2277	2		Unassigned
 1001	Connecticut	US	05/01/2022			2277	2		Unassigned
+1001	Connecticut	US	05/02/2022			2291	2		Unassigned

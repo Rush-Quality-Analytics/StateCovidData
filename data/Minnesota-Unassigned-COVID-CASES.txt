@@ -765,3 +765,4 @@
 2104	Minnesota	US	04/29/2022			804	270		Unassigned
 2104	Minnesota	US	04/30/2022			804	270		Unassigned
 2104	Minnesota	US	05/01/2022			804	270		Unassigned
+2104	Minnesota	US	05/02/2022			807	270		Unassigned
