@@ -546,3 +546,4 @@
 785	Arizona	US	05/01/2022			0	0		Out of AZ
 785	Arizona	US	05/02/2022			0	0		Out of AZ
 785	Arizona	US	05/03/2022			0	0		Out of AZ
+785	Arizona	US	05/04/2022			0	0		Out of AZ
