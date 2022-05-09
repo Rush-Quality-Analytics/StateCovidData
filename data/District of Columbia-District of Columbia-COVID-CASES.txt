@@ -775,3 +775,6 @@
 1008	District of Columbia	US	05/03/2022	38.90417773	-77.01655992	141943	1340		District of Columbia
 1008	District of Columbia	US	05/04/2022	38.90417773	-77.01655992	141943	1340		District of Columbia
 1008	District of Columbia	US	05/05/2022	38.90417773	-77.01655992	141943	1340		District of Columbia
+1008	District of Columbia	US	05/06/2022	38.90417773	-77.01655992	141943	1340		District of Columbia
+1008	District of Columbia	US	05/07/2022	38.90417773	-77.01655992	141943	1340		District of Columbia
+1008	District of Columbia	US	05/08/2022	38.90417773	-77.01655992	141943	1340		District of Columbia

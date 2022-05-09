@@ -767,3 +767,6 @@
 924	California	US	05/03/2022			3239	0		Unassigned
 924	California	US	05/04/2022			3239	0		Unassigned
 924	California	US	05/05/2022			3239	0		Unassigned
+924	California	US	05/06/2022			3185	0		Unassigned
+924	California	US	05/07/2022			3185	0		Unassigned
+924	California	US	05/08/2022			3185	0		Unassigned
