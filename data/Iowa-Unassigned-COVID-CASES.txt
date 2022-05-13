@@ -771,3 +771,5 @@
 1575	Iowa	US	05/08/2022			1409	0		Unassigned
 1575	Iowa	US	05/09/2022			1409	0		Unassigned
 1575	Iowa	US	05/10/2022			2238	0		Unassigned
+1575	Iowa	US	05/11/2022			4	1		Unassigned
+1575	Iowa	US	05/12/2022			515	1		Unassigned
