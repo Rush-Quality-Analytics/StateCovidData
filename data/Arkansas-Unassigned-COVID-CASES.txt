@@ -781,3 +781,4 @@
 861	Arkansas	US	05/10/2022			26996	0		Unassigned
 861	Arkansas	US	05/11/2022			26996	0		Unassigned
 861	Arkansas	US	05/12/2022			27000	0		Unassigned
+861	Arkansas	US	05/13/2022			27002	0		Unassigned
