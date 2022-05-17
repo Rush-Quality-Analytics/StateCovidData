@@ -784,3 +784,4 @@
 1807	Kentucky	US	05/13/2022			6289	63		Unassigned
 1807	Kentucky	US	05/14/2022			7004	82		Unassigned
 1808	Kentucky	US	05/15/2022			7004	82		Unassigned
+1808	Kentucky	US	05/16/2022			2507	0		Unassigned
