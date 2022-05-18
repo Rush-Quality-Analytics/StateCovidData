@@ -780,3 +780,4 @@
 2104	Minnesota	US	05/14/2022			839	290		Unassigned
 2105	Minnesota	US	05/15/2022			839	290		Unassigned
 2105	Minnesota	US	05/16/2022			821	290		Unassigned
+2105	Minnesota	US	05/17/2022			843	290		Unassigned

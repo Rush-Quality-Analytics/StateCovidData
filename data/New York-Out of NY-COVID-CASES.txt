@@ -602,3 +602,4 @@
 2589	New York	US	05/14/2022			0	464		Out of NY
 2590	New York	US	05/15/2022			0	466		Out of NY
 2590	New York	US	05/16/2022			0	466		Out of NY
+2590	New York	US	05/17/2022			0	466		Out of NY

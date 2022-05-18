@@ -785,3 +785,4 @@
 1872	Louisiana	US	05/14/2022			939	0		Unassigned
 1873	Louisiana	US	05/15/2022			939	0		Unassigned
 1873	Louisiana	US	05/16/2022			941	0		Unassigned
+1873	Louisiana	US	05/17/2022			943	0		Unassigned
