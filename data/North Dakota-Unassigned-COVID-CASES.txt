@@ -762,10 +762,11 @@
 2764	North Dakota	US	05/14/2022			0	42		Unassigned
 2765	North Dakota	US	05/15/2022			0	42		Unassigned
 2765	North Dakota	US	05/16/2022			0	42		Unassigned
-2765	North Dakota	US	05/17/2022			192	43		Unassigned
-2765	North Dakota	US	05/18/2022			431	43		Unassigned
-2765	North Dakota	US	05/19/2022			593	43		Unassigned
+2765	North Dakota	US	05/17/2022			0	43		Unassigned
+2765	North Dakota	US	05/18/2022			0	43		Unassigned
+2765	North Dakota	US	05/19/2022			0	43		Unassigned
 2765	North Dakota	US	05/20/2022			0	44		Unassigned
 2765	North Dakota	US	05/21/2022			0	44		Unassigned
 2765	North Dakota	US	05/22/2022			0	44		Unassigned
 2765	North Dakota	US	05/23/2022			0	44		Unassigned
+2765	North Dakota	US	05/24/2022			0	44		Unassigned
