@@ -754,3 +754,6 @@
 1363	Illinois	US	05/28/2022			4	0		Out of IL
 1363	Illinois	US	05/29/2022			4	0		Out of IL
 1363	Illinois	US	05/30/2022			4	0		Out of IL
+1363	Illinois	US	05/31/2022			7	0		Out of IL
+1363	Illinois	US	06/01/2022			8	0		Out of IL
+1363	Illinois	US	06/02/2022			7	0		Out of IL

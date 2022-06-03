@@ -799,3 +799,6 @@
 1808	Kentucky	US	05/28/2022			6974	24		Unassigned
 1808	Kentucky	US	05/29/2022			6974	24		Unassigned
 1808	Kentucky	US	05/30/2022			6974	24		Unassigned
+1808	Kentucky	US	05/31/2022			2505	0		Unassigned
+1808	Kentucky	US	06/01/2022			4161	12		Unassigned
+1808	Kentucky	US	06/02/2022			5891	21		Unassigned

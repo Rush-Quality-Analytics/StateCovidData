@@ -706,3 +706,6 @@
 727	Alabama	US	05/28/2022			0	0		Out of AL
 727	Alabama	US	05/29/2022			0	0		Out of AL
 727	Alabama	US	05/30/2022			0	0		Out of AL
+727	Alabama	US	05/31/2022			0	0		Out of AL
+727	Alabama	US	06/01/2022			0	0		Out of AL
+727	Alabama	US	06/02/2022			0	0		Out of AL

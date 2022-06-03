@@ -681,3 +681,6 @@
 3099	Puerto Rico	US	05/28/2022			434	0		Out of PR
 3099	Puerto Rico	US	05/29/2022			434	0		Out of PR
 3099	Puerto Rico	US	05/30/2022			434	0		Out of PR
+3099	Puerto Rico	US	05/31/2022			434	0		Out of PR
+3099	Puerto Rico	US	06/01/2022			434	0		Out of PR
+3099	Puerto Rico	US	06/02/2022			434	0		Out of PR

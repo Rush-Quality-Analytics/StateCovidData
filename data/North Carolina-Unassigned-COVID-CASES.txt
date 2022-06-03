@@ -774,3 +774,6 @@
 2704	North Carolina	US	05/28/2022			0	0		Unassigned
 2704	North Carolina	US	05/29/2022			0	0		Unassigned
 2704	North Carolina	US	05/30/2022			0	0		Unassigned
+2704	North Carolina	US	05/31/2022			0	0		Unassigned
+2704	North Carolina	US	06/01/2022			5	7		Unassigned
+2704	North Carolina	US	06/02/2022			5	7		Unassigned

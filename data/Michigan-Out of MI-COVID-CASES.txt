@@ -798,3 +798,6 @@
 2012	Michigan	US	05/28/2022			6221	42		Out of MI
 2012	Michigan	US	05/29/2022			6221	42		Out of MI
 2012	Michigan	US	05/30/2022			6221	42		Out of MI
+2012	Michigan	US	05/31/2022			6221	42		Out of MI
+2012	Michigan	US	06/01/2022			6329	42		Out of MI
+2012	Michigan	US	06/02/2022			6329	42		Out of MI

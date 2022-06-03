@@ -799,3 +799,6 @@
 1938	Massachusetts	US	05/28/2022			153820	6		Unassigned
 1938	Massachusetts	US	05/29/2022			153820	6		Unassigned
 1938	Massachusetts	US	05/30/2022			153820	6		Unassigned
+1938	Massachusetts	US	05/31/2022			154568	6		Unassigned
+1938	Massachusetts	US	06/01/2022			155047	6		Unassigned
+1938	Massachusetts	US	06/02/2022			155586	6		Unassigned

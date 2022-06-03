@@ -793,3 +793,6 @@
 2494	New Hampshire	US	05/28/2022			3919	5		Unassigned
 2494	New Hampshire	US	05/29/2022			3919	5		Unassigned
 2494	New Hampshire	US	05/30/2022			3919	5		Unassigned
+2494	New Hampshire	US	05/31/2022			3819	5		Unassigned
+2494	New Hampshire	US	06/01/2022			3730	5		Unassigned
+2494	New Hampshire	US	06/02/2022			3730	5		Unassigned
