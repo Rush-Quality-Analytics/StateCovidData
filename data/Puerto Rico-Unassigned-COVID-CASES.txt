@@ -684,3 +684,6 @@
 3116	Puerto Rico	US	05/31/2022			23082	4363		Unassigned
 3116	Puerto Rico	US	06/01/2022			23140	4375		Unassigned
 3116	Puerto Rico	US	06/02/2022			23245	4380		Unassigned
+3116	Puerto Rico	US	06/03/2022			23498	4390		Unassigned
+3116	Puerto Rico	US	06/04/2022			23715	4398		Unassigned
+3116	Puerto Rico	US	06/05/2022			23790	4399		Unassigned

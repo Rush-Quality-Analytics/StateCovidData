@@ -801,3 +801,6 @@
 1897	Maine	US	05/31/2022			31	0		Unassigned
 1897	Maine	US	06/01/2022			33	0		Unassigned
 1897	Maine	US	06/02/2022			27	0		Unassigned
+1897	Maine	US	06/03/2022			28	0		Unassigned
+1897	Maine	US	06/04/2022			27	0		Unassigned
+1897	Maine	US	06/05/2022			27	0		Unassigned
