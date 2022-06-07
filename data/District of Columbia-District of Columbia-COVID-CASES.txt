@@ -806,3 +806,4 @@
 1009	District of Columbia	US	06/03/2022	38.90417773	-77.01655992	150783	1346		District of Columbia
 1009	District of Columbia	US	06/04/2022	38.90417773	-77.01655992	151005	1347		District of Columbia
 1009	District of Columbia	US	06/05/2022	38.90417773	-77.01655992	151005	1347		District of Columbia
+1009	District of Columbia	US	06/06/2022	38.90417773	-77.01655992	151005	1347		District of Columbia
