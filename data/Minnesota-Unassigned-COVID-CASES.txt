@@ -803,3 +803,4 @@
 2105	Minnesota	US	06/06/2022			828	310		Unassigned
 2105	Minnesota	US	06/07/2022			852	310		Unassigned
 2105	Minnesota	US	06/08/2022			835	316		Unassigned
+2105	Minnesota	US	06/09/2022			836	316		Unassigned
