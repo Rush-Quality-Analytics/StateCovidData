@@ -628,3 +628,5 @@
 2590	New York	US	06/09/2022			0	468		Out of NY
 2590	New York	US	06/10/2022			0	468		Out of NY
 2590	New York	US	06/11/2022			0	469		Out of NY
+2590	New York	US	06/12/2022			0	469		Out of NY
+2590	New York	US	06/13/2022			0	469		Out of NY

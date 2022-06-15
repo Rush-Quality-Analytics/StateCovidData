@@ -779,3 +779,5 @@
 3571	Texas	US	06/09/2022			78010	30		Unassigned
 3571	Texas	US	06/10/2022			78121	30		Unassigned
 3571	Texas	US	06/11/2022			78225	30		Unassigned
+3571	Texas	US	06/12/2022			78312	30		Unassigned
+3571	Texas	US	06/13/2022			78407	30		Unassigned
