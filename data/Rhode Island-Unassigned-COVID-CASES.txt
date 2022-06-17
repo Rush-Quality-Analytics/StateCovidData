@@ -813,3 +813,6 @@
 3129	Rhode Island	US	06/11/2022			29977	10		Unassigned
 3129	Rhode Island	US	06/12/2022			29977	10		Unassigned
 3129	Rhode Island	US	06/13/2022			30548	11		Unassigned
+3129	Rhode Island	US	06/14/2022			31032	14		Unassigned
+3129	Rhode Island	US	06/15/2022			28725	8		Unassigned
+3129	Rhode Island	US	06/16/2022			29084	9		Unassigned

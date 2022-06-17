@@ -803,3 +803,6 @@
 2933	Oklahoma	US	06/11/2022			3494	1687		Unassigned
 2933	Oklahoma	US	06/12/2022			3494	1687		Unassigned
 2933	Oklahoma	US	06/13/2022			3494	1687		Unassigned
+2933	Oklahoma	US	06/14/2022			5074	1687		Unassigned
+2933	Oklahoma	US	06/15/2022			5074	1687		Unassigned
+2933	Oklahoma	US	06/16/2022			2063	1673		Unassigned

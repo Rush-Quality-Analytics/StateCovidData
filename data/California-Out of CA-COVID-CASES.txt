@@ -270,3 +270,6 @@
 899	California	US	06/11/2022			0	0		Out of CA
 899	California	US	06/12/2022			0	0		Out of CA
 899	California	US	06/13/2022			0	0		Out of CA
+899	California	US	06/14/2022			0	0		Out of CA
+899	California	US	06/15/2022			0	0		Out of CA
+899	California	US	06/16/2022			0	0		Out of CA
