@@ -800,3 +800,10 @@
 2187	Mississippi	US	06/14/2022			878	8		Unassigned
 2187	Mississippi	US	06/15/2022			1978	8		Unassigned
 2187	Mississippi	US	06/16/2022			2931	8		Unassigned
+2187	Mississippi	US	06/17/2022			4087	11		Unassigned
+2187	Mississippi	US	06/18/2022			4087	11		Unassigned
+2187	Mississippi	US	06/19/2022			4087	11		Unassigned
+2187	Mississippi	US	06/20/2022			4087	11		Unassigned
+2187	Mississippi	US	06/21/2022			0	0		Unassigned
+2187	Mississippi	US	06/22/2022			1319	7		Unassigned
+2187	Mississippi	US	06/23/2022			2891	10		Unassigned

@@ -815,3 +815,10 @@
 3331	Tennessee	US	06/14/2022			51220	311		Unassigned
 3331	Tennessee	US	06/15/2022			40433	272		Unassigned
 3331	Tennessee	US	06/16/2022			42929	277		Unassigned
+3331	Tennessee	US	06/17/2022			45082	302		Unassigned
+3331	Tennessee	US	06/18/2022			45082	302		Unassigned
+3331	Tennessee	US	06/19/2022			45082	302		Unassigned
+3331	Tennessee	US	06/20/2022			45082	302		Unassigned
+3331	Tennessee	US	06/21/2022			51672	342		Unassigned
+3331	Tennessee	US	06/22/2022			41389	269		Unassigned
+3331	Tennessee	US	06/23/2022			44113	271		Unassigned

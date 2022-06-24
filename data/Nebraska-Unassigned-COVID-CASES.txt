@@ -810,3 +810,10 @@
 2459	Nebraska	US	06/14/2022			8148	860		Unassigned
 2459	Nebraska	US	06/15/2022			8729	860		Unassigned
 2459	Nebraska	US	06/16/2022			9409	862		Unassigned
+2459	Nebraska	US	06/17/2022			9887	862		Unassigned
+2459	Nebraska	US	06/18/2022			9887	862		Unassigned
+2459	Nebraska	US	06/19/2022			9887	862		Unassigned
+2459	Nebraska	US	06/20/2022			8380	863		Unassigned
+2459	Nebraska	US	06/21/2022			9710	864		Unassigned
+2459	Nebraska	US	06/22/2022			10245	868		Unassigned
+2459	Nebraska	US	06/23/2022			10855	869		Unassigned

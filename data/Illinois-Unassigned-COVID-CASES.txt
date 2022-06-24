@@ -815,3 +815,10 @@
 1383	Illinois	US	06/14/2022			99	4390		Unassigned
 1383	Illinois	US	06/15/2022			96	4409		Unassigned
 1383	Illinois	US	06/16/2022			101	4413		Unassigned
+1383	Illinois	US	06/17/2022			84	4416		Unassigned
+1383	Illinois	US	06/18/2022			84	4416		Unassigned
+1383	Illinois	US	06/19/2022			84	4416		Unassigned
+1383	Illinois	US	06/20/2022			84	4416		Unassigned
+1383	Illinois	US	06/21/2022			90	4417		Unassigned
+1383	Illinois	US	06/22/2022			101	4425		Unassigned
+1383	Illinois	US	06/23/2022			93	4429		Unassigned
