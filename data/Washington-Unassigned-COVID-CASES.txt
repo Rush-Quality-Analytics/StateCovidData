@@ -825,3 +825,5 @@
 3795	Washington	US	06/23/2022			3288	6		Unassigned
 3795	Washington	US	06/24/2022			3282	6		Unassigned
 3795	Washington	US	06/25/2022			3282	6		Unassigned
+3795	Washington	US	06/26/2022			3282	6		Unassigned
+3795	Washington	US	06/27/2022			3288	6		Unassigned
