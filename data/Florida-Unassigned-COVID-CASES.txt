@@ -824,3 +824,4 @@
 1072	Florida	US	06/25/2022			44348	478		Unassigned
 1072	Florida	US	06/26/2022			44348	478		Unassigned
 1072	Florida	US	06/27/2022			60866	567		Unassigned
+1072	Florida	US	06/28/2022			60866	172		Unassigned
