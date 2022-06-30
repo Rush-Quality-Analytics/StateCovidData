@@ -828,3 +828,4 @@
 1222	Georgia	US	06/26/2022			11726	6		Unassigned
 1222	Georgia	US	06/27/2022			11726	6		Unassigned
 1222	Georgia	US	06/28/2022			11726	6		Unassigned
+1222	Georgia	US	06/29/2022			11890	5		Unassigned
