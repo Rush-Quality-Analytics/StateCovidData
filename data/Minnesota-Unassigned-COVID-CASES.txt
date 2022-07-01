@@ -824,3 +824,4 @@
 2105	Minnesota	US	06/27/2022			863	321		Unassigned
 2105	Minnesota	US	06/28/2022			902	321		Unassigned
 2105	Minnesota	US	06/29/2022			893	321		Unassigned
+2105	Minnesota	US	06/30/2022			907	321		Unassigned
