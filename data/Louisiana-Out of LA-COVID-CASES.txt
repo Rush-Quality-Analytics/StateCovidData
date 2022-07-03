@@ -710,3 +710,5 @@
 1854	Louisiana	US	06/28/2022			0	0		Out of LA
 1854	Louisiana	US	06/29/2022			0	0		Out of LA
 1854	Louisiana	US	06/30/2022			0	0		Out of LA
+1854	Louisiana	US	07/01/2022			0	0		Out of LA
+1854	Louisiana	US	07/02/2022			0	0		Out of LA

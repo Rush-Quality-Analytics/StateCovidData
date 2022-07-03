@@ -830,3 +830,5 @@
 2608	New York	US	06/28/2022			817	2		Unassigned
 2608	New York	US	06/29/2022			818	2		Unassigned
 2608	New York	US	06/30/2022			889	2		Unassigned
+2608	New York	US	07/01/2022			834	2		Unassigned
+2608	New York	US	07/02/2022			834	2		Unassigned

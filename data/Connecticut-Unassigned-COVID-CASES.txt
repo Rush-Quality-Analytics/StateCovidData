@@ -816,9 +816,11 @@
 1002	Connecticut	US	06/22/2022			3344	3		Unassigned
 1002	Connecticut	US	06/23/2022			3284	3		Unassigned
 1002	Connecticut	US	06/24/2022			2616	2		Unassigned
-1002	Connecticut	US	06/25/2022			2616	2		Unassigned
-1002	Connecticut	US	06/26/2022			2616	2		Unassigned
-1002	Connecticut	US	06/27/2022			2616	2		Unassigned
-1002	Connecticut	US	06/28/2022			2616	2		Unassigned
-1002	Connecticut	US	06/29/2022			2616	2		Unassigned
-1002	Connecticut	US	06/30/2022			2616	2		Unassigned
+1002	Connecticut	US	06/25/2022			2618	2		Unassigned
+1002	Connecticut	US	06/26/2022			2622	2		Unassigned
+1002	Connecticut	US	06/27/2022			2627	2		Unassigned
+1002	Connecticut	US	06/28/2022			2637	2		Unassigned
+1002	Connecticut	US	06/29/2022			2638	2		Unassigned
+1002	Connecticut	US	06/30/2022			2639	2		Unassigned
+1002	Connecticut	US	07/01/2022			2653	2		Unassigned
+1002	Connecticut	US	07/02/2022			2657	2		Unassigned
