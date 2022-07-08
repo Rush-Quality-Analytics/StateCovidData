@@ -824,3 +824,5 @@
 2933	Oklahoma	US	07/02/2022			3267	969		Unassigned
 2933	Oklahoma	US	07/03/2022			3267	969		Unassigned
 2933	Oklahoma	US	07/04/2022			3267	969		Unassigned
+2933	Oklahoma	US	07/05/2022			6371	969		Unassigned
+2933	Oklahoma	US	07/06/2022			9366	969		Unassigned

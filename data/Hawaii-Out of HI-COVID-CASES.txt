@@ -820,3 +820,5 @@
 1245	Hawaii	US	07/02/2022			7449	12		Out of HI
 1245	Hawaii	US	07/03/2022			7449	12		Out of HI
 1245	Hawaii	US	07/04/2022			7449	12		Out of HI
+1245	Hawaii	US	07/05/2022			7449	12		Out of HI
+1245	Hawaii	US	07/06/2022			7728	12		Out of HI
