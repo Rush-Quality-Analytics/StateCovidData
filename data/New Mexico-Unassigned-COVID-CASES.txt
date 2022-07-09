@@ -825,3 +825,5 @@
 2548	New Mexico	US	07/04/2022			6905	0		Unassigned
 2548	New Mexico	US	07/05/2022			6905	0		Unassigned
 2548	New Mexico	US	07/06/2022			6905	0		Unassigned
+2548	New Mexico	US	07/07/2022			6906	0		Unassigned
+2548	New Mexico	US	07/08/2022			6906	0		Unassigned
