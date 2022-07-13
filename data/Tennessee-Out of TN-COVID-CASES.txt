@@ -840,3 +840,4 @@
 3311	Tennessee	US	07/09/2022			52103	270		Out of TN
 3311	Tennessee	US	07/10/2022			52103	270		Out of TN
 3311	Tennessee	US	07/11/2022			52103	270		Out of TN
+3311	Tennessee	US	07/12/2022			52103	270		Out of TN
