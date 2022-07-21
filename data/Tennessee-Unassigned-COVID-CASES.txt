@@ -848,3 +848,4 @@
 3331	Tennessee	US	07/17/2022			51635	325		Unassigned
 3331	Tennessee	US	07/18/2022			54529	336		Unassigned
 3331	Tennessee	US	07/19/2022			60389	342		Unassigned
+3331	Tennessee	US	07/20/2022			44929	278		Unassigned
