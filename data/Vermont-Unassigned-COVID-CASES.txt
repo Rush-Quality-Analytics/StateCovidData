@@ -846,3 +846,5 @@
 3622	Vermont	US	07/15/2022			2064	4		Unassigned
 3622	Vermont	US	07/16/2022			2064	4		Unassigned
 3622	Vermont	US	07/17/2022			2064	4		Unassigned
+3622	Vermont	US	07/18/2022			2064	4		Unassigned
+3622	Vermont	US	07/19/2022			2064	4		Unassigned

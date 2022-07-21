@@ -840,3 +840,5 @@
 925	California	US	07/15/2022			3933	0		Unassigned
 925	California	US	07/16/2022			3378	1		Unassigned
 925	California	US	07/17/2022			3378	1		Unassigned
+925	California	US	07/18/2022			3378	1		Unassigned
+925	California	US	07/19/2022			3656	0		Unassigned

@@ -841,3 +841,5 @@
 2459	Nebraska	US	07/15/2022			17978	901		Unassigned
 2459	Nebraska	US	07/16/2022			17978	901		Unassigned
 2459	Nebraska	US	07/17/2022			17978	901		Unassigned
+2459	Nebraska	US	07/18/2022			17978	901		Unassigned
+2459	Nebraska	US	07/19/2022			19880	901		Unassigned
