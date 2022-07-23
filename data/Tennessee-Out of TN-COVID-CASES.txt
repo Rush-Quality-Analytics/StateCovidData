@@ -849,3 +849,5 @@
 3311	Tennessee	US	07/18/2022			52622	273		Out of TN
 3311	Tennessee	US	07/19/2022			52622	273		Out of TN
 3311	Tennessee	US	07/20/2022			53367	273		Out of TN
+3311	Tennessee	US	07/21/2022			53367	273		Out of TN
+3311	Tennessee	US	07/22/2022			53367	273		Out of TN
