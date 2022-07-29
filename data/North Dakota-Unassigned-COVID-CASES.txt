@@ -825,12 +825,13 @@
 2765	North Dakota	US	07/16/2022			0	67		Unassigned
 2765	North Dakota	US	07/17/2022			0	67		Unassigned
 2765	North Dakota	US	07/18/2022			0	67		Unassigned
-2765	North Dakota	US	07/19/2022			402	72		Unassigned
-2765	North Dakota	US	07/20/2022			789	72		Unassigned
-2765	North Dakota	US	07/21/2022			1191	72		Unassigned
+2765	North Dakota	US	07/19/2022			0	72		Unassigned
+2765	North Dakota	US	07/20/2022			0	72		Unassigned
+2765	North Dakota	US	07/21/2022			0	72		Unassigned
 2765	North Dakota	US	07/22/2022			0	72		Unassigned
 2765	North Dakota	US	07/23/2022			0	72		Unassigned
 2765	North Dakota	US	07/24/2022			0	72		Unassigned
 2765	North Dakota	US	07/25/2022			0	72		Unassigned
 2765	North Dakota	US	07/26/2022			412	72		Unassigned
 2765	North Dakota	US	07/27/2022			768	75		Unassigned
+2765	North Dakota	US	07/28/2022			1069	75		Unassigned

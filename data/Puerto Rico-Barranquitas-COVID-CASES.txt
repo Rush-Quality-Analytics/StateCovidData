@@ -739,3 +739,4 @@
 3053	Puerto Rico	US	07/25/2022	18.201592	-66.30963	7332	0		Barranquitas
 3053	Puerto Rico	US	07/26/2022	18.201592	-66.30963	7337	0		Barranquitas
 3053	Puerto Rico	US	07/27/2022	18.201592	-66.30963	7341	0		Barranquitas
+3053	Puerto Rico	US	07/28/2022	18.201592	-66.30963	7374	0		Barranquitas
