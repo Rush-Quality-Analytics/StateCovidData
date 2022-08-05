@@ -636,3 +636,6 @@
 786	Arizona	US	07/30/2022			0	0		Out of AZ
 786	Arizona	US	07/31/2022			0	0		Out of AZ
 786	Arizona	US	08/01/2022			0	0		Out of AZ
+786	Arizona	US	08/02/2022			0	0		Out of AZ
+786	Arizona	US	08/03/2022			0	0		Out of AZ
+786	Arizona	US	08/04/2022			0	0		Out of AZ
