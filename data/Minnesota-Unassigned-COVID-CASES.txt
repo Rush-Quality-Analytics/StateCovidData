@@ -860,3 +860,6 @@
 2105	Minnesota	US	08/02/2022			769	340		Unassigned
 2105	Minnesota	US	08/03/2022			769	340		Unassigned
 2105	Minnesota	US	08/04/2022			770	342		Unassigned
+2105	Minnesota	US	08/05/2022			770	342		Unassigned
+2105	Minnesota	US	08/06/2022			770	342		Unassigned
+2105	Minnesota	US	08/07/2022			770	342		Unassigned
