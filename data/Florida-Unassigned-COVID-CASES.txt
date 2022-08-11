@@ -867,3 +867,4 @@
 1072	Florida	US	08/07/2022			25162	482		Unassigned
 1072	Florida	US	08/08/2022			45859	671		Unassigned
 1072	Florida	US	08/09/2022			54152	686		Unassigned
+1072	Florida	US	08/10/2022			62629	298		Unassigned
