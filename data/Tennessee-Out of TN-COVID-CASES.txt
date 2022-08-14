@@ -871,3 +871,5 @@
 3311	Tennessee	US	08/09/2022			55111	275		Out of TN
 3311	Tennessee	US	08/10/2022			55111	275		Out of TN
 3311	Tennessee	US	08/11/2022			55111	275		Out of TN
+3311	Tennessee	US	08/12/2022			55111	275		Out of TN
+3311	Tennessee	US	08/13/2022			55111	275		Out of TN

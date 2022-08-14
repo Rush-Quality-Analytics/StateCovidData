@@ -856,3 +856,5 @@
 1922	Maryland	US	08/09/2022			0	36		Unassigned
 1922	Maryland	US	08/10/2022			0	35		Unassigned
 1922	Maryland	US	08/11/2022			0	34		Unassigned
+1922	Maryland	US	08/12/2022			0	30		Unassigned
+1922	Maryland	US	08/13/2022			0	30		Unassigned
