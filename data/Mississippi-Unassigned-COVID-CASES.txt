@@ -862,3 +862,5 @@
 2187	Mississippi	US	08/15/2022			0	0		Unassigned
 2187	Mississippi	US	08/16/2022			1528	4		Unassigned
 2187	Mississippi	US	08/17/2022			2943	21		Unassigned
+2187	Mississippi	US	08/18/2022			4582	22		Unassigned
+2187	Mississippi	US	08/19/2022			6116	29		Unassigned

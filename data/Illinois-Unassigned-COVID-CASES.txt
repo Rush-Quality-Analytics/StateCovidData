@@ -877,3 +877,5 @@
 1383	Illinois	US	08/15/2022			107	4570		Unassigned
 1383	Illinois	US	08/16/2022			107	4572		Unassigned
 1383	Illinois	US	08/17/2022			107	4581		Unassigned
+1383	Illinois	US	08/18/2022			106	4582		Unassigned
+1383	Illinois	US	08/19/2022			108	4585		Unassigned

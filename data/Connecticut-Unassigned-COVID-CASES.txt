@@ -870,3 +870,5 @@
 1002	Connecticut	US	08/15/2022			2771	0		Unassigned
 1002	Connecticut	US	08/16/2022			2774	1		Unassigned
 1002	Connecticut	US	08/17/2022			2775	1		Unassigned
+1002	Connecticut	US	08/18/2022			2775	1		Unassigned
+1002	Connecticut	US	08/19/2022			2782	1		Unassigned
