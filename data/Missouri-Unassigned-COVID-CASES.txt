@@ -874,4 +874,5 @@
 2307	Missouri	US	08/18/2022			0	0		Unassigned
 2307	Missouri	US	08/19/2022			0	0		Unassigned
 2307	Missouri	US	08/20/2022			0	0		Unassigned
-2307	Missouri	US	08/21/2022			124622	762		Unassigned
+2307	Missouri	US	08/21/2022			0	0		Unassigned
+2307	Missouri	US	08/22/2022			0	0		Unassigned
