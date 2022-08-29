@@ -1,35 +1,35 @@
 	Province/State	Country/Region	date	Lat	Long	Confirmed	Deaths	Recovered	Admin2
-1577	Colorado	US	04/02/2020			0	1	0	Out of CO
-1610	Colorado	US	04/03/2020			0	1	0	Out of CO
-1650	Colorado	US	04/04/2020			0	1	0	Out of CO
-1704	Colorado	US	04/05/2020			0	1	0	Out of CO
-1730	Colorado	US	04/06/2020			0	1	0	Out of CO
-1768	Colorado	US	04/07/2020			0	1	0	Out of CO
-1784	Colorado	US	04/08/2020			0	1	0	Out of CO
-1804	Colorado	US	04/09/2020			0	1	0	Out of CO
-1818	Colorado	US	04/10/2020			0	1	0	Out of CO
-1836	Colorado	US	04/11/2020			0	1	0	Out of CO
-1940	Colorado	US	04/23/2020			0	2	0	Out of CO
-1945	Colorado	US	04/24/2020			0	2	0	Out of CO
-1949	Colorado	US	04/25/2020			0	2	0	Out of CO
-1955	Colorado	US	04/26/2020			0	2	0	Out of CO
-1958	Colorado	US	04/27/2020			0	2	0	Out of CO
-1965	Colorado	US	04/28/2020			0	2	0	Out of CO
-1968	Colorado	US	04/29/2020			0	2	0	Out of CO
-1974	Colorado	US	04/30/2020			0	2	0	Out of CO
-1983	Colorado	US	05/01/2020			0	2	0	Out of CO
-1987	Colorado	US	05/02/2020			0	2	0	Out of CO
-1990	Colorado	US	05/03/2020			0	2	0	Out of CO
-1992	Colorado	US	05/04/2020			0	2	0	Out of CO
-1998	Colorado	US	05/05/2020			0	2	0	Out of CO
-2002	Colorado	US	05/06/2020			0	2	0	Out of CO
-2006	Colorado	US	05/07/2020			0	2	0	Out of CO
-2011	Colorado	US	05/08/2020			0	2	0	Out of CO
-2012	Colorado	US	05/09/2020			0	2	0	Out of CO
-2013	Colorado	US	05/10/2020			0	2	0	Out of CO
-2013	Colorado	US	05/11/2020			0	1	0	Out of CO
-2016	Colorado	US	05/12/2020			0	1	0	Out of CO
-2016	Colorado	US	05/13/2020			0	1	0	Out of CO
+1577	Colorado	US	04/02/2020			0	0	0	Out of CO
+1610	Colorado	US	04/03/2020			0	0	0	Out of CO
+1650	Colorado	US	04/04/2020			0	0	0	Out of CO
+1704	Colorado	US	04/05/2020			0	0	0	Out of CO
+1730	Colorado	US	04/06/2020			0	0	0	Out of CO
+1768	Colorado	US	04/07/2020			0	0	0	Out of CO
+1784	Colorado	US	04/08/2020			0	0	0	Out of CO
+1804	Colorado	US	04/09/2020			0	0	0	Out of CO
+1818	Colorado	US	04/10/2020			0	0	0	Out of CO
+1836	Colorado	US	04/11/2020			0	0	0	Out of CO
+1940	Colorado	US	04/23/2020			0	0	0	Out of CO
+1945	Colorado	US	04/24/2020			0	0	0	Out of CO
+1949	Colorado	US	04/25/2020			0	0	0	Out of CO
+1955	Colorado	US	04/26/2020			0	0	0	Out of CO
+1958	Colorado	US	04/27/2020			0	0	0	Out of CO
+1965	Colorado	US	04/28/2020			0	0	0	Out of CO
+1968	Colorado	US	04/29/2020			0	0	0	Out of CO
+1974	Colorado	US	04/30/2020			0	0	0	Out of CO
+1983	Colorado	US	05/01/2020			0	0	0	Out of CO
+1987	Colorado	US	05/02/2020			0	0	0	Out of CO
+1990	Colorado	US	05/03/2020			0	0	0	Out of CO
+1992	Colorado	US	05/04/2020			0	0	0	Out of CO
+1998	Colorado	US	05/05/2020			0	0	0	Out of CO
+2002	Colorado	US	05/06/2020			0	0	0	Out of CO
+2006	Colorado	US	05/07/2020			0	0	0	Out of CO
+2011	Colorado	US	05/08/2020			0	0	0	Out of CO
+2012	Colorado	US	05/09/2020			0	0	0	Out of CO
+2013	Colorado	US	05/10/2020			0	0	0	Out of CO
+2013	Colorado	US	05/11/2020			0	0	0	Out of CO
+2016	Colorado	US	05/12/2020			0	0	0	Out of CO
+2016	Colorado	US	05/13/2020			0	0	0	Out of CO
 2017	Colorado	US	05/14/2020			0	0	0	Out of CO
 2021	Colorado	US	05/15/2020			0	0	0	Out of CO
 2025	Colorado	US	05/16/2020			0	0	0	Out of CO
@@ -783,3 +783,6 @@
 976	Colorado	US	08/23/2022			0	0		Out of CO
 976	Colorado	US	08/24/2022			0	0		Out of CO
 976	Colorado	US	08/25/2022			0	0		Out of CO
+976	Colorado	US	08/26/2022			0	0		Out of CO
+976	Colorado	US	08/27/2022			0	0		Out of CO
+976	Colorado	US	08/28/2022			0	0		Out of CO
