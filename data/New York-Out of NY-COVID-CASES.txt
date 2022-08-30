@@ -706,3 +706,4 @@
 2590	New York	US	08/26/2022			0	501		Out of NY
 2590	New York	US	08/27/2022			0	501		Out of NY
 2590	New York	US	08/28/2022			0	501		Out of NY
+2590	New York	US	08/29/2022			0	501		Out of NY
