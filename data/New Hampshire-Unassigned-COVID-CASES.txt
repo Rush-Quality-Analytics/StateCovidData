@@ -885,3 +885,8 @@
 2494	New Hampshire	US	08/28/2022			2285	6		Unassigned
 2494	New Hampshire	US	08/29/2022			2280	6		Unassigned
 2494	New Hampshire	US	08/30/2022			2236	6		Unassigned
+2494	New Hampshire	US	08/31/2022			2238	6		Unassigned
+2494	New Hampshire	US	09/01/2022			2174	4		Unassigned
+2494	New Hampshire	US	09/02/2022			2152	4		Unassigned
+2494	New Hampshire	US	09/03/2022			2152	4		Unassigned
+2494	New Hampshire	US	09/04/2022			2152	4		Unassigned

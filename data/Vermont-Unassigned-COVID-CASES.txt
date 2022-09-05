@@ -890,3 +890,8 @@
 3622	Vermont	US	08/28/2022			2320	5		Unassigned
 3622	Vermont	US	08/29/2022			2320	5		Unassigned
 3622	Vermont	US	08/30/2022			2320	5		Unassigned
+3622	Vermont	US	08/31/2022			2355	5		Unassigned
+3622	Vermont	US	09/01/2022			2355	5		Unassigned
+3622	Vermont	US	09/02/2022			2355	5		Unassigned
+3622	Vermont	US	09/03/2022			2355	5		Unassigned
+3622	Vermont	US	09/04/2022			2355	5		Unassigned

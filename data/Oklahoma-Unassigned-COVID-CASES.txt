@@ -881,3 +881,8 @@
 2933	Oklahoma	US	08/28/2022			4004	1974		Unassigned
 2933	Oklahoma	US	08/29/2022			7538	1974		Unassigned
 2933	Oklahoma	US	08/30/2022			10863	1974		Unassigned
+2933	Oklahoma	US	08/31/2022			10863	1974		Unassigned
+2933	Oklahoma	US	09/01/2022			3942	1976		Unassigned
+2933	Oklahoma	US	09/02/2022			3942	1976		Unassigned
+2933	Oklahoma	US	09/03/2022			3942	1976		Unassigned
+2933	Oklahoma	US	09/04/2022			3942	1976		Unassigned
