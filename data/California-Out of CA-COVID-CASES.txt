@@ -353,3 +353,4 @@
 899	California	US	09/02/2022			0	0		Out of CA
 899	California	US	09/03/2022			0	0		Out of CA
 899	California	US	09/04/2022			0	0		Out of CA
+899	California	US	09/05/2022			0	0		Out of CA
