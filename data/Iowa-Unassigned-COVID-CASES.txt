@@ -889,3 +889,5 @@
 1576	Iowa	US	09/03/2022			388	0		Unassigned
 1576	Iowa	US	09/04/2022			388	0		Unassigned
 1576	Iowa	US	09/05/2022			388	0		Unassigned
+1576	Iowa	US	09/06/2022			3157	0		Unassigned
+1576	Iowa	US	09/07/2022			5	0		Unassigned

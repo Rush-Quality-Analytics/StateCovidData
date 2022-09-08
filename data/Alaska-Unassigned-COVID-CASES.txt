@@ -894,3 +894,5 @@
 770	Alaska	US	09/03/2022			1679	0		Unassigned
 770	Alaska	US	09/04/2022			1679	0		Unassigned
 770	Alaska	US	09/05/2022			1679	0		Unassigned
+770	Alaska	US	09/06/2022			1679	0		Unassigned
+770	Alaska	US	09/07/2022			1716	0		Unassigned

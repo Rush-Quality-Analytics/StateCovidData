@@ -714,3 +714,5 @@
 2590	New York	US	09/03/2022			0	502		Out of NY
 2590	New York	US	09/04/2022			0	502		Out of NY
 2590	New York	US	09/05/2022			0	502		Out of NY
+2590	New York	US	09/06/2022			0	503		Out of NY
+2590	New York	US	09/07/2022			0	503		Out of NY

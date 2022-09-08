@@ -878,3 +878,5 @@
 2969	Oregon	US	09/03/2022			1	0		Unassigned
 2969	Oregon	US	09/04/2022			1	0		Unassigned
 2969	Oregon	US	09/05/2022			1	0		Unassigned
+2969	Oregon	US	09/06/2022			1	0		Unassigned
+2969	Oregon	US	09/07/2022			1	0		Unassigned

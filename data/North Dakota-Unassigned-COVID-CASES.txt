@@ -874,3 +874,5 @@
 2765	North Dakota	US	09/03/2022			0	116		Unassigned
 2765	North Dakota	US	09/04/2022			0	116		Unassigned
 2765	North Dakota	US	09/05/2022			0	116		Unassigned
+2765	North Dakota	US	09/06/2022			0	122		Unassigned
+2765	North Dakota	US	09/07/2022			0	122		Unassigned
