@@ -899,3 +899,7 @@
 3795	Washington	US	09/05/2022			3319	6		Unassigned
 3795	Washington	US	09/06/2022			3319	6		Unassigned
 3795	Washington	US	09/07/2022			3309	6		Unassigned
+3795	Washington	US	09/08/2022			3309	6		Unassigned
+3795	Washington	US	09/09/2022			3308	6		Unassigned
+3795	Washington	US	09/10/2022			3308	6		Unassigned
+3795	Washington	US	09/11/2022			3308	6		Unassigned
