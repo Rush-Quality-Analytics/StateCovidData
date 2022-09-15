@@ -900,3 +900,6 @@
 1072	Florida	US	09/09/2022			2962	813		Unassigned
 1072	Florida	US	09/10/2022			2962	813		Unassigned
 1072	Florida	US	09/11/2022			2962	813		Unassigned
+1072	Florida	US	09/12/2022			2962	989		Unassigned
+1075	Florida	US	09/13/2022			2962	533		Unassigned
+1075	Florida	US	09/14/2022			2962	616		Unassigned

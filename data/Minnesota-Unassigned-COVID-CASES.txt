@@ -898,3 +898,6 @@
 2105	Minnesota	US	09/09/2022			794	356		Unassigned
 2105	Minnesota	US	09/10/2022			794	356		Unassigned
 2105	Minnesota	US	09/11/2022			794	356		Unassigned
+2105	Minnesota	US	09/12/2022			794	356		Unassigned
+2108	Minnesota	US	09/13/2022			794	356		Unassigned
+2108	Minnesota	US	09/14/2022			794	356		Unassigned

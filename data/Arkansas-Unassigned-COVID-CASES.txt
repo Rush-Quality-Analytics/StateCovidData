@@ -903,3 +903,6 @@
 862	Arkansas	US	09/09/2022			30915	0		Unassigned
 862	Arkansas	US	09/10/2022			30939	0		Unassigned
 862	Arkansas	US	09/11/2022			30939	0		Unassigned
+862	Arkansas	US	09/12/2022			30965	0		Unassigned
+865	Arkansas	US	09/13/2022			31000	0		Unassigned
+865	Arkansas	US	09/14/2022			31025	0		Unassigned

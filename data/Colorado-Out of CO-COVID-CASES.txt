@@ -800,3 +800,6 @@
 976	Colorado	US	09/09/2022			0	0		Out of CO
 976	Colorado	US	09/10/2022			0	0		Out of CO
 976	Colorado	US	09/11/2022			0	0		Out of CO
+976	Colorado	US	09/12/2022			0	0		Out of CO
+979	Colorado	US	09/13/2022			0	0		Out of CO
+979	Colorado	US	09/14/2022			0	0		Out of CO

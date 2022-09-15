@@ -783,3 +783,6 @@
 1854	Louisiana	US	09/09/2022			0	0		Out of LA
 1854	Louisiana	US	09/10/2022			0	0		Out of LA
 1854	Louisiana	US	09/11/2022			0	0		Out of LA
+1854	Louisiana	US	09/12/2022			0	0		Out of LA
+1857	Louisiana	US	09/13/2022			0	0		Out of LA
+1857	Louisiana	US	09/14/2022			0	0		Out of LA

@@ -881,3 +881,6 @@
 1996	Michigan	US	09/09/2022			40101	177		Michigan Department of Corrections (MDOC)
 1996	Michigan	US	09/10/2022			40101	177		Michigan Department of Corrections (MDOC)
 1996	Michigan	US	09/11/2022			40101	177		Michigan Department of Corrections (MDOC)
+1996	Michigan	US	09/12/2022			40101	177		Michigan Department of Corrections (MDOC)
+1999	Michigan	US	09/13/2022			40234	179		Michigan Department of Corrections (MDOC)
+1999	Michigan	US	09/14/2022			40234	179		Michigan Department of Corrections (MDOC)

@@ -902,3 +902,6 @@
 2012	Michigan	US	09/09/2022			8193	46		Out of MI
 2012	Michigan	US	09/10/2022			8193	46		Out of MI
 2012	Michigan	US	09/11/2022			8193	46		Out of MI
+2012	Michigan	US	09/12/2022			8193	46		Out of MI
+2015	Michigan	US	09/13/2022			8313	46		Out of MI
+2015	Michigan	US	09/14/2022			8313	46		Out of MI
