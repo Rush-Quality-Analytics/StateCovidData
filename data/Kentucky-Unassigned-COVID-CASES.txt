@@ -906,3 +906,7 @@
 1808	Kentucky	US	09/12/2022			2494	0		Unassigned
 1811	Kentucky	US	09/13/2022			2976	24		Unassigned
 1811	Kentucky	US	09/14/2022			4456	38		Unassigned
+1811	Kentucky	US	09/15/2022			5831	52		Unassigned
+1811	Kentucky	US	09/16/2022			8149	64		Unassigned
+1811	Kentucky	US	09/17/2022			8149	64		Unassigned
+1811	Kentucky	US	09/18/2022			8149	64		Unassigned

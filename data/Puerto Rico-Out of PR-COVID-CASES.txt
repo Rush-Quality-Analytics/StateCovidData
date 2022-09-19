@@ -788,3 +788,7 @@
 3099	Puerto Rico	US	09/12/2022			434	0		Out of PR
 3102	Puerto Rico	US	09/13/2022			434	0		Out of PR
 3102	Puerto Rico	US	09/14/2022			434	0		Out of PR
+3102	Puerto Rico	US	09/15/2022			434	0		Out of PR
+3102	Puerto Rico	US	09/16/2022			434	0		Out of PR
+3102	Puerto Rico	US	09/17/2022			434	0		Out of PR
+3102	Puerto Rico	US	09/18/2022			434	0		Out of PR

@@ -899,3 +899,7 @@
 925	California	US	09/12/2022			4392	0		Unassigned
 928	California	US	09/13/2022			4392	0		Unassigned
 928	California	US	09/14/2022			4392	0		Unassigned
+928	California	US	09/15/2022			4362	0		Unassigned
+928	California	US	09/16/2022			4360	0		Unassigned
+928	California	US	09/17/2022			4360	0		Unassigned
+928	California	US	09/18/2022			4360	0		Unassigned

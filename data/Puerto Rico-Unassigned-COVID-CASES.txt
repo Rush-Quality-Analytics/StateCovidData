@@ -788,3 +788,7 @@
 3116	Puerto Rico	US	09/12/2022			31547	5034		Unassigned
 3119	Puerto Rico	US	09/13/2022			31550	5046		Unassigned
 3119	Puerto Rico	US	09/14/2022			31564	5053		Unassigned
+3119	Puerto Rico	US	09/15/2022			31628	5063		Unassigned
+3119	Puerto Rico	US	09/16/2022			31668	5066		Unassigned
+3119	Puerto Rico	US	09/17/2022			31665	5071		Unassigned
+3119	Puerto Rico	US	09/18/2022			31664	5074		Unassigned
