@@ -907,3 +907,6 @@
 773	Alaska	US	09/16/2022			1784	0		Unassigned
 773	Alaska	US	09/17/2022			1784	0		Unassigned
 773	Alaska	US	09/18/2022			1784	0		Unassigned
+773	Alaska	US	09/19/2022			1784	0		Unassigned
+773	Alaska	US	09/20/2022			1784	0		Unassigned
+773	Alaska	US	09/21/2022			1805	0		Unassigned

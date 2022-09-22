@@ -894,3 +894,6 @@
 1925	Maryland	US	09/16/2022			0	40		Unassigned
 1925	Maryland	US	09/17/2022			0	40		Unassigned
 1925	Maryland	US	09/18/2022			0	40		Unassigned
+1925	Maryland	US	09/19/2022			0	39		Unassigned
+1925	Maryland	US	09/20/2022			0	38		Unassigned
+1925	Maryland	US	09/21/2022			0	38		Unassigned

@@ -896,3 +896,6 @@
 1479	Indiana	US	09/16/2022			0	126		Unassigned
 1479	Indiana	US	09/17/2022			0	126		Unassigned
 1479	Indiana	US	09/18/2022			0	126		Unassigned
+1479	Indiana	US	09/19/2022			0	128		Unassigned
+1479	Indiana	US	09/20/2022			0	128		Unassigned
+1479	Indiana	US	09/21/2022			0	127		Unassigned
