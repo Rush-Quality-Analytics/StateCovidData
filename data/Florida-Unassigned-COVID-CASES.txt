@@ -910,3 +910,4 @@
 1075	Florida	US	09/19/2022			2962	918		Unassigned
 1075	Florida	US	09/20/2022			2962	923		Unassigned
 1075	Florida	US	09/21/2022			2962	976		Unassigned
+1075	Florida	US	09/22/2022			2962	1046		Unassigned
