@@ -917,3 +917,5 @@
 3798	Washington	US	09/23/2022			3317	6		Unassigned
 3798	Washington	US	09/24/2022			3317	6		Unassigned
 3798	Washington	US	09/25/2022			3317	6		Unassigned
+3798	Washington	US	09/26/2022			3342	6		Unassigned
+3798	Washington	US	09/27/2022			3342	6		Unassigned
