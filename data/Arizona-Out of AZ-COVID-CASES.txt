@@ -693,3 +693,5 @@
 789	Arizona	US	09/25/2022			0	0		Out of AZ
 789	Arizona	US	09/26/2022			0	0		Out of AZ
 789	Arizona	US	09/27/2022			0	0		Out of AZ
+789	Arizona	US	09/28/2022			0	0		Out of AZ
+789	Arizona	US	09/29/2022			0	0		Out of AZ
