@@ -913,3 +913,7 @@
 1005	Connecticut	US	09/27/2022			2886	6		Unassigned
 1005	Connecticut	US	09/28/2022			2896	7		Unassigned
 1005	Connecticut	US	09/29/2022			2898	7		Unassigned
+1005	Connecticut	US	09/30/2022			2907	7		Unassigned
+1005	Connecticut	US	10/01/2022			2914	7		Unassigned
+1005	Connecticut	US	10/02/2022			2907	7		Unassigned
+1005	Connecticut	US	10/03/2022			2919	7		Unassigned

@@ -912,3 +912,7 @@
 2921	Oklahoma	US	09/27/2022			0	0		Out of OK
 2921	Oklahoma	US	09/28/2022			0	0		Out of OK
 2921	Oklahoma	US	09/29/2022			0	0		Out of OK
+2921	Oklahoma	US	09/30/2022			0	0		Out of OK
+2921	Oklahoma	US	10/01/2022			0	0		Out of OK
+2921	Oklahoma	US	10/02/2022			0	0		Out of OK
+2921	Oklahoma	US	10/03/2022			0	0		Out of OK

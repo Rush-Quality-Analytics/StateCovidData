@@ -889,3 +889,7 @@
 3574	Texas	US	09/27/2022			90725	30		Unassigned
 3574	Texas	US	09/28/2022			90725	30		Unassigned
 3574	Texas	US	09/29/2022			93560	31		Unassigned
+3574	Texas	US	09/30/2022			93602	31		Unassigned
+3574	Texas	US	10/01/2022			93602	31		Unassigned
+3574	Texas	US	10/02/2022			93602	31		Unassigned
+3574	Texas	US	10/03/2022			93673	31		Unassigned

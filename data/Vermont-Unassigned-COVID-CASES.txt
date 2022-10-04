@@ -920,3 +920,7 @@
 3625	Vermont	US	09/27/2022			2466	5		Unassigned
 3625	Vermont	US	09/28/2022			2526	5		Unassigned
 3625	Vermont	US	09/29/2022			2526	5		Unassigned
+3625	Vermont	US	09/30/2022			2526	5		Unassigned
+3625	Vermont	US	10/01/2022			2526	5		Unassigned
+3625	Vermont	US	10/02/2022			2526	5		Unassigned
+3625	Vermont	US	10/03/2022			2526	5		Unassigned
