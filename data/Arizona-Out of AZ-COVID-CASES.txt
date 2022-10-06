@@ -700,3 +700,4 @@
 789	Arizona	US	10/02/2022			0	0		Out of AZ
 789	Arizona	US	10/03/2022			0	0		Out of AZ
 789	Arizona	US	10/04/2022			0	0		Out of AZ
+789	Arizona	US	10/05/2022			0	0		Out of AZ

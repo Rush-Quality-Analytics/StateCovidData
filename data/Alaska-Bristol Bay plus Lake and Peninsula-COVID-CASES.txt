@@ -715,3 +715,4 @@
 752	Alaska	US	10/02/2022	58.62403337	-156.2140589	1198	1		Bristol Bay plus Lake and Peninsula
 752	Alaska	US	10/03/2022	58.62403337	-156.2140589	1198	1		Bristol Bay plus Lake and Peninsula
 752	Alaska	US	10/04/2022	58.62403337	-156.2140589	1198	1		Bristol Bay plus Lake and Peninsula
+752	Alaska	US	10/05/2022	58.62403337	-156.2140589	1209	1		Bristol Bay plus Lake and Peninsula
