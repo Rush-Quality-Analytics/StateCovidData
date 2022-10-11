@@ -927,3 +927,8 @@
 1876	Louisiana	US	10/03/2022			1152	0		Unassigned
 1876	Louisiana	US	10/04/2022			1152	0		Unassigned
 1876	Louisiana	US	10/05/2022			1152	0		Unassigned
+1876	Louisiana	US	10/06/2022			1152	0		Unassigned
+1876	Louisiana	US	10/07/2022			1152	0		Unassigned
+1876	Louisiana	US	10/08/2022			1152	0		Unassigned
+1876	Louisiana	US	10/09/2022			1152	0		Unassigned
+1876	Louisiana	US	10/10/2022			1153	0		Unassigned
