@@ -924,3 +924,4 @@
 1005	Connecticut	US	10/08/2022			2936	8		Unassigned
 1005	Connecticut	US	10/09/2022			2937	8		Unassigned
 1005	Connecticut	US	10/10/2022			2941	8		Unassigned
+1005	Connecticut	US	10/11/2022			2937	8		Unassigned
