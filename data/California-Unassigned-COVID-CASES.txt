@@ -926,3 +926,6 @@
 928	California	US	10/09/2022			4346	0		Unassigned
 928	California	US	10/10/2022			4346	0		Unassigned
 928	California	US	10/11/2022			4346	0		Unassigned
+928	California	US	10/12/2022			4346	0		Unassigned
+928	California	US	10/13/2022			4441	0		Unassigned
+928	California	US	10/14/2022			4435	0		Unassigned

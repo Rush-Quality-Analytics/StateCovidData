@@ -910,3 +910,6 @@
 2768	North Dakota	US	10/09/2022			0	143		Unassigned
 2768	North Dakota	US	10/10/2022			0	143		Unassigned
 2768	North Dakota	US	10/11/2022			0	151		Unassigned
+2768	North Dakota	US	10/12/2022			0	151		Unassigned
+2768	North Dakota	US	10/13/2022			0	151		Unassigned
+2768	North Dakota	US	10/14/2022			0	151		Unassigned
