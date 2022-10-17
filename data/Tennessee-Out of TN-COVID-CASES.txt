@@ -935,3 +935,5 @@
 3314	Tennessee	US	10/12/2022			58412	282		Out of TN
 3314	Tennessee	US	10/13/2022			58412	282		Out of TN
 3314	Tennessee	US	10/14/2022			58412	282		Out of TN
+3314	Tennessee	US	10/15/2022			58412	282		Out of TN
+3314	Tennessee	US	10/16/2022			58412	282		Out of TN

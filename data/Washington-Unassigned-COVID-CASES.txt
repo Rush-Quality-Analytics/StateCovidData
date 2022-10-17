@@ -936,3 +936,5 @@
 3798	Washington	US	10/12/2022			3309	6		Unassigned
 3798	Washington	US	10/13/2022			3309	6		Unassigned
 3798	Washington	US	10/14/2022			3308	6		Unassigned
+3798	Washington	US	10/15/2022			3308	6		Unassigned
+3798	Washington	US	10/16/2022			3308	6		Unassigned
