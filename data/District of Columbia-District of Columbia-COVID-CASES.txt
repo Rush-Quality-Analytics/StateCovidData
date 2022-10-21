@@ -939,3 +939,7 @@
 1012	District of Columbia	US	10/14/2022	38.90417773	-77.01655992	169116	1392		District of Columbia
 1012	District of Columbia	US	10/15/2022	38.90417773	-77.01655992	169116	1392		District of Columbia
 1012	District of Columbia	US	10/16/2022	38.90417773	-77.01655992	169116	1392		District of Columbia
+1012	District of Columbia	US	10/17/2022	38.90417773	-77.01655992	169149	1392		District of Columbia
+1012	District of Columbia	US	10/18/2022	38.90417773	-77.01655992	169149	1392		District of Columbia
+1012	District of Columbia	US	10/19/2022	38.90417773	-77.01655992	169149	1392		District of Columbia
+1012	District of Columbia	US	10/20/2022	38.90417773	-77.01655992	169149	1392		District of Columbia

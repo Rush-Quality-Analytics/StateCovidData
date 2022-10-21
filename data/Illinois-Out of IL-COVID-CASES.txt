@@ -893,3 +893,7 @@
 1366	Illinois	US	10/14/2022			15	0		Out of IL
 1366	Illinois	US	10/15/2022			15	0		Out of IL
 1366	Illinois	US	10/16/2022			15	0		Out of IL
+1366	Illinois	US	10/17/2022			14	0		Out of IL
+1366	Illinois	US	10/18/2022			6	0		Out of IL
+1366	Illinois	US	10/19/2022			10	0		Out of IL
+1366	Illinois	US	10/20/2022			9	0		Out of IL

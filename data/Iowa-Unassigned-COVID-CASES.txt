@@ -930,3 +930,7 @@
 1579	Iowa	US	10/14/2022			131	0		Unassigned
 1579	Iowa	US	10/15/2022			131	0		Unassigned
 1579	Iowa	US	10/16/2022			131	0		Unassigned
+1579	Iowa	US	10/17/2022			665	0		Unassigned
+1579	Iowa	US	10/18/2022			665	0		Unassigned
+1579	Iowa	US	10/19/2022			1	0		Unassigned
+1579	Iowa	US	10/20/2022			1	0		Unassigned

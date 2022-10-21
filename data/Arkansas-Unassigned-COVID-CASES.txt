@@ -938,3 +938,7 @@
 865	Arkansas	US	10/14/2022			31404	0		Unassigned
 865	Arkansas	US	10/15/2022			31413	0		Unassigned
 865	Arkansas	US	10/16/2022			31420	0		Unassigned
+865	Arkansas	US	10/17/2022			31428	0		Unassigned
+865	Arkansas	US	10/18/2022			31436	0		Unassigned
+865	Arkansas	US	10/19/2022			31458	0		Unassigned
+865	Arkansas	US	10/20/2022			31464	0		Unassigned
