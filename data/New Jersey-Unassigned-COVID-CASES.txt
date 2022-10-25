@@ -942,3 +942,7 @@
 2517	New Jersey	US	10/18/2022			2122	0		Unassigned
 2517	New Jersey	US	10/19/2022			2112	0		Unassigned
 2517	New Jersey	US	10/20/2022			2112	0		Unassigned
+2517	New Jersey	US	10/21/2022			2109	0		Unassigned
+2517	New Jersey	US	10/22/2022			2097	0		Unassigned
+2517	New Jersey	US	10/23/2022			2103	0		Unassigned
+2517	New Jersey	US	10/24/2022			5301	0		Unassigned
