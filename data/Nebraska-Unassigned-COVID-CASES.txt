@@ -940,3 +940,8 @@
 2462	Nebraska	US	10/22/2022			16598	1038		Unassigned
 2462	Nebraska	US	10/23/2022			16598	1038		Unassigned
 2462	Nebraska	US	10/24/2022			16598	1038		Unassigned
+2462	Nebraska	US	10/25/2022			16598	1038		Unassigned
+2462	Nebraska	US	10/26/2022			0	0		Unassigned
+2462	Nebraska	US	10/27/2022			0	0		Unassigned
+2462	Nebraska	US	10/28/2022			1390	4		Unassigned
+2462	Nebraska	US	10/29/2022			1390	4		Unassigned
