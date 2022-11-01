@@ -409,3 +409,4 @@
 902	California	US	10/28/2022			0	0		Out of CA
 902	California	US	10/29/2022			0	0		Out of CA
 902	California	US	10/30/2022			0	0		Out of CA
+902	California	US	10/31/2022			0	0		Out of CA

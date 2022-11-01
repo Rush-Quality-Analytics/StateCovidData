@@ -834,3 +834,4 @@
 3119	Puerto Rico	US	10/28/2022			32700	5252		Unassigned
 3119	Puerto Rico	US	10/29/2022			32713	5257		Unassigned
 3119	Puerto Rico	US	10/30/2022			32745	5259		Unassigned
+3119	Puerto Rico	US	10/31/2022			32769	5260		Unassigned
