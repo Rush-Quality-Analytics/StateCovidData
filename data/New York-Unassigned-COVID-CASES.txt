@@ -953,3 +953,4 @@
 2611	New York	US	10/29/2022			927	2		Unassigned
 2611	New York	US	10/30/2022			927	2		Unassigned
 2611	New York	US	10/31/2022			927	2		Unassigned
+2611	New York	US	11/01/2022			926	2		Unassigned
