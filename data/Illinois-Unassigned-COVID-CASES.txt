@@ -953,3 +953,12 @@
 1386	Illinois	US	10/30/2022			76	4747		Unassigned
 1386	Illinois	US	10/31/2022			72	4751		Unassigned
 1386	Illinois	US	11/01/2022			74	4761		Unassigned
+1386	Illinois	US	11/02/2022			76	4763		Unassigned
+1386	Illinois	US	11/03/2022			85	4767		Unassigned
+1386	Illinois	US	11/04/2022			80	4769		Unassigned
+1386	Illinois	US	11/05/2022			80	4769		Unassigned
+1386	Illinois	US	11/06/2022			80	4769		Unassigned
+1386	Illinois	US	11/07/2022			71	4771		Unassigned
+1386	Illinois	US	11/08/2022			71	4771		Unassigned
+1386	Illinois	US	11/09/2022			76	4775		Unassigned
+1386	Illinois	US	11/10/2022			76	4782		Unassigned

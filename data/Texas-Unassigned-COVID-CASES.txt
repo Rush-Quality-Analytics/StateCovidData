@@ -922,3 +922,12 @@
 3574	Texas	US	10/30/2022			94339	32		Unassigned
 3574	Texas	US	10/31/2022			94384	32		Unassigned
 3574	Texas	US	11/01/2022			94384	32		Unassigned
+3574	Texas	US	11/02/2022			94435	32		Unassigned
+3574	Texas	US	11/03/2022			94435	32		Unassigned
+3574	Texas	US	11/04/2022			94500	32		Unassigned
+3574	Texas	US	11/05/2022			94500	32		Unassigned
+3574	Texas	US	11/06/2022			94500	32		Unassigned
+3574	Texas	US	11/07/2022			94559	32		Unassigned
+3574	Texas	US	11/08/2022			94559	32		Unassigned
+3574	Texas	US	11/09/2022			94624	32		Unassigned
+3574	Texas	US	11/10/2022			94624	32		Unassigned
