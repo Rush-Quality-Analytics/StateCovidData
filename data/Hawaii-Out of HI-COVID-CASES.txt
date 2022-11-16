@@ -949,3 +949,7 @@
 1248	Hawaii	US	11/08/2022			8757	12		Out of HI
 1248	Hawaii	US	11/09/2022			8829	12		Out of HI
 1248	Hawaii	US	11/10/2022			8829	12		Out of HI
+1248	Hawaii	US	11/11/2022			8829	12		Out of HI
+1248	Hawaii	US	11/12/2022			8829	12		Out of HI
+1248	Hawaii	US	11/13/2022			8829	12		Out of HI
+1248	Hawaii	US	11/14/2022			8829	12		Out of HI

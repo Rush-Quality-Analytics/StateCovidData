@@ -963,3 +963,7 @@
 3798	Washington	US	11/08/2022			3308	6		Unassigned
 3798	Washington	US	11/09/2022			3304	6		Unassigned
 3798	Washington	US	11/10/2022			3304	6		Unassigned
+3798	Washington	US	11/11/2022			3304	6		Unassigned
+3798	Washington	US	11/12/2022			3304	6		Unassigned
+3798	Washington	US	11/13/2022			3304	6		Unassigned
+3798	Washington	US	11/14/2022			3304	6		Unassigned

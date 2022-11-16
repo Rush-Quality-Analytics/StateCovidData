@@ -780,3 +780,7 @@
 2593	New York	US	11/08/2022			0	527		Out of NY
 2593	New York	US	11/09/2022			0	527		Out of NY
 2593	New York	US	11/10/2022			0	527		Out of NY
+2593	New York	US	11/11/2022			0	527		Out of NY
+2593	New York	US	11/12/2022			0	527		Out of NY
+2593	New York	US	11/13/2022			0	527		Out of NY
+2593	New York	US	11/14/2022			0	527		Out of NY
