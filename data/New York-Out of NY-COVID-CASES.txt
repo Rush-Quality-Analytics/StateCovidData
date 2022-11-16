@@ -784,3 +784,4 @@
 2593	New York	US	11/12/2022			0	527		Out of NY
 2593	New York	US	11/13/2022			0	527		Out of NY
 2593	New York	US	11/14/2022			0	527		Out of NY
+2593	New York	US	11/15/2022			0	530		Out of NY
