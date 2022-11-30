@@ -959,3 +959,16 @@
 1010	Delaware	US	11/13/2022			1101	0		Unassigned
 1010	Delaware	US	11/14/2022			1103	0		Unassigned
 1010	Delaware	US	11/15/2022			1101	0		Unassigned
+1010	Delaware	US	11/16/2022			1104	0		Unassigned
+1010	Delaware	US	11/17/2022			1104	0		Unassigned
+1010	Delaware	US	11/18/2022			1105	0		Unassigned
+1010	Delaware	US	11/19/2022			1105	0		Unassigned
+1010	Delaware	US	11/20/2022			1105	0		Unassigned
+1010	Delaware	US	11/21/2022			1108	0		Unassigned
+1010	Delaware	US	11/22/2022			1109	0		Unassigned
+1010	Delaware	US	11/23/2022			1110	0		Unassigned
+1010	Delaware	US	11/24/2022			1110	0		Unassigned
+1010	Delaware	US	11/25/2022			1110	0		Unassigned
+1010	Delaware	US	11/26/2022			1110	0		Unassigned
+1010	Delaware	US	11/27/2022			1110	0		Unassigned
+1010	Delaware	US	11/28/2022			1113	0		Unassigned
