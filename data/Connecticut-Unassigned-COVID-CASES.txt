@@ -973,3 +973,17 @@
 1005	Connecticut	US	11/26/2022			3022	8		Unassigned
 1005	Connecticut	US	11/27/2022			3021	8		Unassigned
 1005	Connecticut	US	11/28/2022			3022	8		Unassigned
+1005	Connecticut	US	11/29/2022			3024	8		Unassigned
+1005	Connecticut	US	11/30/2022			3028	8		Unassigned
+1005	Connecticut	US	12/01/2022			3029	8		Unassigned
+1005	Connecticut	US	12/02/2022			3033	8		Unassigned
+1005	Connecticut	US	12/03/2022			3034	8		Unassigned
+1005	Connecticut	US	12/04/2022			3031	8		Unassigned
+1005	Connecticut	US	12/05/2022			3039	8		Unassigned
+1005	Connecticut	US	12/06/2022			3035	8		Unassigned
+1005	Connecticut	US	12/07/2022			3040	8		Unassigned
+1005	Connecticut	US	12/08/2022			3045	8		Unassigned
+1005	Connecticut	US	12/09/2022			3040	8		Unassigned
+1005	Connecticut	US	12/10/2022			3047	8		Unassigned
+1005	Connecticut	US	12/11/2022			3047	8		Unassigned
+1005	Connecticut	US	12/12/2022			3045	8		Unassigned

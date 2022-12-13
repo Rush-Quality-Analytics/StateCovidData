@@ -975,3 +975,17 @@
 2497	New Hampshire	US	11/26/2022			2087	5		Unassigned
 2497	New Hampshire	US	11/27/2022			2087	5		Unassigned
 2497	New Hampshire	US	11/28/2022			2119	6		Unassigned
+2497	New Hampshire	US	11/29/2022			2123	6		Unassigned
+2497	New Hampshire	US	11/30/2022			2109	6		Unassigned
+2497	New Hampshire	US	12/01/2022			2064	6		Unassigned
+2497	New Hampshire	US	12/02/2022			2076	6		Unassigned
+2497	New Hampshire	US	12/03/2022			2076	6		Unassigned
+2497	New Hampshire	US	12/04/2022			2076	6		Unassigned
+2497	New Hampshire	US	12/05/2022			2050	6		Unassigned
+2497	New Hampshire	US	12/06/2022			2060	6		Unassigned
+2497	New Hampshire	US	12/07/2022			2081	6		Unassigned
+2497	New Hampshire	US	12/08/2022			2047	6		Unassigned
+2497	New Hampshire	US	12/09/2022			2032	6		Unassigned
+2497	New Hampshire	US	12/10/2022			2032	6		Unassigned
+2497	New Hampshire	US	12/11/2022			2032	6		Unassigned
+2497	New Hampshire	US	12/12/2022			2063	6		Unassigned
