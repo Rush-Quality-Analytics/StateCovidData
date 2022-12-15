@@ -995,3 +995,5 @@
 1932	Massachusetts	US	12/10/2022	41.40674725	-70.68763497	8064	23		Dukes and Nantucket
 1932	Massachusetts	US	12/11/2022	41.40674725	-70.68763497	8064	23		Dukes and Nantucket
 1932	Massachusetts	US	12/12/2022	41.40674725	-70.68763497	8064	23		Dukes and Nantucket
+1932	Massachusetts	US	12/13/2022	41.40674725	-70.68763497	8064	23		Dukes and Nantucket
+1932	Massachusetts	US	12/14/2022	41.40674725	-70.68763497	8064	23		Dukes and Nantucket
