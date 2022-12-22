@@ -997,3 +997,10 @@
 865	Arkansas	US	12/12/2022			32225	0		Unassigned
 865	Arkansas	US	12/13/2022			32259	0		Unassigned
 865	Arkansas	US	12/14/2022			32283	0		Unassigned
+865	Arkansas	US	12/15/2022			32311	0		Unassigned
+865	Arkansas	US	12/16/2022			32342	0		Unassigned
+865	Arkansas	US	12/17/2022			32359	0		Unassigned
+865	Arkansas	US	12/18/2022			32366	0		Unassigned
+865	Arkansas	US	12/19/2022			32375	0		Unassigned
+865	Arkansas	US	12/20/2022			32413	0		Unassigned
+865	Arkansas	US	12/21/2022			32451	0		Unassigned

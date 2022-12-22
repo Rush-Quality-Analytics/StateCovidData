@@ -998,3 +998,10 @@
 1012	District of Columbia	US	12/12/2022	38.90417773	-77.01655992	172044	1407		District of Columbia
 1012	District of Columbia	US	12/13/2022	38.90417773	-77.01655992	172044	1407		District of Columbia
 1012	District of Columbia	US	12/14/2022	38.90417773	-77.01655992	172044	1407		District of Columbia
+1012	District of Columbia	US	12/15/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/16/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/17/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/18/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/19/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/20/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
+1012	District of Columbia	US	12/21/2022	38.90417773	-77.01655992	172626	1407		District of Columbia
