@@ -995,3 +995,5 @@
 2936	Oklahoma	US	12/20/2022			109	1987		Unassigned
 2936	Oklahoma	US	12/21/2022			109	1987		Unassigned
 2936	Oklahoma	US	12/22/2022			109	2009		Unassigned
+2936	Oklahoma	US	12/23/2022			109	2009		Unassigned
+2936	Oklahoma	US	12/24/2022			109	2009		Unassigned
