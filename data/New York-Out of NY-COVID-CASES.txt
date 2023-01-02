@@ -825,3 +825,10 @@
 2593	New York	US	12/23/2022			0	540		Out of NY
 2593	New York	US	12/24/2022			0	540		Out of NY
 2593	New York	US	12/25/2022			0	540		Out of NY
+2593	New York	US	12/26/2022			0	540		Out of NY
+2593	New York	US	12/27/2022			0	540		Out of NY
+2593	New York	US	12/28/2022			0	543		Out of NY
+2593	New York	US	12/29/2022			0	543		Out of NY
+2593	New York	US	12/30/2022			0	543		Out of NY
+2593	New York	US	12/31/2022			0	543		Out of NY
+2593	New York	US	01/01/2023			0	543		Out of NY

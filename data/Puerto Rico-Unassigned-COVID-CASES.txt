@@ -890,3 +890,10 @@
 3119	Puerto Rico	US	12/23/2022			26124	5502		Unassigned
 3119	Puerto Rico	US	12/24/2022			26149	5506		Unassigned
 3119	Puerto Rico	US	12/25/2022			26149	5506		Unassigned
+3119	Puerto Rico	US	12/26/2022			26149	5506		Unassigned
+3119	Puerto Rico	US	12/27/2022			26229	5509		Unassigned
+3119	Puerto Rico	US	12/28/2022			26262	5519		Unassigned
+3119	Puerto Rico	US	12/29/2022			24974	5530		Unassigned
+3119	Puerto Rico	US	12/30/2022			25021	5535		Unassigned
+3119	Puerto Rico	US	12/31/2022			25061	5541		Unassigned
+3119	Puerto Rico	US	01/01/2023			25061	5541		Unassigned
