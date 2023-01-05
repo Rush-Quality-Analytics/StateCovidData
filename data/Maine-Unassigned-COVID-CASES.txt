@@ -1014,3 +1014,5 @@
 1900	Maine	US	12/30/2022			1	0		Unassigned
 1900	Maine	US	12/31/2022			5	0		Unassigned
 1900	Maine	US	01/01/2023			5	0		Unassigned
+1900	Maine	US	01/02/2023			5	0		Unassigned
+1900	Maine	US	01/03/2023			5	0		Unassigned

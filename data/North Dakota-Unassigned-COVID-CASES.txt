@@ -992,3 +992,5 @@
 2768	North Dakota	US	12/30/2022			0	195		Unassigned
 2768	North Dakota	US	12/31/2022			0	195		Unassigned
 2768	North Dakota	US	01/01/2023			0	195		Unassigned
+2768	North Dakota	US	01/02/2023			0	195		Unassigned
+2768	North Dakota	US	01/03/2023			0	195		Unassigned

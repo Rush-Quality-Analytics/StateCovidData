@@ -1014,3 +1014,5 @@
 3625	Vermont	US	12/30/2022			2981	12		Unassigned
 3625	Vermont	US	12/31/2022			2981	12		Unassigned
 3625	Vermont	US	01/01/2023			2981	12		Unassigned
+3625	Vermont	US	01/02/2023			2981	12		Unassigned
+3625	Vermont	US	01/03/2023			2981	12		Unassigned

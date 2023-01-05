@@ -1015,3 +1015,5 @@
 1811	Kentucky	US	12/30/2022			2504	1		Unassigned
 1811	Kentucky	US	12/31/2022			2504	1		Unassigned
 1811	Kentucky	US	01/01/2023			2504	1		Unassigned
+1811	Kentucky	US	01/02/2023			2504	1		Unassigned
+1811	Kentucky	US	01/03/2023			2504	0		Unassigned

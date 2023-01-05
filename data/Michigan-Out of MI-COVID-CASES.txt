@@ -1014,3 +1014,5 @@
 2015	Michigan	US	12/30/2022			9150	52		Out of MI
 2015	Michigan	US	12/31/2022			9150	52		Out of MI
 2015	Michigan	US	01/01/2023			9150	52		Out of MI
+2015	Michigan	US	01/02/2023			9150	52		Out of MI
+2015	Michigan	US	01/03/2023			9223	52		Out of MI

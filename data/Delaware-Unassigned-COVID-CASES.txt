@@ -1006,3 +1006,5 @@
 1010	Delaware	US	12/30/2022			1122	0		Unassigned
 1010	Delaware	US	12/31/2022			1122	0		Unassigned
 1010	Delaware	US	01/01/2023			1122	0		Unassigned
+1010	Delaware	US	01/02/2023			1122	0		Unassigned
+1010	Delaware	US	01/03/2023			1122	0		Unassigned

@@ -1015,3 +1015,5 @@
 3132	Rhode Island	US	12/30/2022			29535	2		Unassigned
 3132	Rhode Island	US	12/31/2022			29535	2		Unassigned
 3132	Rhode Island	US	01/01/2023			29535	2		Unassigned
+3132	Rhode Island	US	01/02/2023			29535	2		Unassigned
+3132	Rhode Island	US	01/03/2023			29535	2		Unassigned
