@@ -1011,3 +1011,10 @@
 2497	New Hampshire	US	01/01/2023			2182	7		Unassigned
 2497	New Hampshire	US	01/02/2023			2182	7		Unassigned
 2497	New Hampshire	US	01/03/2023			2238	7		Unassigned
+2497	New Hampshire	US	01/04/2023			2248	7		Unassigned
+2497	New Hampshire	US	01/05/2023			2270	7		Unassigned
+2497	New Hampshire	US	01/06/2023			2228	7		Unassigned
+2497	New Hampshire	US	01/07/2023			2228	7		Unassigned
+2497	New Hampshire	US	01/08/2023			2228	7		Unassigned
+2497	New Hampshire	US	01/09/2023			2198	7		Unassigned
+2497	New Hampshire	US	01/10/2023			2213	7		Unassigned
