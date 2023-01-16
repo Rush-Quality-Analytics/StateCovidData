@@ -813,3 +813,7 @@
 752	Alaska	US	01/08/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
 752	Alaska	US	01/09/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
 752	Alaska	US	01/10/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
+752	Alaska	US	01/11/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
+752	Alaska	US	01/12/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
+752	Alaska	US	01/13/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula
+752	Alaska	US	01/14/2023	58.62403337	-156.2140589	1224	1		Bristol Bay plus Lake and Peninsula

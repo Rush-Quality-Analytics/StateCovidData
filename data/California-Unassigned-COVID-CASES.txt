@@ -1017,3 +1017,7 @@
 928	California	US	01/08/2023			4557	0		Unassigned
 928	California	US	01/09/2023			4557	0		Unassigned
 928	California	US	01/10/2023			4557	0		Unassigned
+928	California	US	01/11/2023			4557	0		Unassigned
+928	California	US	01/12/2023			4495	0		Unassigned
+928	California	US	01/13/2023			4493	0		Unassigned
+928	California	US	01/14/2023			4493	0		Unassigned

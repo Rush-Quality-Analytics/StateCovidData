@@ -1023,3 +1023,7 @@
 1900	Maine	US	01/08/2023			1	0		Unassigned
 1900	Maine	US	01/09/2023			1	0		Unassigned
 1900	Maine	US	01/10/2023			5	0		Unassigned
+1900	Maine	US	01/11/2023			6	0		Unassigned
+1900	Maine	US	01/12/2023			10	0		Unassigned
+1900	Maine	US	01/13/2023			9	0		Unassigned
+1900	Maine	US	01/14/2023			6	0		Unassigned
