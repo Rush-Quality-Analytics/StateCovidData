@@ -935,3 +935,4 @@
 748	Alaska	US	01/18/2023	52.3233	-174.1596	1907	3		Aleutians West
 748	Alaska	US	01/19/2023	52.3233	-174.1596	1907	3		Aleutians West
 748	Alaska	US	01/20/2023	52.3233	-174.1596	1907	3		Aleutians West
+748	Alaska	US	01/21/2023	52.3233	-174.1596	1907	3		Aleutians West

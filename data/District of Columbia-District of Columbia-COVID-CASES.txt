@@ -1035,3 +1035,4 @@
 1012	District of Columbia	US	01/18/2023	38.90417773	-77.01655992	175014	1415		District of Columbia
 1012	District of Columbia	US	01/19/2023	38.90417773	-77.01655992	175569	1421		District of Columbia
 1012	District of Columbia	US	01/20/2023	38.90417773	-77.01655992	175569	1421		District of Columbia
+1012	District of Columbia	US	01/21/2023	38.90417773	-77.01655992	175569	1421		District of Columbia
