@@ -1028,3 +1028,8 @@
 928	California	US	01/19/2023			4427	0		Unassigned
 928	California	US	01/20/2023			4423	0		Unassigned
 928	California	US	01/21/2023			4423	0		Unassigned
+928	California	US	01/22/2023			4423	0		Unassigned
+928	California	US	01/23/2023			4423	0		Unassigned
+928	California	US	01/24/2023			4423	0		Unassigned
+928	California	US	01/25/2023			4423	0		Unassigned
+928	California	US	01/26/2023			4380	0		Unassigned

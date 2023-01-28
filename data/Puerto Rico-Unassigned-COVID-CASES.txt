@@ -917,3 +917,8 @@
 3119	Puerto Rico	US	01/19/2023			25605	5631		Unassigned
 3119	Puerto Rico	US	01/20/2023			25627	5636		Unassigned
 3119	Puerto Rico	US	01/21/2023			25685	5642		Unassigned
+3119	Puerto Rico	US	01/22/2023			25705	5642		Unassigned
+3119	Puerto Rico	US	01/23/2023			25717	5642		Unassigned
+3119	Puerto Rico	US	01/24/2023			25716	5653		Unassigned
+3119	Puerto Rico	US	01/25/2023			25767	5666		Unassigned
+3119	Puerto Rico	US	01/26/2023			25796	5674		Unassigned

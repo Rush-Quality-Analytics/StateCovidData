@@ -1035,3 +1035,8 @@
 994	Colorado	US	01/19/2023			244	6		Unassigned
 994	Colorado	US	01/20/2023			244	6		Unassigned
 994	Colorado	US	01/21/2023			244	6		Unassigned
+994	Colorado	US	01/22/2023			244	6		Unassigned
+994	Colorado	US	01/23/2023			245	2		Unassigned
+994	Colorado	US	01/24/2023			245	2		Unassigned
+994	Colorado	US	01/25/2023			245	8		Unassigned
+994	Colorado	US	01/26/2023			245	8		Unassigned
