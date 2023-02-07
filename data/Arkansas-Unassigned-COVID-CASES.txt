@@ -1040,3 +1040,14 @@
 865	Arkansas	US	01/24/2023			33118	0		Unassigned
 865	Arkansas	US	01/25/2023			33118	0		Unassigned
 865	Arkansas	US	01/26/2023			33153	0		Unassigned
+865	Arkansas	US	01/27/2023			33167	0		Unassigned
+865	Arkansas	US	01/28/2023			33184	0		Unassigned
+865	Arkansas	US	01/29/2023			33192	0		Unassigned
+865	Arkansas	US	01/30/2023			33195	0		Unassigned
+865	Arkansas	US	01/31/2023			33206	0		Unassigned
+865	Arkansas	US	02/01/2023			33211	0		Unassigned
+865	Arkansas	US	02/02/2023			33213	0		Unassigned
+865	Arkansas	US	02/03/2023			33231	0		Unassigned
+865	Arkansas	US	02/04/2023			33240	0		Unassigned
+865	Arkansas	US	02/05/2023			33243	0		Unassigned
+865	Arkansas	US	02/06/2023			33244	0		Unassigned

@@ -1037,3 +1037,14 @@
 1075	Florida	US	01/24/2023			3270	757		Unassigned
 1075	Florida	US	01/25/2023			3270	757		Unassigned
 1075	Florida	US	01/26/2023			3270	757		Unassigned
+1075	Florida	US	01/27/2023			3270	757		Unassigned
+1075	Florida	US	01/28/2023			3270	757		Unassigned
+1075	Florida	US	01/29/2023			3270	757		Unassigned
+1075	Florida	US	01/30/2023			3270	757		Unassigned
+1075	Florida	US	01/31/2023			3270	757		Unassigned
+1075	Florida	US	02/01/2023			3270	757		Unassigned
+1075	Florida	US	02/02/2023			24332	1200		Unassigned
+1075	Florida	US	02/03/2023			3273	1540		Unassigned
+1075	Florida	US	02/04/2023			3273	1540		Unassigned
+1075	Florida	US	02/05/2023			3273	1540		Unassigned
+1075	Florida	US	02/06/2023			3273	1540		Unassigned
