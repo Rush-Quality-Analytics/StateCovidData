@@ -1053,3 +1053,9 @@
 1012	District of Columbia	US	02/05/2023	38.90417773	-77.01655992	176425	1422		District of Columbia
 1012	District of Columbia	US	02/06/2023	38.90417773	-77.01655992	176425	1422		District of Columbia
 1012	District of Columbia	US	02/07/2023	38.90417773	-77.01655992	176425	1422		District of Columbia
+1012	District of Columbia	US	02/08/2023	38.90417773	-77.01655992	176425	1422		District of Columbia
+1012	District of Columbia	US	02/09/2023	38.90417773	-77.01655992	176845	1425		District of Columbia
+1012	District of Columbia	US	02/10/2023	38.90417773	-77.01655992	176845	1425		District of Columbia
+1012	District of Columbia	US	02/11/2023	38.90417773	-77.01655992	176845	1425		District of Columbia
+1012	District of Columbia	US	02/12/2023	38.90417773	-77.01655992	176845	1425		District of Columbia
+1012	District of Columbia	US	02/13/2023	38.90417773	-77.01655992	176845	1425		District of Columbia

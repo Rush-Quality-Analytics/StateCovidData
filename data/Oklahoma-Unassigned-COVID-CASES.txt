@@ -1042,3 +1042,9 @@
 2936	Oklahoma	US	02/05/2023			152	2141		Unassigned
 2936	Oklahoma	US	02/06/2023			152	2141		Unassigned
 2936	Oklahoma	US	02/07/2023			152	2141		Unassigned
+2936	Oklahoma	US	02/08/2023			152	2141		Unassigned
+2936	Oklahoma	US	02/09/2023			153	2157		Unassigned
+2936	Oklahoma	US	02/10/2023			153	2157		Unassigned
+2936	Oklahoma	US	02/11/2023			153	2157		Unassigned
+2936	Oklahoma	US	02/12/2023			153	2157		Unassigned
+2936	Oklahoma	US	02/13/2023			153	2157		Unassigned
