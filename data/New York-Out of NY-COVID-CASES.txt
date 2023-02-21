@@ -875,3 +875,10 @@
 2593	New York	US	02/11/2023			0	555		Out of NY
 2593	New York	US	02/12/2023			0	555		Out of NY
 2593	New York	US	02/13/2023			0	555		Out of NY
+2593	New York	US	02/14/2023			0	557		Out of NY
+2593	New York	US	02/15/2023			0	558		Out of NY
+2593	New York	US	02/16/2023			0	558		Out of NY
+2593	New York	US	02/17/2023			0	558		Out of NY
+2593	New York	US	02/18/2023			0	558		Out of NY
+2593	New York	US	02/19/2023			0	558		Out of NY
+2593	New York	US	02/20/2023			0	558		Out of NY
