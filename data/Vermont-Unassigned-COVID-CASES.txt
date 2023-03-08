@@ -1077,3 +1077,5 @@
 3625	Vermont	US	03/03/2023			3304	21		Unassigned
 3625	Vermont	US	03/04/2023			3304	21		Unassigned
 3625	Vermont	US	03/05/2023			3304	21		Unassigned
+3625	Vermont	US	03/06/2023			3304	21		Unassigned
+3625	Vermont	US	03/07/2023			3304	21		Unassigned

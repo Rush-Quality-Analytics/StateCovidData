@@ -960,3 +960,5 @@
 3102	Puerto Rico	US	03/03/2023			434	0		Out of PR
 3102	Puerto Rico	US	03/04/2023			434	0		Out of PR
 3102	Puerto Rico	US	03/05/2023			434	0		Out of PR
+3102	Puerto Rico	US	03/06/2023			434	0		Out of PR
+3102	Puerto Rico	US	03/07/2023			434	0		Out of PR

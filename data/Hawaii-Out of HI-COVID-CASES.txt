@@ -1064,3 +1064,5 @@
 1248	Hawaii	US	03/03/2023			9152	14		Out of HI
 1248	Hawaii	US	03/04/2023			9152	14		Out of HI
 1248	Hawaii	US	03/05/2023			9152	14		Out of HI
+1248	Hawaii	US	03/06/2023			9152	14		Out of HI
+1248	Hawaii	US	03/07/2023			9152	14		Out of HI
