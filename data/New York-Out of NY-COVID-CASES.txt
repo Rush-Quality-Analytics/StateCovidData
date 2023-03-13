@@ -897,3 +897,5 @@
 2593	New York	US	03/05/2023			0	562		Out of NY
 2593	New York	US	03/06/2023			0	562		Out of NY
 2593	New York	US	03/07/2023			0	563		Out of NY
+2593	New York	US	03/08/2023			0	563		Out of NY
+2593	New York	US	03/09/2023			0	563		Out of NY

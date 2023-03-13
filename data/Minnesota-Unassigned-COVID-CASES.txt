@@ -1075,3 +1075,5 @@
 2108	Minnesota	US	03/05/2023			926	419		Unassigned
 2108	Minnesota	US	03/06/2023			926	419		Unassigned
 2108	Minnesota	US	03/07/2023			926	419		Unassigned
+2108	Minnesota	US	03/08/2023			926	419		Unassigned
+2108	Minnesota	US	03/09/2023			896	421		Unassigned

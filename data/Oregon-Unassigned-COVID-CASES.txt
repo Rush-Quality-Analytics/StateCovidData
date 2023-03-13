@@ -1061,3 +1061,5 @@
 2972	Oregon	US	03/05/2023			4	0		Unassigned
 2972	Oregon	US	03/06/2023			4	0		Unassigned
 2972	Oregon	US	03/07/2023			4	0		Unassigned
+2972	Oregon	US	03/08/2023			3	0		Unassigned
+2972	Oregon	US	03/09/2023			3	0		Unassigned
